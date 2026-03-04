@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Keyboard Haptic Feedback Settings Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - Haptic Feedback Setting Adjustment
+      - Haptic Feedback Setting
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: device_type
+      label: device_type
+      hint: null
+      type: select_multiple
+      options:
+      - Desktop
+      - Laptop
+      - Tablet
+      - Smartphone
+      required: false
+    - id: 4
+      name: keyboard_model
+      label: keyboard_model
+      hint: null
+      type: select_one
+      options:
+      - Model 1
+      - Model 2
+      - Model 3
+      required: false
+    - id: 5
+      name: keyboard_version
+      label: keyboard_version
+      hint: null
+      type: select_one
+      options:
+      - V1
+      - V2
+      - V3
+      required: false
+    - id: 6
+      name: issue
+      label: issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expected_behavior
+      label: expected_behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: actual_behavior
+      label: actual_behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requested_setting
+      label: requested_setting
+      hint: null
+      type: select_one
+      options:
+      - Haptic Feedback Setting 1
+      - Haptic Feedback Setting 2
+      - Haptic Feedback Setting 3
+      required: false
+    - id: 11
+      name: adjustment_request
+      label: adjustment_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: assignee
+      label: Assignee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assignee_email
+      label: Assignee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: assignee_phone
+      label: Assignee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assignee_department
+      label: Assignee Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assignee_position
+      label: Assignee Position
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hostile Network Investigation Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_summary
+      label: Incident Summary
+      hint: Provide a brief description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_time_zone
+      label: Time Zone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - New York City
+      - Chicago
+      - London
+      required: false
+    - id: 7
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Network
+      - Device
+      - User
+      - Application
+      required: false
+    - id: 8
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: select_one
+      options:
+      - Alice
+      - Bob
+      - Charlie
+      required: false
+    - id: 10
+      name: incident_reporter_notes
+      label: Incident Reporter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: security_team
+      label: Security Team
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Mary
+      - Dave
+      required: false
+    - id: 12
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 13
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 17
+      name: investigation_notes
+      label: Investigation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: report_form_attachment
+      label: Attach File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: process-optimization-result-report-form
+    pages:
+    - id: 1
+      name: process_improvements
+      label: Process Improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: key_performance_indicators
+      label: KPIs
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: target_metric
+      label: Target Metric
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: current_metric
+      label: Current Metric
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: improvement_plan
+      label: Improvement Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 7
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 9
+      name: actual_outcome
+      label: Actual Outcome
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 10
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false

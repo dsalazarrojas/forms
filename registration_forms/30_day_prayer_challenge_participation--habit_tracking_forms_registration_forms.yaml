@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 30 Day Prayer Challenge Participation
+    pages:
+    - id: 1
+      name: header_welcome
+      label: '--- Welcome to the 30-Day Prayer Challenge ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll send daily prayer prompts here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional - for important updates only
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - Over 65
+      required: false
+    - id: 6
+      name: church_affiliation
+      label: Church or ministry affiliation
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prayer_experience
+      label: Current prayer practice level
+      hint: null
+      type: select_one
+      options:
+      - Just starting
+      - Few times a week
+      - Daily prayer
+      - Extended prayer periods
+      - Leading others in prayer
+      required: true
+    - id: 8
+      name: prayer_focus
+      label: Primary prayer focus during challenge
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personal spiritual growth
+      - Family concerns
+      - Community healing
+      - Global issues
+      - Healing for others
+      - Guidance for decisions
+      - Gratitude practice
+      required: false
+    - id: 9
+      name: daily_time_commitment
+      label: How much time can you dedicate daily?
+      hint: null
+      type: select_one
+      options:
+      - 5-10 minutes
+      - 10-20 minutes
+      - 20-30 minutes
+      - 30+ minutes
+      required: true
+    - id: 10
+      name: notification_preference
+      label: Preferred daily reminder method
+      hint: null
+      type: select_one
+      options:
+      - Email only
+      - SMS only
+      - Both email and SMS
+      - No reminders needed
+      required: true
+    - id: 11
+      name: accountability_partner
+      label: Will you participate with an accountability partner?
+      hint: null
+      type: select_one
+      options:
+      - Yes, already arranged
+      - Yes, need to find one
+      - No, participating alone
+      - No, joining a group
+      required: true
+    - id: 12
+      name: prayer_language
+      label: Preferred prayer language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special prayer requests for the group
+      hint: Anonymous sharing encouraged
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: how_heard
+      label: How did you hear about this challenge?
+      hint: null
+      type: select_one
+      options:
+      - Church announcement
+      - Social media
+      - Friend recommendation
+      - Website
+      - Newsletter
+      - Other
+      required: false
+    - id: 15
+      name: previous_participation
+      label: Have you participated in similar challenges before?
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once before
+      - No, first time
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Any accessibility needs or accommodations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: prayer_resources
+      label: Which prayer resources do you typically use?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bible
+      - Devotional books
+      - Prayer apps
+      - Music/worship
+      - Journaling
+      - Meditation guides
+      - None regularly
+      required: false
+    - id: 18
+      name: commitment_agreement
+      label: I commit to participating faithfully for 30 days
+      hint: null
+      type: select_one
+      options:
+      - Yes, I commit
+      - I will try my best
+      - Need flexibility
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional comments or prayer intentions
+      hint: Feel free to share anything else
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_consent
+      label: May we contact you about future events?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

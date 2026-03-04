@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contaminant Detection Analysis Report
+    pages:
+    - id: 1
+      name: section_sample_info
+      label: -- Sample Information --
+      hint: Please complete this report for each sample analyzed.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sample_id
+      label: Sample Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sample_collection_date
+      label: Sample Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sample_collection_time
+      label: Sample Collection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: section_contaminant_analysis
+      label: -- Contaminant Detection Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contaminant_type
+      label: Contaminant Type Detected
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Microbial
+      - Chemical
+      - Physical
+      - Radiological
+      - Other
+      required: true
+    - id: 7
+      name: detection_level
+      label: Detected Contaminant Level
+      hint: Express in parts per million (ppm) or appropriate units
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: detection_method
+      label: Detection Method Used
+      hint: null
+      type: select_one
+      options:
+      - Spectroscopy
+      - Chromatography
+      - Microscopy
+      - Mass Spectrometry
+      - Other
+      required: true
+    - id: 9
+      name: detection_results_interpretation
+      label: Interpretation of Detection Results
+      hint: null
+      type: select_one
+      options:
+      - Safe (Below Threshold)
+      - Caution (Near Threshold)
+      - Critical (Above Threshold)
+      - Inconclusive
+      required: true
+    - id: 10
+      name: section_analyst_info
+      label: -- Analyst Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: analyst_name
+      label: Analyst Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: analyst_id
+      label: Analyst Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: analysis_date
+      label: Analysis Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: section_confirmation
+      label: -- Confirmation and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: analysis_completed
+      label: Analysis Completed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Any additional details or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 18
+      name: report_generated_date
+      label: Date of Report Generation
+      hint: null
+      type: date
+      options: []
+      required: true

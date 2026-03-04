@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Inspection Checklist
+    pages:
+    - id: 1
+      name: property_manager_name
+      label: property_manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: roof_condition
+      label: roof_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: electrical_systems
+      label: electrical_systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: plumbing_systems
+      label: plumbing_systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: heating_systems
+      label: heating_systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: cooling_systems
+      label: cooling_systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: exterior_damage
+      label: exterior_damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: fire_hazard
+      label: fire_hazard
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: safety_issues
+      label: safety_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: repair_and_maintenance
+      label: repair_and_maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: inspector_email
+      label: inspector_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: property_manager_name_2
+      label: property_manager_name_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: property_manager_phone
+      label: property_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: property_manager_email
+      label: property_manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: property_manager_note
+      label: property_manager_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Support Portal Access Form
+    pages:
+    - id: 1
+      name: customer_support_portal_access_form_customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_support_portal_access_form_company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_support_portal_access_form_contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: customer_support_portal_access_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_support_portal_access_form_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_support_portal_access_form_support_ticket_number
+      label: Support Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_support_portal_access_form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_support_portal_access_form_date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: customer_support_portal_access_form_time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: customer_support_portal_access_form_time_zone_options
+      label: Time Zone Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_support_portal_access_form_assign_to
+      label: Assign to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: customer_support_portal_access_form_assign_to_options
+      label: Assign to Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: customer_support_portal_access_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_support_portal_access_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_support_portal_access_form_customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: customer_support_portal_access_form_customer_type
+      label: Customer Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: customer_support_portal_access_form_customer_type_options
+      label: Customer Type Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: customer_support_portal_access_form_access_request
+      label: Access Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_support_portal_access_form_access_granted
+      label: Access Granted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: customer_support_portal_access_form_access_granted_options
+      label: Access Granted Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: customer_support_portal_access_form_reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: customer_support_portal_access_form_request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: customer_support_portal_access_form_request_status_options
+      label: Request Status Options
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: customer_support_portal_access_form_comments_for_requester
+      label: Comments for Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_support_portal_access_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

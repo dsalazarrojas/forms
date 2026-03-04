@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: refund_tracker_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Refund Initiated
+      - Refund In Progress
+      - Refund Complete
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_message
+      label: User Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: admin_message
+      label: Admin Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tracking_link
+      label: Tracking Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tracking_info
+      label: Tracking Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tracking_status
+      label: Tracking Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Received
+      - Lost
+      required: false
+    - id: 13
+      name: expected_date
+      label: Expected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: actual_date
+      label: Actual Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: admin_comments
+      label: Admin Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tracking_link_status
+      label: Tracking Link Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Error
+      required: false
+    - id: 18
+      name: tracking_status_notes
+      label: Tracking Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tracking_status_date
+      label: Tracking Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

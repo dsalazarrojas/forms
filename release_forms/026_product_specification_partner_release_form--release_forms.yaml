@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Product Specification Partner Release Form
+    pages:
+    - id: 1
+      name: product_specification_partners
+      label: Product Specification Partners
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: partner_name
+      label: partner name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: specifications
+      label: Specifications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: partner_comments
+      label: Partner Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: operations_comments
+      label: Operations Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_approved
+      label: Partner Approved
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Not approved
+      - Pending
+      required: true
+    - id: 9
+      name: release_status
+      label: Release status
+      hint: null
+      type: select_one
+      options:
+      - Released
+      - Not released
+      required: true
+    - id: 10
+      name: release_comments
+      label: Release Comments
+      hint: null
+      type: text
+      options: []
+      required: false

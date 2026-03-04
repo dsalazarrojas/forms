@@ -1,0 +1,285 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Alert Rule Configuration Form
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique request identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Name of person requesting alert
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - IT Operations
+      - DevOps
+      - Security
+      - Network Operations
+      - Application Support
+      - Business Operations
+      - Other
+      required: true
+    - id: 6
+      name: alert_name
+      label: Alert Rule Name
+      hint: Descriptive name for this alert
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: alert_description
+      label: Alert Description
+      hint: What does this alert monitor?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: alert_category
+      label: Alert Category
+      hint: Type of alert
+      type: select_one
+      options:
+      - Infrastructure
+      - Application
+      - Security
+      - Performance
+      - Availability
+      - Business Metrics
+      - Compliance
+      required: true
+    - id: 9
+      name: alert_priority
+      label: Alert Priority
+      hint: Severity level
+      type: select_one
+      options:
+      - Critical (P1)
+      - High (P2)
+      - Medium (P3)
+      - Low (P4)
+      - Informational
+      required: true
+    - id: 10
+      name: monitored_system
+      label: Monitored System
+      hint: System or service being monitored
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: metric_name
+      label: Metric Name
+      hint: Specific metric to monitor
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: threshold_type
+      label: Threshold Type
+      hint: Condition for triggering alert
+      type: select_one
+      options:
+      - Greater than
+      - Less than
+      - Equals
+      - Not equals
+      - Greater than or equal
+      - Less than or equal
+      - Percentage change
+      required: true
+    - id: 13
+      name: threshold_value
+      label: Threshold Value
+      hint: Value that triggers alert
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: evaluation_period
+      label: Evaluation Period
+      hint: Time window for evaluation
+      type: select_one
+      options:
+      - 1 minute
+      - 5 minutes
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      - 4 hours
+      - 24 hours
+      required: true
+    - id: 15
+      name: alert_frequency
+      label: Alert Frequency
+      hint: How often to notify
+      type: select_one
+      options:
+      - Once per incident
+      - Every 5 minutes until resolved
+      - Every 15 minutes until resolved
+      - Every hour until resolved
+      - Daily summary
+      required: true
+    - id: 16
+      name: notification_channels
+      label: Notification Channels
+      hint: How to send notifications
+      type: select_multiple
+      options:
+      - Email
+      - SMS
+      - Slack
+      - Microsoft Teams
+      - PagerDuty
+      - OpsGenie
+      - Webhook
+      - Phone call
+      required: true
+    - id: 17
+      name: escalation_policy
+      label: Escalation Policy
+      hint: Escalation rules
+      type: select_one
+      options:
+      - No escalation
+      - Escalate after 15 minutes
+      - Escalate after 30 minutes
+      - Escalate after 1 hour
+      - Escalate after 4 hours
+      - Custom policy
+      required: true
+    - id: 18
+      name: escalation_target
+      label: Escalation Target
+      hint: Who to escalate to
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: on_call_schedule
+      label: On-Call Schedule
+      hint: Which schedule to use
+      type: select_one
+      options:
+      - 24x7 Primary
+      - 24x7 Secondary
+      - Business Hours
+      - Weekend Only
+      - Custom Schedule
+      required: true
+    - id: 20
+      name: primary_responders
+      label: Primary Responders
+      hint: Team members to notify first
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: secondary_responders
+      label: Secondary Responders
+      hint: Backup team members
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: auto_remediation
+      label: Auto-Remediation
+      hint: Should alert trigger auto-fix?
+      type: select_one
+      options:
+      - No
+      - Yes, restart service
+      - Yes, scale resources
+      - Yes, run script
+      - Yes, failover
+      required: true
+    - id: 23
+      name: runbook_url
+      label: Runbook URL
+      hint: Link to troubleshooting guide
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: alert_enabled
+      label: Alert Status
+      hint: Should this alert be active?
+      type: select_one
+      options:
+      - Enabled immediately
+      - Enabled on specific date
+      - Disabled (test mode)
+      required: true
+    - id: 25
+      name: maintenance_windows
+      label: Maintenance Windows
+      hint: When should alert be suppressed?
+      type: select_multiple
+      options:
+      - None
+      - Weekends
+      - Nights (10 PM - 6 AM)
+      - Scheduled maintenance
+      - Holidays
+      required: false
+    - id: 26
+      name: tags
+      label: Tags
+      hint: Labels for categorization
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: approval_required
+      label: Approval Required
+      hint: Does this alert need approval?
+      type: select_one
+      options:
+      - Yes, manager approval
+      - Yes, change board approval
+      - No, self-approved
+      required: true

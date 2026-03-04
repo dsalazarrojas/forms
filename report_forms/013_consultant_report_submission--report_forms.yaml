@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Report Submission
+    pages:
+    - id: 1
+      name: consultant_name
+      label: Consultant Name
+      hint: Full name of the consultant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultant_email
+      label: Consultant Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of this report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: report_period_start
+      label: Reporting Period Start
+      hint: Start date of the reporting period
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: report_period_end
+      label: Reporting Period End
+      hint: End date of the reporting period
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: Name of the client organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Name of the project or engagement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_code
+      label: Project Code
+      hint: Internal project reference number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_type
+      label: Report Type
+      hint: Select the type of report
+      type: select_one
+      options:
+      - Weekly Status Report
+      - Monthly Status Report
+      - Milestone Report
+      - Final Project Report
+      - Incident Report
+      - Ad Hoc Report
+      required: true
+    - id: 10
+      name: project_status
+      label: Overall Project Status
+      hint: Current status of the project
+      type: select_one
+      options:
+      - On Track
+      - At Risk
+      - Delayed
+      - On Hold
+      - Completed
+      required: true
+    - id: 11
+      name: executive_summary
+      label: Executive Summary
+      hint: Brief overview of the report
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: work_completed
+      label: Work Completed This Period
+      hint: Describe what was accomplished
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: deliverables_submitted
+      label: Deliverables Submitted
+      hint: List any deliverables completed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hours_worked
+      label: Hours Worked This Period
+      hint: Total hours spent on this project
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: milestones_achieved
+      label: Milestones Achieved
+      hint: List milestones reached
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: challenges_encountered
+      label: Challenges Encountered
+      hint: Describe any issues or obstacles
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risks_identified
+      label: Risks Identified
+      hint: List any project risks
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mitigation_actions
+      label: Mitigation Actions
+      hint: Actions taken to address risks
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_steps
+      label: Next Steps
+      hint: Planned activities for next period
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: recommendations
+      label: Recommendations
+      hint: Any recommendations for the client
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_feedback
+      label: Client Feedback Received
+      hint: Summarize any feedback from the client
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: budget_status
+      label: Budget Status
+      hint: Current budget position
+      type: select_one
+      options:
+      - Under Budget
+      - On Budget
+      - Slightly Over Budget
+      - Significantly Over Budget
+      - Not Applicable
+      required: false
+    - id: 23
+      name: timeline_status
+      label: Timeline Status
+      hint: Current timeline position
+      type: select_one
+      options:
+      - Ahead of Schedule
+      - On Schedule
+      - Slightly Behind
+      - Significantly Behind
+      - Not Applicable
+      required: false
+    - id: 24
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any attached documents
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

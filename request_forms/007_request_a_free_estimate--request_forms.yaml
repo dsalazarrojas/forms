@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: request a free estimate
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''construction'', ''label'': ''Construction''}'
+      - '{''name'': ''repair'', ''label'': ''Repair''}'
+      - '{''name'': ''maintenance'', ''label'': ''Maintenance''}'
+      required: false
+    - id: 2
+      name: service_description
+      label: Service Description
+      hint: What is the service you need done?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_location
+      label: Service Location
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''home'', ''label'': ''Home''}'
+      - '{''name'': ''office'', ''label'': ''Office''}'
+      - '{''name'': ''commercial'', ''label'': ''Commercial''}'
+      required: false
+    - id: 4
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_start_time
+      label: Service Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: First and last name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: estimate_amount
+      label: Estimate Amount
+      hint: null
+      type: number
+      options: []
+      required: false

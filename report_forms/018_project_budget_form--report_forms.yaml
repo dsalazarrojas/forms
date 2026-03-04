@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Budget Form
+    pages:
+    - id: 1
+      name: project_budget_form
+      label: Project Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_budget_form
+      label: project_budget_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budgeted_costs
+      label: budgeted_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: actual_costs
+      label: actual_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: budget_percentage
+      label: budget_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: project_category
+      label: project_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

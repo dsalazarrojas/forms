@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crane Rental Application Form
+    pages:
+    - id: 1
+      name: crane_rental_details
+      label: crane_rental_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crane_type
+      label: crane_type
+      hint: Choose the crane type
+      type: select_one
+      options:
+      - C100
+      - C50
+      - C30
+      required: false
+    - id: 3
+      name: crane_hours_of_operation
+      label: crane_hours_of_operation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: crane_days_of_operation
+      label: crane_days_of_operation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: crane_operating_hours
+      label: crane_operating_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: crane_operating_hours_per_day
+      label: crane_operating_hours_per_day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: crane_start_date
+      label: crane_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: crane_end_date
+      label: crane_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: crane_operating_location
+      label: crane_operating_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: crane_operating_location_notes
+      label: crane_operating_location_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: crane_operating_address
+      label: crane_operating_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: crane_operating_address_notes
+      label: crane_operated_address_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: crane_operating_location_city
+      label: crane_operating_location_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: crane_operating_location_province
+      label: crane_operating_location_province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: crane_operating_location_postal_code
+      label: crane_operating_location_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: crane_operating_location_phone
+      label: crane_operating_location_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: crane_operating_location_fax
+      label: crane_operating_location_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: crane_operating_location_email
+      label: crane_operating_location_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: crane_operator_name
+      label: crane_operator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: crane_operator_phone
+      label: crane_operator_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: crane_operator_notes
+      label: crane_operator_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: crane_insurance_details
+      label: crane_insurance_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: crane_equipment_condition
+      label: crane_equipment_condition
+      hint: Check the crane equipment condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 24
+      name: crane_insurance_coverage
+      label: crane_insurance_coverage
+      hint: Is insurance coverage required?
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 25
+      name: crane_operating_instructions
+      label: crane_operating_instructions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Recall Coordination Request Form
+    pages:
+    - id: 1
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_code
+      label: product_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_category
+      label: product_category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: reason_for_recall
+      label: reason_for_recall
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: batch_number
+      label: batch_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_code2
+      label: product_code2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recall_date
+      label: recall_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: recall_start_date
+      label: recall_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: recall_end_date
+      label: recall_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false

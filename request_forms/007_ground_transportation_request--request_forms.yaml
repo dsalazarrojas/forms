@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ground Transportation Request
+    pages:
+    - id: 1
+      name: user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pick_up_location
+      label: Pick Up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: drop_off_location
+      label: Drop Off Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: type_of_transportation
+      label: Type of Transportation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Bus''}'
+      - '{''id'': 3, ''label'': ''Train''}'
+      required: false
+    - id: 6
+      name: type_of_transportation
+      label: Type of Transportation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Bus''}'
+      - '{''id'': 3, ''label'': ''Train''}'
+      required: false
+    - id: 7
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_of_travel
+      label: Time of Travel
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

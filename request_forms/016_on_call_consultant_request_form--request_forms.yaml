@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: On Call Consultant Request Form
+    pages:
+    - id: 1
+      name: on_call_consultant_request_form
+      label: on_call_consultant_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consultant_name
+      label: consultant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_description
+      label: request_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priority_level
+      label: priority_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: on_call_consultant_request_form_submit_button
+      label: on_call_consultant_request_form_submit_button
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 8
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: request_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: request_status
+      label: request_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in_progress
+      - completed
+      required: false
+    - id: 12
+      name: on_call_consultant_request_form_comments
+      label: on_call_consultant_request_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: on_call_consultant_request_form_submit_button_2
+      label: on_call_consultant_request_form_submit_button_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: request_form_id
+      label: request_form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

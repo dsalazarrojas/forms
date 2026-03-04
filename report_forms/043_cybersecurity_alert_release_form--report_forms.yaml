@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Alert Release Form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_urgency
+      label: Urgency
+      hint: High, Medium, Low
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: incident_severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: incident_impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - Closed
+      required: false
+    - id: 7
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_multiple
+      options:
+      - Malware
+      - Phishing
+      - Ransomware
+      - Other
+      required: false
+    - id: 8
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 9
+      name: incident_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: incident_respondent
+      label: Respondent
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 12
+      name: incident_resolution_time
+      label: Resolution Time
+      hint: null
+      type: select_multiple
+      options:
+      - Within 24 hours
+      - Within 48 hours
+      - Within 7 days
+      required: false
+    - id: 13
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: incident_attachment
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: incident_note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_affected_users
+      label: Affected Users
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: incident_affected_locations
+      label: Affected Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: incident_affected_devices
+      label: Affected Devices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: incident_affected_services
+      label: Affected Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: incident_affected_data
+      label: Affected Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: incident_affected_assets
+      label: Affected Assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 24
+      name: incident_updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 25
+      name: incident_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Defamation Reporting Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: defamed_public_figure
+      label: Defamed Public Figure
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 9
+      name: defamed_privately
+      label: Defamed Privately
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: defamed_by
+      label: Defamed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: defamed_at
+      label: Defamed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: defamed_by_person
+      label: Defamed By Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: defamed_by_entity
+      label: Defamed By Entity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: defamation_source
+      label: Defamation Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: defamed_by_url
+      label: Defamed By URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: defamed_on
+      label: Defamed On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: defamed_at
+      label: Defamed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: defamed_at_by
+      label: Defamed At By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: defamed_at_by_entity
+      label: Defamed At By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: defamed_by_person_at
+      label: Defamed By Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: defamed_at_url
+      label: Defamed At URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: defamed_on_time
+      label: Defamed On Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: defamed_by_entity_at
+      label: Defamed By Entity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: defamed_by_url_entity
+      label: Defamed By Entity URL
+      hint: null
+      type: text
+      options: []
+      required: false

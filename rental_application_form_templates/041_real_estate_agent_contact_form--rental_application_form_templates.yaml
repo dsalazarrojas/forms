@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_contact_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_info
+      label: Rental Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agent_info
+      label: Agent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_request
+      label: Contact Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_request
+      label: Additional Contact Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''residential'', ''value'': ''Residential''}'
+      - '{''id'': 2, ''name'': ''commercial'', ''value'': ''Commercial''}'
+      - '{''id'': 3, ''name'': ''industrial'', ''value'': ''Industrial''}'
+      required: true
+    - id: 9
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''available'', ''value'': ''Available''}'
+      - '{''id'': 2, ''name'': ''rented'', ''value'': ''Rented''}'
+      - '{''id'': 3, ''name'': ''sold'', ''value'': ''Sold''}'
+      required: true
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''phone'', ''value'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''email'', ''value'': ''Email''}'
+      - '{''id'': 3, ''name'': ''message'', ''value'': ''Message''}'
+      required: false
+    - id: 11
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''agent'', ''value'': ''Agent''}'
+      - '{''id'': 2, ''name'': ''online'', ''value'': ''Online''}'
+      - '{''id'': 3, ''name'': ''referral'', ''value'': ''Referral''}'
+      - '{''id'': 4, ''name'': ''print'', ''value'': ''Print''}'
+      - '{''id'': 5, ''name'': ''social'', ''value'': ''Social''}'
+      required: true
+    - id: 12
+      name: realty_company
+      label: Realty Company
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''realty_company_1'', ''value'': ''Realty Company 1''}'
+      - '{''id'': 2, ''name'': ''realty_company_2'', ''value'': ''Realty Company 2''}'
+      - '{''id'': 3, ''name'': ''realty_company_3'', ''value'': ''Realty Company 3''}'
+      required: true
+    - id: 13
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''new'', ''value'': ''New''}'
+      - '{''id'': 2, ''name'': ''follow_up'', ''value'': ''Follow-up''}'
+      - '{''id'': 3, ''name'': ''converted'', ''value'': ''Converted''}'
+      - '{''id'': 4, ''name'': ''expired'', ''value'': ''Expired''}'
+      required: true
+    - id: 21
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: agent_email
+      label: Agent Email
+      hint: null
+      type: email
+      options: []
+      required: true

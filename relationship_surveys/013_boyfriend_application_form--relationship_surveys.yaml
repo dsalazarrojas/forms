@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boyfriend Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: Age in years
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: interests
+      label: Interests
+      hint: Hobbies and interests
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship_goals
+      label: Relationship goals
+      hint: What are you looking for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: Current job or student status
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: values_alignment
+      label: Values alignment
+      hint: Describe your core values briefly
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: Typical availability for dates or calls
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: Optional references or social links
+      type: text
+      options: []
+      required: false

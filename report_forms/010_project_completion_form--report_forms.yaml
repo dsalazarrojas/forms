@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Project Completion Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_process
+      label: project_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_outcomes
+      label: project_outcomes
+      hint: null
+      type: select_one
+      options:
+      - Project Goal
+      - Project Objective
+      - Project Scope
+      required: true
+    - id: 4
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - On Track
+      - Completed
+      required: true
+    - id: 5
+      name: project_comments
+      label: project_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_observations
+      label: project_observations
+      hint: null
+      type: text
+      options: []
+      required: false

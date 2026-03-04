@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Financial Performance Report
+    pages:
+    - id: 1
+      name: quarter
+      label: Quarter
+      hint: null
+      type: select_one
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: false
+    - id: 2
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - On Track
+      - At Risk
+      - Not On Track
+      required: false
+    - id: 4
+      name: sales_revenue
+      label: Sales Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cost_of_goods_sold
+      label: Cost of Goods Sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: operating_income
+      label: Operating Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: net_income
+      label: Net Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Additional comments or feedback
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      - chatjimmy3
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      - chatjimmy3
+      required: true
+    - id: 13
+      name: submitted
+      label: Submitted
+      hint: Date
+      type: date
+      options: []
+      required: false

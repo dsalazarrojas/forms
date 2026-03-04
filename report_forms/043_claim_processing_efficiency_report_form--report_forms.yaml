@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Claim Processing Efficiency Report Form
+    pages:
+      - id: 1
+        name: report_author
+        label: Report author
+        hint: Name of person preparing report
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: reporting_period_start
+        label: Reporting period start
+        hint: Start date
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: reporting_period_end
+        label: Reporting period end
+        hint: End date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: key_metrics
+        label: Key performance metrics
+        hint: Turnaround rates accuracy volumes
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: notable_trends
+        label: Notable trends and observations
+        hint: Patterns in claim volumes or delays
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: improvement_actions
+        label: Improvement actions taken
+        hint: Actions implemented during period
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: outstanding_issues
+        label: Outstanding issues requiring attention
+        hint: Items needing management decision
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommendations
+        label: Recommendations for next period
+        hint: Prioritized next steps
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: approver
+        label: Approver name
+        hint: Manager who approves report
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Date report finalized
+        type: date
+        options: []
+        required: true

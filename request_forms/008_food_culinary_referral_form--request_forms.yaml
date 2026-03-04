@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Culinary Referral Form
+    pages:
+    - id: 1
+      name: food_culinary_referral
+      label: Food Culinary Referral
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Program'', ''value'': ''Program''}'
+      - '{''id'': 2, ''name'': ''Service'', ''value'': ''Service''}'
+      - '{''id'': 3, ''name'': ''Event'', ''value'': ''Event''}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New'', ''value'': ''New''}'
+      - '{''id'': 2, ''name'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Closed'', ''value'': ''Closed''}'
+      required: true
+    - id: 15
+      name: follow_up_last_contact
+      label: Follow-up Last Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_last_method
+      label: Follow-up Last Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_last_notes
+      label: Follow-up Last Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_last_status
+      label: Follow-up Last Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_last_date
+      label: Follow-up Last Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_last_contact_method
+      label: Follow-up Last Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_last_contact_notes
+      label: Follow-up Last Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_last_contact_status
+      label: Follow-up Last Contact Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New'', ''value'': ''New''}'
+      - '{''id'': 2, ''name'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Closed'', ''value'': ''Closed''}'
+      required: false
+    - id: 23
+      name: follow_up_last_contact_date
+      label: Follow-up Last Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_last_contact_method
+      label: Follow-up Last Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_last_contact_notes
+      label: Follow-up Last Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false

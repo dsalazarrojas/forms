@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Design Bootcamp Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: Enter participant's email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: mobile_number
+      label: mobile_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_bootcamp_dates
+      label: preferred_bootcamp_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_bootcamp_time
+      label: preferred_bootcamp_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Bank transfer
+      - PayPal
+      - Stripe
+      required: false
+    - id: 8
+      name: participant_message
+      label: participant_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_enrolment
+      label: confirm_enrolment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      required: false
+    - id: 11
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - 049_mobile_app_design_bootcamp_registration_form--registration_forms
+      - 050_mobile_app_design_bootcamp_registration_form--registration_forms
+      required: false

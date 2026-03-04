@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Suspicious Activity Report Form
+    pages:
+    - id: 1
+      name: suspicious_activity_report
+      label: Suspicious Activity Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: suspect_description
+      label: Suspect Description
+      hint: Provide a detailed description of the suspect.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suspect_photo
+      label: Suspect Photo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_location
+      label: Report Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_details
+      label: Report Details
+      hint: Provide any additional details regarding the report.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_report
+      label: Submit Report
+      hint: null
+      type: select_one
+      options:
+      - Reported
+      - Unreported
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

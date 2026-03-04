@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Work Day Report
+    pages:
+    - id: 1
+      name: end_of_work_day_report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''On Break''}'
+      - '{''label'': ''On Leave''}'
+      - '{''label'': ''On Training''}'
+      required: false
+    - id: 3
+      name: tasks_completed
+      label: Tasks Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: task_id
+      label: Task Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: task_name
+      label: Task Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: task_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: task_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: goals_completed
+      label: Goals Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: goals_id
+      label: Goal Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: goals_name
+      label: Goal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: goal_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: goal_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

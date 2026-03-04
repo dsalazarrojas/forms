@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Needs Analysis Form
+    pages:
+    - id: 1
+      name: main
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expenses
+      label: expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assets
+      label: assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: liabilities
+      label: liabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: cashflow
+      label: cashflow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_assessment
+      label: risk_assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: financial_planner
+      label: financial_planner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review
+      label: review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: financial_needs_analysis
+      label: financial_needs_analysis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

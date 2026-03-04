@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laundry Refund Form
+    pages:
+    - id: 1
+      name: laundry_refund_form
+      label: laundry_refund_form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: issue_description
+      label: issue_description
+      hint: Describe the issue you're experiencing
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: service
+      label: service
+      hint: null
+      type: select_one
+      options:
+      - Laundry Service A
+      - Laundry Service B
+      - Other
+      required: true
+    - id: 5
+      name: date_used
+      label: date_used
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: enter email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: enter phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attached_files
+      label: attached_files
+      hint: null
+      type: select_multiple
+      options:
+      - File A
+      - File B
+      - File C
+      required: false
+    - id: 11
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: error_msg
+      label: error_msg
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: success_msg
+      label: success_msg
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: warning_msg
+      label: warning_msg
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: info_msg
+      label: info_msg
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: required_field
+      label: required_field
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: select_all
+      label: select_all
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 20
+      name: select_all_options
+      label: select_all_options
+      hint: null
+      type: select_multiple
+      options:
+      - Option D
+      - Option E
+      - Option F
+      required: false
+    - id: 21
+      name: select_one
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - Option G
+      - Option H
+      required: false
+    - id: 22
+      name: select_one_option
+      label: select_one_option
+      hint: null
+      type: select_one
+      options:
+      - Option I
+      - Option J
+      required: false
+    - id: 23
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: timepicker
+      label: timepicker
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: datepicker
+      label: datepicker
+      hint: null
+      type: date
+      options: []
+      required: false

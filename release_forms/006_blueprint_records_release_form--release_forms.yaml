@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blueprint Records Release Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist Name
+      hint: Full legal name of the artist or performer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_stage_name
+      label: Stage Name
+      hint: Professional or stage name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artist_email
+      label: Artist Email
+      hint: Contact email for the artist
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Artist Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_address
+      label: Artist Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recording_title
+      label: Recording Title
+      hint: Title of the recording being released
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recording_date
+      label: Recording Date
+      hint: When was the recording made?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: recording_location
+      label: Recording Location
+      hint: Studio or venue where recorded
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: producer_name
+      label: Producer Name
+      hint: Name of the producer
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: label_name
+      label: Record Label Name
+      hint: Name of the record label
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: release_type
+      label: Type of Release
+      hint: Select the type of release
+      type: select_one
+      options:
+      - Single
+      - EP
+      - Full Album
+      - Compilation
+      - Soundtrack
+      - Demo
+      required: true
+    - id: 12
+      name: distribution_territory
+      label: Distribution Territory
+      hint: Where will this be distributed?
+      type: select_one
+      options:
+      - Worldwide
+      - North America Only
+      - Europe Only
+      - United States Only
+      - Other
+      required: true
+    - id: 13
+      name: distribution_format
+      label: Distribution Format
+      hint: Select all applicable formats
+      type: select_multiple
+      options:
+      - Digital Streaming
+      - Physical CD
+      - Vinyl Record
+      - Cassette
+      - Digital Download
+      required: true
+    - id: 14
+      name: rights_granted
+      label: Rights Granted
+      hint: Select the rights being granted
+      type: select_multiple
+      options:
+      - Mechanical Rights
+      - Performance Rights
+      - Synchronization Rights
+      - Master Use Rights
+      - Distribution Rights
+      - Promotional Rights
+      required: true
+    - id: 15
+      name: royalty_percentage
+      label: Royalty Percentage
+      hint: Artist royalty percentage if applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: advance_payment
+      label: Advance Payment Amount
+      hint: Enter advance payment if applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: exclusive_or_nonexclusive
+      label: License Type
+      hint: Is this an exclusive agreement?
+      type: select_one
+      options:
+      - Exclusive
+      - Non-Exclusive
+      required: true
+    - id: 18
+      name: term_length
+      label: Agreement Term Length
+      hint: Duration of this agreement
+      type: select_one
+      options:
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - 10 Years
+      - Perpetual
+      required: true
+    - id: 19
+      name: additional_terms
+      label: Additional Terms
+      hint: Any special conditions or notes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: artist_signature
+      label: Artist Signature
+      hint: Type full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: witness_name
+      label: Witness Name
+      hint: Optional witness
+      type: text
+      options: []
+      required: false

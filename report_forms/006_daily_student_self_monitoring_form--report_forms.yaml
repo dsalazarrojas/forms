@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Student Self Monitoring Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_id
+      label: Teacher Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: lesson_id
+      label: Lesson Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: lesson_date
+      label: Lesson Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: lesson_start_time
+      label: Lesson Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: lesson_end_time
+      label: Lesson End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: attended
+      label: Attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: lesson_location
+      label: Lesson Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lesson_topic
+      label: Lesson Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lesson_outcome
+      label: Lesson Outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: teacher_consistency
+      label: Teacher Consistency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 16
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: student_interest
+      label: Student Interest
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 18
+      name: student_focus
+      label: Student Focus
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 19
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: student_conducted_assessments
+      label: Student Conducted Assessments
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: student_self_monitored
+      label: Student Self Monitored
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: teacher_self_monitored
+      label: Teacher Self Monitored
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: teacher_self_monitored_reasons
+      label: Teacher Self Monitored Reasons
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true

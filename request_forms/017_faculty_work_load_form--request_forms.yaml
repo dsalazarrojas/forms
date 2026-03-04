@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Work Load Form
+    pages:
+    - id: 1
+      name: faculty_workload_form
+      label: Faculty Work Load Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - other forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: A faculty workload form is a tool for faculty members and teachers to
+        manage their workload and request additional resources.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requested_resources
+      label: Requested Resources
+      hint: null
+      type: select_multiple
+      options:
+      - computers
+      - other resources
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: 017_faculty_work_load_form--request_forms
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_ids
+      label: Form IDs
+      hint: 68141
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Request Forms
+      - other forms
+      required: false

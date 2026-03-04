@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Care Unusual Incident Report Form
+    pages:
+      - id: 1
+        name: section_incident_header
+        label: -- Incident Overview --
+        hint: Use this form to report any unexpected or unusual events in community care settings.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporting_staff_full_name
+        label: Full Name of Reporting Staff Member
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporting_staff_title
+        label: Job Title or Role of Reporting Staff
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: incident_date
+        label: Date of Incident
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: incident_time
+        label: Time of Incident
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: incident_location
+        label: Exact Location of Incident
+        hint: e.g., Living Room, Dining Hall, Resident's Bedroom
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_incident_details
+        label: -- Incident Description and Type --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: incident_type_category
+        label: Type of Incident
+        hint: Select the most accurate category
+        type: select_one
+        options:
+          - Accident/Injury
+          - Behavioral/Aggressive Incident
+          - Medical Emergency
+          - Medication Error
+          - Missing Person
+          - Property Damage
+          - Other Unusual Event
+        required: true
+      - id: 9
+        name: detailed_incident_description
+        label: Detailed Description of the Incident
+        hint: State facts only. Avoid opinions or assumptions.
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: individuals_involved_names
+        label: Names of Individuals Involved
+        hint: Include staff, residents, and visitors
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: any_injuries_sustained
+        label: Were there any injuries sustained
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: injury_details_description
+        label: Description of Injuries (If any)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_actions_taken
+        label: -- Actions and Follow-up --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: immediate_actions_taken
+        label: Immediate Actions Taken
+        hint: e.g., First aid applied, Emergency services called
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: emergency_services_called
+        label: Were Emergency Services (911) contacted
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: notified_parties_names
+        label: Who was notified of the incident
+        hint: e.g., Supervisor, Family members, Case manager
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: witness_names_contact
+        label: Names of Witnesses (If any)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: section_reporting_final
+        label: -- Final Reporting Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: supervisor_notified_check
+        label: Has a supervisor been notified of this incident
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 20
+        name: reporter_signature_check
+        label: I certify that this is a true and accurate report of the incident
+        hint: Type your full name to sign
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: report_submission_date_final
+        label: Date of Report Submission
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 22
+        name: follow_up_actions_recommended
+        label: Recommended Follow-up or Preventive Actions
+        hint: For administrative review
+        type: text
+        options: []
+        required: false

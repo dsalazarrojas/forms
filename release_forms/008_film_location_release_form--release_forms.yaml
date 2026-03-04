@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: film_location_release_form
+    pages:
+    - id: 1
+      name: production_company
+      label: Production Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: state
+      label: prophets
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - FL
+      - NY
+      - TX
+      required: false
+    - id: 5
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_of_production
+      label: Date Of Production
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: cast
+      label: Cast
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Jane Doe Jr
+      required: false
+    - id: 9
+      name: crew
+      label: Crew
+      hint: null
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Smith
+      - Bob Johnson
+      required: false
+    - id: 10
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Camera 1
+      - Light 1
+      - Microphone 1
+      required: false
+    - id: 11
+      name: special_equipment
+      label: Special Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Camer 1
+      - Light 1
+      - Micro 1
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true

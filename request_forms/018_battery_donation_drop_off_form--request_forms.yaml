@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Battery Donation Drop Off Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or group if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drop_off_date
+      label: Drop Off Date
+      hint: When are you dropping off
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: drop_off_time
+      label: Drop Off Time
+      hint: Approximate time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: battery_types
+      label: Types of Batteries
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AA Alkaline
+      - AAA Alkaline
+      - C Batteries
+      - D Batteries
+      - 9V Batteries
+      - Lithium Ion
+      - Lead Acid
+      - Nickel Cadmium
+      - Button Cell
+      - Car Batteries
+      required: true
+    - id: 8
+      name: estimated_quantity
+      label: Estimated Quantity
+      hint: Approximate number of batteries
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: estimated_weight
+      label: Estimated Weight
+      hint: In pounds if known
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: battery_condition
+      label: Battery Condition
+      hint: State of batteries
+      type: select_one
+      options:
+      - New Unused
+      - Used - Good Condition
+      - Used - Damaged
+      - Mixed Condition
+      required: true
+    - id: 11
+      name: packaging_method
+      label: How Are Batteries Packaged
+      hint: For safe transport
+      type: select_one
+      options:
+      - Original Packaging
+      - Plastic Bags
+      - Cardboard Box
+      - Loose in Container
+      - Other
+      required: true
+    - id: 12
+      name: first_time_donor
+      label: Is This Your First Donation
+      hint: Have you donated before
+      type: select_one
+      options:
+      - Yes - First Time
+      - No - Repeat Donor
+      required: true
+    - id: 13
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Community Event
+      - School Program
+      - Workplace Program
+      - Other
+      required: false
+    - id: 14
+      name: receipt_needed
+      label: Do You Need a Receipt
+      hint: For tax deduction
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to help
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe Later
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Rental Lease Agreement Form
+    pages:
+    - id: 1
+      name: office_rental_lease_form
+      label: Office Lease Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rent_details
+      label: rent_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tenant_sign_date
+      label: Tenant Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: landlord_sign_date
+      label: Landlord Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lease_agreement_form_signed
+      label: Lease Agreement Form Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

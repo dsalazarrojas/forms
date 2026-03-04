@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_cleanup_equipment_request_form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Water pump''}'
+      - '{''id'': 2, ''value'': ''Filtration system''}'
+      - '{''id'': 3, ''value'': ''Purification system''}'
+      required: false
+    - id: 3
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_organization
+      label: contact_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_group
+      label: volunteer_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_organization
+      label: volunteer_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_notes
+      label: form_notes
+      hint: null
+      type: note
+      options: []
+      required: false

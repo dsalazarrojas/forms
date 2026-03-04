@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Report Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''ongoing''}'
+      - '{''id'': 3, ''name'': ''completed''}'
+      required: false
+    - id: 4
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_due_date
+      label: project_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_requester
+      label: report_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_requester_email
+      label: report_requester_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: report_requester_phone
+      label: report_requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_requester_address
+      label: report_requester_address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Maintenance And Repair Request Form
+    pages:
+    - id: 1
+      name: vehicle_maintenance_request
+      label: Vehicle Maintenance Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: problem_description
+      label: Problem Description
+      hint: Briefly describe the problem
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requested_services
+      label: Requested Services
+      hint: Select services from the list
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

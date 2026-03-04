@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dispatch Instruction Form
+    pages:
+    - id: 1
+      name: dispatch_instruction_form_1
+      label: dispatch_instruction_form_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''value_1''}'
+      - '{''value'': ''value_2''}'
+      - '{''value'': ''value_3''}'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: items_received
+      label: items_received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: delivery_note
+      label: delivery_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false

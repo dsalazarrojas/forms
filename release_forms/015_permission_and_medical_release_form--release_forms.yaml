@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permission And Medical Release Form
+    pages:
+    - id: 1
+      name: release_form
+      label: Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_form_first_name
+      label: Release Form First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: release_form_last_name
+      label: Release Form Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: release_form_date_of_birth
+      label: Release Form Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: release_form_date_of_permission
+      label: Release Form Date of Permission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: release_form_parent_last_name
+      label: Release Form Parent Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: release_form_parent_first_name
+      label: Release Form Parent First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: release_form_permission_type
+      label: Release Form Permission Type
+      hint: null
+      type: select_multiple
+      options:
+      - General Release
+      - Dental
+      - General and Dental
+      required: true
+    - id: 9
+      name: release_form_medical_group
+      label: Release Form Medical Group
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Primary Care Provider
+      - Specialist
+      required: true
+    - id: 10
+      name: release_form_medical_group_name
+      label: Release Form Medical Group Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: release_form_medical_group_phone
+      label: Release Form Medical Group Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: release_form_medical_group_address
+      label: Release Form Medical Group Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: release_form_medical_group_city
+      label: Release Form Medical Group City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: release_form_medical_group_state
+      label: Release Form Medical Group State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: release_form_medical_group_zip
+      label: Release Form Medical Group Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: release_form_medical_group_email
+      label: Release Form Medical Group Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: release_form_authorized_to_drive
+      label: Release Form Authorized to Drive
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: release_form_authorized_to_participate
+      label: Release Form Authorized to Participate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: release_form_authorized_to_take_pills
+      label: Release Form Authorized to Take Pills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: release_form_authorized_to_drive_license
+      label: Release Form Authorized to Drive License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: release_form_parent_signature
+      label: Release Form Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: release_form_parent_date
+      label: Release Form Parent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: release_form_authorized
+      label: Release Form Authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: release_form_medical_history
+      label: Release Form Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: release_form_notes
+      label: Release Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false

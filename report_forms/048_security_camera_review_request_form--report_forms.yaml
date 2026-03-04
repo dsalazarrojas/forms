@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_camera_review_request_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Burglary''}'
+      - '{''id'': 2, ''label'': ''Theft''}'
+      - '{''id'': 3, ''label'': ''Fire''}'
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cctv_footage
+      label: CCTV Footage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: security_camera_details
+      label: Security Camera Details
+      hint: null
+      type: text
+      options: []
+      required: false

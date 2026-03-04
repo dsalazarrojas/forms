@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Entity Certificate Of Termination Filing
+    pages:
+    - id: 1
+      name: entity_info_section
+      label: -- Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_legal_name
+      label: Legal Entity Name
+      hint: Registered name of the business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: DBA Name (if applicable)
+      hint: Operating name if different
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entity_type
+      label: Entity Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Non-Profit
+      - Sole Proprietorship
+      - Other
+      required: true
+    - id: 5
+      name: incorporation_date
+      label: Date of Incorporation/Formation
+      hint: When was the entity created?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: registration_number
+      label: Registration or License Number
+      hint: State or federal ID number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: principal_address
+      label: Principal Address
+      hint: Last known business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: termination_section
+      label: -- Termination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: termination_date
+      label: Effective Termination Date
+      hint: When does the business cease operations?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: termination_reason
+      label: Reason for Termination
+      hint: Why is the business terminating?
+      type: select_one
+      options:
+      - Voluntary Dissolution
+      - Merger
+      - Bankruptcy
+      - Administrative Action
+      - Relocation
+      - Owner Decision
+      - Other
+      required: true
+    - id: 11
+      name: termination_details
+      label: Additional Termination Details
+      hint: Provide context for termination
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorization_section
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: authorized_person_name
+      label: Authorized Representative Name
+      hint: Person filing the termination
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorized_person_title
+      label: Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: authorized_person_address
+      label: Representative Address
+      hint: Contact address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: authorized_person_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: authorized_person_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: liabilities_section
+      label: -- Liabilities and Final Accounting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: outstanding_debts
+      label: Outstanding Debts or Liabilities
+      hint: Describe any remaining obligations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: asset_distribution
+      label: Asset Distribution Plan
+      hint: How will remaining assets be distributed?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_notification
+      label: Employees Notified
+      hint: Have employees been notified?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 22
+      name: final_tax_return
+      label: Final Tax Return Filed
+      hint: Has final tax return been filed?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: false
+    - id: 23
+      name: compliance_section
+      label: -- Compliance Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: compliance_confirmation
+      label: I certify that all legal obligations have been met
+      hint: Confirm compliance with all requirements
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: signature_date
+      label: Filing Date
+      hint: Date of termination filing
+      type: date
+      options: []
+      required: true

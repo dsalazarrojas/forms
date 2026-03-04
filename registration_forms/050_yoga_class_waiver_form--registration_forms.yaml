@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Class Waiver Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waiver
+      label: Waiver
+      hint: This form is to be read carefully and fully understood by the participant.
+        By signing below, I acknowledge that I am voluntarily participating in the
+        yoga class and am aware that I may experience injuries or other risks. I release
+        and hold harmless all instructors and staff of this yoga studio.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share
+      label: Consent to Share
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'False'
+      required: false
+    - id: 11
+      name: share_with
+      label: Share with
+      hint: null
+      type: select_multiple
+      options:
+      - Studio Instructor
+      - Other
+      required: false
+    - id: 12
+      name: share_with_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

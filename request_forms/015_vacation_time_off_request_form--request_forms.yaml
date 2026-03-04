@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: vacation_time_off_request_form
+    pages:
+    - id: 1
+      name: vacation_time_off_request_form_page
+      label: vacation_time_off_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''vacation''}'
+      - '{''id'': 2, ''value'': ''sick''}'
+      - '{''id'': 3, ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: hours_requested
+      label: hours_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: note
+      options: []
+      required: false

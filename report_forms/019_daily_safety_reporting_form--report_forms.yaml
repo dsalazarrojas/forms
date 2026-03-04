@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: daily-safety-reporting-form
+    pages:
+    - id: 1
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location_of_incident
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cause_of_incident
+      label: Cause of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: corrective_action_planned
+      label: Corrective Action Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true
+    - id: 8
+      name: reporting_person
+      label: Reporting Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Hazard
+      - Near Miss
+      - Incident
+      required: false
+    - id: 12
+      name: incident_severity
+      label: Incident Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 13
+      name: incident_criticality
+      label: Incident Criticality
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 14
+      name: incident_investigation_status
+      label: Incident Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Underway
+      - Completed
+      - Not Underway
+      required: false
+    - id: 15
+      name: incident_cause_verified
+      label: Incident Cause Verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: incident_action_planned
+      label: Incident Action Planned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: incident_review_status
+      label: Incident Review Status
+      hint: null
+      type: select_one
+      options:
+      - Reviewed
+      - Not Reviewed
+      required: false
+    - id: 18
+      name: incident_status_updated_by
+      label: Incident Status Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_corrective_action_implementation_status
+      label: Incident Corrective Action Implementation Status
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      required: false
+    - id: 20
+      name: incident_corrective_action_complete_status
+      label: Incident Corrective Action Complete Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Not Complete
+      required: false
+    - id: 21
+      name: incident_criticality_assessed_by
+      label: Incident Criticality Assessed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_date_closed
+      label: Incident Date Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: incident_time_closed
+      label: Incident Time Closed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

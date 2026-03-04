@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Monitoring Form
+    pages:
+    - id: 1
+      name: plant_monitoring_form_data
+      label: Plant Monitoring Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_planted
+      label: Date Planted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: plant_name
+      label: Plant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

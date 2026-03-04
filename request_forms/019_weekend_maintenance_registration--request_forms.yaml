@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekend-maintenance-registration
+    pages:
+    - id: 1
+      name: maintenance_request_type
+      label: maintenance-request-type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''maintenance-request-type-option-1''}'
+      - '{''id'': 2, ''name'': ''maintenance-request-type-option-2''}'
+      required: false
+    - id: 2
+      name: maintenance_locations
+      label: maintenance-locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: weekend_start_date
+      label: weekend-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: weekend_end_date
+      label: weekend-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_start_time
+      label: maintenance-start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_end_time
+      label: maintenance-end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_requester_name
+      label: maintenance-requester-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_requester_phone
+      label: maintenance-requester-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_location
+      label: maintenance-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_remarks
+      label: safety-remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: weekend_maintenance_request
+      label: weekend-maintenance-request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_comments
+      label: maintenance-comments
+      hint: null
+      type: text
+      options: []
+      required: false

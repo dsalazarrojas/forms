@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Record Form
+    pages:
+    - id: 1
+      name: service_record_form
+      label: Service Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_id
+      label: Vehicle ID
+      hint: Enter a unique vehicle identifier.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_usage_dates
+      label: Vehicle Usage Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_history_dates
+      label: Service History Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_dates
+      label: Maintenance Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: mileage
+      label: Mileage
+      hint: Enter mileage in miles.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: service_frequency_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 9.1, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''id'': 9.2, ''name'': ''quarterly'', ''label'': ''Quarterly''}'
+      - '{''id'': 9.3, ''name'': ''semi_annual'', ''label'': ''Semi-annual''}'
+      - '{''id'': 9.4, ''name'': ''yearly'', ''label'': ''Yearly''}'
+      required: false
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10.1, ''name'': ''Oil Service'', ''label'': ''Oil Service''}'
+      - '{''id'': 10.2, ''name'': ''Tire Service'', ''label'': ''Tire Service''}'
+      - '{''id'': 10.3, ''name'': ''Maintenance Service'', ''label'': ''Maintenance
+        Service''}'
+      - '{''id'': 10.4, ''name'': ''Inspection Service'', ''label'': ''Inspection
+        Service''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Enter service notes, e.g. oil change, tire replacement, etc.
+      type: note
+      options: []
+      required: false

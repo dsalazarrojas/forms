@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Analysis Assistance Request Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_files
+      label: Project Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question
+      label: Question
+      hint: What is your question for this project?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: actual_completion_date
+      label: Actual Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Cost Analyst
+      - Project Manager
+      - Team Lead
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question_attachment
+      label: Question Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: actual_cost
+      label: Actual Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: budgeted_cost
+      label: Budgeted Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: cost_variance
+      label: Cost Variance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: question_answer
+      label: Question Answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: question_attachment_answer
+      label: Question Attachment Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: actual_cost_answer
+      label: Actual Cost Answer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: description_answer
+      label: Description Answer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_person_answer
+      label: Contact Person Answer
+      hint: null
+      type: select_one
+      options:
+      - Cost Analyst
+      - Project Manager
+      - Team Lead
+      required: true
+    - id: 19
+      name: email_answer
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone_answer
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budgeted_cost_answer
+      label: Budgeted Cost Answer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: cost_variance_answer
+      label: Cost Variance Answer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: question_attachment_answer_attachment
+      label: Question Attachment Answer Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: actual_cost_answer_attachment
+      label: Actual Cost Answer Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question_answer_answer
+      label: Question Answer Answer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

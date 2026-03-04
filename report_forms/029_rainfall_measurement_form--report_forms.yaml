@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rainfall Measurement Form
+    pages:
+    - id: 1
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: measurement_date
+      label: Measurement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: precipitation_type
+      label: Precipitation Type
+      hint: null
+      type: select_one
+      options:
+      - Rain
+      - Snow
+      - Hail
+      required: true
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: unit_of_measurement
+      label: Unit of Measurement
+      hint: null
+      type: select_one
+      options:
+      - mm
+      - inch
+      - cm
+      - foot
+      - yard
+      required: true
+    - id: 6
+      name: location_coordinates
+      label: Location Coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: measurement_team
+      label: Measurement Team
+      hint: null
+      type: text
+      options: []
+      required: false

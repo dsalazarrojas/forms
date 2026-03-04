@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: sow_information_collection
+    pages:
+    - id: 1
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_deliverables
+      label: Project Deliverables
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stakeholders
+      label: Stakeholders
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

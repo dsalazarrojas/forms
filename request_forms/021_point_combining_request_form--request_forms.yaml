@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: point_combining_request_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: transfer_points
+      label: Transfer Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: merge_accounts
+      label: Merge Accounts
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: review_request
+      label: Review Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: request_notes
+      label: Request Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_details2
+      label: Request Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email2
+      label: Customer Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_info2
+      label: Customer Info 2
+      hint: null
+      type: text
+      options: []
+      required: false

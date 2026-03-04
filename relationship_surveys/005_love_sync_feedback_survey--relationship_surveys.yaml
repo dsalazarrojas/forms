@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: love_sync_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: preferences
+      label: Feature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: false
+    - id: 4
+      name: improvement
+      label: Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ideas
+      label: Ideas
+      hint: null
+      type: text
+      options: []
+      required: false

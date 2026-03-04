@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Lab Results Upload Form
+    pages:
+    - id: 1
+      name: section_submission_info
+      label: -- Submission Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: Date of lab result submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: submission_time
+      label: Submission Time
+      hint: Time of submission
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: section_lab_information
+      label: -- Lab Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: lab_name
+      label: Laboratory Name
+      hint: Name of the laboratory
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lab_facility_code
+      label: Lab Facility Code or ID
+      hint: Unique identifier for facility
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lab_contact_person
+      label: Lab Contact Person
+      hint: Name of primary contact at lab
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lab_contact_email
+      label: Contact Email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: lab_contact_phone
+      label: Contact Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_sample_information
+      label: -- Sample Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sample_id
+      label: Sample ID
+      hint: Unique identifier for the sample
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sample_type
+      label: Sample Type
+      hint: What type of sample was analyzed
+      type: select_one
+      options:
+      - Blood
+      - Tissue
+      - DNA
+      - RNA
+      - Protein
+      - Cell Culture
+      - Environmental
+      - Other
+      required: true
+    - id: 13
+      name: sample_collection_date
+      label: Sample Collection Date
+      hint: When the sample was collected
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: sample_quantity
+      label: Sample Quantity
+      hint: Amount or volume of sample
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sample_storage_condition
+      label: Storage Condition
+      hint: How the sample was stored
+      type: select_one
+      options:
+      - Room Temperature
+      - Refrigerated (2-8C)
+      - Frozen (-20C)
+      - Frozen (-80C)
+      - Liquid Nitrogen
+      - Other
+      required: true
+    - id: 16
+      name: section_test_information
+      label: -- Test Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: test_type
+      label: Test Type or Analysis Performed
+      hint: Type of analysis conducted
+      type: select_one
+      options:
+      - Sequencing
+      - PCR Analysis
+      - Protein Analysis
+      - Gene Expression
+      - Pathology
+      - Chemical Analysis
+      - Microbiology
+      - Other
+      required: true
+    - id: 18
+      name: test_method
+      label: Testing Method or Protocol
+      hint: Specific method used
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: test_start_date
+      label: Test Start Date
+      hint: When testing began
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: test_completion_date
+      label: Test Completion Date
+      hint: When testing was completed
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: section_quality_control
+      label: -- Quality Control --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: qc_passed
+      label: Quality Control Standards Met
+      hint: Did sample pass QC standards
+      type: select_one
+      options:
+      - Yes - Passed
+      - No - Failed
+      - Partial Pass
+      required: true
+    - id: 23
+      name: qc_notes
+      label: QC Notes or Issues
+      hint: Any issues or special notes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_results
+      label: -- Results Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: results_summary
+      label: Results Summary
+      hint: Brief summary of findings
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: results_status
+      label: Results Status
+      hint: Current status of results
+      type: select_one
+      options:
+      - Preliminary
+      - Final
+      - Amended
+      - Reviewed and Approved
+      required: true
+    - id: 27
+      name: raw_data_upload
+      label: Raw Data File
+      hint: Upload raw data file if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: analysis_file_upload
+      label: Analysis or Report File
+      hint: Upload analysis document or PDF
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_files
+      label: Additional Supporting Files
+      hint: Upload any other relevant files
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_interpretation
+      label: -- Interpretation and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: interpreted_by
+      label: Results Interpreted By
+      hint: Name of scientist or analyst
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: interpretation_date
+      label: Interpretation Date
+      hint: Date results were interpreted
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: reviewed_by
+      label: Reviewed and Approved By
+      hint: Name of reviewer
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: review_date
+      label: Review Date
+      hint: Date of review and approval
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: confidentiality_acknowledgment
+      label: I certify that all information in this report is accurate and complete
+      hint: Check to confirm
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true

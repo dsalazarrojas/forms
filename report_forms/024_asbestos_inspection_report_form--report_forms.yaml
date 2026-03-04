@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asbestos Inspection Report Form
+    pages:
+    - id: 1
+      name: inspector_name_full
+      label: Licensed Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date_val
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: property_address_asb
+      label: Inspected Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_category
+      label: Property Classification
+      hint: null
+      type: select_one
+      options:
+      - Residential - Single Family
+      - Residential - Multi-unit
+      - Commercial/Office
+      - Industrial/Manufacturing
+      - Educational/Public Building
+      required: true
+    - id: 5
+      name: areas_inspected_list
+      label: Detailed List of Areas Inspected
+      hint: e.g. Basement, Attic, HVAC ducting
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: samples_taken_status
+      label: Were physical samples taken for laboratory analysis
+      hint: null
+      type: select_one
+      options:
+      - Yes - Samples sent to lab
+      - No - Visual inspection only
+      required: true
+    - id: 7
+      name: sample_ids_collected
+      label: Sample IDs and Locations
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspected_material_condition
+      label: Condition of Suspected Asbestos Containing Materials
+      hint: null
+      type: select_one
+      options:
+      - Good - Intact
+      - Fair - Minor damage
+      - Poor - Friable/Deteriorating
+      required: true
+    - id: 9
+      name: recommendation_asb
+      label: Immediate Recommendations
+      hint: null
+      type: select_one
+      options:
+      - No Action Required
+      - Ongoing Monitoring
+      - Encapsulation
+      - Full Abatement/Removal
+      required: true
+    - id: 10
+      name: risk_assessment_score
+      label: Overall Hazard Risk Assessment
+      hint: 1 - Low, 5 - Extreme Hazard
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: report_verification
+      label: I certify that this inspection was performed per state regulations
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

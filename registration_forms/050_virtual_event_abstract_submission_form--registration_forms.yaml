@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Abstract Submission Form
+    pages:
+    - id: 1
+      name: abstract_submission
+      label: Abstract Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: presenters
+      label: Presenters
+      hint: null
+      type: select_one
+      options:
+      - Speaker
+      - Speaker
+      - Speaker
+      - Speaker
+      - Speaker
+      - Speaker
+      - Speaker
+      - Speaker
+      required: false
+    - id: 3
+      name: affiliations
+      label: Affiliations
+      hint: List affiliations for each presenter
+      type: select_multiple
+      options:
+      - Affiliate 1
+      - Affiliate 2
+      - Affiliate 3
+      required: false
+    - id: 4
+      name: email_addresses
+      label: E-mail Address
+      hint: Enter the email address of the first presenter
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_numbers
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: presentation_details
+      label: Presentation Details
+      hint: Enter presentation details
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: selected_files
+      label: Selected Files
+      hint: Upload files
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Patron Incident Report Form
+    pages:
+    - id: 1
+      name: patron_name
+      label: patron_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_notified
+      label: staff_notified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Other''}'
+      - '{''id'': 2, ''label'': ''Patron behavior''}'
+      - '{''id'': 3, ''label'': ''Patron property damage''}'
+      - '{''id'': 4, ''label'': ''Library material damage''}'
+      - '{''id'': 5, ''label'': ''Other property damage''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      - '{''id'': 7, ''label'': ''Other''}'
+      - '{''id'': 8, ''label'': ''Other''}'
+      - '{''id'': 9, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Send a note to the patron''}'
+      - '{''id'': 2, ''label'': ''Call the patron''}'
+      - '{''id'': 3, ''label'': ''Follow-up meeting''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      - '{''id'': 7, ''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: follow_up_contacts
+      label: follow_up_contacts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Patron''}'
+      - '{''id'': 2, ''label'': ''Staff''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      - '{''id'': 7, ''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attachment_1
+      label: attachment_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachment_2
+      label: attachment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachment_3
+      label: attachment_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attachment_4
+      label: attachment_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment_5
+      label: attachment_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachment_6
+      label: attachment_6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment_7
+      label: attachment_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachment_8
+      label: attachment_8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachment_9
+      label: attachment_9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attachment_10
+      label: attachment_10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_11
+      label: attachment_11
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment_12
+      label: attachment_12
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attachment_13
+      label: attachment_13
+      hint: null
+      type: text
+      options: []
+      required: false

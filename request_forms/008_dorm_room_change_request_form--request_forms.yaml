@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dorm Room Change Request Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: current_room_number
+      label: Current Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_room_number
+      label: New Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_room_type
+      label: New Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triple
+      required: true
+    - id: 6
+      name: current_dorm_number
+      label: Current Dorm Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_dorm_number
+      label: New Dorm Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_change_made
+      label: Date of Change Made
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_change_made
+      label: Time of Change Made
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_change_made
+      label: Reason for Change Made
+      hint: null
+      type: text
+      options: []
+      required: false

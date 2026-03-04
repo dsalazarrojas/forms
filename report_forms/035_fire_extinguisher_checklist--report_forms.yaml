@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Extinguisher Checklist
+    pages:
+    - id: 1
+      name: section_1
+      label: Fire Extinguisher Types
+      hint: null
+      type: select_one
+      options:
+      - 1A
+      - 3A
+      - 4A
+      - BC
+      - K
+      required: false
+    - id: 2
+      name: location_id
+      label: Location
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fire_extinguisher_type
+      label: Fire Extinguisher Type
+      hint: null
+      type: select_one
+      options:
+      - Fire Extinguisher 1
+      - Fire Extinguisher 2
+      - Fire Extinguisher 3
+      - Fire Extinguisher 4
+      required: false
+    - id: 4
+      name: is_functional
+      label: Is Functional
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 5
+      name: date_last_inspected
+      label: Date Last Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_last_inspected
+      label: Time Last Inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: section_2
+      label: Section 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

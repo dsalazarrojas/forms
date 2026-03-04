@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Zero Building Partnership Registration
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Partner
+      - Collaborator
+      - Affiliate
+      required: false
+    - id: 10
+      name: expertise_interests
+      label: Expertise & Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: partnership_type
+      label: Partnership Type
+      hint: null
+      type: select_one
+      options:
+      - General Partnership
+      - Joint Partnership
+      - Collaborative Partnership
+      required: false
+    - id: 12
+      name: partnership_status
+      label: Partnership Status
+      hint: null
+      type: select_one
+      options:
+      - In Development
+      - In Progress
+      - Active
+      required: false
+    - id: 13
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: onboarding_time
+      label: Onboarding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: partner_details
+      label: Partner Details
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Equipment Test Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Fire Safety Equipment Test Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: alarm_type
+      label: alarm_type
+      hint: null
+      type: select_one
+      options:
+      - Fire Alarms
+      - Sprinkler System
+      - Fire Extinguisher
+      required: false
+    - id: 3
+      name: test_request_date
+      label: test_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_request_time
+      label: test_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Sarah
+      - John
+      required: false
+    - id: 10
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false

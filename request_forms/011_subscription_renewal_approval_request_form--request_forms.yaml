@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Renewal Approval Request Form
+    pages:
+    - id: 1
+      name: subscription_details
+      label: Subscription details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_name
+      label: Subscription Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: renewal_period
+      label: Renewal Period
+      hint: null
+      type: select_multiple
+      options:
+      - one-time
+      - recurring
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - yearly
+      required: false
+    - id: 7
+      name: justification
+      label: Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - rejected
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: business_justification
+      label: Business Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: team_approvals
+      label: Team Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - approved
+      - rejected
+      required: false
+    - id: 13
+      name: team_comments
+      label: Team Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 16
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_one
+      options:
+      - Bobby
+      - Jimi
+      - Jim
+      required: false
+    - id: 20
+      name: prophets_ammount
+      label: Prophets Ammount
+      hint: null
+      type: number
+      options: []
+      required: false

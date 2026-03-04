@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Employee Schedule Request Form
+    pages:
+    - id: 1
+      name: store_id
+      label: store id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shift_id
+      label: shift id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: schedule_request
+      label: schedule request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: available_date
+      label: available date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shift_status
+      label: shift status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      - Holiday
+      required: false
+    - id: 9
+      name: reason
+      label: reason
+      hint: null
+      type: select_multiple
+      options:
+      - Holiday
+      - Doctor Visit
+      - Personal Appointment
+      required: false
+    - id: 10
+      name: shift_status_comments
+      label: shift status comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Store A
+      - Store B
+      - Store C
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

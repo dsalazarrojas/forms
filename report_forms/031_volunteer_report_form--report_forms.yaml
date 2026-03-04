@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Report Form
+    pages:
+    - id: 1
+      name: volunteer_report
+      label: Volunteer Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: impact_activities
+      label: Impact Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 4
+      name: date_last_report
+      label: Date Last Report
+      hint: Enter date last report was made, if any.
+      type: date
+      options: []
+      required: false

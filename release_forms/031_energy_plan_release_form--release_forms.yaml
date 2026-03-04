@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Plan Release Form
+    pages:
+    - id: 1
+      name: release_form_fields
+      label: Release Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: utility_name
+      label: Utility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_number_type
+      label: Account Number Type
+      hint: null
+      type: select_one
+      options:
+      - Meter
+      - Service
+      - Account
+      required: false
+    - id: 5
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transfer_amount
+      label: Transfer Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: authorized_name
+      label: Authorized Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false

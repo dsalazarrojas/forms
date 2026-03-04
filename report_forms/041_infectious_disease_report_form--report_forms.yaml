@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infectious Disease Report Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: First and Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: onset_date
+      label: Onset Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: disease_name
+      label: Disease Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: reporting_dhcp
+      label: Reporting Health Care Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John Doe
+      - Dr. Jane Smith
+      - Dr. Bob Johnson
+      required: false
+    - id: 9
+      name: reporting_facility
+      label: Reporting Facility
+      hint: null
+      type: select_one
+      options:
+      - Hospital A
+      - Hospital B
+      - Hospital C
+      required: false
+    - id: 10
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false

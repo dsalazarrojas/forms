@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branch Visit Report Form
+    pages:
+    - id: 1
+      name: section_header_visit
+      label: -- Visit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: Date of branch visit
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: visit_time_start
+      label: Visit Start Time
+      hint: When visit began
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: visit_time_end
+      label: Visit End Time
+      hint: When visit ended
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: branch_location
+      label: Branch Location Visited
+      hint: Which branch
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_staff
+      label: -- Staff Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: staff_present
+      label: Staff Members Present
+      hint: Who was present during visit
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_count
+      label: Total Staff Count
+      hint: Number of employees present
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_header_operations
+      label: -- Operations Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_activity
+      label: Customer Activity Level
+      hint: Assess current customer volume
+      type: select_one
+      options:
+      - Very busy
+      - Busy
+      - Moderate
+      - Slow
+      - Very slow
+      required: false
+    - id: 11
+      name: operations_status
+      label: Operations Status
+      hint: Overall operational status
+      type: select_one
+      options:
+      - Running smoothly
+      - Minor issues
+      - Significant issues
+      - Critical problems
+      required: true
+    - id: 12
+      name: section_header_observations
+      label: -- Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: staff_performance
+      label: Staff Performance Observations
+      hint: How well team is performing
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_condition
+      label: Facility Condition
+      hint: Cleanliness and maintenance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs improvement
+      - Poor
+      required: false
+    - id: 15
+      name: customer_satisfaction
+      label: Customer Satisfaction Observed
+      hint: Customer feedback or behavior
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Some complaints
+      - Major complaints
+      required: false
+    - id: 16
+      name: section_header_issues
+      label: -- Issues and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: issues_identified
+      label: Issues Identified
+      hint: Problems or concerns found
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: action_items
+      label: Action Items Required
+      hint: What needs to be done
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_recommendations
+      label: -- Recommendations and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_needed
+      label: Follow-up Visit Needed
+      hint: Will return visit be necessary
+      type: select_one
+      options:
+      - Yes, urgent
+      - Yes, scheduled
+      - Maybe
+      - false
+      required: false
+    - id: 21
+      name: notes
+      label: Additional Notes
+      hint: Any other comments or observations
+      type: text
+      options: []
+      required: false

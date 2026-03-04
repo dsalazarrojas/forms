@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Escort And Provisions Form (for Cars)
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_details
+      label: Service Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: driver_number
+      label: Driver License Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: escort_details
+      label: Escort Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: provisions_details
+      label: Provisions Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

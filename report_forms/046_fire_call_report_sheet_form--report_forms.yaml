@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fire Call Report Sheet Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: call_type
+      label: Call Type
+      hint: 'null'
+      type: select_one
+      options:
+      - Fire Call
+      - Fire Call - Other
+      - Other
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Engine Fire
+      - Building Fire
+      - Other
+      - Electrical
+      required: false
+    - id: 5
+      name: incident_status
+      label: Incident Status
+      hint: 'null'
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: response_team
+      label: Response Team
+      hint: 'null'
+      type: select_one
+      options:
+      - Engine
+      - Ladder
+      - Rescue
+      required: false
+    - id: 8
+      name: call_number
+      label: Call Number
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: unit_number
+      label: Unit Number
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_id
+      label: Incident ID
+      hint: 'null'
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,164 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Education Observation Form
+    pages:
+    - id: 1
+      name: section_obs_details
+      label: -- Observation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer Name
+      hint: Professional evaluating the educator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: educator_name_being_observed
+      label: Educator Name Being Observed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subject_or_course_title
+      label: Subject or Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: observation_start_time
+      label: Observation Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: section_eval
+      label: -- Teaching Quality Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lesson_preparation_and_clarity
+      label: Lesson Preparation and Clarity
+      hint: objectives clearly stated and materials ready
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 9
+      name: engagement_with_adult_learners
+      label: Engagement with Adult Learners
+      hint: Ability to facilitate discussion and involvement
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 10
+      name: subject_matter_expertise
+      label: Subject Matter Expertise
+      hint: Depth of knowledge and ability to answer questions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 11
+      name: use_of_instructional_technology
+      label: Use of Instructional Technology
+      hint: Effective use of slides, videos, or software
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: false
+    - id: 12
+      name: classroom_management_and_environment
+      label: Classroom Management and Environment
+      hint: Creating a positive learning atmosphere
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 13
+      name: observer_strengths_noted
+      label: Observer Strengths Noted
+      hint: Positive feedback on performance
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Actionable suggestions for growth
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_final
+      label: -- Final Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: overall_performance_rating
+      label: Overall Performance Rating
+      hint: Summary evaluation
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Developing
+      - Unsatisfactory
+      required: true
+    - id: 17
+      name: observer_summary_comments
+      label: Observer Summary Comments
+      hint: Final thoughts on the observation
+      type: text
+      options: []
+      required: false

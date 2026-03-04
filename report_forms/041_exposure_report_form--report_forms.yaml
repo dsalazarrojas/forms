@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: exposure_report_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: substance
+      label: Substance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: witness_names
+      label: Witness Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_contacts
+      label: Witness Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_relationship
+      label: Witness Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witness_description
+      label: Witness Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reporting_officer_signature
+      label: Reporting Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reporting_officer_title
+      label: Reporting Officer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_title
+      label: Witness Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reporting_officer_email
+      label: Reporting Officer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: reporting_officer_phone
+      label: Reporting Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_address
+      label: Witness Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_job_title
+      label: Witness Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporting_officer_department
+      label: Reporting Officer Department
+      hint: null
+      type: text
+      options: []
+      required: false

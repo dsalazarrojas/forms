@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Transaction Summary
+    pages:
+    - id: 1
+      name: transaction_details
+      label: Transaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Residential''}'
+      - '{''label'': ''Commercial''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agent_license
+      label: Agent License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false

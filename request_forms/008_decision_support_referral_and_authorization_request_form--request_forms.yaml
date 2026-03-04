@@ -1,0 +1,837 @@
+inputSchema:
+  type: object
+  properties:
+    title: Decision Support Referral And Authorization Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referral_request_form
+      label: referral_request_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: referral_requester_name
+      label: referral_requester_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referral_requester_email
+      label: referral_requester_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: referral_requester_phone
+      label: referral_requester_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referring_doctor_name
+      label: referring_doctor_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: referral_type
+      label: referral_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referral_request_date
+      label: referral_request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: referral_request_time
+      label: referral_request_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: referral_requester_department
+      label: referral_requester_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: referral_requester_title
+      label: referral_requester_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: referral_requester_designation
+      label: referral_requester_designation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: referral_requester_location
+      label: referral_requester_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: referral_requester_facilities
+      label: referral_requester_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: referral_requester_education
+      label: referral_requester_education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: referral_requester_work_history
+      label: referral_requester_work_history
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: referral_requester_licensing
+      label: referral_requester_licensing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: referral_requester_specialties
+      label: referral_requester_specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: referral_requester_languages
+      label: referral_requester_languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: referral_requester_notes
+      label: referral_requester_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: referring_doctor_department
+      label: referring_doctor_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: referring_doctor_title
+      label: referring_doctor_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: referring_doctor_facilities
+      label: referring_doctor_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: referral_requester_referring_doctor_name
+      label: referral_requester_referring_doctor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: authorization_status
+      label: authorization_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 28
+      name: authorization_note
+      label: authorization_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: authorization_time
+      label: authorization_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 31
+      name: authorized_doctor
+      label: authorized_doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: authorized_title
+      label: authorized_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: authorized_facilities
+      label: authorized_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 34
+      name: authorized_department
+      label: authorized_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 35
+      name: authorized_note
+      label: authorized_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: authorized_education
+      label: authorized_education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 37
+      name: authorized_licensing
+      label: authorized_licensing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 38
+      name: authorized_languages
+      label: authorized_languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 39
+      name: authorized_facilities_location
+      label: authorized_facilities_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: authorized_status
+      label: authorized_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: referral_requester_authorized
+      label: referral_requester_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 42
+      name: authorization_requester_authorized
+      label: authorization_requester_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 43
+      name: authorization_requester_facilities
+      label: authorization_requester_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 44
+      name: authorization_requester_education
+      label: authorization_requester_education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 45
+      name: authorization_requester_licensing
+      label: authorization_requester_licensing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 46
+      name: authorization_requester_languages
+      label: authorization_requester_languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 47
+      name: authorization_requester_notes
+      label: authorization_requester_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 48
+      name: authorization_requester_status
+      label: authorization_requester_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 49
+      name: authorized_doctor_facilities
+      label: authorized_doctor_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 50
+      name: authorized_facilities
+      label: authorized_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 51
+      name: authorized_department
+      label: authorized_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 52
+      name: authorized_title
+      label: authorized_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: authorization_requester_authorized
+      label: authorization_requester_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 54
+      name: decision_support_authorized
+      label: decision_support_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 55
+      name: authorization_requester_facilities
+      label: authorization_requester_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 56
+      name: authorized_doctor
+      label: authorized_doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 57
+      name: authorized_facilities_location
+      label: authorized_facilities_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 58
+      name: authorized_title
+      label: authorized_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 59
+      name: decision_support_authorized
+      label: decision_support_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 60
+      name: authorized_education
+      label: authorized_education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 61
+      name: authorized_licensing
+      label: authorized_licensing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 62
+      name: authorized_languages
+      label: authorized_languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 63
+      name: referral_requester_authorized
+      label: referral_requester_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 64
+      name: authorized_facilities
+      label: authorized_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 65
+      name: authorized_department
+      label: authorized_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 66
+      name: authorized_title
+      label: authorized_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 67
+      name: decision_support_authorized
+      label: decision_support_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 68
+      name: referral_requester_authorized
+      label: referral_requester_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 69
+      name: referral_requester_facilities
+      label: referral_requester_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 70
+      name: authorized_facilities_location
+      label: authorized_facilities_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 71
+      name: authorized_status
+      label: authorized_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 72
+      name: referral_requester_licensing
+      label: referral_requester_licensing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 73
+      name: authorized_languages
+      label: authorized_languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 74
+      name: authorized_facilities
+      label: authorized_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 75
+      name: authorized_note
+      label: authorized_note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 76
+      name: referral_requester_department
+      label: referral_requester_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 77
+      name: authorization_requester_authorized
+      label: authorization_requester_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 78
+      name: decision_support_authorized
+      label: decision_support_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 79
+      name: referral_requester_note
+      label: referral_requester_note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 80
+      name: authorized_doctor_facilities
+      label: authorized_doctor_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 81
+      name: authorized_education
+      label: authorized_education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 82
+      name: authorized_languages
+      label: authorized_languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 83
+      name: authorization_requester_department
+      label: authorization_requester_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 84
+      name: authorized_title
+      label: authorized_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 85
+      name: referral_requester_education
+      label: referral_requester_education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 86
+      name: authorized_licensing
+      label: authorized_licensing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 87
+      name: authorized_education
+      label: authorized_education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 88
+      name: authorized_education
+      label: authorized_education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 89
+      name: authorization_requester_authorized
+      label: authorization_requester_authorized
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 90
+      name: authorization_requester_education
+      label: authorization_requester_education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 91
+      name: referral_requester_licensing
+      label: referral_requester_licensing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 92
+      name: authorized_languages
+      label: authorized_languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 93
+      name: authorized_facilities
+      label: authorized_facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 94
+      name: authorized_department
+      label: authorized_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 95
+      name: referral_requester_department
+      label: referral_requester_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 96
+      name: authorized_title
+      label: authorized_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 97
+      name: authorized_facilities_location
+      label: authorized_facilities_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 98
+      name: authorization_requester_languages
+      label: authorization_requester_languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 99
+      name: authorized_doctor
+      label: authorized_doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 100
+      name: authorized_note
+      label: authorized_note
+      hint: null
+      type: text
+      options: []
+      required: true

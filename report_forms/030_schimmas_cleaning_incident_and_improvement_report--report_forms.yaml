@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schimmas Cleaning Incident And Improvement Report
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: non_conformances
+      label: non_conformances
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: continual_improvement
+      label: continual_improvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: corrective_actions
+      label: corrective_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preventive_actions
+      label: preventive_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inheritance Release Form
+    pages:
+    - id: 1
+      name: release_form_page_1
+      label: asset_confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: release_form_page_2
+      label: claim_waiver
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: dispute_resolution
+      label: dispute_resolution
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: asset_disposition
+      label: asset_disposition
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 5
+      name: asset_disposition_reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: asset_value
+      label: asset_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: asset_value_currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 8
+      name: asset_value_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: release_party
+      label: release_party
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 10
+      name: release_party_reason
+      label: release_party_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 12
+      name: asset_value_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: asset_value_other_details
+      label: other_details
+      hint: null
+      type: text
+      options: []
+      required: false

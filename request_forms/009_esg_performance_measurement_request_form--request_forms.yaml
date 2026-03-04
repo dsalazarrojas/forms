@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: ESG Performance Measurement Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: ESG performance measurement request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: esg_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - ESG
+      - Other
+      required: false
+    - id: 3
+      name: esg_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: esg_performance_measures
+      label: Performance measures
+      hint: null
+      type: select_multiple
+      options:
+      - measure_1
+      - measure_2
+      - measure_3
+      required: false
+    - id: 5
+      name: esg_performance_measure_1
+      label: Measure 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: esg_performance_measure_2
+      label: Measure 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: esg_performance_measure_3
+      label: Measure 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: esg_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

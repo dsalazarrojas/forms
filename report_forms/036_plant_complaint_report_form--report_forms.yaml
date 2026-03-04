@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Complaint Report Form
+    pages:
+    - id: 1
+      name: complaint_date
+      label: complaint_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: complaint_location
+      label: complaint_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_description
+      label: complaint_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_evidence
+      label: Photo Evidence
+      hint: Upload a photo of the issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

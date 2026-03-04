@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Engineering Session Consent Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal name of session participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 years of age or older?
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am a minor
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email for parent or guardian
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: studio_name
+      label: Studio Name
+      hint: Name of recording studio or facility
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_date
+      label: Session Date
+      hint: Date of recording session
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: session_type
+      label: Session Type
+      hint: Type of recording session
+      type: select_one
+      options:
+      - Music Recording
+      - Voice Over
+      - Podcast Recording
+      - Audiobook
+      - Sound Effects
+      - Mixing Session
+      - Mastering Session
+      - Other
+      required: true
+    - id: 11
+      name: project_name
+      label: Project Name
+      hint: Name or title of the project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recording_purpose
+      label: Recording Purpose
+      hint: What is the intended use of the recording?
+      type: select_one
+      options:
+      - Commercial Release
+      - Personal Use
+      - Educational
+      - Promotional
+      - Broadcast
+      - Internal Use Only
+      required: true
+    - id: 13
+      name: recording_consent
+      label: Recording Consent
+      hint: I consent to being recorded during this session
+      type: select_one
+      options:
+      - Yes, I consent to recording
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: usage_rights
+      label: Usage Rights
+      hint: How may the recording be used?
+      type: select_multiple
+      options:
+      - Commercial distribution
+      - Streaming platforms
+      - Radio broadcast
+      - Social media
+      - Portfolio use
+      - Educational purposes
+      - Internal review only
+      required: true
+    - id: 15
+      name: usage_duration
+      label: Usage Duration
+      hint: How long may recordings be used?
+      type: select_one
+      options:
+      - 1 year
+      - 3 years
+      - 5 years
+      - Perpetual
+      - Project only
+      required: true
+    - id: 16
+      name: compensation_agreement
+      label: Compensation Agreement
+      hint: Have you been compensated for this session?
+      type: select_one
+      options:
+      - Yes, paid session
+      - Yes, royalty agreement
+      - No, voluntary session
+      - Trade or barter
+      required: true
+    - id: 17
+      name: liability_release
+      label: Liability Release
+      hint: I release the studio from liability related to session
+      type: select_one
+      options:
+      - Yes, I release liability
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: equipment_damage_policy
+      label: Equipment Damage Policy
+      hint: I understand I may be liable for intentional equipment damage
+      type: select_one
+      options:
+      - Yes, I understand and agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: I agree to keep session content confidential if requested
+      type: select_one
+      options:
+      - Yes, I agree to confidentiality
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

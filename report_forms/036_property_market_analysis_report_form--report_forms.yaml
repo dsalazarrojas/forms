@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Market Analysis Report Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 3
+      name: property_subtype
+      label: Property Subtype
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Condo
+      - Townhouse
+      - Apartment
+      required: false
+    - id: 4
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Leased
+      required: false
+    - id: 5
+      name: property_price_range
+      label: Property Price Range
+      hint: null
+      type: select_multiple
+      options:
+      - $100,000-$200,000
+      - $200,000-$500,000
+      - $500,000-$1,000,000
+      - $1,000,000-$2,000,000
+      required: false
+    - id: 6
+      name: property_features
+      label: Property Features
+      hint: null
+      type: select_multiple
+      options:
+      - Parking
+      - Swimming Pool
+      - Gym
+      - View
+      required: false
+    - id: 7
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_manager_contact_number
+      label: Property Manager Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agent_name_organisation
+      label: Agent Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: appraiser_name
+      label: Appraiser Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: appraiser_licence_number
+      label: Appraiser License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: appraiser_contact_number
+      label: Appraiser Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: appraiser_email
+      label: Appraiser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: property_inspector_name
+      label: Property Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_inspector_licence_number
+      label: Property Inspector License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_inspector_contact_number
+      label: Property Inspector Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_inspector_email
+      label: Property Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: report_notes
+      label: Report Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: report_attachment
+      label: Report Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: report_submission_date
+      label: Report Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: report_submission_time
+      label: Report Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

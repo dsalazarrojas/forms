@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Timesheet Adjustment Request Form
+    pages:
+    - id: 1
+      name: weekly_timesheet_adjustment_request_form
+      label: weekly_timesheet_adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: week_start_date
+      label: week_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: week_end_date
+      label: week_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: adjustment_type
+      label: adjustment_type
+      hint: null
+      type: select_one
+      options:
+      - Adjustments
+      - Additions
+      - Overtime
+      - Leave
+      - Other
+      required: false
+    - id: 5
+      name: adjustment_start_date
+      label: adjustment_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: adjustment_end_date
+      label: adjustment_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: hours
+      label: hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false

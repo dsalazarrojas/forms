@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: film production expense report form
+    pages:
+    - id: 1
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Film
+      - Equipment
+      - Talent
+      - Miscellaneous
+      required: false
+    - id: 2
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: total_expenses
+      label: Total Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Film
+      - Production
+      - Post
+      - Pre
+      required: true
+    - id: 7
+      name: film_name
+      label: Film Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_company
+      label: Production Company
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Predictive Maintenance Insight Report Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_selection
+      label: select_asset
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: report_frequency
+      label: report_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_field
+      label: date_field
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_field
+      label: time_field
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: asset_notes
+      label: asset_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

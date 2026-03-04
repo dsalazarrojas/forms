@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Piano Moving Quote Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Street address''}'
+      - '{''id'': 2, ''label'': ''PO Box''}'
+      - '{''id'': 3, ''label'': ''Rural delivery''}'
+      required: true
+    - id: 6
+      name: piano_type
+      label: Piano type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: moving_date
+      label: Date of move
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: moving_time
+      label: Time of move
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

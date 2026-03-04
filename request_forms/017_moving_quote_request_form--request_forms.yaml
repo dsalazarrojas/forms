@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moving Quote Request Form
+    pages:
+    - id: 1
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: moving_details
+      label: Moving Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: moving_date
+      label: Moving Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: moving_time
+      label: Moving Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: file_uploader
+      label: File Uploader
+      hint: Upload any files related to the moving
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - Chat Bobby
+      - Chat Sally
+      required: false
+    - id: 10
+      name: submitter_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily OPD Report Form
+    pages:
+    - id: 1
+      name: page_1
+      label: first-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first-name
+      hint: First Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: middle_name
+      label: middle-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: age
+      hint: Age
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sex
+      label: sex
+      hint: Gender
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      - prefer not to say
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact-number
+      hint: Contact Number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hospital_name
+      label: hospital-name
+      hint: Hospital Name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department_name
+      label: department-name
+      hint: Department Name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bed_number
+      label: bed-number
+      hint: Bed Number
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: patient_count
+      label: patient-count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: visit_count
+      label: visit-count
+      hint: Visit Count
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: admission_duration
+      label: admission-duration
+      hint: Admission Duration
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: discharge_date
+      label: discharge-date
+      hint: Discharge Date
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_admission
+      label: reason-for-admission
+      hint: Reason for Admission
+      type: select_multiple
+      options:
+      - Cardiovascular
+      - Neurology
+      - Gastroenterology
+      - Pulmonology
+      - Urology
+      - General Surgery
+      - Endoscopy
+      - Gynecology
+      - Nephrology
+      - Ophthalmology
+      required: false
+    - id: 16
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false

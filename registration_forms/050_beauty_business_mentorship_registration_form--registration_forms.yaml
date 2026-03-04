@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Business Mentorship Registration Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Your business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: What type of business
+      type: select_one
+      options:
+      - Salon
+      - Spa
+      - Beauty Bar
+      - Mobile Beauty Service
+      - Product Line
+      - Beauty School
+      - Other
+      required: true
+    - id: 7
+      name: business_location
+      label: Business Location
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - Over 15 years
+      required: true
+    - id: 9
+      name: current_revenue
+      label: Annual Revenue Range
+      hint: Your revenue
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000-$100,000
+      - $100,001-$250,000
+      - $250,001-$500,000
+      - $500,001-$1,000,000
+      - Over $1,000,000
+      required: true
+    - id: 10
+      name: number_of_employees
+      label: Number of Employees
+      hint: Team size
+      type: select_one
+      options:
+      - Just Me
+      - 2-5 Employees
+      - 6-10 Employees
+      - 11-20 Employees
+      - Over 20 Employees
+      required: true
+    - id: 11
+      name: mentorship_goals
+      label: What Are Your Mentorship Goals
+      hint: What do you want to achieve
+      type: select_multiple
+      options:
+      - Business Growth
+      - Marketing Strategy
+      - Financial Management
+      - Team Building
+      - Product Development
+      - Brand Building
+      - Operations Efficiency
+      - Work-Life Balance
+      required: true
+    - id: 12
+      name: biggest_challenges
+      label: Biggest Business Challenges
+      hint: What struggles do you face
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: mentor_preference
+      label: Mentor Preference
+      hint: What type of mentor
+      type: select_one
+      options:
+      - Industry Veteran
+      - Marketing Expert
+      - Financial Advisor
+      - Operations Specialist
+      - Brand Builder
+      - No Preference
+      required: true
+    - id: 14
+      name: meeting_frequency
+      label: Preferred Meeting Frequency
+      hint: How often to meet
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 15
+      name: meeting_format
+      label: Preferred Meeting Format
+      hint: How to meet
+      type: select_one
+      options:
+      - In-Person
+      - Video Call
+      - Phone Call
+      - Flexible
+      required: true
+    - id: 16
+      name: program_duration
+      label: Desired Program Duration
+      hint: How long
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - Ongoing
+      required: true
+    - id: 17
+      name: investment_ready
+      label: Are You Ready to Invest in Mentorship
+      hint: Budget ready
+      type: select_one
+      options:
+      - true
+      - false
+      - Need More Information
+      required: true
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About This Program
+      hint: Source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Industry Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 19
+      name: referral_name
+      label: Referral Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

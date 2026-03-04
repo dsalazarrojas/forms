@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Release Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tattoo_details
+      label: Tattoo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release
+      label: Release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

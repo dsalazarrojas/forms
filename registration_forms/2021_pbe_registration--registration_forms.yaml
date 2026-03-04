@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 PBE Registration
+    pages:
+    - id: 1
+      name: section_team_info
+      label: '--- Team Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Official team name
+      hint: Enter the name you want displayed on brackets and scoreboards
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: division_category
+      label: Competition division
+      hint: Select the category that best fits your team's experience level
+      type: select_one
+      options:
+      - Recreational (Casual/Fun)
+      - Competitive (Amateur League)
+      - Elite/Pro (Sponsored/Professional)
+      - Youth Division (Under 18)
+      required: true
+    - id: 4
+      name: number_of_players
+      label: Total team members
+      hint: Include the captain. Maximum 6 players per team.
+      type: integer
+      options: []
+      required: true
+    - id: 5
+      name: section_captain
+      label: '--- Captain/Primary Contact ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: captain_full_name
+      label: Full legal name
+      hint: As it appears on your government ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email address
+      hint: Primary contact for schedules and updates
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Mobile phone number
+      hint: Used for day-of-event emergency contact
+      type: phone
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of birth
+      hint: Must be 18+ or provide guardian consent form
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: age
+      label: Age as of event date
+      hint: Verify division eligibility
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: mailing_address
+      label: Mailing address
+      hint: For sending team packets, bibs, and prizes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_emergency
+      label: '--- Emergency Contact ---'
+      hint: Must be someone not participating in the event
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Full name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: Must be reachable during event hours (8AM-6PM)
+      type: phone
+      options: []
+      required: true
+    - id: 15
+      name: relationship_to_participant
+      label: Relationship to captain
+      hint: null
+      type: select_one
+      options:
+      - Spouse/Partner
+      - Parent
+      - Guardian
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 16
+      name: section_team_profile
+      label: '--- Team Profile & Equipment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: experience_level
+      label: Team experience level
+      hint: Average experience of your team members
+      type: select_one
+      options:
+      - Beginner (First-time participants)
+      - Intermediate (Some tournament experience)
+      - Advanced (Regular competitors)
+      - Professional (Paid/Sponsored teams)
+      required: true
+    - id: 18
+      name: equipment_rental
+      label: Equipment rental needed (select all)
+      hint: Select items your team needs to borrow
+      type: select_multiple
+      options:
+      - Markers/Guns
+      - Protective masks
+      - Chest protectors
+      - Gloves
+      - Ammunition pods
+      - None - bringing own equipment
+      required: false
+    - id: 19
+      name: how_heard
+      label: How did you hear about us?
+      hint: Helps us improve our outreach
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family referral
+      - Website/Email newsletter
+      - Flyer/Poster
+      - Local sporting goods store
+      - Previous participant
+      - Other
+      required: false
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary restrictions or allergies
+      hint: For catering lunch provided to competitors
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_conditions
+      label: Medical conditions or medications
+      hint: Asthma, allergies, etc. that medical staff should know
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: waiver_accepted
+      label: Liability waiver acceptance
+      hint: Required to participate
+      type: select_one
+      options:
+      - Yes, I agree to the liability waiver and safety rules
+      - No, I do not agree
+      required: true
+    - id: 23
+      name: photo_release
+      label: Photo release consent
+      hint: Can we use photos of your team for marketing?
+      type: select_one
+      options:
+      - Yes - I consent to event photography and promotional use
+      - No - Do not photograph me or my team
+      required: true
+    - id: 24
+      name: special_accommodations
+      label: Special requirements or accommodations
+      hint: Accessibility needs, hearing impairments, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Anything else the organizers should know?
+      type: text
+      options: []
+      required: false

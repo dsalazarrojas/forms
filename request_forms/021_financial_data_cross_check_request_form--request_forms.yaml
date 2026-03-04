@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Data Cross Check Request Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Submission Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_holder
+      label: Account Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Checking'', ''value'': ''checking''}'
+      - '{''label'': ''Savings'', ''value'': ''savings''}'
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      required: false
+    - id: 5
+      name: account_balance
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: last_transaction_date
+      label: Last Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Bank Statement'', ''value'': ''bank-statement''}'
+      - '{''label'': ''Check'', ''value'': ''check''}'
+      - '{''label'': ''Receipt'', ''value'': ''receipt''}'
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: financial_data_confirmation
+      label: Financial Data Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: review_confirmation
+      label: Review Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

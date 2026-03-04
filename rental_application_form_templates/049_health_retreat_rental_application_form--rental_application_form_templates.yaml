@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Retreat Rental Application Form
+    pages:
+    - id: 1
+      name: retreat_request
+      label: Retreat Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_details
+      label: Group Details
+      hint: null
+      type: select_one
+      options:
+      - '{''Group Type'': ''Group Type''}'
+      - '{''Type of Meeting'': ''Type of Meeting''}'
+      - '{''Type of Workshop'': ''Type of Workshop''}'
+      required: false
+    - id: 3
+      name: date_range
+      label: Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_slots
+      label: Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00-12:00
+      - 12:00-15:00
+      - 15:00-18:00
+      required: false
+    - id: 5
+      name: venue_preferences
+      label: Venue Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

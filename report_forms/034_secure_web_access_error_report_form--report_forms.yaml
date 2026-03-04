@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Secure Web Access Error Report Form
+    pages:
+    - id: 1
+      name: secure_web_access_error_report_form
+      label: Secure Web Access Error Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: error_type
+      label: error_type
+      hint: null
+      type: select_one
+      options:
+      - Invalid credentials
+      - Timeout
+      - Connection error
+      - Server error
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: username
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ip_address
+      label: ip_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: browser_type
+      label: browser_type
+      hint: null
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - IE
+      - Edge
+      required: false
+    - id: 7
+      name: operating_system
+      label: operating_system
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - Mac OS
+      - Android
+      - Linux
+      - iOS
+      required: false
+    - id: 8
+      name: browser_version
+      label: browser_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false

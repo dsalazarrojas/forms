@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Address Update Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User name
+      hint: Name on account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account number
+      hint: Reference number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: old_address
+      label: Old address
+      hint: Previous address on file
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: new_address
+      label: New address
+      hint: Updated address to record
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: update_effective_date
+      label: Update effective date
+      hint: Date when new address takes effect
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: verification_documents
+      label: Verification documents provided
+      hint: List IDs or proofs uploaded
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for follow up
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature name
+      hint: Typed name for authorization
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date signed
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true

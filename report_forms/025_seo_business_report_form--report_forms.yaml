@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo_business_report_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prophets
+      label: Prophets
+      hint: Select all the search engines used
+      type: select_multiple
+      options:
+      - Google
+      - Bing
+      - Yahoo
+      required: false
+    - id: 3
+      name: tools
+      label: Tools
+      hint: Select all the seo tools used
+      type: select_multiple
+      options:
+      - Ahrefs
+      - SEMrush
+      - Moz
+      required: false
+    - id: 4
+      name: seo_techniques
+      label: Seo Techniques
+      hint: Select all the seo techniques used
+      type: select_multiple
+      options:
+      - On-page optimization
+      - Off-page optimization
+      - Link building
+      required: false
+    - id: 5
+      name: metrics
+      label: Metrics
+      hint: Select all the metrics tracked
+      type: select_multiple
+      options:
+      - Page speed
+      - Bounce rate
+      - Conversion rate
+      required: false
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: keywords
+      label: Keywords
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: url
+      label: URL
+      hint: Select the URL type
+      type: select_one
+      options:
+      - http://
+      - https://
+      - ftp://
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Select the tool assigned to the report
+      type: select_one
+      options:
+      - chatjimmy
+      - google
+      - yahoo
+      required: true
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: Select the person who submitted the report
+      type: select_one
+      options:
+      - webmaster1
+      - webmaster2
+      - webmaster3
+      required: true
+    - id: 16
+      name: submitted_to
+      label: Submitted To
+      hint: Select the person to whom the report was submitted
+      type: select_one
+      options:
+      - webmaster
+      - manager
+      - admin
+      required: true
+    - id: 17
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: comments
+      label: Comments
+      hint: Select all the comments about the report
+      type: select_multiple
+      options:
+      - First comment
+      - Second comment
+      - Third comment
+      required: false
+    - id: 22
+      name: assigned_by
+      label: Assigned By
+      hint: Select the person who assigned the report
+      type: select_one
+      options:
+      - webmaster1
+      - webmaster2
+      - webmaster3
+      required: true
+    - id: 23
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: submitted_by_id
+      label: Submitted By Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted_to_id
+      label: Submitted To Id
+      hint: null
+      type: number
+      options: []
+      required: false

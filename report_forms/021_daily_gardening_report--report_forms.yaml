@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Gardening Report
+    pages:
+    - id: 1
+      name: daily_gardening_report
+      label: Gardening Task List
+      hint: List all tasks for today
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: task_status_1
+      label: Task 1 Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      required: true
+    - id: 3
+      name: task_start_date_1
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: task_start_time_1
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: task_duration_1
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: task_location_1
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: plant_health_1
+      label: Plant Health
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Unknown''}'
+      required: true
+    - id: 8
+      name: plant_health_2
+      label: Plant Health 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: plant_health_3
+      label: Plant Health 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Unknown''}'
+      required: true
+    - id: 10
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: site_notes
+      label: Site Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Bob''}'
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: site_area
+      label: Site Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: task_status_2
+      label: Task 2 Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      required: true
+    - id: 18
+      name: task_start_date_2
+      label: Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: task_start_time_2
+      label: Start Time 2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: task_duration_2
+      label: Duration 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: task_location_2
+      label: Location 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: plant_health_4
+      label: Plant Health 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: plant_health_5
+      label: Plant Health 5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Unknown''}'
+      required: true
+    - id: 24
+      name: site_details_2
+      label: Site Details 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: plant_health_6
+      label: Plant Health 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Unknown''}'
+      required: false

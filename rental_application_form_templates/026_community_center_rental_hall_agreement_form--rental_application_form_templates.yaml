@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Rental Hall Agreement Form
+    pages:
+    - id: 1
+      name: section_renter_agreement_details
+      label: -- Renter Details --
+      hint: Please fill out all required fields for the hall agreement.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renter_full_name_agr
+      label: Full Name of Renter or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_email_agr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: renter_phone_agr
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_address_agr
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_rental_hall_details
+      label: -- Rental Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hall_event_type_agr
+      label: Type of Event or Activity
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Birthday Party
+      - Wedding Reception
+      - Workshop/Class
+      - Community Gathering
+      - Other
+      required: true
+    - id: 8
+      name: rental_date_requested_agr
+      label: Date of the Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_start_time_agr
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_end_time_agr
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: estimated_attendees_agr
+      label: Estimated Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: rental_space_requested_agr
+      label: Which space is being rented
+      hint: null
+      type: select_one
+      options:
+      - Main Hall
+      - Meeting Room A
+      - Meeting Room B
+      - Gymnasium
+      - Kitchen Facility
+      required: true
+    - id: 13
+      name: section_financial_details_agr
+      label: -- Financial Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: total_rental_fee_agr
+      label: Total Rental Fee
+      hint: In USD
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: security_deposit_amount_agr
+      label: Security Deposit Amount
+      hint: Refundable after event inspection
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_method_agr
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card (Online)
+      - PayPal
+      - Personal Check
+      - Cash/Money Order
+      required: true
+    - id: 17
+      name: section_rental_agreement_terms
+      label: -- Rental Agreement and Terms --
+      hint: Please read carefully and sign.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: rental_terms_acknowledgment_agr
+      label: I agree to abide by the Community Center's rental policies and hall rules
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms
+      - Other
+      required: true
+    - id: 19
+      name: liability_release_agr
+      label: I assume all responsibility for any damage or injury that occurs during
+        the rental
+      hint: null
+      type: select_one
+      options:
+      - I agree and accept liability
+      - Other
+      required: true
+    - id: 20
+      name: date_of_agreement_agr
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: renter_signature_digital_agr
+      label: Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: supervisor_approval_final_agr
+      label: For Internal Use - Supervisor Approval
+      hint: For administrative use only
+      type: text
+      options: []
+      required: false

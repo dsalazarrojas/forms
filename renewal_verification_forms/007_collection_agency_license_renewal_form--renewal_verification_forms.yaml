@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collection Agency License Renewal Form
+    pages:
+    - id: 1
+      name: agency_name
+      label: Agency Name
+      hint: Legal registered business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agency_registration_number
+      label: Current License Number
+      hint: Existing license to be renewed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: license_issue_date
+      label: Original License Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: license_expiration_date
+      label: Current License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: principal_owner_name
+      label: Principal Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_contact_email
+      label: Owner Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: owner_contact_phone
+      label: Owner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: Physical location of agency
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_state
+      label: State - Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: registered_office_same
+      label: Is registered office same as business address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: registered_office_address
+      label: Registered Office Address - if different
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: compliance_training_completed
+      label: Compliance Training Completed in Last Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: training_details
+      label: Training Course Details
+      hint: Name of course and completion date
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: complaint_filed
+      label: Have complaints been filed against this agency in the past year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: complaint_details
+      label: Complaint Details
+      hint: Description of filed complaints
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: violations_found
+      label: Have any violations been found during inspections
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - No inspections conducted
+      required: true
+    - id: 20
+      name: violation_details
+      label: Violation Details
+      hint: Describe any violations and remedial actions taken
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: financial_statement_attached
+      label: Financial Statement Attached
+      hint: Recent balance sheet and income statement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: insurance_coverage
+      label: Professional Liability Insurance - current status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      - No coverage
+      required: true
+    - id: 23
+      name: insurance_amount
+      label: Insurance Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: renewal_fee_payment
+      label: Renewal Fee Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - Bank Transfer
+      - Electronic Payment
+      required: true
+    - id: 25
+      name: certification
+      label: I certify that all information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Acceptance Testing Report Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: test_criteria
+      label: test criteria
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: test_results
+      label: test results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issues_found
+      label: issues found
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: acceptance_decision
+      label: acceptance decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: test_environment
+      label: test environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tested_by
+      label: tested by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tested_on
+      label: tested on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: tested_at
+      label: tested at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: version_tested
+      label: version tested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_environment_version
+      label: test environment version
+      hint: null
+      type: text
+      options: []
+      required: false

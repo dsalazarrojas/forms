@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Rental Form
+    pages:
+    - id: 1
+      name: renter_first_name
+      label: Renter First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renter_last_name
+      label: Renter Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_email
+      label: Renter Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: renter_phone
+      label: Renter Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_address
+      label: Renter Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: drivers_license_number
+      label: Driver's License Number
+      hint: Valid license required
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_state
+      label: License State
+      hint: Issuing state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rental_date
+      label: Rental Date
+      hint: When do you need the boat?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: rental_duration
+      label: Rental Duration
+      hint: How long?
+      type: select_one
+      options:
+      - 2 Hours
+      - 4 Hours
+      - Half Day (4-6 hours)
+      - Full Day (8 hours)
+      - Multi-Day
+      required: true
+    - id: 11
+      name: return_date
+      label: Return Date
+      hint: When will you return?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: boat_type_preference
+      label: Boat Type Preference
+      hint: Select preferred type
+      type: select_one
+      options:
+      - Pontoon Boat
+      - Bowrider
+      - Center Console
+      - Deck Boat
+      - Fishing Boat
+      - Sailboat
+      - No Preference
+      required: true
+    - id: 13
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: Total people on board
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: boating_experience
+      label: Boating Experience Level
+      hint: Your experience level
+      type: select_one
+      options:
+      - None - First Time
+      - Beginner - Some Experience
+      - Intermediate - Comfortable Operator
+      - Advanced - Experienced Captain
+      - Expert - Licensed Captain
+      required: true
+    - id: 15
+      name: captain_service_needed
+      label: Captain Service Needed
+      hint: Do you need a captain?
+      type: select_one
+      options:
+      - No, I will operate
+      - Yes, hire a captain
+      required: true
+    - id: 16
+      name: additional_equipment
+      label: Additional Equipment
+      hint: Select any extras
+      type: select_multiple
+      options:
+      - Fishing Gear
+      - Cooler
+      - Towels
+      - Life Jackets (Adult)
+      - Life Jackets (Child)
+      - Water Toys
+      - GPS/Navigation
+      - None
+      required: false
+    - id: 17
+      name: special_occasion
+      label: Special Occasion
+      hint: Is this for a special event?
+      type: select_one
+      options:
+      - None
+      - Birthday
+      - Anniversary
+      - Bachelor/Bachelorette
+      - Corporate Event
+      - Family Reunion
+      - Other
+      required: false
+    - id: 18
+      name: catering_requested
+      label: Catering Requested
+      hint: Would you like catering?
+      type: select_one
+      options:
+      - false
+      - Yes, please contact me
+      required: false
+    - id: 19
+      name: security_deposit
+      label: Security Deposit
+      hint: Refundable deposit amount
+      type: select_one
+      options:
+      - $250 - Standard
+      - $500 - Premium Boat
+      - $1000 - Luxury Yacht
+      required: true
+    - id: 20
+      name: rental_fee
+      label: Rental Fee
+      hint: Base rental cost
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - PayPal
+      required: true
+    - id: 22
+      name: insurance_waiver
+      label: Insurance Waiver
+      hint: Damage protection waiver
+      type: select_one
+      options:
+      - Yes, add protection ($50)
+      - No, decline protection
+      required: true
+    - id: 23
+      name: safety_briefing_required
+      label: Safety Briefing Required
+      hint: Mandatory for all renters
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I am experienced
+      required: true
+    - id: 24
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I agree to the waiver terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any additional needs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: renter_signature
+      label: Renter Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true

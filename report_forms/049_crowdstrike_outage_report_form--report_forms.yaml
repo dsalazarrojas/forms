@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdstrike Outage Report Form
+    pages:
+    - id: 1
+      name: service_impact
+      label: service impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_outage
+      label: date of outage
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cause
+      label: cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: affected_teams
+      label: affected teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: root_cause
+      label: root cause
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: reported_by
+      label: reported by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: report_time
+      label: report time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: closed
+      label: closed
+      hint: null
+      type: select_one
+      options:
+      - Closed
+      - Reopened
+      - In Progress
+      - Waiting for Customer Response
+      required: false
+    - id: 13
+      name: closed_time
+      label: closed time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reported_by_name
+      label: reported by name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: report_by_email
+      label: report by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: report_by_phone
+      label: report by phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reported_by_phone
+      label: reported by phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: report_by_email
+      label: report by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: report_by_phone
+      label: report by phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reported_by_phone
+      label: reported by phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_lead_comments
+      label: team lead comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_comments
+      label: customer comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_steps
+      label: next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: closed_by
+      label: closed by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: closed_by_name
+      label: closed by name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

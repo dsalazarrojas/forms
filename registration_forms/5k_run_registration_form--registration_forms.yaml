@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 5K Run Registration Form
+    pages:
+    - id: 1
+      name: section_header_event
+      label: "--- Participant Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: As it should appear on the race bib
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob
+      label: Date of birth
+      hint: Required to verify age category
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email address
+      hint: For race updates and results
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone number
+      hint: For urgent race-day contact
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: gender_category
+      label: Gender category
+      hint: Select the category you will compete in
+      type: select_one
+      options:
+        - Female
+        - Male
+        - Non-binary
+        - Prefer not to say
+      required: false
+    - id: 7
+      name: race_category
+      label: Race category
+      hint: Choose the distance or wave
+      type: select_one
+      options:
+        - 5K competitive
+        - 5K recreational
+        - Fun run (non-competitive)
+      required: true
+    - id: 8
+      name: shirt_size
+      label: T-shirt size
+      hint: Unisex sizing
+      type: select_one
+      options:
+        - XS
+        - S
+        - M
+        - L
+        - XL
+        - XXL
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: "Name — Phone"
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_conditions
+      label: Medical conditions or allergies race staff should know about
+      hint: List any medications, asthma, heart conditions, etc.
+      type: select_multiple
+      options:
+        - Asthma/inhaler required
+        - Heart condition
+        - Diabetes
+        - Allergies (food/medication)
+        - None of the above
+      required: false
+    - id: 11
+      name: registration_fee
+      label: Registration fee paid (USD)
+      hint: Enter amount paid, including cents
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: waiver_signed
+      label: Participant waiver and release acknowledged
+      hint: Required to participate
+      type: select_one
+      options:
+        - Yes, I acknowledge and accept
+        - No, I do not accept
+      required: true
+    - id: 13
+      name: team_or_club
+      label: Team or club name (optional)
+      hint: Leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional comments or special requests
+      hint: e.g., pacing group request, accessibility
+      type: text
+      options: []
+      required: false

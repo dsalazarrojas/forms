@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Host Event Legal Release Authorization
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: model_agreement
+      label: Model Agreement
+      hint: null
+      type: select_one
+      options:
+      - I am clear of all rights and responsibilities
+      - I am aware that all rights and responsibilities will be transferred to the
+        event host
+      required: false
+    - id: 5
+      name: release_agreement
+      label: Release Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I am clear of all rights and responsibilities
+      - I am aware that all rights and responsibilities will be transferred to the
+        event host
+      - The event host has the right to use my services for advertising and future
+        events
+      - I will not seek compensation for my appearance
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: model_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false

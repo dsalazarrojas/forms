@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Activity Permission Form
+    pages:
+    - id: 1
+      name: section_part
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_parent
+      label: -- Parent or Guardian Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parent_guardian_full_name
+      label: Parent or Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: relationship_to_participant
+      label: Relationship to Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_risk
+      label: -- Activity and Risk Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: description_of_adventure_activity
+      label: Description of Adventure Activity
+      hint: e.g. white water rafting
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: risk_acknowledgment
+      label: I acknowledge that adventure activities involve inherent risks.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: permission_granted
+      label: Permission Granted
+      hint: null
+      type: select_one
+      options:
+      - I give permission for participation
+      - I do not give permission
+      required: true
+    - id: 12
+      name: section_med
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions_or_allergies
+      label: Medical Conditions or Allergies
+      hint: list anything staff should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: permission_for_emergency_medical_treatment
+      label: Permission for Emergency Medical Treatment
+      hint: in the event of an accident
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: signature_of_parent_or_guardian
+      label: Signature of Parent or Guardian
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

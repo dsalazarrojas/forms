@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return Label Activation Request Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: return_reasons
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - Return for a refund
+      - Return for an exchange
+      - Return for store credit
+      required: false
+    - id: 3
+      name: customer_consent
+      label: customer_consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

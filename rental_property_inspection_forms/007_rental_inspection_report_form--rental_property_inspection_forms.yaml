@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Inspection Report Form
+    pages:
+    - id: 1
+      name: rental_inspection_report_form
+      label: rental inspection report form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_property_inspection_form
+      label: rental property inspection form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_name
+      label: tenant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_manager
+      label: property manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_status
+      label: property status
+      hint: null
+      type: select_one
+      options:
+      - Inspection Required
+      - Not Required
+      - Required but not done
+      required: true
+    - id: 7
+      name: issue_description
+      label: issue description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_date
+      label: issue date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: issue_time
+      label: issue time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: issue_status
+      label: issue status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Waiting for repair
+      required: true
+    - id: 11
+      name: repair_request
+      label: repair request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: repair_status
+      label: repair status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Declined
+      - Pending
+      required: true
+    - id: 13
+      name: tenant_comment
+      label: tenant comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_inspector
+      label: property inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_comment
+      label: inspector comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issue_priority
+      label: issue priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: issue_category
+      label: issue category
+      hint: null
+      type: select_one
+      options:
+      - Electrical
+      - Plumbing
+      - HVAC
+      required: true
+    - id: 18
+      name: issue_image
+      label: issue image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: issue_audio
+      label: issue audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: issue_video
+      label: issue video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: issue_attachment
+      label: issue attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issue_note
+      label: issue note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issue_phone
+      label: issue phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: issue_email
+      label: issue email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: issue_notes
+      label: issue notes
+      hint: null
+      type: text
+      options: []
+      required: false

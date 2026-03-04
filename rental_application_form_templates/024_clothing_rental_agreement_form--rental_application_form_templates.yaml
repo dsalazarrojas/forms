@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Rental Agreement Form
+    pages:
+    - id: 1
+      name: renter_name
+      label: Renter Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: renter_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: renter_address
+      label: Renter Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_rental
+      label: -- Rental Details --
+      hint: Information about the rental
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_description
+      label: Item Description
+      hint: Type, style, brand of garment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_size
+      label: Item Size
+      hint: Size of rental item
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_colour
+      label: Colour
+      hint: Colour of the item
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_condition
+      label: Condition Upon Rental
+      hint: Initial condition noted
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: rental_start_date
+      label: Rental Start Date
+      hint: When you pick up the item
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: rental_end_date
+      label: Rental End Date
+      hint: When you return the item
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: rental_duration
+      label: Rental Duration in Days
+      hint: Number of days renting
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_pricing
+      label: -- Pricing and Deposit --
+      hint: Cost details for the rental
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: daily_rental_rate
+      label: Daily Rental Rate
+      hint: Price per day
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_rental_cost
+      label: Total Rental Cost
+      hint: Daily rate times duration
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: deposit_amount
+      label: Security Deposit Amount
+      hint: Deposit required
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_due
+      label: Total Amount Due
+      hint: Rental cost plus deposit
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_terms
+      label: -- Rental Terms and Conditions --
+      hint: Agreement terms
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: damage_assessment
+      label: Renter agrees to return item in same condition as received
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 20
+      name: late_return_policy
+      label: Late return charge per day
+      hint: Amount charged if returned late
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: cleaning_responsibility
+      label: Who is responsible for cleaning
+      hint: null
+      type: select_one
+      options:
+      - Renter responsible
+      - Rental company responsible
+      - Included in rental
+      required: true
+    - id: 22
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: null
+      type: select_one
+      options:
+      - Non-refundable
+      - Full refund if cancelled 7+ days before
+      - 50 percent refund if cancelled within 7 days
+      - Full refund anytime
+      required: true
+    - id: 23
+      name: section_signature
+      label: -- Agreement Signature --
+      hint: Legal acknowledgment
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: renter_signature
+      label: Renter Signature (Print Name)
+      hint: I agree to the terms
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of agreement signing
+      type: date
+      options: []
+      required: true

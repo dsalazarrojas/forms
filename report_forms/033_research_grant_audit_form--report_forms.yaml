@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Grant Audit Form
+    pages:
+    - id: 1
+      name: project_id
+      label: Project Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: grant_status
+      label: Grant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: evidence
+      label: Evidence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: findings
+      label: Findings
+      hint: null
+      type: text
+      options: []
+      required: false

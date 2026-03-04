@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Illustrator Portfolio Submission Request Form
+    pages:
+    - id: 1
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: portfolio_link
+      label: portfolio link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: portfolio_type
+      label: portfolio type
+      hint: null
+      type: select_one
+      options:
+      - Portfolio 1
+      - Portfolio 2
+      - Portfolio 3
+      required: false
+    - id: 7
+      name: portfolio_images
+      label: portfolio images
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Interview Release Consent Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 3
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: true
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interview_details
+      label: Interview Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false

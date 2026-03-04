@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ad Hoc Report Request Form
+    pages:
+    - id: 1
+      name: request_overview
+      label: Request overview
+      hint: Describe the report needed
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person requesting the report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Team requesting data
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_purpose
+      label: Report purpose
+      hint: How will the report be used
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: metrics_required
+      label: Metrics required
+      hint: List specific fields or measures to include
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_range
+      label: Date range required
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: priority_level
+      label: Priority level
+      hint: Select the urgency
+      type: select_one
+      options: [Low, Medium, High, Critical]
+      required: true
+    - id: 8
+      name: delivery_format
+      label: Delivery format
+      hint: Preferred file format for the report
+      type: select_one
+      options: [PDF, Excel, CSV, Dashboard link]
+      required: true
+    - id: 9
+      name: stakeholders
+      label: Stakeholders to receive report
+      hint: List email addresses or teams
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_instructions
+      label: Additional instructions
+      hint: Any specific aggregation filters or segments
+      type: text
+      options: []
+      required: false

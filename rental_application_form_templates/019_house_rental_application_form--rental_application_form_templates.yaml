@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Rental Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_period
+      label: rental_period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: false

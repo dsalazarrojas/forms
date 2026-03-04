@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breach or Non Compliance Reporting Form
+    pages:
+      - id: 1
+        name: report_date
+        label: Report date
+        hint: Date of reporting
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: reporter_name
+        label: Reporter name
+        hint: Name of person submitting report
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Department related to report
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: policy_or_legislation
+        label: Policy or legislation affected
+        hint: Identify the policy or law impacted
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: description_of_breach
+        label: Description of breach
+        hint: Detailed description of the incident
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: immediate_risk
+        label: Immediate risk
+        hint: Assess immediate risk level
+        type: select_one
+        options:
+          - High
+          - Medium
+          - Low
+        required: true
+      - id: 7
+        name: actions_taken
+        label: Actions taken
+        hint: Steps already taken to address the issue
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommended_follow_up
+        label: Recommended follow up
+        hint: Suggested next steps and responsible parties
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor Cost Reconciliation Request Form
+    pages:
+    - id: 1
+      name: project_id
+      label: Project Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: SWMS Form Template
+    pages:
+    - id: 1
+      name: form_data
+      label: Work Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: swms
+      label: SWMS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: task_list
+      label: Task List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_started
+      label: Date Started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_started
+      label: Time Started
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: date_ended
+      label: Date Ended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_ended
+      label: Time Ended
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: task_1_name
+      label: Task 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false

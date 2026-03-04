@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inflation Relief Refund Request Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - '2022'
+      - '2023'
+      - '2024'
+      required: false
+    - id: 3
+      name: gross_income
+      label: Gross Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: net_income
+      label: Net Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: business_details
+      label: Business Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      - Limited
+      - Partnership
+      - Trust
+      required: false
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_count
+      label: Employee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employee_names
+      label: Employee Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_titles
+      label: Employee Titles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_emails
+      label: Employee Emails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_phones
+      label: Employee Phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_dates
+      label: Employee Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_hours
+      label: Employee Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: employee_scales
+      label: Employee Scales
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_rates
+      label: Employee Rates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tax_deductions
+      label: Tax Deductions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tax_payments
+      label: Tax Payments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: employee_compensation
+      label: Employee Compensation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_compensation
+      label: Total Compensation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tax_withholding
+      label: Tax Withholding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: other_incomes
+      label: Other Incomes
+      hint: null
+      type: select_multiple
+      options:
+      - Other Income
+      - Interest Income
+      - Capital Gains
+      - Rent
+      - Royalties
+      - Commissions
+      - Other
+      required: false
+    - id: 24
+      name: other_incomes_amount
+      label: Other Incomes Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: other_incomes_frequency
+      label: Other Incomes Frequency
+      hint: null
+      type: text
+      options: []
+      required: false

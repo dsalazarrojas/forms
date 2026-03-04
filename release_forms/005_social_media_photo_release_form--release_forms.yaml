@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Photo Release Form
+    pages:
+    - id: 1
+      name: social_media_photo_release_form_1
+      label: photo_release
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_release_date
+      label: photo_release_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: photo_release_description
+      label: photo_release_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_release_location
+      label: photo_release_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media_platforms
+      label: social_media_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - YouTube
+      - TikTok
+      required: true
+    - id: 9
+      name: publish_date
+      label: publish_date
+      hint: null
+      type: date
+      options: []
+      required: true

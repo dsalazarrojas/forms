@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Operations Log For Crews
+    pages:
+    - id: 1
+      name: shift
+      label: Shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: operational_note
+      label: Operational Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: crew_id
+      label: Crew ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_id
+      label: Supervisor ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: shift_notes
+      label: Shift Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weather
+      label: Weather
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: site_id
+      label: Site ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: department_id
+      label: Department ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shift_id
+      label: Shift ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: operational_note
+      label: Operational Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: weather_id
+      label: Weather ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: crew_name
+      label: Crew Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: site
+      label: Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: crew
+      label: Crew
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: site_shift_id
+      label: Site Shift ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: site_department
+      label: Site Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

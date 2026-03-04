@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request Information Form (For Schools)
+    pages:
+    - id: 1
+      name: request_information_form_for_schools
+      label: Request Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Your Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interested_subject
+      label: Interested In
+      hint: What do you want to learn more about?
+      type: text
+      options: []
+      required: false

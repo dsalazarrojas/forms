@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Jeep Wave Oil Change Registration
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wave_program
+      label: Wave Program
+      hint: Select your Wave Program
+      type: select_one
+      options:
+      - '{''label'': ''Wave''}'
+      - '{''label'': ''Wave Select''}'
+      - '{''label'': ''Wave Plus''}'
+      required: false
+    - id: 3
+      name: wave_program_select
+      label: Wave Program Selected
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: oil_change_details
+      label: Oil Change Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_center
+      label: Service Center
+      hint: Select your Service Center
+      type: select_one
+      options:
+      - '{''label'': ''Center1''}'
+      - '{''label'': ''Center2''}'
+      - '{''label'': ''Center3''}'
+      required: false
+    - id: 6
+      name: oil_type
+      label: Oil Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Regular''}'
+      - '{''label'': ''Synthetic''}'
+      required: false
+    - id: 7
+      name: appointment_date
+      label: Appointment Date
+      hint: Select a date for your appointment
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false

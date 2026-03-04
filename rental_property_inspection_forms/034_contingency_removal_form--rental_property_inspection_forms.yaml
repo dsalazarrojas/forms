@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contingency Removal Form
+    pages:
+    - id: 1
+      name: transaction_details_header
+      label: -- Property Transaction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_tenant_name
+      label: Buyer/Tenant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address_full
+      label: Property Address
+      hint: Include unit number if applicable
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: purchase_agreement_date
+      label: Date of Original Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contingency_release_header
+      label: -- Contingency Release --
+      hint: Select the contingencies you are officially removing
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contingencies_removed
+      label: Contingencies to be Removed
+      hint: null
+      type: select_multiple
+      options:
+      - Physical Property Inspection
+      - Pest/Termite Inspection
+      - Appraisal Contingency
+      - Loan/Financing Contingency
+      - Sale of Buyer's Current Property
+      - Document/Title Review
+      - Homeowners Association (HOA) Rules
+      required: true
+    - id: 7
+      name: partial_removal_description
+      label: If partial removal, please specify details
+      hint: e.g., Removing inspection but keeping foundation repair contingency
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: remaining_contingencies
+      label: Are there any remaining contingencies
+      hint: null
+      type: select_one
+      options:
+      - No - All contingencies removed (Move to Closing)
+      - Yes - Specific items still pending
+      required: true
+    - id: 9
+      name: credit_agreement_header
+      label: -- Credits and Adjustments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: repair_credit_requested
+      label: Total Repair Credit Agreed Upon (USD)
+      hint: Enter 0 if no credit is being issued
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: effective_date_removal
+      label: Effective Date of Removal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: signatures_header
+      label: -- Authorization --
+      hint: By signing, you release the seller from these contingencies
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_buyer_tenant
+      label: Buyer/Tenant Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_witness_agent
+      label: Agent/Witness Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_closing_instructions
+      label: Additional Instructions for Escrow/Closing
+      hint: null
+      type: text
+      options: []
+      required: false

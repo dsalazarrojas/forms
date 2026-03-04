@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: recipe_ingredients_cost_report_form
+    pages:
+    - id: 1
+      name: header
+      label: header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ingredient_id
+      label: ingredient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ingredient_name
+      label: ingredient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cost
+      label: cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ingredient_comments
+      label: ingredient_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''submit'', ''value'': ''submit''}'
+      - Other
+      required: true

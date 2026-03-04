@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fingerprinting Quote Request Form
+    pages:
+    - id: 1
+      name: quote_request
+      label: Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schedule_start_time
+      label: Schedule Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: schedule_end_time
+      label: Schedule End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: fingerprinting_method
+      label: Fingerprinting Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Fingerprinting''}'
+      - '{''option'': ''Non-Fingerprinting''}'
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Downtown''}'
+      - '{''option'': ''Uptown''}'
+      - '{''option'': ''Other (please specify)''}'
+      required: false
+    - id: 10
+      name: service_details_1
+      label: Technician
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Service 1''}'
+      - '{''option'': ''Service 2''}'
+      - '{''option'': ''Service 3''}'
+      required: false
+    - id: 11
+      name: service_details_2
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Service 1''}'
+      - '{''option'': ''Service 2''}'
+      - '{''option'': ''Service 3''}'
+      required: false
+    - id: 12
+      name: service_details_3
+      label: Additional Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_company
+      label: Contact Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: schedule_recurring
+      label: Schedule Recurring
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 21
+      name: schedule_recurring_frequency
+      label: Recurring Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: recurring_start_date
+      label: Recurring Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: recurring_end_date
+      label: Recurring End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: recurring_time
+      label: Recurring Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: recurring_comment
+      label: Recurring Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: location_1
+      label: Location 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: location_2
+      label: Location 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: location_3
+      label: Location 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: service_details_4
+      label: Service Details 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: service_details_5
+      label: Service Details 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: service_details_6
+      label: Service Details 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: service_details_7
+      label: Service Details 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: service_details_8
+      label: Service Details 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_service_details
+      label: Additional Service Details
+      hint: null
+      type: text
+      options: []
+      required: false

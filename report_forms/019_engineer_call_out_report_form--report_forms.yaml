@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineer Call Out Report Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: engineer_name
+      label: Engineer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: call_out_date
+      label: Call Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: site_manager_name
+      label: Site Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: call_out_details
+      label: Call Out Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: engineer_hours
+      label: Engineer Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true

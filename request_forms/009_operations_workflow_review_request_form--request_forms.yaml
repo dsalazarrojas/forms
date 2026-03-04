@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: operations_workflow_review_request_form
+    pages:
+    - id: 1
+      name: workflow_id
+      label: Workflow ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
+      - '{''value'': ''Completed'', ''label'': ''Completed''}'
+      required: false
+    - id: 3
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High'', ''label'': ''High''}'
+      - '{''value'': ''Medium'', ''label'': ''Medium''}'
+      - '{''value'': ''Low'', ''label'': ''Low''}'
+      required: false
+    - id: 5
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachment_2
+      label: Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachment_3
+      label: Attachment 3
+      hint: null
+      type: text
+      options: []
+      required: false

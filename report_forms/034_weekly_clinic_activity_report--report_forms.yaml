@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Clinic Activity Report
+    pages:
+    - id: 1
+      name: clinic_operations
+      label: Clinic Operations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staffing_notes
+      label: Staffing Notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: staffing_schedule
+      label: Staffing Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_activity
+      label: Service Activity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: clinic_services
+      label: Clinic Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_outcomes
+      label: Patient Outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: total_services_provided
+      label: Total Services Provided
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_services_billed
+      label: Total Services Billed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: billing_issues
+      label: Billing Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

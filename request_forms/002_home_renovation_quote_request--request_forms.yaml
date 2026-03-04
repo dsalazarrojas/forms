@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Renovation Quote Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Type of Property
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Townhouse
+      - Apartment
+      - Condominium
+      - Loft
+      - Duplex
+      required: true
+    - id: 6
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: estimated_budget
+      label: Estimated Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      required: false
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Other
+      required: true
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 11
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: project_completion
+      label: Project Completion Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true

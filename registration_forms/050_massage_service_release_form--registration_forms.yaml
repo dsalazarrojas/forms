@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Service Release Form
+    pages:
+    - id: 1
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: risk_acknowledgement
+      label: Risk Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: massage_service_terms
+      label: Massage Service Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: massage_service_provider
+      label: Massage Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: completed_by_title
+      label: Completed By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: massage_license
+      label: Massage License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_license
+      label: Business License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_email
+      label: Business Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: business_website
+      label: Business Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: liability
+      label: Liability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: business_signature
+      label: Business Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: review
+      label: Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

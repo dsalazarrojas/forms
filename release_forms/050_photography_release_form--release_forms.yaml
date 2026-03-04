@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Release Form
+    pages:
+    - id: 1
+      name: release_form_fields
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: permission_date
+      label: Permission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: permission_type
+      label: Permission Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: release_terms
+      label: Release Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: release_form_signed
+      label: Release Form Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: image_count
+      label: Number of Images
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: image_list
+      label: List of Images
+      hint: null
+      type: note
+      options: []
+      required: false

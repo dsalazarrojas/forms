@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_shoot_session_questionnaire_and_release_form
+    pages:
+    - id: 1
+      name: photo_shoot_session_details
+      label: Photo Shoot Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

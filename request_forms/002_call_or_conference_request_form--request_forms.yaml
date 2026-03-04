@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Or Conference Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting the call or conference
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email Address
+      hint: Email used for scheduling and confirmations
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or Company
+      hint: Name of the organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_date
+      label: Preferred Date
+      hint: Choose a preferred date for the call or conference
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: Local time and time zone if relevant
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: duration_minutes
+      label: Requested Duration in Minutes
+      hint: Typical durations are 30 or 60 minutes
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: call_type
+      label: Call Type
+      hint: Choose the meeting format
+      type: select_one
+      options:
+      - Phone Call
+      - Video Conference
+      - In Person
+      - Hybrid
+      required: true
+    - id: 8
+      name: attendees
+      label: Expected Attendees
+      hint: Names and roles of attendees separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agenda_summary
+      label: Agenda Summary
+      hint: Brief agenda or topics to be discussed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility needs or technical setup requests
+      type: text
+      options: []
+      required: false

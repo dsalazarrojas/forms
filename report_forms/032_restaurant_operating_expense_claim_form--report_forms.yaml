@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Operating Expense Claim Form
+    pages:
+    - id: 1
+      name: restaurant_operating_expense_claim_form
+      label: Claim Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_claimed
+      label: Date Claimed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_period
+      label: Claim Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: total_claimed
+      label: Total Claimed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: restaurant_expenses
+      label: Restaurant Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Food and Beverage
+      - Labor
+      - Other
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: other_expenses
+      label: Other Expenses
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Borehole Drilling Log Form
+    pages:
+    - id: 1
+      name: project_id_header
+      label: -- Project Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_no
+      label: Project Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: borehole_id_code
+      label: Borehole ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: site_loc
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: drill_dt
+      label: Date of Drilling
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: driller_full_name
+      label: Driller Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: drill_specs_header
+      label: -- Drilling Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: drill_meth
+      label: Drilling Method
+      hint: e.g. Rotary, Percussion
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: hole_diam_mm
+      label: Hole Diameter - mm
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: final_depth_m
+      label: Final Depth - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: samples_header
+      label: -- Stratigraphy and Samples --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: depth_from_m
+      label: Sample Depth From - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: depth_to_m
+      label: Sample Depth To - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sample_type_select
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Disturbed
+      - Undisturbed
+      - Core
+      - Water
+      required: true
+    - id: 15
+      name: soil_desc
+      label: Soil / Rock Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: groundwater_header
+      label: -- Groundwater --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: water_struck_m
+      label: Water Level Struck - meters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: water_rest_m
+      label: Water Level Rest - meters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: observations_header
+      label: -- Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: drill_remarks
+      label: Drilling Remarks and Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: log_completion_dt
+      label: Log Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

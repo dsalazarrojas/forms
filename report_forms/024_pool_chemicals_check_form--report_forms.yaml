@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pool Chemicals Check Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pool_size
+      label: Pool Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pool_type
+      label: Pool Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pool_water_level
+      label: Pool Water Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: chemical_level
+      label: Chemical Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: chlorine_level
+      label: Chlorine Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camera Repair Request Form
+    pages:
+    - id: 1
+      name: customer_repair_contact_header
+      label: -- Camera Repair Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name_rep
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email_rep
+      label: Email Address
+      hint: For repair status updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone_rep
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address_rep
+      label: Return Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: camera_issue_header
+      label: -- Device and Problem Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: repair_camera_brand
+      label: Camera Brand
+      hint: null
+      type: select_one
+      options:
+      - Sony
+      - Canon
+      - Nikon
+      - Fujifilm
+      - Panasonic
+      - Other
+      required: true
+    - id: 8
+      name: repair_camera_model
+      label: Camera Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: serial_number_repair
+      label: Serial Number
+      hint: Helpful for tracking your specific unit
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: problem_category
+      label: Category of Issue
+      hint: null
+      type: select_one
+      options:
+      - Sensor Damage - Dust
+      - Lens Mount Issue
+      - Shutter Failure
+      - LCD - Screen Issue
+      - Card Slot Error
+      - Battery - Power Issue
+      - Impact - Water Damage
+      - Other
+      required: true
+    - id: 11
+      name: detailed_issue_description
+      label: Detailed Description of the Problem
+      hint: Please be as specific as possible about symptoms
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: issue_frequency
+      label: Frequency of Issue
+      hint: null
+      type: select_one
+      options:
+      - Constant
+      - Intermittent
+      - Happened only once
+      required: true
+    - id: 13
+      name: previous_repair_history
+      label: Previous Repair History
+      hint: Has this unit been serviced before?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: repair_urgency
+      label: Repair Urgency
+      hint: null
+      type: select_one
+      options:
+      - Standard (10-14 business days)
+      - Rush (3-5 business days - Additional fee)
+      required: true
+    - id: 15
+      name: budget_limit_repair
+      label: Pre-Approved Repair Budget (USD)
+      hint: If repair exceeds this, we will contact you
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: shipping_method_repair
+      label: Preferred Return Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Ground
+      - 2-Day Air
+      - Overnight
+      - Local Pickup
+      required: true
+    - id: 17
+      name: repair_terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I acknowledge the diagnostic fee and repair terms
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Game Score Report
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Game Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: game_date
+      label: Game date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: game_time
+      label: Game time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: game_venue
+      label: Game venue/location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_2
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: home_team
+      label: Home team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: away_team
+      label: Away team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_coach
+      label: Home team coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: away_coach
+      label: Away team coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Final Score --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: home_team_score
+      label: Home team final score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: away_team_score
+      label: Away team final score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_header_4
+      label: -- Quarter Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: q1_home
+      label: Home team Q1 score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: q1_away
+      label: Away team Q1 score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_header_5
+      label: -- Game Highlights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: home_mvp
+      label: Home team MVP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: away_mvp
+      label: Away team MVP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: leading_scorer_home
+      label: Leading scorer - Home team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: leading_scorer_away
+      label: Leading scorer - Away team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: highlights
+      label: Game highlights or notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Attendance and Officials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: attendance
+      label: Attendance count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: official_names
+      label: Official names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: report_confirmation
+      label: I confirm this report is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

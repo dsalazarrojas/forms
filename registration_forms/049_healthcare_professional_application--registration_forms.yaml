@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_professional_application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Doctor'', ''value'': ''Doctor''}'
+      - '{''id'': 2, ''name'': ''Nurse'', ''value'': ''Nurse''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Engagement Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Full Name of Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization or Group Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: engagement_type
+      label: Type of Engagement Requested
+      hint: null
+      type: select_one
+      options:
+      - Educational Workshop
+      - Social Event
+      - Fundraising Partnership
+      - Volunteer Mobilization
+      - Awareness Campaign
+      - Other
+      required: true
+    - id: 6
+      name: engagement_purpose
+      label: Primary Goal of Engagement
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: target_audience
+      label: Target Audience
+      hint: Who is this engagement for?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proposed_date
+      label: Proposed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: proposed_location
+      label: Proposed Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: estimated_attendees
+      label: Estimated Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: resources_requested
+      label: Resources Requested from Community
+      hint: Space, equipment, marketing, etc.
+      type: select_multiple
+      options:
+      - Meeting Space
+      - Audio-Visual Equipment
+      - Social Media Promotion
+      - Volunteer Support
+      - Financial Support
+      required: false
+    - id: 12
+      name: additional_details
+      label: Additional Information or Project Description
+      hint: Provide as much detail as possible
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: terms_agreement
+      label: I agree to follow community guidelines
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true

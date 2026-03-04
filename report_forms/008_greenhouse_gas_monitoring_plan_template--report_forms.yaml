@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Greenhouse Gas Monitoring Plan Template
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_data
+      label: Site Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: monitoring_plan
+      label: Monitoring Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: monitoring_actions
+      label: Monitoring Actions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select One''}'
+      - '{''id'': 2, ''label'': ''Select Two''}'
+      - '{''id'': 3, ''label'': ''Select Three''}'
+      required: true
+    - id: 5
+      name: monitoring_actions_2
+      label: More Actions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Action 1''}'
+      - '{''id'': 2, ''label'': ''Action 2''}'
+      - '{''id'': 3, ''label'': ''Action 3''}'
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility_owner
+      label: Facility Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: site_responsible
+      label: Site Responsible
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: site_contact
+      label: Site Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: site_phone
+      label: Site Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: site_email
+      label: Site Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: project_owner
+      label: Project Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: true

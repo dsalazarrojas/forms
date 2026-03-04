@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Excuse Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: date_of_absence
+      label: Date of Absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dental_provider
+      label: Dental Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_note
+      label: Doctor's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_class
+      label: Student Class
+      hint: null
+      type: select_one
+      options:
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: true
+    - id: 12
+      name: student_subjects
+      label: Student Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Math
+      - Science
+      - History
+      - PE
+      required: true
+    - id: 13
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_license
+      label: Doctor's License
+      hint: null
+      type: select_one
+      options:
+      - License A
+      - License B
+      - License C
+      required: true
+    - id: 15
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_office
+      label: Doctor's Office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: doctor_note
+      label: Doctor's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_signature
+      label: Doctor's Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelter Verification Form
+    pages:
+    - id: 1
+      name: page_1
+      label: shelter-verification-form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info_1
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shelter_owner_info
+      label: owner-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shelter_location
+      label: shelter-location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shelter_description
+      label: shelter-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_dates
+      label: inspection-dates
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: inspection_type
+      label: inspection-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_checked
+      label: date-checked
+      hint: null
+      type: date
+      options: []
+      required: false

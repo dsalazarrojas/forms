@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Art Commission Form
+    pages:
+    - id: 1
+      name: digital_art_commission_form
+      label: Digital Art Commission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist_info
+      label: Artist Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: client_info
+      label: Client Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: artwork_details
+      label: Artwork Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artwork_type
+      label: Artwork Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: commission_details
+      label: Commission Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: artist_price
+      label: Artist Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: client_budget
+      label: Client Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: commission_agreement
+      label: Commission Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: contract_length
+      label: Contract Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: commission_percentage
+      label: Commission Percentage
+      hint: null
+      type: number
+      options: []
+      required: false

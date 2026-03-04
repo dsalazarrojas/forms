@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Participation Waiver Form
+    pages:
+    - id: 1
+      name: media_participation_waiver_form
+      label: Media Participation Waiver Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - Parent/Guardian Permission
+      - No Permission
+      required: true
+    - id: 4
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_consent
+      label: Photo Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: video_consent
+      label: Video Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: audio_consent
+      label: Audio Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: media_types
+      label: Media Types
+      hint: null
+      type: select_multiple
+      options:
+      - Photo
+      - Video
+      - Audio
+      required: true
+    - id: 12
+      name: consent_to_share
+      label: Consent to Share
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: consent_to_share_email
+      label: Consent to Share (Email)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: consent_to_share_video
+      label: Consent to Share (Video)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: consent_to_share_audio
+      label: Consent to Share (Audio)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: media_participant
+      label: Media Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: participant_school
+      label: Participant School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_class
+      label: Participant Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_grade
+      label: Participant Grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_teacher
+      label: Participant Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: media_production_team
+      label: Media Production Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: production_company
+      label: Production Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

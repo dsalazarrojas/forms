@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mileage Log And Expense Report
+    pages:
+    - id: 1
+      name: mileage_log
+      label: Mileage Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: business_use
+      label: Business Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_use_description
+      label: Business Use Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - Fuel
+      - Tolls
+      - Parking
+      - Hotel
+      - Food
+      - Other
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

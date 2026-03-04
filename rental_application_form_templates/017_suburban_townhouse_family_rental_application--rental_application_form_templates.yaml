@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: suburban_townhouse_family_rental_application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Employed''}'
+      - '{''option2'': ''Self-Employed''}'
+      - '{''option3'': ''Retired''}'
+      required: false
+    - id: 8
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Current Rental''}'
+      - '{''option2'': ''Previous Rental''}'
+      - '{''option3'': ''No Rental History''}'
+      required: false
+    - id: 9
+      name: landlord_references
+      label: Landlord References
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 10
+      name: pets
+      label: Pets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 11
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: move_in_date_time
+      label: Move In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: move_in_date_note
+      label: Move In Date Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: move_out_date_time
+      label: Move Out Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: move_out_date_note
+      label: Move Out Date Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Weekly''}'
+      - '{''option2'': ''Bi-Weekly''}'
+      - '{''option3'': ''Monthly''}'
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Online Payment''}'
+      - '{''option2'': ''Bank Transfer''}'
+      - '{''option3'': ''Check''}'
+      required: false
+    - id: 19
+      name: move_in_status
+      label: Move In Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Confirmed''}'
+      - '{''option2'': ''Tentative''}'
+      - '{''option3'': ''Cancelled''}'
+      required: false
+    - id: 20
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: move_in_fee
+      label: Move In Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: move_out_fee
+      label: Move Out Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Month-To-Month''}'
+      - '{''option2'': ''Week-To-Week''}'
+      - '{''option3'': ''Month-To-Year''}'
+      required: false
+    - id: 24
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Single Family Home''}'
+      - '{''option2'': ''Condo''}'
+      - '{''option3'': ''Townhouse''}'
+      required: false
+    - id: 25
+      name: move_out_status
+      label: Move Out Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Confirmed''}'
+      - '{''option2'': ''Tentative''}'
+      - '{''option3'': ''Cancelled''}'
+      required: false

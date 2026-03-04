@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Conditioning Daily Requisition Report Form
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician name
+      hint: Name of the worker completing report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_date
+      label: Report date
+      hint: Date of work
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: site_location
+      label: Site location
+      hint: Address or site identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tasks_completed
+      label: Tasks completed today
+      hint: Brief list of completed tasks
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: materials_used
+      label: Materials used
+      hint: Parts and quantities used
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hours_worked
+      label: Hours worked today
+      hint: Total hours spent on site
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: issues_found
+      label: Issues found during work
+      hint: Any unexpected problems or defects
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_required
+      label: Follow up required
+      hint: Indicate if additional visits are needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: supervisor_notes
+      label: Supervisor notes
+      hint: Supervisor comments or approvals
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgement
+      label: Acknowledgement of report
+      hint: Confirm the report is complete and accurate
+      type: note
+      options: []
+      required: true

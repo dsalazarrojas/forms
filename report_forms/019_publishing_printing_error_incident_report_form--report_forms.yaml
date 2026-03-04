@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Publishing Printing Error Incident Report Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_two
+      label: Publishing Errors
+      hint: null
+      type: select_multiple
+      options:
+      - Incorrect
+      - Missing
+      - Late
+      - Other
+      required: false
+    - id: 3
+      name: page_three
+      label: Error Details
+      hint: Please provide details about the error.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_four
+      label: Publishing Errors
+      hint: null
+      type: select_multiple
+      options:
+      - Incorrect
+      - Missing
+      - Late
+      - Other
+      required: false
+    - id: 5
+      name: page_five
+      label: Page Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: page_six
+      label: Page Type
+      hint: null
+      type: select_one
+      options:
+      - Book
+      - Magazine
+      - Newspaper
+      required: false
+    - id: 7
+      name: page_seven
+      label: Section
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: page_eight
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: page_nine
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: page_ten
+      label: Publishing Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Esports participation inquiry
+    pages:
+    - id: 1
+      name: player_interest
+      label: Player interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_details
+      label: Team details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_details
+      label: Player details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_availability
+      label: Event availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: school_info
+      label: School info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gaming_community
+      label: Gaming community
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

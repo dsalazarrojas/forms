@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butthurt Form
+    pages:
+    - id: 1
+      name: complainant_name
+      label: Your Name
+      hint: Full name of the person filing the report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complainant_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: complainant_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_date
+      label: Date of Incident
+      hint: When did the incident occur?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: report_time
+      label: Time of Incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_type
+      label: Type of Incident
+      hint: What kind of complaint is this?
+      type: select_one
+      options:
+      - Verbal abuse or disrespect
+      - Unfair treatment or discrimination
+      - Threatening behavior
+      - Offensive comment or language
+      - Exclusion or ostracizing
+      - Bullying or harassment
+      - Breach of confidence
+      - Other offense
+      required: true
+    - id: 8
+      name: involved_parties
+      label: Names of Involved Parties
+      hint: Who was involved in the incident?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness_present
+      label: Were There Witnesses?
+      hint: Did anyone else see the incident?
+      type: select_one
+      options:
+      - Yes, there were witnesses
+      - No witnesses present
+      - Unsure
+      required: true
+    - id: 10
+      name: witness_names
+      label: Witness Names (if applicable)
+      hint: Names of people who witnessed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: Please explain what happened
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: impact_on_reporter
+      label: How This Incident Affected You
+      hint: Emotional, professional, or personal impact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: severity_level
+      label: Severity Level
+      hint: How serious was this incident?
+      type: select_one
+      options:
+      - Minor irritant
+      - Moderate offense
+      - Serious concern
+      - Critical or severe
+      required: true
+    - id: 14
+      name: prior_complaints
+      label: Have You Reported This Before?
+      hint: null
+      type: select_one
+      options:
+      - No, first report
+      - Yes, reported once
+      - Yes, reported multiple times
+      required: true
+    - id: 15
+      name: prior_resolution
+      label: If Reported Before, Was It Resolved?
+      hint: null
+      type: select_one
+      options:
+      - Yes, resolved
+      - Partially resolved
+      - Not resolved
+      - N/A
+      required: false
+    - id: 16
+      name: desired_resolution
+      label: Desired Resolution or Outcome
+      hint: What would resolve this?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: supporting_documentation
+      label: Supporting Documentation Available
+      hint: Email exchanges, photos, messages, etc.
+      type: select_one
+      options:
+      - Yes, evidence available
+      - No documentation available
+      - Some documentation available
+      required: false
+    - id: 18
+      name: confidentiality_needed
+      label: Confidentiality or Privacy Concern
+      hint: null
+      type: select_one
+      options:
+      - Yes, keep confidential
+      - No, can be disclosed
+      - Confidential within certain circles
+      required: true
+    - id: 19
+      name: additional_context
+      label: Additional Context or Background
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_contact
+      label: May We Contact You for Follow-Up?
+      hint: null
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, prefer not to be contacted
+      - Only if necessary
+      required: true

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Payment Request Form
+    pages:
+    - id: 1
+      name: game_id
+      label: Game ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referee_email
+      label: Referee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: referee_phone
+      label: Referee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tournament_id
+      label: Tournament ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_payment
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: referee_payment
+      label: Referee Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_approved
+      label: Payment Approved
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      required: true
+    - id: 10
+      name: payment_remarks
+      label: Payment Remaks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

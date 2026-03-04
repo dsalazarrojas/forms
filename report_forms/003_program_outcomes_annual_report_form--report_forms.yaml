@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Outcomes Annual Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_outcomes
+      label: Program Outcomes_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: annual_outcome_achievements
+      label: Annual_Outcome_Achievements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

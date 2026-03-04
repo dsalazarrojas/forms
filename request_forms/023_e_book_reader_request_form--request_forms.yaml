@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_book_reader_request_form
+    pages:
+    - id: 1
+      name: reader_request
+      label: Reader Request
+      hint: null
+      type: select_one
+      options:
+      - Reader 1
+      - Reader 2
+      - Reader 3
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: use_duration
+      label: Use Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: use_duration_unit
+      label: Use Duration Unit
+      hint: null
+      type: select_one
+      options:
+      - Hour
+      - Day
+      - Week
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: e_book_name
+      label: E-Book Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: e_book_author
+      label: E-Book Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: e_book_isbn
+      label: E-Book ISBN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: e_book_edition
+      label: E-Book Edition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: e_book_publisher
+      label: E-Book Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: e_book_year
+      label: E-Book Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: e_book_isbn10
+      label: E-Book ISBN10
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: e_book_isbn13
+      label: E-Book ISBN13
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: e_book_language
+      label: E-Book Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: e_book_pages
+      label: E-Book Pages
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: e_book_size
+      label: E-Book Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: e_book_format
+      label: E-Book Format
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: e_book_color
+      label: E-Book Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: e_book_orientation
+      label: E-Book Orientation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: e_book_binding
+      label: E-Book Binding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: e_book_cover_type
+      label: E-Book Cover Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: e_book_condition
+      label: E-Book Condition
+      hint: Please select the condition of e-book
+      type: select_one
+      options:
+      - New
+      - Used
+      - Like New
+      - Refurbished
+      required: true

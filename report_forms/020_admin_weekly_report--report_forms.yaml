@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Admin Weekly Report
+    pages:
+    - id: 1
+      name: report_header
+      label: -- Admin Weekly Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Prepared By
+      hint: Name of the person preparing this report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_position
+      label: Position/Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_period_start
+      label: Report Period Start Date
+      hint: Beginning date of the reporting week
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: report_period_end
+      label: Report Period End Date
+      hint: Ending date of the reporting week
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department is this report for?
+      type: select_one
+      options:
+      - Administration
+      - Human Resources
+      - Finance
+      - Marketing
+      - Operations
+      - IT
+      - Sales
+      - Customer Service
+      - Executive
+      - Other
+      required: true
+    - id: 7
+      name: team_size
+      label: Team Size
+      hint: Number of people in your team
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: key_activities_completed
+      label: Key Activities Completed This Week
+      hint: List the main tasks or projects completed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: projects_in_progress
+      label: Projects Currently In Progress
+      hint: List ongoing projects and their status
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: budget_utilization
+      label: Budget Utilization (%)
+      hint: Percentage of budget utilized this week
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: budget_variance
+      label: Budget Variance
+      hint: Any deviation from planned budget
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staffing_issues
+      label: Staffing Issues
+      hint: Any staffing challenges or concerns
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: operational_challenges
+      label: Operational Challenges
+      hint: Any operational issues encountered
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: upcoming_deadlines
+      label: Upcoming Deadlines
+      hint: Important deadlines for the coming week
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: resource_needs
+      label: Resource Needs
+      hint: Any additional resources required
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: performance_metrics
+      label: Key Performance Metrics
+      hint: Any relevant KPIs or metrics
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_satisfaction_updates
+      label: Client Satisfaction Updates
+      hint: Any updates on client satisfaction
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: compliance_status
+      label: Compliance Status
+      hint: Any compliance-related updates
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Any identified risks or concerns
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_week_priorities
+      label: Priorities for Next Week
+      hint: Main priorities for the upcoming week
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: recommendations
+      label: Recommendations
+      hint: Any recommendations for improvement
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: report_date
+      label: Report Date
+      hint: Date when this report is submitted
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Supervisor's comments (to be filled later)
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reporter_signature
+      label: Reporter Signature
+      hint: Electronic signature to confirm report
+      type: text
+      options: []
+      required: true

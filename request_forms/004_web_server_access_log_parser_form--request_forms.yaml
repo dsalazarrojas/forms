@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Server Access Log Parser Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: log_type
+      label: log_type
+      hint: null
+      type: select_one
+      options:
+      - HTTP
+      - FTP
+      - SMTP
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: remote_addr
+      label: remote_addr
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: remote_host
+      label: remote_host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: remote_user
+      label: remote_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_method
+      label: request_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_uri
+      label: request_uri
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_uri_stem
+      label: request_uri_stem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_version
+      label: request_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: http_version
+      label: http_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: response_code
+      label: response_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: response_msg
+      label: response_msg
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: server_name
+      label: server_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: server_software
+      label: server_software
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: server_name_version
+      label: server_name_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: server_host
+      label: server_host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: server_id
+      label: server_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: request_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: time_taken
+      label: time_taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: request_len
+      label: request_len
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: error_code
+      label: error_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: error_msg
+      label: error_msg
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_agent
+      label: user_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: referrer
+      label: referrer
+      hint: null
+      type: text
+      options: []
+      required: false

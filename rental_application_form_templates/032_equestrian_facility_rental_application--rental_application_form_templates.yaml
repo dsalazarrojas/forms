@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equestrian Facility Rental Application
+    pages:
+    - id: 1
+      name: equestrian_facility_rental_application_form
+      label: Equestrian Facility Rental Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rental_request
+      label: rental_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: facility_info
+      label: facility_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_details
+      label: rental_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_terms
+      label: rental_terms
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rental_start_date
+      label: rental_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rental_end_date
+      label: rental_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rental_duration
+      label: rental_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: equestrian_activities
+      label: equestrian_activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rental_status
+      label: rental_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

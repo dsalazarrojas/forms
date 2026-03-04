@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_restroom_deployment_application_form
+    pages:
+    - id: 1
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prophets_and_saints
+      label: justifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: toilets
+      label: number_of_toilets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender_neutrality
+      label: gender_neutrality
+      hint: null
+      type: select_one
+      options:
+      - Men
+      - Women
+      - All
+      required: false
+    - id: 5
+      name: wheelchair_accessibility
+      label: wheelchair_accessibility
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair accessible
+      - Not wheelchair accessible
+      - Not applicable
+      required: false
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

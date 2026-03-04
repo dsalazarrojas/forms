@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Project Progress Report
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: Official name of the project
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_id
+      label: Project ID or Code
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_manager
+      label: Project Manager Name
+      hint: Person overseeing the project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_email
+      label: Project Manager Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: reporting_period
+      label: Reporting Period
+      hint: Year or date range of report
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_date
+      label: Report Submission Date
+      hint: Date this report is being submitted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department or Business Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_start_date
+      label: Project Start Date
+      hint: When the project began
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_end_date
+      label: Expected Project Completion Date
+      hint: When the project should be finished
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Current Project Status
+      hint: null
+      type: select_one
+      options:
+      - On track
+      - Minor delays
+      - Significant delays
+      - At risk
+      - On hold
+      - Completed
+      required: true
+    - id: 11
+      name: completion_percentage
+      label: Project Completion Percentage
+      hint: Estimated percentage complete
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: budget_status
+      label: Budget Status
+      hint: null
+      type: select_one
+      options:
+      - On budget
+      - Slightly over budget
+      - Significantly over budget
+      - Under budget
+      required: true
+    - id: 13
+      name: total_budget
+      label: Total Project Budget
+      hint: Allocated budget amount
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: actual_spending
+      label: Actual Spending to Date
+      hint: Amount spent so far
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: schedule_status
+      label: Schedule Status
+      hint: null
+      type: select_one
+      options:
+      - On schedule
+      - Minor delays
+      - Significant delays
+      - Ahead of schedule
+      required: true
+    - id: 16
+      name: key_accomplishments
+      label: Key Accomplishments This Year
+      hint: Major milestones or deliverables
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: deliverables_completed
+      label: Number of Deliverables Completed
+      hint: Count of completed items
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: outstanding_issues
+      label: Outstanding Issues or Challenges
+      hint: Problems encountered or remaining
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risks_identified
+      label: Risks Identified
+      hint: Potential threats to project success
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mitigation_strategies
+      label: Risk Mitigation Strategies
+      hint: Plans to address identified risks
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_size
+      label: Project Team Size
+      hint: Number of team members
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: team_performance
+      label: Overall Team Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 23
+      name: stakeholder_satisfaction
+      label: Stakeholder Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 24
+      name: next_steps
+      label: Next Steps or Planned Activities
+      hint: What will happen in coming months
+      type: text
+      options: []
+      required: true

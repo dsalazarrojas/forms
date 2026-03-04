@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography And Videography Request Form
+    pages:
+    - id: 1
+      name: photography_and_videography_request_form
+      label: Photography And Videography Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      required: false
+    - id: 5
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: true
+    - id: 7
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: true

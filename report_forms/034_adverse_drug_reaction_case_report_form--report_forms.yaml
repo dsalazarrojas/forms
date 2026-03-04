@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adverse Drug Reaction Case Report Form
+    pages:
+    - id: 1
+      name: patient_information_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Legal full name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Patient's gender
+      type: select_one
+      options: ["Male", "Female", "Other", "Prefer not to say"]
+      required: true
+    - id: 5
+      name: patient_id
+      label: Patient ID
+      hint: Unique patient identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_healthcare_professional_section
+      label: -- Reporting Healthcare Professional --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reporter_name
+      label: Reporter Name
+      hint: Name of the healthcare professional reporting
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporter_title
+      label: Reporter Title
+      hint: Professional title of the reporter
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reporter_contact
+      label: Reporter Contact
+      hint: Contact information for the reporter
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: drug_information_section
+      label: -- Drug Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: drug_name
+      label: Drug Name
+      hint: Name of the drug that caused the reaction
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: drug_dosage
+      label: Drug Dosage
+      hint: Dosage of the drug taken
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: route_of_administration
+      label: Route of Administration
+      hint: How was the drug administered
+      type: select_one
+      options: ["Oral", "Intravenous", "Intramuscular", "Subcutaneous", "Topical", "Inhalation", "Other"]
+      required: true
+    - id: 14
+      name: duration_of_treatment
+      label: Duration of Treatment
+      hint: How long was the patient on this drug before reaction
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: adverse_reaction_section
+      label: -- Adverse Reaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reaction_description
+      label: Reaction Description
+      hint: Detailed description of the adverse reaction
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reaction_severity
+      label: Reaction Severity
+      hint: How severe was the reaction
+      type: select_one
+      options: ["Mild", "Moderate", "Severe", "Life-threatening", "Fatal"]
+      required: true
+    - id: 18
+      name: onset_date
+      label: Onset Date
+      hint: Date when the reaction started
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: outcome
+      label: Outcome
+      hint: What was the outcome of the reaction
+      type: select_one
+      options: ["Recovered", "Recovering", "Not recovered", "Sequelae", "Fatal", "Unknown"]
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information about the case
+      type: text
+      options: []
+      required: false

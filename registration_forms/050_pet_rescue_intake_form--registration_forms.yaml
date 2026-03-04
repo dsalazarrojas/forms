@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Rescue Intake Form
+    pages:
+    - id: 1
+      name: pet_owner
+      label: pet_owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pet_age
+      label: pet_age
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rescue_date
+      label: rescue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: intake_location
+      label: intake_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false

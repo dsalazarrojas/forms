@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_performance_reporting_form
+    pages:
+    - id: 1
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_hours_worked
+      label: Project Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: project_total_hours
+      label: Project Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: hours_over_budget
+      label: Hours Over Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: budgeted_hours
+      label: Budgeted Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: hours_worked_overtime
+      label: Hours Worked Overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: hours_overtime
+      label: Hours Overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: project_hours_overtime
+      label: Project Hours Overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: budgeted_overtime
+      label: Budgeted Overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_hours_overtime
+      label: Total Hours Overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: project_status_comments
+      label: Project Status Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 24
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 25
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false

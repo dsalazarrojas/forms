@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Repair Quotation Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- CUSTOMER INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_mileage
+      label: Current mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: license_plate
+      label: License plate number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: repair_details
+      label: -- REPAIR DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: problem_description
+      label: Problem description
+      hint: What is wrong with the vehicle?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: symptoms
+      label: Symptoms or warning signs
+      hint: Noises, warning lights, performance issues, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: repair_type
+      label: Primary repair category
+      hint: null
+      type: select_one
+      options:
+      - Engine Repair
+      - Transmission
+      - Brakes
+      - Suspension
+      - Electrical
+      - Cooling System
+      - Fuel System
+      - Exhaust
+      - Body Work
+      - Interior
+      - Maintenance
+      required: true
+    - id: 19
+      name: repair_priority
+      label: Repair priority
+      hint: null
+      type: select_one
+      options:
+      - Urgent - Safety Issue
+      - High - Soon
+      - Standard
+      - Low - Can Wait
+      required: true
+    - id: 20
+      name: previous_repairs
+      label: Any previous repairs on this issue?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: previous_repair_details
+      label: Details of previous repairs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quotation_details
+      label: -- QUOTATION DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: labor_hours_estimate
+      label: Estimated labor hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: labor_rate
+      label: Labor rate per hour
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: parts_estimated_cost
+      label: Estimated parts cost
+      hint: null
+      type: number
+      options: []
+      required: true

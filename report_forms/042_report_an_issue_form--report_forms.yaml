@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report An Issue Form
+    pages:
+    - id: 1
+      name: issue_type
+      label: report_problem
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description
+      label: describe_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: issue_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: issue_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: report
+      label: issue_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit'', ''label'': ''submit''}'
+      - '{''id'': 2, ''name'': ''cancel'', ''label'': ''cancel''}'
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

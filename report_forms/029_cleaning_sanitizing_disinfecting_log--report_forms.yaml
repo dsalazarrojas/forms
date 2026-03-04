@@ -1,0 +1,280 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Sanitizing Disinfecting Log
+    pages:
+      - id: 1
+        name: section_header_facility
+        label: -- Facility Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: facility_name
+        label: Facility Name
+        hint: Name of the facility being serviced
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: facility_location
+        label: Facility Location/Address
+        hint: Address or location identifier
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: facility_manager
+        label: Facility Manager
+        hint: Name of the manager or contact person
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_header_log
+        label: -- Log Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: log_date
+        label: Date of Log
+        hint: Date the sanitizing work was performed
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: start_time
+        label: Start Time
+        hint: Time sanitizing began
+        type: time
+        options: []
+        required: true
+      - id: 8
+        name: end_time
+        label: End Time
+        hint: Time sanitizing ended
+        type: time
+        options: []
+        required: true
+      - id: 9
+        name: cleaning_staff
+        label: Cleaning Staff Name(s)
+        hint: Names of personnel performing work
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: supervisor
+        label: Supervisor Name
+        hint: Name of supervising personnel
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: section_header_products
+        label: -- Products Used --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: disinfectant_type
+        label: Primary Disinfectant Used
+        hint: Name and type of disinfectant
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: disinfectant_concentration
+        label: Disinfectant Concentration
+        hint: Dilution ratio or concentration level
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: contact_time
+        label: Contact Time Applied
+        hint: How long disinfectant was left on surfaces
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: sanitizer_type
+        label: Sanitizer Type
+        hint: Type of sanitizer used if applicable
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: additional_chemicals
+        label: Additional Chemicals or Products
+        hint: Any other products used
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: ppe_used
+        label: Personal Protective Equipment Used
+        hint: Select all PPE worn during work
+        type: select_multiple
+        options:
+          - Gloves
+          - Apron
+          - Safety Glasses
+          - Face Mask
+          - N95 Mask
+          - Respirator
+          - Boots/Shoe Covers
+          - Head Cover
+        required: true
+      - id: 18
+        name: section_header_areas
+        label: -- Areas Sanitized --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: entryways
+        label: Entryways and Doorways
+        hint: null
+        type: select_one
+        options:
+          - Sanitized
+          - Partially Sanitized
+          - Not Sanitized
+          - Not Applicable
+        required: true
+      - id: 20
+        name: bathrooms
+        label: Bathrooms
+        hint: null
+        type: select_one
+        options:
+          - Sanitized
+          - Partially Sanitized
+          - Not Sanitized
+          - Not Applicable
+        required: true
+      - id: 21
+        name: break_rooms
+        label: Break/Rest Rooms
+        hint: null
+        type: select_one
+        options:
+          - Sanitized
+          - Partially Sanitized
+          - Not Sanitized
+          - Not Applicable
+        required: true
+      - id: 22
+        name: offices
+        label: Offices and Workstations
+        hint: null
+        type: select_one
+        options:
+          - Sanitized
+          - Partially Sanitized
+          - Not Sanitized
+          - Not Applicable
+        required: true
+      - id: 23
+        name: conference_rooms
+        label: Conference and Meeting Rooms
+        hint: null
+        type: select_one
+        options:
+          - Sanitized
+          - Partially Sanitized
+          - Not Sanitized
+          - Not Applicable
+        required: true
+      - id: 24
+        name: hallways
+        label: Hallways and Common Areas
+        hint: null
+        type: select_one
+        options:
+          - Sanitized
+          - Partially Sanitized
+          - Not Sanitized
+          - Not Applicable
+        required: true
+      - id: 25
+        name: high_touch_surfaces
+        label: High-Touch Surfaces
+        hint: Door handles, railings, switches, etc.
+        type: select_one
+        options:
+          - Sanitized
+          - Partially Sanitized
+          - Not Sanitized
+        required: true
+      - id: 26
+        name: section_header_details
+        label: -- Specific Surfaces Treated --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: surfaces_detail
+        label: Specific Surfaces or Items Treated
+        hint: List detailed items (e.g., light switches, keyboards, phones)
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: section_header_quality
+        label: -- Quality and Verification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: verification_method
+        label: Verification Method Used
+        hint: How was effectiveness verified?
+        type: select_one
+        options:
+          - Visual Inspection
+          - ATP Testing
+          - Surface Swabs
+          - Documentation Review
+          - Other
+        required: false
+      - id: 30
+        name: verification_results
+        label: Verification Results
+        hint: Results of quality verification
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: issues_encountered
+        label: Issues or Concerns During Sanitizing
+        hint: Any problems encountered
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: comments
+        label: Additional Comments or Notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

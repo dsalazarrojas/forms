@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Container Home Rental Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: social_security_number
+      label: Social Security Number
+      hint: For credit and background check
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Street address where you currently live
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_city
+      label: Current City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_state
+      label: Current State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_zip
+      label: Current ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_rent_amount
+      label: Current Monthly Rent
+      hint: Your current monthly rent payment
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: landlord_name
+      label: Current Landlord Name
+      hint: Name of your current landlord or property manager
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: landlord_phone
+      label: Landlord Phone Number
+      hint: Contact number for your landlord
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 14
+      name: employer_name
+      label: Employer Name
+      hint: Name of your current employer
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: monthly_income
+      label: Gross Monthly Income
+      hint: Total income before taxes
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: length_of_employment
+      label: Length of Employment
+      hint: How long have you worked at your current job?
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - More than 5 years
+      required: true
+    - id: 18
+      name: number_of_occupants
+      label: Number of Occupants
+      hint: How many people will live in the container home?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: pets
+      label: Do You Have Pets?
+      hint: Please indicate if you have any pets
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: pet_details
+      label: Pet Details
+      hint: Describe your pets including type, breed, and size
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke?
+      type: select_one
+      options:
+      - Non-Smoker
+      - Occasional Smoker
+      - Regular Smoker
+      required: true
+    - id: 22
+      name: move_in_date
+      label: Desired Move-In Date
+      hint: When would you like to move in?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: lease_term_preference
+      label: Preferred Lease Term
+      hint: How long of a lease are you seeking?
+      type: select_one
+      options:
+      - 6 months
+      - 12 months
+      - 18 months
+      - 24 months
+      - Month-to-Month
+      required: true
+    - id: 24
+      name: previous_evictions
+      label: Have You Ever Been Evicted?
+      hint: Please answer honestly
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

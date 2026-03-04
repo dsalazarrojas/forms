@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Student Ministry Medical Release Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_name
+      label: Parent or guardian name
+      hint: Emergency contact primary
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Best number to reach
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Known medical conditions
+      hint: Allergies medications chronic conditions
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physician_name
+      label: Primary physician name
+      hint: Optional physician contact
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: Insurance provider
+      hint: Carrier name and policy number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_for_treatment
+      label: Consent for emergency treatment
+      hint: Parent guardian consent checkbox
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 9
+      name: special_instructions
+      label: Special medical instructions
+      hint: Any additional notes for caregivers
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_acknowledgement
+      label: Signature acknowledgement
+      hint: Typed name is accepted as signature
+      type: text
+      options: []
+      required: true

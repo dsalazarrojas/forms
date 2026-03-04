@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barging Service Quote Request
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your position or title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For quote delivery and communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cargo_type
+      label: Type of Cargo
+      hint: What will be transported
+      type: select_one
+      options:
+      - Bulk materials
+      - Containers
+      - Heavy equipment
+      - Liquid cargo
+      - General freight
+      - Project cargo
+      - Other
+      required: true
+    - id: 8
+      name: cargo_description
+      label: Cargo Description
+      hint: Detailed description of goods
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: estimated_weight
+      label: Estimated Weight in Tons
+      hint: Approximate total weight
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cargo_dimensions
+      label: Cargo Dimensions
+      hint: Length x width x height if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: origin_port
+      label: Origin Port or Location
+      hint: Where will cargo be loaded
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: destination_port
+      label: Destination Port or Location
+      hint: Where will cargo be unloaded
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: estimated_distance
+      label: Estimated Distance in Nautical Miles
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: preferred_loading_date
+      label: Preferred Loading Date
+      hint: When do you need loading to begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need delivery completed
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: timeline_flexibility
+      label: Timeline Flexibility
+      hint: How flexible are your dates
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Not flexible - fixed dates
+      required: true
+    - id: 17
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special handling or equipment needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hazardous_materials
+      label: Hazardous Materials Involved
+      hint: Will any hazardous cargo be transported
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: hazmat_details
+      label: Hazardous Materials Details
+      hint: Describe the hazardous materials if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: insurance_required
+      label: Insurance Coverage Required
+      hint: Do you need insurance coverage
+      type: select_one
+      options:
+      - Yes, full coverage
+      - Yes, basic coverage
+      - No, we have our own insurance
+      required: true
+    - id: 21
+      name: previous_barging_experience
+      label: Previous Barging Experience
+      hint: Have you used barge services before
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - No, first time
+      required: true
+    - id: 22
+      name: preferred_barge_type
+      label: Preferred Barge Type
+      hint: Do you have a preference
+      type: select_one
+      options:
+      - No preference
+      - Deck barge
+      - Hopper barge
+      - Tank barge
+      - Container barge
+      required: true
+    - id: 23
+      name: quote_validity
+      label: Quote Validity Period
+      hint: How long should the quote be valid
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - As long as possible
+      required: true
+    - id: 24
+      name: additional_services
+      label: Additional Services Needed
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - Loading services
+      - Unloading services
+      - Storage
+      - Customs clearance
+      - Cargo insurance
+      - Tracking services
+      - None
+      required: true
+    - id: 25
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: We appreciate knowing
+      type: select_one
+      options:
+      - Online search
+      - Referral
+      - Industry contact
+      - Advertisement
+      - Previous customer
+      - Other
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

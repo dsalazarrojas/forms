@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Shipping Program Negative Feedback Report Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_description
+      label: Feedback Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: Order Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - US Postal Service
+      - UPS
+      - FedEx
+      - Other
+      required: false
+    - id: 9
+      name: shipping_carrier
+      label: Shipping Carrier
+      hint: null
+      type: select_one
+      options:
+      - UPS
+      - FedEx
+      - US Postal Service
+      - Other (Specify)
+      required: false
+    - id: 10
+      name: shipping_service
+      label: Shipping Service
+      hint: null
+      type: select_one
+      options:
+      - Ground
+      - Express
+      - Other
+      required: false
+    - id: 11
+      name: shipping_tracking_number
+      label: Shipping Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - Shipping Issue
+      - Product Issue
+      - Other
+      required: false
+    - id: 13
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_image
+      label: Issue Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: support_follow_up
+      label: Support Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Escalated
+      required: false
+    - id: 19
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - Resolved
+      - Unresolved
+      - Escalated
+      required: false
+    - id: 21
+      name: issue_resolution_comment
+      label: Issue Resolution Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: support_comment
+      label: Support Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Review
+      - Approved
+      - Rejected
+      required: false

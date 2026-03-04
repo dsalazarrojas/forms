@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom pc build request
+    pages:
+    - id: 1
+      name: custom_pc_build_request_1
+      label: Custom PC Build Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hardware_type
+      label: hardware type
+      hint: null
+      type: select_one
+      options:
+      - cpu
+      - gpu
+      - laptop
+      - desktop
+      - gaming_pc
+      required: true
+    - id: 3
+      name: motherboard_type
+      label: motherboard type
+      hint: null
+      type: select_one
+      options:
+      - socket_amd
+      - socket_amd_thread_mrp
+      - socket_intel
+      - socket_intel_l
+      required: false
+    - id: 4
+      name: processor
+      label: processor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: memory_type
+      label: memory type
+      hint: null
+      type: select_one
+      options:
+      - ddr4
+      - ddr3
+      - ddr5
+      - none
+      required: true
+    - id: 6
+      name: ram_size
+      label: ram size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: storage_type
+      label: storage type
+      hint: null
+      type: select_one
+      options:
+      - hdd
+      - sdd
+      - sdd_nvm
+      - none
+      required: true
+    - id: 8
+      name: power_supply
+      label: power supply
+      hint: null
+      type: select_one
+      options:
+      - atx
+      - atx_nps
+      - atx_npw
+      - none
+      required: false
+    - id: 9
+      name: power_supply_wattage
+      label: power supply wattage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cooling_type
+      label: cooling type
+      hint: null
+      type: select_one
+      options:
+      - air
+      - water
+      - liquid
+      - none
+      required: false
+    - id: 11
+      name: case_type
+      label: case type
+      hint: null
+      type: select_one
+      options:
+      - atx
+      - sli
+      - none
+      required: false
+    - id: 12
+      name: case_material
+      label: case material
+      hint: null
+      type: select_one
+      options:
+      - plastic
+      - aluminum
+      - steel
+      - none
+      required: false
+    - id: 13
+      name: graphics_card
+      label: graphics card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: display_type
+      label: display type
+      hint: null
+      type: select_one
+      options:
+      - '24'
+      - '32'
+      - '35'
+      - none
+      required: true
+    - id: 15
+      name: display_size
+      label: display size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: display_resolution
+      label: display resolution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: operating_system
+      label: operating system
+      hint: null
+      type: select_one
+      options:
+      - windows
+      - linux
+      - macos
+      - none
+      required: true
+    - id: 18
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

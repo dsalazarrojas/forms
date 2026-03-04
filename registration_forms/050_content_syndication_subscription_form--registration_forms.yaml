@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Syndication Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subscriber_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subscriber_email
+      label: Email Address
+      hint: We will send content updates here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: subscriber_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry
+      label: Industry
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Retail
+      - Manufacturing
+      - Media
+      - Professional Services
+      - Nonprofit
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: false
+    - id: 9
+      name: subscription_date
+      label: Subscription Date
+      hint: Date of subscription
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: content_interests
+      label: Content Interests
+      hint: What topics interest you?
+      type: select_multiple
+      options:
+      - Industry News
+      - Technology Trends
+      - Business Strategy
+      - Marketing Insights
+      - Product Updates
+      - Case Studies
+      - How-To Guides
+      - Research Reports
+      required: true
+    - id: 11
+      name: content_format_preference
+      label: Content Format Preference
+      hint: What format do you prefer?
+      type: select_one
+      options:
+      - Articles
+      - Videos
+      - Infographics
+      - Podcasts
+      - All Formats
+      required: true
+    - id: 12
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: How often do you want updates?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 13
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we deliver content?
+      type: select_one
+      options:
+      - Email Newsletter
+      - RSS Feed
+      - Mobile App Notifications
+      - Social Media
+      - All of the Above
+      required: true
+    - id: 14
+      name: content_categories
+      label: Content Categories
+      hint: Which categories interest you?
+      type: select_multiple
+      options:
+      - Thought Leadership
+      - Technical Content
+      - Product Reviews
+      - Industry Analysis
+      - Best Practices
+      - Trends and Predictions
+      - Expert Interviews
+      - Company News
+      required: true
+    - id: 15
+      name: subscription_type
+      label: Subscription Type
+      hint: What type of subscription?
+      type: select_one
+      options:
+      - Free Subscription
+      - Premium Subscription
+      - Enterprise Subscription
+      - Trial Subscription
+      required: true
+    - id: 16
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: How did you find our content?
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Website
+      - Referral
+      - Advertisement
+      - Email Campaign
+      - Other
+      required: true
+    - id: 17
+      name: referral_source
+      label: Referral Source
+      hint: If referred, who referred you?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: newsletter_archive_access
+      label: Newsletter Archive Access
+      hint: Would you like access to our archive?
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: true
+    - id: 19
+      name: exclusive_content_access
+      label: Exclusive Content Access
+      hint: Interested in exclusive content?
+      type: select_one
+      options:
+      - Yes, very interested
+      - Maybe
+      - No, not interested
+      required: true
+    - id: 20
+      name: content_sharing_permission
+      label: Content Sharing Permission
+      hint: May we share your testimonial?
+      type: select_one
+      options:
+      - Yes, you may contact me
+      - No, thank you
+      required: false
+    - id: 21
+      name: privacy_policy_accepted
+      label: Privacy Policy Accepted
+      hint: I agree to the privacy policy
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 22
+      name: terms_of_service_accepted
+      label: Terms of Service Accepted
+      hint: I agree to the terms of service
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 23
+      name: unsubscribe_anytime
+      label: Unsubscribe Anytime
+      hint: I understand I can unsubscribe anytime
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true
+    - id: 24
+      name: additional_preferences
+      label: Additional Preferences
+      hint: Any other preferences or requests
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Expenses Form
+    pages:
+    - id: 1
+      name: trip_details
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: trip_type
+      label: Trip Purpose
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      - Other
+      required: false
+    - id: 3
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Accommodation
+      - Food
+      - Transportation
+      - Other
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: Enter the amount of the expense
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: receipt
+      label: Receipt
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approver
+      label: Approver
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Supervisor
+      - Accountant
+      required: false
+    - id: 11
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false

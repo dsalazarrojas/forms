@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Request Form
+    pages:
+    - id: 1
+      name: section_requester_information
+      label: -- Requester Information --
+      hint: Contact details for the person making the request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: requester name
+      hint: Full name of the requestor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: requester email
+      hint: Business email for request follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: department
+      hint: Department making the request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: asset_type
+      label: asset type requested
+      hint: Select the type of asset required
+      type: select_one
+      options:
+      - Laptop
+      - Mobile device
+      - Office equipment
+      - Software license
+      - Furniture
+      - Other
+      required: true
+    - id: 6
+      name: quantity
+      label: quantity requested
+      hint: Number of identical items requested
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: required_by
+      label: required by date
+      hint: Date the asset is needed
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: estimated_cost
+      label: estimated cost
+      hint: Estimated total cost for requested items
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: justification
+      label: justification for request
+      hint: Business reason and expected use
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_approval
+      label: manager approval required
+      hint: Has the requester obtained manager approval
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

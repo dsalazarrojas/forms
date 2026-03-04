@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Kickoff Reception RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: LastName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_count
+      label: GuestCount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: attending
+      label: Attending
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: arrival_date
+      label: ArrivalDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: departure_date
+      label: DepartureDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: arrival_time
+      label: ArrivalTime
+      hint: null
+      type: time
+      options: []
+      required: false

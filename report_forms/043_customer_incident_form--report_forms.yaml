@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Customer Incident Form
+    pages:
+    - id: 1
+      name: customer_incident_details
+      label: customer incident details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Incidents'': ''Damage''}'
+      - '{''Incidents'': ''Quality issue''}'
+      - '{''Incidents'': ''Defective product''}'
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Customer name'', ''value'': ''customer_name''}'
+      - '{''label'': ''Contact person'', ''value'': ''contact_person''}'
+      - '{''label'': ''Phone number'', ''value'': ''phone_number''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      required: true
+    - id: 3
+      name: vehicle_details
+      label: vehicle details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: incident description
+      hint: Please enter details about the incident
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attachment
+      label: attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_signature
+      label: customer signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Signed'', ''value'': ''signed''}'
+      - '{''label'': ''Unsigned'', ''value'': ''unsigned''}'
+      required: true
+    - id: 7
+      name: employee_signature
+      label: Employee signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Signed'', ''value'': ''signed''}'
+      - '{''label'': ''Unsigned'', ''value'': ''unsigned''}'
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_email
+      label: Employee email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_phone
+      label: Employee phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: attachment_description
+      label: attachment description
+      hint: Please enter a short description of the attachment
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment_data
+      label: attachment data
+      hint: null
+      type: note
+      options: []
+      required: false

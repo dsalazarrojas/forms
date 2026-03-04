@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Store Signage Requisition Form
+    pages:
+    - id: 1
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: signage_type
+      label: Sign Type
+      hint: null
+      type: select_one
+      options:
+      - Acrylic Sign
+      - Backlit Sign
+      - Directional Sign
+      - Menu Board
+      - Menu Board with Price List
+      - Pylon Sign
+      - Window Cling
+      - Window Sign
+      required: true
+    - id: 3
+      name: signage_description
+      label: Sign Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signage_image
+      label: Sign Image
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: urgency
+      label: Urgency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      - Medium
+      - Very High
+      required: true
+    - id: 8
+      name: signage_size
+      label: Sign Size
+      hint: null
+      type: number
+      options: []
+      required: true

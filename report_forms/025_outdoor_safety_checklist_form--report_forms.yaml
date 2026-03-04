@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Safety Checklist Form
+    pages:
+    - id: 1
+      name: section_1
+      label: section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: field_4
+      label: hazards identified
+      hint: null
+      type: select_multiple
+      options:
+      - natural hazard
+      - Other
+      required: false
+    - id: 3
+      name: field_5
+      label: risks identified
+      hint: null
+      type: select_multiple
+      options:
+      - natural
+      - Other
+      required: false
+    - id: 4
+      name: field_6
+      label: safety measures taken
+      hint: null
+      type: select_multiple
+      options:
+      - other
+      - Other
+      required: false

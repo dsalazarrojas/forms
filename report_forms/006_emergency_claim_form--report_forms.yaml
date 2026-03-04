@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Claim Form
+    pages:
+    - id: 1
+      name: emergency_claim_form_page_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_claim_form_page_2
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: emergency_claim_form_page_3
+      label: accident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''injury''}'
+      - '{''id'': 2, ''label'': ''car_accident''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: false
+    - id: 5
+      name: claim_details
+      label: claim_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_report
+      label: file_report
+      hint: null
+      type: text
+      options: []
+      required: false

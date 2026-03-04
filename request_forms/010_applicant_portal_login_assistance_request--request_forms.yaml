@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Portal Login Assistance Request
+    pages:
+    - id: 1
+      name: applicant_identity_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registered_email
+      label: Email Address Used for Registration
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_id_number
+      label: Applicant ID (If known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_applied_to
+      label: Program or Department Applied To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_details_header
+      label: -- Problem Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: issue_category
+      label: Type of Login Issue
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Forgot Password
+      - Forgot Username - Email
+      - Account Locked
+      - Error Code During Login
+      - Verification Link Not Received
+      - Other Technical Error
+      required: true
+    - id: 8
+      name: error_message_displayed
+      label: Error Message Displayed
+      hint: If applicable, please type the exact error message seen
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_description
+      label: Detailed Description of the Problem
+      hint: Please provide as much detail as possible to help us resolve the issue
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: browser_and_os
+      label: Browser and Operating System Used
+      hint: e.g., Chrome on Windows 11, Safari on macOS
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Desktop Computer
+      - Laptop
+      - Smartphone
+      - Tablet
+      required: true
+    - id: 12
+      name: urgency_header
+      label: -- Submission and Urgency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: application_deadline
+      label: Next Application Deadline Date
+      hint: If you have an upcoming deadline, please specify
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low - General Inquiry
+      - Medium - Deadline in more than 48 hours
+      - High - Deadline within 48 hours
+      - Critical - Deadline Today
+      required: true
+    - id: 15
+      name: preferred_contact_method
+      label: Preferred Method of Contact for Resolution
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Contact Phone Number
+      hint: If phone call is preferred
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Incident Report Form
+    pages:
+    - id: 1
+      name: volunteer_incident_report_form
+      label: Volunteer Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_occurred
+      label: Date Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_location
+      label: Volunteer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_type
+      label: Volunteer Type
+      hint: What type of volunteer was involved in the incident?
+      type: select_one
+      options:
+      - Volunteer
+      - Staff Member
+      - Contractor
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: Provide a detailed description of what happened.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_outcome
+      label: Incident Outcome
+      hint: Was the incident reported or not?
+      type: select_one
+      options:
+      - Reported
+      - Unreported
+      required: false
+    - id: 7
+      name: follow_up_required
+      label: Follow-up Required
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: Additional follow-up notes (e.g. action items, next steps).
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reporting_volunteer_name
+      label: Reporting Volunteer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_volunteer_email
+      label: Reporting Volunteer's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: reporting_volunteer_contact
+      label: Reporting Volunteer's Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reported_to
+      label: Incident Reported To
+      hint: null
+      type: select_one
+      options:
+      - Volunteer Coordinator
+      - Program Director
+      - Executive Director
+      required: false
+    - id: 13
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Staff Member
+      - Contractor
+      required: false

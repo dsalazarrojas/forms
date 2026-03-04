@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mocion Submission Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: proposers
+      label: Proposers
+      hint: null
+      type: select_multiple
+      options:
+      - Chair
+      - Vice Chair
+      - Committee Member
+      - Member
+      required: false
+    - id: 5
+      name: proposer_name
+      label: Proposers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: proposer_email
+      label: Proposers Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: motion_number
+      label: Motion Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: motion_subject
+      label: Motion Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: motion_description
+      label: Motion Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: proposed_by
+      label: Proposed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

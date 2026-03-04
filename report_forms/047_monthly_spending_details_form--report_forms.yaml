@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Spending Details Form
+    pages:
+    - id: 1
+      name: income_amount
+      label: income amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: expenses_category
+      label: expenses category
+      hint: null
+      type: select_one
+      options:
+      - Income
+      - Savings
+      - Other
+      required: false
+    - id: 3
+      name: date_of_transaction
+      label: prophets date of transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transaction_description
+      label: transaction description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transaction_amount
+      label: transaction amount
+      hint: null
+      type: number
+      options: []
+      required: false

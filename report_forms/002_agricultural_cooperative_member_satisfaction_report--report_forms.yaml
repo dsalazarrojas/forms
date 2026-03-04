@@ -1,0 +1,185 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Cooperative Member Satisfaction Report
+    pages:
+    - id: 1
+      name: member_id
+      label: Member ID
+      hint: Cooperative membership identification number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: Full name of the cooperative member
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: membership_duration
+      label: Membership Duration
+      hint: How long have you been a member
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 4
+      name: farm_type
+      label: Farm Type
+      hint: Type of farming operation
+      type: select_one
+      options:
+      - Crop Farming
+      - Livestock
+      - Dairy
+      - Poultry
+      - Mixed Operation
+      - Organic Farming
+      - Other
+      required: true
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with the cooperative
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 6
+      name: service_quality_rating
+      label: Service Quality Rating
+      hint: Rate the quality of cooperative services
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 7
+      name: communication_rating
+      label: Communication Rating
+      hint: Rate the cooperative communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: pricing_satisfaction
+      label: Pricing Satisfaction
+      hint: Satisfaction with cooperative pricing
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: benefits_utilized
+      label: Benefits Utilized
+      hint: Select all cooperative benefits you use
+      type: select_multiple
+      options:
+      - Bulk Purchasing
+      - Equipment Sharing
+      - Marketing Support
+      - Technical Assistance
+      - Training Programs
+      - Financial Services
+      - Insurance Programs
+      - None
+      required: true
+    - id: 10
+      name: most_valuable_service
+      label: Most Valuable Service
+      hint: Which service provides the most value
+      type: select_one
+      options:
+      - Bulk Purchasing Discounts
+      - Equipment Sharing
+      - Marketing and Sales Support
+      - Technical Advisory
+      - Training and Education
+      - Financial Assistance
+      - Networking Opportunities
+      required: false
+    - id: 11
+      name: improvement_areas
+      label: Areas Needing Improvement
+      hint: Select areas that need improvement
+      type: select_multiple
+      options:
+      - Communication
+      - Pricing
+      - Service Quality
+      - Response Time
+      - Member Support
+      - Technology Platform
+      - Training Programs
+      required: true
+    - id: 12
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely to recommend this cooperative
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 13
+      name: participation_level
+      label: Participation Level
+      hint: Your level of participation in cooperative activities
+      type: select_one
+      options:
+      - Very Active
+      - Active
+      - Moderate
+      - Minimal
+      - None
+      required: true
+    - id: 14
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_date
+      label: Report Date
+      hint: Date of this satisfaction report
+      type: date
+      options: []
+      required: true

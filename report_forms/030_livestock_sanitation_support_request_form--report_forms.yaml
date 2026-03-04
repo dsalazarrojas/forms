@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Sanitation Support Request Form
+    pages:
+    - id: 1
+      name: farm_info
+      label: Farm information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: animal_count
+      label: Animal Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Beef Cattle''}'
+      - '{''id'': 2, ''name'': ''Pigs''}'
+      - '{''id'': 3, ''name'': ''Sheep''}'
+      - '{''id'': 4, ''name'': ''Horses''}'
+      - '{''id'': 5, ''name'': ''Goats''}'
+      - '{''id'': 6, ''name'': ''Chickens''}'
+      - '{''id'': 7, ''name'': ''Ducks''}'
+      - '{''id'': 8, ''name'': ''Turkeys''}'
+      - '{''id'': 9, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photos_additional_info
+      label: Additional Photos Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Jim Brown''}'
+      required: false
+    - id: 9
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Local farm''}'
+      - '{''id'': 2, ''name'': ''Regional''}'
+      - '{''id'': 3, ''name'': ''National''}'
+      required: false
+    - id: 10
+      name: support_request
+      label: Support Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_request_additional_info
+      label: Additional Support Request Information
+      hint: null
+      type: text
+      options: []
+      required: false

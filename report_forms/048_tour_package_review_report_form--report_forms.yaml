@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Package Review Report Form
+    pages:
+    - id: 1
+      name: tour_package_review_form_1
+      label: Tour Package Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_rating
+      label: Package Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: package_review
+      label: Package Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tour_operators_comment
+      label: Tour Operators Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tour_operators
+      label: Tour Operators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: travel_agency_comment
+      label: Travel Agency Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

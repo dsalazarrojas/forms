@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Narration Revision Request
+    pages:
+    - id: 1
+      name: revision_request_form
+      label: Revision Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: timecode_start
+      label: Start Timecode
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: timecode_end
+      label: End Timecode
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: reference_files
+      label: Reference Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: revision_details
+      label: Revision Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

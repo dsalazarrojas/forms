@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: place_of_birth
+      label: Place Of Birth
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Other
+      required: false
+    - id: 5
+      name: country_of_birth
+      label: Country Of Birth
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - Other
+      required: false
+    - id: 6
+      name: citizenship_status
+      label: citizenship_status
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - Other
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

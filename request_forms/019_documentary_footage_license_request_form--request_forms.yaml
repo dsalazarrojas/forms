@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Footage License Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 6
+      name: usage_purpose
+      label: Usage Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: distribution
+      label: Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 8
+      name: license_duration
+      label: License Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date_of_capture
+      label: Date Of Capture
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: date_returned
+      label: Date Returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

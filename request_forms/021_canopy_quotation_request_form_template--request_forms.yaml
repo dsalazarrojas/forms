@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canopy Quotation Request Form Template
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canopy Quotation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Request a custom quotation for your canopy installation. Please provide
+        details about your project.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Business name (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_details_header
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: canopy_type
+      label: Type of Canopy You Need
+      hint: Select one
+      type: select_one
+      options:
+      - Fixed Roof Canopy
+      - Retractable Canopy
+      - Portable/Tent Canopy
+      - Shade Sail
+      - Pergola
+      - Custom Design
+      - Other
+      required: true
+    - id: 15
+      name: installation_location
+      label: Installation Location Type
+      hint: Select one
+      type: select_one
+      options:
+      - Residential Backyard
+      - Residential Deck
+      - Commercial Building
+      - Parking Area
+      - Event Space
+      - Restaurant/Cafe
+      - Other
+      required: true
+    - id: 16
+      name: estimated_area
+      label: Estimated Coverage Area
+      hint: Approximate size in square feet
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: location_dimensions
+      label: Location Dimensions
+      hint: Length x Width (if known)
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_timeline_header
+      label: -- Project Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: installation_timeframe
+      label: When do you need this installed?
+      hint: Select one
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Not urgent
+      required: true
+    - id: 20
+      name: preferred_installation_date
+      label: Preferred Installation Date
+      hint: If you have a specific date in mind
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: requirements_header
+      label: -- Specific Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_features
+      label: Special Features or Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Motorized/Automated
+      - Water Resistant
+      - UV Protection
+      - Wind Resistant
+      - Built-in Lighting
+      - Heating Elements
+      - Rain Gutter System
+      - Easy Maintenance
+      required: false
+    - id: 23
+      name: color_preference
+      label: Color or Material Preference
+      hint: Describe preference
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: climate_considerations
+      label: Climate Considerations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Heavy rain area
+      - High wind area
+      - Extreme heat
+      - Extreme cold
+      - Heavy snow
+      - Salt air/coastal
+      - Other
+      required: false
+    - id: 25
+      name: budget_header
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: budget_range
+      label: Estimated Budget Range
+      hint: Select approximate range
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-2500
+      - 2500-5000
+      - 5000-10000
+      - 10000-25000
+      - 25000 plus
+      - Flexible
+      required: false
+    - id: 27
+      name: additional_services_header
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: additional_services
+      label: Do you need additional services?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Installation
+      - Maintenance plan
+      - Warranty extension
+      - Support and repairs
+      - Design consultation
+      - Permits and approvals
+      - None
+      required: false
+    - id: 29
+      name: comments_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: project_description
+      label: Project Description
+      hint: Tell us more about your project
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: questions
+      label: Any Questions or Concerns?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: follow_up
+      label: How would you prefer we contact you?
+      hint: Select one
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No preference
+      required: true

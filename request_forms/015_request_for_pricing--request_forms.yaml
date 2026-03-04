@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Pricing
+    pages:
+    - id: 1
+      name: request_for_pricing_form
+      label: request_for_pricing_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: price_inquiry
+      label: price_inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: price_range
+      label: price_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: buyer_seller
+      label: buyer_seller
+      hint: null
+      type: select_one
+      options:
+      - buyer
+      - seller
+      required: false
+    - id: 5
+      name: goods_services
+      label: goods_services
+      hint: null
+      type: select_multiple
+      options:
+      - goods
+      - services
+      required: false
+    - id: 6
+      name: established_price
+      label: established_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: price_inquiry_type
+      label: price_inquiry_type
+      hint: null
+      type: select_one
+      options:
+      - ask_for_range
+      - ask_for_specific
+      required: false
+    - id: 8
+      name: min_price
+      label: min_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: max_price
+      label: max_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: price_range
+      label: price_range
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Meeting And Booking Request Form
+    pages:
+    - id: 1
+      name: prophets
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Meeting'', ''label'': ''Meeting''}'
+      - '{''id'': 2, ''name'': ''Conference'', ''label'': ''Conference''}'
+      - '{''id'': 3, ''name'': ''Event'', ''label'': ''Event''}'
+      required: false
+    - id: 3
+      name: hotel_name
+      label: Hotel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: guests
+      label: Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

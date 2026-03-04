@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Log Form
+    pages:
+    - id: 1
+      name: security_log_form_page_1
+      label: security_log_form_page_1_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: security_incident
+      label: security_incident_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: security_issue_description
+      label: security_issue_description_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: security_incident_category
+      label: security_incident_category_label
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: true
+    - id: 5
+      name: security_breach_description
+      label: security_breach_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: security_response_description
+      label: security_response_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: security_issue_resolution
+      label: security_issue_resolution_label
+      hint: null
+      type: select_multiple
+      options:
+      - Resolved
+      - Unresolved
+      required: false
+    - id: 8
+      name: security_incident_date
+      label: security_incident_date_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: security_incident_time
+      label: security_incident_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: security_incident_status
+      label: security_incident_status_label
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: true
+    - id: 11
+      name: security_incident_user
+      label: security_incident_user_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: security_incident_location
+      label: security_incident_location_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: security_incident_note
+      label: security_incident_note_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: security_incident_email
+      label: security_incident_email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: security_incident_phone
+      label: security_incident_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: security_incident_comments
+      label: security_incident_comments_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: security_incident_attachment
+      label: security_incident_attachment_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: security_incident_attachment_2
+      label: security_incident_attachment_2_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: security_log_form_attachments
+      label: security_log_form_attachments_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: security_incident_attachment_3
+      label: security_incident_attachment_3_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: security_log_form_attachment_2
+      label: security_log_form_attachment_2_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: security_incident_attachment_4
+      label: security_incident_attachment_4_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: security_log_form_attachment_3
+      label: security_log_form_attachment_3_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: security_log_form_attachment_4
+      label: security_log_form_attachment_4_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: security_incident_attachment_5
+      label: security_incident_attachment_5_label
+      hint: null
+      type: note
+      options: []
+      required: false

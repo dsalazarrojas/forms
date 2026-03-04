@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Closing Checklist
+    pages:
+    - id: 1
+      name: store_name
+      label: Store Name or Location
+      hint: Name of the retail location
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: store_number
+      label: Store Number
+      hint: Store ID or code
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: closing_manager
+      label: Manager on Duty
+      hint: Name of closing manager
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: closing_date
+      label: Closing Date
+      hint: Date of closing
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: closing_time
+      label: Closing Time
+      hint: Store closing time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: section_registers
+      label: -- Cash Registers and Payment --
+      hint: Money handling procedures
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: registers_balanced
+      label: All registers counted and balanced
+      hint: null
+      type: select_one
+      options:
+      - Yes, all balanced
+      - Yes, with overages
+      - Yes, with shortages
+      - Not completed
+      required: true
+    - id: 8
+      name: cash_discrepancy
+      label: Cash discrepancy amount if any
+      hint: Over or under in dollars
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cash_deposited
+      label: Cash deposited or secured
+      hint: null
+      type: select_one
+      options:
+      - Deposited in safe
+      - Ready for bank deposit
+      - Locked in till
+      - Not completed
+      required: true
+    - id: 10
+      name: credit_card_reconciliation
+      label: Credit card transactions reconciled
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not completed
+      - N/A
+      required: true
+    - id: 11
+      name: section_inventory
+      label: -- Inventory and Stock --
+      hint: Inventory procedures
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shelves_restocked
+      label: Shelves restocked for next day
+      hint: null
+      type: select_one
+      options:
+      - Completed fully
+      - Partially completed
+      - Not started
+      - N/A
+      required: true
+    - id: 13
+      name: markdown_items
+      label: Markdown items processed
+      hint: Damaged, expired, or old merchandise
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Not needed
+      required: true
+    - id: 14
+      name: inventory_shrink
+      label: Any unusual inventory shrinkage noted
+      hint: null
+      type: select_one
+      options:
+      - No issues
+      - Minor discrepancies
+      - Significant discrepancies
+      - Potential theft
+      required: true
+    - id: 15
+      name: section_cleanliness
+      label: -- Cleanliness and Maintenance --
+      hint: Store cleaning and upkeep
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: sales_floor_cleaned
+      label: Sales floor swept and cleaned
+      hint: null
+      type: select_one
+      options:
+      - Completed thoroughly
+      - Completed adequately
+      - Partial
+      - Not started
+      required: true
+    - id: 17
+      name: fitting_rooms_checked
+      label: Fitting rooms cleared and cleaned
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Completed with issues
+      - Partial
+      - Not started
+      required: true
+    - id: 18
+      name: bathrooms_cleaned
+      label: Bathrooms cleaned and restocked
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Completed adequately
+      - Partial
+      - Not started
+      required: true
+    - id: 19
+      name: trash_removed
+      label: All trash removed from store
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Partial
+      - Not started
+      - N/A
+      required: true
+    - id: 20
+      name: section_security
+      label: -- Security Procedures --
+      hint: Store security and access
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: doors_locked
+      label: All doors locked and secured
+      hint: Front, back, side doors
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not completed
+      required: true
+    - id: 22
+      name: alarm_set
+      label: Alarm system activated
+      hint: null
+      type: select_one
+      options:
+      - Activated successfully
+      - In progress
+      - Not completed
+      required: true
+    - id: 23
+      name: lights_off
+      label: All lights turned off
+      hint: Except security lights if applicable
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not completed
+      required: true
+    - id: 24
+      name: issues_encountered
+      label: Any issues or problems encountered
+      hint: Damage, equipment failure, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: closing_signature
+      label: Manager Signature (print name)
+      hint: Acknowledge checklist completion
+      type: text
+      options: []
+      required: true

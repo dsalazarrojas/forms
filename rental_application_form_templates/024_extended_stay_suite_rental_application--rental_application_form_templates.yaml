@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: extended_stay_suite_rental_application
+    pages:
+    - id: 1
+      name: rental_application
+      label: Rental Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: Please provide the suite rental property details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Please enter email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Please enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_period
+      label: Rental Period
+      hint: Please select the rental period
+      type: select_one
+      options:
+      - Short-term
+      - Medium-term
+      - Long-term
+      required: false
+    - id: 7
+      name: move_in_date
+      label: Move In Date
+      hint: Please select move-in date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_out_date
+      label: Move Out Date
+      hint: Please select move-out date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rental_amount
+      label: Rental Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false

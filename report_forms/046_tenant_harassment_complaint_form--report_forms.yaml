@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: tenant_harassment_complaint_form
+    pages:
+    - id: 1
+      name: harassment_type
+      label: Harassment Type
+      hint: null
+      type: select_one
+      options:
+      - Racial Harassment
+      - Religious Harassment
+      - Sexual Orientation Harassment
+      - Disability Harassment
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: police_report
+      label: Police Report Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tenant_statement
+      label: Tenant Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tenant_contact
+      label: Tenant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false

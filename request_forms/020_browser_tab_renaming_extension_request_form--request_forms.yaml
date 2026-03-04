@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Browser Tab Renaming Extension Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_company
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_type
+      label: Type of Request
+      hint: null
+      type: select_one
+      options:
+      - Feature Request
+      - Bug Report
+      - Enhancement
+      - Integration Request
+      - Other
+      required: true
+    - id: 6
+      name: feature_description
+      label: Feature or Enhancement Description
+      hint: Detailed explanation of what you need
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: use_case
+      label: Use Case or Business Need
+      hint: Why do you need this feature
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: user_count
+      label: Number of Users Affected
+      hint: Estimated users who would benefit
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: browser_type
+      label: Browser Type
+      hint: Select primary browser
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - Edge
+      - Other
+      required: true
+    - id: 10
+      name: browser_version
+      label: Browser Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: operating_system
+      label: Operating System
+      hint: Windows, macOS, Linux, etc
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      - Other
+      required: false
+    - id: 12
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 13
+      name: requested_timeline
+      label: Requested Timeline
+      hint: When do you need this
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 1 month
+      - Flexible
+      required: false
+    - id: 14
+      name: competitor_features
+      label: Competitor Features to Match
+      hint: Any specific competing products or features
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachment_reference
+      label: Reference Links or Screenshots
+      hint: URLs or file references
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: willing_to_beta_test
+      label: Willing to Beta Test
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

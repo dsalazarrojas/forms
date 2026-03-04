@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affordable Lease Support Application Form
+    pages:
+    - id: 1
+      name: applicant_information_section
+      label: Applicant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: SSN for verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Email for communication about your application
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_address
+      label: Current Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_housing_situation
+      label: Current Housing Situation
+      hint: Describe your current housing arrangement
+      type: select_one
+      options:
+      - Renting
+      - Staying with relatives/friends
+      - Temporary housing
+      - Homeless shelter
+      - Other
+      required: true
+    - id: 9
+      name: household_composition_section
+      label: Household Composition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: household_size
+      label: Household Size
+      hint: Total number of people in your household
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dependent_children_count
+      label: Number of Dependent Children
+      hint: How many dependent children are in your household?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: household_member_details
+      label: Household Member Details
+      hint: Ages and relationships of all household members
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: income_information_section
+      label: Income Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_income_source
+      label: Primary Income Source
+      hint: What is your primary source of income?
+      type: select_one
+      options:
+      - Employment
+      - Self-employment
+      - Government benefits
+      - Disability
+      - Retirement
+      - Unemployment
+      - Other
+      required: true
+    - id: 15
+      name: monthly_gross_income
+      label: Monthly Gross Income
+      hint: Your total monthly income before taxes and deductions
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: other_household_income
+      label: Other Household Income
+      hint: Monthly income of other household members
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_household_income
+      label: Total Monthly Household Income
+      hint: Combined monthly income of all household members
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: income_verification_documents
+      label: Income Verification Documents
+      hint: What documents can you provide to verify income?
+      type: select_multiple
+      options:
+      - Pay stubs
+      - Tax returns
+      - Bank statements
+      - Award letters
+      - Employment verification letter
+      - Social Security award letter
+      - Other
+      required: true
+    - id: 19
+      name: housing_expense_section
+      label: Current Housing Expenses
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_monthly_rent
+      label: Current Monthly Rent
+      hint: How much do you currently pay for rent?
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: current_monthly_utilities
+      label: Current Monthly Utilities
+      hint: How much do you currently pay for utilities?
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: housing_expense_hardship
+      label: Housing Expense Hardship
+      hint: Are your current housing expenses causing financial hardship?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: lease_support_details_section
+      label: Lease Support Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: desired_rent_amount
+      label: Desired Rent Amount
+      hint: What is the maximum rent you can afford?
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: preferred_housing_location
+      label: Preferred Housing Location
+      hint: What area or neighborhood are you looking for housing in?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: housing_unit_preference
+      label: Housing Unit Preference
+      hint: What type of housing unit are you seeking?
+      type: select_one
+      options:
+      - Studio
+      - 1 bedroom
+      - 2 bedroom
+      - 3 bedroom
+      - 4+ bedroom
+      required: true
+    - id: 27
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility requirements?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes, please specify your accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: special_circumstances_section
+      label: Special Circumstances
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: special_circumstances
+      label: Special Circumstances
+      hint: Describe any special circumstances affecting your housing needs
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: emergency_assistance_history
+      label: Emergency Assistance History
+      hint: Have you received emergency rental assistance before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: eviction_history
+      label: Eviction History
+      hint: Have you ever been evicted from a rental property?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: criminal_background
+      label: Criminal Background
+      hint: Do you have any criminal convictions that might affect rental eligibility?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: application_certifications_section
+      label: Application Certifications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: income_limit_compliance
+      label: Income Limit Compliance
+      hint: I certify that my household income meets the program's income limits
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: information_accuracy_certification
+      label: Information Accuracy Certification
+      hint: I certify that all information provided is true and accurate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: authorization_signature
+      label: Electronic Signature
+      hint: Sign to submit your application
+      type: text
+      options: []
+      required: true

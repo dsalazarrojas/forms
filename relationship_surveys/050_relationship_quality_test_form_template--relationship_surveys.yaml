@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: relationship_quality_test_form_template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: relationship_length
+      label: Relationship Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - single
+      - in a relationship
+      - engaged
+      - married
+      - divorced
+      required: true
+    - id: 7
+      name: relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_multiple
+      options:
+      - romantic
+      - friendship
+      - family
+      - co-worker
+      required: true
+    - id: 8
+      name: relationship_quality
+      label: Relationship Quality
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: relationship_satisfaction
+      label: Relationship Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: relationship_strengthening
+      label: Relationship Strengthening
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 11
+      name: relationship_strain
+      label: Relationship Strain
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 12
+      name: relationship_support
+      label: Relationship Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 13
+      name: relationship_conflict
+      label: Relationship Conflict
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 14
+      name: relationship_satisfaction_with_partner
+      label: Satisfaction With Partner
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: relationship_satisfaction_with_relationship
+      label: Satisfaction With Relationship
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: therapist_comments
+      label: Therapist Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_questions
+      label: Follow Up Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: client_concerns
+      label: Client Concerns
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: therapist_goals
+      label: Therapist Goals
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: next_session
+      label: Next Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: completed_on
+      label: Completed On
+      hint: null
+      type: date
+      options: []
+      required: true

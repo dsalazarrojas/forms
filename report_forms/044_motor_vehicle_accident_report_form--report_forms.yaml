@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Motor Vehicle Accident Report Form
+    pages:
+    - id: 1
+      name: motor_vehicle_accident_description
+      label: Accident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accident_date
+      label: accident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_involved_parties
+      label: vehicle_involved_parties
+      hint: null
+      type: select_multiple
+      options:
+      - First Party
+      - Second Party
+      - Third Party
+      required: false
+    - id: 4
+      name: vehicle_damage
+      label: vehicle_damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: witness_info
+      label: Witness Info
+      hint: null
+      type: select_one
+      options:
+      - Police
+      - Witness
+      - Insurance
+      required: false
+    - id: 6
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: driver_info
+      label: Driver Info
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Motorcycle
+      - Truck
+      - Bike
+      required: false
+    - id: 10
+      name: accident_location
+      label: accident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_person_info
+      label: Reporting Person Info
+      hint: null
+      type: select_one
+      options:
+      - Police
+      - Witness
+      - Driver
+      - Insurance Company
+      required: false
+    - id: 12
+      name: reporting_person_contact
+      label: Reporting Person Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting_person_relationship
+      label: Reporting Person Relationship
+      hint: null
+      type: select_one
+      options:
+      - Witness
+      - Driver
+      - Police Officer
+      - Family Member
+      required: false
+    - id: 14
+      name: reporting_person_organization
+      label: Reporting Person Organization
+      hint: null
+      type: text
+      options: []
+      required: false

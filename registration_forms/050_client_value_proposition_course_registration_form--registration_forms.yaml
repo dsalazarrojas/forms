@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Value Proposition Course Registration Form
+    pages:
+    - id: 1
+      name: registration_intro
+      label: -- Course Registration --
+      hint: Register for the Client Value Proposition Course
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: experience_level
+      label: Experience Level with Value Proposition
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: course_selection
+      label: Which Course Are You Registering For?
+      hint: null
+      type: select_one
+      options:
+      - Fundamentals of Value Proposition
+      - Advanced Value Proposition Strategy
+      - Value Proposition for Sales
+      - Value Proposition for Marketing
+      - Executive Value Proposition
+      - Other
+      required: true
+    - id: 11
+      name: course_format
+      label: Preferred Course Format
+      hint: null
+      type: select_one
+      options:
+      - Online self-paced
+      - Live webinar
+      - In-person workshop
+      - Blended format
+      required: true
+    - id: 12
+      name: preferred_dates
+      label: Preferred Course Dates
+      hint: Select your preferred session dates if available
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: timezone
+      label: Your Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: learning_objectives
+      label: What Do You Hope to Learn?
+      hint: Your specific learning goals
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_role_challenges
+      label: Current Challenges in Your Role
+      hint: What value proposition challenges do you face?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: industry
+      label: Industry or Sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_members
+      label: Number of Team Members Registering
+      hint: Will colleagues also attend?
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Any Dietary Restrictions (if in-person)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Any Accessibility Needs or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: prior_courses
+      label: Have You Taken Courses with Us Before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: how_heard
+      label: How Did You Hear About This Course?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Referral
+      - Social media
+      - Advertisement
+      - Other
+      required: false
+    - id: 22
+      name: terms_agreement
+      label: I Agree to the Course Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

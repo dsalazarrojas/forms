@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Order History Report Request Form
+    pages:
+    - id: 1
+      name: purchase_order_history_report_request_form_title
+      label: purchase_order_history_report_request_form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_order_history_report_request_form_date
+      label: purchase_order_history_report_request_form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: purchase_order_history_report_request_form_date_to
+      label: purchase_order_history_report_request_form_date_to
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purchase_order_history_report_request_form_date_from
+      label: purchase_order_history_report_request_form_date_from
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: purchase_order_history_report_request_form_category
+      label: purchase_order_history_report_request_form_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: purchase_order_history_report_request_form_category_options
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      - Both
+      required: false
+    - id: 7
+      name: purchase_order_history_report_request_form_status
+      label: purchase_order_history_report_request_form_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: purchase_order_history_report_request_form_status_options
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - Submitted
+      - Approved
+      required: false
+    - id: 9
+      name: purchase_order_history_report_request_form_comments
+      label: purchase_order_history_report_request_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: purchase_order_history_report_request_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

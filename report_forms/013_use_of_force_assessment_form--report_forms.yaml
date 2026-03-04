@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Use Of Force Assessment Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suspect_name
+      label: suspect_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suspect_age
+      label: suspect_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: suspect_gender
+      label: suspect_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: force_used
+      label: force_used
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Taser
+      - Pepper Spray
+      - Handcuffs
+      - Baton
+      - K-9
+      - Other
+      - Other (specify)
+      required: false
+    - id: 6
+      name: officer_name
+      label: officer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_incident
+      label: date_of_incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_incident
+      label: time_of_incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location_of_incident
+      label: location_of_incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: officer_notes
+      label: officer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: witness_names
+      label: witness_names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_statements
+      label: witness_statements
+      hint: null
+      type: text
+      options: []
+      required: false

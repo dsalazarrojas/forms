@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beachfront Property Rental Application
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_rental_details
+      label: -- Rental Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_interested_in
+      label: Property Name or Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: arrival_date
+      label: Desired Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: departure_date
+      label: Desired Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_occupants
+      label: Total Number of Occupants
+      hint: Including children
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pets_included
+      label: Will there be pets?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: pet_description
+      label: Pet Description
+      hint: Type and breed (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: occupation
+      label: Primary Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: income_bracket
+      label: Annual Income Range
+      hint: null
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,000 - $200,000
+      - Over $200,000
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: references
+      label: Personal or Professional References
+      hint: Name and Contact Info
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Additional Comments
+      hint: Any specific needs or questions
+      type: text
+      options: []
+      required: false

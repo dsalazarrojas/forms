@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Report
+    pages:
+    - id: 1
+      name: police_report_form_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: witness
+      label: witness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date_time
+      label: incident_date_time
+      hint: "YYYY-MM-DD HH:MM:SS"
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: officer_name
+      label: officer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: witness_contact_method
+      label: witness_contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Other
+      required: false
+    - id: 8
+      name: suspect_details
+      label: suspect_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: police_officer_details
+      label: police_officer_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_reported_by
+      label: incident_reported_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_reported_by_phone
+      label: incident_reported_by_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_reported_by_email
+      label: incident_reported_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: incident_reported_by_other
+      label: incident_reported_by_other
+      hint: null
+      type: text
+      options: []
+      required: false

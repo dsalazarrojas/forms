@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animation Test Footage Release Consent Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Contributor full name
+      hint: Full legal name for release record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for release confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role in footage
+      hint: e g animator, voice talent, actor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_video
+      label: Consent to use video and audio
+      hint: Permission to use footage in portfolio and marketing
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 6
+      name: compensation_terms
+      label: Compensation terms
+      hint: Note any agreed compensation or enter none
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_recording
+      label: Date of recording
+      hint: Enter date footage was created
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature_name
+      label: Typed name for signature
+      hint: Type your full name to indicate agreement
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_signed
+      label: Date signed
+      hint: Date you agreed to the release
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Any restrictions on use
+      type: text
+      options: []
+      required: false

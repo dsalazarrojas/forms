@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Sports Equipment Rental Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_requested
+      label: Equipment Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Kayak
+      - Surfboard
+      - Paddleboard
+      - Canoe
+      required: false
+    - id: 3
+      name: rental_period
+      label: Rental Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: equipment_availability
+      label: Equipment Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

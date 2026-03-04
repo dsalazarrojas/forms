@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damaged Utility Reporting Form
+    pages:
+    - id: 1
+      name: utility_name
+      label: Utility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photos
+      label: photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: when_occurred
+      label: when_occurred
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: how_occurred
+      label: how_occurred
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: where_occurred
+      label: where_occurred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporting_user
+      label: reporting_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_date
+      label: reporting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

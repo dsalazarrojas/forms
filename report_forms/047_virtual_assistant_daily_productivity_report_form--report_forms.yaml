@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant Daily Productivity Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: virtual_assistant_name
+      label: Virtual Assistant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: task_completion_status
+      label: Task Completion Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''completed''}'
+      - '{''value'': ''not_completed''}'
+      - '{''value'': ''partially_completed''}'
+      required: false
+    - id: 4
+      name: task_completion_status_hint
+      label: Task Completion Status Hint
+      hint: How do you complete a task?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: productivity_level
+      label: Productivity Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''high''}'
+      - '{''value'': ''medium''}'
+      - '{''value'': ''low''}'
+      required: false
+    - id: 6
+      name: productivity_level_hint
+      label: Productivity Level Hint
+      hint: On a scale of 1-10
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''submitted''}'
+      - '{''value'': ''saved''}'
+      - '{''value'': ''cancelled''}'
+      required: false
+    - id: 14
+      name: submitted_hint
+      label: Submitted Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_form_saved
+      label: Report Form Saved
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: virtual_assistant_saved
+      label: Virtual Assistant Saved
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''saved''}'
+      - '{''value'': ''not_saved''}'
+      - '{''value'': ''cancelled''}'
+      required: false
+    - id: 17
+      name: virtual_assistant_cancelled
+      label: Virtual Assistant Cancelled
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''saved''}'
+      - '{''value'': ''not_saved''}'
+      - '{''value'': ''submitted''}'
+      required: false
+    - id: 18
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false

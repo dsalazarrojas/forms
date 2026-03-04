@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Connection Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our community!
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_feel_connected
+      label: How do you feel connected
+      hint: null
+      type: select_multiple
+      options:
+      - I feel very well connected
+      - I feel somewhat connected
+      - I feel not very connected
+      - I feel not at all connected
+      required: false
+    - id: 3
+      name: what_helps_feel_connected
+      label: What helps you feel connected
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Community
+      - Work
+      - Other
+      required: false
+    - id: 4
+      name: what_hinders_feel_connected
+      label: What hinders you from feeling connected
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of trust
+      - Communication barriers
+      - Cultural or language differences
+      - Physical or mental health issues
+      - Other
+      required: false
+    - id: 5
+      name: what_would_improve_connection
+      label: What would improve connection
+      hint: null
+      type: select_multiple
+      options:
+      - Better communication
+      - Increased community engagement
+      - More social activities
+      - Other
+      required: false
+    - id: 6
+      name: how_often_do_you_participate
+      label: How often do you participate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: how_satisfied_with_community
+      label: How satisfied are you with our community
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 8
+      name: what_do_you_recommend
+      label: What do you recommend we improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: open_ended_question_1
+      label: Is there anything else you would like to share with us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: open_ended_question_2
+      label: Is there anything else you would like to share with us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_information
+      label: Would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

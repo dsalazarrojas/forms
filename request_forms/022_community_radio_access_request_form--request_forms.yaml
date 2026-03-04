@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Radio Access Request Form
+    pages:
+    - id: 1
+      name: radio_access_intro_note
+      label: -- Community Radio Studio and Airtime Requests --
+      hint: Please fill out this form to request access to our facilities or broadcasting
+        airtime.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: radio_requestor_name
+      label: Name of Requesting Individual or Group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_status_selection
+      label: Current Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active Station Member
+      - Non-Member Resident
+      - Local Student
+      - Organization Partner
+      required: true
+    - id: 4
+      name: radio_contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: radio_contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: radio_request_type
+      label: Request Type
+      hint: Select your primary reason for this request.
+      type: select_one
+      options:
+      - Airtime - Live Radio Show
+      - Studio Recording Time
+      - Studio Interview
+      - Equipment Rental
+      - Volunteer Training
+      - Other
+      required: true
+    - id: 7
+      name: request_type_other_specify
+      label: If Other - Please Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: proposed_radio_title
+      label: Proposed Show or Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: proposed_radio_summary
+      label: Brief Summary of Your Show or Project
+      hint: What will your content include?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: radio_request_frequency
+      label: Frequency of Access Request
+      hint: null
+      type: select_one
+      options:
+      - One-time Special Event
+      - Weekly Recurring
+      - Monthly Recurring
+      required: true
+    - id: 11
+      name: radio_start_date_requested
+      label: Requested Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_radio_time_start
+      label: Preferred Time Slot - Start
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: preferred_radio_time_end
+      label: Preferred Time Slot - End
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: radio_days_of_week_requested
+      label: Days of the Week Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 15
+      name: radio_technical_support_needs
+      label: Technical Support Needed?
+      hint: Do you require an engineer or training?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: completed_radio_training_check
+      label: Have you completed our Radio Studio Training course?
+      hint: Required for independent studio access.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: radio_terms_conditions_note
+      label: -- Radio Access Terms and Conditions --
+      hint: By submitting - you agree to follow the station code of conduct and equipment
+        handling policies.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: radio_request_submission_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

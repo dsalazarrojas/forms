@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Drawings Submission Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project name
+      hint: Official project title
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: drawing_reference_number
+      label: Drawing reference number
+      hint: Internal reference or revision
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_name
+      label: Submitter name
+      hint: Full name of engineer or firm
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For clarifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: drawing_scale
+      label: Drawing scale
+      hint: Provide scale used
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: revision_number
+      label: Revision number
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: file_upload_note
+      label: File upload instructions
+      hint: Attach CAD PDF or image files via portal
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: purpose_of_submission
+      label: Purpose of submission
+      hint: Permit review tender documentation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: certification_statement
+      label: Certification statement
+      hint: Confirm that drawings meet standards
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

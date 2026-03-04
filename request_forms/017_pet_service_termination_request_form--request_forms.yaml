@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Service Termination Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: Pet name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: select_one
+      options:
+      - Pet service provider cancelled
+      - Client cancelled
+      - Other
+      required: false
+    - id: 5
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: Please confirm the cancellation request
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: How would you like us to follow up with the customer?
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-app
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_service_provider
+      label: Customer Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false

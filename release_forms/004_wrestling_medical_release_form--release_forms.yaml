@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: wrestling_medical_release_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_information
+      label: medical_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: participant_height
+      label: participant_height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: participant_weight
+      label: participant_weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_relation
+      label: emergency_relation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: participant_health
+      label: participant_health
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: concussion_protocol
+      label: concussion_protocol
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: concussion_prevention_program
+      label: concussion_prevention_program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: concussion_symptoms
+      label: concussion_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: concussion_symptoms_question
+      label: concussion_symptoms_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_address
+      label: emergency_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: participant_school
+      label: participant_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: concussion_protocol_signed
+      label: concussion_protocol_signed
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: concussion_prevention_program_signed
+      label: concussion_prevention_program_signed
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: participant_medical_provider
+      label: participant_medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_medical_condition
+      label: participant_medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_medical_history
+      label: participant_medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_medical_notes
+      label: participant_medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false

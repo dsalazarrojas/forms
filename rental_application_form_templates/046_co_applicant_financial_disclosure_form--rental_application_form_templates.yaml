@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Applicant Financial Disclosure Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Co-Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: disclosure_date
+      label: Date of Disclosure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: social_security
+      label: Social Security Number
+      hint: Last 4 digits only
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gross_annual_income
+      label: Gross Annual Income
+      hint: From all sources
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Retired
+      - Unemployed
+      - Student
+      required: true
+    - id: 9
+      name: employer_name
+      label: Current Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_assets
+      label: Total Assets
+      hint: Savings, investments, property
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: cash_reserves
+      label: Cash Reserves or Savings
+      hint: Liquid assets
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_value
+      label: Real Property Value
+      hint: Home or other real estate
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_value
+      label: Vehicle Value
+      hint: Automobiles and vehicles
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_liabilities
+      label: Total Liabilities
+      hint: Debts and obligations
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: mortgage_debt
+      label: Mortgage Debt
+      hint: Home loan amount
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: credit_card_debt
+      label: Credit Card Debt
+      hint: Total credit card balances
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: other_debt
+      label: Other Debt
+      hint: Student loans, car loans, etc
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: credit_score
+      label: Approximate Credit Score
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: bankruptcy_history
+      label: Any Bankruptcy History
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

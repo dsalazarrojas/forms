@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Profile Form
+    pages:
+    - id: 1
+      name: section_basic_identity
+      label: -- Basic Character Identity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: character_full_name_profile
+      label: Character Full Name
+      hint: Include any titles or nicknames
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: character_age_appearance
+      label: Age and Physical Appearance
+      hint: Describe their age, height, build, and notable features
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: character_gender_identity_profile
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Undisclosed
+      required: true
+    - id: 5
+      name: character_occupation_role
+      label: Occupation or Role in Story
+      hint: What do they do? e.g., Blacksmith, Detective, Student
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_personality_traits
+      label: -- Personality and Traits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_personality_traits
+      label: Primary Personality Traits
+      hint: List 3-5 core characteristics
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: character_strengths_summary
+      label: Character Strengths
+      hint: What are they particularly good at?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: character_flaws_weaknesses
+      label: Character Flaws and Weaknesses
+      hint: What are their internal or external struggles?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_background_history
+      label: -- Background and History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: place_of_origin_homeland
+      label: Place of Origin or Homeland
+      hint: Where did the character grow up?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: key_backstory_events_summary
+      label: Key Backstory Events
+      hint: Mention pivotal moments that shaped the character
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: family_and_social_background
+      label: Family and Social Background
+      hint: Describe their upbringing and social status
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_motivation_goals
+      label: -- Motivations and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: character_primary_motivation_goal
+      label: Primary Motivation and Goal
+      hint: What does the character want more than anything?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: secondary_goals_desires
+      label: Secondary Goals or Desires
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_relationships_dynamics
+      label: -- Relationships and Dynamics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: key_allies_and_friends
+      label: Key Allies and Friends
+      hint: Who does this character trust?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: key_enemies_and_rivals
+      label: Key Enemies and Rivals
+      hint: Who does this character oppose?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_final_profile_confirmation
+      label: -- Profile Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: accuracy_confirmation_profile_creator
+      label: Confirmation of Profile Completion
+      hint: I confirm that this profile is complete for its intended purpose
+      type: select_one
+      options:
+      - I Confirm and Log Profile
+      - Other
+      required: true
+    - id: 22
+      name: date_of_profile_log_entry
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_creative_notes
+      label: Additional Creative Notes
+      hint: Any other thoughts for further development
+      type: text
+      options: []
+      required: false

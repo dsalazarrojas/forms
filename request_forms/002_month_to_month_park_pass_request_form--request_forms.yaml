@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Month To Month Park Pass Request Form
+    pages:
+    - id: 1
+      name: requester_contact
+      label: Requester Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle
+      label: Vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: plate_number
+      label: Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false

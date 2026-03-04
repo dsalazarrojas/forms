@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Asbestos Survey Request Form
+    pages:
+    - id: 1
+      name: header_church_info
+      label: -- Church and Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: church_name
+      label: Name of Church
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: denomination
+      label: Denomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: church_address
+      label: Property Address
+      hint: Full address of the building to be surveyed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_age
+      label: Approximate Age of Building
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: position_in_church
+      label: Position or Role
+      hint: e.g., Pastor, Facilities Manager, Warden
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: header_survey_details
+      label: -- Survey Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_survey
+      label: Reason for Survey Request
+      hint: null
+      type: select_one
+      options:
+      - Routine Maintenance
+      - Planned Renovation
+      - Demolition
+      - Real Estate Transaction
+      - Suspected Damage
+      required: true
+    - id: 13
+      name: access_limitations
+      label: Are there areas with limited access?
+      hint: e.g., Crawlspaces, high ceilings, locked storage
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_survey_dates
+      label: Preferred Dates for Site Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_surveys_exist
+      label: Are there any previous asbestos survey reports available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 16
+      name: additional_property_notes
+      label: Additional Property Notes or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

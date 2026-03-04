@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Accountability Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: relationship_status
+      label: what_is_your_relationship_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Married
+      - Engaged
+      - In a civil partnership
+      - Widowed
+      required: false
+    - id: 3
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_email
+      label: partner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: partner_phone
+      label: partner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: my_name
+      label: my_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: my_email
+      label: my_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: my_phone
+      label: my_phone
+      hint: null
+      type: text
+      options: []
+      required: false

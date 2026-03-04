@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aquaculture Pond Production Report
+    pages:
+    - id: 1
+      name: facility_info
+      label: Facility Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pond_id
+      label: Pond ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reporter_name
+      label: Report Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: production_data
+      label: Production Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: stock_quantity
+      label: Current Stock Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: average_weight
+      label: Average Fish Weight (pounds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: mortality_rate
+      label: Mortality Rate (percent)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: water_parameters
+      label: Water Quality Parameters
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: water_temperature
+      label: Water Temperature (Fahrenheit)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: ph_level
+      label: pH Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: dissolved_oxygen
+      label: Dissolved Oxygen (mg/L)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: feeding_report
+      label: Feeding and Health
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: feed_amount
+      label: Feed Amount Used (pounds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: health_issues
+      label: Any Health or Disease Issues
+      hint: null
+      type: text
+      options: []
+      required: false

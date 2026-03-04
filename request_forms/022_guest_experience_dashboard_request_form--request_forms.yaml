@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Experience Dashboard Request Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dashboard_preferences
+      label: Dashboard Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Default
+      - Custom
+      - Custom 1
+      - Custom 2
+      required: false

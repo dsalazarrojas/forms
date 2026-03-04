@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Selection Form
+    pages:
+    - id: 1
+      name: group_selection_form
+      label: Group Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: group_preferences
+      label: group_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: group_committees
+      label: group_committees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: group_clubs
+      label: group_clubs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

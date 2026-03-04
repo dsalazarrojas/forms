@@ -1,0 +1,365 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Rental Application Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_information
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_verification
+      label: Contact Verification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: employment_verification
+      label: Employment Verification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rental_period
+      label: Rental Period
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: rental_unit
+      label: Rental Unit
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 12
+      name: renter_identity
+      label: Renter Identity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: renter_income
+      label: Renter Income
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: renter_employment
+      label: Renter Employment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: renter_financial
+      label: Renter Financial
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Townhouse
+      - Condo
+      - Single Family
+      required: false
+    - id: 17
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - For Rent
+      - Leased
+      - Sold
+      - Under Renovation
+      required: false
+    - id: 18
+      name: property_location
+      label: Property Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: renter_address
+      label: Renter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: renter_phone
+      label: Renter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: renter_email
+      label: Renter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: renter_identification_number
+      label: Renter Identification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: renter_social_security_number
+      label: Renter Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: renter_bank_name
+      label: Renter Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: renter_account_number
+      label: Renter Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: renter_rout_number
+      label: Renter ROUT Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 30
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: landlord_address
+      label: Landlord Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: landlord_phone
+      label: Landlord Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: landlord_email
+      label: Landlord Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 34
+      name: applicant_phone
+      label: Applicant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: applicant_signature
+      label: Applicant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 39
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: property_manager_address
+      label: Property Manager Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: applicant_ssn
+      label: Applicant SSN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: renter_ssn
+      label: Renter SSN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: renter_dob
+      label: Renter DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 44
+      name: renter_employment_start_date
+      label: Renter Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 45
+      name: renter_employment_end_date
+      label: Renter Employment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 46
+      name: renter_previous_employment_start
+      label: Renter Previous Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 47
+      name: renter_residence_duration
+      label: Renter Residence Duration
+      hint: null
+      type: number
+      options: []
+      required: false

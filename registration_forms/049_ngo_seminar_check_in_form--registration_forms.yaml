@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Seminar Check In Form
+    pages:
+    - id: 1
+      name: seminar_entry
+      label: Seminar Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: session_participation
+      label: Session Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session_participation_hint
+      label: Session Participation Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attendee_follow_up
+      label: Attendee Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_participation_other
+      label: Session Participation Other (if not listed above)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: seminar_id
+      label: Seminar Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: attendee_id
+      label: Attendee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: session_id
+      label: Session Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: check_in_status
+      label: Check In Status
+      hint: null
+      type: select_one
+      options:
+      - checked_in
+      - checked_out
+      - late_check_in
+      - no_show
+      required: false
+    - id: 16
+      name: arrival_time_note
+      label: Arrival Time Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false

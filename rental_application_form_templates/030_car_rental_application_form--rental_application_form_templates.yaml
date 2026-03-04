@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Application Form
+    pages:
+    - id: 1
+      name: rental_pickup_header
+      label: -- Pickup Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pickup_location
+      label: Pickup Location
+      hint: Where would you like to pick up the vehicle?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pickup_date
+      label: Pickup Date
+      hint: Select the day for pickup
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: pickup_time
+      label: Pickup Time
+      hint: Select the time for pickup
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: rental_dropoff_header
+      label: -- Drop-off Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: dropoff_location
+      label: Drop-off Location
+      hint: Where would you like to return the vehicle?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dropoff_date
+      label: Drop-off Date
+      hint: Select the day for return
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: dropoff_time
+      label: Drop-off Time
+      hint: Select the time for return
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_preference_header
+      label: -- Vehicle Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_type_preference
+      label: Preferred Vehicle Class
+      hint: Select the type of vehicle
+      type: select_one
+      options:
+      - Economy
+      - Compact
+      - Mid-size
+      - Full-size
+      - SUV
+      - Luxury
+      - Minivan
+      required: true
+    - id: 11
+      name: specific_vehicle_request
+      label: Specific Vehicle Request (If any)
+      hint: e.g., Ford Mustang, Toyota Camry
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: driver_info_header_rental_basic
+      label: -- Driver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: driver_full_name_basic
+      label: Driver Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: driver_age_basic
+      label: Driver Age
+      hint: To verify age and eligibility
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: driver_email_basic
+      label: Email Address
+      hint: For rental status updates
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: driver_phone_basic
+      label: Phone Number
+      hint: Primary contact for the rental
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_services_header
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_services_requested
+      label: Additional Services Needed
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - GPS Navigation
+      - Child Seat
+      - Additional Driver
+      - Satellite Radio
+      - Full Insurance Coverage
+      required: false
+    - id: 19
+      name: rental_verification_header_basic
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: rental_acknowledgement_basic
+      label: I acknowledge the car rental application terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 21
+      name: signature_confirmation_basic
+      label: Type your name for rental application confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_rental_comments_basic
+      label: Any additional comments or requests?
+      hint: Provide more details for the rental
+      type: text
+      options: []
+      required: false

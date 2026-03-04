@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Treat Quotation Request Form
+    pages:
+    - id: 1
+      name: pet_treat_request_form
+      label: pet_treat_request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pet_info
+      label: pet_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pet 1''}'
+      - '{''id'': 2, ''label'': ''Pet 2''}'
+      - '{''id'': 3, ''label'': ''Pet 3''}'
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quote_request
+      label: quote_request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Quote 1''}'
+      - '{''id'': 2, ''label'': ''Quote 2''}'
+      - '{''id'': 3, ''label'': ''Quote 3''}'
+      required: false
+    - id: 8
+      name: date_request
+      label: date_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_request
+      label: time_request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dog''}'
+      - '{''id'': 2, ''label'': ''Cat''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pet_color
+      label: pet_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pet_weight
+      label: pet_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: pet_age
+      label: pet_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: pet_size
+      label: pet_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pet_health
+      label: pet_health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quote_frequency
+      label: quote_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 19
+      name: quote_type
+      label: quote_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One-off''}'
+      - '{''id'': 2, ''label'': ''Ongoing''}'
+      required: false
+    - id: 20
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: submitter_note
+      label: submitter_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter_signature
+      label: submitter_signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''No signature''}'
+      - '{''id'': 2, ''label'': ''Signature required''}'
+      required: false

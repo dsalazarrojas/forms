@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Estimate Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send the estimate here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For follow-up questions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Type of Service Needed
+      hint: Select the service you need
+      type: select_one
+      options:
+      - Book Editing
+      - Book Cover Design
+      - Book Formatting
+      - Book Marketing
+      - Book Printing
+      - Book Distribution
+      - Ghostwriting
+      - Book Promotion
+      - Multiple Services
+      required: true
+    - id: 6
+      name: book_title
+      label: Book Title
+      hint: Title of your book
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: book_author
+      label: Book Author
+      hint: Author name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manuscript_status
+      label: Manuscript Status
+      hint: What stage is your manuscript
+      type: select_one
+      options:
+      - Not Started
+      - First Draft
+      - Second Draft
+      - Final Draft
+      - Previously Published
+      required: true
+    - id: 9
+      name: word_count
+      label: Approximate Word Count
+      hint: Total words in manuscript
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: page_count
+      label: Approximate Page Count
+      hint: Total pages if known
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: book_genre
+      label: Book Genre
+      hint: Select the genre
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Memoir
+      - Business
+      - Self-Help
+      - Academic
+      - Children
+      - Young Adult
+      - Poetry
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: Who is your intended reader
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_description
+      label: Project Description
+      hint: Describe your project and goals
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: specific_requirements
+      label: Specific Requirements
+      hint: Any specific needs or preferences
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: deadline
+      label: Desired Completion Date
+      hint: When do you need this completed
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: budget_range
+      label: Estimated Budget Range
+      hint: Your expected budget
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2500
+      - $2500-$5000
+      - $5000-$10000
+      - Over $10000
+      required: false
+    - id: 17
+      name: timeline_flexibility
+      label: Timeline Flexibility
+      hint: How flexible is your deadline
+      type: select_one
+      options:
+      - Very Flexible
+      - Somewhat Flexible
+      - Not Flexible
+      - Urgent
+      required: true
+    - id: 18
+      name: previous_experience
+      label: Have You Published Before
+      hint: Your publishing experience
+      type: select_one
+      options:
+      - First Time Author
+      - Self-Published Before
+      - Traditionally Published
+      - Multiple Books Published
+      required: false
+    - id: 19
+      name: manuscript_sample
+      label: Manuscript Sample Available
+      hint: Can you provide a sample
+      type: select_one
+      options:
+      - Yes I will attach
+      - Yes available on request
+      - No not yet
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Website
+      - Advertisement
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Video Call
+      required: true
+    - id: 23
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

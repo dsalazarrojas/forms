@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient List Revision Request Form
+    pages:
+    - id: 1
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Food Brands
+      - Manufacturers
+      - Kitchens
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - New Ingredient
+      - Removed Ingredient
+      - List Update
+      required: false
+    - id: 3
+      name: ingredient_id
+      label: Ingredient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: documents
+      label: Documents
+      hint: Upload documents to support your request
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: justification_date
+      label: Justification Date
+      hint: Date justification was created
+      type: date
+      options: []
+      required: false

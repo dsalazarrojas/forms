@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_release_permission_form
+    pages:
+    - id: 1
+      name: photo_release_form_fields
+      label: Photo Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: photo_release_date
+      label: Photo Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: photo_release_time
+      label: Photo Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: photo_release_note
+      label: Photo Release Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: photo_usage
+      label: Photo Usage
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: photo_usage_note
+      label: Photo Usage Note
+      hint: null
+      type: note
+      options: []
+      required: false

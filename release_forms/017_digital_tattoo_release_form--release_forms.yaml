@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Tattoo Release Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: release_agreement
+      label: Release Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_statement
+      label: Client Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_cell
+      label: Contact Cell
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_fax
+      label: Contact Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: client_dated_signature
+      label: Dated Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: client_signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_signature
+      label: Emergency Contact Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_dated_signature
+      label: Emergency Contact Dated Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: witness_dated_signature
+      label: Witness Dated Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

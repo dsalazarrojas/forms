@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Safety Consultation Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant full name
+      hint: Name of individual or organization requesting consultation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For scheduling and follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: Preferred phone for urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultation_type
+      label: Type of consultation requested
+      hint: Choose the primary focus area
+      type: select_one
+      options:
+      - Neighborhood safety
+      - Public lighting
+      - Traffic calming
+      - Youth outreach
+      - Other
+      required: true
+    - id: 6
+      name: incident_summary
+      label: Summary of concerns or incidents
+      hint: Provide a brief description of the safety issue
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_dates
+      label: Preferred consultation dates
+      hint: Provide 2 to 3 date options
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location_of_concern
+      label: Location of concern
+      hint: Address or nearest intersection
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supporting_documents
+      label: Supporting documents or evidence
+      hint: Describe attachments you will provide
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: urgency_level
+      label: Urgency level
+      hint: Select the level of urgency for response
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Immediate
+      required: true

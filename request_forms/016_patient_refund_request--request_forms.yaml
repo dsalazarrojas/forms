@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Refund Request
+    pages:
+    - id: 1
+      name: patient_refund_request
+      label: patient refund request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_refund
+      label: reason for refund
+      hint: Reason for request
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount_requested
+      label: amount requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: refund_amount
+      label: refund amount
+      hint: null
+      type: number
+      options: []
+      required: false

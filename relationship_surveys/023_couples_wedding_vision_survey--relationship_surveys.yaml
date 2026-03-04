@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: couples_wedding_vision_survey
+    pages:
+    - id: 1
+      name: couple_details
+      label: Couple Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: venue_preferences
+      label: Venue Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Outdoor'', ''value'': 1}'
+      - '{''label'': ''Indoor'', ''value'': 2}'
+      required: false
+    - id: 5
+      name: guest_preferences
+      label: Guest Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''50'', ''value'': 1}'
+      - '{''label'': ''100'', ''value'': 2}'
+      - '{''label'': ''150'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendors
+      label: Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Planners'', ''value'': 1}'
+      - '{''label'': ''Venue'', ''value'': 2}'
+      - '{''label'': ''Photographer'', ''value'': 3}'
+      - '{''label'': ''Caterer'', ''value'': 4}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

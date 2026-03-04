@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sign Pick Up And Drop Off Request
+    pages:
+    - id: 1
+      name: sign_pick_up_and_drop_off_request_form
+      label: sign_pick_up_and_drop_off_request_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pick_up_date
+      label: pick_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pick_up_time
+      label: pick_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: drop_off_location
+      label: drop_off_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drop_off_time
+      label: drop_off_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pick_up_location
+      label: pick_up_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false

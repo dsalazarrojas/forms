@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Collaboration Brief Request Form
+    pages:
+    - id: 1
+      name: brand_details
+      label: Brand Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: timelines
+      label: Timelines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: budgets
+      label: Budgets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_materials
+      label: Supporting Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Supporting Materials 1
+      - Supporting Materials 2
+      - Supporting Materials 3
+      required: false
+    - id: 6
+      name: brand_assets
+      label: Brand Assets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: agency_info
+      label: Agency Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: project_requirements
+      label: Project Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agency_preferences
+      label: Agency Preferences
+      hint: null
+      type: select_one
+      options:
+      - Agency Preference 1
+      - Agency Preference 2
+      - Agency Preference 3
+      - Agency Preference 4
+      required: false
+    - id: 12
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - Project Lead 1
+      - Project Lead 2
+      - Project Lead 3
+      - Project Lead 4
+      - Project Lead 5
+      required: true
+    - id: 13
+      name: team_members
+      label: Team Members
+      hint: null
+      type: number
+      options: []
+      required: false

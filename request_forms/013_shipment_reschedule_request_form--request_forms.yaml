@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipment_reschedule_request_form
+    pages:
+    - id: 1
+      name: shipment_reschedule_form
+      label: Shipment Reschedule Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reschedule_date
+      label: Reschedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reschedule_time
+      label: Reschedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_reschedule
+      label: Reason for Reschedule
+      hint: Please enter the reason for rescheduling
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff_response
+      label: Staff Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_response
+      label: Customer Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_comment
+      label: Staff Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Transit
+      - Delayed
+      - Cancelled
+      - Arrived
+      required: false
+    - id: 9
+      name: shipment_id
+      label: Shipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: reschedule_reason
+      label: Reschedule Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - In-Store
+      - Delivery Driver
+      - Pickup
+      required: false
+    - id: 15
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false

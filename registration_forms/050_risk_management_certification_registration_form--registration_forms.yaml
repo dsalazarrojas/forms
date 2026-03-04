@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Management Certification Registration Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: certification
+      label: Certification
+      hint: Please select your certification
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: certification_level
+      label: Certification Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: course_completion
+      label: Course Completion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: course_completion_date
+      label: Course Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: course_completion_time
+      label: Course Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_id
+      label: Payment Method ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_id
+      label: Course ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic Transcript Request Form
+    pages:
+    - id: 1
+      name: user_email
+      label: user Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: student_number
+      label: Student Number
+      hint: Enter students student number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transcript_type
+      label: Transcript Type
+      hint: Choose the type of transcript you wish to have
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: transcript_type_0
+      label: Official Transcript
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transcript_type_1
+      label: Academic Transcript
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_needed
+      label: Date Needed
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submitted_0
+      label: Not Submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_1
+      label: Submitted
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: endoscopy_appointment_no_show_report
+    pages:
+    - id: 1
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: provider_id
+      label: Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_id
+      label: Patient
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: procedure_type
+      label: Procedure Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: procedure_status
+      label: Procedure Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_contact_no
+      label: Patient Contact No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: procedure_date_range
+      label: Procedure Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

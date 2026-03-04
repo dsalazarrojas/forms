@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Funding Request Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: club_name
+      label: Club Name
+      hint: Official club name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: club_president
+      label: Club President or Lead
+      hint: Name of club leadership
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: president_email
+      label: Club President Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: president_phone
+      label: Club President Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: club_membership
+      label: Current Club Membership
+      hint: Number of active members
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: funding_amount
+      label: Amount Requested
+      hint: Total funding amount needed
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: funding_purpose
+      label: Purpose of Funding Request
+      hint: What is the money for
+      type: select_one
+      options:
+      - Equipment Purchase
+      - Event or Competition
+      - Travel
+      - Training or Education
+      - Facility Rental
+      - Scholarship or Awards
+      - Operating Costs
+      - Other
+      required: true
+    - id: 9
+      name: detailed_justification
+      label: Detailed Justification
+      hint: Explain why funding is needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expected_impact
+      label: Expected Impact on Club
+      hint: How will this benefit the club
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: timeline
+      label: Timeline for Use
+      hint: When will funds be used
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: Detail how funds will be spent
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_funding
+      label: Current Funding Sources
+      hint: Other sources of club funding
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fundraising_attempts
+      label: Fundraising Efforts Attempted
+      hint: What has the club already done
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approval_authority
+      label: Requires Faculty Advisor Approval
+      hint: Do you have advisor support
+      type: select_one
+      options:
+      - true
+      - Pending
+      - false
+      required: true
+    - id: 16
+      name: sustainability_plan
+      label: Plan for Future Sustainability
+      hint: How will club sustain after funding
+      type: text
+      options: []
+      required: false

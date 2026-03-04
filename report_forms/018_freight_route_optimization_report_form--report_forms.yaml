@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Route Optimization Report Form
+    pages:
+    - id: 1
+      name: route_number
+      label: Route Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: route_details
+      label: Route Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: improvement_recommendations
+      label: Improvement Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: route_start_time
+      label: Route Start Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: route_end_time
+      label: Route End Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: transport_number
+      label: Transport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: route_notes
+      label: Route Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: route_issues
+      label: Route Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: route_comments
+      label: Route Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: route_status
+      label: Route Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: route_type
+      label: Route Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: route_priority
+      label: Route Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: route_frequency
+      label: Route Frequency
+      hint: null
+      type: text
+      options: []
+      required: false

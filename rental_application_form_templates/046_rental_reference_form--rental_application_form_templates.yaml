@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Reference Form
+    pages:
+    - id: 1
+      name: applicant_email
+      label: Applicant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: landlord_email_1
+      label: Landlord 1 email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: landlord_email_2
+      label: Landlord 2 email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: landlord_email_3
+      label: Landlord 3 email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: landlord_email_4
+      label: Landlord 4 email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: length_of_tenancy
+      label: Length of tenancy
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_leaving
+      label: Reason for leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rent_paid
+      label: Rent paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rent_paid_amount
+      label: Rent paid amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rent_arrears
+      label: Rent arrears
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rent_arrears_amount
+      label: Rent arrears amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Flat
+      - Apartment
+      - Duplex
+      - Townhouse
+      - Condo
+      required: true
+    - id: 15
+      name: property_type_other
+      label: Property type (other)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: reference_name
+      label: Reference name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reference_relationship
+      label: Reference relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Son or daughter
+      - Friend
+      - Spouse
+      - Partner
+      - Other
+      required: true
+    - id: 18
+      name: reference_phone
+      label: Reference phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reference_address
+      label: Reference address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reference_employment
+      label: Reference employment
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 21
+      name: reference_income
+      label: Reference income
+      hint: null
+      type: select_one
+      options:
+      - Less than 20k
+      - 20-40k
+      - 40-60k
+      - More than 60k
+      required: true
+    - id: 22
+      name: reference_employed_since
+      label: Reference employed since
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: reference_employed_at
+      label: Reference employed at
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: landlord_employment
+      label: Landlord employment
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 25
+      name: landlord_income
+      label: Landlord income
+      hint: null
+      type: select_one
+      options:
+      - Less than 20k
+      - 20-40k
+      - 40-60k
+      - More than 60k
+      required: true

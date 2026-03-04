@@ -1,0 +1,411 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Report Form Template
+    pages:
+    - id: 1
+      name: report_header
+      label: Case Report Form
+      hint: Document injury or illness case details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_id
+      label: Report ID Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_info
+      label: Patient Information
+      hint: Patient details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient DOB
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: age
+      label: Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gender
+      label: Gender
+      hint: Gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Alternative contact
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_info
+      label: Incident Information
+      hint: Event details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: incident_date
+      label: Date of Incident
+      hint: When it occurred
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: incident_time
+      label: Time of Incident
+      hint: When it occurred
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: incident_location
+      label: Location of Incident
+      hint: Where it occurred
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_type
+      label: Type of Incident
+      hint: Incident category
+      type: select_one
+      options:
+      - Injury
+      - Illness
+      - Exposure
+      - Adverse reaction
+      - Medical event
+      - Accident
+      - Other
+      required: true
+    - id: 17
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: witnesses_present
+      label: Were There Witnesses
+      hint: Witness presence
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: witness_names
+      label: Witness Names and Contact Information
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_info
+      label: Medical Information
+      hint: Health details
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: symptoms
+      label: Signs and Symptoms
+      hint: Clinical presentation
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: symptom_onset
+      label: When Did Symptoms Begin
+      hint: Onset timing
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 hour
+      - Within 24 hours
+      - Within 1 week
+      - More than 1 week ago
+      required: true
+    - id: 23
+      name: severity
+      label: Severity of Condition
+      hint: Impact level
+      type: select_one
+      options:
+      - Mild - minor impact
+      - Moderate - some limitation
+      - Severe - significant limitation
+      - Critical - life threatening
+      required: true
+    - id: 24
+      name: body_parts_affected
+      label: Body Parts Affected
+      hint: Injury location
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Chest
+      - Abdomen
+      - Back
+      - Arm
+      - Hand
+      - Leg
+      - Foot
+      - Multiple areas
+      - Systemic
+      - Other
+      required: false
+    - id: 25
+      name: vital_signs
+      label: Vital Signs
+      hint: If taken
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: blood_pressure
+      label: Blood Pressure
+      hint: If measured
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: heart_rate
+      label: Heart Rate
+      hint: Beats per minute
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: temperature
+      label: Temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: Breaths per minute
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: treatment_info
+      label: Treatment Information
+      hint: Care provided
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: first_aid_given
+      label: Was First Aid Administered
+      hint: Immediate care
+      type: select_one
+      options:
+      - Yes - on site
+      - Yes - by EMS
+      - No - not needed
+      - No - declined
+      required: true
+    - id: 32
+      name: first_aid_description
+      label: Describe First Aid Provided
+      hint: Treatment details
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: medical_attention
+      label: Was Medical Attention Required
+      hint: Professional care
+      type: select_one
+      options:
+      - Yes - ER visit
+      - Yes - urgent care
+      - Yes - physician visit
+      - Yes - telehealth
+      - No - not needed
+      required: true
+    - id: 34
+      name: medications_administered
+      label: Medications Administered
+      hint: Drugs given
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: treatment_facility
+      label: Treatment Facility Name
+      hint: Where treated
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: diagnosing_provider
+      label: Diagnosing Provider Name
+      hint: Treating clinician
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: diagnosis
+      label: Diagnosis
+      hint: Medical diagnosis
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: prognosis
+      label: Prognosis
+      hint: Expected outcome
+      type: select_one
+      options:
+      - Full recovery expected
+      - Good recovery expected
+      - Partial recovery expected
+      - Uncertain
+      - Poor prognosis
+      required: false
+    - id: 39
+      name: work_impact
+      label: Work or Activity Impact
+      hint: Functional limitations
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: time_lost
+      label: Time Lost from Work or Activities
+      hint: Days missed
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: restrictions
+      label: Activity Restrictions
+      hint: Limitations
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: follow_up_needed
+      label: Is Follow-Up Care Needed
+      hint: Ongoing treatment
+      type: select_one
+      options:
+      - Yes - scheduled
+      - Yes - to be scheduled
+      - No - not needed
+      required: true
+    - id: 43
+      name: follow_up_date
+      label: Follow-Up Appointment Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 44
+      name: cause_analysis
+      label: Cause Analysis
+      hint: Contributing factors
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: preventive_measures
+      label: Recommended Preventive Measures
+      hint: Future prevention
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: reporter_info
+      label: Reporter Information
+      hint: Who is reporting
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: reporter_name
+      label: Reporter Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 48
+      name: reporter_title
+      label: Reporter Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: reporter_signature_date
+      label: Reporter Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 50
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Management approval
+      type: select_one
+      options:
+      - Reviewed and approved
+      - Reviewed with comments
+      - Pending review
+      - Not required
+      required: false

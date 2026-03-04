@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Wide Shift Bid Participation
+    pages:
+    - id: 1
+      name: employee_info_header
+      label: -- Employee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_name
+      label: Current Department
+      hint: null
+      type: select_one
+      options:
+      - Public Works
+      - Transportation
+      - Parks and Recreation
+      - Utilities
+      - Administrative Services
+      - Public Safety
+      required: true
+    - id: 5
+      name: current_shift_title
+      label: Current Assigned Shift
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: seniority_date
+      label: Seniority Date
+      hint: Used for bid ranking
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: shift_preferences_header
+      label: -- Shift Bid Choices --
+      hint: Rank your preferences in order
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_choice_shift
+      label: First Choice Shift
+      hint: null
+      type: select_one
+      options:
+      - Day Shift (6-00 AM - 2-00 PM)
+      - Swing Shift (2-00 PM - 10-00 PM)
+      - Night Shift (10-00 PM - 6-00 AM)
+      - Weekend Day Shift
+      - Weekend Night Shift
+      required: true
+    - id: 9
+      name: second_choice_shift
+      label: Second Choice Shift
+      hint: null
+      type: select_one
+      options:
+      - Day Shift (6-00 AM - 2-00 PM)
+      - Swing Shift (2-00 PM - 10-00 PM)
+      - Night Shift (10-00 PM - 6-00 AM)
+      - Weekend Day Shift
+      - Weekend Night Shift
+      required: true
+    - id: 10
+      name: third_choice_shift
+      label: Third Choice Shift
+      hint: null
+      type: select_one
+      options:
+      - Day Shift (6-00 AM - 2-00 PM)
+      - Swing Shift (2-00 PM - 10-00 PM)
+      - Night Shift (10-00 PM - 6-00 AM)
+      - Weekend Day Shift
+      - Weekend Night Shift
+      required: true
+    - id: 11
+      name: weekend_preference
+      label: Preferred Weekend Rotation
+      hint: null
+      type: select_one
+      options:
+      - Consecutive Weekends
+      - Alternating Weekends
+      - Fixed (Every Sat/Sun)
+      required: false
+    - id: 12
+      name: shift_bid_reason
+      label: Reason for Bid Request (Optional)
+      hint: e.g., Childcare, Education, Commute
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overtime_willingness
+      label: Are you willing to work overtime if needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: bidding_agreement
+      label: I understand that bids are awarded based on seniority and operational
+        needs
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 15
+      name: submission_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Health Complaint Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - Environmental Concerns
+      - Complaint
+      - Concerns or Complaints
+      required: false
+    - id: 3
+      name: complaint_details
+      label: complaint_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: environmental_issue
+      label: environmental_issue
+      hint: null
+      type: select_multiple
+      options:
+      - Air
+      - Water
+      - Land
+      - Noise
+      required: false
+    - id: 5
+      name: complaint_location
+      label: complaint_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: note
+      options: []
+      required: false

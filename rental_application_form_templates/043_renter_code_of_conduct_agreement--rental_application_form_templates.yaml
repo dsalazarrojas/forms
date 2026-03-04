@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renter Code Of Conduct Agreement
+    pages:
+    - id: 1
+      name: renter_code_of_conduct_agreement_form
+      label: Renter Code Of Conduct Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: property_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rental_rules
+      label: rental_rules
+      hint: null
+      type: select_one
+      options:
+      - Renting agent or property owner.
+      - Landlord or property owner or agent.
+      required: false
+    - id: 4
+      name: conduct_expectations
+      label: conduct_expectations
+      hint: null
+      type: text
+      options: []
+      required: false

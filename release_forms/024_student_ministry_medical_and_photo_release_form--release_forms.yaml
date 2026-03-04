@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Ministry Medical And Photo Release Form
+    pages:
+    - id: 1
+      name: medical_details
+      label: medical-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: emergency-contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_permissions
+      label: photo-permissions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_contact
+      label: guardian-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_name
+      label: guardian-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guardian_email
+      label: guardian-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: emergency-contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_email
+      label: emergency-contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone_num
+      label: emergency-phone-num
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_permission
+      label: photo-permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: photo_release_date
+      label: photo-release-date
+      hint: null
+      type: date
+      options: []
+      required: false

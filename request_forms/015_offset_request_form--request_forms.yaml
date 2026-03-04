@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: offset_request_form
+    pages:
+    - id: 1
+      name: provider_name
+      label: provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: provider_note
+      label: provider note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: buyer_name
+      label: buyer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: buyer_email
+      label: buyer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: buyer_phone
+      label: buyer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: buyer_note
+      label: buyer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_items
+      label: order items
+      hint: list of items ordered
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

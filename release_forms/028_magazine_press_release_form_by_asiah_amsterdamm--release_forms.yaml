@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magazine Press Release Form by Asiah Amsterdamm
+    pages:
+    - id: 1
+      name: magazine_press_release_form_by_asiah_amsterdamm
+      label: Magazine Press Release Form by Asiah
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: magazine_press_release_form_category
+      label: Release Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: magazine_press_release_form_description
+      label: Description
+      hint: A short, formal announcement promoting a magazine’s latest issue or other
+        publication.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: magazine_press_release_form_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false

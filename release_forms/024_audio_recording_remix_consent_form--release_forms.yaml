@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Recording Remix Consent Form
+    pages:
+    - id: 1
+      name: copyright_holder_name
+      label: Copyright Holder Name
+      hint: Legal name of copyright owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: copyright_holder_email
+      label: Copyright Holder Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: copyright_holder_phone
+      label: Copyright Holder Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Label or company (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: Date of this consent agreement
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: original_work_title
+      label: Original Work Title
+      hint: Title of the original recording
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: original_artist
+      label: Original Artist
+      hint: Name of original artist or performer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: original_release_date
+      label: Original Release Date
+      hint: When was the original released?
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: original_isrc
+      label: Original ISRC
+      hint: ISRC code of original recording
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: remix_artist_name
+      label: Remix Artist Name
+      hint: Name of artist creating the remix
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: remix_artist_email
+      label: Remix Artist Email
+      hint: Contact email for remix artist
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: remix_purpose
+      label: Remix Purpose
+      hint: What is the purpose of this remix?
+      type: select_one
+      options:
+      - Commercial release
+      - Promotional use
+      - Personal project
+      - Educational use
+      - Competition entry
+      - Other
+      required: true
+    - id: 13
+      name: remix_type
+      label: Remix Type
+      hint: What type of remix will be created?
+      type: select_one
+      options:
+      - Full remix
+      - Radio edit
+      - Extended mix
+      - Dub version
+      - Acoustic version
+      - Mashup
+      - Other
+      required: true
+    - id: 14
+      name: elements_used
+      label: Elements Used
+      hint: What elements from the original will be used?
+      type: select_multiple
+      options:
+      - Vocals only
+      - Instrumental only
+      - Stems
+      - Full mix
+      - Samples
+      - Loops
+      required: true
+    - id: 15
+      name: distribution_plan
+      label: Distribution Plan
+      hint: How will the remix be distributed?
+      type: select_multiple
+      options:
+      - Streaming platforms
+      - Digital download
+      - Physical release
+      - Radio
+      - Social media
+      - Live performance
+      - Private use only
+      required: true
+    - id: 16
+      name: royalty_agreement
+      label: Royalty Agreement
+      hint: What royalty arrangement applies?
+      type: select_one
+      options:
+      - Original owner receives royalties
+      - Split royalties 50-50
+      - Split royalties other
+      - No royalties, buyout
+      - Other arrangement
+      required: true
+    - id: 17
+      name: credit_requirement
+      label: Credit Requirement
+      hint: How should the original be credited?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: approval_required
+      label: Approval Required
+      hint: Does the remix need approval before release?
+      type: select_one
+      options:
+      - Yes, full approval required
+      - Yes, partial approval
+      - No, no approval needed
+      required: true
+    - id: 19
+      name: exclusivity
+      label: Exclusivity
+      hint: Is this remix exclusive?
+      type: select_one
+      options:
+      - Yes, exclusive remix rights
+      - No, non-exclusive
+      - Limited exclusivity period
+      required: true
+    - id: 20
+      name: term_length
+      label: Term Length
+      hint: How long does this consent last?
+      type: select_one
+      options:
+      - Perpetual
+      - 5 years
+      - 3 years
+      - 1 year
+      - Single release only
+      required: true
+    - id: 21
+      name: copyright_holder_signature
+      label: Copyright Holder Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

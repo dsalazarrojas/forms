@@ -1,0 +1,332 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Baggage Subscription Enrollment Form
+    pages:
+    - id: 1
+      name: passenger_first_name
+      label: First Name
+      hint: Passenger first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: passenger_last_name
+      label: Last Name
+      hint: Passenger last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: frequent_flyer_number
+      label: Frequent Flyer Number
+      hint: Loyalty program number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frequent_flyer_tier
+      label: Frequent Flyer Tier
+      hint: Membership level
+      type: select_one
+      options:
+      - Basic
+      - Silver
+      - Gold
+      - Platinum
+      - Diamond
+      - Not a member
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: subscription_type
+      label: Subscription Type
+      hint: Choose your plan
+      type: select_one
+      options:
+      - Monthly unlimited
+      - Annual unlimited
+      - 10-bag pass
+      - 20-bag pass
+      - Family plan
+      - Business plan
+      required: true
+    - id: 14
+      name: baggage_allowance
+      label: Baggage Allowance
+      hint: What is included
+      type: select_one
+      options:
+      - 1 checked bag per flight
+      - 2 checked bags per flight
+      - Unlimited checked bags
+      - Overweight allowance
+      - Oversize allowance
+      required: true
+    - id: 15
+      name: subscription_start
+      label: Subscription Start Date
+      hint: When should it begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: subscription_duration
+      label: Subscription Duration
+      hint: Length of subscription
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 12 months
+      - 24 months
+      required: true
+    - id: 17
+      name: monthly_price
+      label: Monthly Price (USD)
+      hint: Subscription cost
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_price
+      label: Total Price (USD)
+      hint: Total amount
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank transfer
+      required: true
+    - id: 20
+      name: card_number
+      label: Card Number
+      hint: Last 4 digits only
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: card_expiry
+      label: Card Expiry
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_address
+      label: Billing Address
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: auto_renewal
+      label: Auto Renewal
+      hint: Should subscription renew
+      type: select_one
+      options:
+      - Yes, auto-renew
+      - No, one-time only
+      required: true
+    - id: 24
+      name: eligible_routes
+      label: Eligible Routes
+      hint: Where can you use
+      type: select_one
+      options:
+      - All domestic routes
+      - All international routes
+      - Domestic and select international
+      - All routes worldwide
+      - Regional only
+      required: true
+    - id: 25
+      name: transferable
+      label: Transferable
+      hint: Can you transfer to others
+      type: select_one
+      options:
+      - Yes, to anyone
+      - Yes, to family only
+      - No, personal use only
+      required: true
+    - id: 26
+      name: family_members
+      label: Family Members Included
+      hint: Number of additional people
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: family_member_names
+      label: Family Member Names
+      hint: List all included members
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you accept terms
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true
+    - id: 29
+      name: cancellation_policy
+      label: Cancellation Policy Understood
+      hint: Do you understand policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: refund_policy
+      label: Refund Policy Understood
+      hint: Do you understand refunds
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: discount_applied
+      label: Discount Applied
+      hint: Any discount
+      type: select_one
+      options:
+      - None
+      - 10% off
+      - 20% off
+      - First month free
+      - Other
+      required: false
+    - id: 33
+      name: how_heard
+      label: How Did You Hear About This
+      hint: Source
+      type: select_one
+      options:
+      - Airline website
+      - Email promotion
+      - Social media
+      - Travel agent
+      - Airport advertisement
+      - Friend referral
+      - Other
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or notes
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: passenger_signature
+      label: Passenger Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: enrollment_date
+      label: Enrollment Date
+      hint: Date of enrollment
+      type: date
+      options: []
+      required: true
+    - id: 37
+      name: confirmation_number
+      label: Confirmation Number
+      hint: Will be provided
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Pending payment
+      - Payment processed
+      - Active
+      - Cancelled
+      - Expired
+      required: true

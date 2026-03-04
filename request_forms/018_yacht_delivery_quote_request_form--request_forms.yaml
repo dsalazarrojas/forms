@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yacht Delivery Quote Request Form
+    pages:
+    - id: 1
+      name: yacht_delivery_quote_request_form_1
+      label: yacht_transport_inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: yacht_type
+      label: yacht_type
+      hint: null
+      type: select_one
+      options:
+      - Yacht
+      - Sailboat
+      - Boat
+      required: false
+    - id: 3
+      name: yacht_size
+      label: yacht_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: yacht_weight
+      label: yacht_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: destination_port
+      label: destination_port
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expected_delivery_date
+      label: expected_delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_note
+      label: contact_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quote_request
+      label: quote_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 14
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: yacht_value
+      label: yacht_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: quote_value
+      label: quote_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method_value
+      label: payment_method_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: yacht_delivery_quote
+      label: yacht_delivery_quote
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: quote_status
+      label: quote_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: contact_id
+      label: contact_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quote_id
+      label: quote_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false

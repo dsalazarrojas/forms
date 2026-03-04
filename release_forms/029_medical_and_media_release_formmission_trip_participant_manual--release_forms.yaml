@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical And Media Release Form
+    pages:
+    - id: 1
+      name: page_1
+      label: release_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_information
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_list
+      label: medical_condition
+      hint: Please list any medical conditions we should be aware of.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_info
+      label: emergency_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: behavior_parameters
+      label: behavior_parameters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: media_release
+      label: media_release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: media_release_explanation
+      label: media_release_explanation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: behavior_parameters_explanation
+      label: behavior_parameters_explanation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: behavior_parameters_list
+      label: behavior_parameters_list
+      hint: Please list any specific behaviors we need to be aware of for this event.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: oncampus_events
+      label: On-Campus Events
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 1, ''value'': ''On-Campus Events'', ''label'': ''On-Campus
+        Events''}'
+      - '{''id'': 2, ''name'': 2, ''value'': ''Off-Campus Events'', ''label'': ''Off-Campus
+        Events''}'
+      required: false
+    - id: 13
+      name: offcampus_events
+      label: Off-Campus Events
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: oncampus
+      label: On-Campus Events
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 1, ''value'': ''I give my consent'', ''label'': ''I
+        give my consent''}'
+      - '{''id'': 2, ''name'': 2, ''value'': ''I do not give my consent'', ''label'':
+        ''I do not give my consent''}'
+      required: false

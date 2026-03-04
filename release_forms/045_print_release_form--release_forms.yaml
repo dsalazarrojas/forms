@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: print_release_form
+    pages:
+    - id: 1
+      name: print_release_form_page_1
+      label: print_and_distribute
+      hint: null
+      type: select_multiple
+      options:
+      - print
+      - distribute
+      required: false
+    - id: 2
+      name: subject
+      label: subject_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: photographer
+      label: photographer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: studio
+      label: studio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client
+      label: client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: release_type
+      label: release_type
+      hint: null
+      type: select_one
+      options:
+      - print
+      - digital
+      - both
+      required: false
+    - id: 11
+      name: distribution
+      label: distribution
+      hint: null
+      type: select_multiple
+      options:
+      - print
+      - share_on_social_media
+      - share_with_friends_and_family
+      required: false
+    - id: 12
+      name: print_quantity
+      label: print_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: print_size
+      label: print_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: distribution_quantity
+      label: distribution_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: distribution_size
+      label: distribution_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: print_resolution
+      label: print_resolution
+      hint: null
+      type: number
+      options: []
+      required: false

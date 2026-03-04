@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: process_simulation_software_registration
+    pages:
+    - id: 1
+      name: title
+      label: Software Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Software
+      - Other
+      required: true
+    - id: 4
+      name: use_details
+      label: Use Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: use_type
+      label: Intended Use Type
+      hint: null
+      type: select_one
+      options:
+      - Software
+      - Engineering
+      - Education
+      - Other
+      required: true
+    - id: 6
+      name: team_info
+      label: Team Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Simulation Software
+      - Model Simulation
+      - Other
+      required: true
+    - id: 8
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consigned
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: consigned_terms
+      label: Consent Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_terms
+      label: Additional Terms
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Parade Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Registration Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Preferred Parade Time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 11:00 AM
+      - 1:00 PM
+      - 3:00 PM
+      - 5:00 PM
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Balloon Animals
+      - Face Painting
+      - Costume Contest
+      - None
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: note2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

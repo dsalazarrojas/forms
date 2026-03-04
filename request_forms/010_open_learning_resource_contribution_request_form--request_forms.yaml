@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Learning Resource Contribution Request Form
+    pages:
+    - id: 1
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resource_category
+      label: Resource Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: resource_license
+      label: Resource License
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: resource_license_notes
+      label: License Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_language
+      label: Resource Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: resource_level
+      label: Resource Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: resource_tags
+      label: Resource Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contributor_info
+      label: Contributor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_confirmation
+      label: Form Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

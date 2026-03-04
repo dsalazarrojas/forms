@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Onsite Audit Report Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supplier_contact_number
+      label: Supplier Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: audit_status
+      label: Audit Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: onsite_auditor_name
+      label: Onsite Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: onsite_auditor_title
+      label: Onsite Auditor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: onsite_visit_date
+      label: Onsite Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: audit_findings
+      label: Audit Findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 10
+      name: audit_conclusion
+      label: Audit Conclusion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: photos
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: videos
+      label: Videos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: audit_status_notes
+      label: Audit Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: onsite_auditor_title
+      label: Onsite Auditor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supplier_website
+      label: Supplier Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supplier_facebook
+      label: Supplier Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supplier_twitter
+      label: Supplier Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supplier_linkedin
+      label: Supplier Linkedin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supplier_instagram
+      label: Supplier Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: onsite_auditor_signature
+      label: Onsite Auditor Signature
+      hint: null
+      type: text
+      options: []
+      required: false

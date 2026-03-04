@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chest X Ray Workflow Documentation
+    pages:
+    - id: 1
+      name: xray_intro
+      label: -- Chest X-Ray Workflow Documentation --
+      hint: Document chest X-ray imaging workflow and findings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: procedure_date
+      label: Procedure date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: procedure_time
+      label: Procedure time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_first_name
+      label: Patient first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_last_name
+      label: Patient last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 9
+      name: technologist_name
+      label: X-ray technologist name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: radiologist_name
+      label: Radiologist reviewing films
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: exam_type
+      label: X-ray examination type
+      hint: null
+      type: select_one
+      options:
+      - PA (Posteroanterior)
+      - AP (Anteroposterior)
+      - Lateral
+      - PA and lateral
+      - Apical lordotic
+      - Other
+      required: true
+    - id: 12
+      name: patient_position
+      label: Patient positioning
+      hint: null
+      type: select_one
+      options:
+      - Upright
+      - Supine
+      - Semi-upright
+      - Portable bedside
+      - Other
+      required: true
+    - id: 13
+      name: image_quality
+      label: Image quality assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Suboptimal
+      - Poor
+      - Repeat needed
+      required: true
+    - id: 14
+      name: clinical_indication
+      label: Clinical indication for exam
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lungs_assessment
+      label: Lungs assessment
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal findings
+      - Opacity
+      - Infiltrate
+      - Consolidation
+      - Other
+      required: true
+    - id: 16
+      name: heart_assessment
+      label: Cardiac silhouette assessment
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Enlarged
+      - Borderline enlarged
+      - Abnormal contour
+      - Other
+      required: true
+    - id: 17
+      name: mediastinum_assessment
+      label: Mediastinum assessment
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Widened
+      - Abnormal findings
+      - Requires further evaluation
+      required: true
+    - id: 18
+      name: diaphragm_assessment
+      label: Diaphragm assessment
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Elevated
+      - Flattened
+      - Abnormal
+      required: true
+    - id: 19
+      name: pleural_effusion
+      label: Pleural effusion present
+      hint: null
+      type: select_one
+      options:
+      - Absent
+      - Small
+      - Moderate
+      - Large
+      - Bilateral
+      required: true
+    - id: 20
+      name: additional_findings
+      label: Additional findings or abnormalities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: impression
+      label: Overall impression
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comparison_prior
+      label: Comparison to prior studies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: report_status
+      label: Report status
+      hint: null
+      type: select_one
+      options:
+      - Preliminary
+      - Final
+      - Amended
+      - Addendum
+      required: true

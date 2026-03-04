@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inked HempQueens Photo Release
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Release Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: output_filename
+      label: Output Filename
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_taken
+      label: Date Taken
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: photographer_credit
+      label: Photographer Credit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photographer_license
+      label: Photographer License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: publication_title
+      label: Publication Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: publication_issue
+      label: Publication Issue
+      hint: Please enter the issue number of publication (if it's a series)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: publication_url
+      label: Publication URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: copyright_ownership
+      label: Copyright Ownership
+      hint: null
+      type: select_one
+      options:
+      - Photographer
+      - Model
+      - Other
+      required: true
+    - id: 16
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: publication_period
+      label: Publication Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: publication_type
+      label: Publication Type
+      hint: null
+      type: select_one
+      options:
+      - Print
+      - Web
+      required: false
+    - id: 20
+      name: release_version
+      label: Release Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photographer_notes
+      label: Photographer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photographer_agreement
+      label: Photographer's Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: model_release
+      label: Model Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: model_release_date
+      label: Model Release Date
+      hint: null
+      type: date
+      options: []
+      required: false

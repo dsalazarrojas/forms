@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: infectious_disease_report_form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exposure_location
+      label: Exposure Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: disease_onset_date
+      label: Disease Onset Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: patient_gender_other
+      label: Other Gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_gender_other_hint
+      label: Other Gender Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: disease_type
+      label: Disease Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: disease_name
+      label: Disease Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: disease_name_other
+      label: Other Disease Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: disease_name_other_hint
+      label: Other Disease Name Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: disease_stage
+      label: Disease Stage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: disease_stage_other
+      label: Other Disease Stage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: disease_stage_other_hint
+      label: Other Disease Stage Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: healthcare_provider_contact
+      label: Healthcare Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: healthcare_provider_email
+      label: Healthcare Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

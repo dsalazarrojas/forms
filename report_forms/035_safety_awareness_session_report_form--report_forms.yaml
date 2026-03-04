@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Awareness Session Report Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trainer_name
+      label: trainer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_location
+      label: session_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_topic
+      label: session_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_attendees
+      label: session_attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trainer_notes
+      label: trainer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: safety_standards
+      label: safety_standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: session_rating
+      label: session_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: session_length
+      label: session_length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: safety_standards_2
+      label: safety_standards_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submitted_by_2
+      label: submitted_by_2
+      hint: null
+      type: text
+      options: []
+      required: false

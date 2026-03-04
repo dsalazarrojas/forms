@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Archived Website Request
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: We will contact you with the information you need
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: Optional - if you prefer phone contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_request_details
+      label: -- What Are You Looking For --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: request_type
+      label: Type of Content Requested
+      hint: null
+      type: select_one
+      options:
+      - Product page
+      - Service information
+      - Support documentation
+      - Blog post or article
+      - Resource or download
+      - Contact information
+      - Other page
+      required: true
+    - id: 7
+      name: original_page_url
+      label: Original Page URL - if known
+      hint: The full URL you were trying to access
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_description
+      label: Describe What You Were Looking For
+      hint: What was the page about
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: search_terms
+      label: Search Terms Used
+      hint: Keywords from your search
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_topic
+      label: General Topic Area
+      hint: null
+      type: select_one
+      options:
+      - Sales and pricing
+      - Technical support
+      - Billing and accounts
+      - General information
+      - Product features
+      - Company information
+      - Other
+      required: false
+    - id: 11
+      name: section_urgency
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: urgency_level
+      label: How Urgent is Your Request
+      hint: null
+      type: select_one
+      options:
+      - Not urgent
+      - Somewhat urgent
+      - Very urgent
+      required: false
+    - id: 13
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true
+    - id: 14
+      name: additional_context
+      label: Additional Context or Comments
+      hint: Any other details that might help us find what you need
+      type: text
+      options: []
+      required: false

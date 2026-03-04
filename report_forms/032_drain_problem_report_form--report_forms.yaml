@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: drain_problem_report_form
+    pages:
+    - id: 1
+      name: drain_problem_report_form_section_1
+      label: drain_problem_report_form_section_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drain_area
+      label: drain_area
+      hint: null
+      type: select_one
+      options:
+      - Drainage Area 1
+      - Drainage Area 2
+      - Drainage Area 3
+      required: false
+    - id: 3
+      name: drain_description
+      label: drain_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: drain_problem
+      label: drain_problem
+      hint: null
+      type: select_multiple
+      options:
+      - Drain Problem 1
+      - Drain Problem 2
+      - Drain Problem 3
+      required: false
+    - id: 5
+      name: drain_status
+      label: drain_status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 6
+      name: submitter_details
+      label: submitter_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: drain_problem_details
+      label: drain_problem_details
+      hint: null
+      type: note
+      options: []
+      required: false

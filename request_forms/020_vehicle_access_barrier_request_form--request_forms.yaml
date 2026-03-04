@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Access Barrier Request Form
+    pages:
+    - id: 1
+      name: gate_request_details
+      label: Gate Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: gate_type
+      label: Gate Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: gate_status
+      label: Gate Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: vehicles
+      label: Vehicles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: access_request_date
+      label: Access Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: access_request_time
+      label: Access Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: gate_operable_height
+      label: Gate Operable Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gate_operable_width
+      label: Gate Operable Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gate_opening_type
+      label: Gate Opening Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: gate_opening_width
+      label: Gate Opening Width
+      hint: null
+      type: number
+      options: []
+      required: false

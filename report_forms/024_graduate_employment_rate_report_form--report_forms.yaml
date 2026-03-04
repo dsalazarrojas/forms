@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduate Employment Rate Report Form
+    pages:
+    - id: 1
+      name: program_info
+      label: Program Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cohort_start_year
+      label: Cohort Start Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: graduate_name
+      label: Graduate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_rate
+      label: Employment Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: graduate_status
+      label: Graduate Status
+      hint: null
+      type: select_multiple
+      options:
+      - New Hire
+      - Unemployed
+      - Part-time
+      - Full-time
+      - Other
+      required: false

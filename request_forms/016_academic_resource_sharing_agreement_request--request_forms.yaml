@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Resource Sharing Agreement Request
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Resource Sharing Agreement Request --
+      hint: Submit a request to access or share academic resources between institutions
+        or departments.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requester_institution
+      label: Your institution or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_department
+      label: Department or unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requester_role
+      label: Your role or title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: resource_section
+      label: -- Resource Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: resource_type
+      label: Type of resource being requested
+      hint: null
+      type: select_one
+      options:
+      - Research data or datasets
+      - Laboratory equipment
+      - Library materials
+      - Software or digital tools
+      - Curriculum or course materials
+      - Specialized facilities
+      - Other
+      required: true
+    - id: 10
+      name: resource_description
+      label: Detailed description of the resource being requested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: purpose_of_access
+      label: Purpose of accessing this resource
+      hint: null
+      type: select_one
+      options:
+      - Research project
+      - Teaching or curriculum development
+      - Student training
+      - Joint publication
+      - Grant application
+      - Other
+      required: true
+    - id: 12
+      name: access_start_date
+      label: Requested access start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: access_end_date
+      label: Requested access end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: sharing_institution
+      label: Name of institution or department providing the resource
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_at_sharing_institution
+      label: Contact person at the providing institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confidentiality_agreement
+      label: I agree to handle all shared resources in accordance with applicable
+        confidentiality and data protection policies
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I need to discuss terms
+      required: true
+    - id: 17
+      name: additional_notes
+      label: Additional notes or special conditions
+      hint: null
+      type: text
+      options: []
+      required: false

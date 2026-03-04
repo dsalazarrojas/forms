@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Review Request Authorization Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_description
+      label: Request Description
+      hint: Brief description of the request
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_deadline
+      label: Request Deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_request_date
+      label: Review Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_request_status
+      label: Review Request Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      required: false
+    - id: 13
+      name: review_request_notes
+      label: Review Request Notes
+      hint: null
+      type: note
+      options: []
+      required: false

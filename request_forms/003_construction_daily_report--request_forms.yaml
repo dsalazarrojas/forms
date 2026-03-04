@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Daily Report
+    pages:
+    - id: 1
+      name: section_report_basics
+      label: -- Report Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: report_by
+      label: Reported By
+      hint: Name of the person filing this report
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_site_conditions
+      label: -- Site Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: weather_am
+      label: Morning Weather
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rain
+      - Snow
+      - Extreme Cold/Heat
+      required: true
+    - id: 7
+      name: weather_pm
+      label: Afternoon Weather
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rain
+      - Snow
+      - Extreme Cold/Heat
+      required: true
+    - id: 8
+      name: site_temperature
+      label: Average Temperature (F)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_labor_tracking
+      label: -- Labor and Hours --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_workers
+      label: Total Number of Workers on Site
+      hint: Include all subcontractors
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_man_hours
+      label: Total Man-Hours Spent Today
+      hint: Sum of all workers' hours
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: subcontractors_present
+      label: Subcontractors Present
+      hint: List all subcontracting firms on site today
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_work_progress
+      label: -- Work Progress and Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: activities_completed
+      label: Activities Completed Today
+      hint: List major milestones or tasks finished
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delays_or_issues
+      label: Delays or Issues Encountered
+      hint: Weather, material shortages, equipment failure, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: safety_incidents
+      label: Safety Incidents or Concerns
+      hint: Describe any incidents or near-misses
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: inspection_results
+      label: Inspection Results
+      hint: Any official inspections conducted today?
+      type: select_one
+      options:
+      - No Inspection Today
+      - Passed
+      - Passed with Corrections
+      - Failed
+      required: true
+    - id: 18
+      name: tomorrow_plan
+      label: Plan for Tomorrow
+      hint: Key objectives for the next shift
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_notes
+      label: General Observations or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

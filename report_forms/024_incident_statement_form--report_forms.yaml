@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Statement Form
+    pages:
+    - id: 1
+      name: incident_statement_form_1
+      label: incident_statement_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident_description
+      hint: A detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_injuries
+      label: incident_injuries
+      hint: Were there any injuries involved?
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 7
+      name: incident_damages
+      label: incident_damages
+      hint: null
+      type: number
+      options: []
+      required: false

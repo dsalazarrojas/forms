@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resource Efficiency Measurement Report Form
+    pages:
+    - id: 1
+      name: report_form_1
+      label: Report 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_form_2
+      label: Report 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resource_used
+      label: Resource Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: efficiency_metric
+      label: Efficiency Metric
+      hint: null
+      type: select_one
+      options:
+      - Efficiency
+      - Capacity
+      - Utilization
+      required: false
+    - id: 5
+      name: date_of_measurement
+      label: Date of Measurement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_measurement
+      label: Time of Measurement
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: resource_efficiency
+      label: Resource Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: measurement_location
+      label: Measurement Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 9
+      name: measurement_device
+      label: Measurement Device
+      hint: null
+      type: select_one
+      options:
+      - Device 1
+      - Device 2
+      - Device 3
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: report_form_3
+      label: Report 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

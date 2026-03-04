@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Drop Off Request Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: flight_number
+      label: Arrival Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: arrival_date
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: arrival_time
+      label: Estimated Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: section_dropoff
+      label: -- Drop-off Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: destination_address
+      label: Drop-off Destination Address
+      hint: e.g. Hotel name or residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: destination_city
+      label: Destination City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: number_of_passengers
+      label: Total Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: luggage_count
+      label: Total Number of Luggage Pieces
+      hint: Including carry-ons
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_type_preference
+      label: Preferred Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Van (6+ passengers)
+      - Luxury Vehicle
+      required: true
+    - id: 12
+      name: infant_seats_required
+      label: Child/Infant Seats Required?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1 Seat
+      - 2 Seats
+      required: true
+    - id: 13
+      name: meet_and_greet
+      label: Require Meet and Greet Service?
+      hint: Staff will meet you at the arrivals hall with a name sign
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: special_instructions
+      label: Special Instructions or Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: acknowledgment
+      label: I understand that drop-off times may vary based on traffic and flight
+        delays
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true

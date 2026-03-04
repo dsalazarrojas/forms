@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marriage Survey
+    pages:
+    - id: 1
+      name: getting_married
+      label: Getting Married
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: married_to
+      label: Married To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: how_long_married
+      label: How Long Married
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: have_children
+      label: Have Children
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: number_of_children
+      label: Number Of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: married_ages
+      label: Married Aged
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: how_much_do_well
+      label: How Much Do We Do
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: how_much_dont_do
+      label: How Much Do We Don't Do
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: married_life_satisfaction
+      label: Married Life Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: married_financial_satisfaction
+      label: Married Financial Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 11
+      name: married_relationship_satisfaction
+      label: Married Relationship Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: married_leisure_satisfaction
+      label: Married Leisure Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

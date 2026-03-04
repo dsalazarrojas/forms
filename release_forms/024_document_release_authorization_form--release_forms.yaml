@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_release_authorization_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Document Release Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: Enter the name of your organization.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Confidential
+      - Public
+      required: false
+    - id: 4
+      name: document_description
+      label: document_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorized_person
+      label: Authorized Person
+      hint: Name of person authorizing release (e.g., President, Manager, or Owner
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: authorized_person_email
+      label: Authorized Person Email
+      hint: Email address of authorized person.
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: Date of intended release.
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_release
+      label: reason_for_release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_confirmation
+      label: Client Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: Optional notes
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: Email address of submitted by user
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: document_id
+      label: document_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Approved
+      - Rejected
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_ip
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_browser
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: document_name
+      label: document_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false

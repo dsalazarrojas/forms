@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inspection Maintenance Report Form
+    pages:
+    - id: 1
+      name: asset_id
+      label: Asset Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''equipment''}'
+      - '{''id'': 2, ''name'': ''vehicle''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 3
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: asset_condition_what_maintained
+      label: Asset Condition (what maintained)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: asset_condition_description
+      label: Asset Condition Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: asset_condition_rating
+      label: Asset Condition Rating
+      hint: null
+      type: number
+      options: []
+      required: false

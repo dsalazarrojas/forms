@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Commentary Publication Consent Form
+    pages:
+    - id: 1
+      name: main
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_publication
+      label: Time of Publication
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Print
+      - Digital
+      - Radio
+      - Television
+      - Internet
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

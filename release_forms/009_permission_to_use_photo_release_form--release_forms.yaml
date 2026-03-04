@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permission To Use Photo Release Form
+    pages:
+    - id: 1
+      name: photographer_forms_1
+      label: Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_forms_1
+      label: Photo Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photographer_forms_2
+      label: Name of Photographer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photographer_forms_3
+      label: Company of Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photographer_forms_4
+      label: Date of Photo Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: release_forms_2
+      label: Purposes of Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: photographer_forms_5
+      label: Additional Uses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: photographer_forms_6
+      label: Release Signature
+      hint: null
+      type: number
+      options: []
+      required: true

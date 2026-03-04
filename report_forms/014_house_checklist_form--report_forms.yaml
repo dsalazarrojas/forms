@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: house_checklist_form
+    pages:
+    - id: 1
+      name: house_status
+      label: House Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: house_type
+      label: house_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Single family home''}'
+      - '{''id'': 2, ''label'': ''Duplex''}'
+      - '{''id'': 3, ''label'': ''Condo''}'
+      required: false
+    - id: 3
+      name: systems_check
+      label: Systems Check
+      hint: Check all basic systems and engines
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_requirements
+      label: Service Requirements
+      hint: Describe any service requirements for the house.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exterior_info
+      label: Exterior Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: security_info
+      label: Security Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workability_of_systems
+      label: Workability of Systems
+      hint: Check the workability of all basic systems and engines.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_info
+      label: Service Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: security_systems
+      label: Security Systems
+      hint: List all security systems
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: security_level
+      label: Security Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 11
+      name: exterior_condition
+      label: Exterior Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: exterior_features
+      label: Exterior Features
+      hint: Describe any exterior features of the house.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: exterior_status
+      label: Exterior Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: systems_status
+      label: Systems Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: engine_status
+      label: Engine Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

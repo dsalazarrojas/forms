@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reservation Credit Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Reservation Credit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: XXX-XXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: credit_card_number
+      label: Credit Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cardholder_name
+      label: Card Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      required: false
+    - id: 8
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false

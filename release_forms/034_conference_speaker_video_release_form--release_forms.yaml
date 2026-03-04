@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Speaker Video Release Form
+    pages:
+    - id: 1
+      name: speaker_name
+      label: Speaker Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: title
+      label: Professional Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_title
+      label: Session Title
+      hint: Name of presentation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: Date of presentation
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: Time of presentation
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: conference_name
+      label: Conference Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recording_type
+      label: Recording Type
+      hint: What will be recorded
+      type: select_one
+      options:
+      - Video and Audio
+      - Audio Only
+      - Slides Only
+      - No Recording
+      required: true
+    - id: 11
+      name: usage_rights
+      label: Usage Rights Granted
+      hint: How recording may be used
+      type: select_multiple
+      options:
+      - Conference Website
+      - On-Demand Library
+      - Social Media
+      - Educational Purposes
+      - Marketing Materials
+      - Internal Archive
+      - Public Distribution
+      required: true
+    - id: 12
+      name: distribution_scope
+      label: Distribution Scope
+      hint: Where can it be shared
+      type: select_one
+      options:
+      - Public Unlimited Access
+      - Registered Attendees Only
+      - Internal Use Only
+      - No Distribution
+      required: true
+    - id: 13
+      name: editing_rights
+      label: Editing Rights
+      hint: Can content be edited
+      type: select_one
+      options:
+      - Yes May Edit for Length
+      - Yes Minor Edits Only
+      - No Editing Without Approval
+      - Must Approve Final Version
+      required: true
+    - id: 14
+      name: duration_of_use
+      label: Duration of Use
+      hint: How long can it be used
+      type: select_one
+      options:
+      - Unlimited Perpetual
+      - 5 Years
+      - 3 Years
+      - 1 Year
+      - Event Only
+      required: true
+    - id: 15
+      name: third_party_content
+      label: Third-Party Content
+      hint: Does presentation include others content
+      type: select_one
+      options:
+      - No All Original Content
+      - Yes Have Permissions
+      - Yes Need to Verify
+      - Unsure
+      required: true
+    - id: 16
+      name: third_party_details
+      label: Third-Party Content Details
+      hint: Describe and confirm permissions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: compensation
+      label: Compensation for Recording
+      hint: Additional payment
+      type: select_one
+      options:
+      - No Additional Compensation
+      - Included in Speaking Fee
+      - Separate Fee Required
+      - To Be Negotiated
+      required: true
+    - id: 18
+      name: attribution
+      label: Attribution Requirements
+      hint: How should you be credited
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_approval
+      label: Review and Approval
+      hint: Will you review before release
+      type: select_one
+      options:
+      - Yes Must Approve
+      - Yes But Not Required
+      - No Trust Organizers
+      required: true
+    - id: 20
+      name: withdrawal_rights
+      label: Withdrawal Rights
+      hint: Can you withdraw consent
+      type: select_one
+      options:
+      - May Withdraw Within 30 Days
+      - May Withdraw Anytime
+      - Cannot Withdraw After Signing
+      required: true
+    - id: 21
+      name: contact_for_permissions
+      label: Contact for Permission Requests
+      hint: Who to contact for reuse
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_conditions
+      label: Special Conditions
+      hint: Any restrictions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: legal_representation
+      label: Legally Represented
+      hint: Do you have legal counsel
+      type: select_one
+      options:
+      - Yes Represented
+      - No Self-Represented
+      required: false
+    - id: 24
+      name: attorney_name
+      label: Attorney Name
+      hint: If represented
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attorney_contact
+      label: Attorney Contact
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: witness_signature
+      label: Witness Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: release_confirmation
+      label: I Grant Video Release Rights as Specified
+      hint: Confirm agreement
+      type: select_one
+      options:
+      - I Agree and Grant Rights
+      - I Do Not Agree
+      required: true

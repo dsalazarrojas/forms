@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Light Removal Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: If business customer
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For service confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For scheduling
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_address
+      label: Service Address
+      hint: Where lights need removal
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: What type of property
+      type: select_one
+      options:
+      - Residential Single Family
+      - Residential Multi-Unit
+      - Commercial Office
+      - Commercial Retail
+      - Industrial Warehouse
+      - Religious Building
+      - Municipal Government
+      - Other
+      required: true
+    - id: 10
+      name: section_property
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: lights_installed_by
+      label: Who Installed the Lights
+      hint: Select the installer
+      type: select_one
+      options:
+      - Your company installed them
+      - Another company
+      - I installed them myself
+      - Not sure
+      - Previous owner left them
+      required: true
+    - id: 12
+      name: light_types_present
+      label: Types of Lights Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Roof line lights
+      - Tree wrapping
+      - Bush and shrub lights
+      - Window lights
+      - Garland with lights
+      - Inflatable decorations
+      - Projector lights
+      - Icicle lights
+      - Net lights
+      - Other
+      required: true
+    - id: 13
+      name: estimated_light_count
+      label: Estimated Light Count
+      hint: Approximate number of bulbs
+      type: select_one
+      options:
+      - Under 500 bulbs
+      - 500-1000 bulbs
+      - 1000-2500 bulbs
+      - 2500-5000 bulbs
+      - 5000 plus bulbs
+      - Not sure
+      required: true
+    - id: 14
+      name: section_light_details
+      label: -- Light Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: storage_needed
+      label: Storage Service Needed
+      hint: Do you need us to store the lights
+      type: select_one
+      options:
+      - Yes store until next season
+      - No I will keep them
+      - Maybe undecided
+      - Yes but dispose if damaged
+      required: true
+    - id: 16
+      name: preferred_removal_date
+      label: Preferred Removal Date
+      hint: When should we remove lights
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: preferred_time_window
+      label: Preferred Time Window
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-4pm
+      - Evening 4pm-7pm
+      - Any time works
+      - Weekend only
+      required: true
+    - id: 18
+      name: section_scheduling
+      label: -- Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: access_instructions
+      label: Access Instructions
+      hint: Gate codes, lockbox, special entry
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: safety_concerns
+      label: Safety Concerns
+      hint: Steep roof, power lines, obstacles
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pets_on_property
+      label: Pets on Property
+      hint: Will there be pets during service
+      type: select_one
+      options:
+      - No pets
+      - Yes dogs
+      - Yes cats
+      - Yes other pets
+      - Yes multiple pets
+      required: true
+    - id: 22
+      name: damage_report
+      label: Any Existing Damage
+      hint: Note any pre-existing damage
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_services
+      label: Additional Services
+      hint: What else can we help with
+      type: select_multiple
+      options:
+      - None
+      - Pressure washing
+      - Gutter cleaning
+      - Holiday decor storage
+      - Property inspection
+      - Repair services
+      required: false
+    - id: 24
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Previous customer
+      - Website
+      - Social Media
+      - Friend or Family Referral
+      - Online Search
+      - Advertisement
+      - Other
+      required: false
+    - id: 25
+      name: special_notes
+      label: Special Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

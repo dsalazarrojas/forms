@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: pediatrics_schedule_error_reporting
+    pages:
+    - id: 1
+      name: schedule_error
+      label: Schedule Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: Date of Incident
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: Time of Incident
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: impact_on_care
+      label: Impact on Care
+      hint: How did the scheduling mistake impact the care of the patient?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: Description of the scheduling mistake and impact on care.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: schedule_error_cause
+      label: Schedule Error Cause
+      hint: What caused the scheduling mistake?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: root_cause
+      label: Root Cause
+      hint: Root cause of the scheduling mistake
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommended_correction
+      label: Recommended Correction
+      hint: Recommended correction to prevent similar mistakes.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reported_by
+      label: Reported by
+      hint: Person who reported the scheduling mistake
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reported_by_title
+      label: Reported by Title
+      hint: Reported by title of the person who reported the scheduling mistake
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reported_by_department
+      label: Reported by Department
+      hint: Department of the person who reported the scheduling mistake
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reported_by_position
+      label: Reported by Position
+      hint: Position of the person who reported the scheduling mistake
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: reported_by_email
+      label: Reported by Email
+      hint: Reported by email
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: reported_by_phone
+      label: Reported by Phone
+      hint: Reported by phone
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reported_by_extension
+      label: Reported by Extension
+      hint: Reported by extension
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reported_by_facsimile
+      label: Reported by Facsimile
+      hint: Reported by facsimile
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reported_by_address
+      label: Reported by Address
+      hint: Reported by address
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reporting_facility
+      label: Reporting Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reporting_facility_name
+      label: Reporting Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reporting_facility_address
+      label: Reporting Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reporting_facility_city
+      label: Reporting Facility City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reporting_facility_state
+      label: Reporting Facility State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reporting_facility_zip
+      label: Reporting Facility Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporting_facility_phone
+      label: Reporting Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false

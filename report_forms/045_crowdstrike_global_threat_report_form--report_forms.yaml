@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Global Threat Report Form
+    pages:
+    - id: 1
+      name: threat_level
+      label: Threat Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: threat_type
+      label: Threat Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: threat_name
+      label: Threat Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: threat_source
+      label: Threat Source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: threat_description
+      label: Threat Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: threat_severity
+      label: Threat Severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: incident_date_range
+      label: Date Range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: threat_classification
+      label: Threat Classification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_classification
+      label: Incident Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: threat_classification_source
+      label: Threat Classification Source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: threat_classification_notes
+      label: Threat Classification Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: threat_classification_ownership
+      label: Threat Classification Ownership
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: threat_classification_responsible_party
+      label: Threat Classification Responsible Party
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: threat_classification_confidence
+      label: Threat Classification Confidence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: threat_classification_confidence_level
+      label: Threat Classification Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 20
+      name: threat_classification_status
+      label: Threat Classification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

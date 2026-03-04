@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Operations Checklist
+    pages:
+    - id: 1
+      name: kitchen_equipment
+      label: Kitchen Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaned
+      - Available
+      - Not Available
+      required: false
+    - id: 2
+      name: cleaning_schedule
+      label: Cleaning Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: cleaning_supplies
+      label: Cleaning Supplies
+      hint: null
+      type: select_one
+      options:
+      - Sponges
+      - Mops
+      - Brushes
+      required: false
+    - id: 4
+      name: kitchen_tools
+      label: Kitchen Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Sharp
+      - Dull
+      - Other
+      required: false
+    - id: 5
+      name: cleaning_frequency
+      label: Cleaning Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: kitchen_staff
+      label: Kitchen Staff
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Team Member
+      required: false
+    - id: 7
+      name: cleaning_status
+      label: Cleaning Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: kitchen_operations_completed
+      label: Kitchen Operations Completed
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Opening
+      - Pre-Service
+      - Post-Service
+      - Pre-Closing
+      required: false
+    - id: 10
+      name: kitchen_operations_in_progress
+      label: Kitchen Operations In Progress
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Opening
+      - Pre-Service
+      - Post-Service
+      - Pre-Closing
+      required: false
+    - id: 11
+      name: kitchen_operations_not_completed
+      label: Kitchen Operations Not Completed
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Opening
+      - Pre-Service
+      - Post-Service
+      - Pre-Closing
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: closed_status
+      label: Closed Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: kitchen_operations_status
+      label: Kitchen Operations Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaned
+      - Available
+      - Not Available
+      required: false
+    - id: 20
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaned
+      - Available
+      - Not Available
+      required: false
+    - id: 21
+      name: tool_count
+      label: Tool Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: equipment_count
+      label: Equipment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tool_condition
+      label: Tool Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 25
+      name: tool_maintenance_required
+      label: Tool Maintenance Required
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

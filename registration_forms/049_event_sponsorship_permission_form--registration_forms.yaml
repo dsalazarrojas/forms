@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Sponsorship Permission Form
+    pages:
+    - id: 1
+      name: event_sponsor_name
+      label: event_sponsor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_sponsor_email
+      label: event_sponsor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: event_sponsor_phone
+      label: event_sponsor_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_sponsorship_permission
+      label: event_sponsorship_permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: event_sponsorship_agreement
+      label: event_sponsorship_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Terms and Conditions
+      - Agreement
+      - Waiver
+      required: true
+    - id: 6
+      name: event_sponsorship_details
+      label: event_sponsorship_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_sponsorship_additional_details
+      label: event_sponsorship_additional_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_sponsorship_permission_date
+      label: event_sponsorship_permission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_sponsorship_permission_time
+      label: event_sponsorship_permission_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_sponsorship_permission_duration
+      label: event_sponsorship_permission_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: event_sponsorship_permission_notes
+      label: event_sponsorship_permission_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_sponsorship_permission_agreement_date
+      label: event_sponsorship_permission_agreement_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: event_sponsorship_permission_agreement_time
+      label: event_sponsorship_permission_agreement_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: event_sponsorship_permission_expires
+      label: event_sponsorship_permission_expires
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Verification Issue Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: User Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: problem_context
+      label: Context
+      hint: Provide details about the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: screenshot_url
+      label: Screenshot URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: steps_to_reproduce
+      label: Steps to Reproduce
+      hint: Describe the steps you took to get to the issue
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: Additional Info
+      hint: Additional information prophets you think is useful
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reporting_technology
+      label: Reporting Technology
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: report_form_version
+      label: Report Form Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

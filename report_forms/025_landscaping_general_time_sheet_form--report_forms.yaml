@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscaping General Time Sheet Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_code
+      label: job_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Landscaping
+      - Yard Cleaning
+      - Lawn Mowing
+      - Snow Removal
+      required: false
+    - id: 5
+      name: date_worked
+      label: Date Worked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wage
+      label: Wage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

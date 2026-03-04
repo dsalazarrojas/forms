@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Room Rental Application Form
+    pages:
+    - id: 1
+      name: rental_application_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_application_form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_application_form_3
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rental_application_form_4
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_application_form_5
+      label: desired_move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rental_application_form_6
+      label: rental_agreement_length
+      hint: null
+      type: select_one
+      options:
+      - '6'
+      - '12'
+      - '18'
+      required: false
+    - id: 7
+      name: rental_application_form_7
+      label: available_move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rental_application_form_8
+      label: available_move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false

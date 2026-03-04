@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Commissioning Report Form
+    pages:
+    - id: 1
+      name: field_commissioning_report_form
+      label: field_commissioning_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: field_commissioning_report_form_output
+      label: field_commissioning_report_form_output
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: process_measurement
+      label: process_measurement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: commissioning_data
+      label: commissioning_data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

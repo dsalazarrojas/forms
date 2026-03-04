@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workmanship Warranty Submission
+    pages:
+    - id: 1
+      name: warranty_claimant
+      label: Warranty Claimant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: warranty_date
+      label: Warranty Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: warranty_period
+      label: Warranty Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: warranty_status
+      label: Warranty Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: true
+    - id: 8
+      name: work_order_number
+      label: Work Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workmanship_description
+      label: Workmanship Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: workmanship_images
+      label: Workmanship Images
+      hint: null
+      type: select_multiple
+      options:
+      - Photo 1
+      - Photo 2
+      - Photo 3
+      required: true
+    - id: 11
+      name: workmanship_comments
+      label: Workmanship Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: workmanship_attachment
+      label: Workmanship Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

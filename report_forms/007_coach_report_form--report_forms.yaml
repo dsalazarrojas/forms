@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coach Report Form
+    pages:
+      - id: 1
+        name: section_session
+        label: -- Session Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: athlete_client_name
+        label: Athlete or Client Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_session
+        label: Date of Session
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: coach_name
+        label: Coach Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: training_type
+        label: Type of Training
+        hint: null
+        type: select_one
+        options: [Individual, Group, Tactical, Strength and Conditioning, Skill Specific]
+        required: true
+      - id: 6
+        name: section_metrics
+        label: -- Performance Metrics --
+        hint: Rate performance for this specific session
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: physical_performance
+        label: Physical Performance
+        hint: Energy levels and physical execution
+        type: select_one
+        options: [Below Avg, Avg, Above Avg, Exceptional]
+        required: true
+      - id: 8
+        name: technical_skill_progress
+        label: Technical Skill Progress
+        hint: Mastering new techniques or drills
+        type: select_one
+        options: [Below Avg, Avg, Above Avg, Exceptional]
+        required: true
+      - id: 9
+        name: mental_focus
+        label: Mental Focus and Attitude
+        hint: Concentration and willingness to learn
+        type: select_one
+        options: [Below Avg, Avg, Above Avg, Exceptional]
+        required: true
+      - id: 10
+        name: session_achievements
+        label: Key Achievements this Session
+        hint: What went particularly well?
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: areas_needing_improvement
+        label: Areas Needing Improvement
+        hint: What needs more work?
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: goal_for_next
+        label: Goal for Next Session
+        hint: Specific objective for the next meeting
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: coach_signature
+        label: Coach Signature
+        hint: Type your name to sign
+        type: text
+        options: []
+        required: true

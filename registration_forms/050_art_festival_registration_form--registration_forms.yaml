@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Festival Registration Form
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city_state_zip
+      label: City, State and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_festival
+      label: -- Festival Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: festival_name
+      label: Art Festival Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: festival_dates
+      label: Festival Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_participation
+      label: -- Participation Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participation_type
+      label: Type of Participation
+      hint: null
+      type: select_one
+      options:
+      - Artist exhibitor
+      - Vendor or crafter
+      - Workshop facilitator
+      - Volunteer
+      - Attendee
+      required: true
+    - id: 13
+      name: booth_size
+      label: Booth or Space Size Needed
+      hint: If artist or vendor
+      type: select_one
+      options:
+      - Small - 10x10
+      - Medium - 10x20
+      - Large - 20x20
+      - Custom size
+      - Not applicable
+      required: false
+    - id: 14
+      name: section_artwork
+      label: -- Artwork or Services Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: artwork_description
+      label: Description of Work or Services
+      hint: What will you be displaying or offering
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: primary_medium
+      label: Primary Medium or Category
+      hint: Painting, jewelry, pottery, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_fees
+      label: -- Registration Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: fee_amount
+      label: Registration Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Cash
+      - PayPal
+      - Bank transfer
+      - Other
+      required: true
+    - id: 20
+      name: section_requirements
+      label: -- Requirements and Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: electricity_needed
+      label: Do You Need Electricity
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: setup_requirements
+      label: Special Setup Requirements or Needs
+      hint: Tables, shelving, lighting, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_agreement
+      label: -- Terms and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I agree to festival rules and terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 25
+      name: cancellation_policy
+      label: I understand the cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true

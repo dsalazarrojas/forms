@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: safety_stock_request_form
+    pages:
+    - id: 1
+      name: safety_stock_request_form_page_1
+      label: safety_stock_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_selection
+      label: select_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: item_type
+      label: select_item_type
+      hint: null
+      type: select_one
+      options:
+      - item_type_1
+      - item_type_2
+      - item_type_3
+      required: false
+    - id: 4
+      name: item_quantity
+      label: enter_item_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: safety_stock_level
+      label: safety_stock_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_needed
+      label: date_needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: requestor_info
+      label: requestor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requestor_job_title
+      label: requestor_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requestor_contact
+      label: requestor_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: requestor_department
+      label: requestor_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: requestor_supervisor
+      label: requestor_supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_info
+      label: supervisor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_job_title
+      label: supervisor_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_contact
+      label: supervisor_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_phone
+      label: supervisor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: requestor_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: text
+      options: []
+      required: false

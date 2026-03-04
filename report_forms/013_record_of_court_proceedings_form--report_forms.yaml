@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: record_of_court_proceedings_form
+    pages:
+    - id: 1
+      name: court_date
+      label: Court Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: case_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: court_number
+      label: court_number
+      hint: null
+      type: number
+      options: []
+      required: false

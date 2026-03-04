@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Request Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student and Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter your full legal name as recorded in medical school
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_number
+      label: Student ID Number
+      hint: Your medical school identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_email_address
+      label: Current Email Address
+      hint: For request updates and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number_contact
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_education_details
+      label: -- Medical Education Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: name_of_medical_school
+      label: Name of Medical School
+      hint: Enter the full name of your institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: year_of_graduation
+      label: Year of Graduation
+      hint: Or expected year of graduation
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: medical_degree_type
+      label: Degree Type
+      hint: Select the degree you are pursuing or have earned
+      type: select_one
+      options:
+      - Doctor of Medicine (MD)
+      - Doctor of Osteopathic Medicine (DO)
+      - Bachelor of Medicine, Bachelor of Surgery (MBBS)
+      - Other Professional Degree
+      required: true
+    - id: 10
+      name: enrollment_status_current
+      label: Current Enrollment Status
+      hint: Select your current status at the medical school
+      type: select_one
+      options:
+      - Currently Enrolled - Active
+      - On Leave of Absence
+      - Graduated
+      - Withdrawn
+      required: true
+    - id: 11
+      name: section_certification_request
+      label: -- Certification Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: type_of_certification_needed
+      label: Type of Certification Needed
+      hint: Select what needs to be certified
+      type: select_one
+      options:
+      - Verification of Enrollment
+      - Verification of Degree
+      - Clinical Rotations Verification
+      - Good Standing Certificate
+      - Dean's Letter
+      - Other
+      required: true
+    - id: 13
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why is this certification being requested?
+      type: select_one
+      options:
+      - Residency Application
+      - State Licensing Board
+      - Professional Liability Insurance
+      - Employment Verification
+      - Scholarship Application
+      - Other
+      required: true
+    - id: 14
+      name: section_delivery_info
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: organization_recipient_name
+      label: Receiving Organization Name
+      hint: Name of the organization that will receive the certification
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recipient_mailing_address
+      label: Recipient Mailing Address
+      hint: Full address where the document should be sent
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recipient_email_digital_delivery
+      label: Recipient Email for Digital Delivery
+      hint: Only if the organization accepts electronic certification
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: delivery_method_preference
+      label: Delivery Method Preference
+      hint: Select how you want the document delivered
+      type: select_one
+      options:
+      - Electronic Secure Upload
+      - Regular USPS Mail
+      - Express Courier (Additional Fee)
+      - Personal Pickup
+      required: true
+    - id: 19
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: student_consent_authorization
+      label: Consent to Release Information
+      hint: I authorize the medical school to release my educational records to the
+        specified recipient
+      type: select_one
+      options:
+      - I Consent and Authorize
+      - Other
+      required: true
+    - id: 21
+      name: date_of_request_submission
+      label: Request Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments_request
+      label: Additional Comments or Instructions
+      hint: Any special details for the registrar's office
+      type: text
+      options: []
+      required: false

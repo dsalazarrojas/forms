@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_report_hard_inquiry_dispute_request
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Credit Report Forms
+      - Other
+      - Request Forms
+      - Credit Report Forms
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_upload
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: authorizer
+      label: Authorizer
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Other
+      required: false
+    - id: 7
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 8
+      name: document_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: document_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: routing_choice
+      label: Routing Choice
+      hint: null
+      type: select_multiple
+      options:
+      - Routing to C1
+      - Routing to C2
+      - Routing to C3
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

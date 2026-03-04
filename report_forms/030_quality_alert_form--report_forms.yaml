@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Alert Form
+    pages:
+    - id: 1
+      name: quality_alert_form
+      label: report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_report_form
+      label: incident_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quality_issue_form
+      label: quality_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_id
+      label: incident_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quality_issue_type
+      label: quality_issue_type
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: quality_issue_category
+      label: quality_issue_category
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 11
+      name: report_status
+      label: report_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: what_if_scenario_analysis_form
+    pages:
+    - id: 1
+      name: scenario_name
+      label: Scenario Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: Describe the scenario in detail
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risks_and_mitigation
+      label: Risks and Mitigation Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: risks
+      label: Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: mitigation_steps
+      label: Mitigation Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: impact_description
+      label: Impact Description
+      hint: Describe the impact of the scenario
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: impact_severity
+      label: Impact Severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: impact_value
+      label: Impact Value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: impact_frequency
+      label: Impact Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

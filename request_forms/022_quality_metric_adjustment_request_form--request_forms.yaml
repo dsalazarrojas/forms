@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Metric Adjustment Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: metric_change
+      label: Metric Change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: new_metric_value
+      label: New Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_change
+      label: Date of Change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chat Jimmy''}'
+      - '{''value'': ''Another Option''}'
+      required: true
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''approved''}'
+      - '{''value'': ''declined''}'
+      - '{''value'': ''closed''}'
+      required: true
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chat Jimmy''}'
+      - '{''value'': ''Another User''}'
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Support''}'
+      required: true
+    - id: 13
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Support''}'
+      required: true
+    - id: 14
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''approved''}'
+      - '{''value'': ''declined''}'
+      - '{''value'': ''pending''}'
+      required: true
+    - id: 17
+      name: review_by
+      label: Review By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chat Jimmy''}'
+      - '{''value'': ''Another User''}'
+      required: true
+    - id: 18
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: metric
+      label: Metric
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Support''}'
+      required: true
+    - id: 22
+      name: old_metric_value
+      label: Old Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: new_metric_value
+      label: New Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: change_type
+      label: Change Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''increase''}'
+      - '{''value'': ''decrease''}'
+      - '{''value'': ''no change''}'
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

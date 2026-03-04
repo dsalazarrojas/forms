@@ -1,0 +1,419 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation System Status Report Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automation System Status Report
+      hint: Report on automation system health
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_info
+      label: Report Information
+      hint: Basic report details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: report_time
+      label: Report Time
+      hint: Time of report
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: report_type
+      label: Report Type
+      hint: What type
+      type: select_one
+      options:
+      - Daily Status
+      - Weekly Summary
+      - Monthly Report
+      - Incident Report
+      - Maintenance Report
+      - Performance Report
+      - Other
+      required: true
+    - id: 6
+      name: reporting_period
+      label: Reporting Period
+      hint: Time covered
+      type: select_one
+      options:
+      - Last 24 Hours
+      - Last 7 Days
+      - Last 30 Days
+      - Custom Range
+      required: false
+    - id: 7
+      name: period_start
+      label: Period Start
+      hint: Start date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: period_end
+      label: Period End
+      hint: End date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: system_info
+      label: System Information
+      hint: Which system
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: system_name
+      label: System Name
+      hint: Name of system
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: system_id
+      label: System ID
+      hint: Identifier
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: system_location
+      label: System Location
+      hint: Where located
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: system_type
+      label: System Type
+      hint: What type
+      type: select_one
+      options:
+      - Robotic System
+      - Control System
+      - Manufacturing Line
+      - Process Automation
+      - Building Automation
+      - IT Automation
+      - Other
+      required: true
+    - id: 14
+      name: reporter_info
+      label: Reporter Information
+      hint: Who is reporting
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - IT
+      - Operations
+      - Engineering
+      - Maintenance
+      - Quality
+      - Management
+      - Other
+      required: true
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: system_status
+      label: System Status
+      hint: Current status
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: overall_status
+      label: Overall System Status
+      hint: Current state
+      type: select_one
+      options:
+      - Fully Operational
+      - Operational with Minor Issues
+      - Degraded Performance
+      - Partial Outage
+      - Complete Outage
+      - Under Maintenance
+      required: true
+    - id: 22
+      name: uptime_percentage
+      label: Uptime Percentage
+      hint: During period
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: availability
+      label: System Availability
+      hint: Availability status
+      type: select_one
+      options:
+      - 100 percent
+      - 99-100 percent
+      - 95-99 percent
+      - 90-95 percent
+      - Below 90 percent
+      required: true
+    - id: 24
+      name: performance_rating
+      label: Performance Rating
+      hint: How is performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 25
+      name: incidents
+      label: Incidents
+      hint: Any incidents
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: incidents_occurred
+      label: Incidents Occurred
+      hint: Any incidents
+      type: select_one
+      options:
+      - None
+      - 1
+      - 2-5
+      - 6-10
+      - Over 10
+      required: true
+    - id: 27
+      name: incident_details
+      label: Incident Details
+      hint: Describe incidents
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: incident_severity
+      label: Incident Severity
+      hint: Highest severity
+      type: select_one
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: false
+    - id: 29
+      name: downtime_duration
+      label: Total Downtime Duration
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: root_cause
+      label: Root Cause
+      hint: If known
+      type: select_one
+      options:
+      - Hardware Failure
+      - Software Bug
+      - Network Issue
+      - Human Error
+      - Power Issue
+      - Environmental
+      - Unknown
+      - Other
+      required: false
+    - id: 31
+      name: maintenance
+      label: Maintenance
+      hint: Maintenance activities
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: maintenance_performed
+      label: Maintenance Performed
+      hint: Was maintenance done
+      type: select_one
+      options:
+      - None
+      - Preventive
+      - Corrective
+      - Emergency
+      - Scheduled
+      required: true
+    - id: 33
+      name: maintenance_description
+      label: Maintenance Description
+      hint: What was done
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: next_maintenance
+      label: Next Scheduled Maintenance
+      hint: When
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: parts_replaced
+      label: Parts Replaced
+      hint: List parts
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: metrics
+      label: Performance Metrics
+      hint: Key metrics
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: throughput
+      label: Throughput
+      hint: Units per hour
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: error_rate
+      label: Error Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: cycle_time
+      label: Average Cycle Time
+      hint: In seconds
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: quality_rate
+      label: Quality Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: alerts
+      label: Alerts and Warnings
+      hint: Any alerts
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: active_alerts
+      label: Active Alerts
+      hint: Number
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: alert_details
+      label: Alert Details
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: action_items
+      label: Action Items
+      hint: What needs to be done
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: priority_actions
+      label: Priority Actions
+      hint: Urgent items
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: attachments
+      label: Attachments
+      hint: Logs or screenshots
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: reporter_signature
+      label: Reporter Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: report_submission_date
+      label: Report Submission Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

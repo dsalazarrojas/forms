@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Duty Manager Daily Checklist
+    pages:
+    - id: 1
+      name: daily_checklist
+      label: Daily Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: check_lists
+      label: Check Lists
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: task_details
+      label: Task Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: completed_tasks
+      label: Completed Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: task_notes
+      label: Task Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: task_assignee
+      label: Task Assignee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

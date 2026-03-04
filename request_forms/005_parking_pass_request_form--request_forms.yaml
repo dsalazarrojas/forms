@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Pass Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driver_details
+      label: driver_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parking_pass_details
+      label: parking_pass_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parking_location
+      label: parking_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: parking_dates
+      label: parking_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: parking_time
+      label: parking_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: parking_duration
+      label: parking_duration
+      hint: null
+      type: number
+      options: []
+      required: false

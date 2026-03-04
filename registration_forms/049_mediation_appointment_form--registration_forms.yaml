@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: mediation-appointment-form
+    pages:
+    - id: 1
+      name: mediation_appointment
+      label: mediation-appointment-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: mediation_type
+      label: mediation-type
+      hint: Please select one of the following options
+      type: select_one
+      options:
+      - Mediation
+      - Arbitration
+      - Mediation/Arbitration
+      required: false
+    - id: 5
+      name: preferred_time
+      label: preferred-time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 6
+      name: session_length
+      label: session-length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: contact-details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: preferred_date
+      label: preferred-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: preferred_time
+      label: preferred-time
+      hint: null
+      type: time
+      options: []
+      required: false

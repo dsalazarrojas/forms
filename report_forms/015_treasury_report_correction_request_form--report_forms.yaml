@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Report Correction Request Form
+    pages:
+    - id: 1
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Incorrect Report
+      - Missing Report
+      - Other
+      required: false
+    - id: 2
+      name: reason_for_correction
+      label: Reason for correction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: Report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: report_number
+      label: Report Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: corrected_report_date
+      label: Corrected report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: corrected_report_number
+      label: Corrected report number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: email
+      options: []
+      required: false

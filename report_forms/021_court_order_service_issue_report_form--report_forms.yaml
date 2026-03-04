@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Court Order Service Issue Report Form
+    pages:
+    - id: 1
+      name: court_order_service_issue_report_form_1
+      label: Service Attempts
+      hint: null
+      type: select_multiple
+      options:
+      - Attempt 1
+      - Attempt 2
+      - Attempt 3
+      - Attempt 4
+      - Attempt 5
+      required: false
+    - id: 2
+      name: court_order_service_issue_report_form_2
+      label: Number of Attempts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: court_order_service_issue_report_form_3
+      label: Number of Issues
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: court_order_service_issue_report_form_4
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false

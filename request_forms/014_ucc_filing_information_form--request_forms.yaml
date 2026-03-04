@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: UCC Filing Information Form
+    pages:
+    - id: 1
+      name: ucc_filing_details
+      label: Ucc Filing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filer_name
+      label: Filer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ucc_filing_type
+      label: Ucc Filing Type
+      hint: null
+      type: select_one
+      options:
+      - UCC1B
+      - UCC3
+      - UCC5
+      required: false
+    - id: 4
+      name: ucc_filing_number
+      label: Ucc Filing Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: filing_date
+      label: Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: filing_time
+      label: Filing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: filer_address
+      label: Filer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorized_person_name
+      label: Authorized Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorized_person_title
+      label: Authorized Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: authorized_person_relationship
+      label: Authorized Person Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorized_person_phone
+      label: Authorized Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorized_person_email
+      label: Authorized Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: authorized_person_address
+      label: Authorized Person Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ucc_filing_status
+      label: Ucc Filing Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_relationship
+      label: Submitter Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Review
+      - Pending Review
+      - Approved
+      - Rejected
+      required: false

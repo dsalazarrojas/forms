@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreman Report Form
+    pages:
+    - id: 1
+      name: foreman_name
+      label: Foreman Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shift_hours_worked
+      label: shift_hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: foreman_signature
+      label: foreman_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_manager_comments
+      label: project_manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_comments
+      label: supervisor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shift_leader_comments
+      label: shift_leader_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contractor_comments
+      label: contractor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false

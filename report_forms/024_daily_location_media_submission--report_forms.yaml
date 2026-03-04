@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Location Media Submission
+    pages:
+    - id: 1
+      name: daily_location_media_submission_form
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Photo''}'
+      - '{''id'': 2, ''name'': ''Video''}'
+      - '{''id'': 3, ''name'': ''Observation''}'
+      - '{''id'': 4, ''name'': ''Audio''}'
+      - '{''id'': 5, ''name'': ''File''}'
+      required: false
+    - id: 3
+      name: location_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: location_lat
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: location_long
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: media_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: media_file
+      label: Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

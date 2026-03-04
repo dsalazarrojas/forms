@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Violence Prevention Awareness Survey
+    pages:
+    - id: 1
+      name: gender_violence_survey
+      label: gender_violence_survey
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary/other
+      - Prefer not to answer
+      required: true
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: experience_of_violence
+      label: experience_of_violence
+      hint: null
+      type: select_multiple
+      options:
+      - Physical Violence
+      - Emotional or Verbal Abuse
+      - Financial Abuse
+      - Sexual Abuse
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: relationship_status
+      label: relationship_status
+      hint: null
+      type: select_multiple
+      options:
+      - Partner/Spouse
+      - Family Member
+      - Friend
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: frequency_of_violence
+      label: frequency_of_violence
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Daily
+      required: true
+    - id: 6
+      name: help_seek
+      label: help_seek
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 7
+      name: reported
+      label: reported
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - To someone else
+      - Other (please specify)
+      required: true
+    - id: 8
+      name: support_system
+      label: support_system
+      hint: null
+      type: select_multiple
+      options:
+      - Police/Family/Friends
+      - Hotline/Website/Online Support Groups
+      - School/Workplace
+      - Other (please specify)
+      required: true
+    - id: 9
+      name: help_seek_from
+      label: help_seek_from
+      hint: null
+      type: select_multiple
+      options:
+      - Police
+      - Family
+      - Friends
+      - Hotline/Website/Online Support
+      - School/Workplace
+      - Other (please specify)
+      required: true
+    - id: 10
+      name: help_received
+      label: help_received
+      hint: null
+      type: select_one
+      options:
+      - Yes, some help
+      - Yes, a lot of help
+      required: true
+    - id: 11
+      name: experience_self
+      label: experience_self
+      hint: null
+      type: select_one
+      options:
+      - Yes, sometimes
+      - Never
+      - No, never
+      required: true
+    - id: 12
+      name: self_reported
+      label: self_reported
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Army Training Schedule Form
+    pages:
+    - id: 1
+      name: section_training_info
+      label: -- Training Schedule Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: unit_name
+      label: Unit Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: training_month
+      label: Training Month and Year
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: commanding_officer
+      label: Commanding Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_coordinator
+      label: Training Coordinator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: coordinator_email
+      label: Coordinator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_training_focus
+      label: -- Training Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: training_type
+      label: Primary Training Focus
+      hint: null
+      type: select_one
+      options:
+      - Physical fitness
+      - Combat skills
+      - Technical skills
+      - Leadership development
+      - Medical training
+      - Weapons proficiency
+      - Tactical operations
+      - Mixed training
+      required: true
+    - id: 9
+      name: training_intensity
+      label: Training Intensity Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      - Intensive
+      required: true
+    - id: 10
+      name: section_week_1
+      label: -- Week 1 Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: monday_training
+      label: Monday Training Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tuesday_training
+      label: Tuesday Training Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: wednesday_training
+      label: Wednesday Training Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: thursday_training
+      label: Thursday Training Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: friday_training
+      label: Friday Training Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: weekend_activity
+      label: Weekend Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_week_2
+      label: -- Week 2 Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: week2_monday
+      label: Monday Training Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: week2_wednesday
+      label: Wednesday Training Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: week2_friday
+      label: Friday Training Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: section_resources
+      label: -- Resources and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: personnel_count
+      label: Number of Personnel in Training
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: instructors_needed
+      label: Number of Instructors Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: equipment_needed
+      label: Special Equipment or Facilities Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: budget_required
+      label: Estimated Budget Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: section_assessment
+      label: -- Assessment and Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: assessment_methods
+      label: Assessment or Evaluation Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Written test
+      - Physical test
+      - Practical evaluation
+      - Skill demonstration
+      - Performance review
+      required: false
+    - id: 28
+      name: evaluation_schedule
+      label: When will evaluation occur
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: completion_requirements
+      label: Requirements for Training Completion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_notes
+      label: Additional Notes or Special Considerations
+      hint: null
+      type: text
+      options: []
+      required: false

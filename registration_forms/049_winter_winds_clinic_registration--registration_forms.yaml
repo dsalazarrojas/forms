@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: winter_winds_clinic_registration
+    pages:
+    - id: 1
+      name: form_header
+      label: Registration form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instrument
+      label: instrument
+      hint: null
+      type: select_one
+      options:
+      - alto_saxophone
+      - alto_clarinet
+      - baritone_saxophone
+      - bass_clarinet
+      - bass_saxophone
+      - contrabass
+      - flute
+      - oboe
+      - soprano_saxophone
+      - tenor_saxophone
+      - tenor_tuba
+      - trombone
+      - trumpet
+      required: false
+    - id: 4
+      name: teacher_name
+      label: teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workshop_date
+      label: workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - I consent to participate in the workshop.
+      - I do not consent to participate in the workshop.
+      - None
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Event Protest Incident Report Form
+    pages:
+    - id: 1
+      name: protest_date
+      label: protest date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: protest_time
+      label: protest time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: incident type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_details
+      label: incident details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_photo_1
+      label: incident photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_video_1
+      label: incident videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_evidence_1
+      label: incident evidence files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_document_1
+      label: incident documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_names
+      label: witness names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_statements
+      label: witness statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: investigation_progress
+      label: investigation progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: incident_status
+      label: incident status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: incident_category
+      label: incident category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: incident_subcategory
+      label: incident subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: incident_tags
+      label: incident tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_comments
+      label: incident comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_notes
+      label: incident notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_organizer_name
+      label: incident organizer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_organizer_email
+      label: incident organizer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: incident_organizer_phone
+      label: incident organizer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_organizer_notes
+      label: incident organizer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_responder_name
+      label: incident responder name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_responder_email
+      label: incident responder email
+      hint: null
+      type: email
+      options: []
+      required: false

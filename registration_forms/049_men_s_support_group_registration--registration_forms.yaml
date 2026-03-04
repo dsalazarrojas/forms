@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mens_Support_Group_Registration
+    pages:
+    - id: 1
+      name: user_details
+      label: Registration Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: availability
+      label: What time are you available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent
+      label: prophets consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_details
+      label: participant details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_info
+      label: participant info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_info_2
+      label: participant info 2
+      hint: null
+      type: text
+      options: []
+      required: false

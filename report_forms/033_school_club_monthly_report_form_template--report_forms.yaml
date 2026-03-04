@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Club Monthly Report Form Template
+    pages:
+    - id: 1
+      name: form_header
+      label: Club and Advisors Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: school_code
+      label: School Code
+      hint: null
+      type: select_one
+      options:
+      - S001
+      - S002
+      - S003
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: advisor_name
+      label: Advisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: advisor_email
+      label: Advisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: advisor_phone
+      label: Advisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: club_email
+      label: Club Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: club_phone
+      label: Club Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_dates
+      label: Event Dates
+      hint: Enter dates in MM/DD format
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: total_members
+      label: Total Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: budget_ammount
+      label: Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: actual_budget
+      label: Actual Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Activity
+      - Event and Activity
+      required: false
+    - id: 16
+      name: club_type
+      label: Club Type
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Arts
+      - Culture
+      required: false
+    - id: 17
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: event_cost
+      label: Event Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: event_income
+      label: Event Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: event_profit
+      label: Event Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: club_activities
+      label: Club Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Arts
+      - Culture
+      required: false
+    - id: 24
+      name: club_events
+      label: Club Events
+      hint: null
+      type: select_multiple
+      options:
+      - Event
+      - Activity
+      - Event and Activity
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Review
+      required: false

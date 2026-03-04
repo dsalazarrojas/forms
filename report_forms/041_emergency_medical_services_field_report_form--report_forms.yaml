@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Medical Services Field Report Form
+    pages:
+    - id: 1
+      name: emergency_medical_services_field_report_form_1
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_name_other
+      label: Other Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Cardiac Arrest
+      - Stroke
+      - Trauma
+      required: true
+    - id: 9
+      name: injury_description
+      label: Injury Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Alive
+      - Deceased
+      required: true
+    - id: 11
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_name
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_department
+      label: Incident Reporter Department
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Brand Footage Release Form
+    pages:
+    - id: 1
+      name: model_release
+      label: Model Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: usage_agreement
+      label: Usage Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: This is where you can add additional project details.
+      type: select_one
+      options:
+      - '{''label'': ''Fashion Campaign''}'
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Brand Promotion''}'
+      required: true
+    - id: 4
+      name: usage_purposes
+      label: Usage Purposes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Campaign''}'
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Brand Promotion''}'
+      required: true
+    - id: 5
+      name: usage_duration
+      label: Usage Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: usage_exposure
+      label: Usage Exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: model_name
+      label: Model's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: model_agreement
+      label: Model's Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: image_description
+      label: Image Description
+      hint: null
+      type: text
+      options: []
+      required: false

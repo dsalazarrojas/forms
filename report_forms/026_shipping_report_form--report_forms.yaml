@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Report Form
+    pages:
+    - id: 1
+      name: shipping_report_form
+      label: shipping report form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: dispatch_date
+      label: dispatch date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: item_type
+      label: item type
+      hint: books, parcels, or craft items
+      type: select_one
+      options:
+      - books
+      - parcels
+      - craft items
+      required: false
+    - id: 5
+      name: item_weight
+      label: item weight
+      hint: in kilograms
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: package_size
+      label: package size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipping_method
+      label: shipping method
+      hint: null
+      type: select_multiple
+      options:
+      - ground
+      - air
+      required: false
+    - id: 8
+      name: customer_name
+      label: customer name
+      hint: optional
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: customer email
+      hint: if applicable
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: customer phone
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: item_count
+      label: item count
+      hint: count of items in package
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: submitted by
+      hint: user who submitted form
+      type: select_one
+      options:
+      - user 1
+      - user 2
+      required: false
+    - id: 14
+      name: submitted_time
+      label: submitted at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: item_received_date
+      label: item received date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: shipping_report_form_comments
+      label: shipping report form comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_report_form_additional_comments
+      label: shipping report form additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_report_form_remarks
+      label: shipping report form rems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_report_form_remarks_additional
+      label: shipping report form rems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_report_form_remark
+      label: shipping report form rem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_report_form_remarks_remark
+      label: shipping report form remr
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_report_form_remark_remark
+      label: shipping report form r
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipping_report_form_rems
+      label: shipping report form r
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipping_report_form_rems_rems
+      label: shipping report form
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Jury Duty Excuse Form
+    pages:
+    - id: 1
+      name: juror_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: juror_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_exclusion
+      label: Reason for Exclusion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: jury_duty_period
+      label: Jury Duty Period
+      hint: null
+      type: select_one
+      options:
+      - 1 - 2 weeks
+      - 2 - 4 weeks
+      - 4 - 6 weeks
+      - 6 - 8 weeks
+      - 8 - 12 weeks
+      required: true
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: juror_signature
+      label: Juror Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: juror_note
+      label: Juror Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employer_note
+      label: Employer Note
+      hint: null
+      type: text
+      options: []
+      required: false

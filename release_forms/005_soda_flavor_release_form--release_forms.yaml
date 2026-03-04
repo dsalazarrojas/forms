@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soda Flavor Release Form
+    pages:
+    - id: 1
+      name: release_form_name
+      label: release_form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flavor
+      label: flavors
+      hint: null
+      type: select_multiple
+      options:
+      - Vanilla
+      - Strawberry
+      - Blue Raspberry
+      - Lemon
+      - Green Apple
+      - Grape
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_permission
+      label: submission_permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 5
+      name: team_member
+      label: team_member
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 6
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_owner
+      label: form_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_leader
+      label: team_leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_members
+      label: team_members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: release_time
+      label: release_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: release_notes
+      label: release_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: release_status
+      label: release_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 16
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 17
+      name: team_status
+      label: team_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 18
+      name: release_form
+      label: release_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_member_email
+      label: team_member_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: release_form_email
+      label: release_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: submission_email
+      label: submission_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: release_phone
+      label: release_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_phone
+      label: team_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_phone
+      label: submission_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: team_comments
+      label: team_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feature Upgrade Test Report Form
+    pages:
+    - id: 1
+      name: test_report_form
+      label: Feature Upgrade Test Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: test_version
+      label: Test Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_outcome
+      label: Test Outcome
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Tested
+      required: false
+    - id: 4
+      name: test_outcome_other
+      label: Test Outcome Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upgrade_version
+      label: Upgrade Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: test_outcome_details
+      label: Test Outcome Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Bug
+      - Feature Request
+      - Security Vulnerability
+      required: false
+    - id: 8
+      name: test_issue_details
+      label: Test Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: test_environment
+      label: Test Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

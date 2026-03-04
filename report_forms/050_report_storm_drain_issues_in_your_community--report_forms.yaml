@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Storm Drain Issues In Your Community
+    pages:
+    - id: 1
+      name: report_storm_drain_issues_in_your_community_form
+      label: report_storm_drain_issues_in_your_community_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_upload
+      label: photo_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_multiple
+      options:
+      - storm drain
+      - street
+      - park
+      - other
+      required: false
+    - id: 6
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - photo1
+      - photo2
+      - photo3
+      required: false
+    - id: 8
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false

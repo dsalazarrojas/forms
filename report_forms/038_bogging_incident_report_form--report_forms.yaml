@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bogging Incident Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_time
+      label: Time of Report
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_title
+      label: Reporter Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_date
+      label: Date of Incident
+      hint: When did the bogging occur
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Light Truck
+      - Heavy Truck
+      - Motorbike
+      - ATV
+      - Equipment Vehicle
+      - Other
+      required: true
+    - id: 8
+      name: vehicle_registration
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: driver_contact
+      label: Driver Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_location
+      label: Location of Incident
+      hint: Address or description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location_coordinates
+      label: GPS Coordinates if Available
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: road_conditions
+      label: Road Conditions
+      hint: null
+      type: select_one
+      options:
+      - Sealed Road
+      - Unsealed Road
+      - Dirt Track
+      - Muddy Conditions
+      - Wet Conditions
+      - Flooded Area
+      - Soft Ground
+      - Other
+      required: true
+    - id: 14
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Clear
+      - Rainy
+      - Muddy
+      - Wet
+      - Windy
+      - Foggy
+      - Hot
+      - Cold
+      required: true
+    - id: 15
+      name: vehicle_speed
+      label: Estimated Speed When Bogged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: bogging_depth
+      label: Depth Vehicle Was Bogged
+      hint: Inches or centimeters
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: bogging_cause
+      label: Apparent Cause of Bogging
+      hint: null
+      type: select_one
+      options:
+      - Soft Ground
+      - Mud
+      - Water
+      - Sand
+      - Snow or Ice
+      - Rut or Hole
+      - Equipment Failure
+      - Driver Error
+      - Unknown
+      - Other
+      required: true
+    - id: 18
+      name: cause_description
+      label: Detailed Description of Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: damage_assessment
+      label: Vehicle Damage Assessment
+      hint: null
+      type: select_one
+      options:
+      - No Damage
+      - Minor Damage
+      - Moderate Damage
+      - Severe Damage
+      - Total Loss
+      required: true
+    - id: 20
+      name: damage_description
+      label: Description of Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rescue_assistance_needed
+      label: Rescue Assistance Required
+      hint: null
+      type: select_one
+      options:
+      - Yes - Professional Recovery
+      - Yes - Other Vehicles Helped
+      - No - Self Recovered
+      - Yes - Pending Assistance
+      required: true
+    - id: 22
+      name: recovery_method
+      label: Recovery Method Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recovery_cost
+      label: Estimated Recovery Cost
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: injuries_reported
+      label: Any Injuries Reported
+      hint: null
+      type: select_one
+      options:
+      - No Injuries
+      - Minor Injuries
+      - Serious Injuries
+      - Fatalities
+      required: true
+    - id: 25
+      name: incident_description
+      label: Detailed Incident Description
+      hint: What happened and how
+      type: text
+      options: []
+      required: true

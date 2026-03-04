@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toy Collection Release Form
+    pages:
+    - id: 1
+      name: release_form
+      label: What is the name of the toy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_group
+      label: What group is the toy in?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Donors''}'
+      - '{''value'': ''Collectors''}'
+      - '{''value'': ''Clubs''}'
+      - '{''value'': ''Community Groups''}'
+      required: false
+    - id: 3
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: release_reason
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: collector_phone
+      label: Collector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: collector_group
+      label: Collector Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Donors''}'
+      - '{''value'': ''Collectors''}'
+      - '{''value'': ''Clubs''}'
+      - '{''value'': ''Community Groups''}'
+      required: false

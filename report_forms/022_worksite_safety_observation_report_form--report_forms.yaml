@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worksite Safety Observation Report Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazard_information
+      label: Hazard Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: observation_details
+      label: Observation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_recommendations
+      label: Safety Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hazard_identification
+      label: Hazard Identification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Hazard'': ''None''}'
+      - '{''Hazard'': ''Fall Hazard''}'
+      - '{''Hazard'': ''Slip Hazard''}'
+      - '{''Hazard'': ''Trip Hazard''}'
+      - '{''Hazard'': ''Other (Specify)''}'
+      required: false

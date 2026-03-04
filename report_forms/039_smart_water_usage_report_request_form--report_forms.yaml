@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Water Usage Report Request Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Address of the property for which the report is requested
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_period
+      label: Report Period
+      hint: Select a date range for the report
+      type: select_one
+      options:
+      - '{''label'': ''January 1 to January 31''}'
+      - '{''label'': ''February 1 to February 28''}'
+      - '{''label'': ''March 1 to March 31''}'
+      - '{''label'': ''April 1 to April 31''}'
+      required: false
+    - id: 4
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: report_requester_name
+      label: Report Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: report_requester_phone
+      label: Report Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_requester_note
+      label: Report Requester Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: report_requester_company
+      label: Report Requester Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_requester_designation
+      label: Report Requester Designation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Homeowner''}'
+      - '{''label'': ''Landlord''}'
+      - '{''label'': ''Utility Representative''}'
+      required: false
+    - id: 10
+      name: report_requester_phone
+      label: Report Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: report_requester_email
+      label: Report Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false

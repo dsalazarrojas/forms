@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Climate Policy Understanding Survey
+    pages:
+    - id: 1
+      name: survey_participant_information
+      label: Survey Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''0''}'
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      - '{''value'': ''4''}'
+      - '{''value'': ''5''}'
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Male''}'
+      - '{''value'': 2, ''label'': ''Female''}'
+      - '{''value'': 3, ''label'': ''Other''}'
+      - '{''value'': 4, ''label'': ''Non-binary''}'
+      required: false
+    - id: 5
+      name: climate_change_concerns
+      label: climate change concerns
+      hint: What do you think is the most important issue that the world should be
+        focusing on right now?
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Climate change and global warming''}'
+      - '{''value'': 2, ''label'': ''Economic inequality and poverty''}'
+      - '{''value'': 3, ''label'': ''Racial and social injustice''}'
+      - '{''value'': 4, ''label'': ''War and conflict''}'
+      - '{''value'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: policy_priority
+      label: What should be the policy priorities for our country?
+      hint: Please select one or multiple options.
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Reducing greenhouse gas emissions''}'
+      - '{''value'': 2, ''label'': ''Creating more jobs and opportunities for young
+        people''}'
+      - '{''value'': 3, ''label'': ''Improving public transportation and urban planning''}'
+      - '{''value'': 4, ''label'': ''Protecting and conserving natural spaces''}'
+      - '{''value'': 5, ''label'': ''Increasing public awareness''}'
+      required: false
+    - id: 7
+      name: government_response
+      label: What should be the response from the government to climate change?
+      hint: Select all the options that apply to you.
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Reduce greenhouse gas emissions''}'
+      - '{''value'': 2, ''label'': ''Create more jobs and opportunities''}'
+      - '{''value'': 3, ''label'': ''Improve public transportation and urban planning''}'
+      - '{''value'': 4, ''label'': ''Protect natural spaces''}'
+      - '{''value'': 5, ''label'': ''Increase public awareness and education''}'
+      - '{''value'': 6, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: policy_recommendation
+      label: What do you think would be the best way to address climate change?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: survey_conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Lease Addendum Consent Form
+    pages:
+    - id: 1
+      name: tenant_consent
+      label: Tenant Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: landlord_consent
+      label: Landlord Consent
+      hint: Enter landlord name and signature
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sustainability_commitments
+      label: Sustainability Commitments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: landlord_contact
+      label: Landlord Contact
+      hint: Enter landlord email or phone number
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: tenant_contact
+      label: Tenant Contact
+      hint: Enter tenant contact information
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sustainability_commitments_description
+      label: Sustainability Commitments Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tenant_signature_note
+      label: Tenant Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: landlord_signature_note
+      label: Landlord Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: form_completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_modified_date
+      label: Modified Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: form_completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false

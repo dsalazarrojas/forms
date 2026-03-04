@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Damage Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Info
+      hint: Provide property information.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: damage_description
+      label: Damage Description
+      hint: Provide a detailed description of the damage.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_damage_report_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: property_damage_report_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: property_damage_report_form_location
+      label: Location
+      hint: Provide location of the property.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_damage_report_form_contact_info
+      label: Contact Info
+      hint: Provide contact information.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_damage_report_form_insurance_company
+      label: Insurance Company
+      hint: Provide insurance company name.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_damage_report_form_agent
+      label: Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: property_damage_report_form_policy_number
+      label: Policy Number
+      hint: Provide policy number.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Reimbursement Request Form
+    pages:
+    - id: 1
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Business'', ''value'': ''Business''}'
+      - '{''name'': ''Personal'', ''value'': ''Personal''}'
+      - '{''name'': ''Vacation'', ''value'': ''Vacation''}'
+      - '{''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: travel_receipts
+      label: Travel Receipts
+      hint: null
+      type: text
+      options: []
+      required: false

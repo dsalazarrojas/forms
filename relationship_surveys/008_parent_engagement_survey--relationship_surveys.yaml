@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Engagement Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_subtitle
+      label: survey_sub_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: How involved do parents feel in their child's education?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Involved
+      - Somewhat Involved
+      - Not Very Involved
+      - Not at All Involved
+      - No Response
+      required: false
+    - id: 4
+      name: question_2
+      label: How many hours do you spend per week on educational activities with your
+        child?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_3
+      label: What is your preferred method of communication with teachers?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - In Person
+      - No Response
+      required: false
+    - id: 6
+      name: question_4
+      label: How often do you read to your child?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a Week
+      - Sometimes
+      - Rarely
+      - No Response
+      required: false
+    - id: 7
+      name: question_5
+      label: When do you usually read to your child?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_6
+      label: How do you usually read to your child?
+      hint: null
+      type: select_one
+      options:
+      - In the car
+      - At the dinner table
+      - In bed
+      - During a story time
+      - Other
+      required: false
+    - id: 9
+      name: question_7
+      label: Where do you usually read to your child?
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Library
+      - Bookstore
+      - Park
+      - Other
+      required: false
+    - id: 10
+      name: question_8
+      label: How do you usually listen to music with your child?
+      hint: null
+      type: select_one
+      options:
+      - At home
+      - In the car
+      - At school
+      - Other
+      required: false
+    - id: 11
+      name: question_9
+      label: How do you usually watch TV with your child?
+      hint: null
+      type: select_one
+      options:
+      - Together
+      - Separately
+      - Other
+      required: false
+    - id: 12
+      name: question_10
+      label: question_10
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Equity Advisory Support Request Form
+    pages:
+    - id: 1
+      name: school_or_district_name
+      label: School or District Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: question_or_issue
+      label: Question or Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requested_support
+      label: Requested Support
+      hint: null
+      type: select_multiple
+      options:
+      - Guidance
+      - Coaching
+      - Program Support
+      required: true
+    - id: 8
+      name: school_or_district_id
+      label: School or District ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

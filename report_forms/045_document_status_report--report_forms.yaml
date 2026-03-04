@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Status Report
+    pages:
+    - id: 1
+      name: document_status_report
+      label: Document Status Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner
+      label: owner
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      required: false
+    - id: 3
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: progress
+      label: Progress
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Done''}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: document_id
+      label: Document ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Type1''}'
+      - '{''value'': ''Type2''}'
+      - '{''value'': ''Type3''}'
+      required: false
+    - id: 9
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Done''}'
+      required: false
+    - id: 10
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: document_status_comments
+      label: Document Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: document_status_report_comments
+      label: Document Status Report Comments
+      hint: null
+      type: text
+      options: []
+      required: false

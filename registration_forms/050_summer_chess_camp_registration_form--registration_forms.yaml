@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Chess Camp Registration Form
+    pages:
+    - id: 1
+      name: first_page
+      label: summer_chess_camp_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: participant_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: participant_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone_number
+      label: emergency_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergy
+      label: participant_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_needs
+      label: participant_special_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - bank_transfer
+      - paypal
+      - credit_card
+      required: false
+    - id: 14
+      name: medical_release
+      label: participant_medical_release
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_payment
+      label: confirm_payment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

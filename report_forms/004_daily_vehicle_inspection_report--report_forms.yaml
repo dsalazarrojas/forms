@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Vehicle Inspection Report
+    pages:
+    - id: 1
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: engine_number
+      label: Engine Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_inspection
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: location_of_inspection
+      label: Location of Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

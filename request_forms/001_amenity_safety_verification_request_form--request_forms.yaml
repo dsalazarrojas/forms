@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amenity Safety Verification Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Name of person requesting the safety verification
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Requestor Email Address
+      hint: Email for follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Requestor Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization or facility
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amenity_type
+      label: Type of Amenity
+      hint: Select the type of amenity to verify
+      type: select_one
+      options:
+      - Playground Equipment
+      - Swimming Pool
+      - Fitness Center
+      - Sports Court
+      - Picnic Area
+      - Walking Trail
+      - Other
+      required: true
+    - id: 6
+      name: amenity_location
+      label: Amenity Location
+      hint: Specific location or address of the amenity
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: verification_type
+      label: Type of Verification Needed
+      hint: What safety check is required
+      type: select_one
+      options:
+      - Routine Safety Inspection
+      - Post-Incident Assessment
+      - Pre-Opening Verification
+      - Annual Compliance Check
+      - Emergency Safety Audit
+      required: true
+    - id: 8
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: When was the last safety inspection performed
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: safety_concerns
+      label: Known Safety Concerns
+      hint: Describe any known issues or concerns
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this verification request
+      type: select_one
+      options:
+      - Low - Routine Check
+      - Medium - Within 2 Weeks
+      - High - Within 1 Week
+      - Critical - Immediate Attention
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_verification_date
+      label: Preferred Verification Date
+      hint: When would you like the verification to occur
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: access_instructions
+      label: Site Access Instructions
+      hint: Special instructions for accessing the amenity
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_request
+      label: Submit Request
+      hint: By submitting you confirm the information is accurate
+      type: note
+      options: []
+      required: false

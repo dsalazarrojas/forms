@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Backline Equipment Request Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: performance_date
+      label: Performance or Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: venue_capacity
+      label: Venue Capacity or Stage Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: drums_requested
+      label: Drum Kit Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: drum_details
+      label: Drum Kit Specifications
+      hint: Size, configuration, cymbals
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: bass_amplifier
+      label: Bass Amplifier Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: bass_amp_details
+      label: Bass Amp Specifications
+      hint: Wattage, type, model
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guitar_amplifier
+      label: Guitar Amplifier Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: guitar_amp_details
+      label: Guitar Amp Specifications
+      hint: Wattage, type, model
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: keyboards_required
+      label: Keyboard or Piano Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: other_instruments
+      label: Other Instruments Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stage_setup
+      label: Stage Setup Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: technical_rider_attached
+      label: Technical Rider Attached or Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: power_requirements
+      label: Special Power Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Equipment Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

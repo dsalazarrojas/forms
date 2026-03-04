@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser Check In Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_field
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization_field
+      label: Organization
+      hint: Enter your organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone_field
+      label: Contact Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_field
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: role_field
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Attendee''}'
+      - '{''value'': ''Organizer''}'
+      - '{''value'': ''Speaker''}'
+      required: false
+    - id: 7
+      name: time_field
+      label: Time
+      hint: Enter event start time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_field
+      label: Date
+      hint: Enter event start date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: fundraiser_field
+      label: Fundraiser
+      hint: Enter your fundraiser name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_field
+      label: Event
+      hint: Enter your event name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes_field
+      label: Notes
+      hint: Add any notes about the event
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_category_field
+      label: Event Category
+      hint: Select an event category
+      type: select_multiple
+      options:
+      - '{''value'': ''Fundraiser''}'
+      - '{''value'': ''Event''}'
+      - '{''value'': ''Registration''}'
+      required: false
+    - id: 13
+      name: form_field
+      label: Form
+      hint: Select a form
+      type: select_one
+      options:
+      - '{''value'': ''Fundraiser''}'
+      - '{''value'': ''Event''}'
+      - '{''value'': ''Registration''}'
+      required: false
+    - id: 14
+      name: assigned_tool_field
+      label: Assigned Tool
+      hint: Select a tool
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''chatjimmy2''}'
+      - '{''value'': ''chatjimmy3''}'
+      required: false
+    - id: 15
+      name: form_id_field
+      label: Form ID
+      hint: Select a form ID
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: output_file_field
+      label: Output File
+      hint: Select an output file
+      type: select_one
+      options:
+      - '{''value'': ''050_fundraiser_check_in_form--registration_forms''}'
+      - '{''value'': ''050_fundraiser_check_in_form--forms''}'
+      - '{''value'': ''050_fundraiser_check_in_form--forms_2''}'
+      required: false
+    - id: 17
+      name: output_file_path_field
+      label: Output File Path
+      hint: Select an output file path
+      type: select_one
+      options:
+      - '{''value'': ''/path/to/output1''}'
+      - '{''value'': ''/path/to/output2''}'
+      - '{''value'': ''/path/to/output3''}'
+      required: false
+    - id: 18
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

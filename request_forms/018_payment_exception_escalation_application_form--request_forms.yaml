@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_exception_escalation_application_form
+    pages:
+    - id: 1
+      name: payment_exception_details
+      label: Payment Exception Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

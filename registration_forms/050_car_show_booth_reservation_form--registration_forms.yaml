@@ -1,0 +1,426 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Show Booth Reservation Form
+    pages:
+    - id: 1
+      name: exhibitor_information
+      label: Exhibitor Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For reservation communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_type
+      label: Company Type
+      hint: What type of business?
+      type: select_one
+      options:
+      - Individual exhibitor
+      - Dealership
+      - Restoration shop
+      - Parts vendor
+      - Service provider
+      - Car club
+      - Media/Press
+      - Other
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: booth_preferences
+      label: Booth Preferences
+      hint: Your booth requirements
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: booth_size
+      label: Booth Size
+      hint: What size do you need?
+      type: select_one
+      options:
+      - 10x10 ft - Standard
+      - 10x20 ft - Double
+      - 20x20 ft - Quad
+      - 20x30 ft - Large
+      - Custom size
+      required: true
+    - id: 14
+      name: booth_location_preference
+      label: Booth Location Preference
+      hint: Preferred location
+      type: select_one
+      options:
+      - Main entrance
+      - High traffic area
+      - Near food court
+      - Corner spot
+      - Indoor
+      - Outdoor
+      - No preference
+      required: true
+    - id: 15
+      name: booth_number_request
+      label: Booth Number Request
+      hint: If you have a preference
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_exhibitor
+      label: Previous Exhibitor
+      hint: Have you exhibited before?
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once
+      - No - first time
+      required: true
+    - id: 17
+      name: event_information
+      label: Event Information
+      hint: Which event?
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_name
+      label: Event Name
+      hint: Which car show?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: event_date
+      label: Event Date
+      hint: When is the show?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: setup_date
+      label: Setup Date
+      hint: When will you set up?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: teardown_date
+      label: Teardown Date
+      hint: When will you tear down?
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: display_information
+      label: Display Information
+      hint: What will you display?
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: display_type
+      label: Display Type
+      hint: What will you showcase?
+      type: select_one
+      options:
+      - Classic cars
+      - Custom cars
+      - Muscle cars
+      - Exotic cars
+      - Motorcycles
+      - Parts and accessories
+      - Services
+      - Memorabilia
+      - Other
+      required: true
+    - id: 24
+      name: number_of_vehicles
+      label: Number of Vehicles
+      hint: How many will you display?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5 or more
+      required: true
+    - id: 25
+      name: vehicle_descriptions
+      label: Vehicle Descriptions
+      hint: Brief descriptions
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: utilities_needed
+      label: Utilities Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Electricity
+      - Water
+      - Internet/WiFi
+      - Lighting
+      - Compressed air
+      required: true
+    - id: 27
+      name: electrical_requirements
+      label: Electrical Requirements
+      hint: Voltage/amperage needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: booth_setup
+      label: Booth Setup
+      hint: Setup requirements
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: table_needed
+      label: Table Needed
+      hint: Do you need a table?
+      type: select_one
+      options:
+      - Yes - 6 ft
+      - Yes - 8 ft
+      - false
+      required: true
+    - id: 30
+      name: chairs_needed
+      label: Chairs Needed
+      hint: How many?
+      type: select_one
+      options:
+      - None
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7+
+      required: true
+    - id: 31
+      name: display_materials
+      label: Display Materials
+      hint: What will you bring?
+      type: select_multiple
+      options:
+      - Banners
+      - Signage
+      - Brochures
+      - Business cards
+      - Product samples
+      - Video display
+      - Other
+      required: false
+    - id: 32
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs?
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: payment_information
+      label: Payment Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: booth_fee
+      label: Booth Fee
+      hint: Total fee
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 36
+      name: payment_status
+      label: Payment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Paid in full
+      - Deposit paid
+      - Will pay later
+      - Need invoice
+      required: true
+    - id: 37
+      name: deposit_amount
+      label: Deposit Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: insurance
+      label: Insurance
+      hint: Do you have liability insurance?
+      type: select_one
+      options:
+      - Yes - will provide certificate
+      - Yes - already on file
+      - No - need information
+      required: true
+    - id: 39
+      name: marketing_information
+      label: Marketing Information
+      hint: Promotional details
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: company_description
+      label: Company Description
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: website
+      label: Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: social_media
+      label: Social Media
+      hint: Your social media handles
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: promotional_support
+      label: Promotional Support
+      hint: Will you help promote?
+      type: select_one
+      options:
+      - Yes - will share on social media
+      - Yes - will distribute flyers
+      - Yes - both
+      - false
+      required: false
+    - id: 44
+      name: how_heard_about_event
+      label: How Did You Hear About Event
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Previous exhibitor
+      - Car club
+      - Advertisement
+      - Friend/Colleague
+      - Other
+      required: false
+    - id: 45
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to terms?
+      type: select_one
+      options:
+      - I agree to the exhibitor terms and conditions
+      - I do not agree
+      required: true
+    - id: 47
+      name: cancellation_policy_acknowledgment
+      label: Cancellation Policy Acknowledgment
+      hint: Do you understand the policy?
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - please explain
+      required: true
+    - id: 48
+      name: reservation_date
+      label: Reservation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

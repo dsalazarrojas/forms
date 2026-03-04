@@ -1,0 +1,349 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Business Report Form
+    pages:
+    - id: 1
+      name: report_information
+      label: Report Information
+      hint: Basic report details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_period
+      label: Reporting Period
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 4
+      name: period_start
+      label: Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: period_end
+      label: Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: report_prepared_by
+      label: Report Prepared By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: financial_metrics
+      label: Financial Metrics
+      hint: Revenue and collections
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: total_revenue
+      label: Total Revenue
+      hint: Gross revenue for period
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: collections
+      label: Total Collections
+      hint: Amount collected
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: accounts_receivable
+      label: Accounts Receivable
+      hint: Outstanding balance
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: write_offs
+      label: Write-offs and Adjustments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: refunds_issued
+      label: Refunds Issued
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: revenue_by_source
+      label: Revenue by Source
+      hint: Breakdown if available
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_metrics
+      label: Patient Metrics
+      hint: Patient statistics
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: new_patients
+      label: Number of New Patients
+      hint: During this period
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: active_patients
+      label: Total Active Patients
+      hint: Current patient count
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_visits
+      label: Total Patient Visits
+      hint: All appointments
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: average_visits_per_patient
+      label: Average Visits Per Patient
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: patient_no_shows
+      label: Number of No-Shows
+      hint: Missed appointments
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: patient_cancellations
+      label: Number of Cancellations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: services_rendered
+      label: Services Rendered
+      hint: Procedure counts
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: adjustments_performed
+      label: Number of Adjustments Performed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: therapies_provided
+      label: Therapy Sessions Provided
+      hint: Physical therapy, etc.
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: xrays_taken
+      label: X-Rays Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: consultations_held
+      label: Consultations Held
+      hint: New patient consultations
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: other_services
+      label: Other Services Provided
+      hint: List and count
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: marketing_metrics
+      label: Marketing Metrics
+      hint: Marketing effectiveness
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: marketing_spend
+      label: Total Marketing Spend
+      hint: For this period
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: leads_generated
+      label: Leads Generated
+      hint: New inquiries
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: conversion_rate
+      label: Conversion Rate
+      hint: Leads to patients percentage
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: referral_sources
+      label: Top Referral Sources
+      hint: Where patients come from
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: operational_metrics
+      label: Operational Metrics
+      hint: Practice operations
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: staff_hours
+      label: Total Staff Hours
+      hint: All staff combined
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: doctor_hours
+      label: Doctor Hours
+      hint: Clinical hours
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: overhead_costs
+      label: Total Overhead Costs
+      hint: Operating expenses
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: supply_costs
+      label: Supply Costs
+      hint: Medical supplies
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: equipment_expenses
+      label: Equipment Expenses
+      hint: Purchases or leases
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: performance_analysis
+      label: Performance Analysis
+      hint: Assessment and insights
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: goals_met
+      label: Were Period Goals Met
+      hint: null
+      type: select_one
+      options:
+      - Yes, all goals met
+      - Yes, most goals met
+      - Partially
+      - No, goals not met
+      - No goals set
+      required: true
+    - id: 41
+      name: performance_rating
+      label: Overall Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 42
+      name: strengths
+      label: Key Strengths This Period
+      hint: What went well
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: challenges
+      label: Challenges Faced
+      hint: Areas of difficulty
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: action_items
+      label: Action Items for Next Period
+      hint: Planned improvements
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: goals_next_period
+      label: Goals for Next Period
+      hint: Objectives
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: additional_comments
+      label: Additional Comments
+      hint: Other observations
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true

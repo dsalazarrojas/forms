@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Breach Enquiry Form
+    pages:
+    - id: 1
+      name: data_breach_enquiry_form
+      label: Report A Data Breach
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description_of_breach
+      label: Description Of Breach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_breach
+      label: Date Of Breach
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_breach
+      label: Time Of Breach
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_of_breach
+      label: Location Of Breach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_type
+      label: Type Of Report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

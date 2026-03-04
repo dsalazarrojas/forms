@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Allocation Change Request Form
+    pages:
+    - id: 1
+      name: cost_allocation_change_request_form
+      label: Cost Allocation Change Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Category 1''}'
+      - '{''value'': ''Category 2''}'
+      required: false
+    - id: 3
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Type 1''}'
+      - '{''value'': ''Type 2''}'
+      - '{''value'': ''Type 3''}'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cost_center
+      label: cost_center
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Center 1''}'
+      - '{''value'': ''Center 2''}'
+      - '{''value'': ''Center 3''}'
+      required: false
+    - id: 6
+      name: change_type
+      label: change_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Change Type 1''}'
+      - '{''value'': ''Change Type 2''}'
+      required: false
+    - id: 7
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_designation
+      label: submitter_designation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_designation_other
+      label: submitter_designation_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_date
+      label: submitter_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitter_time
+      label: submitter_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submitter_cost_center
+      label: submitter_cost_center
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Center 1''}'
+      - '{''value'': ''Center 2''}'
+      - '{''value'': ''Center 3''}'
+      required: false
+    - id: 20
+      name: submitter_reason
+      label: submitter_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_approvement_status
+      label: manager_approvement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approve''}'
+      - '{''value'': ''Reject''}'
+      - '{''value'': ''Not Approve''}'
+      required: false
+    - id: 22
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_phone
+      label: approver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false

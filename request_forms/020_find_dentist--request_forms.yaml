@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Find Dentist
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one_dental_need
+      label: Which Dental Service do you need?
+      hint: Select at least one option
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Check up''}'
+      - '{''id'': 2, ''label'': ''Cleaning''}'
+      - '{''id'': 3, ''label'': ''Surgery''}'
+      - '{''id'': 4, ''label'': ''Implant''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: select_multiple_dental_specialties
+      label: Which dental specialty do you need?
+      hint: Select at least one option
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''General''}'
+      - '{''id'': 2, ''label'': ''Pedodontics''}'
+      - '{''id'': 3, ''label'': ''Orthodontics''}'
+      - '{''id'': 4, ''label'': ''Oral Surgery''}'
+      required: true
+    - id: 10
+      name: select_one_service_type
+      label: How would you like to schedule the service?
+      hint: Select one option
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Office''}'
+      - '{''id'': 2, ''label'': ''In Home''}'
+      - '{''id'': 3, ''label'': ''Over the Phone''}'
+      required: true
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone_confirmation
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_confirmation
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time_confirmation
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: note_confirmation
+      label: Confirm Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: select_one_payment_method
+      label: How would you like to pay?
+      hint: Select one option
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''Cash''}'
+      - '{''id'': 3, ''label'': ''Insurance''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 21
+      name: submit_confirmation
+      label: Confirm Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location_confirmation
+      label: Confirm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: first_name_confirmation
+      label: Confirm First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_name_confirmation
+      label: Confirm Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false

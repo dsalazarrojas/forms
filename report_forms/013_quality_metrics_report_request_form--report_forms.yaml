@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Metrics Report Request Form
+    pages:
+    - id: 1
+      name: quality_metrics_report_request_form
+      label: quality_metrics_report_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - Quality Report
+      - Business Report
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: quality_score
+      label: quality_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: metric_name
+      label: metric_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: metric_value
+      label: metric_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: metric_category
+      label: metric_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false

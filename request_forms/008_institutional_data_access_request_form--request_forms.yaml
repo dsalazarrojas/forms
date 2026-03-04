@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Institutional Data Access Request Form
+    pages:
+    - id: 1
+      name: requester_details
+      label: Requester Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: duration
+      label: Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: requester_details_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requester_details_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: purpose_details
+      label: Purpose Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: institution_details
+      label: Institution Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_requested
+      label: Data Requested
+      hint: null
+      type: text
+      options: []
+      required: false

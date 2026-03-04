@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transaction Issues Report
+    pages:
+    - id: 1
+      name: transaction_issues_report_form
+      label: transaction_issues_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_date
+      label: transaction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: transaction_amount
+      label: transaction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transaction_type
+      label: transaction_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''payment_gateway_1'', ''value'': ''payment_gateway_1''}'
+      - '{''id'': 2, ''name'': ''payment_gateway_2'', ''value'': ''payment_gateway_2''}'
+      required: false
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_image
+      label: issue_image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: transaction_id
+      label: transaction_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_support
+      label: customer_support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''customer_support_1'', ''value'': ''customer_support_1''}'
+      - '{''id'': 2, ''name'': ''customer_support_2'', ''value'': ''customer_support_2''}'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''open'', ''value'': ''open''}'
+      - '{''id'': 2, ''name'': ''closed'', ''value'': ''closed''}'
+      required: false
+    - id: 13
+      name: customer_support_team
+      label: customer_support_team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''customer_support_team_1'', ''value'': ''customer_support_team_1''}'
+      - '{''id'': 2, ''name'': ''customer_support_team_2'', ''value'': ''customer_support_team_2''}'
+      required: false
+    - id: 14
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 2, ''name'': ''high'', ''value'': ''high''}'
+      required: false
+    - id: 15
+      name: issue_tags
+      label: issue_tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag_1'', ''value'': ''tag_1''}'
+      - '{''id'': 2, ''name'': ''tag_2'', ''value'': ''tag_2''}'
+      required: false
+    - id: 16
+      name: issue_resolution
+      label: issue_resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_support_response
+      label: customer_support_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: resolution_date
+      label: resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: resolution_time
+      label: resolution_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''open'', ''value'': ''open''}'
+      - '{''id'': 2, ''name'': ''closed'', ''value'': ''closed''}'
+      required: false
+    - id: 21
+      name: issue_comments
+      label: issue_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issue_attachments
+      label: issue_attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: issue_id
+      label: issue_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: issue_subject
+      label: issue_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writing Residency Leave Of Absence Form
+    pages:
+    - id: 1
+      name: writing_residency_leave_request
+      label: Residency Leave Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: program_name
+      label: program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_start_date
+      label: program start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: program_end_date
+      label: program end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: reason for leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: leave_duration
+      label: leave duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: leave_start_date
+      label: leave start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: leave_end_date
+      label: leave end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: return_date
+      label: return date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: leave_reason
+      label: reason for leave
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: approval_status
+      label: approval status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal PEMF Liability Release And Waiver Form
+    pages:
+    - id: 1
+      name: section_release_header
+      label: -- Release of Liability --
+      hint: Please read the following terms carefully before signing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_legal_name
+      label: Owner Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: animal_info_details
+      label: Animal Information - Name and Species
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pemf_service_desc
+      label: Description of PEMF Service
+      hint: Pulsed Electromagnetic Field therapy details
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risk_acknowledgment
+      label: Acknowledgment of Risks
+      hint: I understand that PEMF is a non-invasive therapy with certain risks
+      type: select_one
+      options:
+      - I understand and accept the risks
+      - Other
+      required: true
+    - id: 6
+      name: practitioner_release
+      label: Release of Practitioner from Liability
+      hint: I agree to release the practitioner from any claims or damages
+      type: select_one
+      options:
+      - I agree to release all liability
+      - Other
+      required: true
+    - id: 7
+      name: indemnification_clause
+      label: Indemnification Clause
+      hint: I agree to indemnify and hold harmless the service provider
+      type: select_one
+      options:
+      - I agree to indemnify
+      - Other
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact Info
+      hint: Name and Phone Number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true

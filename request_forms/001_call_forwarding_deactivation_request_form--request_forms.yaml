@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Forwarding Deactivation Request Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter the name of the account holder
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: Your unique service account identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: A number where we can reach you if there are issues
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For confirmation of deactivation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_line_to_deactivate
+      label: Phone Number for Deactivation
+      hint: The specific line where call forwarding should be turned off
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_provider
+      label: Service Provider
+      hint: Select your current telecommunications provider
+      type: select_one
+      options:
+      - AT&T
+      - Verizon
+      - T-Mobile
+      - Sprint
+      - Other
+      required: true
+    - id: 9
+      name: deactivation_date
+      label: Requested Deactivation Date
+      hint: When should the forwarding stop?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: deactivation_time
+      label: Requested Deactivation Time
+      hint: Preferred time for the change to take effect
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_deactivation
+      label: Reason for Deactivation
+      hint: Optional - help us understand why you are stopping this service
+      type: select_one
+      options:
+      - No longer needed
+      - Switching to a different service
+      - Moving to a new location
+      - Service quality issues
+      - Other
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments or Instructions
+      hint: Any specific details our team should know
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Please type your full name to authorize this request
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Center Audio Recording Consent Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Recording in Class
+      - Recording in Training Sessions
+      - Recording in Events
+      required: true
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I consent to the recording of my audio
+      - I do not consent to the recording of my audio
+      required: true
+    - id: 7
+      name: additional_consents
+      label: Additional Consents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

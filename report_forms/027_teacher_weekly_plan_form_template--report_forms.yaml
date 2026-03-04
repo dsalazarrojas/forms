@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_weekly_plan_form_template
+    pages:
+    - id: 1
+      name: teacher_weekly_plan
+      label: Teacher Weekly Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject_list
+      label: Select Subject
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - English
+      - Science
+      - History
+      - Geography
+      required: true
+    - id: 3
+      name: class_list
+      label: Select Class
+      hint: null
+      type: select_multiple
+      options:
+      - Class 1
+      - Class 2
+      - Class 3
+      - Class 4
+      - Class 5
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Over The Air Update Request Form
+    pages:
+    - id: 1
+      name: device_id
+      label: Device Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: firmware_version
+      label: Firmware Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: update_time
+      label: Update Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: schedule_update
+      label: Schedule Update
+      hint: Select a specific date and time
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

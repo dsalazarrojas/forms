@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Coverage Quarterly Metrics Report Form
+    pages:
+    - id: 1
+      name: media_coverage_quarterly_metrics_report
+      label: Media Coverage Quarterly Metrics Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_coverage_quarterly_metrics
+      label: media_coverage_quarterly_metrics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: quarter
+      label: quarter
+      hint: null
+      type: select_one
+      options:
+      - Quarter 1
+      - Quarter 2
+      - Quarter 3
+      - Quarter 4
+      required: false
+    - id: 4
+      name: media_channel
+      label: media_channel
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Print
+      - Social
+      - Broadcast
+      required: false
+    - id: 5
+      name: media_type
+      label: media_type
+      hint: null
+      type: select_multiple
+      options:
+      - Press Release
+      - Press Conference
+      - Press Release and Press Conference
+      - Press Release and Social Media
+      - Social Media
+      required: false
+    - id: 6
+      name: earned_media_value
+      label: earned_media_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: advertising_value
+      label: advertising_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: public_relations_value
+      label: public_relations_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_value
+      label: event_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: media_coverage_value
+      label: media_coverage_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_value
+      label: other_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vision And Hearing Screening
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_vision_test
+      label: Date of Vision Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: results_vision_test
+      label: Results of Vision Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_hearing_test
+      label: Date of Hearing Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: results_hearing_test
+      label: Results of Hearing Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments_1
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nurse_signature
+      label: Nurse's Signature
+      hint: null
+      type: text
+      options: []
+      required: false

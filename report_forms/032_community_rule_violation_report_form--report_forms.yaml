@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Rule Violation Report Form
+    pages:
+      - id: 1
+        name: violation_report_intro
+        label: -- Rule Violation Report Form --
+        hint: Please provide the following details to report a community guideline violation.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporting_user_name
+        label: Name of Person Reporting
+        hint: Optional - for internal use only.
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: reporting_user_email
+        label: Contact Email Address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: accused_user_name
+        label: Name of Accused Individual
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: accused_user_role
+        label: Accused Individual - s Role
+        hint: e.g. Resident - Visitor - Staff.
+        type: select_one
+        options: [Resident, Visitor, Staff, Other]
+        required: true
+      - id: 6
+        name: incident_date
+        label: Date of Incident
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: incident_time
+        label: Time of Incident
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 8
+        name: incident_location_info
+        label: Location of Incident
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: violation_category_selection
+        label: Violation Category
+        hint: Select the most appropriate category.
+        type: select_one
+        options: [Harassment and Bullying, Hate Speech, Illegal Activities, Property Damage, Noise Complaints, Environmental Violations, Other]
+        required: true
+      - id: 10
+        name: violation_description_text
+        label: Detailed Description of the Violation
+        hint: Please be as specific as possible.
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: witness_information_list
+        label: Witness Names and Contact Info
+        hint: Please list any individuals who saw the incident.
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: incident_evidence_check
+        label: Do you have evidence of the violation?
+        hint: e.g. Photos - Screenshots - Recordings.
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 13
+        name: evidence_description_info
+        label: Description of Evidence
+        hint: Required if you answered Yes above.
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: administrative_action_request
+        label: Requested Action for Administrative Review
+        hint: null
+        type: select_one
+        options: [Warning only, Mediation, Temporary Suspension, Formal Disciplinary Action, Legal Review]
+        required: true
+      - id: 15
+        name: reporter_signature
+        label: Reporting User Signature
+        hint: Type your full name to sign.
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: today_report_date
+        label: Today - s Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 17
+        name: violation_footer
+        label: -- Confidential Submission --
+        hint: Your report will be reviewed by the community administration.
+        type: note
+        options: []
+        required: false

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessory Approval Request Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Engineering
+      - Finance
+      - Human Resources
+      - IT
+      - Marketing
+      - Operations
+      - Sales
+      - Other
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_accessory_details
+      label: -- Accessory Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: accessory_name
+      label: Accessory Name or Description
+      hint: Provide the name and model if applicable
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accessory_category
+      label: Accessory Category
+      hint: null
+      type: select_one
+      options:
+      - Computer peripherals
+      - Office furniture
+      - Safety equipment
+      - Uniforms and apparel
+      - Tools and hardware
+      - Other
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: estimated_unit_cost
+      label: Estimated Unit Cost
+      hint: Enter the approximate cost per unit in dollars
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_estimated_cost
+      label: Total Estimated Cost
+      hint: Quantity multiplied by unit cost
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: justification
+      label: Business Justification
+      hint: Explain why this accessory is needed for your work
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: urgency
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Within 30 days
+      - Medium - Within 2 weeks
+      - High - Within 1 week
+      - Urgent - Immediate need
+      required: true
+    - id: 16
+      name: preferred_vendor
+      label: Preferred Vendor or Supplier (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of the approving supervisor
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information relevant to this request
+      type: text
+      options: []
+      required: false

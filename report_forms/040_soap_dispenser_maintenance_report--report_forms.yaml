@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soap Dispenser Maintenance Report
+    pages:
+    - id: 1
+      name: location_info
+      label: Location Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dispenser_condition
+      label: Dispenser Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_activity
+      label: Maintenance Activity
+      hint: null
+      type: select_multiple
+      options:
+      - Soap Dispenser Cleaned
+      - Replaced
+      - Other
+      required: false
+    - id: 4
+      name: soap_level
+      label: Soap Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: water_level
+      label: Water Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location_notes
+      label: Location Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false

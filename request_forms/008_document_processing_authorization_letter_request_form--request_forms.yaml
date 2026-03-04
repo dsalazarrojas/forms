@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Processing Authorization Letter Request Form
+    pages:
+    - id: 1
+      name: document_processing_request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: representative_details
+      label: Representative Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signature_capture
+      label: Signature Capture
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: document_details
+      label: Document Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_document_details
+      label: Additional Document Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_signature
+      label: Request Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: document_capture_details
+      label: Document Capture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: document_capture_method
+      label: Document Capture Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: additional_capture_method
+      label: Additional Capture Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: signature_status
+      label: Signature Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: request_comments
+      label: Request Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: request_priority
+      label: Request Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: request_urgent
+      label: Request Urgent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: document_category
+      label: Document Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: document_sub_category
+      label: Document Sub Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: request_description
+      label: Request Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: representative_signature
+      label: Representative Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: document_capture_date
+      label: Document Capture Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: document_capture_time
+      label: Document Capture Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

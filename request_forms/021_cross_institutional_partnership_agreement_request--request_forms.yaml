@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: cross_institutional_partnership_agreement_request
+    pages:
+    - id: 1
+      name: partnership_request
+      label: Partnership Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: proposed_partners
+      label: Proposed Partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: partnership_start_date
+      label: Partnership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: proposed_end_date
+      label: Proposed End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Review
+      - Signed
+      required: true
+    - id: 11
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: signed_by
+      label: Signed by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: reviewers_comments
+      label: Reviewers Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 17
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_note
+      label: Approval Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agreement_number
+      label: Agreement Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: approval_date_time
+      label: Approval Date & Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false

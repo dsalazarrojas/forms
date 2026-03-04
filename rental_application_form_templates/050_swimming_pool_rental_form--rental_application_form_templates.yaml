@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Pool Rental Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info_1
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_info_3
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_booking
+      label: Booking Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_booking_1
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_booking_2
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_booking_3
+      label: Booking Type
+      hint: null
+      type: select_multiple
+      options:
+      - Day Rental
+      - Week Rental
+      - Month Rental
+      required: false
+    - id: 9
+      name: contact_terms
+      label: Terms And Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

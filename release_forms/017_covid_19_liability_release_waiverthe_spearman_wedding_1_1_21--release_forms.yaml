@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Liability Release Waiver - Spearman Wedding
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: Spearman Wedding - January 1, 2021
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_health_certification
+      label: -- Health Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: covid_free
+      label: I am free from COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: not_diagnosed_14_days
+      label: I have not been diagnosed with COVID-19 in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: no_exposure
+      label: I have not been exposed to anyone with COVID-19 in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: section_liability_release
+      label: -- Liability Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assume_covid_risk
+      label: I understand and assume the risk of COVID-19 transmission at this event
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: release_organizers
+      label: I release the organizers from any liability related to COVID-19
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: follow_guidelines
+      label: I agree to follow all health and safety guidelines
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: waiver_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: confirmation
+      label: I have read and understand this waiver
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

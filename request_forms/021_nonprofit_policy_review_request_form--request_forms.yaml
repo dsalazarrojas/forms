@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Policy Review Request Form
+    pages:
+    - id: 1
+      name: policy_documents
+      label: Policy Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_types
+      label: Review Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_requested_by
+      label: Review Requested By
+      hint: null
+      type: select_one
+      options:
+      - board
+      - staff
+      - other
+      required: true
+    - id: 6
+      name: review_requested_for
+      label: Review Requested For
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

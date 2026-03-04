@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Incident Report Form
+    pages:
+    - id: 1
+      name: medical_device_incident
+      label: Medical Device Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_description
+      label: Device Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: device_user
+      label: Device User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_contact
+      label: User Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_details
+      label: Follow up details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: Follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_effect
+      label: Incident Effect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Follow up complete
+      - Still pending
+      - No follow up needed
+      required: false
+    - id: 15
+      name: medical_device_incident
+      label: Medical Device Incident
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 16
+      name: follow_up_comments
+      label: Follow up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: root_cause_analysis
+      label: Root Cause Analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_recommendation
+      label: Follow up Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_device_serial_number
+      label: Medical Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false

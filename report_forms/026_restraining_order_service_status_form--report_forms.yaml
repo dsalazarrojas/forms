@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restraining Order Service Status Form
+    pages:
+    - id: 1
+      name: restraining_order_service_status_form_1
+      label: restraining_order_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restraining_order_type
+      label: restraining_order_type
+      hint: null
+      type: select_one
+      options:
+      - Domestic Violence
+      - Injunction
+      - Harassment
+      - Other
+      required: false
+    - id: 3
+      name: restraining_order_service_status_update
+      label: restraining_order_status_update
+      hint: Briefly describe the restraining order service status
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: next_date_of_service
+      label: next_date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: Additional comments or details
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_last_updated
+      label: date_last_updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_last_status_update
+      label: date_last_status_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: restraining_order_served
+      label: restraining_order_served
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: restraining_order_service_status
+      label: restraining_order_service_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Complete
+      - Closed
+      required: false
+    - id: 10
+      name: date_served
+      label: date_served
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_served
+      label: time_served
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_one
+      options:
+      - Legal
+      - Police
+      - Other
+      required: false
+    - id: 13
+      name: contact_details
+      label: contact_details
+      hint: Contact person's name and number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person_title
+      label: contact_person_title
+      hint: null
+      type: select_one
+      options:
+      - Legal
+      - Police
+      - Other
+      required: false
+    - id: 15
+      name: assigned_officer
+      label: assigned_officer
+      hint: Name of assigned officer
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_officer_title
+      label: assigned_officer_title
+      hint: null
+      type: select_one
+      options:
+      - Legal
+      - Police
+      - Other
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_person_email
+      label: contact_person_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_person_phone
+      label: contact_person_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_person_email_phone
+      label: contact_person_email_phone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: contact_person_address
+      label: contact_person_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: restraining_order_number
+      label: restraining_order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: service_status_updates
+      label: service_status_updates
+      hint: List of service status updates
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_service_date
+      label: next_service_date
+      hint: Date of next service
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: next_service_time
+      label: next_service_time
+      hint: Time of next service
+      type: time
+      options: []
+      required: false

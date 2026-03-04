@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: select_extras_for_your_installation
+    pages:
+    - id: 1
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: extra_requests
+      label: Extra Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_providers
+      label: Service Providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: visit_preferences
+      label: Visit Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: installation_type
+      label: Installation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: installation_date_time
+      label: Installation Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: installation_duration
+      label: Installation Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false

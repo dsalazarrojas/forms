@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Support Ticket Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Your Name
+      hint: Full name of person submitting ticket
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submitter_email
+      label: Email Address
+      hint: We will send updates to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: submitter_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Which department needs support
+      type: select_one
+      options:
+      - Technical Support
+      - Billing
+      - Sales
+      - General Inquiry
+      - Account Management
+      required: true
+    - id: 5
+      name: ticket_category
+      label: Ticket Category
+      hint: Select the category that best fits your issue
+      type: select_one
+      options:
+      - Bug Report
+      - Feature Request
+      - Account Issue
+      - Payment Problem
+      - Integration Help
+      - Training Request
+      - Other
+      required: true
+    - id: 6
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this issue
+      type: select_one
+      options:
+      - Low - Can wait
+      - Medium - Normal business need
+      - High - Blocking work
+      - Critical - System down
+      required: true
+    - id: 7
+      name: subject
+      label: Subject
+      hint: Brief summary of your issue
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: description
+      label: Detailed Description
+      hint: Please describe your issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: affected_users
+      label: Number of Users Affected
+      hint: How many people are impacted
+      type: select_one
+      options:
+      - Just me
+      - 2-5 users
+      - 6-10 users
+      - 11-25 users
+      - Entire team
+      required: false
+    - id: 10
+      name: steps_to_reproduce
+      label: Steps to Reproduce
+      hint: If applicable, list steps that cause the issue
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expected_behavior
+      label: Expected Behavior
+      hint: What should happen instead
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: browser_or_device
+      label: Browser or Device
+      hint: What are you using when issue occurs
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attachments
+      label: Attachments Note
+      hint: You can attach screenshots in follow-up email
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_resolution_time
+      label: Preferred Resolution Time
+      hint: When do you need this resolved
+      type: select_one
+      options:
+      - Within 24 hours
+      - Within 48 hours
+      - Within 1 week
+      - No rush
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to help us assist you
+      type: text
+      options: []
+      required: false

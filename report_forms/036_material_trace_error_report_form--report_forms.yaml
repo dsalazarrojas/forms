@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Trace Error Report Form
+    pages:
+    - id: 1
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: time
+      label: Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: material_error_description
+      label: Material Error Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: batch_id
+      label: Batch ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: material_error_type
+      label: Material Error Type
+      hint: null
+      type: select_multiple
+      options:
+      - Error Type 1
+      - Error Type 2
+      - Error Type 3
+      required: false
+    - id: 7
+      name: material_error_cause
+      label: Material Error Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: root_cause_analysis
+      label: Root Cause Analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_action
+      label: Follow Up Action
+      hint: null
+      type: text
+      options: []
+      required: false

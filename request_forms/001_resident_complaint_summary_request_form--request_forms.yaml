@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resident Complaint Summary Request Form
+    pages:
+    - id: 1
+      name: resident_complaint_summary_request_form_page_1
+      label: resident_complaint_summary_request_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: resident_complaint_type
+      label: resident_complaint_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Maintenance Issue''}'
+      - '{''id'': 2, ''label'': ''Noise Complaint''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: resident_complaint_description
+      label: resident_complaint_description
+      hint: Please provide a detailed description of the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resident_name
+      label: resident_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resident_contact_method
+      label: resident_contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_contact_method
+      label: staff_contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: staff_department
+      label: staff_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: resident_address
+      label: resident_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_statement
+      label: witness_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fall Pond Cleaning Request Form
+    pages:
+    - id: 1
+      name: homeowner
+      label: Homeowner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: services
+      label: Services
+      hint: Select all the services that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pond_size
+      label: Pond Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pond_type
+      label: Pond Type
+      hint: null
+      type: select_one
+      options:
+      - small
+      - large
+      required: false
+    - id: 6
+      name: pond_location
+      label: Pond Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_requested
+      label: Time Requested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

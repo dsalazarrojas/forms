@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: residential_data_input_form
+    pages:
+    - id: 1
+      name: address_line_1
+      label: Address Line 1
+      hint: Enter address line 1
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: Enter zip code
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: list_price
+      label: List Price
+      hint: null
+      type: select_one
+      options:
+      - $0-200,000
+      - $200,000-400,000
+      - $400,000-600,000
+      - $600,000-800,000
+      - Over $800,000
+      required: true
+    - id: 11
+      name: sale_status
+      label: Sale Status
+      hint: null
+      type: select_multiple
+      options:
+      - For Sale
+      - Sold
+      - Withdrawn
+      - Lease
+      required: true
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Townhouse
+      - Condo
+      - Apartment
+      - Commercial
+      - Other
+      required: true
+    - id: 13
+      name: year_built
+      label: Year Built
+      hint: null
+      type: select_one
+      options:
+      - 1900-1920
+      - 1920-1950
+      - 1950-1960
+      - 1960-1970
+      - 1970-1980
+      - 1980-1990
+      - 1990-2000
+      - 2000-2010
+      - 2010-2020
+      - 2020+
+      required: false
+    - id: 14
+      name: lot_size_unit
+      label: Lot Size Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lot_orientation
+      label: Lot Orientation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lot_frontage
+      label: Lot Frontage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lot_depth
+      label: Lot Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: lot_width
+      label: Lot Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: lot_frontage_type
+      label: Lot Frontage Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: building_height
+      label: Building Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: building_area
+      label: Building Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: parking
+      label: Parking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Parking'': 0}'
+      - '{''Parking'': 1}'
+      - '{''Parking'': 2}'
+      - '{''Parking'': 3}'
+      - No Parking
+      required: false
+    - id: 23
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Withdrawn
+      - Sold - Under Contract
+      required: true
+    - id: 25
+      name: agent_notes
+      label: Agent Notes
+      hint: null
+      type: text
+      options: []
+      required: false

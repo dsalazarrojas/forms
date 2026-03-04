@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surety Bond Renewal Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: surety_bond_number
+      label: Surety Bond Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: bond_amount
+      label: Bond Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: bond_type
+      label: Bond Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: true
+    - id: 9
+      name: renewal_reason
+      label: Renewal Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: office_address
+      label: Office Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: renewal_status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Followed Up
+      - Followed Up
+      required: true
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      required: false

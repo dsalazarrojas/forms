@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Incident Report Form
+    pages:
+    - id: 1
+      name: header_reporter_info
+      label: -- Person Reporting Incident --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_position
+      label: Your Position/Role in Church
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: header_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: incident_location
+      label: Precise Location of Incident
+      hint: e.g., Parking lot, Sanctuary, Classroom 102
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - Medical Emergency
+      - Injury/Accident
+      - Property Damage
+      - Theft
+      - Security/Disturbance
+      - Missing Item
+      - Other
+      required: true
+    - id: 10
+      name: incident_description_detailed
+      label: Detailed Description of Incident
+      hint: Provide a factual account - who, what, where, how
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: header_involved_parties
+      label: -- Involved Parties and Witnesses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_party_involved
+      label: Name of Primary Person Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witnesses_names_contacts
+      label: Names and Contacts of Witnesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: header_actions_taken
+      label: -- Actions Taken --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: first_aid_rendered
+      label: Was First Aid rendered?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Specify below
+      - false
+      required: true
+    - id: 16
+      name: emergency_services_called
+      label: Were Emergency Services called?
+      hint: 911/EMS/Police
+      type: select_one
+      options:
+      - Yes - Police
+      - Yes - EMS/Fire
+      - Yes - Both
+      - false
+      required: true
+    - id: 17
+      name: actions_taken_notes
+      label: Summary of Immediate Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_required_incident
+      label: Is further follow-up required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: reporter_signature_timestamp
+      label: Electronic Signature of Reporter
+      hint: Type name as verification
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: report_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true

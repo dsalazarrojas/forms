@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clubhouse Rental Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: resident_status
+      label: Residency Status
+      hint: Are you a resident
+      type: select_one
+      options:
+      - Yes, HOA Resident
+      - No, Non-Resident
+      - Guest of Resident
+      required: true
+    - id: 6
+      name: unit_address
+      label: Unit or Property Address
+      hint: Your unit number or address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of your event or gathering
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: setup_time
+      label: Setup Time
+      hint: When you will arrive to set up
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: teardown_time
+      label: Estimated Teardown Completion
+      hint: When area will be cleared
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: event_type
+      label: Type of Event
+      hint: Select the event category
+      type: select_one
+      options:
+      - Birthday Party
+      - Anniversary
+      - Wedding
+      - Family Gathering
+      - Community Event
+      - Business Event
+      - Other
+      required: true
+    - id: 15
+      name: amenities_needed
+      label: Amenities Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tables
+      - Chairs
+      - Kitchen Access
+      - Bar Service
+      - Audio System
+      - Projector
+      - Parking Availability
+      required: true
+    - id: 16
+      name: catering_plans
+      label: Catering or Food Plans
+      hint: Will you bring food or cater
+      type: select_one
+      options:
+      - Professional Catering
+      - Potluck Style
+      - Bring Your Own
+      - No Food Service
+      required: true
+    - id: 17
+      name: alcohol_service
+      label: Will Alcohol Be Served
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: insurance_coverage
+      label: Have Liability Insurance
+      hint: null
+      type: select_one
+      options:
+      - Yes, Certificate Attached
+      - Yes, Can Obtain
+      - false
+      required: true

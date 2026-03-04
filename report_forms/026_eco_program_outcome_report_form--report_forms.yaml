@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Program Outcome Report Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_id
+      label: program_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: outcome_1
+      label: outcome_1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: outcome_1_description
+      label: outcome_1_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: outcome_2
+      label: outcome_2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: outcome_2_description
+      label: outcome_2_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporting_evidence
+      label: Supporting Evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: outcome_1_evidence
+      label: outcome_1_evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: outcome_2_evidence
+      label: outcome_2_evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: form_time
+      label: Form Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: program_id
+      label: Program ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Changes Report Form
+    pages:
+    - id: 1
+      name: project_changes_date
+      label: project_changes_date
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: project_change_description
+      label: project_change_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_change_category
+      label: project_change_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: project_change_type
+      label: project_change_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: project_changes_notes
+      label: project_changes_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_changes_comments
+      label: project_changes_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_change_owners
+      label: project_change_owners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

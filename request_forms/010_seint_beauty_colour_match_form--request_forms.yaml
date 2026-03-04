@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: seint_beauty_colour_match_form
+    pages:
+    - id: 1
+      name: form_number
+      label: Form Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address_1
+      label: customer address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_address_2
+      label: customer address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_city
+      label: customer city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_state
+      label: customer state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_postal_code
+      label: customer post code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: customer_country
+      label: customer country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: note
+      options: []
+      required: false

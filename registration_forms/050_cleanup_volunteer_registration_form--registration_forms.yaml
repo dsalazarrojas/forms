@@ -1,0 +1,486 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleanup Volunteer Registration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be at least 16 years old (or with guardian)
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How is this person related to you
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_header_cleanup
+      label: -- Cleanup Event Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: cleanup_event
+      label: Which Cleanup Event Are You Interested In
+      hint: Select your preferred event
+      type: select_one
+      options:
+      - Beach Cleanup
+      - Park Cleanup
+      - River or Waterway Cleanup
+      - Neighborhood Cleanup
+      - Highway or Road Cleanup
+      - Forest or Trail Cleanup
+      - Community Garden Cleanup
+      - Multiple Events
+      - Wherever Needed Most
+      required: true
+    - id: 19
+      name: preferred_date
+      label: Preferred Date
+      hint: When would you like to volunteer
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: availability
+      label: Your Availability
+      hint: When are you available
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday Mornings
+      - Saturday Afternoons
+      - Sunday Mornings
+      - Sunday Afternoons
+      - Flexible Schedule
+      required: true
+    - id: 21
+      name: volunteer_frequency
+      label: How Often Would You Like to Volunteer
+      hint: Your preferred frequency
+      type: select_one
+      options:
+      - One-Time Only
+      - Monthly
+      - Quarterly
+      - Several Times Per Year
+      - As Often as Possible
+      required: true
+    - id: 22
+      name: section_header_experience
+      label: -- Experience and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: previous_volunteer_experience
+      label: Do You Have Previous Volunteer Experience
+      hint: Have you volunteered before
+      type: select_one
+      options:
+      - Yes - Environmental or Cleanup Events
+      - Yes - Other Types of Volunteering
+      - No - This Is My First Time
+      required: true
+    - id: 24
+      name: relevant_skills
+      label: Relevant Skills or Experience
+      hint: Any skills that might be helpful
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: leadership_interest
+      label: Are You Interested in a Leadership Role
+      hint: Would you like to lead a team
+      type: select_one
+      options:
+      - Yes - Interested in Leading
+      - Maybe - Willing to Consider
+      - No - Prefer to Be Team Member
+      required: true
+    - id: 26
+      name: section_header_physical
+      label: -- Physical Capability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: physical_limitations
+      label: Do You Have Any Physical Limitations
+      hint: Any restrictions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: able_to_lift
+      label: Are You Able to Lift Up to 20 Pounds
+      hint: Basic physical capability
+      type: select_one
+      options:
+      - Yes - No Problem
+      - Yes - With Some Difficulty
+      - No - Cannot Lift
+      - Not Sure
+      required: true
+    - id: 29
+      name: comfortable_outdoors
+      label: Are You Comfortable Working Outdoors
+      hint: Cleanup work is primarily outdoors
+      type: select_one
+      options:
+      - Yes - Very Comfortable
+      - Yes - Somewhat Comfortable
+      - No - Prefer Indoor Activities
+      required: true
+    - id: 30
+      name: section_header_equipment
+      label: -- Equipment and Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: have_work_gloves
+      label: Do You Have Work Gloves
+      hint: Will you bring your own
+      type: select_one
+      options:
+      - Yes - I Have My Own
+      - No - Need Gloves Provided
+      - Maybe - Will Check
+      required: true
+    - id: 32
+      name: glove_size
+      label: Glove Size (If Need Provided)
+      hint: What size gloves do you need
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - Not Sure
+      - Have My Own
+      required: false
+    - id: 33
+      name: have_transportation
+      label: Do You Have Reliable Transportation
+      hint: Can you get to cleanup sites
+      type: select_one
+      options:
+      - Yes - Personal Vehicle
+      - Yes - Can Carpool
+      - No - Need Transportation Assistance
+      required: true
+    - id: 34
+      name: willing_to_carpool
+      label: Are You Willing to Carpool
+      hint: Can you offer or share rides
+      type: select_one
+      options:
+      - Yes - Can Offer Rides
+      - Yes - Need Rides
+      - No - Will Arrange Own Transportation
+      required: false
+    - id: 35
+      name: section_header_group
+      label: -- Group Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: volunteering_as
+      label: Are You Volunteering As
+      hint: Individual or group
+      type: select_one
+      options:
+      - Individual Volunteer
+      - Part of a Group
+      - Family Group
+      - Corporate or Organization Group
+      - School or Youth Group
+      required: true
+    - id: 37
+      name: group_name
+      label: Group Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: group_size
+      label: Approximate Group Size
+      hint: How many people in your group
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: group_leader_name
+      label: Group Leader Name
+      hint: If not you
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: section_header_motivation
+      label: -- Motivation and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: why_volunteer
+      label: Why Do You Want to Volunteer
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: environmental_interests
+      label: Environmental Issues You Care About
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ocean and Marine Conservation
+      - Water Quality
+      - Wildlife Protection
+      - Climate Change
+      - Pollution Prevention
+      - Recycling and Waste Reduction
+      - Community Beautification
+      - Park and Recreation Spaces
+      - All Environmental Issues
+      required: true
+    - id: 43
+      name: how_did_you_hear
+      label: How Did You Hear About This Opportunity
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - School or University
+      - Workplace
+      - Community Organization
+      - Newspaper or Media
+      - Previous Volunteer Event
+      - Other
+      required: false
+    - id: 44
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For volunteer shirt if provided
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - 2XL
+      - 3XL
+      - Prefer Not to Say
+      required: false
+    - id: 46
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: If refreshments are provided
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: medical_conditions
+      label: Medical Conditions We Should Know About
+      hint: For safety purposes
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: section_header_agreements
+      label: -- Agreements and Waivers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 50
+      name: liability_waiver
+      label: Liability Waiver Acceptance
+      hint: Do you accept the liability waiver
+      type: select_one
+      options:
+      - Yes - I Accept the Waiver
+      - No - I Do Not Accept
+      required: true
+    - id: 51
+      name: photo_release
+      label: Photo Release
+      hint: May we use photos of you for promotional purposes
+      type: select_one
+      options:
+      - Yes - You May Use Photos
+      - No - Do Not Use Photos
+      - Yes - With Approval First
+      required: true
+    - id: 52
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent to a background check if required
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: false
+    - id: 53
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you agree to the volunteer terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - No - I Do Not Accept
+      required: true
+    - id: 54
+      name: volunteer_signature
+      label: Volunteer Signature (Type Full Name)
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 55
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 56
+      name: guardian_signature
+      label: Parent or Guardian Signature (If Under 18)
+      hint: Guardian electronic signature
+      type: text
+      options: []
+      required: false

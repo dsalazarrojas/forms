@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Allergy Management Consent Form
+    pages:
+    - id: 1
+      name: allergy_info
+      label: Allergy Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_signature
+      label: Parent Signature
+      hint: Signature of parent
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: treatment_info
+      label: Treatment Info
+      hint: Select treatment options
+      type: select_multiple
+      options:
+      - Bake
+      - Eat
+      - Drink
+      - Inject
+      required: false
+    - id: 4
+      name: medication_list
+      label: Medication List
+      hint: Medication list
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_dose
+      label: Medication Dose
+      hint: Medication dose
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Recital Registration Form
+    pages:
+    - id: 1
+      name: student_recital_name
+      label: Student Recital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_age_group
+      label: Student Age Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_contact_info
+      label: Teacher Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: recital_type
+      label: Recital Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: performance_piece
+      label: Performance Piece
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false

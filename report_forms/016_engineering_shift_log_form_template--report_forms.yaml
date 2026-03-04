@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Shift Log Form Template
+    pages:
+    - id: 1
+      name: engineering_shift_log_form_template
+      label: engineering_shift_log_form_template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: end_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: break_start_time
+      label: break_start_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: break_end_time
+      label: break_end_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: email
+      options: []
+      required: false

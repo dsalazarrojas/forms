@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Infrastructure Condition Report
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: road_name
+      label: Road Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Bridges
+      - Roadways
+      - Railways
+      - Pathways
+      - Other
+      required: false
+    - id: 5
+      name: condition_score
+      label: Condition Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Repair Service Referral Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_contact
+      label: customer_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: item_info
+      label: item_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_status
+      label: item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: item_type
+      label: item_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: repair_info
+      label: repair_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: repair_type
+      label: repair_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: repair_description
+      label: repair_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: repair_status
+      label: repair_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: repair_cost
+      label: repair_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: repair_signature
+      label: repair_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: repair_note
+      label: repair_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Candy Buy Back Program Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Online Search''}'
+      - '{''label'': ''Word of Mouth''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: What types of candy do you have to give back?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Chocolate''}'
+      - '{''label'': ''Gummies''}'
+      - '{''label'': ''Sweets''}'
+      - '{''label'': ''Sour''}'
+      required: true
+    - id: 7
+      name: date
+      label: What date do you plan on giving back?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

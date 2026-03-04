@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Standardization Assistance Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Standardization
+      - Improvement
+      - Change Management
+      required: false
+    - id: 3
+      name: goal
+      label: Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: urgency
+      label: Urgency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: operational_change
+      label: Operational Change
+      hint: null
+      type: select_multiple
+      options:
+      - Process Optimization
+      - Process Standardization
+      - Change Management
+      required: false
+    - id: 6
+      name: operational_change_other
+      label: Operational Change Other
+      hint: null
+      type: text
+      options: []
+      required: false

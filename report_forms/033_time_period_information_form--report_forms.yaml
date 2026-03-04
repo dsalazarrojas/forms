@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Period Information Form
+    pages:
+    - id: 1
+      name: time_period_start_date
+      label: Time Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time_period_end_date
+      label: Time Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_period_name
+      label: Time Period Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_period_description
+      label: Time Period Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: related_time_periods
+      label: Related Time Periods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: time_period_status
+      label: Time Period Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 7
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Capability Enhancement Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_header_label
+      label: Form Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: process_improvement
+      label: Process Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tool_request
+      label: Tool Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: capability_request
+      label: Capability Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: Describe the improvement request
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: reviewers_additional_info
+      label: Reviewers Additional Info
+      hint: Additional information for reviewers
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_requested
+      label: Time Requested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Approved
+      - Denied
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false

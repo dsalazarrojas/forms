@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotional Email Authorization Form
+    pages:
+    - id: 1
+      name: customer_consent
+      label: Customer Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: preferred_email_format
+      label: Preferred Email Format
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''html'', ''label'': ''HTML''}'
+      - '{''name'': ''plain'', ''label'': ''Plain''}'
+      required: true
+    - id: 4
+      name: marketing_permission
+      label: Marketing Permission
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

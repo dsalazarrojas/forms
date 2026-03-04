@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: model_release_agreement
+    pages:
+    - id: 1
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_contact_info
+      label: business_contact_info
+      hint: Please provide the business contact information, including email and phone
+        number.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: business_use
+      label: business_use
+      hint: Check the box if you are using this model's likeness for commercial purposes.
+      type: select_multiple
+      options:
+      - for commercial purposes
+      - Other
+      required: false
+    - id: 7
+      name: model_release_agreement
+      label: model_release_agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: model_statement
+      label: model_statement
+      hint: A Model Release Agreement is a contract between a model and a business
+        that gives permission for the model’s likeness to be used in marketing materials
+        or for commercial purposes.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_statement
+      label: business_statement
+      hint: This is a statement from the business side of the Model Release Agreement.
+      type: text
+      options: []
+      required: false

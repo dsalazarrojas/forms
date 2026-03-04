@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internship Verification Letter Request
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employer
+      label: employer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: school
+      label: school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: internship_start_date
+      label: Internship Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: internship_end_date
+      label: Internship End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: internship_duties
+      label: Internship Duties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: request_note
+      label: Request Note
+      hint: null
+      type: note
+      options: []
+      required: false

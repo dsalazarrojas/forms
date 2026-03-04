@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comet Discovery Report
+    pages:
+    - id: 1
+      name: header
+      label: -- Comet Observation Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observation_date
+      label: Observation date and time
+      hint: YYYY-MM-DD and time
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: location_coordinates
+      label: Location coordinates
+      hint: Latitude and longitude
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: brightness_magnitude
+      label: Brightness magnitude
+      hint: Apparent magnitude estimate
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tail_length_estimate
+      label: Tail length estimate
+      hint: Visual estimate in degrees
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: instrument_used
+      label: Instrument used
+      hint: Telescope or binocular type
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photos_provided
+      label: Photos provided
+      hint: Are photos attached or available
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: additional_observations
+      label: Additional observations
+      hint: Trajectory, speed, or notes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: For follow up by research team
+      type: email
+      options: []
+      required: false

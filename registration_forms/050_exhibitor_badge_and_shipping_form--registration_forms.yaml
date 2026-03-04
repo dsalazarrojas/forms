@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibitor Badge And Shipping Form
+    pages:
+    - id: 1
+      name: exhibitor_badge_and_shipping_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: exhibitor_badge_and_shipping_form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: badge_design_id
+      label: badge_design_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: badge_type
+      label: badge_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Badge Type 1'', ''value'': ''badge_type_1''}'
+      - '{''id'': 2, ''label'': ''Badge Type 2'', ''value'': ''badge_type_2''}'
+      - '{''id'': 3, ''label'': ''Badge Type 3'', ''value'': ''badge_type_3''}'
+      required: true
+    - id: 7
+      name: badge_number
+      label: badge_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_postal
+      label: shipping_postal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_country
+      label: shipping_country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shipping_email
+      label: shipping_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: shipping_phone
+      label: shipping_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

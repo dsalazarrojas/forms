@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_center_registration_form
+    pages:
+    - id: 1
+      name: new_learner
+      label: New Learner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: learning_center
+      label: Learning Center
+      hint: null
+      type: select_one
+      options:
+      - Learning Center A
+      - Learning Center B
+      required: false
+    - id: 6
+      name: student_program
+      label: Student Program
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - University
+      required: false
+    - id: 7
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: learning_level
+      label: Learning Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

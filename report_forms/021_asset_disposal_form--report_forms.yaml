@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Disposal Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of disposal request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Person requesting disposal
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Requesting department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: asset_id
+      label: Asset ID Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: asset_name
+      label: Asset Name
+      hint: Description of asset
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: asset_category
+      label: Asset Category
+      hint: Type of asset
+      type: select_one
+      options:
+      - Office Equipment
+      - Computer Hardware
+      - Machinery
+      - Vehicles
+      - Furniture
+      - Tools
+      - Other
+      required: true
+    - id: 7
+      name: serial_number
+      label: Serial Number
+      hint: Manufacturer serial number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purchase_date
+      label: Original Purchase Date
+      hint: When was it bought
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: original_cost
+      label: Original Purchase Cost
+      hint: Initial price paid
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_book_value
+      label: Current Book Value
+      hint: Depreciated value
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: asset_condition
+      label: Current Condition
+      hint: State of asset
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Beyond Repair
+      - Obsolete
+      required: true
+    - id: 12
+      name: disposal_reason
+      label: Reason for Disposal
+      hint: Why dispose
+      type: select_one
+      options:
+      - Obsolete Technology
+      - Beyond Economic Repair
+      - No Longer Needed
+      - Damaged Beyond Use
+      - Safety Concerns
+      - Replacement Available
+      - End of Useful Life
+      required: true
+    - id: 13
+      name: disposal_description
+      label: Detailed Description
+      hint: Explain reason
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: proposed_disposal_method
+      label: Proposed Disposal Method
+      hint: How to dispose
+      type: select_one
+      options:
+      - Sell
+      - Donate
+      - Recycle
+      - Scrap
+      - Destroy
+      - Return to Vendor
+      - Trade-In
+      required: true
+    - id: 15
+      name: estimated_disposal_value
+      label: Estimated Disposal Value
+      hint: Expected recovery amount
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: disposal_cost
+      label: Estimated Disposal Cost
+      hint: Cost to dispose
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: environmental_concerns
+      label: Are There Environmental Concerns
+      hint: Hazardous materials
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: environmental_details
+      label: Environmental Details
+      hint: Describe concerns
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: data_wipe_required
+      label: Is Data Wipe Required
+      hint: For electronic devices
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 20
+      name: data_wipe_certificate
+      label: Data Wipe Certificate Required
+      hint: Documentation needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: approval_department_head
+      label: Department Head Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 22
+      name: approval_finance
+      label: Finance Department Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 23
+      name: approval_management
+      label: Management Approval
+      hint: Final approval
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 24
+      name: disposal_completed_date
+      label: Disposal Completed Date
+      hint: When disposed
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: disposal_notes
+      label: Disposal Notes
+      hint: Final notes
+      type: text
+      options: []
+      required: false

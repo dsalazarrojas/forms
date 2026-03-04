@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pro Social Bonding Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is the most important thing to you about belonging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: belonging_group
+      label: Do you currently belong to a social group
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 3
+      name: group_participation
+      label: How often do you participate in group activities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''1-2 times a month''}'
+      - '{''option2'': ''3-4 times a month''}'
+      - '{''option3'': ''5-6 times a month''}'
+      - '{''option4'': ''Almost daily''}'
+      required: false
+    - id: 4
+      name: pro_social_behavior
+      label: How often do you engage in pro-social behavior
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''1-2 times a month''}'
+      - '{''option2'': ''3-4 times a month''}'
+      - '{''option3'': ''5-6 times a month''}'
+      - '{''option4'': ''Almost daily''}'
+      required: false
+    - id: 5
+      name: favorite_group
+      label: What is your favorite group to belong to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: group_size
+      label: How many people in your group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_in_group
+      label: How much time you spend with your group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: group_type
+      label: What type of group do you belong to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Friends''}'
+      - '{''option2'': ''Family''}'
+      - '{''option3'': ''Hobbies''}'
+      - '{''option4'': ''Work''}'
+      required: false
+    - id: 9
+      name: group_dynamics
+      label: How would you describe the relationships within your group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Trust''}'
+      - '{''option2'': ''Supportive''}'
+      - '{''option3'': ''Respect''}'
+      - '{''option4'': ''Open Communication''}'
+      required: false
+    - id: 10
+      name: group_influence
+      label: How would you describe your influence within your group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Positive''}'
+      - '{''option2'': ''Negative''}'
+      - '{''option3'': ''Neutral''}'
+      required: false
+    - id: 11
+      name: group_leadership
+      label: Who is the most influential member of your group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Leader''}'
+      - '{''option2'': ''Co-Leader''}'
+      - '{''option3'': ''No leader''}'
+      required: false
+    - id: 12
+      name: group_leadership_important
+      label: How important is it to have a leader in your group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: leader_skills
+      label: What is the most important skill of your group leader
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Leadership''}'
+      - '{''option2'': ''Communication''}'
+      - '{''option3'': ''Problem Solving''}'
+      - '{''option4'': ''Adaptability''}'
+      required: false
+    - id: 14
+      name: group_satisfaction
+      label: How satisfied are you with your group
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Very Satisfied''}'
+      - '{''option2'': ''Somewhat Satisfied''}'
+      - '{''option3'': ''Neither Satisfied nor Dissatisfied''}'
+      - '{''option4'': ''Somewhat Dissatisfied''}'
+      - '{''option5'': ''Very Dissatisfied''}'
+      required: false
+    - id: 15
+      name: group_satisfaction_reasons
+      label: Why are you not satisfied with your group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attachment_level
+      label: How attached are you to your group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Strongly Attached''}'
+      - '{''option2'': ''Moderately Attached''}'
+      - '{''option3'': ''Somewhat Attached''}'
+      - '{''option4'': ''Not Attached''}'
+      required: false
+    - id: 17
+      name: relationship_quality
+      label: How would you describe your relationship with your group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''High''}'
+      - '{''option2'': ''Medium''}'
+      - '{''option3'': ''Low''}'
+      required: false
+    - id: 18
+      name: relationship_frequency
+      label: How often do you see your group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Weekly''}'
+      - '{''option3'': ''Monthly''}'
+      - '{''option4'': ''Rarely''}'
+      required: false
+    - id: 19
+      name: relationship_type
+      label: What type of relationship do you have with your group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Intimacy''}'
+      - '{''option2'': ''Affiliation''}'
+      - '{''option3'': ''Familiarity''}'
+      required: false
+    - id: 20
+      name: relationship_depth
+      label: How deep is your relationship with your group
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Shallow''}'
+      - '{''option2'': ''Moderate''}'
+      - '{''option3'': ''Deep''}'
+      required: false
+    - id: 21
+      name: relationship_quality_reasons
+      label: Why do you describe your relationship as shallow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: relationship_satisfaction_reasons
+      label: Why are you satisfied or dissatisfied with your relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: relationship_attachment
+      label: How would you describe your attachment to your group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Secure''}'
+      - '{''option2'': ''Anxious-Preoccupied''}'
+      - '{''option3'': ''Dismissive-Avoidant''}'
+      - '{''option4'': ''Fearful-Avoidant''}'
+      required: false
+    - id: 24
+      name: relationship_investment
+      label: How invested do you feel in your relationship with your group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: relationship_duration
+      label: How long have you known your group
+      hint: null
+      type: number
+      options: []
+      required: false

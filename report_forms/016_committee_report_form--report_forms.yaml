@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Committee Report Form
+    pages:
+    - id: 1
+      name: section_report_header
+      label: -- Committee Report Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporting_committee_name
+      label: Name of Committee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_prepared_by
+      label: Report Prepared By
+      hint: Full Name and Role
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period
+      label: Reporting Period
+      hint: e.g., Monthly, Quarterly, Annual
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      - Ad-hoc
+      required: true
+    - id: 5
+      name: section_meeting_summary
+      label: -- Meeting Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: last_meeting_date
+      label: Date of the Last Meeting
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: number_of_members_present
+      label: Number of Members Present
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: quorum_met
+      label: Was a Quorum present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: section_key_activities
+      label: -- Committee Activities and Progress --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: key_decisions_made
+      label: Key Decisions Made during the Reporting Period
+      hint: Summarize major outcomes and votes
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: progress_on_goals
+      label: Progress on Committee Goals
+      hint: Reference specific objectives from the strategic plan
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: projects_completed
+      label: Projects Completed or Major Milestones Achieved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_challenges
+      label: Current Challenges or Roadblocks
+      hint: Anything preventing progress
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_future_actions
+      label: -- Future Actions and Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: upcoming_agenda_items
+      label: Key Items for the Next Meeting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: required_board_actions
+      label: Actions or Approvals Requested from the Board/Leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: budgetary_requests
+      label: Any Budgetary or Resource Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_report_submission
+      label: -- Report Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: report_submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: report_attachment_link
+      label: Link to Supporting Documents or Minutes
+      hint: e.g., Google Drive or Dropbox link
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: committee_chair_approval_check
+      label: I confirm this report has been reviewed and approved by the Committee
+        Chair
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true

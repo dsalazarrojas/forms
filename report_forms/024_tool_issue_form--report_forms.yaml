@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: tool_issue_form
+    pages:
+    - id: 1
+      name: tool_issue_report
+      label: Tool Issue Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tool_category
+      label: Tool Category
+      hint: Select a tool category
+      type: select_one
+      options:
+      - Drill Bit
+      - Hand Tool
+      - Handheld Tool
+      - Machine Tool
+      - Other
+      - Power Tool
+      required: false
+    - id: 3
+      name: tool_subcategory
+      label: Tool Subcategory
+      hint: Select a subcategory
+      type: select_multiple
+      options:
+      - Hammer
+      - Screwdriver
+      - Tape Measure
+      - Level
+      - Other
+      required: false
+    - id: 4
+      name: tool_description
+      label: Tool Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tool_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: tool_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Warehouse
+      - Toolroom
+      - Workshop
+      - Office
+      required: false
+    - id: 7
+      name: tool_serial_number
+      label: Serial Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tool_issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: tool_issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: tool_replaced_by
+      label: Replaced By
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Employee
+      - Customer
+      - Other
+      required: false
+    - id: 11
+      name: tool_replaced_date
+      label: Replaced Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tool_reassigned_to
+      label: Reassigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: tool_reassigned_date
+      label: Reassigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: tool_returned
+      label: Returned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: tool_returned_date
+      label: Returned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: tool_note
+      label: Note
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: tool_returned_to
+      label: Returned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: tool_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tool_returned_by
+      label: Returned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: tool_returned_status
+      label: Returned Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

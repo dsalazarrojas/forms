@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Drug Release Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_info
+      label: Medication Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_data
+      label: Release Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prescriber_info
+      label: Prescriber Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: release_status
+      label: Release Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Released
+      - Expired
+      required: false
+    - id: 10
+      name: release_reason
+      label: Release Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Prescription refill
+      - Patient request
+      - Clinical update
+      required: false
+    - id: 11
+      name: prescriber_name
+      label: Prescriber Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prescriber_title
+      label: Prescriber Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pharmacy_location
+      label: Pharmacy Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: release_by
+      label: Release By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: release_comments
+      label: Release Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: prescriber_email
+      label: Prescriber Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: prescriber_phone
+      label: Prescriber Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_birthdate
+      label: Patient Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: patient_birthdate_optional
+      label: Patient Birthdate Optional
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: prescriber_address
+      label: Prescriber Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prescriber_license_number
+      label: Prescriber License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_medication_list
+      label: Patient Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: release_status_date
+      label: Release Status Date
+      hint: null
+      type: date
+      options: []
+      required: false

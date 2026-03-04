@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Manufacturing Standard Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: certifications
+      label: certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: certifications_date
+      label: date_certified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: energy_consumption
+      label: energy_consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: water_consumption
+      label: water_consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: waste_disposal
+      label: waste_disposal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true

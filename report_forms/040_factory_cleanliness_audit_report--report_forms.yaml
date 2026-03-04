@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Cleanliness Audit Report
+    pages:
+    - id: 1
+      name: factory_cleanliness_audit_form
+      label: Factory Cleanliness Audit Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Cleanliness Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: clean_areas
+      label: Clean Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '10'
+      - '20'
+      required: false
+    - id: 4
+      name: areas_inspected
+      label: Areas Inspected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: ehs_person_inspected
+      label: EHS Person Inspected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quality_person_inspected
+      label: Quality Person Inspected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: operations_person_inspected
+      label: Operations Person Inspected
+      hint: null
+      type: text
+      options: []
+      required: false

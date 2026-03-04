@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Press Release Form
+    pages:
+    - id: 1
+      name: release_information
+      label: Press Release Information
+      hint: Basic details about the press release
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: release_title
+      label: Press Release Title
+      hint: Headline for the press release
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: release_date
+      label: Release Date
+      hint: Date for public distribution
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Media Contact Name
+      hint: Person for media inquiries
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Media Contact Email
+      hint: Email for press inquiries
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Media Contact Phone
+      hint: Phone number for urgent inquiries
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: concert_details
+      label: Concert Event Details
+      hint: Information about the concert
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: Official concert title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: When the concert takes place
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: Start time of the concert
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: venue_name
+      label: Venue Name
+      hint: Location of the concert
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: venue_city
+      label: Venue City and State
+      hint: City and state or province
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: performing_artists
+      label: Performing Artists
+      hint: All artists performing
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: genre
+      label: Music Genre
+      hint: Primary genre of the event
+      type: select_one
+      options:
+      - Rock
+      - Pop
+      - Classical
+      - Jazz
+      - Country
+      - Electronic
+      - Hip Hop
+      - R and B
+      - Folk
+      - Metal
+      - Mixed Genre
+      required: true
+    - id: 15
+      name: press_content
+      label: Press Release Content
+      hint: Main body of the press release
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: headline
+      label: Main Headline
+      hint: Catchy headline for media
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: subheadline
+      label: Subheadline
+      hint: Supporting headline text
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: body_text
+      label: Press Release Body
+      hint: Full press release content
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: quote
+      label: Featured Quote
+      hint: Quote from organizer or artist
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ticket_info
+      label: Ticket Information
+      hint: How and where to buy tickets
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: media_assets
+      label: Media Assets
+      hint: Available photos and videos
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: photos_available
+      label: Press Photos Available
+      hint: Are promotional photos available
+      type: select_one
+      options:
+      - Yes High Resolution
+      - Yes Low Resolution
+      - No Photos Available
+      required: false
+    - id: 23
+      name: video_available
+      label: Press Video Available
+      hint: Is video content available
+      type: select_one
+      options:
+      - Yes Trailer Available
+      - Yes Full Performance
+      - No Video Available
+      required: false
+    - id: 24
+      name: social_media_links
+      label: Social Media Links
+      hint: Relevant social media URLs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes for Media
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

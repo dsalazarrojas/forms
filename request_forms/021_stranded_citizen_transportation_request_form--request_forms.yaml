@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: stranded_citizen_transportation_request_form
+    pages:
+    - id: 1
+      name: citizen_name
+      label: Citizen Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Boat
+      required: false
+    - id: 7
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: stranded_since
+      label: Stranded Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: help_type
+      label: Help Type
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Food
+      - Water
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transportation_request
+      label: Transportation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transportation_method
+      label: Transportation Method
+      hint: null
+      type: select_one
+      options:
+      - Airplane
+      - Helicopter
+      - Boat
+      - Car
+      - Train
+      required: false
+    - id: 14
+      name: transportation_time
+      label: Transportation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

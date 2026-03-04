@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Call Center Report Form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: form_section_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_section_1_3
+      label: form_section_1_3_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_section_2
+      label: form_section_2_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: form_section_3
+      label: form_section_3_label
+      hint: null
+      type: number
+      options: []
+      required: false

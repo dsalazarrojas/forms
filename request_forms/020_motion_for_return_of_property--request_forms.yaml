@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motion For Return Of Property
+    pages:
+    - id: 1
+      name: request_form
+      label: request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_id
+      label: caseid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motion_date
+      label: motiondate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: propertytype
+      hint: null
+      type: select_one
+      options:
+      - property
+      - land
+      - vehicle
+      required: false
+    - id: 5
+      name: property_description
+      label: propertydescription
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: supporting_docs
+      label: supportingdocs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: case_number
+      label: casenumber
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: return_reason
+      label: returnreason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: return_request_type
+      label: returnrequesttype
+      hint: null
+      type: select_one
+      options:
+      - return
+      - abandon
+      - lost
+      required: false
+    - id: 10
+      name: return_request_date
+      label: returnrequestdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: return_reason_description
+      label: returnreasondescription
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: witness_statement
+      label: witnessstatement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_witnesses
+      label: supportingwitnesses
+      hint: null
+      type: select_multiple
+      options:
+      - witness1
+      - witness2
+      - witness3
+      required: false
+    - id: 15
+      name: motion_status
+      label: motionstatus
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false

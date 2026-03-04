@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Audio Recording Consent
+    pages:
+    - id: 1
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: audio_recording_permission
+      label: audio recording permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: consent_type
+      label: type of consent
+      hint: null
+      type: select_one
+      options:
+      - Consent to audio recording
+      - Explicit consent
+      - Implied consent
+      required: false
+    - id: 7
+      name: consent_date
+      label: consent date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent_expires
+      label: consent expires
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: company_address
+      label: company address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_representative
+      label: company representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: audio_recording_purpose
+      label: audio recording purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: audio_recording_device
+      label: audio recording device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consent_given
+      label: consent given
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: consent_revoked
+      label: consent revoked
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: security_auditor
+      label: security auditor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: security_auditor_email
+      label: security auditor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: security_auditor_phone
+      label: security auditor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: security_auditor_email_verified
+      label: security auditor email verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - unknown
+      required: false
+    - id: 19
+      name: security_auditor_phone_verified
+      label: security auditor phone verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - unknown
+      required: false
+    - id: 20
+      name: security_auditor_signature_date
+      label: security auditor signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: security_auditor_signature
+      label: security auditor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: security_auditor_note
+      label: security auditor note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: company_signature
+      label: company signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: security_auditor_note
+      label: security auditor note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: company_representative_email
+      label: company representative email
+      hint: null
+      type: email
+      options: []
+      required: false

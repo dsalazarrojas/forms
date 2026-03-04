@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Miscellaneous Information Form
+    pages:
+    - id: 1
+      name: form_1
+      label: form_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      - Department D
+      required: false
+    - id: 5
+      name: form_5
+      label: description
+      hint: Description of the internal miscellaneous information form
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - Select 1
+      - Select 2
+      - Select 3
+      required: false
+    - id: 7
+      name: form_7
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: ssl_information_collection_form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Information
+      hint: Enter your contact information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: csr_data
+      label: CSR Data
+      hint: Enter CSR data
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: domains
+      label: Domains
+      hint: Enter domains
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: ssl_type
+      label: SSL Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: domain_type
+      label: Domain Type
+      hint: Enter domain type
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: domain_name
+      label: Domain Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expiration_date
+      label: Expiration Date
+      hint: Enter expiration date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: renew
+      label: Renew
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

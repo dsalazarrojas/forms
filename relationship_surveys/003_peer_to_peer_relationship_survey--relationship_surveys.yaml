@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer To Peer Relationship Survey
+    pages:
+    - id: 1
+      name: survey_name
+      label: survey_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_type
+      label: relationship_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Friend''}'
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Coworker''}'
+      required: false
+    - id: 3
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: Please provide more info
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_date
+      label: survey_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: duration
+      hint: How long?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: survey_date_2
+      label: survey_date_2
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retrofit Planning Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_retrofit
+      label: Date of Retrofit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 10
+      name: project_manager
+      label: Project Manager
+      hint: John Doe
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: Jane Doe
+      type: text
+      options: []
+      required: false

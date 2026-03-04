@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plans Examination Registration
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_name
+      label: Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: plan_documents
+      label: Plan Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Type A''}'
+      - '{''value'': ''Type B''}'
+      - '{''value'': ''Type C''}'
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

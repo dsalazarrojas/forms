@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory CO₂ Emission Report Form
+    pages:
+    - id: 1
+      name: factory_details
+      label: Factory Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: emission_totals
+      label: Emission Totals
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: factory_id
+      label: Factory Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emission_factor
+      label: Emission Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reporting_period_id
+      label: Reporting Period Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporting_start_date
+      label: Reporting Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reporting_end_date
+      label: Reporting End Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Monthly
+      - Annually
+      required: true
+    - id: 10
+      name: emission_value
+      label: Emission Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: emission_unit
+      label: Emission Unit
+      hint: null
+      type: select_one
+      options:
+      - Tonnes CO₂
+      - Tonnes CO₂e
+      - Tonnes CO₂e (default)
+      required: true
+    - id: 12
+      name: reporting_period_unit
+      label: Reporting Period Unit
+      hint: null
+      type: select_one
+      options:
+      - Year
+      - Month
+      - Day
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

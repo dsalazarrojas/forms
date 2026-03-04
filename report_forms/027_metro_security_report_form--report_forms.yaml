@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metro Security Report Form
+    pages:
+    - id: 1
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: threat_type
+      label: Threat Type
+      hint: null
+      type: select_one
+      options:
+      - option
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: threat_level
+      label: Threat Level
+      hint: null
+      type: select_one
+      options:
+      - option
+      - option2
+      required: false
+    - id: 4
+      name: threat_details
+      label: Threat Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false

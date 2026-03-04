@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent For Release Adult
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_release_auth
+      label: -- Authorization to Release Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_authorized
+      label: I authorize the following organization to release my records
+      hint: e.g. Healthcare provider, School, Employer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: receiving_organization
+      label: Person or Organization to receive the information
+      hint: e.g. The Youth Connection
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: info_to_be_released
+      label: Specific Information to be Released
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Academic Records and Transcripts
+      - Medical and Health Records
+      - Employment History and References
+      - Enrollment and Attendance Data
+      - Criminal Background Information
+      required: true
+    - id: 9
+      name: purpose_of_disclosure
+      label: Purpose of this Disclosure
+      hint: null
+      type: select_one
+      options:
+      - Enrollment in YIT Services
+      - Employment Screening
+      - Educational Planning
+      - Legal Requirements
+      - Other
+      required: true
+    - id: 10
+      name: section_expiry_withdrawal
+      label: -- Duration and Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: expiration_date
+      label: This authorization will expire on
+      hint: If blank, expires in 12 months
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: right_to_revoke
+      label: I understand I have the right to revoke this consent at any time
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 13
+      name: section_final_auth
+      label: -- Signature and Validation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: applicant_signature
+      label: Applicant Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_of_signature
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: witness_name
+      label: Witness Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

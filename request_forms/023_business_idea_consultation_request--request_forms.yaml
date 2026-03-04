@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Idea Consultation Request
+    pages:
+    - id: 1
+      name: section_entrepreneur_profile
+      label: -- Entrepreneur Profile --
+      hint: Tell us about yourself
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entrepreneur_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entrepreneur_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: previous_startup_experience_level
+      label: Previous Startup Experience
+      hint: null
+      type: select_one
+      options:
+      - First-time Founder
+      - Previous Experience (Non-founder)
+      - Serial Entrepreneur (1-2 startups)
+      - Experienced Founder (3+ startups)
+      required: true
+    - id: 5
+      name: section_idea_concept
+      label: -- Idea Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: business_idea_working_title
+      label: Idea Name or Working Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_idea_concept_summary
+      label: Business Model Overview
+      hint: Describe how your idea will make money (briefly)
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: target_market_audience_desc
+      label: Target Market and Audience
+      hint: Who are your primary customers
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_development_stage
+      label: Current Stage of Development
+      hint: null
+      type: select_one
+      options:
+      - Initial Concept / Idea Only
+      - Market Research Phase
+      - Prototype / MVP under development
+      - MVP Launched / Initial Users
+      - Scaling / Growth
+      required: true
+    - id: 10
+      name: section_consultation_goals
+      label: -- Consultation Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: specific_questions_for_consultant
+      label: Specific Questions for the Consultant
+      hint: What is the primary area you need help with
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: consultation_meeting_availability
+      label: General Availability for Meeting
+      hint: e.g. Tuesday mornings, Wednesday afternoons
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: referral_source_consultation
+      label: How did you hear about our program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_legal_compliance
+      label: -- Legal and Confidentiality --
+      hint: We treat all ideas as strictly confidential
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confidentiality_terms_agreement
+      label: I agree to the Consultation Terms and Confidentiality Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: request_submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

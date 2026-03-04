@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Show Appearance Release Form
+    pages:
+    - id: 1
+      name: guardian_name
+      label: Guardian Name
+      hint: Name of parent or legal guardian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: Name of child appearing in show
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event or Show Name
+      hint: Name of production or event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: appearance_date
+      label: Appearance Date
+      hint: Date of the scheduled appearance
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: media_consent
+      label: Media Consent
+      hint: Allow use of images and recordings
+      type: select_one
+      options:
+      - Yes allow
+      - No do not allow
+      required: true
+    - id: 6
+      name: liability_release
+      label: Liability Release
+      hint: Agree to release organizers from liability
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact Phone
+      hint: Phone reachable during event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any specific needs for the child during appearance
+      type: text
+      options: []
+      required: false

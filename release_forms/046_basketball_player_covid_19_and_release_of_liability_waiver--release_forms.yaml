@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Player COVID 19 And Release Of Liability Waiver
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: player_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: player_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Parent/Guardian Information (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent/Guardian name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_email
+      label: Parent/Guardian email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: parent_phone
+      label: Parent/Guardian phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- COVID-19 Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: covid_symptoms
+      label: Do you have any COVID-19 symptoms?
+      hint: Fever, cough, shortness of breath, etc.
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: covid_exposure
+      label: Have you been exposed to COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Uncertain
+      required: true
+    - id: 13
+      name: quarantine_status
+      label: Are you currently in quarantine?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 14
+      name: vaccination_status
+      label: Vaccination status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Say
+      required: false
+    - id: 15
+      name: section_header_4
+      label: -- Acknowledgment of Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: covid_risk_acknowledgment
+      label: I understand the risks of COVID-19 transmission in basketball activities
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 17
+      name: health_condition_acknowledgment
+      label: I confirm I am in good health to participate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Release and Liability Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: release_liability
+      label: I release the organization from liability for COVID-19 related injuries
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: assumption_of_risk
+      label: I assume all risks of COVID-19 transmission
+      hint: null
+      type: select_one
+      options:
+      - I Assume Risk
+      - I Decline
+      required: true
+    - id: 21
+      name: general_liability_release
+      label: I release the organization from general liability claims
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: section_header_6
+      label: -- Parent/Guardian Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: parent_consent
+      label: Parent/Guardian consents to player participation
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: false
+    - id: 24
+      name: section_header_7
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_confirmation
+      label: I confirm I have read and understand this waiver
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need More Time
+      required: true

@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Installer Work Report
+    pages:
+    - id: 1
+      name: weekly_installer_work_report
+      label: weekly_installer_work_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_sites
+      label: job_sites
+      hint: Enter job site names, e.g., 123 main st or ABC corp HQ
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true

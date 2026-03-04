@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Lab Report Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Lab Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: lab_name
+      label: Laboratory Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lab_technician
+      label: Lab Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_id
+      label: Patient ID or MRN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_phone
+      label: Patient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: physician_name
+      label: Referring Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_3
+      label: -- Sample Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Nasopharyngeal swab
+      - Oropharyngeal swab
+      - Saliva
+      - Blood
+      - Sputum
+      - Other
+      required: true
+    - id: 14
+      name: sample_collection_date
+      label: Sample Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: sample_collection_time
+      label: Sample Collection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: sample_id
+      label: Sample ID or Barcode
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_header_4
+      label: -- Test Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - PCR
+      - Antigen
+      - Antibody
+      - Rapid diagnostic
+      - Other
+      required: true
+    - id: 19
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Invalid
+      required: true
+    - id: 20
+      name: ct_value
+      label: Ct Value (if applicable)
+      hint: Cycle threshold
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: test_methodology
+      label: Test Methodology
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_header_5
+      label: -- Interpretation and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: clinical_interpretation
+      label: Clinical Interpretation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: lab_director_name
+      label: Lab Director Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending review
+      - Rejected
+      required: true

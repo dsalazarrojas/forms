@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Academy Trainer Renewal Application Form
+    pages:
+    - id: 1
+      name: trainer_header
+      label: -- Trainer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: trainer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trainer_id
+      label: Current Trainer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_status
+      label: Current Status at Academy
+      hint: null
+      type: select_one
+      options:
+      - Active Full-time
+      - Active Part-time
+      - On Leave
+      - Semi-Retired
+      required: true
+    - id: 7
+      name: certification_header
+      label: -- Certification and Credentials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: license_number
+      label: Beauty License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_expiration
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: current_certifications
+      label: Current Professional Certifications
+      hint: List all active certifications
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: continuing_education
+      label: Continuing Education Completed
+      hint: Courses and hours completed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: specialty_areas
+      label: Specialty Teaching Areas
+      hint: Makeup, hair, esthetics, nail care, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: activity_header
+      label: -- Recent Activity and Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: students_trained_annually
+      label: Number of Students Trained Annually
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: current_classes
+      label: Current Classes Taught
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: student_feedback_rating
+      label: Recent Student Feedback Rating
+      hint: null
+      type: select_one
+      options:
+      - Below Average
+      - Average
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 17
+      name: training_innovations
+      label: New Training Methods or Innovations Implemented
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: disciplinary_header
+      label: -- Disciplinary and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: disciplinary_actions
+      label: Any Disciplinary Actions in Past 2 Years
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Minor
+      - Yes - Major
+      required: true
+    - id: 20
+      name: disciplinary_details
+      label: Explain Any Disciplinary Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: compliance_acknowledgment
+      label: Acknowledge Compliance with Academy Standards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: renewal_header
+      label: -- Renewal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: renewal_period
+      label: Renewal Period
+      hint: null
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      required: true
+    - id: 24
+      name: ongoing_commitment
+      label: Commitment to Continue Teaching
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Updated resume, certifications, evaluations, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: additional_notes
+      label: Additional Comments or Information
+      hint: null
+      type: text
+      options: []
+      required: false

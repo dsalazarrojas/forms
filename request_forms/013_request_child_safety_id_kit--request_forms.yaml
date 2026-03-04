@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request Child Safety ID Kit
+    pages:
+    - id: 1
+      name: request_child_safety_id_kit_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Non Profit
+      - Community Program
+      - Other
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: submitter_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: false
+    - id: 16
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: request_id
+      label: Request ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: form_language
+      label: Form Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Japanese
+      - Chinese
+      - Arabic
+      - Korean
+      required: false
+    - id: 19
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: submitter_country
+      label: Submitter Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Australia
+      - Brazil
+      - China
+      - Japan
+      - South Korea
+      required: true
+    - id: 21
+      name: submitter_timezone
+      label: Submitter Timezone
+      hint: null
+      type: select_one
+      options:
+      - America/New_York
+      - Pacific/Auckland
+      - Australia/Melbourne
+      - Europe/Berlin
+      - Japan
+      required: true
+    - id: 22
+      name: user_country
+      label: User Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Australia
+      - Brazil
+      - China
+      - Japan
+      - South Korea
+      required: true
+    - id: 23
+      name: user_timezone
+      label: User Timezone
+      hint: null
+      type: select_one
+      options:
+      - America/New_York
+      - Pacific/Auckland
+      - Australia/Melbourne
+      - Europe/Berlin
+      - Japan
+      required: true
+    - id: 24
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true

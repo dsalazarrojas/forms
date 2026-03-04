@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Research Data Release Form
+    pages:
+    - id: 1
+      name: section_requestor_info
+      label: -- Data Release Requestor --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Date of Request
+      hint: When is this release being requested
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of person requesting data
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_title
+      label: Requestor Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requestor_department
+      label: Department or Lab
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requestor_email
+      label: Requestor Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: requestor_phone
+      label: Requestor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_data_info
+      label: -- Data Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: data_type
+      label: Type of Data to be Released
+      hint: What type of data
+      type: select_multiple
+      options:
+      - Raw Sequencing Data
+      - Analysis Results
+      - Patient Data
+      - Genomic Data
+      - Protein Data
+      - Experimental Results
+      - Clinical Trial Data
+      - Other
+      required: true
+    - id: 10
+      name: data_description
+      label: Description of Data Being Released
+      hint: Detailed description of the dataset
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: data_volume
+      label: Volume of Data
+      hint: Size or quantity of data
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: data_project_id
+      label: Project ID or Identifier
+      hint: Associated project number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: data_collection_date
+      label: Data Collection Period
+      hint: When was data collected
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_recipient_info
+      label: -- Data Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: recipient_name
+      label: Recipient Name
+      hint: Name of person receiving data
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recipient_title
+      label: Recipient Title
+      hint: Recipient's professional title
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: recipient_organization
+      label: Recipient Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recipient_email
+      label: Recipient Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_purpose
+      label: -- Purpose and Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: release_purpose
+      label: Purpose for Data Release
+      hint: Why is this data being released
+      type: select_one
+      options:
+      - Continuing Research
+      - Publication
+      - Collaboration
+      - Clinical Use
+      - Regulatory Submission
+      - Quality Control
+      - Other
+      required: true
+    - id: 22
+      name: intended_use
+      label: Intended Use of Data
+      hint: Describe how data will be used
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: research_protocol
+      label: Associated Research Protocol or Study
+      hint: If applicable, name the protocol
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_restrictions
+      label: -- Data Use Restrictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: confidentiality_required
+      label: Confidentiality Requirements
+      hint: Does recipient need to maintain confidentiality
+      type: select_one
+      options:
+      - Yes - Confidential
+      - No - Public Use Allowed
+      - Limited Sharing Only
+      required: true
+    - id: 26
+      name: publication_embargo
+      label: Publication Embargo Period
+      hint: How long before data can be published
+      type: select_one
+      options:
+      - No Embargo - Can Publish Immediately
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - As Agreed
+      required: false
+    - id: 27
+      name: secondary_analysis
+      label: Secondary Analysis Allowed
+      hint: Can recipient use data for other analyses
+      type: select_one
+      options:
+      - true
+      - false
+      - With Permission Only
+      required: true
+    - id: 28
+      name: data_sharing
+      label: Data Can Be Shared with Third Parties
+      hint: Can recipient share with other researchers
+      type: select_one
+      options:
+      - true
+      - false
+      - With Original Requestor Permission
+      required: true
+    - id: 29
+      name: section_compliance
+      label: -- Compliance and Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: irb_approval
+      label: IRB Approval Status
+      hint: Is IRB approval in place
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not Required
+      - Exempt
+      required: true
+    - id: 31
+      name: hipaa_compliance
+      label: HIPAA Compliance Required
+      hint: Does recipient need HIPAA compliance
+      type: select_one
+      options:
+      - Yes - HIPAA Required
+      - No - Not Required
+      - Unknown
+      required: false
+    - id: 32
+      name: data_security_plan
+      label: Recipient Data Security Plan in Place
+      hint: Does recipient have security measures
+      type: select_one
+      options:
+      - Yes - Confirmed
+      - No - Not Provided
+      - Under Review
+      required: true
+    - id: 33
+      name: section_approval
+      label: -- Authorization and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: pi_approval
+      label: Principal Investigator Approval
+      hint: PI name if approved
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: approval_date
+      label: Date of Approval
+      hint: When was this approved
+      type: date
+      options: []
+      required: true

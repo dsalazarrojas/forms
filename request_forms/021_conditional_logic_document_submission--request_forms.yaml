@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conditional Logic Document Submission
+    pages:
+    - id: 1
+      name: submission_intro
+      label: Document Submission Form
+      hint: Submit your required documents securely
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submission_type
+      label: Submission Type
+      hint: What are you submitting
+      type: select_one
+      options:
+      - Employment Documents
+      - Academic Records
+      - Legal Documents
+      - Financial Records
+      - Medical Records
+      - Identity Verification
+      - Other
+      required: true
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: applicant_info
+      label: Applicant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: For verification
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: applicant_type
+      label: Applicant Type
+      hint: Your relationship to organization
+      type: select_one
+      options:
+      - Employee
+      - Student
+      - Client
+      - Patient
+      - Vendor
+      - Other
+      required: true
+    - id: 10
+      name: reference_number
+      label: Reference Number
+      hint: Case or application ID
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: document_upload_section
+      label: Document Upload Section
+      hint: Upload your files
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_document
+      label: Primary Document
+      hint: Main required file
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: secondary_document
+      label: Secondary Document
+      hint: Additional file
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_document
+      label: Supporting Documents
+      hint: Any extra files
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: document_description
+      label: Document Description
+      hint: Brief description of files
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_questions
+      label: Additional Questions
+      hint: Conditional based on type
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: employment_status
+      label: Current Employment Status
+      hint: If submitting employment docs
+      type: select_one
+      options:
+      - Employed Full Time
+      - Employed Part Time
+      - Self Employed
+      - Unemployed
+      - Student
+      - Retired
+      required: false
+    - id: 18
+      name: years_experience
+      label: Years of Experience
+      hint: Relevant experience
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: education_level
+      label: Education Level
+      hint: Highest level completed
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Other
+      required: false
+    - id: 20
+      name: certifications
+      label: Professional Certifications
+      hint: List any certifications
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: declaration
+      label: Declaration
+      hint: Confirm accuracy
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: accuracy_statement
+      label: Accuracy Statement
+      hint: Confirm documents are accurate
+      type: select_one
+      options:
+      - I Confirm Accuracy
+      - I Do Not Confirm
+      required: true
+    - id: 23
+      name: consent_to_verify
+      label: Consent to Verify
+      hint: Allow verification of documents
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 24
+      name: privacy_acknowledgment
+      label: Privacy Acknowledgment
+      hint: Understand privacy policy
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 25
+      name: submit_confirmation
+      label: Submit Confirmation
+      hint: Finalize submission
+      type: select_one
+      options:
+      - Submit Now
+      - Save as Draft
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: on_site_team_report
+    pages:
+    - id: 1
+      name: on_site_report
+      label: on_site_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: shift_start
+      label: shift_start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shift_end
+      label: shift_end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: shift_duration
+      label: shift_duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: task_progress
+      label: task_progress
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: site_updates
+      label: site_updates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: site_comments
+      label: site_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_comments
+      label: supervisor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: on_site_report
+      label: on_site_report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

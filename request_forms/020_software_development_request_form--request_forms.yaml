@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Development Request Form
+    pages:
+    - id: 1
+      name: project_request_details
+      label: Project Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Web Development
+      - Mobile App Development
+      - Software Development
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: client_info
+      label: Client Information
+      hint: Client Name, Email, Phone Number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - On Hold
+      - Cancelled
+      required: false
+    - id: 6
+      name: team_info
+      label: Team Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: deadline
+      label: Deadline
+      hint: Deadline Date (YYYY-MM-DD)
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: estimated_hours
+      label: Estimated Hours
+      hint: Estimated hours for project
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

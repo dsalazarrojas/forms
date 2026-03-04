@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Screening Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: user_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: user_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: user_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: user_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: security_clearance
+      label: Security Clearance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Level 1''}'
+      - '{''label'': ''Level 2''}'
+      - '{''label'': ''Level 3''}'
+      required: true
+    - id: 11
+      name: reason_for_clearance
+      label: Reason for Clearance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Background Check''}'
+      - '{''label'': ''Security Interview''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: clearance_date
+      label: Clearance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: clearance_time
+      label: Clearance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: security_clearance_status
+      label: Security Clearance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Denied''}'
+      - '{''label'': ''Pending''}'
+      required: true
+    - id: 15
+      name: background_check_result
+      label: Background Check Result
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Passed''}'
+      - '{''label'': ''Failed''}'
+      - '{''label'': ''Pending''}'
+      required: true
+    - id: 16
+      name: security_screening_comments
+      label: Security Screening Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: security_screening_signature
+      label: Security Screening Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree''}'
+      - '{''label'': ''Do not agree''}'
+      required: true
+    - id: 19
+      name: user_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: user_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: user_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: security_screening_agency
+      label: Security Screening Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: security_screening_comments
+      label: Security Screening Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: security_screening_review_date
+      label: Security Screening Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: security_screening_review_by
+      label: Security Screening Review By
+      hint: null
+      type: text
+      options: []
+      required: false

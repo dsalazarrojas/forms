@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Aid Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_attention
+      label: medical_attention
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_attention_given
+      label: medical_attention_given
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: head_injury
+      label: head_injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: head_injury_glasgow_coma_scale
+      label: head_injury_glasgow_coma_scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: neck_injury
+      label: neck_injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: neck_injury_glasgow_coma_scale
+      label: neck_injury_glasgow_coma_scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: chest_injury
+      label: chest_injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: chest_injury_glasgow_coma_scale
+      label: chest_injury_glasgow_coma_scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: abdominal_injury
+      label: abdominal_injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: abdominal_injury_glasgow_coma_scale
+      label: abdominal_injury_glasgow_coma_scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: back_injury
+      label: back_injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: back_injury_glasgow_coma_scale
+      label: back_injury_glasgow_coma_scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: extremities_injury
+      label: extremities_injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: extremities_injury_glasgow_coma_scale
+      label: extremities_injury_glasgow_coma_scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: face_injury
+      label: face_injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: face_injury_glasgow_coma_scale
+      label: face_injury_glasgow_coma_scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: medical_provider_id
+      label: medical_provider_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_provider_name
+      label: medical_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_provider_signature
+      label: medical_provider_signature
+      hint: null
+      type: text
+      options: []
+      required: false

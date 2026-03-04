@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Repair Service Agreement
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name of boat owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Customer Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: boat_name
+      label: Boat Name
+      hint: Name of vessel
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: boat_model
+      label: Boat Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: boat_hull_id
+      label: Boat Hull ID
+      hint: HIN number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: Type of service needed
+      type: select_one
+      options:
+      - Engine Repair
+      - Hull Repair
+      - Electrical System
+      - Plumbing System
+      - Propeller Service
+      - Winterization
+      - De-winterization
+      - General Maintenance
+      - Collision Repair
+      - Other
+      required: true
+    - id: 11
+      name: problem_description
+      label: Problem Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: when_problem_started
+      label: When Problem Started
+      hint: When did you notice the issue?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When do you want service?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: service_location
+      label: Service Location
+      hint: Where should service be performed?
+      type: select_one
+      options:
+      - At Our Shop
+      - Mobile Service - At Marina
+      - Mobile Service - At Home
+      - Other Location
+      required: true
+    - id: 15
+      name: marina_name
+      label: Marina Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: slip_number
+      label: Slip Number
+      hint: Boat location
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this repair?
+      type: select_one
+      options:
+      - Routine - No Rush
+      - Soon - Within 1 Week
+      - Urgent - Within 48 Hours
+      - Emergency - Immediate
+      required: true
+    - id: 18
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Your budget range
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,001 - $2,500
+      - $2,501 - $5,000
+      - Over $5,000
+      - Need Estimate First
+      required: true
+    - id: 19
+      name: authorization_limit
+      label: Authorization Limit
+      hint: Maximum amount without additional approval
+      type: select_one
+      options:
+      - $500
+      - $1,000
+      - $2,500
+      - $5,000
+      - No Limit - Full Authorization
+      required: true
+    - id: 20
+      name: parts_preference
+      label: Parts Preference
+      hint: OEM or aftermarket?
+      type: select_one
+      options:
+      - OEM Parts Only
+      - Aftermarket Acceptable
+      - No Preference
+      required: false
+    - id: 21
+      name: warranty_status
+      label: Warranty Status
+      hint: Is boat under warranty?
+      type: select_one
+      options:
+      - Yes, under manufacturer warranty
+      - Yes, under extended warranty
+      - No, out of warranty
+      - Unsure
+      required: false
+    - id: 22
+      name: previous_repairs
+      label: Previous Repairs
+      hint: Any recent repairs on this issue?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_terms
+      label: Payment Terms
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Payment Upon Completion
+      - 50% Deposit Required
+      - Credit Account
+      - Insurance Claim
+      required: true
+    - id: 24
+      name: service_agreement
+      label: Service Agreement
+      hint: I agree to the terms of service
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 25
+      name: customer_signature
+      label: Customer Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: service_provider_name
+      label: Service Provider Name
+      hint: Company representative
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: agreement_number
+      label: Agreement Number
+      hint: For internal use
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Maintenance Scheduling Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: station_location
+      label: station_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_requirements
+      label: service_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: images
+      label: images
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reporter_signature
+      label: reporter_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

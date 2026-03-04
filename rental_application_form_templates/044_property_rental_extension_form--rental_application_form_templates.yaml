@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Rental Extension Form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rent_extension_period
+      label: Rent Extension
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 1 month
+      required: false
+    - id: 3
+      name: reason_for_extension
+      label: Reason for Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenant
+      label: Tenant Signature
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_manager_signature
+      label: Property Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_extension_requested
+      label: Date Extension Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_extension_granted
+      label: Date Extension Granted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: extension_status
+      label: Extension Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - granted
+      - denied
+      required: false
+    - id: 11
+      name: comments_extension_status
+      label: Comments Extension Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_details_2
+      label: Property Details 2
+      hint: null
+      type: text
+      options: []
+      required: false

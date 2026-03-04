@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 5K Sign Up Form
+    pages:
+    - id: 1
+      name: header_welcome
+      label: "--- Sign Up ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full name as you'd like it to appear on results
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of birth
+      hint: Required for age categories
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Optional but recommended for race-day messages
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: shirt_size
+      label: Shirt size
+      hint: Select preferred size
+      type: select_one
+      options:
+        - S
+        - M
+        - L
+        - XL
+      required: true
+    - id: 7
+      name: race_category
+      label: Category
+      hint: Choose your participation type
+      type: select_one
+      options:
+        - Competitive 5K
+        - Recreational 5K
+        - Virtual run
+      required: true
+    - id: 8
+      name: allergies_or_medications
+      label: Allergies or medications organizers should know
+      hint: Leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact (Name — Phone)
+      hint: Provide both name and number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: waiver
+      label: I accept the race waiver and safety instructions
+      hint: Typed name is accepted as electronic signature
+      type: select_one
+      options:
+        - Accepted (signed)
+        - Declined
+      required: true
+    - id: 11
+      name: donation_opt_in
+      label: Would you like to add a donation to your registration?
+      hint: Donations support event charity partner
+      type: select_one
+      options:
+        - Yes, add $5
+        - Yes, add $10
+        - No, thank you
+      required: false
+    - id: 12
+      name: comments
+      label: Additional comments or requests
+      hint: e.g., pace group, accessibility needs
+      type: text
+      options: []
+      required: false

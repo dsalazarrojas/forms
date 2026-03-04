@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Source Validation Request Form
+    pages:
+    - id: 1
+      name: supplier_details
+      label: Supplier Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_info
+      label: Material Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: certification_info
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: document_upload
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supplier_info
+      label: Supplier Info
+      hint: Select one supplier from the list
+      type: select_one
+      options:
+      - supplier_a
+      - supplier_b
+      required: true
+    - id: 6
+      name: material_certifications
+      label: Material Certifications
+      hint: Select the applicable certifications
+      type: select_multiple
+      options:
+      - option_a
+      - option_b
+      - option_c
+      required: true
+    - id: 7
+      name: material_info_1
+      label: Material Information 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: material_info_2
+      label: Material Information 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_of_delivery
+      label: Date of Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_delivery
+      label: Time of Delivery
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false

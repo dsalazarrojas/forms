@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Project Status Submission Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''completed'', ''label'': ''Completed''}'
+      - '{''id'': 3, ''name'': ''cancelled'', ''label'': ''Cancelled''}'
+      required: false
+    - id: 3
+      name: risk_description
+      label: Risk Description
+      hint: Provide any known risks or issues affecting the project
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_level
+      label: Risk Level
+      hint: High, Medium, or Low
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High'', ''label'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low'', ''label'': ''Low''}'
+      required: false
+    - id: 5
+      name: next_status_update
+      label: Next Status Update
+      hint: Date of next status update (if applicable)
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: status_update
+      label: Status Update
+      hint: Briefly describe the project status
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_members
+      label: Team Members
+      hint: List team members working on the project
+      type: text
+      options: []
+      required: false

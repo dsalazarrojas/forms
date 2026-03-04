@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Podcast Release Form
+    pages:
+    - id: 1
+      name: sample_podcast_release_form
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_phone
+      label: Guest Phone
+      hint: Please enter a phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: podcast_title
+      label: Podcast Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: podcast_date
+      label: Podcast Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: podcast_time
+      label: Podcast Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: podcast_length
+      label: Podcast Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: podcast_description
+      label: Podcast Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: podcast_audio
+      label: Podcast Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: release_status
+      label: Release Status
+      hint: null
+      type: select_one
+      options:
+      - Released
+      - Not Released
+      required: true
+    - id: 12
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false

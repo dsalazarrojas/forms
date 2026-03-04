@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outpatient Psychiatric Progress Note Template
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_record_number
+      label: medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: date of service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: primary_diagnosis
+      label: primary diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mental_status
+      label: mental status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: chief_complaint
+      label: chief complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: chief_complaint_location
+      label: chief complaint location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: history_of_present_illness
+      label: history of present illness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_plan
+      label: treatment plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_history
+      label: social history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: physical_exam
+      label: physical exam
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies_medications
+      label: allergies/medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: review_of_systems
+      label: review of systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assessment
+      label: assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: plan
+      label: plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: physician_signature
+      label: physician signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: physician_title
+      label: physician title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_completed
+      label: date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time_completed
+      label: time completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: time_entered
+      label: time entered
+      hint: null
+      type: time
+      options: []
+      required: false

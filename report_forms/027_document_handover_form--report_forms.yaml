@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Handover Form
+    pages:
+    - id: 1
+      name: document_handover_form_page_1
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_handover_form_page_2
+      label: Select Client
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Client 1''}'
+      - '{''name'': ''Client 2''}'
+      - '{''name'': ''Client 3''}'
+      required: false
+    - id: 3
+      name: document_handover_form_page_3
+      label: Select Document
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Document 1''}'
+      - '{''name'': ''Document 2''}'
+      - '{''name'': ''Document 3''}'
+      required: false
+    - id: 4
+      name: document_handover_form_page_4
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: document_handover_form_page_5
+      label: Document Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: document_handover_form_page_6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: document_handover_form_page_7
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_handover_form_page_8
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_handover_form_page_9
+      label: Select Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Document 1''}'
+      - '{''name'': ''Document 2''}'
+      - '{''name'': ''Document 3''}'
+      required: false
+    - id: 10
+      name: document_handover_form_page_10
+      label: File Upload 1
+      hint: null
+      type: note
+      options: []
+      required: false

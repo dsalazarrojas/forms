@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Imaging Prior Authorization Request
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: clinical_services_provided
+      label: Clinical Services Provided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requestor_organization
+      label: Requestor Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requestor_phone
+      label: Requestor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physician_address
+      label: Physician Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: imaging_request
+      label: Imaging Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: imaging_date
+      label: Imaging Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: imaging_time
+      label: Imaging Time
+      hint: null
+      type: time
+      options: []
+      required: false

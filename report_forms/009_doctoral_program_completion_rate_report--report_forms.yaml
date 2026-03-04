@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctoral Program Completion Rate Report
+    pages:
+    - id: 1
+      name: university_name
+      label: University Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: degree_type
+      label: Degree Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: completion_outcome
+      label: Completion Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: graduate_name
+      label: Graduate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: graduate_name
+      label: Graduating University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: graduate_email
+      label: Graduation Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: graduate_phone
+      label: Graduation Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: completion_status_note
+      label: Completion Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: graduation_month
+      label: Graduation Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: graduation_quarter
+      label: Graduation Quarter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: student_location
+      label: Student Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: graduate_address
+      label: Graduation Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: graduation_country
+      label: Graduation Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: graduate_city
+      label: Graduation City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: graduate_state
+      label: Graduation State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: graduation_zip
+      label: Graduation Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: graduation_status
+      label: Graduation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 26
+      name: graduate_note
+      label: Graduate Note
+      hint: null
+      type: note
+      options: []
+      required: false

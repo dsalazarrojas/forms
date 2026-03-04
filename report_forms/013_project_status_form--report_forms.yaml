@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Status Form
+    pages:
+    - id: 1
+      name: project_status_form_page_1
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_status_form_page_2
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status_form_page_2_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_status_form_page_3
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_status_form_page_4
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: project_status_form_page_5
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_status_form_page_6
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_status_form_page_7
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_status_form_page_8
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: project_status_form_page_9
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

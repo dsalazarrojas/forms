@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Report Form
+    pages:
+    - id: 1
+      name: daily_report_form
+      label: daily_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: task_completed
+      label: tasks_completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: task_in_progress
+      label: tasks_in_progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issues_encountered
+      label: issues_encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: challenges_faced
+      label: challenges_faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

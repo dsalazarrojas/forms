@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Utilization Summary Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of person requesting summary
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email for delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: budget_period
+      label: Budget Period
+      hint: Period for the summary
+      type: select_one
+      options:
+      - Current Month
+      - Previous Month
+      - Current Quarter
+      - Previous Quarter
+      - Year to Date
+      - Full Fiscal Year
+      - Custom Period
+      required: true
+    - id: 7
+      name: custom_start_date
+      label: Custom Start Date
+      hint: If custom period selected
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: custom_end_date
+      label: Custom End Date
+      hint: If custom period selected
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_code
+      label: Project Code
+      hint: Relevant project or cost center code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: budget_category
+      label: Budget Category
+      hint: Specific category if applicable
+      type: select_one
+      options:
+      - All Categories
+      - Personnel
+      - Operations
+      - Capital Expenditures
+      - Marketing
+      - Research and Development
+      - Administrative
+      required: true
+    - id: 11
+      name: summary_format
+      label: Preferred Format
+      hint: How would you like to receive the summary
+      type: select_one
+      options:
+      - PDF Report
+      - Excel Spreadsheet
+      - CSV Data
+      - PowerPoint Presentation
+      - Email Summary
+      required: true
+    - id: 12
+      name: detail_level
+      label: Detail Level
+      hint: Level of detail required
+      type: select_one
+      options:
+      - Executive Summary Only
+      - Summary with Key Metrics
+      - Detailed Line Items
+      - Full Breakdown with Notes
+      required: true
+    - id: 13
+      name: include_comparisons
+      label: Include Comparisons
+      hint: What comparisons to include
+      type: select_multiple
+      options:
+      - Budget vs Actual
+      - Month over Month
+      - Quarter over Quarter
+      - Year over Year
+      - Forecast vs Actual
+      - None
+      required: true
+    - id: 14
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we deliver the summary
+      type: select_one
+      options:
+      - Email Attachment
+      - Shared Drive Link
+      - Printed Copy
+      - Portal Download
+      required: true
+    - id: 15
+      name: urgency
+      label: Urgency
+      hint: When do you need this summary
+      type: select_one
+      options:
+      - Routine - Within 5 Business Days
+      - Standard - Within 3 Business Days
+      - Urgent - Within 24 Hours
+      - Critical - Same Day
+      required: true
+    - id: 16
+      name: purpose
+      label: Purpose of Request
+      hint: Why do you need this summary
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special instructions or notes
+      type: text
+      options: []
+      required: false

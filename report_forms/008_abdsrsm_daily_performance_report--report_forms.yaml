@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Abdsrsm Daily Performance Report
+    pages:
+    - id: 1
+      name: section_header_report_info
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Operations
+      - Maintenance
+      - Safety
+      - Administration
+      - Logistics
+      - Other
+      required: true
+    - id: 5
+      name: report_date
+      label: Report date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: true
+    - id: 7
+      name: section_header_tasks
+      label: -- Tasks and Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tasks_completed
+      label: List of tasks completed during the shift
+      hint: Describe each task briefly
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tasks_in_progress
+      label: Tasks still in progress
+      hint: List any tasks not yet completed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tasks_pending
+      label: Tasks pending or deferred to the next shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_performance
+      label: -- Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: target_achieved
+      label: Were daily targets or goals achieved
+      hint: null
+      type: select_one
+      options:
+      - Yes - fully achieved
+      - Partially achieved
+      - Not achieved
+      required: true
+    - id: 13
+      name: units_produced
+      label: Number of units produced or processed
+      hint: Enter 0 if not applicable
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: quality_issues
+      label: Were any quality issues identified
+      hint: null
+      type: select_one
+      options:
+      - No issues
+      - Minor issues
+      - Major issues
+      required: true
+    - id: 15
+      name: quality_issue_details
+      label: If quality issues were found, describe them
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_safety
+      label: -- Safety and Incidents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: safety_incidents
+      label: Were there any safety incidents during the shift
+      hint: null
+      type: select_one
+      options:
+      - No incidents
+      - Near miss
+      - Minor incident
+      - Serious incident
+      required: true
+    - id: 18
+      name: incident_details
+      label: If an incident occurred, provide details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_issues
+      label: Were there any equipment malfunctions or issues
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 20
+      name: equipment_issue_details
+      label: If yes, describe the equipment issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_remarks
+      label: Supervisor remarks or comments
+      hint: null
+      type: text
+      options: []
+      required: false

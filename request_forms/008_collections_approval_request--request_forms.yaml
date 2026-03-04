@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collections Approval Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: request_number
+      label: Request Number
+      hint: Unique identifier for this request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requested_by
+      label: Requested By
+      hint: Name of person making request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: collector_name
+      label: Collections Agent or Team
+      hint: Who will handle the collection
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: Entity owing payment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_account_number
+      label: Customer Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: invoice_number
+      label: Invoice Number
+      hint: Associated invoice for collection
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: outstanding_amount
+      label: Outstanding Amount
+      hint: Total amount due
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: original_due_date
+      label: Original Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: days_past_due
+      label: Days Past Due
+      hint: Number of days overdue
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: previous_collection_attempts
+      label: Previous Collection Attempts
+      hint: Describe prior contact efforts
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: Current Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Unpaid
+      - Partially Paid
+      - Payment Pending
+      - Payment Refused
+      required: true
+    - id: 15
+      name: customer_contact_methods
+      label: Available Customer Contact Methods
+      hint: Select all available options
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      - In-person
+      - Fax
+      required: true
+    - id: 16
+      name: collection_strategy
+      label: Recommended Collection Strategy
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Email Reminder
+      - Formal Letter
+      - Legal Action
+      - Debt Settlement Negotiation
+      required: true
+    - id: 17
+      name: authority_level
+      label: Approval Authority Level Needed
+      hint: null
+      type: select_one
+      options:
+      - Manager Approval
+      - Department Head Approval
+      - Finance Director Approval
+      - Executive Approval
+      required: true
+    - id: 18
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Invoice, correspondence, agreement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: collection_deadline
+      label: Desired Collection Deadline
+      hint: When should collection be completed
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: special_considerations
+      label: Special Circumstances or Notes
+      hint: Any relevant context
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Approved with Modifications
+      - Denied
+      required: false
+    - id: 22
+      name: approver_name
+      label: Approver Name - if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_notes
+      label: Approval Comments
+      hint: Approval decision justification
+      type: text
+      options: []
+      required: false

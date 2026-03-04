@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Item Search Form
+    pages:
+    - id: 1
+      name: shopper_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_search
+      label: -- Item Search Details --
+      hint: What are you looking for
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: item_type
+      label: Type of Item
+      hint: What are you searching for
+      type: select_one
+      options:
+      - Specific garment
+      - Complete outfit
+      - Accessory
+      - Shoes
+      - Multiple items
+      required: true
+    - id: 6
+      name: garment_category
+      label: Garment Category
+      hint: null
+      type: select_one
+      options:
+      - Dress
+      - Pants or jeans
+      - Shirt or blouse
+      - Jacket or coat
+      - Sweater or cardigan
+      - Skirt
+      - Suit
+      - Activewear
+      - Other
+      required: true
+    - id: 7
+      name: section_style
+      label: -- Style Preferences --
+      hint: What style are you looking for
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: style_description
+      label: Describe Your Ideal Item
+      hint: Color, pattern, fabric, details
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: style_aesthetic
+      label: Style Aesthetic
+      hint: null
+      type: select_one
+      options:
+      - Classic and timeless
+      - Modern and contemporary
+      - Vintage or retro
+      - Trendy and fashionable
+      - Casual and comfortable
+      - Professional and formal
+      - Eclectic and unique
+      required: true
+    - id: 10
+      name: color_preference
+      label: Color Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Navy
+      - Red
+      - Pink
+      - Blue
+      - Green
+      - Neutral tones
+      - Patterns or prints
+      - Any color
+      required: false
+    - id: 11
+      name: section_sizing
+      label: -- Size and Fit --
+      hint: Your size and fit preferences
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: size
+      label: Your Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      - Custom size
+      required: true
+    - id: 13
+      name: fit_preference
+      label: Fit Preference
+      hint: null
+      type: select_one
+      options:
+      - Slim and fitted
+      - Classic fit
+      - Loose and relaxed
+      - Oversized
+      - No preference
+      required: true
+    - id: 14
+      name: length_preference
+      label: Length Preference
+      hint: For applicable items
+      type: select_one
+      options:
+      - Cropped or short
+      - Regular length
+      - Long or maxi
+      - No preference
+      required: false
+    - id: 15
+      name: section_fabric
+      label: -- Fabric and Material --
+      hint: Material preferences
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: fabric_preferences
+      label: Preferred Fabrics
+      hint: null
+      type: select_multiple
+      options:
+      - Cotton
+      - Linen
+      - Silk
+      - Wool
+      - Polyester
+      - Blend
+      - Denim
+      - Leather
+      - Other
+      required: false
+    - id: 17
+      name: fabric_characteristics
+      label: Fabric Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - Lightweight
+      - Stretchy or comfortable
+      - Warm and cozy
+      - Breathable
+      - Easy care or low-maintenance
+      - Sustainable or eco-friendly
+      required: false
+    - id: 18
+      name: section_brand
+      label: -- Brand and Price --
+      hint: Budget and brand preferences
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: brand_preference
+      label: Any Preferred Brands
+      hint: Specific brands you like
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - Under 25
+      - 25-50
+      - 50-100
+      - 100-200
+      - 200-500
+      - Over 500
+      - Flexible
+      required: false
+    - id: 21
+      name: section_occasion
+      label: -- Occasion and Purpose --
+      hint: When or why you need this item
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: intended_use
+      label: Intended Use or Occasion
+      hint: null
+      type: select_one
+      options:
+      - Everyday wear
+      - Work or professional
+      - Social event
+      - Special occasion
+      - Vacation or travel
+      - Multiple occasions
+      required: true
+    - id: 23
+      name: urgency
+      label: How urgently do you need this item
+      hint: null
+      type: select_one
+      options:
+      - Very urgent - within days
+      - Urgent - within 1-2 weeks
+      - Normal - within a month
+      - No rush
+      required: false
+    - id: 24
+      name: additional_preferences
+      label: Additional Preferences or Requirements
+      hint: Any other specific needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: followup_contact
+      label: May we contact you with recommendations
+      hint: null
+      type: select_one
+      options:
+      - Yes, contact me
+      - By email only
+      - By phone only
+      - No, I will check back
+      required: true

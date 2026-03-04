@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lift Template
+    pages:
+    - id: 1
+      name: report_forms_page
+      label: Report Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lift_settings_page
+      label: Lift Settings
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: lift_parameters_page
+      label: Lift Parameters
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lift_parameters_value
+      label: Lift Parameters Value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: lift_parameters_description
+      label: Lift Parameters Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lift_parameters_unit
+      label: Lift Parameters Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lift_parameters_note
+      label: Lift Parameters Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lift_template_page
+      label: Lift Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_version
+      label: Assigned Tool Version
+      hint: null
+      type: text
+      options: []
+      required: false

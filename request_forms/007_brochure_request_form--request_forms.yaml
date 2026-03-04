@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brochure Request Form
+    pages:
+    - id: 1
+      name: requester_information_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: Name of your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_details_header
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: brochure_subject
+      label: Brochure Subject
+      hint: What topic or product is the brochure about
+      type: select_one
+      options:
+      - Product Information
+      - Service Overview
+      - Company Information
+      - Event Information
+      - Educational Material
+      - Membership Information
+      - Other
+      required: true
+    - id: 8
+      name: brochure_purpose
+      label: Purpose of Brochure
+      hint: How will this brochure be used
+      type: select_one
+      options:
+      - Marketing Campaign
+      - Trade Show
+      - Customer Distribution
+      - Internal Use
+      - Educational
+      - Sales Support
+      - Other
+      required: true
+    - id: 9
+      name: quantity_needed
+      label: Quantity Needed
+      hint: How many brochures do you need
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target Audience
+      hint: Who is the intended audience for this brochure
+      type: select_multiple
+      options:
+      - Consumers
+      - Businesses
+      - Healthcare Professionals
+      - Educators
+      - Government
+      - Non-Profit
+      - Other
+      required: false
+    - id: 11
+      name: design_preferences_header
+      label: -- Design Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_style
+      label: Preferred Style
+      hint: Select your design style preference
+      type: select_one
+      options:
+      - Professional
+      - Creative
+      - Modern
+      - Classic
+      - Minimalist
+      - Bold
+      required: false
+    - id: 13
+      name: color_scheme
+      label: Color Scheme Preference
+      hint: Preferred color scheme if any
+      type: select_one
+      options:
+      - Full Color
+      - Black and White
+      - Two Color
+      - No Preference
+      required: false
+    - id: 14
+      name: content_requirements
+      label: Content Requirements
+      hint: What content should be included
+      type: select_multiple
+      options:
+      - Product Features
+      - Pricing Information
+      - Contact Information
+      - Company History
+      - Testimonials
+      - Images and Graphics
+      - Call to Action
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements or instructions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_information_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How would you like to receive the brochure
+      type: select_one
+      options:
+      - Digital PDF
+      - Printed Copies
+      - Both Digital and Printed
+      required: true
+    - id: 18
+      name: shipping_address
+      label: Shipping Address
+      hint: Address for printed brochure delivery
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: requested_date
+      label: Requested Delivery Date
+      hint: When do you need the brochure by
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: budget_information
+      label: Budget Range
+      hint: If you have a budget for this project
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1000
+      - $1000 to $2500
+      - $2500 to $5000
+      - Over $5000
+      - No Budget Constraint
+      required: false
+    - id: 21
+      name: additional_requests
+      label: Additional Requests
+      hint: Any other requests or information
+      type: text
+      options: []
+      required: false

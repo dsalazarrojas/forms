@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Access Privilege Request Form
+    pages:
+    - id: 1
+      name: tenant_access_privilege_request_form
+      label: Tenant Access Privilege Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_id
+      label: tenant_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: privilege_level
+      label: privilege_level
+      hint: null
+      type: select_multiple
+      options:
+      - view
+      - edit
+      - delete
+      required: false
+    - id: 4
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 5
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - user1
+      - user2
+      - user3
+      required: false
+    - id: 6
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

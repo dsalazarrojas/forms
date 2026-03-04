@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Request Form
+    pages:
+    - id: 1
+      name: requester_info_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Who is this request for?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: request_details_header
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: campaign_title
+      label: Campaign Title
+      hint: Short title for this advertising request.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: objective
+      label: Campaign Objective
+      hint: What is the main goal?
+      type: select_one
+      options:
+      - Promote a new product
+      - Increase brand awareness
+      - Drive event registration
+      - Recruit employees
+      - Other
+      required: true
+    - id: 8
+      name: target_demographic
+      label: Target Demographic
+      hint: Describe who should see these ads.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: channels
+      label: Requested Channels
+      hint: Where should the ads run?
+      type: select_multiple
+      options:
+      - Social Media
+      - Search Engines
+      - Email Marketing
+      - Print Ads
+      - Radio / Podcast
+      - Billboards
+      required: false
+    - id: 10
+      name: budget_allocation
+      label: Budget Allocation
+      hint: How much is allocated for this request?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: start_date
+      label: Requested Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: creative_assets
+      label: Creative Assets Availability
+      hint: Do you already have the images/copy?
+      type: select_one
+      options:
+      - Yes, fully ready
+      - Partially ready
+      - No, need creative services
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: Any specific instructions or constraints?
+      type: text
+      options: []
+      required: false

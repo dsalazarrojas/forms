@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Reference Verification
+    pages:
+    - id: 1
+      name: rental_application_form_template_question_1
+      label: Have you ever met the tenant before
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rental_application_form_template_question_2
+      label: How many years have you known the tenant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rental_application_form_template_question_3
+      label: What was your experience with the tenant like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rental_application_form_template_question_4
+      label: Do you know the tenant's employment history
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: rental_application_form_template_question_5
+      label: What was the length of the tenancy
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rental_application_form_template_question_6
+      label: Would you recommend the tenant
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: rental_application_form_template_question_7
+      label: Has the tenant ever committed a crime
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rental_application_form_template_question_8
+      label: rental_application_form_template_question_8
+      hint: null
+      type: email
+      options: []
+      required: false

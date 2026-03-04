@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Request Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_requested
+      label: Material Requested
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Paint''}'
+      - '{''id'': 1, ''name'': ''Tools''}'
+      - '{''id'': 2, ''name'': ''Supplies''}'
+      required: false
+    - id: 3
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''name'': ''New Construction''}'
+      - '{''id'': 1, ''name'': ''Renovation''}'
+      - '{''id'': 2, ''name'': ''Repairs''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Builders''}'
+      - '{''id'': 1, ''name'': ''Architects''}'
+      - '{''id'': 2, ''name'': ''Development Directors''}'
+      - '{''id'': 3, ''name'': ''Property Managers''}'
+      required: false
+    - id: 6
+      name: building_material
+      label: Building Material
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''name'': ''Paint''}'
+      - '{''id'': 1, ''name'': ''Tools''}'
+      - '{''id'': 2, ''name'': ''Supplies''}'
+      required: false
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 10
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

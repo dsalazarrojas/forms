@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Consumption Report Form
+    pages:
+    - id: 1
+      name: daily_consumption_report_form_page_1
+      label: Daily Consumption Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consumption_date
+      label: Consumption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sales_data
+      label: Sales Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false

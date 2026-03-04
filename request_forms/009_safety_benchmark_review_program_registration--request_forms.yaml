@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Benchmark Review Program Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_choice
+      label: Choose A Program
+      hint: Select one or more programs to review
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Program 1''}'
+      - '{''id'': 2, ''label'': ''Program 2''}'
+      - '{''id'': 3, ''label'': ''Program 3''}'
+      required: false
+    - id: 3
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: preferred_date_end
+      label: Preferred End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: goals
+      label: Share Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

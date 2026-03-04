@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concurrent Report And Treatment Plan
+    pages:
+      - id: 1
+        name: client_name
+        label: Client name
+        hint: Patient or client full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_of_assessment
+        label: Date of assessment
+        hint: Assessment date
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: presenting_issues
+        label: Presenting issues and symptoms
+        hint: Brief description of concerns
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: diagnosis
+        label: Diagnosis or clinical impressions
+        hint: Primary diagnosis if applicable
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: treatment_goals
+        label: Treatment goals
+        hint: Short term and long term goals
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: interventions
+        label: Interventions and methods planned
+        hint: Modalities and session focus
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: frequency_duration
+        label: Frequency and duration of sessions
+        hint: e g weekly for 8 weeks
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: risk_assessment
+        label: Risk assessment and safety plan
+        hint: Any safety concerns or plans
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: clinician_name
+        label: Clinician name
+        hint: Name of clinician completing form
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: follow_up
+        label: Follow up and review date
+        hint: Next review or reassessment date
+        type: date
+        options: []
+        required: false

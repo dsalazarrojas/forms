@@ -1,0 +1,279 @@
+inputSchema:
+  type: object
+  properties:
+    title: Romance Reading Habits Survey
+    pages:
+    - id: 1
+      name: romance_reading_habits_survey
+      label: What is your preferred method of reading romance?
+      hint: null
+      type: select_multiple
+      options:
+      - Romance
+      - Fantasy
+      - Mystery
+      - Historical
+      - Horror
+      - Science Fiction
+      - Other
+      required: true
+    - id: 2
+      name: favorite_romance_subgenre
+      label: Favorite romance subgenre
+      hint: null
+      type: select_one
+      options:
+      - Contemporary
+      - Historical
+      - Fantasy
+      - Paranormal
+      - Other
+      required: true
+    - id: 3
+      name: reading_frequency
+      label: How often do you read romance novels?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Sometimes
+      - Frequently
+      - Almost Daily
+      required: true
+    - id: 4
+      name: preferred_reading_format
+      label: Preferred reading format
+      hint: null
+      type: select_multiple
+      options:
+      - Book
+      - Audiobook
+      - E-book
+      - Graphic Novel
+      - Comic Book
+      required: true
+    - id: 5
+      name: romance_reading_habits_survey_note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 9
+      name: education_level
+      label: Education level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High School
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctoral
+      required: true
+    - id: 10
+      name: income_level
+      label: Income level
+      hint: null
+      type: select_one
+      options:
+      - Less than $25,000
+      - $25,000-$49,999
+      - $50,000-$74,999
+      - $75,000-$99,999
+      - $100,000 or more
+      required: true
+    - id: 11
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 13
+      name: employment_sector
+      label: Employment sector
+      hint: null
+      type: select_one
+      options:
+      - Private Company
+      - Public Agency
+      - Self Employed
+      - Education
+      - Healthcare
+      - Government
+      - Other
+      required: true
+    - id: 14
+      name: household_size
+      label: Household size
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - 3-4
+      - 5-6
+      - 7 or more
+      required: true
+    - id: 15
+      name: income_source
+      label: Income source
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Investment
+      - Business
+      - Social Security
+      - Pension
+      - Other
+      required: true
+    - id: 16
+      name: income_frequency
+      label: How often do you receive income?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Sometimes
+      - Frequently
+      - Almost Daily
+      required: true
+    - id: 17
+      name: employment_type
+      label: Employment type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Self-Employed
+      - Student
+      - Retired
+      required: true
+    - id: 18
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 19
+      name: work_hours
+      label: How many hours do you work per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: education_level
+      label: Education level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High School
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctoral
+      required: true
+    - id: 21
+      name: household_income
+      label: Household income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: marital_status
+      label: Marital status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Married
+      - Divorced
+      - Widowed
+      required: true
+    - id: 23
+      name: family_status
+      label: Family status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married with children
+      - Married without children
+      - Widowed with children
+      - Widowed without children
+      - Other
+      required: false
+    - id: 24
+      name: number_of_dependents
+      label: Number of dependents
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - 3 or more
+      required: false
+    - id: 25
+      name: survey_completed
+      label: How did you find this survey?
+      hint: null
+      type: select_one
+      options:
+      - Easy to use
+      - Difficult to use
+      - Not applicable
+      required: false

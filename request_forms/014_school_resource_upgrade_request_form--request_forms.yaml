@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Resource Upgrade Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Option_goals
+      - Option_furniture
+      - Option_equipment
+      required: true
+    - id: 5
+      name: upgrade_description
+      label: Upgrade Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_estimate
+      label: Budget Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 10
+      name: school_contact
+      label: School Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Option_Head of School
+      - Option_Department Chair
+      - Option_Teacher
+      required: true
+    - id: 11
+      name: facility_upgrade
+      label: Facility Upgrade
+      hint: null
+      type: select_one
+      options:
+      - Option_yes
+      - Option_no
+      required: true

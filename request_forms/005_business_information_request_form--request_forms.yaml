@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Request Form
+    pages:
+    - id: 1
+      name: requesting_party_name
+      label: Requesting Party Name
+      hint: Full name of person or organization requesting information
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requesting_organization
+      label: Requesting Organization
+      hint: Name of organization you represent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Requestor Email Address
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_phone
+      label: Requestor Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this information request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: target_business_name
+      label: Target Business Name
+      hint: Name of business you are requesting information about
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: target_business_address
+      label: Target Business Address
+      hint: Known address of target business
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relationship_to_target
+      label: Relationship to Target Business
+      hint: How are you related to or connected with this business
+      type: select_one
+      options:
+      - Potential investor
+      - Potential partner
+      - Vendor or supplier
+      - Customer or client
+      - Competitor analysis
+      - Legal representative
+      - Financial institution
+      - Government agency
+      - Research organization
+      - Other
+      required: true
+    - id: 9
+      name: information_type_requested
+      label: Type of Information Requested
+      hint: Select all types of information needed
+      type: select_multiple
+      options:
+      - Financial statements
+      - Business registration details
+      - Ownership information
+      - Credit history
+      - Litigation history
+      - Licensing information
+      - Tax records
+      - Operational data
+      - Customer references
+      - Other
+      required: true
+    - id: 10
+      name: purpose_of_request
+      label: Purpose of Information Request
+      hint: Why do you need this information
+      type: select_one
+      options:
+      - Due diligence for investment
+      - Partnership evaluation
+      - Vendor qualification
+      - Credit assessment
+      - Legal proceedings
+      - Market research
+      - Compliance verification
+      - Other
+      required: true
+    - id: 11
+      name: purpose_description
+      label: Purpose Description
+      hint: Provide detailed explanation of why you need this information
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: information_usage
+      label: How Information Will Be Used
+      hint: Describe how you will use the obtained information
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you agree to maintain confidentiality of received information
+      type: select_one
+      options:
+      - Yes - I agree to full confidentiality
+      - Yes - with specific exceptions
+      - No - information will be public
+      required: true
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgently do you need this information
+      type: select_one
+      options:
+      - Routine - no rush
+      - Standard - within 2 weeks
+      - Urgent - within 1 week
+      - Critical - within 48 hours
+      required: true
+    - id: 15
+      name: deadline_date
+      label: Required By Date
+      hint: Date by which you need the information
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: preferred_delivery_method
+      label: Preferred Delivery Method
+      hint: How would you like to receive the information
+      type: select_one
+      options:
+      - Email
+      - Secure file transfer
+      - Physical mail
+      - In-person pickup
+      - Fax
+      required: true
+    - id: 17
+      name: authorization_documentation
+      label: Authorization Documentation
+      hint: Do you have written authorization from the target business
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide separately
+      - No - not required for this request
+      - No - pending
+      required: true
+    - id: 18
+      name: legal_basis_for_request
+      label: Legal Basis for Request
+      hint: What legal basis allows you to request this information
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special requirements or considerations for this request
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: references
+      label: Professional References
+      hint: Provide names of professional references who can verify your request
+      type: text
+      options: []
+      required: false

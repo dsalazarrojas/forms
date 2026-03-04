@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Banking Relationship Feedback Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: customer_name
+        label: Customer Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: For feedback response
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: account_relationship_length
+        label: How Long Have You Been with Us?
+        hint: Select your tenure
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 - 2 years
+          - 2 - 5 years
+          - 5 - 10 years
+          - 10+ years
+        required: true
+      - id: 5
+        name: account_types
+        label: Which Products Do You Use?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Checking Account
+          - Savings Account
+          - Loans
+          - Credit Cards
+          - Investment Services
+          - Wealth Management
+          - Business Services
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall, How Satisfied Are You with Our Bank?
+        hint: Rate on scale of 1-5
+        type: select_one
+        options:
+          - "1 - Very Dissatisfied"
+          - "2 - Dissatisfied"
+          - "3 - Neutral"
+          - "4 - Satisfied"
+          - "5 - Very Satisfied"
+        required: true
+      - id: 7
+        name: customer_service_rating
+        label: How Would You Rate Our Customer Service?
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 8
+        name: branch_experience
+        label: How Easy Is It to Access Our Services?
+        hint: Rate accessibility
+        type: select_one
+        options:
+          - "1 - Very Difficult"
+          - "2 - Difficult"
+          - "3 - Neutral"
+          - "4 - Easy"
+          - "5 - Very Easy"
+        required: true
+      - id: 9
+        name: digital_banking_experience
+        label: How Satisfied Are You with Our Digital Banking Platform?
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very Dissatisfied"
+          - "2 - Dissatisfied"
+          - "3 - Neutral"
+          - "4 - Satisfied"
+          - "5 - Very Satisfied"
+        required: true
+      - id: 10
+        name: mobile_app_rating
+        label: How Would You Rate Our Mobile App?
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+          - N/A - Do Not Use
+        required: true
+      - id: 11
+        name: fees_value
+        label: How Reasonable Are Our Fees and Pricing?
+        hint: null
+        type: select_one
+        options:
+          - "1 - Too High"
+          - "2 - High"
+          - "3 - Fair"
+          - "4 - Reasonable"
+          - "5 - Excellent Value"
+        required: true
+      - id: 12
+        name: interest_rates
+        label: How Competitive Are Our Interest Rates?
+        hint: null
+        type: select_one
+        options:
+          - "1 - Well Below Market"
+          - "2 - Below Market"
+          - "3 - Market Rate"
+          - "4 - Above Market"
+          - "5 - Best in Market"
+        required: true
+      - id: 13
+        name: staff_knowledge
+        label: How Knowledgeable Are Our Staff Members?
+        hint: null
+        type: select_one
+        options:
+          - "1 - Not Knowledgeable"
+          - "2 - Somewhat Knowledgeable"
+          - "3 - Knowledgeable"
+          - "4 - Very Knowledgeable"
+          - "5 - Extremely Knowledgeable"
+        required: true
+      - id: 14
+        name: problem_resolution
+        label: How Well Are Problems Resolved?
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very Poor"
+          - "2 - Poor"
+          - "3 - Acceptable"
+          - "4 - Good"
+          - "5 - Excellent"
+        required: true
+      - id: 15
+        name: recommendation_likelihood
+        label: How Likely Are You to Recommend Us?
+        hint: Net Promoter Score question
+        type: select_one
+        options:
+          - "0 - Not At All Likely"
+          - "1"
+          - "2"
+          - "3"
+          - "4"
+          - "5"
+          - "6"
+          - "7"
+          - "8"
+          - "9"
+          - "10 - Very Likely"
+        required: true
+      - id: 16
+        name: recommendation_reason
+        label: Why Would You or Would You Not Recommend Us?
+        hint: Please explain
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: improvement_areas
+        label: What Areas Could We Improve?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Customer Service Quality
+          - Digital Banking Features
+          - Mobile App Functionality
+          - Fees and Pricing
+          - Interest Rates
+          - Branch Hours
+          - Product Variety
+          - Speed of Service
+        required: false
+      - id: 18
+        name: specific_improvements
+        label: Specific Improvement Suggestions
+        hint: Any specific ideas for improvement?
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: new_products_interest
+        label: Are You Interested in New Products or Services?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Maybe
+        required: false
+      - id: 20
+        name: product_interests
+        label: What New Products Interest You?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Investment Products
+          - Wealth Management
+          - Business Banking
+          - Mortgage Services
+          - Insurance Products
+          - Foreign Exchange
+        required: false

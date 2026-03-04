@@ -1,0 +1,389 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Observation Report
+    pages:
+    - id: 1
+      name: report_header
+      label: -- Building Observation Report --
+      hint: Document building conditions and observations
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: observer_name
+      label: Observer name
+      hint: Inspector or facility manager
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observer_credentials
+      label: Credentials or certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: building_info
+      label: -- Building Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: building_name
+      label: Building name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_age
+      label: Building age
+      hint: Years since construction
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: observation_type
+      label: Type of observation or inspection
+      hint: null
+      type: select_one
+      options:
+      - Routine inspection
+      - Safety inspection
+      - Damage assessment
+      - Pre-lease inspection
+      - Insurance inspection
+      - Annual review
+      - Specialty inspection
+      - Other
+      required: true
+    - id: 10
+      name: exterior_observations
+      label: -- Exterior Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: roof_observations
+      label: Roof condition observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: roof_rating
+      label: Roof condition rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent - New or recently maintained
+      - Good - Well-maintained
+      - Fair - Some wear and tear
+      - Poor - Visible deterioration
+      - Critical - Safety concern
+      required: true
+    - id: 13
+      name: foundation_observations
+      label: Foundation and structure observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: foundation_rating
+      label: Foundation condition rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Solid and sound
+      - Good - Minor cracks acceptable
+      - Fair - Moderate cracking
+      - Poor - Significant damage
+      - Critical - Structural concern
+      required: true
+    - id: 15
+      name: exterior_walls
+      label: Exterior walls and materials observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: water_infiltration
+      label: Evidence of water infiltration or damage
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor staining
+      - Active leaks
+      - Extensive water damage
+      - Mold present
+      required: true
+    - id: 17
+      name: interior_observations
+      label: -- Interior Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: floor_conditions
+      label: Floor conditions observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: floor_rating
+      label: Floor condition rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Well-maintained
+      - Good - Minor wear
+      - Fair - Moderate wear
+      - Poor - Significant damage
+      - Critical - Safety hazard
+      required: true
+    - id: 20
+      name: interior_surfaces
+      label: Walls, ceiling, and finishes observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: air_quality
+      label: Air quality and ventilation observations
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Fresh and clear
+      - Good - Adequate
+      - Fair - Slightly stale
+      - Poor - Stuffy or musty
+      - Critical - Odor or contamination
+      required: true
+    - id: 22
+      name: mold_mildew
+      label: Mold or mildew observations
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor presence
+      - Moderate growth
+      - Extensive growth
+      - Active mold problem
+      required: true
+    - id: 23
+      name: pest_observations
+      label: Pest or rodent observations
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor signs
+      - Moderate evidence
+      - Significant damage
+      - Active infestation
+      required: true
+    - id: 24
+      name: systems_observations
+      label: -- Systems Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: electrical_observations
+      label: Electrical system observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: electrical_rating
+      label: Electrical system condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Safe and modern
+      - Good - Adequate and safe
+      - Fair - Older but functional
+      - Poor - Hazards present
+      - Critical - Immediate attention
+      required: true
+    - id: 27
+      name: plumbing_observations
+      label: Plumbing system observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: plumbing_rating
+      label: Plumbing system condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - No issues
+      - Good - Functioning well
+      - Fair - Minor issues
+      - Poor - Multiple problems
+      - Critical - Major issues
+      required: true
+    - id: 29
+      name: hvac_observations
+      label: HVAC system observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: hvac_rating
+      label: HVAC condition and effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Well-maintained
+      - Good - Functional
+      - Fair - Some efficiency loss
+      - Poor - Significant issues
+      - Critical - Not functional
+      required: true
+    - id: 31
+      name: safety_observations
+      label: -- Safety Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: fire_safety_observations
+      label: Fire safety equipment observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: fire_safety_rating
+      label: Fire safety compliance
+      hint: null
+      type: select_one
+      options:
+      - Compliant - All measures present
+      - Mostly compliant
+      - Partially compliant
+      - Non-compliant
+      - Unknown
+      required: true
+    - id: 34
+      name: hazards_observed
+      label: Hazards or safety concerns observed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: hazard_severity
+      label: Severity of identified hazards
+      hint: null
+      type: select_one
+      options:
+      - None - Safe
+      - Minor - Low risk
+      - Moderate - Medium risk
+      - Major - High risk
+      - Critical - Imminent danger
+      required: true
+    - id: 36
+      name: maintenance_observations
+      label: -- Maintenance Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: maintenance_needed
+      label: Maintenance items needed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: maintenance_priority
+      label: Priority level for maintenance
+      hint: null
+      type: select_one
+      options:
+      - Routine - Scheduled maintenance
+      - Moderate - Should address soon
+      - High - Important repairs needed
+      - Critical - Urgent repairs
+      - Emergency - Immediate action
+      required: true
+    - id: 39
+      name: estimated_costs
+      label: Estimated cost for recommended repairs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: overall_assessment
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: overall_condition
+      label: Overall building condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Well-maintained
+      - Good - Minor issues only
+      - Fair - Some repairs needed
+      - Poor - Significant issues
+      - Critical - Major repairs needed
+      required: true
+    - id: 42
+      name: occupancy_safe
+      label: Safe for occupancy
+      hint: null
+      type: select_one
+      options:
+      - Yes - Fully safe
+      - Yes - With minor improvements
+      - Conditional - Repairs needed
+      - No - Safety concerns
+      - No - Unsafe
+      required: true
+    - id: 43
+      name: recommendations
+      label: Recommendations and next steps
+      hint: null
+      type: text
+      options: []
+      required: true

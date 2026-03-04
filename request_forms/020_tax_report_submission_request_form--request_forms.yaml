@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Report Submission Request Form
+    pages:
+    - id: 1
+      name: tax_report_submission_request_form
+      label: tax_report_submission_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_report_type
+      label: tax_report_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''W2''}'
+      - '{''value'': 1095}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 4
+      name: tax_report_due_date
+      label: tax_report_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: uploaded_documents
+      label: uploaded_documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''tax_return''}'
+      - '{''value'': ''financial_statement''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 7
+      name: tax_report_submission_status
+      label: tax_report_submission_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''submitted''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''cancelled''}'
+      required: false
+    - id: 8
+      name: tax_report_submission_comment
+      label: tax_report_submission_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_report_submission_requester
+      label: tax_report_submission_requester
+      hint: null
+      type: text
+      options: []
+      required: false

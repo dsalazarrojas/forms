@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: unemployment_income_verification_form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed - Full-time
+      - Employed - Part-time
+      - Unemployment
+      - Self-Employed
+      required: true
+    - id: 3
+      name: last_employer_name
+      label: Last Employer's Name
+      hint: Please enter the name of your last employer.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_employer_address
+      label: Last Employer's Address
+      hint: Please enter your last employer's address.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_employer_phone
+      label: Last Employer's Phone
+      hint: Please enter your last employer's phone number.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_employer_start_date
+      label: Last Employer's Start Date
+      hint: Please enter the start date of your last employment.
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: last_employer_end_date
+      label: Last Employer's End Date
+      hint: Please enter the end date of your last employment.
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: last_employer_reason_for_leaving
+      label: Last Employer's Reason for Leaving
+      hint: Please explain why you left your last employment.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: current_employer_name
+      label: Current Employer's Name
+      hint: Please enter the name of your current employer.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_employer_address
+      label: Current Employer's Address
+      hint: Please enter your current employer's address.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_employer_phone
+      label: Current Employer's Phone
+      hint: Please enter your current employer's phone number.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_employer_start_date
+      label: Current Employer's Start Date
+      hint: Please enter the start date of your current employment.
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: current_employer_end_date
+      label: Current Employer's End Date
+      hint: Please enter the end date of your current employment.
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: current_employer_reason_for_leaving
+      label: Current Employer's Reason for Leaving
+      hint: Please explain why you might leave your current employment.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: income_proof
+      label: Income Proof
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: employment_agency
+      label: Employment Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: other_income_proof
+      label: Other Income Proof
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

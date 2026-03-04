@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscaping Request Form
+    pages:
+    - id: 1
+      name: landscaping_request_form
+      label: Landscaping Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Landscaping
+      - Lawn Care
+      - Tree Trimming
+      - Other
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_requests
+      label: Service Requests
+      hint: null
+      type: text
+      options: []
+      required: false

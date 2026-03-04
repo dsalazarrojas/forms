@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Cooling Maintenance Request Form
+    pages:
+    - id: 1
+      name: request_form_1
+      label: request_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cooling_equipment_type
+      label: cooling_equipment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: maintenance_request
+      label: maintenance_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: schedule_service
+      label: schedule_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

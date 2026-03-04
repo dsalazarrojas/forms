@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lost Receipt Form
+    pages:
+    - id: 1
+      name: receipt_date
+      label: Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: receipt_number
+      label: Receipt Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_cost
+      label: Item Cost
+      hint: null
+      type: number
+      options: []
+      required: false

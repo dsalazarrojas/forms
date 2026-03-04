@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renewable Energy Request For Quotation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: energy_type
+      label: Energy Type
+      hint: null
+      type: select_one
+      options:
+      - Solar
+      - Wind
+      - Hydro
+      - Geothermal
+      - Biomass
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: energy_type_other
+      label: Other Energy Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location_other
+      label: Other Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message_other
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

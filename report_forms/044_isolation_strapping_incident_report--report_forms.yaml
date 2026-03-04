@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Isolation Strapping Incident Report
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: strapping_type
+      label: Strapping Type
+      hint: null
+      type: select_one
+      options:
+      - Isolation
+      - Quarantine
+      - Isolation and Quarantine
+      required: true
+    - id: 6
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporting_person
+      label: Reporting Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_count
+      label: Witness Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: strapping_date
+      label: Strapping Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Follow-up Call
+      - Follow-up Visit
+      required: false
+    - id: 14
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false

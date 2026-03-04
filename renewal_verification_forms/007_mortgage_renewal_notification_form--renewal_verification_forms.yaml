@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Renewal Notification Form
+    pages:
+    - id: 1
+      name: home_owner_name
+      label: Home Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lender_name
+      label: Lender Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: follow_up_reminders
+      label: Follow-up Reminders
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - None
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

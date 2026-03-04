@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Deposit Itemized Deduction Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: damage_amount
+      label: Damage Amount
+      hint: Enter damage amount here
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: repair_cost
+      label: Repair Cost
+      hint: Enter repair cost here
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Received
+      - Paid
+      required: false
+    - id: 6
+      name: security_deposit
+      label: Security Deposit
+      hint: Enter security deposit amount here
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: deduction_status
+      label: Deduction Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Received
+      - Paid
+      required: false
+    - id: 8
+      name: deduction_date
+      label: Deduction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: landlord_name
+      label: Landlord Name
+      hint: Enter landlord name here
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: note
+      options: []
+      required: false

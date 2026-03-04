@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: nail_stripes_invoice_request_form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: stripe_color
+      label: Stripe Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 7
+      name: stripe_pattern
+      label: Stripe Pattern
+      hint: null
+      type: select_multiple
+      options:
+      - Solid
+      - Striped
+      - Polka Dot
+      - Polka Dots
+      required: false
+    - id: 8
+      name: stripe_type
+      label: Stripe Type
+      hint: null
+      type: select_one
+      options:
+      - Nail
+      - Pedicure
+      required: true
+    - id: 9
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: invoice_sent_to
+      label: Invoice Sent To
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: invoice_address
+      label: Invoice Address
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      required: true
+    - id: 16
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: stripe_price
+      label: Stripe Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: discount_price
+      label: Discount Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - UPS
+      - FedEx_goals
+      required: true
+    - id: 23
+      name: shipping_price
+      label: Shipping Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false

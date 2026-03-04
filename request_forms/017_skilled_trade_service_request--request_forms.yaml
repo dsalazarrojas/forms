@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skilled Trade Service Request
+    pages:
+    - id: 1
+      name: skilled_trade_service_request
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trade_type
+      label: Trade Type
+      hint: null
+      type: select_one
+      options:
+      - electrician
+      - plumber
+      - HVAC technician
+      required: false
+    - id: 3
+      name: service_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false

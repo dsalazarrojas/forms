@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motorsport Event Driver Declaration Form
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: Vehicle Info
+      hint: Provide vehicle information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_equipment
+      label: Safety Equipment Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Helmet
+      - Fireproof Suit
+      - First Aid Kit
+      required: true
+    - id: 4
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_questions
+      label: Event Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: declaration
+      label: Declaration
+      hint: Please provide a clear statement of your declaration
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_info_additional
+      label: Event Info Additional
+      hint: null
+      type: text
+      options: []
+      required: false

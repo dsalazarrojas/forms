@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: CHSB Leave Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name as on record
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your staff identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your current department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_type
+      label: Type of Leave
+      hint: Select the leave category
+      type: select_one
+      options:
+      - Annual Leave
+      - Sick Leave
+      - Personal Leave
+      - Maternity Leave
+      - Paternity Leave
+      - Bereavement Leave
+      - Jury Duty
+      - Military Leave
+      - Unpaid Leave
+      - Other
+      required: true
+    - id: 7
+      name: start_date
+      label: Leave Start Date
+      hint: First day of leave
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: Leave End Date
+      hint: Last day of leave
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: return_date
+      label: Expected Return Date
+      hint: First day back at work
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_days
+      label: Total Days Requested
+      hint: Number of working days
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: Brief explanation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pending_projects
+      label: Pending Projects or Tasks
+      hint: List any outstanding work
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: coverage_arrangements
+      label: Coverage Arrangements
+      hint: Who will cover your duties
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_during_leave
+      label: Emergency Contact During Leave
+      hint: Phone number if reachable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_during_leave
+      label: Will You Check Email
+      hint: Availability during leave
+      type: select_one
+      options:
+      - Yes Regularly
+      - Yes Occasionally
+      - No Not At All
+      required: true
+    - id: 16
+      name: previous_leave_conflict
+      label: Any Previously Scheduled Leave
+      hint: Conflicts with this request
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: To be completed by supervisor
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending Review
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: request_date
+      label: Date of Request
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: employee_signature
+      label: Employee Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

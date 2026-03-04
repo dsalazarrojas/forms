@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Release Form For Hair Services
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: stylist_name
+      label: Hair Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: salon_name
+      label: Salon Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: services_received
+      label: Services Received
+      hint: null
+      type: select_multiple
+      options:
+      - Hair cutting
+      - Hair coloring
+      - Hair treatment
+      - Hair styling
+      - Hair straightening
+      - Extensions
+      - Other
+      required: true
+    - id: 8
+      name: allergies_sensitivities
+      label: Do you have any known allergies or sensitivities to hair products?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: allergy_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_reactions
+      label: Any previous bad reactions to hair treatments?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: reaction_details
+      label: Please describe the reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: scalp_condition
+      label: Current Scalp Condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Sensitive
+      - Irritated
+      - Other
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Any medical conditions affecting the scalp or hair?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Any medications that may affect hair treatment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consent_agreement
+      label: I agree that the salon has provided me with service appropriate to my
+        needs
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: release_clause
+      label: I release the salon and stylist from any liability for adverse reactions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Building Workshop Registration Form
+    pages:
+    - id: 1
+      name: registration_information
+      label: Registration Information
+      hint: Register for the community building workshop
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_information
+      label: Participant Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization
+      hint: Name of your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_information
+      label: Workshop Information
+      hint: Details about the workshop
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workshop_name
+      label: Workshop Name
+      hint: Which workshop are you registering for
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: workshop_date
+      label: Workshop Date
+      hint: Select your preferred workshop date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: workshop_format
+      label: Workshop Format
+      hint: How will you attend
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 14
+      name: workshop_track
+      label: Workshop Track
+      hint: Which track interests you
+      type: select_one
+      options:
+      - Community Organizing
+      - Leadership Development
+      - Conflict Resolution
+      - Project Planning
+      - Fundraising
+      - Communication Skills
+      - General
+      required: true
+    - id: 15
+      name: experience_level
+      label: Experience Level
+      hint: What is your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 16
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization do you represent
+      type: select_one
+      options:
+      - Non-Profit
+      - Community Group
+      - Government
+      - School
+      - Faith-Based
+      - Business
+      - Individual
+      - Other
+      required: true
+    - id: 17
+      name: years_in_community_work
+      label: Years in Community Work
+      hint: How long have you been doing community work
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 18
+      name: learning_goals
+      label: Learning Goals
+      hint: What do you hope to learn
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What challenges do you face in your work
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_needs
+      label: Special Needs
+      hint: Do you require any accommodations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: accommodations_needed
+      label: Accommodations Needed
+      hint: Describe any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: referral_source
+      label: Referral Source
+      hint: How did you hear about this workshop
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Email
+      - Colleague
+      - Previous Attendee
+      - Organization
+      - Other
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - Purchase Order
+      - Scholarship
+      - Free Registration
+      required: false
+    - id: 25
+      name: scholarship_needed
+      label: Scholarship Needed
+      hint: Do you need financial assistance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in networking opportunities
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Yes - Somewhat
+      - 'No'
+      required: false
+    - id: 27
+      name: follow_up_interest
+      label: Follow-Up Interest
+      hint: Would you be interested in follow-up sessions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I have read and agree to the cancellation policy
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true

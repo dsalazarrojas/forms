@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investigation Findings Report
+    pages:
+    - id: 1
+      name: investigation_findings
+      label: Investigation Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evidence_attached
+      label: Evidence Attached
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

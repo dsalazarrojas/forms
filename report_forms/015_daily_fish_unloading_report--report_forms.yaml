@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Fish Unloading Report
+    pages:
+    - id: 1
+      name: date
+      label: Unloading Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: vessel
+      label: Vessel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: landing_site
+      label: Landing Site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fish_species
+      label: Fish Species
+      hint: null
+      type: select_one
+      options:
+      - Salmon
+      - Cod
+      - Trout
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Damaged
+      required: true
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: unloading_time
+      label: Unloading Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Tutor Report
+    pages:
+    - id: 1
+      name: weekly_tutor_report_form
+      label: Weekly Tutor Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: students
+      label: students_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lessons_progress
+      label: Lessons Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_reporting
+      label: Date Of Reporting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_reporting
+      label: Time Of Reporting
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tutor_comments
+      label: Tutor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutritional Label Review Report Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Nutritional Label Review Report Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_details
+      label: Product Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ingredient_list
+      label: Ingredient List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: compliance_details
+      label: Compliance Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: label_reviewer
+      label: Label Reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: label_reviewer_email
+      label: Label Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: label_reviewer_phone
+      label: Label Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: label_status
+      label: Label Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: created_by_email
+      label: Created By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: created_by_phone
+      label: Created By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: form_version
+      label: Form Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: label_status_history
+      label: Label Status History
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_by_email
+      label: Updated By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: updated_by_phone
+      label: Updated By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: label_reviewed_by
+      label: Label Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: label_reviewed_date
+      label: Label Reviewed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: label_reviewed_by_email
+      label: Label Reviewed By Email
+      hint: null
+      type: email
+      options: []
+      required: false

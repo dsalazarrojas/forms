@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Quote Request Form
+    pages:
+    - id: 1
+      name: vendor_list
+      label: Select Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: budget
+      label: Your Budget
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: number_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: Your contact person
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_message
+      label: Vendor Message
+      hint: Your message to the vendor
+      type: text
+      options: []
+      required: true

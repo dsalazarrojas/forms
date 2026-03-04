@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: exam_registration_confirmation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exam_name
+      label: exam name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_status
+      label: participant status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - inactive
+      - pending
+      required: false
+    - id: 8
+      name: exam_start_date
+      label: exam start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: exam_end_date
+      label: exam end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: exam_duration
+      label: exam duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: communication_method
+      label: communication method
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - mail
+      required: false
+    - id: 12
+      name: confirm_participant_status
+      label: confirm participant status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: confirm_exam_status
+      label: confirm exam status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

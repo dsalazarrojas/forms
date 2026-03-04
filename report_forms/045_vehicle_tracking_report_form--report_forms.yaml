@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Tracking Report Form
+    pages:
+    - id: 1
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driver_info
+      label: Driver Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grate Maintenance Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grate_id
+      label: Grate ID
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: true
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_request
+      label: Service Request
+      hint: null
+      type: select_one
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: true
+    - id: 8
+      name: scheduled_date
+      label: Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: scheduled_time
+      label: Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: true

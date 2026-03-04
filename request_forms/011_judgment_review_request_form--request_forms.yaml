@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judgment Review Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Request for Reconsideration
+      - Request for Appeal
+      - Request for Review
+      required: false
+    - id: 3
+      name: decision_date
+      label: Decision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: decision_number
+      label: Decision Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requesting_party
+      label: Requesting Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: opposing_party
+      label: Opposing Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_request_details
+      label: Review Request Details
+      hint: Please provide detailed description of request and why it is being submitted.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

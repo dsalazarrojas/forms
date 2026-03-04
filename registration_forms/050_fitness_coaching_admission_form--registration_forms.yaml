@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_coaching_admission_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_workout_day
+      label: Preferred Workout Day
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monday''}'
+      - '{''value'': ''Tuesday''}'
+      - '{''value'': ''Wednesday''}'
+      - '{''value'': ''Thursday''}'
+      - '{''value'': ''Friday''}'
+      - '{''value'': ''Saturday''}'
+      - '{''value'': ''Sunday''}'
+      required: false
+    - id: 6
+      name: preferred_workout_time
+      label: Preferred Workout Time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Morning''}'
+      - '{''value'': ''Afternoon''}'
+      - '{''value'': ''Evening''}'
+      required: false
+    - id: 7
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monday''}'
+      - '{''value'': ''Tuesday''}'
+      - '{''value'': ''Wednesday''}'
+      - '{''value'': ''Thursday''}'
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: available_times
+      label: Available Times
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Morning''}'
+      - '{''value'': ''Afternoon''}'
+      - Evening
+      required: false
+    - id: 9
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: The emergency contact first name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: The emergency contact last name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: The emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: The emergency contact email address
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: preferred_coach_type
+      label: Preferred Coach Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Male''}'
+      required: false
+    - id: 14
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 15
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''In Person''}'
+      required: false
+    - id: 16
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: Additional information about the client
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: fitness_goal
+      label: Fitness Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medications
+      label: Meditations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_email
+      label: Doctor's Email
+      hint: null
+      type: email
+      options: []
+      required: false

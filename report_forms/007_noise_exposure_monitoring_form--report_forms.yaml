@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noise Exposure Monitoring Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_start_time
+      label: Start Time
+      hint: Enter start time of the work period
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: employee_end_time
+      label: End Time
+      hint: Enter end time of the work period
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: employee_work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: noise_level
+      label: Noise Level
+      hint: Enter measured noise level
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: personal_equipment
+      label: Personal Protective Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hearing_protection
+      label: Hearing Protection
+      hint: Check if hearing protection was used
+      type: select_one
+      options:
+      - Hearing protection used
+      - No hearing protection used
+      required: false
+    - id: 8
+      name: noise_monitoring_area
+      label: Monitoring Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: observer_name
+      label: Observer Name
+      hint: Enter observer name
+      type: text
+      options: []
+      required: false

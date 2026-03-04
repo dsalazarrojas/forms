@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Shopping Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: shopping_list
+      label: Shopping List
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      required: true
+    - id: 6
+      name: item1
+      label: Item 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item2
+      label: Item 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item3
+      label: Item 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: select_one
+      options:
+      - salesperson1
+      - salesperson2
+      - salesperson3
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false

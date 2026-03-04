@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Records Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Records Request Form --
+      hint: Use this form to request transcripts, enrollment verification, or other
+        academic records.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_full_name
+      label: Full name (as it appears on academic records)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: former_name
+      label: Former name (if records are under a different name)
+      hint: Leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: dates_of_attendance
+      label: Dates of attendance at this institution
+      hint: e.g. September 2020 - May 2024
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: degree_earned
+      label: Degree earned (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: record_type_requested
+      label: Type of record requested
+      hint: null
+      type: select_one
+      options:
+      - Official transcript
+      - Unofficial transcript
+      - Enrollment verification
+      - Degree verification
+      - Certificate of completion
+      - Other
+      required: true
+    - id: 11
+      name: number_of_copies
+      label: Number of copies needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: delivery_method
+      label: Preferred delivery method
+      hint: null
+      type: select_one
+      options:
+      - Electronic (email or secure portal)
+      - Mail to recipient
+      - Pick up in person
+      required: true
+    - id: 13
+      name: recipient_name
+      label: Name of recipient (if being sent to a third party)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recipient_address
+      label: Recipient mailing address or email
+      hint: Required if delivery is by mail or email to a third party
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: purpose_of_request
+      label: Purpose of this request
+      hint: null
+      type: select_one
+      options:
+      - Employment
+      - Graduate school admission
+      - Transfer to another institution
+      - Professional licensing
+      - Personal records
+      - Other
+      required: true
+    - id: 16
+      name: urgency
+      label: How soon do you need the records
+      hint: Standard processing is 5-7 business days
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Rush (1-2 business days, additional fee may apply)
+      - Same day (if available)
+      required: true
+    - id: 17
+      name: consent_statement
+      label: I authorize the release of the requested academic records and certify
+        that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes - I authorize and certify
+      - Other
+      required: true
+    - id: 18
+      name: request_date
+      label: Date of request
+      hint: null
+      type: date
+      options: []
+      required: true

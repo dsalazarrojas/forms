@@ -1,0 +1,69 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Crash Risk Analysis Form
+    pages:
+    - id: 1
+      name: page_one
+      label: page_one
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''name'', ''label'': ''name'', ''hint'': None, ''type'':
+        ''text'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''phone'', ''label'': ''phone'', ''hint'': None, ''type'':
+        ''text'', ''options'': []}'
+      required: false
+    - id: 3
+      name: crash_info
+      label: crash_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''crash_type'', ''label'': ''crash_type'', ''hint'':
+        None, ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'': ''rear_end_collision'',
+        ''label'': ''rear end collision'', ''hint'': None, ''type'': ''text'', ''options'':
+        []}, {''id'': 2, ''name'': ''angle_collision'', ''label'': ''angle collision'',
+        ''hint'': None, ''type'': ''text'', ''options'': []}, {''id'': 3, ''name'':
+        ''pedestrian_collision'', ''label'': ''pedestrian collision'', ''hint'': None,
+        ''type'': ''text'', ''options'': []}]}'
+      - '{''id'': 2, ''name'': ''severity'', ''label'': ''severity'', ''hint'': None,
+        ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'': ''not_serious'',
+        ''label'': ''not serious'', ''hint'': None, ''type'': ''text'', ''options'':
+        []}, {''id'': 2, ''name'': ''serious'', ''label'': ''serious'', ''hint'':
+        None, ''type'': ''text'', ''options'': []}, {''id'': 3, ''name'': ''critical'',
+        ''label'': ''critical'', ''hint'': None, ''type'': ''text'', ''options'':
+        []}]}'
+      required: false
+    - id: 4
+      name: assessment
+      label: assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Cruelty Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Your Full Name
+      hint: Person reporting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: anonymous_option
+      label: Do You Want to Remain Anonymous
+      hint: Privacy preference
+      type: select_one
+      options:
+      - No - use my information
+      - Yes - keep me anonymous
+      required: true
+    - id: 5
+      name: report_intro
+      label: Animal Cruelty Report Form
+      hint: Report suspected animal cruelty or neglect
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: report_date
+      label: Date of Report
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_location
+      label: Location of Incident
+      hint: Address or description
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location_type
+      label: Type of Location
+      hint: Where is it
+      type: select_one
+      options:
+      - Private residence
+      - Apartment complex
+      - Business or farm
+      - Public area
+      - Vehicle
+      - Other
+      required: true
+    - id: 9
+      name: incident_date
+      label: Date of Incident
+      hint: When did it occur
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: cruelty_type
+      label: Type of Cruelty or Neglect
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical abuse
+      - Neglect - lack of food
+      - Neglect - lack of water
+      - Neglect - lack of shelter
+      - Neglect - lack of veterinary care
+      - Abandonment
+      - Hoarding
+      - Animal fighting
+      - Bestiality
+      - Poisoning
+      - Other
+      required: true
+    - id: 12
+      name: animal_information
+      label: Animal Information
+      hint: Details about the animal
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: animal_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Livestock
+      - Bird
+      - Exotic
+      - Wildlife
+      - Multiple animals
+      - Unknown
+      required: true
+    - id: 14
+      name: animal_breed
+      label: Breed if Known
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: animal_description
+      label: Physical Description
+      hint: Color, size, markings
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: number_of_animals
+      label: How Many Animals Are Involved
+      hint: Count
+      type: select_one
+      options:
+      - 1
+      - 2-5
+      - 6-10
+      - 11-20
+      - More than 20
+      required: true
+    - id: 17
+      name: animal_condition
+      label: Describe the Condition of the Animal
+      hint: Visible signs
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: visible_injuries
+      label: Are There Visible Injuries
+      hint: Injury status
+      type: select_one
+      options:
+      - Yes - severe
+      - Yes - moderate
+      - Yes - minor
+      - No visible injuries
+      - Could not observe
+      required: true
+    - id: 19
+      name: injury_description
+      label: Describe Any Injuries Observed
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: living_conditions
+      label: Describe the Living Conditions
+      hint: Environment
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: suspect_information
+      label: Suspect Information
+      hint: About the owner or perpetrator
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: suspect_name
+      label: Suspect Name if Known
+      hint: Name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: suspect_description
+      label: Suspect Description
+      hint: Physical description
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: relationship_to_animal
+      label: Relationship to Animal
+      hint: Owner, neighbor, etc.
+      type: select_one
+      options:
+      - Owner
+      - Family member
+      - Neighbor
+      - Stranger
+      - Unknown
+      required: false
+    - id: 25
+      name: incident_details
+      label: Describe What You Witnessed
+      hint: Full account
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: frequency
+      label: Is This an Ongoing Situation
+      hint: Frequency
+      type: select_one
+      options:
+      - Yes - happens regularly
+      - Yes - happened before
+      - No - one-time incident
+      - Unsure
+      required: true
+    - id: 27
+      name: witnesses
+      label: Are There Other Witnesses
+      hint: Witness info
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: evidence_available
+      label: Do You Have Any Evidence
+      hint: Photos, videos, etc.
+      type: select_one
+      options:
+      - Yes - photos
+      - Yes - videos
+      - Yes - documents
+      - Yes - multiple types
+      - false
+      required: true
+    - id: 29
+      name: previous_reports
+      label: Has This Been Reported Before
+      hint: Previous reports
+      type: select_one
+      options:
+      - Yes - by me
+      - Yes - by others
+      - No - first report
+      - Unsure
+      required: false
+    - id: 30
+      name: urgency_assessment
+      label: How Urgent Is This Situation
+      hint: Urgency
+      type: select_one
+      options:
+      - Emergency - immediate action needed
+      - High - within 24 hours
+      - Medium - within 48 hours
+      - Low - routine investigation
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other info
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: reporter_signature
+      label: Reporter Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

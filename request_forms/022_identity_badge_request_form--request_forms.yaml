@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: identity_badge_request_form
+    pages:
+    - id: 1
+      name: form_data
+      label: First and Last Name
+      hint: First and Last Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accounting''}'
+      - '{''id'': 2, ''label'': ''Engineering''}'
+      - '{''id'': 3, ''label'': ''Marketing''}'
+      - '{''id'': 4, ''label'': ''Sales''}'
+      required: true
+    - id: 4
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Day Shift''}'
+      - '{''id'': 2, ''label'': ''Night Shift''}'
+      - '{''id'': 3, ''label'': ''Rotating Shift''}'
+      required: true
+    - id: 5
+      name: badge_type
+      label: Badge Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Standard''}'
+      - '{''id'': 2, ''label'': ''Senior''}'
+      - '{''id'': 3, ''label'': ''Manager''}'
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approve''}'
+      - '{''id'': 2, ''label'': ''Deny''}'
+      required: false
+    - id: 10
+      name: employee_manager_signature
+      label: Employee Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employee_supervisor_signature
+      label: Employee Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_supervisor_signature
+      label: Manager Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: department_manager_signature
+      label: Department Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: badge_number
+      label: Badge Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: badge_status
+      label: Badge Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

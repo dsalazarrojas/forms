@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Form
+    pages:
+    - id: 1
+      name: audit_title
+      label: Audit Title
+      hint: Name or title of this audit
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: audit_number
+      label: Audit Number
+      hint: Unique audit reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audit_date
+      label: Audit Date
+      hint: Date of audit
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: auditor_name
+      label: Auditor Name
+      hint: Name of lead auditor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: auditor_email
+      label: Auditor Email
+      hint: Contact email for auditor
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: organization_audited
+      label: Organization Audited
+      hint: Name of organization or department
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_period_start
+      label: Audit Period Start
+      hint: Start date of audit period
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: audit_period_end
+      label: Audit Period End
+      hint: End date of audit period
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: audit_type
+      label: Audit Type
+      hint: Type of audit being conducted
+      type: select_one
+      options:
+      - Financial Audit
+      - Internal Audit
+      - Compliance Audit
+      - IT Audit
+      - Operational Audit
+      - Quality Audit
+      - Safety Audit
+      - Environmental Audit
+      required: true
+    - id: 10
+      name: audit_scope
+      label: Audit Scope
+      hint: Brief description of audit scope
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: audit_objectives
+      label: Audit Objectives
+      hint: Main objectives of this audit
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: areas_reviewed
+      label: Areas Reviewed
+      hint: Select all areas reviewed
+      type: select_multiple
+      options:
+      - Financial records
+      - Internal controls
+      - Compliance procedures
+      - IT systems
+      - Operational processes
+      - Risk management
+      - Human resources
+      - Procurement
+      required: true
+    - id: 13
+      name: findings_summary
+      label: Findings Summary
+      hint: Brief summary of key findings
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: findings_severity
+      label: Findings Severity
+      hint: Overall severity of findings
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      - No findings
+      required: true
+    - id: 15
+      name: number_of_findings
+      label: Number of Findings
+      hint: Total number of findings
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: compliance_status
+      label: Compliance Status
+      hint: Overall compliance status
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Not Assessed
+      required: true
+    - id: 17
+      name: recommendations
+      label: Recommendations
+      hint: Key recommendations
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: management_response
+      label: Management Response
+      hint: Management response to findings
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is follow-up audit needed?
+      type: select_one
+      options:
+      - Yes, within 30 days
+      - Yes, within 60 days
+      - Yes, within 90 days
+      - No follow-up needed
+      required: true
+    - id: 20
+      name: audit_conclusion
+      label: Audit Conclusion
+      hint: Overall conclusion of the audit
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: auditor_signature
+      label: Auditor Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

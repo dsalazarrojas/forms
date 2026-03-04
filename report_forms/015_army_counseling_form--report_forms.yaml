@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Army Counseling Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rank
+      label: Military Rank - if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_status
+      label: Current Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active duty
+      - Reserve
+      - National Guard
+      - Veteran
+      - Family member
+      required: true
+    - id: 7
+      name: section_referral
+      label: -- Referral Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: referral_source
+      label: How were you referred to counseling
+      hint: null
+      type: select_one
+      options:
+      - Self-referral
+      - Military medical provider
+      - Command officer
+      - VA benefits
+      - Family member
+      - Friend or colleague
+      - Other
+      required: true
+    - id: 9
+      name: referral_date
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: section_presenting_concerns
+      label: -- Presenting Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_concern
+      label: Primary reason for seeking counseling
+      hint: null
+      type: select_one
+      options:
+      - Post-traumatic stress
+      - Anxiety or panic
+      - Depression or mood issues
+      - Substance use concerns
+      - Relationship problems
+      - Transition or career concerns
+      - Sleep disturbance
+      - Other mental health concern
+      required: true
+    - id: 12
+      name: concern_details
+      label: Please describe your concerns in detail
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: symptom_duration
+      label: How long have you experienced these symptoms
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 14
+      name: section_combat_exposure
+      label: -- Combat Exposure - if applicable --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: combat_exposure
+      label: Have you had combat exposure
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      - Prefer not to say
+      required: false
+    - id: 16
+      name: combat_trauma
+      label: If yes, describe combat-related trauma
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_current_symptoms
+      label: -- Current Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: symptom_list
+      label: Which symptoms are you experiencing
+      hint: null
+      type: select_multiple
+      options:
+      - Intrusive thoughts or flashbacks
+      - Nightmares
+      - Avoidance behaviors
+      - Hypervigilance
+      - Difficulty concentrating
+      - Sleep problems
+      - Irritability or anger
+      - Emotional numbness
+      - Guilt or shame
+      - Suicidal thoughts
+      required: true
+    - id: 19
+      name: suicide_risk
+      label: Are you having thoughts of harming yourself
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Occasionally
+      - Frequently
+      - Currently at risk
+      required: true
+    - id: 20
+      name: section_medical_history
+      label: -- Medical and Treatment History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: current_medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_counseling
+      label: Previous counseling or therapy
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - brief
+      - Yes - ongoing
+      required: true
+    - id: 23
+      name: substance_use
+      label: Substance use or alcohol concerns
+      hint: null
+      type: select_one
+      options:
+      - No concerns
+      - Minor concerns
+      - Moderate concerns
+      - Significant concerns
+      required: true
+    - id: 24
+      name: section_support
+      label: -- Support System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: family_support
+      label: Family support available
+      hint: null
+      type: select_one
+      options:
+      - Strong support
+      - Moderate support
+      - Limited support
+      - No support
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional information you would like to share
+      hint: null
+      type: text
+      options: []
+      required: false

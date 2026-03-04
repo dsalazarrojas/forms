@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_location_request_form
+    pages:
+    - id: 1
+      name: emergency_location
+      label: Emergency Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location_details
+      label: Location Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: location_coordinates
+      label: Location Coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

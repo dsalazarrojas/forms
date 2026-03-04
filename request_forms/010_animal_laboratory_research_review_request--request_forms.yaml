@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Laboratory Research Review Request
+    pages:
+    - id: 1
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: Full title of the research study
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: funding_agency
+      label: Funding Agency
+      hint: Source of research funds
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Proposed Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: Proposed End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: animal_count_requested
+      label: Number of Animals Requested
+      hint: Total count for the duration of the project
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: study_species
+      label: Species to be Studied
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: animal_use_justification
+      label: Justification for Animal Use
+      hint: Why are animals necessary for this study?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: procedure_description
+      label: Description of Procedures
+      hint: Summarize major experimental steps
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pain_distress_category
+      label: Pain or Distress Category
+      hint: USDA classification
+      type: select_one
+      options:
+      - Category B - Breeding or Holding Only
+      - Category C - No more than momentary pain
+      - Category D - Pain relieved by drugs
+      - Category E - Pain NOT relieved by drugs
+      required: true
+    - id: 11
+      name: euthanasia_method
+      label: Method of Euthanasia
+      hint: Must comply with AVMA guidelines
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ethical_review_id
+      label: Internal Ethical Review ID
+      hint: null
+      type: text
+      options: []
+      required: false

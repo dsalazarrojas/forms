@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salesperson Call Report
+    pages:
+    - id: 1
+      name: salesperson_call_report_form
+      label: salesperson_call_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_sale
+      label: Date of Sale
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_sale
+      label: Time of Sale
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: saleperson_name
+      label: salesperson_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sale_amount
+      label: sale_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sale_status
+      label: sale_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: salesperson_notes
+      label: salesperson_notes
+      hint: null
+      type: note
+      options: []
+      required: false

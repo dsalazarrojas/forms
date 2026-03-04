@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Closure Report Template
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: closure_date
+      label: closure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: closure_status
+      label: closure_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: reason_for_closure
+      label: reason_for_closure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_member
+      label: team_member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

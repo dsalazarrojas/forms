@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packaging Prototype Evaluation Report Form
+    pages:
+    - id: 1
+      name: packaging_prototype_evaluation_report_form
+      label: Packaging Prototype Evaluation Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: packaging_concept_matrix
+      label: Packaging Concept Matrix
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Disagree''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Strongly Agree''}'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_reviewed
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: packaging_prototype_evaluation_report_form_version
+      label: Packaging Prototype Evaluation Report Form Version
+      hint: null
+      type: number
+      options: []
+      required: false

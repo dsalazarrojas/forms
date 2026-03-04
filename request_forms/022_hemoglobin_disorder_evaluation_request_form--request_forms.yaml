@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hemoglobin Disorder Evaluation Request Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hemoglobin_disorder
+      label: Hemoglobin Disorder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_request
+      label: Evaluation Request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Lab''}'
+      - '{''value'': ''Imaging''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: lab_test_results
+      label: Lab Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hemoglobin_disorder_evaluations
+      label: Hemoglobin Disorder Evaluations
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Normal''}'
+      - '{''value'': ''Abnormal''}'
+      - '{''value'': ''Not Evaluated''}'
+      required: false
+    - id: 8
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancel E Transfer Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Full Name
+      hint: Name of person requesting cancellation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email Address
+      hint: Email for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester Phone Number
+      hint: Phone number for urgent contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: Last 6 digits of account number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: transfer_date
+      label: Original Transfer Date
+      hint: When was the e-transfer sent
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: transfer_time
+      label: Transfer Time
+      hint: Approximate time of transfer
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: transfer_amount
+      label: Transfer Amount
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: transfer_currency
+      label: Currency
+      hint: Currency of the transfer
+      type: select_one
+      options:
+      - CAD - Canadian Dollar
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      required: true
+    - id: 9
+      name: recipient_name
+      label: Recipient Name
+      hint: Name of intended recipient
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recipient_email
+      label: Recipient Email Address
+      hint: Email where transfer was sent
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: transfer_reference
+      label: Transfer Reference Number
+      hint: Transaction or reference number if available
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Why do you need to cancel this transfer
+      type: select_one
+      options:
+      - Sent to wrong recipient
+      - Incorrect amount
+      - Duplicate transfer
+      - Fraudulent activity
+      - Recipient requested cancellation
+      - Changed my mind
+      - Other
+      required: true
+    - id: 13
+      name: cancellation_details
+      label: Cancellation Details
+      hint: Provide more information about your request
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: transfer_status
+      label: Current Transfer Status
+      hint: Has the recipient accepted it yet
+      type: select_one
+      options:
+      - Pending - not yet accepted
+      - Accepted by recipient
+      - Deposited to recipient account
+      - Expired
+      - Unknown
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this cancellation
+      type: select_one
+      options:
+      - Low - no rush
+      - Medium - within 24 hours
+      - High - same day
+      - Critical - immediate action needed
+      required: true
+    - id: 16
+      name: refund_preference
+      label: Refund Preference
+      hint: Where should funds be returned
+      type: select_one
+      options:
+      - Original account
+      - Different account
+      - Hold pending investigation
+      - Other
+      required: false
+    - id: 17
+      name: fraud_suspected
+      label: Do You Suspect Fraud
+      hint: Is this a fraudulent transaction
+      type: select_one
+      options:
+      - Yes - suspected fraud
+      - No - legitimate transfer
+      - Unsure
+      required: true
+    - id: 18
+      name: previous_contact
+      label: Have You Contacted Support Before
+      hint: Previous communication about this issue
+      type: select_one
+      options:
+      - Yes - case number available
+      - Yes - no case number
+      - No - first contact
+      required: true
+    - id: 19
+      name: case_number
+      label: Previous Case Number
+      hint: If you have a case number enter it here
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorization_consent
+      label: Authorization Consent
+      hint: I authorize this cancellation request
+      type: select_one
+      options:
+      - Yes - I authorize this request
+      - false
+      required: true
+    - id: 22
+      name: submission_date
+      label: Request Submission Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

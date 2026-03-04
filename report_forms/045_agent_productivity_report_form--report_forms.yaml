@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Productivity Report Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Daily Productivity Report --
+      hint: standardize your daily output reporting
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: activity_header
+      label: -- Activity Log --
+      hint: record your daily volume
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: call_count
+      label: Number of Outbound Calls Made
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: meeting_count
+      label: Number of Client Meetings Conducted
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: lead_count
+      label: Number of New Leads Generated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contract_count
+      label: Number of Contracts Sent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: today_focus
+      label: Primary Focus for Today
+      hint: main task or objective
+      type: select_one
+      options:
+      - Lead Prospecting
+      - Client Follow-up
+      - Administrative Work
+      - Training / Education
+      - Field Visits / Showings
+      required: true
+    - id: 10
+      name: task_summary
+      label: Summary of tasks completed
+      hint: brief list of accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: roadblocks
+      label: Challenges or roadblocks encountered
+      hint: what hindered your productivity
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: management_support
+      label: Support needed from management - Training, Leads, Tech Support
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - More Training
+      - Higher Quality Leads
+      - Tech Support / Bug Fixes
+      - Manager Consultation
+      - Marketing Materials
+      required: false
+    - id: 13
+      name: admin_hours
+      label: Hours spent on administrative tasks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: productivity_rating
+      label: Productivity Level Rating for Today
+      hint: self-assessment
+      type: select_one
+      options:
+      - Highly Productive
+      - Standard
+      - Low Productivity
+      - Unproductive
+      required: true

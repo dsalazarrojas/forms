@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Recall Coordination Request Form
+    pages:
+    - id: 1
+      name: product_recall_request_form
+      label: Product Recall Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recall_category
+      label: Recall Category
+      hint: null
+      type: select_one
+      options:
+      - Recalls
+      - Product Safety
+      - Consumer Safety
+      - Quality
+      - Labeling
+      - Packaging
+      - Other
+      required: false
+    - id: 6
+      name: product_status
+      label: Product Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Discontinued
+      - Out of Production
+      - Other
+      required: false
+    - id: 7
+      name: production_date
+      label: Production Date
+      hint: Date of production (if applicable)
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: issue_date
+      label: Issue Date
+      hint: Date of issue (if known)
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: affected_units
+      label: Affected Units
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: total_units_affected
+      label: Total Units Affected
+      hint: If not all units are affected, state quantity affected (if known)
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: Set priority level for recall action
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Other
+      required: false
+    - id: 12
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_company
+      label: Contact Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_job_title
+      label: Contact Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_postal_code
+      label: Contact Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issue_description_2
+      label: Additional Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: Date submitted (if known)
+      type: date
+      options: []
+      required: false

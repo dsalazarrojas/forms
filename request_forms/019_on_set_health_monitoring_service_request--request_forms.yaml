@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: on_set_health_monitoring_service_request
+    pages:
+    - id: 1
+      name: crew_id
+      label: Crew
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pre-Production''}'
+      - '{''id'': 2, ''label'': ''In-Production''}'
+      - '{''id'': 3, ''label'': ''Post-Production''}'
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: monitoring_type
+      label: Monitoring Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Camera''}'
+      - '{''id'': 2, ''label'': ''Audio''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

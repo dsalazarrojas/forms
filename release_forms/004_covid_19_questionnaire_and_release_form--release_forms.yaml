@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Questionnaire And Release Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccination_info
+      label: Vaccination Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''None''}'
+      - '{''id'': 2, ''text'': ''Diabetes''}'
+      - '{''id'': 3, ''text'': ''Hypertension''}'
+      - '{''id'': 4, ''text'': ''High Cholesterol''}'
+      - '{''id'': 5, ''text'': ''Other''}'
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''None''}'
+      - '{''id'': 2, ''text'': ''Peanut''}'
+      - '{''id'': 3, ''text'': ''Gluten''}'
+      - '{''id'': 4, ''text'': ''Other''}'
+      required: false
+    - id: 6
+      name: medication
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccine_side_effects
+      label: Vaccine Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_release
+      label: Patient Release
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      required: false
+    - id: 9
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: medical_team_member
+      label: Medical Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

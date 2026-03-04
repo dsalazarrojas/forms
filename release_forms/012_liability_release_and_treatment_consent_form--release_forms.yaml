@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liability Release And Treatment Consent Form
+    pages:
+    - id: 1
+      name: release_form
+      label: Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature_form
+      label: Signature Form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree to the terms'', ''value'': ''I understand
+        and agree to the terms''}'
+      - Other
+      required: false
+    - id: 3
+      name: acknowledgment_form
+      label: Acknowledgment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I have read and understand the risk'', ''value'': ''I have
+        read and understand the risk''}'
+      - '{''label'': ''I do not have read and understand the risk'', ''value'': ''I
+        do not have read and understand the risk''}'
+      required: false
+    - id: 5
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_of_client
+      label: Name of Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name_of_provider
+      label: Name of Provider
+      hint: null
+      type: text
+      options: []
+      required: false

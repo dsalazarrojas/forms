@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 50:50 Agreement Survey
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: "--- Respondent & Context ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization / team (if applicable)
+      hint: Leave blank if individual respondent
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role_in_decision
+      label: Role in the agreement decision
+      hint: e.g., Partner, Manager, Stakeholder
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Date of response
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: understanding_of_terms
+      label: "I understand the proposed 50:50 split terms"
+      hint: Rate agreement with the statement
+      type: select_one
+      options:
+        - Strongly agree
+        - Agree
+        - Neutral
+        - Disagree
+        - Strongly disagree
+      required: true
+    - id: 7
+      name: perceived_fairness_rating
+      label: Perceived fairness of the split (1-10)
+      hint: 10 = completely fair
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: primary_concerns
+      label: "Primary concerns about the 50:50 arrangement (select all that apply)"
+      hint: Select any that apply
+      type: select_multiple
+      options:
+        - Unequal contribution of work
+        - Financial risk distribution
+        - Decision-making deadlock
+        - Intellectual property ownership
+        - Long-term sustainability
+        - Lack of clarity in roles
+      required: false
+    - id: 9
+      name: suggested_adjustments
+      label: Suggested adjustments or alternative proposals
+      hint: Briefly describe preferred changes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: willingness_to_proceed
+      label: "Would you be willing to proceed under the current 50:50 terms?"
+      hint: null
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Conditional on revisions
+      required: true
+    - id: 11
+      name: compensation_or_equity_preferences
+      label: Preferred compensation/equity handling (select all that apply)
+      hint: Leave blank if not applicable
+      type: select_multiple
+      options:
+        - Fixed salary for specific roles
+        - Performance-based bonuses
+        - Vesting schedule for equity
+        - Profit-sharing agreement
+        - Re-evaluate after 12 months
+      required: false
+    - id: 12
+      name: respondent_email
+      label: Respondent email address
+      hint: For follow-up
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional comments or context
+      hint: Any extra information to help decision-makers
+      type: text
+      options: []
+      required: false

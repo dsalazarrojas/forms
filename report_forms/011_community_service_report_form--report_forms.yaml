@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Report Form
+    pages:
+    - id: 1
+      name: section_volunteer_info
+      label: -- Volunteer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_name
+      label: Supervisor Name
+      hint: The person who oversaw your work.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: Name of the service initiative.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_report
+      label: -- Service Activity Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: When you began this reporting period.
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: When you finished this reporting period.
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: total_hours_completed
+      label: Total Hours Completed
+      hint: e.g. 15.5
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: activity_description
+      label: Description of activities performed
+      hint: Detail your specific tasks and contributions.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: skills_utilized
+      label: Skills Utilized
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Leadership
+      - Teamwork
+      - Problem Solving
+      - Communication
+      - Technical Skills
+      - Organization
+      - Teaching
+      required: true
+    - id: 12
+      name: section_evaluation
+      label: -- Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_rating
+      label: Rate your experience
+      hint: 1 is lowest, 5 is highest.
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: challenges_faced
+      label: Describe any challenges you encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: suggestions_for_improvement
+      label: How can we improve this service opportunity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_verification
+      label: -- Final Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: information_accuracy_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

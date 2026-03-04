@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crime Report Form
+    pages:
+    - id: 1
+      name: crime_report_form_first_page
+      label: First page of the form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: crime_report_form_first_page_subpage
+      label: First page of the form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: crime_report_form_second_page
+      label: Second page of the form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: crime_report_form_date_of_crime
+      label: Date of the crime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: crime_report_form_time_of_crime
+      label: Time of the crime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: crime_report_form_location_of_crime
+      label: Location of the crime
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: crime_report_form_suspects
+      label: Suspects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: crime_report_form_victims
+      label: Victims
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: crime_report_form_offenders
+      label: Offenders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: crime_report_form_injuries
+      label: Injuries sustained by victims
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: crime_report_form_damage
+      label: Damage caused by the crime
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: crime_report_form_evidence
+      label: Evidence collected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: crime_report_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

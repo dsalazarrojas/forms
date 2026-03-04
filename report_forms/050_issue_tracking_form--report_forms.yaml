@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Issue Tracking Form
+    pages:
+    - id: 1
+      name: issue_tracking_form
+      label: Issue Tracking Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: Please provide a detailed description of the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: issue_severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: issue_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: issue_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

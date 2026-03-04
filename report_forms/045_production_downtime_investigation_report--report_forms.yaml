@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Downtime Investigation Report
+    pages:
+    - id: 1
+      name: production_downtime_investigation_report
+      label: production_downtime_investigation_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_affected
+      label: equipment_affected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: note
+      options: []
+      required: false

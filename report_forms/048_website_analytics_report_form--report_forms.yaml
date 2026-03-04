@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: website_analytics_report_form
+    pages:
+    - id: 1
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Website Performance'', ''value'': ''Website Performance''}'
+      - '{''id'': 2, ''label'': ''Website Security'', ''value'': ''Website Security''}'
+      - '{''id'': 3, ''label'': ''User Behavior'', ''value'': ''User Behavior''}'
+      required: true
+    - id: 3
+      name: date_range
+      label: date_range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One time'', ''value'': ''One time''}'
+      - '{''id'': 2, ''label'': ''Recurring'', ''value'': ''Recurring''}'
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: website_url
+      label: website_url
+      hint: Enter website URL
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit'', ''value'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Cancel'', ''value'': ''Cancel''}'
+      required: true

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butler Service Request Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: Full name of the guest
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: room_number
+      label: Room Number
+      hint: Guest room number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Reach the guest at this number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Guest email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Type of Service Requested
+      hint: Select the primary service needed
+      type: select_one
+      options:
+      - Room Service
+      - Housekeeping
+      - Laundry
+      - Concierge
+      - Dining Arrangement
+      - Transportation
+      - Personal Shopping
+      - Other
+      required: true
+    - id: 6
+      name: request_date
+      label: Requested Service Date
+      hint: When do you need the service
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: request_time
+      label: Requested Service Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: time_flexibility
+      label: Time Flexibility
+      hint: How flexible is your timing
+      type: select_one
+      options:
+      - Exact time required
+      - Within 30 minutes
+      - Within 1 hour
+      - Flexible
+      required: true
+    - id: 9
+      name: service_details
+      label: Detailed Service Request
+      hint: Describe exactly what you need
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_requirements
+      label: Special Requirements or Preferences
+      hint: Any specific preferences
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Applicable if food service involved
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: budget_consideration
+      label: Budget Consideration
+      hint: Any spending limits
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Immediate
+      - High Priority
+      - Standard
+      - Low Priority
+      required: true
+    - id: 14
+      name: previous_arrangements
+      label: Any Previous Arrangements
+      hint: Related to this request
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_staff
+      label: Preferred Butler or Staff Member
+      hint: If you have a preference
+      type: text
+      options: []
+      required: false

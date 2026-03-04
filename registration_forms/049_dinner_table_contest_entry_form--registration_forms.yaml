@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dinner Table Contest Entry Form
+    pages:
+    - id: 1
+      name: event_organizer_info
+      label: Event Organizer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Chef''}'
+      - '{''id'': 2, ''name'': ''Home Cook''}'
+      required: false
+    - id: 5
+      name: menu_description
+      label: Menu Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ingredient_list
+      label: Ingredient List
+      hint: List of ingredients used in entry, separated by commas.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If participant has dietary restrictions, list below.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: menu_image_url
+      label: Menu Image Url
+      hint: URL of an image of your menu item.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: Date of the event.
+      type: date
+      options: []
+      required: false

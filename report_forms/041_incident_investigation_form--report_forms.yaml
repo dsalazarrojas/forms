@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Investigation Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: investigation_date
+      label: Investigation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: investigation_time
+      label: Investigation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: investigation_location
+      label: Investigation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: safety_measures
+      label: Safety Measures
+      hint: List multiple safety measures applied
+      type: select_multiple
+      options:
+      - Select 1
+      - Select 2
+      - Select 3
+      - Select 4
+      - Select 5
+      required: true
+    - id: 13
+      name: root_cause
+      label: Root Cause
+      hint: Choose one
+      type: select_one
+      options:
+      - Select 1
+      - Select 2
+      - Select 3
+      required: true
+    - id: 14
+      name: prevention_plan
+      label: Prevention Plan
+      hint: Describe your prevention plan
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reporting_date
+      label: Incident Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: investigation_status
+      label: Investigation Status
+      hint: Status of investigation
+      type: select_one
+      options:
+      - Select 1
+      - Select 2
+      - Select 3
+      required: true
+    - id: 18
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: investigation_duration
+      label: Investigation Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: investigation_notes
+      label: Investigation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: false

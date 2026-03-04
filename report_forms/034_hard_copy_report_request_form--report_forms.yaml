@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hard Copy Report Request Form
+    pages:
+    - id: 1
+      name: report_request
+      label: Report Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_preferences
+      label: delivery_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Delivery by Email
+      - Delivery by Mail
+      - Delivery by Phone
+      - Delivery by Courier
+      required: false
+    - id: 3
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_contact
+      label: delivery_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone_number
+      label: contact_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: confirmation_time
+      label: confirmation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_date
+      label: confirm_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: confirm_time
+      label: confirm_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: confirm_by
+      label: confirm_by
+      hint: null
+      type: select_one
+      options:
+      - Confirmation by Email
+      - Confirmation by Phone
+      - Confirmation by Mail
+      required: false
+    - id: 13
+      name: confirm_via
+      label: confirm_via
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

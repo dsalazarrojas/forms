@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lender Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: property_type_options
+      label: Property types
+      hint: null
+      type: select_multiple
+      options:
+      - Apartment
+      - House
+      - Condo
+      required: false
+    - id: 8
+      name: loan_amount
+      label: Loan amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: loan_term
+      label: Loan term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: interest_rate
+      label: Interest rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: lender_name
+      label: Lender name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lender_address
+      label: Lender address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lender_phone
+      label: Lender phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: lender_email
+      label: Lender email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Salon Covid 19 Liability Release Waiver
+    pages:
+    - id: 1
+      name: salon_address
+      label: Salon Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: salon_services
+      label: Salon Services
+      hint: null
+      type: select_one
+      options:
+      - Haircut
+      - Coloring
+      - Chemical Treatments
+      - Styling
+      required: true
+    - id: 4
+      name: customer_health_status
+      label: Customer Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - Healthy
+      - Cough
+      - Fever
+      - Shortness of breath
+      - Lost taste or smell
+      - Recent travel
+      - Contact with COVID-19 case
+      required: true
+    - id: 5
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: salon_signature
+      label: Salon Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_health_status_hint
+      label: Please describe your current health status, e.g. "Healthy" or "Coughing"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: salon_contact_info
+      label: Salon Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true

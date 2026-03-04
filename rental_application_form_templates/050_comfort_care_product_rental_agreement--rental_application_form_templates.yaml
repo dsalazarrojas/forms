@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comfort Care Product Rental Agreement
+    pages:
+    - id: 1
+      name: header
+      label: -- Rental Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renter_name
+      label: Renter name
+      hint: Full name of renter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_contact
+      label: Renter contact email or phone
+      hint: Preferred contact method
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_rented
+      label: Product rented
+      hint: Item description and model
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rental_start_date
+      label: Rental start date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: rental_end_date
+      label: Rental end date
+      hint: YYYY-MM-DD or estimated duration
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: deposit_amount
+      label: Deposit amount
+      hint: Decimal value
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: terms_agreed
+      label: Terms and conditions agreed
+      hint: Renter agreement to terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: delivery_option
+      label: Delivery or pickup option
+      hint: Choose how product will be received
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any special arrangements
+      type: text
+      options: []
+      required: false

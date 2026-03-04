@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Optical Character Recognition (OCR) Report Form
+    pages:
+    - id: 1
+      name: main_form
+      label: main-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scanned_document_1
+      label: scanned-document-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: extracted_data_1
+      label: extracted-data-1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: extracted_data_2
+      label: extracted-data-2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: extracted_data_3
+      label: extracted-data-3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: extracted_data_4
+      label: extracted-data-4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: extracted_data_5
+      label: extracted-data-5
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: extracted_data_6
+      label: extracted-data-6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: extracted_data_7
+      label: extracted-data-7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: extracted_data_8
+      label: extracted-data-8
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: extracted_data_9
+      label: extracted-data-9
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: extracted_data_10
+      label: extracted-data-10
+      hint: null
+      type: email
+      options: []
+      required: false

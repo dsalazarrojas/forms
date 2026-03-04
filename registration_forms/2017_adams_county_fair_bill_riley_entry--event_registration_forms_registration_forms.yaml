@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2017 Adams County Fair Bill Riley Entry
+    pages:
+    - id: 1
+      name: section_header_entrant_info
+      label: '--- Entrant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter a valid email for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country/area code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Leave blank if you prefer to provide age only
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: Enter whole years
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Street, city, state, ZIP (optional)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Name of person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: Include area code
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: entry_type
+      label: Entry type
+      hint: Select the option that best describes this registration
+      type: select_one
+      options:
+      - Solo
+      - Duo/Trio
+      - Group (4-10)
+      - Group (more than 10)
+      required: true
+    - id: 11
+      name: group_size
+      label: Group size (if applicable)
+      hint: Enter number of participants for group entries
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: group_member_names
+      label: Group member names
+      hint: List members separated by commas (leave blank for solo)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: performance_category
+      label: Performance category
+      hint: Choose the primary category for your act
+      type: select_one
+      options:
+      - Vocal (solo)
+      - Instrumental
+      - Dance
+      - Comedy
+      - Variety
+      - Other
+      required: true
+    - id: 14
+      name: experience_level
+      label: Experience level
+      hint: Select the best match for entrant experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 15
+      name: repertoire_description
+      label: Repertoire description / pieces to be performed
+      hint: Include song titles, composers, or a short description
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: performance_length_minutes
+      label: Requested performance length (minutes)
+      hint: Typical slots are 3-10 minutes; enter a whole number
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: accompaniment
+      label: Accompaniment arrangement
+      hint: Indicate how your performance will be accompanied
+      type: select_one
+      options:
+      - Own accompaniment (live)
+      - Backing track
+      - Piano provided by organizers
+      - No accompaniment required
+      required: true
+    - id: 18
+      name: requires_sound_check
+      label: Requires sound check
+      hint: Check if you need an official sound check slot
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: preferred_audition_date
+      label: Preferred audition date
+      hint: If auditions are scheduled; leave blank if not applicable
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: how_heard
+      label: How did you hear about this event?
+      hint: Select one
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Fair website
+      - Flyer/Poster
+      - Previous contestant
+      - Other
+      required: false
+    - id: 21
+      name: special_needs
+      label: Special requirements or accommodations
+      hint: Accessibility, staging, prop needs, or equipment requests
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: media_uploads_section
+      label: '--- Media & Submission Instructions ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: audio_video_submission_link
+      label: Audio/video submission link or upload notes
+      hint: Provide a URL (YouTube, Dropbox, Google Drive) or upload instructions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: consent_release
+      label: Contestant consent and release
+      hint: Select to confirm agreement to event rules and media use
+      type: select_one
+      options:
+      - I agree to the Bill Riley contest rules and grant rights to organizers to
+        use recordings
+      - I do not agree
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Anything else organizers should know
+      type: text
+      options: []
+      required: false

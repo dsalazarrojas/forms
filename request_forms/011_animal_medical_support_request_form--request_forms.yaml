@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Medical Support Request Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Facility or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: urgency_level
+      label: Urgency Level
+      hint: Please select the most appropriate status
+      type: select_one
+      options:
+      - Critical - Life Threatening
+      - Urgent - Needs immediate attention
+      - Non-Urgent - Regular support
+      - Scheduled Maintenance
+      required: true
+    - id: 4
+      name: animal_species_info
+      label: Animal Species and Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: condition_summary
+      label: Current Condition Summary
+      hint: Briefly describe the medical issue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_needs
+      label: Specific Medical Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emergency Surgery
+      - Routine Surgery
+      - Advanced Diagnostics - MRI/CT
+      - Long-term Medication
+      - Wound Care
+      - Physical Therapy or Rehab
+      required: true
+    - id: 7
+      name: estimated_care_cost
+      label: Estimated Total Cost of Care
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: requested_funding_amount
+      label: Funding Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: documents_attached
+      label: Have supporting medical records been provided?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Sent via separate email
+      required: true
+    - id: 10
+      name: requester_phone
+      label: Requester Phone Number
+      hint: For immediate follow-up if needed
+      type: text
+      options: []
+      required: true

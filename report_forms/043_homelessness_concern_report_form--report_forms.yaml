@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homelessness Concern Report Form
+    pages:
+    - id: 1
+      name: report_form_1
+      label: Community Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_form_2
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: report_form_3
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: report_form_4
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: report_form_5
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_form_6
+      label: Select Concern
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Homelessness Concerns'', ''value'': ''Homelessness Concerns''}'
+      - '{''name'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 7
+      name: report_form_7
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: report_form_8
+      label: Report
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: true

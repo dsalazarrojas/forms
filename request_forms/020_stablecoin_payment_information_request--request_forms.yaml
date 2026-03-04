@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stablecoin Payment Information Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Stablecoin Payment Information Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: purpose_of_payment
+      label: Purpose of Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit/Debit
+      - Online Bank Transfer
+      - Cheque
+      required: true
+    - id: 11
+      name: stablecoin_address
+      label: Stablecoin Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: true
+    - id: 15
+      name: form_signature
+      label: Form Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: amount_received
+      label: Amount Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: purpose_signed_by
+      label: Purpose Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false

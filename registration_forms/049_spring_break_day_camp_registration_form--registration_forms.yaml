@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Break Day Camp Registration Form
+    pages:
+    - id: 1
+      name: campe_info
+      label: Camper Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campe_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: campe_email
+      label: Camper Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: campe_phone
+      label: Camper Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: campe_fee
+      label: Camper Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: campe_fee_status
+      label: Camper Fee Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 8
+      name: campe_fee_file
+      label: Camper Fee File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: campe_notes
+      label: Camper Notes
+      hint: null
+      type: note
+      options: []
+      required: false

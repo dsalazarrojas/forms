@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consular ID Card Renewal Application Form
+    pages:
+    - id: 1
+      name: section_applicant_ident
+      label: -- Applicant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Legal Name (as shown on current ID)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: current_consular_id_number
+      label: Current Consular ID Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_id_expiration
+      label: Current ID Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_contact_address
+      label: -- Contact and Address History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_address_street
+      label: Current Residential Address (Street)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_address_city_state
+      label: City, State, ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_email_ident
+      label: Primary Email Address
+      hint: Renewal status updates will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: applicant_phone_ident
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_citizenship_details
+      label: -- Citizenship and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: country_of_citizenship_ident
+      label: Country of Citizenship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: second_citizenship_status
+      label: Do you hold any other citizenships?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - Please specify below
+      required: true
+    - id: 14
+      name: other_citizenships_ident
+      label: Specify Other Citizenships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_supporting_docs
+      label: -- Supporting Documentation Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: docs_ready_checklist
+      label: Required Documents for Upload/Submission
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Current Consular ID Card (Physical or Scan)
+      - Original Birth Certificate
+      - Proof of Residence (Utility Bill, Lease)
+      - Recent Passport-size Photo
+      - Passport (Current or Expired)
+      - Marriage/Divorce Decree (If name change)
+      required: true
+    - id: 17
+      name: section_fees_logistics
+      label: -- Fees and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: renewal_fee_ack_ident
+      label: Acknowledgment of Renewal Fee ($50.00)
+      hint: Fees are non-refundable once processed
+      type: select_one
+      options:
+      - I Accept and Acknowledge
+      - I Reject
+      required: true
+    - id: 19
+      name: delivery_method_pref
+      label: Preferred ID Card Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Mail (Secured)
+      - Expedited Courier (Additional Fee)
+      - In-person Pickup at Consulate/Embassy
+      required: true
+    - id: 20
+      name: section_legal_oath
+      label: -- Legal Oath and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: truthfulness_oath_ident
+      label: I certify that the information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - I So Certify
+      - I Disagree
+      required: true
+    - id: 22
+      name: applicant_signature_name_label
+      label: Authorized By (Full Legal Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

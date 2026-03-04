@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expansion Pack Release Form
+    pages:
+    - id: 1
+      name: game_team
+      label: Game Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: release_planner
+      label: Release Planner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: promotional_assets
+      label: Promotional Assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

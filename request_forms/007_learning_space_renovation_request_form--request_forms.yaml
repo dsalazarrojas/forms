@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_space_renovation_request_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_id
+      label: School Id
+      hint: Please enter your school id
+      type: select_one
+      options:
+      - A101
+      - A102
+      - A103
+      - A104
+      - A105
+      - A106
+      - A107
+      - A108
+      - A109
+      - A110
+      required: false
+    - id: 3
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_number
+      label: Room Number
+      hint: Please enter room number, e.g., 123 Main St
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: renovation_need
+      label: Renovation Need
+      hint: Please enter your renovation need
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Under Repair
+      - Under Renovation
+      - Active
+      required: false
+    - id: 8
+      name: space_type
+      label: Space Type
+      hint: null
+      type: select_one
+      options:
+      - Classrooms
+      - Labs
+      - Offices
+      - Meeting Spaces
+      required: false
+    - id: 9
+      name: room_condition
+      label: Room Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: space_capacity
+      label: Space Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: renovation_request_date
+      label: Renovation Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: space_location
+      label: Space Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: space_floor
+      label: Space Floor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: space_description
+      label: Space Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

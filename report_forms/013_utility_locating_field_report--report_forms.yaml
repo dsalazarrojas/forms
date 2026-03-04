@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Locating Field Report
+    pages:
+    - id: 1
+      name: utility_locating_field_report_form
+      label: what_is_your_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_found
+      label: date_found
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_found
+      label: time_found
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location_coordinates
+      label: location_coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: utility_type
+      label: utility_type
+      hint: null
+      type: select_one
+      options:
+      - Electric
+      - Gas
+      - Water
+      - Other
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

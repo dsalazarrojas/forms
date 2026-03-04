@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Development Progress Report Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: started_date
+      label: Started Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: target_date
+      label: Target Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: progress_of_work
+      label: Progress of Work
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Started''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Done''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

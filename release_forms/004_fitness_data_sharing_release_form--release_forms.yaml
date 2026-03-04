@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Data Sharing Release Form
+    pages:
+    - id: 1
+      name: fitness_data_sharing_form
+      label: Fitness Data Sharing Release Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_frame
+      label: Time Frame
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Immediate''}'
+      - '{''id'': 2, ''label'': ''Ongoing''}'
+      - '{''id'': 3, ''label'': ''One-time''}'
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fitness_data_sharing_agreement
+      label: Fitness Data Sharing Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recipient_details
+      label: Recipient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Cancel''}'
+      required: false
+    - id: 12
+      name: release_agreement
+      label: Release Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fitness_data_sharing_agreement_signed
+      label: Fitness Data Sharing Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false

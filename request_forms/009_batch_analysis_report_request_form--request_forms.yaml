@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Analysis Report Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Quality Assurance
+      - Research and Development
+      - Production
+      - Manufacturing
+      - Laboratory
+      - Other
+      required: true
+    - id: 5
+      name: batch_id
+      label: Batch ID Number
+      hint: Unique batch identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: batch_name
+      label: Batch Name
+      hint: Product or material name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: batch_date
+      label: Batch Production Date
+      hint: When was the batch produced
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: analysis_type
+      label: Type of Analysis Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chemical Composition
+      - Physical Properties
+      - Microbiological Testing
+      - Purity Analysis
+      - Contaminant Screening
+      - Stability Testing
+      - Quality Verification
+      required: true
+    - id: 9
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Standard - 5 to 7 business days
+      - Priority - 3 to 4 business days
+      - Rush - 1 to 2 business days
+      - Emergency - Same day
+      required: true
+    - id: 10
+      name: sample_quantity
+      label: Sample Quantity
+      hint: Amount of sample provided
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sample_storage
+      label: Sample Storage Requirements
+      hint: Any special storage needs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: testing_standards
+      label: Testing Standards to Follow
+      hint: Specify any required standards
+      type: select_multiple
+      options:
+      - ISO 9001
+      - ISO 17025
+      - ASTM
+      - USP
+      - EP
+      - Internal SOP
+      - Other
+      required: false
+    - id: 13
+      name: turnaround_date
+      label: Required Completion Date
+      hint: When do you need results
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: report_format
+      label: Preferred Report Format
+      hint: How should results be delivered
+      type: select_one
+      options:
+      - PDF Document
+      - Excel Spreadsheet
+      - Both PDF and Excel
+      - Digital Dashboard
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

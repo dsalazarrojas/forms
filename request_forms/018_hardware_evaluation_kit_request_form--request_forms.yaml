@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Evaluation Kit Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hardware_request
+      label: Hardware Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: engineer_name
+      label: Engineer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_details
+      label: Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_kit_type
+      label: Evaluation Kit Type
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Other
+      required: false
+    - id: 11
+      name: evaluation_kit_request
+      label: Evaluation Kit Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

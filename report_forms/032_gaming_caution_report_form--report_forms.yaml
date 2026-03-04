@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Caution Report Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: Enter your username
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_id
+      label: Player ID
+      hint: Enter the player ID
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: player_name
+      label: Player Name
+      hint: Enter the player name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_id
+      label: Report ID
+      hint: Enter the report ID
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Inappropriate Behavior
+      - Spam
+      - Other
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: Enter a description
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Communication Phrase Request Form
+    pages:
+    - id: 1
+      name: requester_details
+      label: -- Requester Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: communication_context
+      label: Communication Context
+      hint: Where will this phrase be used?
+      type: select_one
+      options:
+      - Email
+      - Marketing Materials
+      - Customer Service
+      - Sales Pitch
+      - Internal Communications
+      - Presentations
+      - Social Media
+      - Other
+      required: true
+    - id: 7
+      name: tone_preference
+      label: Desired Tone
+      hint: What tone should it have?
+      type: select_one
+      options:
+      - Professional and Formal
+      - Friendly and Approachable
+      - Persuasive and Compelling
+      - Authoritative and Confident
+      - Casual and Conversational
+      required: true
+    - id: 8
+      name: target_audience
+      label: Target Audience
+      hint: Who will see this?
+      type: select_one
+      options:
+      - Customers
+      - Potential Clients
+      - Business Partners
+      - Employees
+      - General Public
+      - Internal Team
+      required: true
+    - id: 9
+      name: phrase_subject
+      label: Phrase Subject or Topic
+      hint: What is the main topic?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_phrase
+      label: Current Phrase or Statement
+      hint: What you currently use
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What should the phrase accomplish?
+      type: select_multiple
+      options:
+      - Convince
+      - Inform
+      - Engage
+      - Inspire
+      - Clarify
+      - Call to Action
+      required: true
+    - id: 12
+      name: key_message
+      label: Key Message to Convey
+      hint: Most important point
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: language_preferences
+      label: -- Language Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: languages_needed
+      label: Languages Needed
+      hint: Which languages?
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      - Japanese
+      - Other
+      required: true
+    - id: 15
+      name: cultural_sensitivity
+      label: Cultural Sensitivity Required
+      hint: Any cultural considerations?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: length_preference
+      label: Phrase Length Preference
+      hint: How long should it be?
+      type: select_one
+      options:
+      - One Liner (under 10 words)
+      - Short Phrase (10-25 words)
+      - Medium Phrase (25-50 words)
+      - Longer Statement (50+ words)
+      required: true
+    - id: 17
+      name: additional_context
+      label: Additional Context or Requirements
+      hint: Any other important details
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: timeline
+      label: Timeline for Delivery
+      hint: When do you need this?
+      type: select_one
+      options:
+      - Urgent
+      - This Week
+      - Next Week
+      - Within 2 Weeks
+      - No Specific Deadline
+      required: true

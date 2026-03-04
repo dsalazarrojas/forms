@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Baggage Handling Incident Report
+    pages:
+    - id: 1
+      name: section_reporting_agent
+      label: -- Reporting Agent Details --
+      hint: To be completed by the staff member
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Reporting Agent Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_email
+      label: Agent Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: airline_code
+      label: Airline Code
+      hint: e.g. AA, BA, DL
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: flight_number
+      label: Flight Number
+      hint: Flight number related to the incident
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: Provide information about the baggage event
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_time
+      label: Incident Time
+      hint: Approximate time of discovery
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: incident_type
+      label: Type of Incident
+      hint: Main category of the issue
+      type: select_one
+      options:
+      - Damaged Baggage
+      - Delayed or Mishandled
+      - Lost Baggage
+      - Pilferage or Theft
+      - Mechanical Failure
+      required: true
+    - id: 10
+      name: tag_number
+      label: Baggage Tag Number
+      hint: Unique identifier for the bag
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_location
+      label: Point of Discovery
+      hint: Where was the issue identified?
+      type: select_one
+      options:
+      - Check-in Counter
+      - Aircraft Loading
+      - Aircraft Offloading
+      - Transfer Belt
+      - Baggage Carousel
+      required: true
+    - id: 12
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: Explain what happened and the current state
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: baggage_description
+      label: Physical Description of Baggage
+      hint: Color, make, and model of the bag
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: damage_estimate
+      label: Estimated Damage Value
+      hint: In USD or local currency
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: actions_taken
+      label: Immediate Actions Taken
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Property Irregularity Report (PIR) created
+      - Baggage rerouted to final destination
+      - Immediate compensation provided
+      - Sent for repair or cleaning
+      required: true
+    - id: 16
+      name: case_status
+      label: Current Case Status
+      hint: Final disposition of this report
+      type: select_one
+      options:
+      - Open - Investigation Pending
+      - Resolved - Baggage Located/Delivered
+      - Resolved - Claim Paid
+      - Forwarded to Insurance
+      required: true
+    - id: 17
+      name: witness_name
+      label: Witness Name
+      hint: If any, name of other staff or customer
+      type: text
+      options: []
+      required: false

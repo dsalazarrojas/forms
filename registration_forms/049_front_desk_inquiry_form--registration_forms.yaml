@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Front Desk Inquiry Form
+    pages:
+    - id: 1
+      name: stay_length
+      label: Stay Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Single''}'
+      - '{''id'': 2, ''label'': ''Double''}'
+      - '{''id'': 3, ''label'': ''Suite''}'
+      required: false
+    - id: 3
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: services_required
+      label: Services Required
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Laundry''}'
+      - '{''id'': 2, ''label'': ''Wi-Fi''}'
+      - '{''id'': 3, ''label'': ''Room Service''}'
+      - '{''id'': 4, ''label'': ''Towels''}'
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''General Inquiry''}'
+      - '{''id'': 2, ''label'': ''Special Request''}'
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

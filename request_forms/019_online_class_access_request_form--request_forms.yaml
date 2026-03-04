@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_class_access_request_form
+    pages:
+    - id: 1
+      name: course_details
+      label: Course Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: learner_name
+      label: Learner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: learner_email
+      label: Learner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: learner_phone
+      label: Learner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_selection
+      label: Course Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: instructor
+      label: Instructor
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: approver
+      label: Approver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

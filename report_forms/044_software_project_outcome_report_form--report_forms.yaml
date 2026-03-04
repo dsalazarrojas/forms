@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Project Outcome Report Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''On Hold''}'
+      required: true
+    - id: 6
+      name: stakeholder_list
+      label: Stakeholder List
+      hint: List of stakeholders involved in the project
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team Members''}'
+      - '{''id'': 2, ''label'': ''External Contractors''}'
+      - '{''id'': 3, ''label'': ''Project Sponsor''}'
+      - '{''id'': 4, ''label'': ''Customers''}'
+      required: true
+    - id: 7
+      name: stakeholder_comments
+      label: Stakeholder Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_goals
+      label: Project Goals
+      hint: Project goals and objectives
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_outcomes
+      label: Project Outcomes
+      hint: Project outcomes and results
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Lessons learned during the project
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recommendations
+      label: Recommendations
+      hint: Recommendations for future projects
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: Next steps for future projects
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_closeout_costs
+      label: Project Closeout Costs
+      hint: Total costs of the project
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: project_closeout_hours
+      label: Project Closeout Hours
+      hint: Total hours spent on the project
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: project_closeout_rating
+      label: Project Closeout Rating
+      hint: Overall rating of the project
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Satisfactory''}'
+      - '{''id'': 2, ''label'': ''Unsatisfactory''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: true
+    - id: 16
+      name: stakeholder_uploads
+      label: Stakeholder Uploads
+      hint: List of stakeholder uploads for the project
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_member_uploads
+      label: Team Member Uploads
+      hint: List of team member uploads for the project
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sponsor_uploads
+      label: Sponsor Uploads
+      hint: List of sponsor uploads for the project
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_uploads
+      label: Customer Uploads
+      hint: List of customer uploads for the project
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_documents
+      label: Project Documents
+      hint: List of project documents
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_files
+      label: Project Files
+      hint: List of project files
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_notes
+      label: Project Notes
+      hint: Project notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_comments
+      label: Team Comments
+      hint: Team comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_manager_comments
+      label: Project Manager Comments
+      hint: Project manager comments
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: closeout_date
+      label: Closeout Date
+      hint: Closeout date of the project
+      type: date
+      options: []
+      required: false

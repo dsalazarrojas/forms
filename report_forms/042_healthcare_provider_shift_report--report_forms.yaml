@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Provider Shift Report
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: start_time_in
+      label: Start Time In
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time_out
+      label: End Time Out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: staff_id
+      label: Staff Id
+      hint: null
+      type: text
+      options: []
+      required: false

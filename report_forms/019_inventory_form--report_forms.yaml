@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: Please enter the general information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_quantity
+      label: Product Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_location
+      label: Product Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Refurbished
+      required: false
+    - id: 7
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Discontinued
+      required: false
+    - id: 8
+      name: item_category
+      label: Item Category
+      hint: null
+      type: select_multiple
+      options:
+      - Electronics
+      - Clothing
+      - Furniture
+      required: false
+    - id: 9
+      name: item_subcategory
+      label: Item Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_added
+      label: Date Added
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_added
+      label: Time Added
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: item_image
+      label: Item Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: item_url
+      label: Item URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: item_amount
+      label: Item Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: item_location
+      label: Item Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Discontinued
+      required: false
+    - id: 22
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Refurbished
+      required: false
+    - id: 23
+      name: item_subcategory
+      label: Item Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: item_category
+      label: Item Category
+      hint: null
+      type: select_multiple
+      options:
+      - Electronics
+      - Clothing
+      - Furniture
+      required: false
+    - id: 25
+      name: item_note
+      label: Item Note
+      hint: null
+      type: note
+      options: []
+      required: false

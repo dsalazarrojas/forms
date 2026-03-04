@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicare Refund Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Medicare Refund Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_id
+      label: Claim ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: uploaded_file
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false

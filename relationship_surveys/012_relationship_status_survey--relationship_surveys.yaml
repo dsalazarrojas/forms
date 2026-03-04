@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: relationship_status_survey
+    pages:
+    - id: 1
+      name: relationship_status
+      label: How would you describe your current relationship status?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: length_of_time
+      label: How long have you been with your partner?
+      hint: Years or months
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency_of_cuddles
+      label: How many cuddles do you share with your partner?
+      hint: Number of times per day
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: favorite_cuddle
+      label: What's your favorite type of cuddle?
+      hint: null
+      type: select_one
+      options:
+      - Cuddle on the couch
+      - Cuddle in the kitchen
+      - Cuddle in bed
+      required: false
+    - id: 5
+      name: partner_name
+      label: What is your partner's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_age
+      label: What is your partner's age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: partner_income_range
+      label: What is your partner's annual income range?
+      hint: null
+      type: select_multiple
+      options:
+      - Under 20k
+      - 20-30k
+      - 30-40k
+      - 40-50k
+      - Over 50k
+      required: false
+    - id: 8
+      name: own_children
+      label: Do you have kids?
+      hint: Yes or no
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: false
+    - id: 9
+      name: family_structure
+      label: What's your family structure?
+      hint: null
+      type: select_multiple
+      options:
+      - Married
+      - Divorced
+      - Separated
+      - Widow(er)
+      - Other
+      required: false
+    - id: 10
+      name: partner_education
+      label: What is your partner's education level?
+      hint: null
+      type: select_multiple
+      options:
+      - Elementary
+      - High school
+      - Bachelor's degree
+      - Master's degree
+      - Some college
+      - Other
+      required: false
+    - id: 11
+      name: relationship_satisfaction
+      label: How satisfied are you with your relationship?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 12
+      name: relationship_quality
+      label: What kind of relationship do you have with your partner?
+      hint: null
+      type: select_one
+      options:
+      - Romantic
+      - Friendship
+      - Family
+      - Business
+      required: false
+    - id: 13
+      name: communication_style
+      label: What's your preferred communication style with your partner?
+      hint: null
+      type: select_one
+      options:
+      - Direct
+      - Indirect
+      - Avoidant
+      required: false
+    - id: 14
+      name: trust_level
+      label: What's your level of trust with your partner?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: conflict_resolution
+      label: How do you usually resolve conflicts with your partner?
+      hint: null
+      type: select_one
+      options:
+      - Together
+      - Alone
+      - Not often
+      required: false
+    - id: 16
+      name: conflict_frequency
+      label: How frequent are conflicts in your relationship?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Somewhat often
+      - Rarely
+      - Never
+      required: false
+    - id: 17
+      name: love_language
+      label: What is your love language?
+      hint: null
+      type: select_multiple
+      options:
+      - Words of Affirmation
+      - Quality time
+      - Gifts
+      - Acts of Service
+      - Physical touch
+      - Other
+      required: false
+    - id: 18
+      name: relationship_goals
+      label: What are your relationship goals?
+      hint: null
+      type: select_multiple
+      options:
+      - Short term
+      - Long term
+      - Marriage
+      - Co-habitation
+      - Other
+      required: false
+    - id: 19
+      name: partner_goals
+      label: What are your partner's relationship goals?
+      hint: null
+      type: select_multiple
+      options:
+      - Short term
+      - Long term
+      - Marriage
+      - Co-habitation
+      - Other
+      required: false
+    - id: 20
+      name: relationship_type
+      label: What type of relationship do you have with your partner?
+      hint: null
+      type: select_one
+      options:
+      - Romantic partnership
+      - Friendship
+      - Family
+      required: false
+    - id: 21
+      name: conflict_cause
+      label: What causes conflicts in your relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Intimacy
+      - Financial issues
+      - Other
+      required: false
+    - id: 22
+      name: relationship_stage
+      label: What stage is your relationship in?
+      hint: null
+      type: select_one
+      options:
+      - Just started
+      - Dating
+      - Engaged
+      - Married
+      - In open relationship
+      - Other
+      required: false
+    - id: 23
+      name: partner_work
+      label: What kind of work does your partner do?
+      hint: null
+      type: select_multiple
+      options:
+      - Office job
+      - Entrepreneur
+      - Freelancer
+      - Student
+      - Other
+      required: false
+    - id: 24
+      name: partner_interest
+      label: What are your partner's interests?
+      hint: null
+      type: select_multiple
+      options:
+      - Hiking
+      - Reading
+      - Traveling
+      - Music
+      - Other
+      required: false
+    - id: 25
+      name: partner_education
+      label: What is your partner's education level?
+      hint: null
+      type: select_multiple
+      options:
+      - Elementary
+      - High school
+      - Bachelor's degree
+      - Master's degree
+      - Some college
+      - Other
+      required: false

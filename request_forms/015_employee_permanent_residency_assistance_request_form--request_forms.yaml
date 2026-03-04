@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Permanent Residency Assistance Request Form
+    pages:
+    - id: 1
+      name: employee_permanent_residency_assistance_request_form_data
+      label: Employee Permanent Residency Assistance Request Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employer
+      label: employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_reason
+      label: request_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: permanent_residency_status
+      label: permanent_residency_status
+      hint: null
+      type: select_one
+      options:
+      - Permanent Residency Granted
+      - Permanent Residency Denied
+      - Application Under Review
+      required: true
+    - id: 6
+      name: employee_permanent_residency_date
+      label: employee_permanent_residency_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: permanent_residency_application_number
+      label: permanent_residency_application_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_address
+      label: employee_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_postal_code
+      label: employee_postal_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employer_address
+      label: employer_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employer_postal_code
+      label: employer_postal_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: permanent_residency_application_date
+      label: permanent_residency_application_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: permanent_residency_expiration_date
+      label: permanent_residency_expiration_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_signature_date
+      label: employee_signature_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: employer_signature_date
+      label: employer_signature_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: employer_signature
+      label: employer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: employee_acknowledgement
+      label: employee_acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employer_acknowledgement
+      label: employer_acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: permanent_residency_status_notes
+      label: permanent_residency_status_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: permanent_residency_application_notes
+      label: permanent_residency_application_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: permanent_residency_rejection_reason
+      label: permanent_residency_rejection_reason
+      hint: null
+      type: text
+      options: []
+      required: false

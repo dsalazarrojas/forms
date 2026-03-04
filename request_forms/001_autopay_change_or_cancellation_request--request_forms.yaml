@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autopay Change Or Cancellation Request
+    pages:
+    - id: 1
+      name: request_type
+      label: Request Type
+      hint: Select the type of autopay change you need
+      type: select_one
+      options:
+      - Change payment method
+      - Update billing amount
+      - Change payment date
+      - Cancel autopay entirely
+      - Temporarily suspend autopay
+      required: true
+    - id: 2
+      name: account_holder_name
+      label: Account Holder Full Name
+      hint: Enter the name as it appears on the account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: Your account or customer number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_payment_method
+      label: Current Payment Method
+      hint: What payment method is currently on file
+      type: select_one
+      options:
+      - Credit Card (Visa/Mastercard/Amex)
+      - Debit Card
+      - Bank Account (ACH)
+      - PayPal
+      - Other digital wallet
+      required: true
+    - id: 7
+      name: new_payment_method_type
+      label: New Payment Method Type
+      hint: Select the new payment method you want to use
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Account (ACH)
+      - PayPal
+      - Same as current
+      - Not applicable - cancelling
+      required: false
+    - id: 8
+      name: new_card_last_four
+      label: New Card Last Four Digits
+      hint: Last 4 digits of the new card number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_amount
+      label: Billing Amount
+      hint: Enter the new recurring amount if changing
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_frequency
+      label: Payment Frequency
+      hint: How often should payments occur
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 11
+      name: preferred_payment_date
+      label: Preferred Payment Date
+      hint: Day of month or week for payment
+      type: select_one
+      options:
+      - 1st of month
+      - 15th of month
+      - Last day of month
+      - Every Monday
+      - Every Friday
+      - On invoice date
+      required: false
+    - id: 12
+      name: effective_date
+      label: Effective Date
+      hint: When should this change take effect
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: reason_for_change
+      label: Reason for Change or Cancellation
+      hint: Briefly explain why you are making this change
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: authorization_checkbox
+      label: I authorize this change to my autopay settings
+      hint: Check to confirm you authorize this payment change
+      type: select_one
+      options:
+      - Yes, I authorize
+      - Other
+      required: true
+    - id: 16
+      name: signature_date
+      label: Date of Authorization
+      hint: Today's date
+      type: date
+      options: []
+      required: true

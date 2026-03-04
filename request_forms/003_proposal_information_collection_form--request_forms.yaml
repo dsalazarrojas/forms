@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Proposal Information Collection Form
+    pages:
+    - id: 1
+      name: proposal_title
+      label: Proposal Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: false
+    - id: 3
+      name: summary
+      label: Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment_1
+      label: Attachment 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment_2
+      label: Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment_3
+      label: Attachment 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment_4
+      label: Attachment 4
+      hint: null
+      type: text
+      options: []
+      required: false

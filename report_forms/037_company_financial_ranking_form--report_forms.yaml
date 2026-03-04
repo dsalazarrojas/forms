@@ -1,0 +1,421 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Financial Ranking Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_id
+      label: Company ID/Registration Number
+      hint: Official registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Energy
+      - Telecommunications
+      - Consumer Goods
+      - Industrial
+      - Real Estate
+      - Other
+      required: true
+    - id: 4
+      name: sub_industry
+      label: Sub-Industry/Specialization
+      hint: More specific category
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fiscal_year
+      label: Fiscal Year for This Report
+      hint: Reporting period
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_currency
+      label: Reporting Currency
+      hint: Currency used
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      - CAD
+      - AUD
+      - CHF
+      - CNY
+      - Other
+      required: true
+    - id: 7
+      name: section_revenue
+      label: -- Revenue Metrics --
+      hint: Revenue information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: total_revenue
+      label: Total Annual Revenue
+      hint: In millions
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: revenue_growth
+      label: Year-over-Year Revenue Growth
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: recurring_revenue
+      label: Recurring Revenue Percentage
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: revenue_by_segment
+      label: Primary Revenue Source
+      hint: Main revenue driver
+      type: select_one
+      options:
+      - Product Sales
+      - Services
+      - Subscriptions
+      - Licensing
+      - Advertising
+      - Other
+      required: true
+    - id: 12
+      name: section_profitability
+      label: -- Profitability Metrics --
+      hint: Profit information
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: gross_profit_margin
+      label: Gross Profit Margin
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: operating_profit_margin
+      label: Operating Profit Margin
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: net_profit_margin
+      label: Net Profit Margin
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: ebitda
+      label: EBITDA
+      hint: In millions
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: ebitda_margin
+      label: EBITDA Margin
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_assets
+      label: -- Asset Metrics --
+      hint: Asset information
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: total_assets
+      label: Total Assets
+      hint: In millions
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: current_assets
+      label: Current Assets
+      hint: In millions
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: fixed_assets
+      label: Fixed Assets
+      hint: In millions
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: intangible_assets
+      label: Intangible Assets
+      hint: In millions
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_liabilities
+      label: -- Liability Metrics --
+      hint: Liability information
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: total_liabilities
+      label: Total Liabilities
+      hint: In millions
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: current_liabilities
+      label: Current Liabilities
+      hint: In millions
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: long_term_debt
+      label: Long-term Debt
+      hint: In millions
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: debt_to_equity_ratio
+      label: Debt-to-Equity Ratio
+      hint: Ratio
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: section_liquidity
+      label: -- Liquidity Metrics --
+      hint: Liquidity information
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: current_ratio
+      label: Current Ratio
+      hint: Ratio
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: quick_ratio
+      label: Quick Ratio
+      hint: Ratio
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: cash_and_equivalents
+      label: Cash and Cash Equivalents
+      hint: In millions
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: operating_cash_flow
+      label: Operating Cash Flow
+      hint: In millions
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: section_efficiency
+      label: -- Efficiency Metrics --
+      hint: Efficiency information
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: asset_turnover
+      label: Asset Turnover Ratio
+      hint: Ratio
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: inventory_turnover
+      label: Inventory Turnover
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: days_sales_outstanding
+      label: Days Sales Outstanding (DSO)
+      hint: Days
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: section_employees
+      label: -- Employee Metrics --
+      hint: Employee information
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: total_employees
+      label: Total Number of Employees
+      hint: Headcount
+      type: number
+      options: []
+      required: true
+    - id: 39
+      name: revenue_per_employee
+      label: Revenue per Employee
+      hint: In thousands
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: employee_growth
+      label: Year-over-Year Employee Growth
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: section_market
+      label: -- Market Metrics --
+      hint: Market information
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: market_cap
+      label: Market Capitalization
+      hint: In millions, if public
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: market_share
+      label: Estimated Market Share
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 44
+      name: geographic_presence
+      label: Geographic Presence
+      hint: Number of countries
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: section_ranking
+      label: -- Ranking Criteria --
+      hint: For ranking purposes
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: ranking_category
+      label: Which ranking category applies?
+      hint: Primary category
+      type: select_one
+      options:
+      - Revenue Rank
+      - Profitability Rank
+      - Growth Rank
+      - Efficiency Rank
+      - Overall Financial Health
+      required: true
+    - id: 47
+      name: peer_comparison
+      label: How do you compare to industry peers?
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Top 10%
+      - Top 25%
+      - Top 50%
+      - Below average
+      - Not sure
+      required: false
+    - id: 48
+      name: financial_highlights
+      label: Key Financial Highlights
+      hint: Notable achievements
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: data_source
+      label: Source of Financial Data
+      hint: Where data comes from
+      type: select_one
+      options:
+      - Audited financial statements
+      - Internal financial reports
+      - Public filings
+      - Management estimates
+      - Other
+      required: true
+    - id: 50
+      name: data_verified
+      label: Has this data been verified?
+      hint: Verification status
+      type: select_one
+      options:
+      - Yes, by external auditor
+      - Yes, by internal audit
+      - Yes, by management
+      - No, preliminary
+      required: true
+    - id: 51
+      name: submitted_by
+      label: Submitted By
+      hint: Name of submitter
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: submitter_title
+      label: Submitter Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

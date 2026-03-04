@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Connection Survey
+    pages:
+    - id: 1
+      name: school_participation
+      label: School Participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: friendliness
+      label: How friendly are people in your school?
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_support
+      label: How much do teachers support you?
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_support
+      label: How much do parents support you?
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_climate
+      label: School Climate
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      - Very Bad
+      required: false
+    - id: 6
+      name: teacher_connection
+      label: How connected are you to teachers?
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_connections
+      label: How connected are students in your school?
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: peer_connection
+      label: How connected are you with your peers?
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: school_environment
+      label: How good is your school environment?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      - Very Bad
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agency Mid Year Financial Report
+    pages:
+    - id: 1
+      name: header
+      label: -- Agency Mid-Year Financial Report --
+      hint: Financial performance review for the first half of the year
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: officer_name
+      label: Reporting Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: financial_header
+      label: -- Financial Data - Q1 and Q2 --
+      hint: data from January to June
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_revenue
+      label: Total Revenue Year-to-Date
+      hint: gross income received
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: operating_expenses
+      label: Total Operating Expenses Year-to-Date
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: net_profit_loss
+      label: Net Profit or Loss
+      hint: Revenue minus expenses
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: projected_revenue
+      label: Projected Revenue for remainder of year
+      hint: Forecast for Q3 and Q4
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: budget_status
+      label: Budget Status - Under Budget, On Budget, Over Budget
+      hint: null
+      type: select_one
+      options:
+      - Under Budget
+      - On Budget
+      - Over Budget (within 10%)
+      - Significantly Over Budget
+      required: true
+    - id: 11
+      name: variance_explanation
+      label: Explanation for budget variances
+      hint: provide details if budget was exceeded
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: figures_header
+      label: -- Supporting Figures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: client_accounts
+      label: Number of active client accounts
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: employee_count
+      label: Number of full-time employees
+      hint: null
+      type: number
+      options: []
+      required: true

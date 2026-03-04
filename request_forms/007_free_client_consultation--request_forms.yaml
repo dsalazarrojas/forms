@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: free-client-consultation
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: schedule_date
+      label: Schedule a Meeting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: consultant_preference
+      label: Preferred Meeting Time
+      hint: null
+      type: select_one
+      options:
+      - 8am
+      - 10am
+      - 2pm
+      - 5pm
+      required: false
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_consultant
+      label: Assigned Consultant
+      hint: null
+      type: select_multiple
+      options:
+      - Consultant 1
+      - Consultant 2
+      - Consultant 3
+      required: false
+    - id: 10
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 11
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - In Person
+      - Phone Call
+      - Video Call
+      - Email
+      required: false
+    - id: 12
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Unavailable
+      required: false
+    - id: 13
+      name: preferred_communication
+      label: Preferred Communication
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 14
+      name: confirm_meeting
+      label: Confirm Meeting
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      required: false
+    - id: 17
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_multiple
+      options:
+      - Personal
+      - Business
+      - Social
+      required: false
+    - id: 18
+      name: meeting_priority
+      label: Meeting Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

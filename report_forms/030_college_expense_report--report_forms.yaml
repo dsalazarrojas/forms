@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Expense Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_organization
+      label: Department or Organization
+      hint: Which group are you submitting for
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: report_period_start
+      label: Expense Report Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: report_period_end
+      label: Expense Report Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expense_purpose
+      label: Purpose of Expenses
+      hint: Conference, travel, supplies, event, etc.
+      type: select_one
+      options:
+      - Conference or Workshop
+      - Travel or Field Trip
+      - Research Materials
+      - Office Supplies
+      - Event or Activity
+      - Equipment Purchase
+      - Other
+      required: true
+    - id: 10
+      name: event_name
+      label: Event or Project Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expense_1_date
+      label: Expense Date
+      hint: First expense date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: expense_1_category
+      label: Expense Category
+      hint: Transportation, meals, accommodation, etc.
+      type: select_one
+      options:
+      - Transportation
+      - Meals and Dining
+      - Accommodation
+      - Registration Fees
+      - Materials and Supplies
+      - Equipment
+      - Other
+      required: true
+    - id: 13
+      name: expense_1_description
+      label: Expense Description
+      hint: Details of what was purchased
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expense_1_amount
+      label: Expense Amount
+      hint: Cost in dollars
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: expense_1_vendor
+      label: Vendor or Merchant Name
+      hint: Where was it purchased
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expense_1_receipt
+      label: Receipt or Invoice Attached
+      hint: Do you have documentation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: additional_expenses
+      label: Additional Expenses to Report
+      hint: Total amount of other expenses
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_expenses
+      label: Total Expenses Being Claimed
+      hint: Sum of all expenses
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: funding_source
+      label: Funding Source
+      hint: Where is the money coming from
+      type: select_one
+      options:
+      - Student Activity Fee
+      - Department Budget
+      - Grant or Scholarship
+      - Personal Funds to Reimburse
+      - Event Revenue
+      - Other
+      required: true
+    - id: 20
+      name: budget_approval
+      label: Budget Approval Number or Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_name
+      label: Supervisor or Advisor Name
+      hint: Who authorized this expense
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: reimbursement_method
+      label: Preferred Reimbursement Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Direct Deposit
+      - Campus Card
+      - Organization Account
+      required: true
+    - id: 24
+      name: bank_account_info
+      label: Banking Information for Direct Deposit
+      hint: If direct deposit selected
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: certification
+      label: I certify these expenses are accurate and necessary
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

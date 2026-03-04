@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Referee Report Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Game Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: game_date
+      label: Game date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: game_time
+      label: Game time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: game_venue
+      label: Game venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Referee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: head_referee
+      label: Head referee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: umpire_name
+      label: Umpire name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_3
+      label: -- Teams and Scores --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: home_team_name
+      label: Home team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: away_team_name
+      label: Away team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: home_final_score
+      label: Home team final score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: away_final_score
+      label: Away team final score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Game Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: game_duration
+      label: Game duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: attendance
+      label: Approximate attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Fouls and Penalties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: total_fouls_home
+      label: Total fouls - Home team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_fouls_away
+      label: Total fouls - Away team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: technical_fouls
+      label: Technical fouls issued
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_6
+      label: -- Game Notes and Incidents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: significant_incidents
+      label: Significant incidents during game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: referee_notes
+      label: Referee notes and observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: game_outcome
+      label: Game outcome
+      hint: null
+      type: select_one
+      options:
+      - Home Team Won
+      - Away Team Won
+      - Tie/Draw
+      - Cancelled
+      - Postponed
+      - Other
+      required: true
+    - id: 25
+      name: report_confirmation
+      label: I confirm this report is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car And Bakkie Rental Booking Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Car and Bakkie Rental Booking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Book your car or bakkie rental today. Complete this form to reserve your
+        vehicle.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: driver_license
+      label: Driver's License Number
+      hint: License number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_expiry
+      label: License Expiry Date
+      hint: When license expires
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: postal_code
+      label: Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_selection_header
+      label: -- Vehicle Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Select one
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Hatchback
+      - Minivan
+      - Bakkie (light duty)
+      - Bakkie (heavy duty)
+      - Van
+      - Other
+      required: true
+    - id: 15
+      name: fuel_preference
+      label: Fuel Type Preference
+      hint: Select one
+      type: select_one
+      options:
+      - Petrol
+      - Diesel
+      - Hybrid
+      - No preference
+      required: false
+    - id: 16
+      name: capacity_needs
+      label: Passenger/Cargo Capacity Needed
+      hint: Select one
+      type: select_one
+      options:
+      - 2-4 passengers
+      - 5 passengers
+      - 5+ passengers
+      - Large cargo space
+      - Combination needed
+      required: true
+    - id: 17
+      name: rental_dates_header
+      label: -- Rental Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: pickup_date
+      label: Pickup Date
+      hint: When to pick up
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: pickup_time
+      label: Pickup Time
+      hint: What time
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: pickup_location
+      label: Pickup Location
+      hint: Where to pick up
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: return_date
+      label: Return Date
+      hint: When returning
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: return_time
+      label: Return Time
+      hint: What time
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: return_location
+      label: Return Location
+      hint: Where returning to
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: rental_options_header
+      label: -- Rental Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: insurance_option
+      label: Insurance Coverage
+      hint: Select one
+      type: select_one
+      options:
+      - Basic (CDW only)
+      - Standard (CDW plus)
+      - Premium (comprehensive)
+      - My own insurance
+      - Not needed
+      required: true
+    - id: 26
+      name: additional_drivers
+      label: Additional Drivers?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: additional_equipment
+      label: Additional Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - GPS/Navigation
+      - Child seat
+      - Roof rack
+      - Tow hitch
+      - Sat phone
+      - Tools/Jack
+      - None
+      required: false
+    - id: 28
+      name: loyalty_program_header
+      label: -- Loyalty and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: loyalty_member
+      label: Loyalty Program Member?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Interested in joining
+      required: false
+    - id: 30
+      name: special_requests
+      label: Special Requests or Preferences
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: payment_preference
+      label: Preferred Payment Method
+      hint: Select one
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Cash on pickup
+      - Corporate account
+      required: true
+    - id: 32
+      name: booking_confirmation
+      label: I confirm the booking details and agree to rental terms
+      hint: Required
+      type: select_one
+      options:
+      - Yes, confirm booking
+      - 'No'
+      required: true

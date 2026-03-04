@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: HVAC Systems Training Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_program
+      label: Training Program
+      hint: Select a training program
+      type: select_one
+      options:
+      - HVAC
+      - Electrical
+      - Plumbing
+      required: false
+    - id: 7
+      name: participant_status
+      label: Participant Status
+      hint: Select participant status
+      type: select_multiple
+      options:
+      - New
+      - Current
+      - Alumni
+      required: false
+    - id: 8
+      name: training_date
+      label: Training Date
+      hint: Select the training date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_time
+      label: Training Time
+      hint: Select the training time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: training_hours
+      label: Training Hours
+      hint: Select the number of training hours
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_location
+      label: Training Location
+      hint: Select the training location
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false

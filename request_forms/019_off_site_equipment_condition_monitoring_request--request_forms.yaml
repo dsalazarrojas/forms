@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Off Site Equipment Condition Monitoring Request
+    pages:
+    - id: 1
+      name: scheduling_details
+      label: scheduling_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: equipment_details
+      hint: Enter equipment details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_access_notes
+      label: site_access_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_team_name
+      label: service_team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assessor_name
+      label: assessor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessor_email
+      label: assessor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: assessor_phone
+      label: assessor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessor_notes
+      label: assessor_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: monitoring_frequency
+      label: monitoring_frequency
+      hint: Weekly, Fortnightly, Monthly
+      type: select_one
+      options:
+      - Weekly
+      - Fortnightly
+      - Monthly
+      required: false
+    - id: 10
+      name: monitoring_date
+      label: monitoring_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: monitoring_time
+      label: monitoring_time
+      hint: null
+      type: time
+      options: []
+      required: false

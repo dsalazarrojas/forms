@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Contract Release Form
+    pages:
+    - id: 1
+      name: real_estate_agent
+      label: real_estate_agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_for_release
+      label: reason_for_release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_release
+      label: date_of_release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: release_time
+      label: release_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: release_location
+      label: release_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_contract_number
+      label: real_estate_contract_number
+      hint: null
+      type: text
+      options: []
+      required: false

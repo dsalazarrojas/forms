@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Addition Support Request
+    pages:
+    - id: 1
+      name: menu_item_name
+      label: Menu Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Restaurants
+      - Cafés
+      - Catering
+      - Food Truck
+      - Food Cart
+      - Market
+      required: true
+    - id: 3
+      name: item_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_tags
+      label: Tags (comma-separated)
+      hint: Enter a comma-separated list of tags
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      - Very Low
+      required: false
+    - id: 8
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: restaurant_id
+      label: Restaurant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: item_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - In Progress
+      required: false
+    - id: 11
+      name: item_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Menu Item
+      - Menu Update
+      required: true
+    - id: 12
+      name: menu_group
+      label: Group
+      hint: null
+      type: select_one
+      options:
+      - Main Menu
+      - Side Menu
+      - Specials
+      - Dessert Menu
+      required: false
+    - id: 13
+      name: item_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Updated
+      required: true

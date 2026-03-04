@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snail Mailing List Request
+    pages:
+    - id: 1
+      name: snail_mailing_list_request
+      label: Snail Mailing List Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Request Forms'', ''label'': ''Request Forms''}'
+      - '{''value'': ''Another Category'', ''label'': ''Another Category''}'
+      - '{''value'': ''Third Category'', ''label'': ''Third Category''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: snail_mail_subject
+      label: snail_mail_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: snail_mail_message
+      label: snail_mail_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: want_snail_mail
+      label: want_snail_mail
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 7
+      name: mail_list
+      label: mail_list
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

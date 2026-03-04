@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Off Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_interval
+      label: Time Interval
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '4'
+      - '8'
+      - '12'
+      - '16'
+      - '24'
+      required: false
+    - id: 5
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST (Eastern Standard Time)
+      - CST (Central Standard Time)
+      - MST (Mountain Standard Time)
+      - PST (Pacific Standard Time)
+      required: false
+    - id: 10
+      name: leave_reason
+      label: Leave Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time_off_request
+      label: Time Off Request
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: time_off_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: time_off_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: contact_work_phone
+      label: Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_work_email
+      label: Work Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: time_off_duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: time_off_days
+      label: Time Off Days
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: leave_start_time
+      label: Start Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: leave_end_time
+      label: End Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: leave_start_date
+      label: Start Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: leave_end_date
+      label: End Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: leave_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: work_start_time
+      label: Work Start Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: work_end_time
+      label: Work End Time
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Report
+    pages:
+    - id: 1
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mileage_distance
+      label: Mileage Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mileage_rate
+      label: Mileage Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_multiple
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 7
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

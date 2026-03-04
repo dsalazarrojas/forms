@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Report Form
+    pages:
+    - id: 1
+      name: section_header_basics
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date of this cleaning report
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_period
+      label: Cleaning Service Period
+      hint: Date range of service provided
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_name
+      label: Property/Client Name
+      hint: Name of the property or client
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Address of cleaned property
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: crew_leader
+      label: Crew Leader Name
+      hint: Name of the supervisor on duty
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: crew_members
+      label: Crew Members Present
+      hint: Names of all team members
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_service
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_type
+      label: Type of Service Performed
+      hint: null
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Post-Move Cleaning
+      - Window Cleaning
+      - Carpet Cleaning
+      - Specialty Cleaning
+      - Other
+      required: true
+    - id: 10
+      name: service_duration
+      label: Duration of Service
+      hint: Hours spent on cleaning
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: areas_serviced
+      label: Areas Serviced
+      hint: Which areas were cleaned
+      type: select_multiple
+      options:
+      - Kitchen
+      - Bathrooms
+      - Bedrooms
+      - Living Areas
+      - Dining Area
+      - Hallways
+      - Floors
+      - Windows
+      - Carpets
+      - Other
+      required: true
+    - id: 12
+      name: section_header_completion
+      label: -- Work Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: work_completed
+      label: Was all planned work completed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully completed
+      - Mostly completed
+      - Partially completed
+      - Not completed
+      required: true
+    - id: 14
+      name: completion_percentage
+      label: Percentage of Work Completed
+      hint: Estimated completion percentage
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: work_not_completed_reason
+      label: Reason for Incomplete Work
+      hint: If work was not fully completed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_details
+      label: -- Task Completion Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: kitchen_completed
+      label: Kitchen cleaning completed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partial
+      - false
+      - Not Applicable
+      required: true
+    - id: 18
+      name: bathroom_completed
+      label: Bathroom cleaning completed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partial
+      - false
+      - Not Applicable
+      required: true
+    - id: 19
+      name: floor_cleaning_completed
+      label: Floor cleaning completed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partial
+      - false
+      - Not Applicable
+      required: true
+    - id: 20
+      name: section_header_issues
+      label: -- Issues and Problems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: any_issues
+      label: Were there any issues during service?
+      hint: null
+      type: select_one
+      options:
+      - No issues
+      - Minor issues
+      - Significant issues
+      required: true
+    - id: 22
+      name: issues_description
+      label: Describe Any Issues Encountered
+      hint: Details about problems that occurred
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: damage_reported
+      label: Any damage to property reported?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - Minor
+      - Yes - Significant
+      required: true
+    - id: 24
+      name: damage_description
+      label: Damage Description
+      hint: Details of any damage
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_header_quality
+      label: -- Quality and Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: work_quality
+      label: Quality of Work Performed
+      hint: How well was the work completed?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 27
+      name: client_satisfaction
+      label: Client Satisfaction Level
+      hint: Client's satisfaction with service
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 28
+      name: feedback_notes
+      label: Client Feedback or Special Comments
+      hint: Any feedback from the client
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_header_supplies
+      label: -- Supplies and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: supplies_used
+      label: Supplies/Products Used
+      hint: List materials and products used
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: equipment_issues
+      label: Any equipment problems or needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: follow_up_needed
+      label: Follow-up cleaning needed?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - Minor
+      - Yes - Major
+      required: true

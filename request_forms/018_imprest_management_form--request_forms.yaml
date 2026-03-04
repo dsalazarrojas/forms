@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Imprest Management Form
+    pages:
+    - id: 1
+      name: imprest_account
+      label: Imprest Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_manager
+      label: Account Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Non-Cash
+      required: false
+    - id: 4
+      name: account_balance
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: imprest_description
+      label: Imprest Description
+      hint: Brief description of imprest account
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_status
+      label: Account Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: accounting_code
+      label: Accounting Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: account_code
+      label: Account Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: financial_department
+      label: Financial Department
+      hint: null
+      type: select_one
+      options:
+      - Cash Management
+      - Accounts Payable
+      - Accounting
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: branch
+      label: Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: Brief notes about imprest account
+      type: text
+      options: []
+      required: false

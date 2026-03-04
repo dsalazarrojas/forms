@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chair Massage Release Form
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: Date of release form completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full legal name of client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Email for records
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions
+      type: select_multiple
+      options:
+      - None
+      - High blood pressure
+      - Heart condition
+      - Diabetes
+      - Arthritis
+      - Osteoporosis
+      - Blood clots
+      - Recent surgery
+      - Chronic pain
+      - Other
+      required: true
+    - id: 9
+      name: current_medications
+      label: Current Medications
+      hint: Are you currently taking any medications
+      type: select_one
+      options:
+      - No medications
+      - Yes - Will list in comments
+      required: true
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: Do you have any allergies
+      type: select_one
+      options:
+      - No known allergies
+      - Yes - Will specify
+      required: true
+    - id: 11
+      name: allergy_details
+      label: Allergy Details
+      hint: List any allergies
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: injury_areas
+      label: Current Injury or Pain Areas
+      hint: Describe any current injuries or pain
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_massage_experience
+      label: Previous Massage Experience
+      hint: Have you had massage therapy before
+      type: select_one
+      options:
+      - Yes - Multiple times
+      - Yes - Once or twice
+      - No - First time
+      required: true
+    - id: 14
+      name: massage_goals
+      label: Massage Goals
+      hint: What are your goals for this massage
+      type: select_multiple
+      options:
+      - Relaxation
+      - Stress relief
+      - Pain reduction
+      - Improved mobility
+      - Muscle tension relief
+      - General wellness
+      - Other
+      required: true
+    - id: 15
+      name: consent_to_treatment
+      label: Consent to Treatment
+      hint: I consent to receive chair massage therapy
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 16
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand there are risks associated with massage therapy
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - I do not understand
+      required: true
+    - id: 17
+      name: health_accuracy
+      label: Health Information Accuracy
+      hint: I confirm that the health information provided is accurate
+      type: select_one
+      options:
+      - Yes - Information is accurate
+      - No - Information needs updating
+      required: true
+    - id: 18
+      name: communication_agreement
+      label: Communication Agreement
+      hint: I agree to communicate any discomfort during the massage
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 19
+      name: liability_release
+      label: Liability Release
+      hint: I release the therapist and facility from liability
+      type: select_one
+      options:
+      - Yes - I release
+      - No - I do not release
+      required: true
+    - id: 20
+      name: photo_consent
+      label: Photo Consent
+      hint: I consent to photos being taken for records if needed
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information the therapist should know
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_signature
+      label: Client Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: therapist_signature
+      label: Therapist Signature
+      hint: Therapist type name as signature
+      type: text
+      options: []
+      required: false

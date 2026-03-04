@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Release Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pet_species
+      label: pet_species
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: veterinary_name
+      label: veterinary_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_list
+      label: medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Benadryl
+      - Ciprofloxacin
+      - Ibuprofen
+      required: false
+    - id: 13
+      name: medication_administered
+      label: medication_administered
+      hint: null
+      type: select_one
+      options:
+      - once
+      - twice
+      - three times
+      required: false
+    - id: 14
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medication_schedule
+      label: medication_schedule
+      hint: null
+      type: select_one
+      options:
+      - immediately
+      - later
+      - today
+      required: false
+    - id: 16
+      name: authorization_type
+      label: authorization_type
+      hint: null
+      type: select_one
+      options:
+      - owner
+      - veterinarian
+      - both
+      required: true
+    - id: 17
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: authorization_hours
+      label: authorization_hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: authorization_notes
+      label: authorization_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true

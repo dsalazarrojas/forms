@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_leads_report_form
+    pages:
+    - id: 1
+      name: assigned_leads
+      label: Assigned Leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Phone''}'
+      - '{''text'': ''Email''}'
+      required: false
+    - id: 6
+      name: lead_assigned_to
+      label: Lead Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

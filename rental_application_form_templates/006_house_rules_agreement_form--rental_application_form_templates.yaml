@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Rules Agreement Form
+    pages:
+    - id: 1
+      name: rental_application_form_templates
+      label: Rental Application Form Templates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: consent_forms
+      label: Consent Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: informed_consent_forms
+      label: Informed Consent Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fillable_pdf_forms
+      label: Fillable PDF Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: house_rules_agreement_form_title
+      label: Form Title
+      hint: Enter the title of the House Rules Agreement Form
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: house_rules_agreement_form_description
+      label: Form Description
+      hint: Briefly describe the purpose of the House Rules Agreement Form
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: house_rules_agreement_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Rental Application Form Templates
+      - Consent Forms
+      - Informed Consent Forms
+      - Fillable PDF Forms
+      required: false
+    - id: 8
+      name: house_rules_agreement_form_description
+      label: Form Description
+      hint: A House Rules Agreement Form is a form template designed to streamline
+        the process of creating and sharing important house rules.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: house_rules_agreement_form_output_file
+      label: Output File
+      hint: Specify the desired output file name for the House Rules Agreement Form
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: house_rules_agreement_form_assigned_tool
+      label: Assigned Tool
+      hint: Select the tool that will be used to generate the House Rules Agreement
+        Form
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: house_rules_agreement_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

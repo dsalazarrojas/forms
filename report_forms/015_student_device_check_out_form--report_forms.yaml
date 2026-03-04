@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Device Check Out Form
+    pages:
+    - id: 1
+      name: report_form_fields
+      label: Student Device Check Out Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: device_type
+      label: Device Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: device_serial
+      label: Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: device_status
+      label: Device Status
+      hint: null
+      type: select_one
+      options:
+      - Checked Out
+      - Available
+      - Lost
+      - Stolen
+      required: true
+    - id: 8
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: teacher_first_name
+      label: Teacher First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_last_name
+      label: Teacher Last Name
+      hint: null
+      type: text
+      options: []
+      required: false

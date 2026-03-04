@@ -1,0 +1,322 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cookie Decorating Class Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: section_class_selection
+      label: -- Class Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: class_date
+      label: Preferred Class Date
+      hint: When would you like to attend
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: class_time
+      label: Preferred Class Time
+      hint: null
+      type: select_one
+      options:
+      - Morning Session
+      - Afternoon Session
+      - Evening Session
+      required: true
+    - id: 8
+      name: class_type
+      label: Class Type
+      hint: Which class interests you
+      type: select_one
+      options:
+      - Beginner Basics
+      - Royal Icing Techniques
+      - Advanced Designs
+      - Holiday Cookies
+      - Kids Class
+      - Private Group
+      required: true
+    - id: 9
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: skill_level
+      label: Cookie Decorating Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Complete Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 11
+      name: previous_classes
+      label: Have you taken our classes before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: previous_class_details
+      label: Previous Class Details
+      hint: Which classes have you taken
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_group_info
+      label: -- Group Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: number_in_group
+      label: Number in Your Group
+      hint: Total participants
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: group_member_names
+      label: Names of Other Participants
+      hint: If registering for others
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: children_attending
+      label: Number of Children
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: children_ages
+      label: Ages of Children
+      hint: For age-appropriate instruction
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: cookie_design_preference
+      label: Cookie Design You Want to Learn
+      hint: null
+      type: select_one
+      options:
+      - Flowers
+      - Animals
+      - Characters
+      - Geometric Patterns
+      - Holiday Themes
+      - No Preference
+      required: false
+    - id: 20
+      name: techniques_interested
+      label: Techniques You Want to Learn
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Outlining
+      - Flooding
+      - Wet on Wet
+      - Brush Embroidery
+      - Piping Details
+      - Airbrushing
+      - Stenciling
+      required: false
+    - id: 21
+      name: section_dietary
+      label: -- Dietary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Egg Allergy
+      - Other
+      required: true
+    - id: 23
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify your requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_materials
+      label: -- Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: bring_own_tools
+      label: Will you bring your own decorating tools
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Please provide
+      - Some - I have some tools
+      required: false
+    - id: 26
+      name: take_home_cookies
+      label: Will you take home your decorated cookies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 27
+      name: section_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Gift Card
+      - Cash at Class
+      required: true
+    - id: 29
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: how_did_you_hear
+      label: How did you hear about this class
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend
+      - Email Newsletter
+      - Flyer
+      - Search Engine
+      - Other
+      required: false
+    - id: 32
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: parking_needed
+      label: Will you need parking
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 34
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: terms_accepted
+      label: I accept the class terms and cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earnings Report Date Tracker Form
+    pages:
+    - id: 1
+      name: date_of_earnings_report
+      label: Date of Earnings Report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: expected_earnings_announcement_date
+      label: Expected Earnings Announcement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: actual_earnings_announcement_date
+      label: Actual Earnings Announcement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expected_filing_date
+      label: Expected Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: actual_filing_date
+      label: Actual Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quarterly_earnings_schedule
+      label: Quarterly Earnings Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: annual_earnings_schedule
+      label: Annual Earnings Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: fiscal_year
+      label: Fiscal Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: select_one
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: false
+    - id: 10
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Quarterly
+      - Annually
+      required: false
+    - id: 11
+      name: reporting_status
+      label: Reporting Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Released
+      - Delayed
+      - Cancelled
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

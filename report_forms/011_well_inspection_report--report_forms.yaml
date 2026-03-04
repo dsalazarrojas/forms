@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Well Inspection Report
+    pages:
+    - id: 1
+      name: report_form_title
+      label: well_inspection_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: well_name
+      label: well_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: well_status
+      label: well_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Caution''}'
+      - '{''id'': 3, ''label'': ''Critical''}'
+      - '{''id'': 4, ''label'': ''N/A''}'
+      required: true
+    - id: 6
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: photos_and_files
+      label: photos_and_files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes_and_recommendations
+      label: notes_and_recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: recommended_actions
+      label: recommended_actions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Repair''}'
+      - '{''id'': 2, ''label'': ''Replace''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: recommended_actions_others
+      label: recommended_actions_others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_inspector
+      label: assigned_inspector
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: assigned_inspector_others
+      label: assigned_inspector_others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 14
+      name: assigned_manager
+      label: assigned_manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: assigned_manager_others
+      label: assigned_manager_others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: photos
+      label: photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_manager
+      label: facility_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_owner
+      label: facility_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_fax
+      label: facility_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_notes
+      label: facility_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: well_location
+      label: well_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: well_id
+      label: well_id
+      hint: null
+      type: text
+      options: []
+      required: false

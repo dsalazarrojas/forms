@@ -1,0 +1,288 @@
+inputSchema:
+  type: object
+  properties:
+    title: Big Heart Farms White Lake Baptist Vbs 2015
+    pages:
+    - id: 1
+      name: section_header_child
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_age
+      label: Child Age
+      hint: Years old
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: child_grade
+      label: Grade Level (2015)
+      hint: Grade in school
+      type: select_one
+      options:
+      - Pre-K
+      - Kindergarten
+      - 1st grade
+      - 2nd grade
+      - 3rd grade
+      - 4th grade
+      - 5th grade
+      - 6th grade
+      - Other
+      required: true
+    - id: 6
+      name: child_birthdate
+      label: Date of Birth
+      hint: Month - Day - Year
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_header_parent
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_first_name
+      label: Parent or Guardian First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_last_name
+      label: Parent or Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_email
+      label: Email Address
+      hint: For VBS updates
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_header_vbs
+      label: -- VBS Attendance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vbs_week
+      label: Which Week Can Your Child Attend
+      hint: Select preferred week
+      type: select_one
+      options:
+      - Week 1 - June 1-5
+      - Week 2 - June 8-12
+      - Both weeks
+      - To be determined
+      required: true
+    - id: 19
+      name: attending_days
+      label: Will Your Child Attend
+      hint: null
+      type: select_one
+      options:
+      - All 5 days
+      - Most days
+      - Some days
+      - Specific days only
+      required: true
+    - id: 20
+      name: transportation
+      label: Transportation Needed
+      hint: Does child need pickup and dropoff?
+      type: select_one
+      options:
+      - Will arrange own transportation
+      - Need pickup in morning
+      - Need dropoff in evening
+      - Need both pickup and dropoff
+      required: true
+    - id: 21
+      name: lunch_need
+      label: Lunch Provided by VBS
+      hint: Will your child need lunch?
+      type: select_one
+      options:
+      - Yes, provide lunch
+      - No, bringing lunch
+      - Unsure
+      required: true
+    - id: 22
+      name: section_header_health
+      label: -- Health and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Food Allergies
+      hint: Any food allergies we should know about?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions
+      label: Medical Conditions or Medications
+      hint: Any special medical needs?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: behavior_concerns
+      label: Any Behavioral or Learning Concerns
+      hint: Should leaders know about anything?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in emergency
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: section_header_activities
+      label: -- Activity Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: interests
+      label: Child's Interests (Select all that apply)
+      hint: What does your child enjoy?
+      type: select_multiple
+      options:
+      - Sports
+      - Arts and crafts
+      - Music
+      - Drama or acting
+      - Games and competitions
+      - Bible learning
+      - Outdoor activities
+      - Fellowship and friends
+      required: false
+    - id: 32
+      name: section_header_consent
+      label: -- Consent and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: media_consent
+      label: Permission for Photos or Videos
+      hint: Can VBS take photos/videos?
+      type: select_one
+      options:
+      - Yes, full permission
+      - Yes, but not for publication
+      - No, do not photograph
+      required: true
+    - id: 34
+      name: waiver_agreement
+      label: I Acknowledge Receipt of VBS Information and Waiver
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - I have questions
+      - I do not agree
+      required: true
+    - id: 35
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

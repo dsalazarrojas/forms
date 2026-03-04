@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depot Receival Report
+    pages:
+    - id: 1
+      name: warehouse_name
+      label: Warehouse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_receival
+      label: Date Receival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: item_id
+      label: Item ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: received_by
+      label: Received By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: discrepancies
+      label: Discrepancies
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: warehouse_manager_comments
+      label: Warehouse Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false

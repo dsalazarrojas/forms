@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Pickup Reservation Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your full name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for driver communication
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pickup_date
+      label: Pickup Date
+      hint: Date you need to be picked up
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pickup_time
+      label: Pickup Time
+      hint: Expected arrival time at airport
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: airport_name
+      label: Airport Name
+      hint: Select the airport for pickup
+      type: select_one
+      options:
+      - JFK International Airport
+      - Los Angeles International Airport (LAX)
+      - Chicago O'Hare International Airport
+      - Dallas/Fort Worth International Airport
+      - Denver International Airport
+      - San Francisco International Airport
+      - Other
+      required: true
+    - id: 7
+      name: airline_name
+      label: Airline Name
+      hint: Which airline are you flying with?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: flight_number
+      label: Flight Number
+      hint: Enter your flight number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: terminal_number
+      label: Terminal Number
+      hint: Arrival terminal at the airport
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: Total number of people needing pickup
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: luggage_count
+      label: Number of Luggage Pieces
+      hint: Total bags and suitcases
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_type
+      label: Vehicle Type Preference
+      hint: Select your preferred vehicle
+      type: select_one
+      options:
+      - Standard Sedan (up to 3 passengers)
+      - SUV (up to 5 passengers)
+      - Minivan (up to 7 passengers)
+      - Luxury Vehicle
+      - No Preference
+      required: true
+    - id: 13
+      name: pickup_location
+      label: Destination Address
+      hint: Full address where you need to be dropped off
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Child seat, wheelchair access, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: flight_tracking_consent
+      label: Allow Flight Tracking
+      hint: We can track your flight for delays
+      type: select_one
+      options:
+      - Yes, track my flight
+      - No, I prefer fixed time
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Cash to Driver
+      - Corporate Account
+      required: true
+    - id: 17
+      name: promotional_code
+      label: Promotional Code
+      hint: Enter code if you have one
+      type: text
+      options: []
+      required: false

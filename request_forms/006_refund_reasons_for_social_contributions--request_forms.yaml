@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Reasons For Social Contributions
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contribution_reasons
+      label: Contribution Reasons
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 3
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - HR
+      - Admin
+      required: false
+    - id: 6
+      name: date_of_refund
+      label: Date of Refund
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minors COVID 19 Liability Release Waiver
+    pages:
+    - id: 1
+      name: form_title
+      label: Minor's COVID 19 Liability Release Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_info
+      label: Parent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: minor_name
+      label: Minor's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Minor's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Partially Completed
+      - Not Completed
+      required: false
+    - id: 7
+      name: vaccination_location
+      label: Vaccination Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_name
+      label: Parent's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_contact
+      label: Parent's Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature
+      label: Parent's Signature
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Unsigned
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hospital_phone
+      label: Hospital Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_address
+      label: Doctor's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hospital_address
+      label: Hospital Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: insurance_name
+      label: Insurance Name (If Applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_number
+      label: Insurance Number (If Applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_address
+      label: Insurance Address (If Applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the terms and conditions.
+      - I have not read and understand the terms and conditions.
+      required: true
+    - id: 25
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Venue Layout Change Request Form
+    pages:
+    - id: 1
+      name: layout_change_request
+      label: Layout Change Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_layout_change
+      label: Reason for Layout Change
+      hint: Please enter the reason for layout change
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proposed_layout_change
+      label: Proposed Layout Change
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: proposed_layout_change_details
+      label: Proposed Layout Change Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: layout_change_approval
+      label: Layout Change Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: date_of_proposed_change
+      label: Date of Proposed Change
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_proposed_change
+      label: Time of Proposed Change
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: time_of_proposed_change_hhmm
+      label: Time of Proposed Change (HH -MM)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: time_of_proposed_change_military
+      label: Time of Proposed Change (Military)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_of_proposed_change_am_pm
+      label: Time of Proposed Change (AM/PM)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_proposed_change_date
+      label: Date of Proposed Change
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: date_of_proposed_change_date_mm
+      label: Date of Proposed Change (mm/dd/yyyy)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_proposed_change_date_yy
+      label: Date of Proposed Change (yy)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_proposed_change_date_yy_yy
+      label: Date of Proposed Change (yy/yy)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_of_proposed_change_date_ymd
+      label: Date of Proposed Change (MM/DD/YYYY)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: date_of_proposed_change_date_d_m_d_ymd
+      label: Date of Proposed Change (d-M-D-YYYY)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: date_of_proposed_change_date_mm_d
+      label: Date of Proposed Change (MM/dd)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_of_proposed_change_date_yy_m_d_ymd
+      label: Date of Proposed Change (yy-M-D-YYYY)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_of_proposed_change_date_yy_yy_m_d
+      label: Date of Proposed Change (yy/yy/MM/dd)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_of_proposed_change_date_d_m
+      label: Date of Proposed Change (D-M)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_of_proposed_change_time
+      label: Time of Proposed Change
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: date_of_proposed_change_time_mm
+      label: Time of Proposed Change (MM)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_of_proposed_change_time_mmm
+      label: Time of Proposed Change (MMM)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_of_proposed_change_time_hh
+      label: Time of Proposed Change (HH)
+      hint: null
+      type: text
+      options: []
+      required: false

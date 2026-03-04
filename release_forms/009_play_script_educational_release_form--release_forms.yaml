@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Play Script Educational Release Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: permission_type
+      label: Permission Type
+      hint: null
+      type: select_one
+      options:
+      - Permission for classroom performances
+      - Permission for workshop
+      - Permission for readings
+      required: true
+    - id: 4
+      name: script_start_date
+      label: Script Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: script_end_date
+      label: Script End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: script_title
+      label: Script Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: script_version
+      label: Script Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: performance_location
+      label: Performance Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: number_of_performances
+      label: Number of Performances
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: release_to
+      label: Release To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

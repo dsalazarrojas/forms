@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_package_availability_issue_report_form
+    pages:
+    - id: 1
+      name: software_package
+      label: Software Package
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Availability Issue''}'
+      - '{''value'': 2, ''label'': ''Access Issue''}'
+      - '{''value'': 3, ''label'': ''Maintenance Issue''}'
+      required: true
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: true
+    - id: 5
+      name: affected_software_version
+      label: Affected Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_software_environment
+      label: Affected Software Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: affected_user
+      label: Affected User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Assigned''}'
+      - '{''value'': 2, ''label'': ''In Progress''}'
+      - '{''value'': 3, ''label'': ''Resolved''}'
+      - '{''value'': 4, ''label'': ''Closed''}'
+      required: true
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Team A''}'
+      - '{''value'': 2, ''label'': ''Team B''}'
+      - '{''value'': 3, ''label'': ''Team C''}'
+      required: true
+    - id: 13
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: resolved_by
+      label: Resolved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resolved_date
+      label: Resolved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: related_ticket
+      label: Related Ticket
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: related_tickets
+      label: Related Tickets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Ticket 1''}'
+      - '{''value'': 2, ''label'': ''Ticket 2''}'
+      - '{''value'': 3, ''label'': ''Ticket 3''}'
+      required: true
+    - id: 22
+      name: software_packages
+      label: Software Packages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Package 1''}'
+      - '{''value'': 2, ''label'': ''Package 2''}'
+      required: true
+    - id: 23
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: time_spend
+      label: Time Spend
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

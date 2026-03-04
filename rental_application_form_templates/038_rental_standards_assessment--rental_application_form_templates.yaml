@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Standards Assessment
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_info
+      label: Landlord Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: compliance_ratings
+      label: Compliance Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: inspection_comments
+      label: Inspection Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tenant_status
+      label: Tenant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: property_manager_info
+      label: Property Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_owner_info
+      label: Property Owner Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

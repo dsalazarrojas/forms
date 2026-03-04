@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Expense Reimbursement Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_amount
+      label: Project Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: first_page_project_amount_label
+      label: Project Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_page_project_amount_hint
+      label: Project Amount
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: second_page
+      label: Expense Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: second_page_expense_type_label
+      label: Expense Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: second_page_expense_description_label
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: third_page
+      label: Expense Reimbursement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: second_page_expense_date_label
+      label: Expense Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: third_page_expense_date_label
+      label: Expense Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fourth_page
+      label: Additional Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: receipt
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: second_page_receipt_label
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: third_page_receipt_label
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: fourth_page_receipt_label
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: second_page_email_address_label
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: third_page_email_address_label
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fourth_page_email_address_label
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: second_page_phone_number_label
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: third_page_phone_number_label
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: fourth_page_phone_number_label
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: second_page_project_manager_label
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: third_page_project_manager_label
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false

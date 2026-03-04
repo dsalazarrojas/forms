@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Studio COVID 19 Release Form
+    pages:
+    - id: 1
+      name: covid_declaration
+      label: i_declare_covid_vaccination_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: liability_waiver
+      label: i_accept_liability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: parent_consent
+      label: i_have_parental_consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: visiting_teacher_info
+      label: visiting_teacher_details
+      hint: null
+      type: select_multiple
+      options:
+      - visiting_teachers
+      - visiting_staff
+      required: false
+    - id: 5
+      name: studio_policies
+      label: studio_policies_and_rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: i_have_emergency_contact_details
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact 1
+      - Emergency Contact 2
+      - Emergency Contact 3
+      required: false

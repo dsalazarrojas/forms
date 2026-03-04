@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agency Request Form
+    pages:
+    - id: 1
+      name: requester
+      label: -- Requester Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Organization requesting agency services
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_scope
+      label: Project scope
+      hint: Brief summary of requested services
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: timeline
+      label: Desired timeline
+      hint: Expected start and end dates
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget_range
+      label: Budget range
+      hint: Estimated budget for the project
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: key_objectives
+      label: Key objectives
+      hint: Main goals for the engagement
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: attachments_description
+      label: Attachments description
+      hint: Describe any supporting documents attached
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: Best time to reach requester
+      type: time
+      options: []
+      required: false

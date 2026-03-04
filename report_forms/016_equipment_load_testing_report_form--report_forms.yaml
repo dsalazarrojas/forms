@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Load Testing Report Form
+    pages:
+    - id: 1
+      name: load_testing_summary
+      label: load testing summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: test_duration
+      label: test duration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: test_frequency
+      label: test frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: load_test_results
+      label: load test results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachments
+      label: attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_inspector
+      label: assigned inspector
+      hint: null
+      type: select_multiple
+      options:
+      - assigned_tool
+      - other
+      required: true
+    - id: 9
+      name: date_test_conducted
+      label: date test conducted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: equipment_model
+      label: equipment model
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 11
+      name: test_location
+      label: test location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: weather_conditions
+      label: weather conditions
+      hint: null
+      type: select_one
+      options:
+      - sunny
+      - cloudy
+      - rainy
+      required: false

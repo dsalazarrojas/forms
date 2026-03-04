@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Estimate Form
+    pages:
+    - id: 1
+      name: estimate_date
+      label: Estimate Date
+      hint: Date estimate is prepared
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: estimate_number
+      label: Estimate Number
+      hint: Unique estimate reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Client or property owner name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: Email address for estimate delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_address
+      label: Project Address
+      hint: Location where work will be performed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_type
+      label: Project Type
+      hint: Category of construction work
+      type: select_one
+      options:
+      - New Construction
+      - Addition
+      - Renovation
+      - Remodel
+      - Repair
+      - Maintenance
+      - Demolition
+      - Landscaping
+      required: true
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Detailed scope of work
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: materials_cost
+      label: Materials Cost
+      hint: Total cost of materials
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: materials_details
+      label: Materials Details
+      hint: List major materials included
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: labor_cost
+      label: Labor Cost
+      hint: Total labor expense
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: labor_hours
+      label: Estimated Labor Hours
+      hint: Total hours expected
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: equipment_cost
+      label: Equipment Cost
+      hint: Equipment rental or usage fees
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: subcontractor_cost
+      label: Subcontractor Cost
+      hint: Costs for subcontracted work
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: permit_fees
+      label: Permit and Inspection Fees
+      hint: Costs for permits and inspections
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: disposal_fees
+      label: Disposal and Dump Fees
+      hint: Debris removal costs
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: overhead_cost
+      label: Overhead Cost
+      hint: Administrative and overhead expenses
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: contingency_percentage
+      label: Contingency Percentage
+      hint: Contingency reserve percentage
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: contingency_amount
+      label: Contingency Amount
+      hint: Dollar amount for contingency
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: profit_margin
+      label: Profit Margin
+      hint: Profit amount or percentage
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_estimate
+      label: Total Estimate Amount
+      hint: Sum of all costs
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: estimate_valid_until
+      label: Estimate Valid Until
+      hint: Expiration date for this estimate
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: payment_terms
+      label: Payment Terms
+      hint: Proposed payment schedule
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: timeline_estimate
+      label: Estimated Timeline
+      hint: Expected project duration
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: exclusions
+      label: Exclusions
+      hint: What is NOT included in this estimate
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: prepared_by
+      label: Prepared By
+      hint: Name of estimator
+      type: text
+      options: []
+      required: true

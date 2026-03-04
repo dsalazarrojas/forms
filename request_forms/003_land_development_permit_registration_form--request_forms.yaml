@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Land Development Permit Registration Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''On Hold''}'
+      required: true
+    - id: 4
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Residential''}'
+      - '{''id'': 2, ''label'': ''Commercial''}'
+      - '{''id'': 3, ''label'': ''Industrial''}'
+      - '{''id'': 4, ''label'': ''Agricultural''}'
+      required: true
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith''}'
+      required: true
+    - id: 8
+      name: contact_telephone
+      label: Contact Telephone
+      hint: null
+      type: text
+      options: []
+      required: false

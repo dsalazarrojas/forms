@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editorial Review Audit Form
+    pages:
+    - id: 1
+      name: manuscript_evaluation
+      label: Manuscript Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manuscript_id
+      label: Manuscript ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_feedback
+      label: Reviewer Feedback
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: manuscript_status
+      label: Manuscript Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: editorial_decision
+      label: Editorial Decision
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: manuscript_type
+      label: Manuscript Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: evaluation_form_completed
+      label: Evaluation Form Completed
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 15
+      name: review_round
+      label: Review Round
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 16
+      name: editor_review
+      label: Editor Review
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: editor_comments
+      label: Editor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manuscript_revision
+      label: Manuscript Revision
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 20
+      name: revised_manuscript_status
+      label: Revised Manuscript Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 21
+      name: final_decision
+      label: Final Decision
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 22
+      name: final_decision_date
+      label: Final Decision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: final_publication_date
+      label: Final Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: final_publication_status
+      label: Final Publication Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 25
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

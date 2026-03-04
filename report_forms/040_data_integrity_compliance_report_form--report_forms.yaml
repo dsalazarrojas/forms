@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Integrity Compliance Report Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Data Loss''}'
+      - '{''label'': ''Security Breach''}'
+      - '{''label'': ''Policy Violation''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''IT''}'
+      - '{''label'': ''Security''}'
+      - '{''label'': ''Compliance Team''}'
+      required: false
+    - id: 10
+      name: checked_by_user
+      label: Checked By User
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      required: false
+    - id: 11
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_date
+      label: Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: action_time
+      label: Action Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Resolved''}'
+      - '{''label'': ''Closed''}'
+      required: false
+    - id: 15
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: checked_by_manager
+      label: Checked By Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Smith''}'
+      - '{''label'': ''Jane Smith''}'
+      - '{''label'': ''Bob Johnson''}'
+      required: false
+    - id: 17
+      name: incident_comments
+      label: Incident Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: action_comments
+      label: Action Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Data Loss''}'
+      - '{''label'': ''Security Breach''}'
+      - '{''label'': ''Policy Violation''}'
+      required: false
+    - id: 21
+      name: incident_subcategory
+      label: Incident Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_status
+      label: Manager Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Resolved''}'
+      - '{''label'': ''Closed''}'
+      required: false

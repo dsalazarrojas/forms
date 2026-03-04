@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manhole Cover Replacement Report
+    pages:
+    - id: 1
+      name: manhole_cover_replacement_report
+      label: Manhole Cover Replacement Report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_replaced
+      label: date_replaced
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location_replaced
+      label: location_replaced
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: manhole_cover_type_replaced
+      label: Manhole Cover Type Replaced
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: photo_evidence
+      label: Photo Evidence (URL or Attachment)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sign_off
+      label: Sign Off
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_opened
+      label: date_opened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: location_opened
+      label: location_opened
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manhole_cover_type_opened
+      label: Manhole Cover Type Opened
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

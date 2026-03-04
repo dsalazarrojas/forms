@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Event Details Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: target_goal
+      label: Target Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: actual_goal
+      label: Actual Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Charity event'', ''value'': ''charity_event''}'
+      - '{''id'': 2, ''label'': ''Fundraiser event'', ''value'': ''fundraiser_event''}'
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''completed''}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      required: false

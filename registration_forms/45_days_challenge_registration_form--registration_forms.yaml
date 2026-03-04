@@ -1,0 +1,150 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 45 Days Challenge Registration Form
+    pages:
+    - id: 1
+      name: section_header_registration
+      label: "--- Participant Registration ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: As you want it to appear on certificates/leaderboards
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant email address
+      hint: Used for challenge updates and results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Participant phone number
+      hint: "Optional: for urgent contact only"
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: Enter whole years
+      type: integer
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Required for physical events or in-person sessions
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code if needed
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: challenge_start_date
+      label: Preferred challenge start date
+      hint: If flexible, enter earliest preferred date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: fitness_level
+      label: Current fitness level
+      hint: Helps match workouts and progressions
+      type: select_one
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+      required: true
+    - id: 10
+      name: challenge_goal
+      label: Primary challenge goal
+      hint: Select the main objective
+      type: select_one
+      options:
+        - Weight loss
+        - Strength gain
+        - Endurance / cardio improvement
+        - Flexibility / mobility
+        - Habit building / consistency
+      required: true
+    - id: 11
+      name: preferred_workout_types
+      label: Preferred workout types (select all that apply)
+      hint: Trainers will adapt plans to these preferences
+      type: select_multiple
+      options:
+        - Cardio
+        - Strength training
+        - Yoga / Pilates
+        - HIIT
+        - Mobility / stretching
+        - Bodyweight only
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Relevant medical conditions or restrictions
+      hint: Leave blank if none; trainers will review for safety
+      type: select_multiple
+      options:
+        - Heart condition
+        - High blood pressure
+        - Joint issues / arthritis
+        - Diabetes
+        - Pregnancy
+        - None of the above
+      required: false
+    - id: 13
+      name: payment_option
+      label: Payment option
+      hint: Choose how you'd like to pay for the program
+      type: select_one
+      options:
+        - One-time payment
+        - Two instalments
+        - Sponsor / corporate billing
+      required: true
+    - id: 14
+      name: waiver_agreement
+      label: I accept the challenge waiver and terms
+      hint: Required to participate
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional comments, accessibility requests, or notes
+      hint: Tell trainers about schedule constraints or special needs
+      type: text
+      options: []
+      required: false

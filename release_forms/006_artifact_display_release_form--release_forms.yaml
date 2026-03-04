@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artifact Display Release Form
+    pages:
+    - id: 1
+      name: artifact_title
+      label: Artifact Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artifact_description
+      label: Artifact Description
+      hint: Type, material, dimensions, etc.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artifact_id
+      label: Artifact ID or Accession Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_name
+      label: Owner or Lender Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_organization
+      label: Owner Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_email
+      label: Owner Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: owner_phone
+      label: Owner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: display_venue
+      label: Display Venue or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exhibit_name
+      label: Exhibit Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: display_start_date
+      label: Display Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: display_end_date
+      label: Display End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: display_location
+      label: Display Location Details
+      hint: Gallery, room, case, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_required
+      label: Insurance Coverage Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Venue Provides Coverage
+      required: true
+    - id: 14
+      name: handling_restrictions
+      label: Handling Restrictions
+      hint: Special care instructions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photo_permission
+      label: Photography and Documentation Permitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - With Restrictions
+      required: true
+    - id: 16
+      name: public_display
+      label: Artifact May Be Displayed in Public
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: release_signature_date
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: contact_person
+      label: Primary Contact at Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: notes
+      label: Additional Notes or Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

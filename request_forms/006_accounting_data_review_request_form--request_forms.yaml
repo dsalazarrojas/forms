@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Review Request Form
+    pages:
+    - id: 1
+      name: request_summary
+      label: -- Request summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person requesting the review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: For communications about the review
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department requesting the review
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_type
+      label: Review type
+      hint: Select the type of accounting review requested
+      type: select_one
+      options:
+        - Transaction audit
+        - Reconciliation
+        - Compliance review
+        - Financial statement review
+      required: true
+    - id: 6
+      name: accounting_period
+      label: Accounting period for review
+      hint: e.g., Q1 2026 or Jan 2026 to Mar 2026
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: data_sources
+      label: Data sources to be reviewed
+      hint: List systems or file names containing data
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority_level
+      label: Priority level
+      hint: Urgency of the request
+      type: select_one
+      options:
+        - Low
+        - Medium
+        - High
+        - Critical
+      required: true
+    - id: 9
+      name: expected_completion_date
+      label: Expected completion date
+      hint: Requested target for completing the review
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: supporting_documents
+      label: Supporting documents
+      hint: List any attached files or notes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confidentiality_requirements
+      label: Confidentiality requirements
+      hint: Any special handling instructions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approval_required_from
+      label: Approval required from
+      hint: Name of approver or manager if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_instructions
+      label: Additional instructions
+      hint: Anything else the review team should know
+      type: text
+      options: []
+      required: false

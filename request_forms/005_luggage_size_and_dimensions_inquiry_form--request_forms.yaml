@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luggage Size And Dimensions Inquiry Form
+    pages:
+    - id: 1
+      name: luggage_id
+      label: Luggage Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: luggage_type
+      label: Luggage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Hand Luggage''}'
+      - '{''id'': 2, ''name'': ''Check-in Luggage''}'
+      - '{''id'': 3, ''name'': ''Special Luggage''}'
+      required: false
+    - id: 3
+      name: length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: width
+      label: Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: volume
+      label: Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Address 1''}'
+      - '{''id'': 2, ''name'': ''Address 2''}'
+      - '{''id'': 3, ''name'': ''Address 3''}'
+      required: false
+    - id: 12
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''City 1''}'
+      - '{''id'': 2, ''name'': ''City 2''}'
+      - '{''id'': 3, ''name'': ''City 3''}'
+      required: false
+    - id: 13
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''State 1''}'
+      - '{''id'': 2, ''name'': ''State 2''}'
+      - '{''id'': 3, ''name'': ''State 3''}'
+      required: false
+    - id: 14
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Zip 1''}'
+      - '{''id'': 2, ''name'': ''Zip 2''}'
+      - '{''id'': 3, ''name'': ''Zip 3''}'
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

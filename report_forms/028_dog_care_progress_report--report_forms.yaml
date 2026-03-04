@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Care Progress Report
+    pages:
+    - id: 1
+      name: dog_name
+      label: dog_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 3
+      name: food_given
+      label: food_given
+      hint: null
+      type: select_multiple
+      options:
+      - Food 1
+      - Food 2
+      - Food 3
+      required: false
+    - id: 4
+      name: time_spent_outside
+      label: time_spent_outside
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false

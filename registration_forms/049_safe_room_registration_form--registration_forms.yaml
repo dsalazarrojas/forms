@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: safe_room_registration_form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: prophets_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: street
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: apt
+      label: Apt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: latitude
+      label: latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: longitude
+      label: prophets_longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family Member
+      - Neighbor
+      - Other
+      required: true
+    - id: 15
+      name: safe_room
+      label: Safe Room
+      hint: null
+      type: select_multiple
+      options:
+      - Living Room
+      - Bedroom
+      - Attic
+      - Basement
+      required: true

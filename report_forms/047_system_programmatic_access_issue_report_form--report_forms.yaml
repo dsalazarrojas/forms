@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: System Programmatic Access Issue Report Form
+    pages:
+    - id: 1
+      name: system_programmatic_access_issue_report_form
+      label: report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: report_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Technical''}'
+      - '{''id'': 2, ''name'': ''Non-Technical''}'
+      required: true
+    - id: 3
+      name: description
+      label: brief_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: occurrence_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: occurrence_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: user
+      label: affected_user
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      - '{''id'': 3, ''name'': ''Joe''}'
+      required: true
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''high''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''low''}'
+      required: true

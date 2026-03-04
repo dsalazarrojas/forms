@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Conference Attendance Form
+    pages:
+    - id: 1
+      name: section_header_attendee
+      label: '--- Attendee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: As it should appear on your badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll send confirmation and ticket to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside your home country
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization / Company
+      hint: Employer or affiliation (optional)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job title / role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: Optional — may be used for eligibility (e.g., student discount)
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: experience_level
+      label: Experience level
+      hint: Select the option that best matches your background
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 9
+      name: registration_type
+      label: Registration type / ticket category
+      hint: Choose the ticket you purchased
+      type: select_one
+      options:
+      - General Admission
+      - Student
+      - Early Bird
+      - VIP
+      - Workshop Pass
+      required: true
+    - id: 10
+      name: attendance_days
+      label: Days attending
+      hint: Select all days you plan to attend
+      type: select_multiple
+      options:
+      - Day 1 — Workshops
+      - Day 2 — Main Conference
+      - Day 3 — Tutorials
+      - Full Conference
+      required: true
+    - id: 11
+      name: sessions_interested
+      label: Sessions or tracks of interest (select all that apply)
+      hint: Helps with room and materials planning
+      type: select_multiple
+      options:
+      - NLP Workshop
+      - Ethics & Policy Panel
+      - Computer Vision Track
+      - Robotics Demonstrations
+      - Data Privacy Tutorial
+      - Startups & Funding Session
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary restrictions or food allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Halal
+      - Kosher
+      - Other
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility or accommodation needs
+      hint: Specify mobility, hearing, visual, or other requests
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Optional but recommended
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code if applicable
+      type: phone
+      options: []
+      required: false
+    - id: 16
+      name: section_header_payment
+      label: '--- Payment & Billing ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment method
+      hint: Choose how you paid or will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - PayPal
+      - On-site Cash
+      required: true
+    - id: 18
+      name: ticket_price
+      label: Ticket price (USD)
+      hint: Enter total paid or amount to be invoiced (numbers only)
+      type: decimal
+      options: []
+      required: true
+    - id: 19
+      name: invoice_number
+      label: Invoice or transaction number
+      hint: Provide if payment was by invoice or bank transfer
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: arrival_time
+      label: Estimated arrival time for badge pickup
+      hint: Helps staff schedule check-in shifts
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: consent_privacy
+      label: Consent and media release
+      hint: Required to complete registration
+      type: select_one
+      options:
+      - I agree to the event privacy policy and terms
+      - I consent to photo/video capture
+      - I do not consent to media capture
+      required: true
+    - id: 22
+      name: newsletter_opt_in
+      label: Sign up for conference updates and newsletter
+      hint: Optional communications about future events
+      type: select_one
+      options:
+      - Yes — sign me up
+      - No thanks
+      - Maybe later
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or special requests
+      hint: Include travel notes, roommate requests, or other details
+      type: text
+      options: []
+      required: false

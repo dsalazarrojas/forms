@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Performance Analysis Report Form
+    pages:
+    - id: 1
+      name: network_performance_analysis_report_form_network_performance_analysis_report_form
+      label: Network Performance Analysis Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_period
+      label: report_period
+      hint: null
+      type: select_one
+      options:
+      - Hour
+      - Day
+      - Week
+      - Month
+      - Year
+      required: false
+    - id: 3
+      name: network_devices
+      label: network_devices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: issues_encountered
+      label: issues_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: network_performance_analysis_notes
+      label: network_performance_analysis_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: network_performance_analysis_report_form_issues
+      label: network_performance_analysis_report_form_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: network_performance_analysis_report_form_comments
+      label: network_performance_analysis_report_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

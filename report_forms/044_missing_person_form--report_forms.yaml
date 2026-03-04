@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: missing_person_form
+    pages:
+    - id: 1
+      name: missing_person_name
+      label: missing_person_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: missing_person_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      required: true
+    - id: 3
+      name: missing_person_dob
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: missing_person_age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: missing_person_height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: missing_person_weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: missing_person_eye_color
+      label: eye_color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Gray
+      - Amber
+      required: false
+    - id: 8
+      name: missing_person_hair_color
+      label: hair_color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Blonde
+      - Brown
+      - Gray
+      - Red
+      required: false
+    - id: 9
+      name: missing_person_race
+      label: race
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Black
+      - White
+      - Hispanic
+      - American Indian/Alaska Native
+      required: true
+    - id: 10
+      name: missing_person_last_seen_location
+      label: last_seen_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: missing_person_last_seen_time
+      label: last_seen_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: missing_person_distinguishing_feature
+      label: distinguishing_feature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: missing_person_case_number
+      label: case_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: missing_person_case_status
+      label: case_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: missing_person_case_notes
+      label: case_notes
+      hint: null
+      type: text
+      options: []
+      required: false

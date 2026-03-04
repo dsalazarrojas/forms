@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Repair Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_problem_description
+      label: Equipment Problem Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: request_message
+      label: Request Message
+      hint: Write your message here
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Insurance Fraud Reporting Form
+    pages:
+    - id: 1
+      name: suspect_employee_info
+      label: Suspect Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suspect_employee_id
+      label: Suspect Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: suspect_job_title
+      label: Suspect Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suspect_dob
+      label: Suspect DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: suspect_termination_date
+      label: Suspect Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: suspect_last_seen_at_work
+      label: Suspect Last Seen At Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: suspect_termination_reason
+      label: Suspect Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspect_last_known_address
+      label: Suspect Last Known Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_employee_info
+      label: Report Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_employee_id
+      label: Report Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: report_job_title
+      label: Report Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: report_dob
+      label: Report DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: report_termination_date
+      label: Report Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: report_last_seen_at_work
+      label: Report Last Seen At Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: report_termination_reason
+      label: Report Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: report_last_known_address
+      label: Report Last Known Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: report_date_of_fraudulent_activity
+      label: Report Date of Fraudulent Activity
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: report_date_of_discovery
+      label: Report Date of Discovery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: report_description
+      label: Report Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: report_attachments
+      label: Report Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Report the above information and attach any supporting documentation
+      - Submit without submitting
+      required: false
+    - id: 22
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

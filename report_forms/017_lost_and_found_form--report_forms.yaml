@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: lost_and_found_form
+    pages:
+    - id: 1
+      name: item_description
+      label: Item Description
+      hint: Provide a detailed description of the lost item
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_category
+      label: Item Category
+      hint: null
+      type: select_multiple
+      options:
+      - Clothing
+      - Electronics
+      - Accessories
+      required: false
+    - id: 3
+      name: item_value
+      label: Item Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_condition
+      label: Item Condition
+      hint: Describe the item condition (e.g. new, used, damaged)
+      type: select_one
+      options:
+      - New
+      - Used
+      - Damaged
+      required: false
+    - id: 5
+      name: item_location
+      label: Item Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: found_by
+      label: Found By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_found
+      label: Date Found
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false

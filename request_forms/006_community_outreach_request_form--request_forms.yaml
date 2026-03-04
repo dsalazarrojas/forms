@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Outreach Request Form
+    pages:
+    - id: 1
+      name: requester_info
+      label: Requester Information
+      hint: Tell us about yourself
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Group
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Your Role
+      hint: Your position in the organization
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_details
+      label: Request Details
+      hint: Describe what you need
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: request_type
+      label: Type of Request
+      hint: null
+      type: select_one
+      options:
+      - Volunteer Support
+      - Event Assistance
+      - Resource Request
+      - Speaking Engagement
+      - Partnership Opportunity
+      - Information Request
+      - Other
+      required: true
+    - id: 10
+      name: request_description
+      label: Detailed Description
+      hint: Explain your request thoroughly
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: Event or Activity Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: Where will this take place
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteers_needed
+      label: Number of Volunteers Needed
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: skills_required
+      label: Skills or Expertise Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Labor
+      - Event Setup
+      - Food Service
+      - Childcare
+      - Teaching/Instruction
+      - Administrative Support
+      - Technical Support
+      - Translation
+      - Medical/Healthcare
+      - Legal Advice
+      required: false
+    - id: 16
+      name: resources_needed
+      label: Resources or Materials Needed
+      hint: Describe any supplies needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need this
+      type: select_one
+      options:
+      - Urgent (Within 1 Week)
+      - Soon (1-2 Weeks)
+      - Moderate (2-4 Weeks)
+      - Flexible (1-2 Months)
+      - Planning Ahead (2+ Months)
+      required: true
+    - id: 18
+      name: budget_available
+      label: Is Budget Available
+      hint: For paid services
+      type: select_one
+      options:
+      - true
+      - No - Volunteer Based
+      - Partial Funding
+      required: true
+    - id: 19
+      name: previous_collaboration
+      label: Have You Worked With Us Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

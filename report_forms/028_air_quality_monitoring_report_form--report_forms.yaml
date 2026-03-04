@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Quality Monitoring Report Form
+    pages:
+    - id: 1
+      name: report_id
+      label: Report ID
+      hint: Unique report identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: monitoring_location
+      label: Monitoring Location
+      hint: Site name or address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location_type
+      label: Location Type
+      hint: Type of monitoring site
+      type: select_one
+      options:
+      - Urban
+      - Suburban
+      - Rural
+      - Industrial
+      - Commercial
+      - Residential
+      - Indoor
+      required: true
+    - id: 5
+      name: coordinates
+      label: GPS Coordinates
+      hint: Latitude and longitude
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: monitoring_station_id
+      label: Monitoring Station ID
+      hint: Station identifier
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technician_name
+      label: Technician Name
+      hint: Name of monitoring technician
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: monitoring_period_start
+      label: Monitoring Period Start
+      hint: Start date and time
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: monitoring_period_end
+      label: Monitoring Period End
+      hint: End date and time
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pm25_reading
+      label: PM2.5 Reading (ug/m3)
+      hint: Fine particulate matter
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pm10_reading
+      label: PM10 Reading (ug/m3)
+      hint: Coarse particulate matter
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: ozone_level
+      label: Ozone Level (ppb)
+      hint: Ozone concentration
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: nitrogen_dioxide
+      label: Nitrogen Dioxide (ppb)
+      hint: NO2 concentration
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sulfur_dioxide
+      label: Sulfur Dioxide (ppb)
+      hint: SO2 concentration
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: carbon_monoxide
+      label: Carbon Monoxide (ppm)
+      hint: CO concentration
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: aqi_value
+      label: Air Quality Index (AQI)
+      hint: Overall AQI value
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: aqi_category
+      label: AQI Category
+      hint: Air quality category
+      type: select_one
+      options:
+      - Good (0-50)
+      - Moderate (51-100)
+      - Unhealthy for sensitive groups (101-150)
+      - Unhealthy (151-200)
+      - Very unhealthy (201-300)
+      - Hazardous (301+)
+      required: true
+    - id: 18
+      name: temperature
+      label: Temperature (Fahrenheit)
+      hint: Ambient temperature
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: humidity
+      label: Relative Humidity (%)
+      hint: Humidity percentage
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: wind_speed
+      label: Wind Speed (mph)
+      hint: Average wind speed
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: wind_direction
+      label: Wind Direction
+      hint: Prevailing wind direction
+      type: select_one
+      options:
+      - North
+      - Northeast
+      - East
+      - Southeast
+      - South
+      - Southwest
+      - West
+      - Northwest
+      - Variable
+      required: true
+    - id: 22
+      name: barometric_pressure
+      label: Barometric Pressure (inHg)
+      hint: Atmospheric pressure
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: weather_conditions
+      label: Weather Conditions
+      hint: General weather description
+      type: select_one
+      options:
+      - Clear
+      - Partly cloudy
+      - Cloudy
+      - Rainy
+      - Stormy
+      - Foggy
+      - Smoky
+      - Other
+      required: true
+    - id: 24
+      name: pollution_sources
+      label: Potential Pollution Sources
+      hint: Select all nearby sources
+      type: select_multiple
+      options:
+      - Vehicle traffic
+      - Industrial facilities
+      - Construction
+      - Wildfires
+      - Agricultural activities
+      - Power plants
+      - None identified
+      required: true
+    - id: 25
+      name: exceedances
+      label: Standard Exceedances
+      hint: Were any standards exceeded
+      type: select_one
+      options:
+      - None
+      - PM2.5 exceeded
+      - PM10 exceeded
+      - Ozone exceeded
+      - Multiple exceedances
+      required: true
+    - id: 26
+      name: health_advisory
+      label: Health Advisory Issued
+      hint: Was advisory issued
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 27
+      name: equipment_status
+      label: Equipment Status
+      hint: Monitoring equipment condition
+      type: select_one
+      options:
+      - Operating normally
+      - Minor issues
+      - Calibration needed
+      - Malfunction
+      required: true
+    - id: 28
+      name: data_quality
+      label: Data Quality
+      hint: Data completeness
+      type: select_one
+      options:
+      - Complete
+      - Mostly complete
+      - Partial
+      - Incomplete
+      required: true
+    - id: 29
+      name: anomalies
+      label: Anomalies or Notes
+      hint: Any unusual observations
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: attachments
+      label: Attachments Available
+      hint: Are there supporting documents
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 32
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of reviewing supervisor
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: review_status
+      label: Review Status
+      hint: Report status
+      type: select_one
+      options:
+      - Draft
+      - Under review
+      - Approved
+      - Requires revision
+      required: true

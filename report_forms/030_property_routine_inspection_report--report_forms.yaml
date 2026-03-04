@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Routine Inspection Report
+    pages:
+    - id: 1
+      name: property_routine_inspection_report_form
+      label: Property Inspection Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: house_number
+      label: house_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_inspection
+      label: time_of_inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: images_urls
+      label: images_urls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_routine_inspection_report_comments
+      label: property_routine_inspection_report_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - assigned_tool_1
+      - assigned_tool_2
+      - assigned_tool_3
+      required: false

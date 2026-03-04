@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Health Outcome Improvement Report
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_start
+      label: Date Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: date_end
+      label: Date End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_identifier
+      label: Staff Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_identifier
+      label: Facility Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: outcome_improvement_areas_focus
+      label: Outcome Improvement Areas Focus
+      hint: null
+      type: select_multiple
+      options:
+      - Improvement of patient symptoms
+      - Improvement of patient functional status
+      - Improvement of patient emotional state
+      - Improvement of other (specify)
+      required: true
+    - id: 11
+      name: outcome_improvement_areas_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false

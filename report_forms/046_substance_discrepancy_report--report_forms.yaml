@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substance Discrepancy Report
+    pages:
+    - id: 1
+      name: substance_discrepancy_report
+      label: Substance Discrepancy Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: substance_name
+      label: Substance Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity_discrepancy
+      label: Quantity Discrepancy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quantity_discrepancy_type
+      label: Discrepancy Type
+      hint: null
+      type: select_one
+      options:
+      - Discrepancy
+      - Loss
+      - Shortage
+      - Overstock
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Facility
+      - Warehouse
+      - Store
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reported_time
+      label: Reported Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: discrepancy_date
+      label: Discrepancy Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: discrepancy_status
+      label: Discrepancy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

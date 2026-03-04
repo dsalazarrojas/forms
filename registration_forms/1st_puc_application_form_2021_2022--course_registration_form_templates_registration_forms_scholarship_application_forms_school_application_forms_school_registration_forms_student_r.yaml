@@ -1,0 +1,295 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1st PUC Application Form 2021 2022
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your complete legal name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 5
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: religion
+      label: Religion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mother_tongue
+      label: Mother tongue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_academic
+      label: '--- Academic Background ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sslc_board
+      label: SSLC/10th Board
+      hint: State Board, CBSE, ICSE, etc.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sslc_school_name
+      label: Name of school attended for 10th grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sslc_year_of_passing
+      label: Year of passing 10th grade
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: sslc_percentage
+      label: SSLC/10th percentage
+      hint: Enter your percentage score
+      type: decimal
+      options: []
+      required: true
+    - id: 13
+      name: section_header_course_selection
+      label: '--- Course Selection ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: course_stream
+      label: Select your preferred stream
+      hint: null
+      type: select_one
+      options:
+      - PCMB (Physics, Chemistry, Mathematics, Biology)
+      - PCMC (Physics, Chemistry, Mathematics, Computer Science)
+      - Commerce with Maths
+      - Commerce without Maths
+      - Arts with Economics
+      - Arts without Economics
+      required: true
+    - id: 15
+      name: preferred_language_medium
+      label: Preferred language of instruction
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Kannada
+      - Both
+      required: true
+    - id: 16
+      name: section_header_contact
+      label: '--- Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email_address
+      label: Email address
+      hint: A valid email for college communications
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: phone_number
+      label: Mobile phone number
+      hint: 10-digit mobile number
+      type: phone
+      options: []
+      required: true
+    - id: 19
+      name: alternate_phone
+      label: Alternate phone number
+      hint: Landline or parent's number
+      type: phone
+      options: []
+      required: false
+    - id: 20
+      name: permanent_address
+      label: Permanent address
+      hint: Full address with pin code
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: correspondence_address
+      label: Correspondence address (if different from permanent address)
+      hint: Leave blank if same as permanent address
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_family
+      label: '--- Family Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: father_name
+      label: Father's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: father_occupation
+      label: Father's occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: father_qualification
+      label: Father's educational qualification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: mother_name
+      label: Mother's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: mother_occupation
+      label: Mother's occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: mother_qualification
+      label: Mother's educational qualification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: annual_income
+      label: Annual family income (in INR)
+      hint: Approximate gross annual income
+      type: integer
+      options: []
+      required: false
+    - id: 30
+      name: section_header_additional
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: scholarship_applied
+      label: Are you applying for any scholarship?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 32
+      name: how_did_you_hear_about_us
+      label: How did you hear about REVA Independent PU College?
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Website
+      - School counselor
+      - Newspaper advertisement
+      - Radio
+      - Other
+      required: false
+    - id: 33
+      name: career_goals
+      label: Briefly describe your career goals
+      hint: What do you aspire to become?
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: Learning difficulties, physical challenges, etc.
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like to share
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: terms_and_conditions
+      label: I agree to the terms and conditions of admission
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

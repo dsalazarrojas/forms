@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Issue Tracking Form
+    pages:
+    - id: 1
+      name: employee
+      label: Select Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_type
+      label: contact_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Manager''}'
+      - '{''label'': ''Team Leader''}'
+      - '{''label'': ''HR''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: division
+      label: division
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: problem_type
+      label: Problem Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Recruiting''}'
+      - '{''label'': ''Hiring''}'
+      - '{''label'': ''Training''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''In Progress''}'
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      required: false
+    - id: 10
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false

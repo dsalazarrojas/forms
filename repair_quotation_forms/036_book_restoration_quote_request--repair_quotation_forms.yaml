@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Restoration Quote Request
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send the quote here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For quote discussion
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Library museum or institution if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: book_author
+      label: Book Author
+      hint: Author of the book
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: publication_year
+      label: Publication Year
+      hint: Year book was published
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: book_age_estimate
+      label: Estimated Age of Book
+      hint: How old is the book
+      type: select_one
+      options:
+      - Less than 25 years
+      - 25-50 years
+      - 50-100 years
+      - 100-150 years
+      - Over 150 years
+      - Unknown
+      required: true
+    - id: 9
+      name: book_type
+      label: Type of Book
+      hint: Select the book type
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - Leather Bound
+      - Manuscript
+      - Rare Book
+      - Religious Text
+      - Other
+      required: true
+    - id: 10
+      name: book_dimensions
+      label: Book Dimensions
+      hint: Approximate height and width
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: damage_type
+      label: Type of Damage
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Torn Pages
+      - Water Damage
+      - Fire Damage
+      - Mold or Mildew
+      - Insect Damage
+      - Spine Damage
+      - Cover Detached
+      - Loose Pages
+      - Writing or Marks
+      - Faded Text
+      required: true
+    - id: 12
+      name: damage_description
+      label: Detailed Damage Description
+      hint: Describe the damage in detail
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: damage_severity
+      label: Damage Severity
+      hint: How severe is the damage
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      - Critical
+      required: true
+    - id: 14
+      name: book_value
+      label: Estimated Book Value
+      hint: Approximate value if known
+      type: select_one
+      options:
+      - Under $100
+      - $100-$500
+      - $500-$1000
+      - $1000-$5000
+      - Over $5000
+      - Sentimental Value Only
+      - Unknown
+      required: false
+    - id: 15
+      name: restoration_photos
+      label: Photos of Damage
+      hint: Upload photos if possible
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: urgency
+      label: How Urgent Is This Restoration
+      hint: Select urgency level
+      type: select_one
+      options:
+      - Not Urgent
+      - Somewhat Urgent
+      - Urgent
+      - Very Urgent
+      required: true
+    - id: 17
+      name: desired_completion
+      label: Desired Completion Date
+      hint: When do you need this done
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: budget_range
+      label: Estimated Budget Range
+      hint: Your expected budget
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$1000
+      - Over $1000
+      - No Budget Limit
+      required: false
+    - id: 19
+      name: restoration_goals
+      label: Restoration Goals
+      hint: What do you want to achieve
+      type: select_multiple
+      options:
+      - Stabilize Condition
+      - Improve Appearance
+      - Make Readable
+      - Preserve for Display
+      - Increase Value
+      - Full Restoration
+      required: true
+    - id: 20
+      name: previous_restoration
+      label: Has This Book Been Restored Before
+      hint: Any previous restoration work
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 21
+      name: previous_restoration_notes
+      label: Previous Restoration Notes
+      hint: Describe any previous work
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Library Recommendation
+      - Website
+      - Other
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: quote_delivery_preference
+      label: How Would You Like to Receive Quote
+      hint: Select your preference
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Consultation
+      - In Person
+      required: true

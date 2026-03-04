@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Test Result Reporting Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: reporter_type
+      label: Who is submitting this report
+      hint: Reporter category
+      type: select_one
+      options:
+      - Employee
+      - Student
+      - Customer or client
+      - Visitor
+      - Parent or guardian
+      - Healthcare provider
+      - Other
+      required: true
+    - id: 3
+      name: reporter_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: Company or school
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department_or_class
+      label: Department or Class
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_date
+      label: Date of Test
+      hint: When tested
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: test_result
+      label: Test Result
+      hint: Result status
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Pending
+      required: true
+    - id: 12
+      name: test_type
+      label: Type of Test
+      hint: Test method
+      type: select_one
+      options:
+      - PCR molecular test
+      - Rapid antigen test
+      - Rapid PCR test
+      - Home test kit
+      - Antibody test
+      required: true
+    - id: 13
+      name: test_location
+      label: Where was the test performed
+      hint: Testing location
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: testing_facility_name
+      label: Testing Facility Name
+      hint: Lab or clinic
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: result_received_date
+      label: Date Results Were Received
+      hint: When you got results
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: symptom_status
+      label: Are you currently experiencing symptoms
+      hint: Symptom status
+      type: select_one
+      options:
+      - No asymptomatic
+      - Yes symptomatic
+      - Symptoms resolved
+      required: true
+    - id: 17
+      name: symptom_list
+      label: Which symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 18
+      name: symptom_onset_date
+      label: When did symptoms start
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: isolation_status
+      label: Are you currently in isolation
+      hint: Isolation status
+      type: select_one
+      options:
+      - Yes at home
+      - Yes at facility
+      - No not isolating
+      - No longer isolating
+      required: true
+    - id: 20
+      name: isolation_start_date
+      label: Isolation Start Date
+      hint: When isolation began
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: expected_return_date
+      label: Expected Return Date
+      hint: When returning to work or school
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: close_contacts_notified
+      label: Have you notified your close contacts
+      hint: Contact notification
+      type: select_one
+      options:
+      - Yes all notified
+      - Some notified
+      - No not yet
+      - Not applicable
+      required: true
+    - id: 23
+      name: healthcare_provider_notified
+      label: Has your healthcare provider been notified
+      hint: Medical notification
+      type: select_one
+      options:
+      - true
+      - false
+      - I do not have a healthcare provider
+      required: true
+    - id: 24
+      name: test_result_document
+      label: Upload Test Result Document
+      hint: Photo or PDF of results
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: accuracy_attestation
+      label: I attest that the information provided is true and accurate
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I attest
+      - No I cannot attest
+      required: true
+    - id: 27
+      name: reporter_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Track Lighting Installation Request
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: installation_type
+      label: installation type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Track Lighting Installation''}'
+      - '{''option2'': ''Track Lighting Maintenance''}'
+      required: true
+    - id: 7
+      name: number_of_track_lights
+      label: number of track lights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_track_light_fixtures
+      label: number of track light fixtures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_circuit_breakers
+      label: number of circuit breakers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: installation_date
+      label: installation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: installation_time
+      label: installation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_contact
+      label: follow up contact
+      hint: null
+      type: text
+      options: []
+      required: false

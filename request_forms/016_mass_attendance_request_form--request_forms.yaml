@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mass Attendance Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: individual_name
+      label: Individual Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_members
+      label: Family Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Children''}'
+      - '{''label'': ''Parents''}'
+      required: false
+    - id: 4
+      name: reason
+      label: Reason for Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: date_of_mass
+      label: Date of Mass
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_mass
+      label: Time of Mass
+      hint: null
+      type: time
+      options: []
+      required: false

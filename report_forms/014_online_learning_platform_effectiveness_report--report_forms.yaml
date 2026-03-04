@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Learning Platform Effectiveness Report
+    pages:
+    - id: 1
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Somewhat Satisfied
+      - Very Dissatisfied
+      - Dissatisfied
+      - Not Satisfied
+      required: false
+    - id: 2
+      name: user_outcome
+      label: User Outcome
+      hint: null
+      type: select_one
+      options:
+      - Improved
+      - Not Improved
+      - Unchanged
+      required: false
+    - id: 3
+      name: improvement_needs
+      label: Improvement Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_satisfaction
+      label: User Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_outcome_outcomes
+      label: User Outcome Outcomes
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: training_outcome_outcomes
+      label: Training Outcome Outcomes
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false

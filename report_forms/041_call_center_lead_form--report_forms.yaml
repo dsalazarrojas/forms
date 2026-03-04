@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Center Lead Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: interest_header
+      label: -- Interest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: products_services
+      label: Products or Services Interested In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Education
+      - Other
+      required: false
+    - id: 15
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 - $5000
+      - $5000 - $10000
+      - $10000 - $25000
+      - $25000+
+      required: false
+    - id: 16
+      name: timeline
+      label: Expected Purchase Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 12+ months
+      - Exploring options
+      required: false
+    - id: 17
+      name: additional_info_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: how_heard
+      label: How Did You Hear About Us?
+      hint: null
+      type: select_one
+      options:
+      - Search engine
+      - Social media
+      - Referral
+      - Advertisement
+      - Event
+      - Other
+      required: false
+    - id: 19
+      name: specific_interest
+      label: Specific Areas of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: best_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - No preference
+      required: false
+    - id: 21
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Any time
+      required: false
+    - id: 22
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

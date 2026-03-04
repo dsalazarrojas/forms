@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Table Saw Extension Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 3
+      name: equipment_id
+      label: Equipment Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: extension_start_date
+      label: Extension Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: extension_end_date
+      label: Extension End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Available''}'
+      - '{''value'': ''In Use''}'
+      - '{''value'': ''Maintenance''}'
+      - '{''value'': ''Out of Order''}'
+      required: false
+    - id: 11
+      name: extension_days
+      label: Extension Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: extension_hours
+      label: Extension Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_comment
+      label: Supervisor Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: prophets_name
+      label: Prophets Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_comment
+      label: User Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_id
+      label: Equipment Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: extension_status
+      label: Extension Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supervisor_approval2
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 26
+      name: extension_start_time
+      label: Extension Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 27
+      name: extension_end_time
+      label: Extension End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 28
+      name: form_status
+      label: Form Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Audit Checklist
+    pages:
+    - id: 1
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: admin
+      label: Admin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_status
+      label: Building Status
+      hint: null
+      type: select_one
+      options:
+      - Building under construction
+      - Active
+      - Decommissioned
+      required: false
+    - id: 4
+      name: checklist_equipment
+      label: Checklist Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Lighting
+      - HVAC
+      - Electrical system
+      - Plumbing system
+      - Fire alarm system
+      - Safety devices
+      required: false
+    - id: 5
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Fire suppression system
+      - Fire alarm system
+      - Safety devices
+      - Fire extinguishers
+      - Emergency exit signs
+      - Fire safety equipment
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: energy_conservation_measures
+      label: Energy Conservation Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Lighting
+      - HVAC
+      - Electrical system
+      - Plumbing system
+      - Fire alarm system
+      - Safety devices
+      required: false
+    - id: 10
+      name: equipment_count
+      label: Equipment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_energy_consumed
+      label: Total Energy Consumed
+      hint: null
+      type: number
+      options: []
+      required: false

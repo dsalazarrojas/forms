@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Progress Report Form
+    pages:
+    - id: 1
+      name: section_project_ident
+      label: -- Project and Period Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_id
+      label: Project ID or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_period_start
+      label: Reporting Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: report_period_end
+      label: Reporting Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: report_manager
+      label: Reported By (Name and Title)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_schedule_status
+      label: -- Schedule Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_schedule_status
+      label: Overall Schedule Status
+      hint: null
+      type: select_one
+      options:
+      - Ahead of Schedule
+      - On Schedule
+      - Slightly Behind Schedule (1-2 weeks)
+      - Significantly Behind Schedule (>2 weeks)
+      - On Hold
+      required: true
+    - id: 9
+      name: pct_project_complete
+      label: Estimated Total Project Percentage Complete (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: key_milestones_achieved
+      label: Key Milestones Achieved this Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_financial_status
+      label: -- Financial Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_budget_status
+      label: Overall Budget Status
+      hint: null
+      type: select_one
+      options:
+      - Under Budget
+      - On Budget
+      - Over Budget
+      required: true
+    - id: 13
+      name: cost_to_date
+      label: Total Cost to Date ($)
+      hint: Invoiced and paid
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: estimated_cost_to_complete
+      label: Estimated Cost to Complete ($)
+      hint: Forecasted remaining costs
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_critical_issues
+      label: -- Critical Issues and Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: top_project_risk
+      label: Top Risk Facing the Project Currently
+      hint: null
+      type: select_one
+      options:
+      - Labor Shortage
+      - Material Delay/Cost
+      - Weather Impacts
+      - Design/Scope Change
+      - Regulatory/Permit Delay
+      - Safety/Environmental Issue
+      - Other
+      required: true
+    - id: 17
+      name: issue_description
+      label: Description of Primary Issue or Risk
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: mitigation_plan_summary
+      label: Mitigation Plan Summary
+      hint: Actions being taken to resolve the issue
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_labor_safety
+      label: -- Labor and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: total_safe_man_hours
+      label: Total Safe Man-Hours Worked to Date
+      hint: Without lost-time incident
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_final_summary
+      label: -- Final Summary and Outlook --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: next_period_key_goals
+      label: Key Goals for the Next Reporting Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: manager_comments
+      label: General Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Date of Report Submission
+      hint: null
+      type: date
+      options: []
+      required: true

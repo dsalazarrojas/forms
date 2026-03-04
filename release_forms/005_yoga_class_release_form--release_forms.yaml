@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_class_release_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: release_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: release_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: waiver
+      label: Waiver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_info
+      label: Additional Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 8
+      name: liability_consent
+      label: Liability Consent
+      hint: By signing this form, you are giving consent to participate in the yoga
+        class.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_devices
+      label: Medical Devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_signature
+      label: Emergency Contact Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: waiver_signature
+      label: Waiver Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: select_one
+      options:
+      - I certify that I am a licensed medical professional.
+      - I certify that I am not a licensed medical professional.
+      required: true

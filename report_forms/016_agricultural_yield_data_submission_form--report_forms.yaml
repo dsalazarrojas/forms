@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Yield Data Submission Form
+    pages:
+    - id: 1
+      name: farm_name
+      label: Farm name
+      hint: Name or identifier of the farm
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact person
+      hint: Who prepared the submission
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: crop_type
+      label: Crop type
+      hint: Main crop for the reported yield
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: harvest_date
+      label: Harvest date
+      hint: Date when yield was measured
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: area_harvested_hectares
+      label: Area harvested in hectares
+      hint: Area for which the yield is reported
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_yield_tonnes
+      label: Total yield in tonnes
+      hint: Measured or estimated yield
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: moisture_content_percent
+      label: Moisture content percent
+      hint: If known at harvest
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: post_harvest_losses_percent
+      label: Post harvest losses percent
+      hint: Estimated percentage losses
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: measurement_method
+      label: Measurement method
+      hint: How yield was measured or estimated
+      type: select_one
+      options:
+      - Weighbridge
+      - Sampling and extrapolation
+      - Estimate
+      - Other
+      required: true
+    - id: 10
+      name: supporting_documents
+      label: Supporting documents
+      hint: Notes on available evidence or attachments
+      type: text
+      options: []
+      required: false

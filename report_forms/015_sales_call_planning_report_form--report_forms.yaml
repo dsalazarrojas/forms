@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Call Planning Report Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Sales Call Planning Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_call_date
+      label: Sales Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sales_call_time
+      label: Sales Call Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: territory
+      label: Territory
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_call_date
+      label: Next Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assigned_sales_person
+      label: Assigned Sales Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_sales_team
+      label: Assigned Sales Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_sales_manager
+      label: Assigned Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_call_duration
+      label: Sales Call Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: sales_call_planning_notes
+      label: Sales Call Planning Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_website
+      label: Customer Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_fax
+      label: Customer Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: sales_call_outcome
+      label: Sales Call Outcome
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      - Cancelled
+      - Other
+      required: true
+    - id: 25
+      name: sales_call_outcome_notes
+      label: Sales Call Outcome Notes
+      hint: null
+      type: note
+      options: []
+      required: false

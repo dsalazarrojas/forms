@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bone Marrow Biopsy Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: biopsy_date
+      label: Biopsy Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: biopsy_time
+      label: Biopsy Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: biopsy_site
+      label: Biopsy Site
+      hint: null
+      type: select_one
+      options:
+      - Posterior Iliac Crest
+      - Anterior Iliac Crest
+      - Vertebra
+      - Femur
+      - Tibia
+      - Other
+      required: true
+    - id: 8
+      name: physician_name
+      label: Physician Performing Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pathologist_name
+      label: Pathologist Reviewing Sample
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: specimen_description
+      label: Specimen Description
+      hint: Color, consistency, length
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: specimen_adequacy
+      label: Specimen Adequacy
+      hint: For diagnostic purpose
+      type: select_one
+      options:
+      - Adequate
+      - Adequate but Limited
+      - Inadequate - Insufficient Marrow
+      - Inadequate - Contaminated
+      - Inadequate - Clotted
+      required: true
+    - id: 12
+      name: cellularity
+      label: Cellularity Assessment
+      hint: Percentage of marrow space
+      type: select_one
+      options:
+      - Hypercellular - Greater than 75 percent
+      - Normocellular - 30-75 percent
+      - Hypocellular - Less than 30 percent
+      - Aplastic
+      - Cannot Assess
+      required: true
+    - id: 13
+      name: myeloid_erythroid_ratio
+      label: Myeloid to Erythroid Ratio
+      hint: M to E ratio
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: blast_percentage
+      label: Blast Cell Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: erythropoiesis
+      label: Erythropoiesis Findings
+      hint: Normal, abnormal, decreased, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: granulopoiesis
+      label: Granulopoiesis Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: megakaryocytes
+      label: Megakaryocytes Findings
+      hint: Increased, normal, decreased
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dysplasia_present
+      label: Dysplasia Present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Questionable
+      - Cannot Determine
+      required: true
+    - id: 19
+      name: dysplasia_description
+      label: Dysplasia Description
+      hint: If present
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fibrosis_present
+      label: Marrow Fibrosis
+      hint: null
+      type: select_one
+      options:
+      - Not Present
+      - Mild
+      - Moderate
+      - Severe
+      - Cannot Assess
+      required: true
+    - id: 21
+      name: iron_stain_result
+      label: Iron Stain Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cytochemical_studies
+      label: Cytochemical Studies Performed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_studies
+      label: Special Studies
+      hint: Flow cytometry, cytogenetics, etc
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: diagnosis_impression
+      label: Diagnostic Impression
+      hint: Final diagnosis
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: clinical_correlation
+      label: Clinical Correlation
+      hint: Recommendations for clinician
+      type: text
+      options: []
+      required: false

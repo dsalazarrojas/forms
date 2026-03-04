@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_agency_dispute_form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: credit_agency
+      label: Credit Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_type
+      label: Report Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_dispute
+      label: Reason for Dispute
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: supporting_document
+      label: Supporting Document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dispute_agreed
+      label: Dispute Agreed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''name'': True, ''label'': True}'
+      - '{''id'': 14, ''name'': False, ''label'': False}'
+      required: true

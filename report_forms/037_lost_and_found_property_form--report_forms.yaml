@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lost And Found Property Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_information_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_information_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: found_property_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: found_property_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: found_property_condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: found_property_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_information_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_information_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lost_property_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: found_property_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: contact_information_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 15
+      name: property_details_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Case Details Release Form
+    pages:
+    - id: 1
+      name: legal_case_details
+      label: Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorized_party_details
+      label: Authorized Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: share_method
+      label: Share Method
+      hint: Select from below
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''In Person''}'
+      required: true
+    - id: 4
+      name: share_with
+      label: Share With
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Client''}'
+      - '{''id'': 2, ''label'': ''Attorney''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 5
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorized_party_name
+      label: Authorized Party Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: authorized_party_address
+      label: Authorized Party Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorized_party_phone
+      label: Authorized Party Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorized_party_email
+      label: Authorized Party Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: authorized_party_notes
+      label: Authorized Party Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: share_instructions
+      label: Share Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: share_instructions_details
+      label: Share Instructions Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: authorized_party_id
+      label: Authorized Party ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: authorized_party_dob
+      label: Authorized Party DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: authorized_party_country
+      label: Authorized Party Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: release_reason
+      label: Release Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: authorized_party_state
+      label: Authorized Party State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: authorized_party_city
+      label: Authorized Party City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorized_party_zip
+      label: Authorized Party Zip
+      hint: null
+      type: text
+      options: []
+      required: false

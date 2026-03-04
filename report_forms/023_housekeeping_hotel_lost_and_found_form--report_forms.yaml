@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Hotel Lost And Found Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: Provide details for all items you found.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_details
+      label: Item Details
+      hint: Enter item description and value.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: found_by
+      label: Found By
+      hint: null
+      type: select_one
+      options:
+      - Housekeeping Staff
+      - Security Guard
+      - Manager
+      - Guest
+      required: false
+    - id: 7
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_multiple
+      options:
+      - Housekeeping Staff
+      - Security Guard
+      - Manager
+      - Guest
+      required: false
+    - id: 8
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reported_time
+      label: Reported Time
+      hint: null
+      type: time
+      options: []
+      required: false

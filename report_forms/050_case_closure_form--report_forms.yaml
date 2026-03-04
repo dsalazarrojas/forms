@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Closure Form
+    pages:
+      - id: 1
+        name: section_case_id
+        label: -- Case Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: case_number
+        label: Case Number
+        hint: primary investigation identifier
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: incident_type
+        label: Primary Incident Type
+        hint: choose the best category
+        type: select_one
+        options:
+          - Theft or Larceny
+          - Assault
+          - Burglary
+          - Fraud
+          - Vandalism
+          - Traffic
+          - Other
+        required: true
+      - id: 4
+        name: investigating_officer
+        label: Lead Investigating Officer
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: badge_number
+        label: Officer Badge Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: date_case_opened
+        label: Date Case Opened
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: date_case_closed
+        label: Date Case Closed
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: section_closure_details
+        label: -- Closure Details --
+        hint: why the case is being finalized
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: reason_for_closure
+        label: Primary Reason for Closure
+        hint: select the official status
+        type: select_one
+        options:
+          - Arrest Made
+          - Unfounded
+          - Lack of Evidence
+          - Statute of Limitations
+          - Resolved via Mediation
+          - Referred to Other Agency
+          - Complainant Withdrawn
+        required: true
+      - id: 10
+        name: closure_summary
+        label: Summary of Final Investigation Findings
+        hint: provide a clear narrative of the outcome
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: evidence_disposition
+        label: Disposition of Collected Evidence
+        hint: what happened to physical items?
+        type: select_one
+        options:
+          - Returned to Owner
+          - Destroyed
+          - Held for Future Trial
+          - Auctioned
+          - Transferred
+        required: true
+      - id: 12
+        name: section_suspect_info
+        label: -- Suspect Information --
+        hint: if applicable
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: suspect_name
+        label: Primary Suspect Name (if known)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: suspect_status
+        label: Current Suspect Status
+        hint: null
+        type: select_one
+        options:
+          - In Custody
+          - Released on Bail
+          - Wanted
+          - Deceased
+          - Exonerated
+          - N/A
+        required: true
+      - id: 15
+        name: section_victim_info
+        label: -- Victim or Complainant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: victim_notified
+        label: Was the victim or complainant notified of closure?
+        hint: required per department policy
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: true
+      - id: 17
+        name: notification_date
+        label: Date of Notification
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 18
+        name: method_of_notification
+        label: Method of Notification
+        hint: how were they informed?
+        type: select_one
+        options:
+          - In-Person
+          - Phone
+          - Email
+          - Official Letter
+        required: false
+      - id: 19
+        name: section_admin_legal
+        label: -- Administrative and Legal --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: prosecutor_review
+        label: Has the prosecutor reviewed this closure?
+        hint: for cases involving arrests
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: true
+      - id: 21
+        name: case_archived_status
+        label: Has the case file been digitally archived?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 22
+        name: section_final_approval
+        label: -- Final Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: supervisor_name
+        label: Approving Supervisor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: supervisor_badge
+        label: Supervisor Badge Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: digital_signature
+        label: Official Electronic Signature
+        hint: Type name as digital signature
+        type: text
+        options: []
+        required: true

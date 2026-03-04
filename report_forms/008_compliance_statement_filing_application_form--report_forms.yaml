@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Statement Filing Application Form
+    pages:
+    - id: 1
+      name: section_filer_information
+      label: -- Filer Information --
+      hint: Provide details for the filing party
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: filer_name
+      label: Filer name
+      hint: Individual or organization name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for filing confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: filing_type
+      label: Filing type
+      hint: Select the type of compliance filing
+      type: select_one
+      options:
+      - Initial filing
+      - Amendment
+      - Annual report
+      required: true
+    - id: 6
+      name: filing_date
+      label: Filing date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: summary_of_statement
+      label: Summary of statement
+      hint: Brief description of the statement being filed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supporting_documents
+      label: Supporting documents
+      hint: List documents or links attached
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: declaration
+      label: Declaration
+      hint: I declare that the information provided is true and accurate
+      type: select_one
+      options:
+      - I declare
+      - Other
+      required: true

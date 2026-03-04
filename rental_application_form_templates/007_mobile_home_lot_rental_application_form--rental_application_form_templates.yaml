@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: mobile_home_lot_rental_application_form
+    pages:
+    - id: 1
+      name: mobile_home_lot_rental_application_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mobile_home_lot_rental_application_form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mobile_home_lot_rental_application_form_3
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: mobile_home_lot_rental_application_form_4
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mobile_home_lot_rental_application_form_5
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mobile_home_lot_rental_application_form_6
+      label: rent_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: mobile_home_lot_rental_application_form_7
+      label: rent_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: mobile_home_lot_rental_application_form_8
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mobile_home_lot_rental_application_form_9
+      label: address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mobile_home_lot_rental_application_form_10
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: mobile_home_lot_rental_application_form_11
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Alabama''}'
+      - '{''id'': 2, ''label'': ''Alaska''}'
+      - '{''id'': 3, ''label'': ''American Samoa''}'
+      - '{''id'': 4, ''label'': ''Arizona''}'
+      - '{''id'': 5, ''label'': ''Arkansas''}'
+      - '{''id'': 6, ''label'': ''California''}'
+      - '{''id'': 7, ''label'': ''Colorado''}'
+      - '{''id'': 8, ''label'': ''Connecticut''}'
+      - '{''id'': 9, ''label'': ''Delaware''}'
+      - '{''id'': 10, ''label'': ''District of Columbia''}'
+      - '{''id'': 11, ''label'': ''Florida''}'
+      - '{''id'': 12, ''label'': ''Georgia''}'
+      - '{''id'': 13, ''label'': ''Hawaii''}'
+      - '{''id'': 14, ''label'': ''Idaho''}'
+      - '{''id'': 15, ''label'': ''Illinois''}'
+      - '{''id'': 16, ''label'': ''Indiana''}'
+      - '{''id'': 17, ''label'': ''Iowa''}'
+      - '{''id'': 18, ''label'': ''Kansas''}'
+      - '{''id'': 19, ''label'': ''Kentucky''}'
+      - '{''id'': 20, ''label'': ''Louisiana''}'
+      - '{''id'': 21, ''label'': ''Maine''}'
+      - '{''id'': 22, ''label'': ''Maryland''}'
+      - '{''id'': 23, ''label'': ''Massachusetts''}'
+      - '{''id'': 24, ''label'': ''Michigan''}'
+      - '{''id'': 25, ''label'': ''Minnesota''}'
+      - '{''id'': 26, ''label'': ''Mississippi''}'
+      - '{''id'': 27, ''label'': ''Missouri''}'
+      - '{''id'': 28, ''label'': ''Montana''}'
+      - '{''id'': 29, ''label'': ''Nebraska''}'
+      - '{''id'': 30, ''label'': ''Nevada''}'
+      - '{''id'': 31, ''label'': ''New Hampshire''}'
+      - '{''id'': 32, ''label'': ''New Jersey''}'
+      - '{''id'': 33, ''label'': ''New Mexico''}'
+      - '{''id'': 34, ''label'': ''New York''}'
+      - '{''id'': 35, ''label'': ''North Carolina''}'
+      - '{''id'': 36, ''label'': ''North Dakota''}'
+      - '{''id'': 37, ''label'': ''Ohio''}'
+      - '{''id'': 38, ''label'': ''Oklahoma''}'
+      - '{''id'': 39, ''label'': ''Oregon''}'
+      - '{''id'': 40, ''label'': ''Pennsylvania''}'
+      - '{''id'': 41, ''label'': ''Puerto Rico''}'
+      - '{''id'': 42, ''label'': ''Rhode Island''}'
+      - '{''id'': 43, ''label'': ''South Carolina''}'
+      - '{''id'': 44, ''label'': ''South Dakota''}'
+      - '{''id'': 45, ''label'': ''Tennessee''}'
+      - '{''id'': 46, ''label'': ''Texas''}'
+      - '{''id'': 47, ''label'': ''Utah''}'
+      - '{''id'': 48, ''label'': ''Vermont''}'
+      - '{''id'': 49, ''label'': ''Virginia''}'
+      - '{''id'': 50, ''label'': ''Washington''}'
+      - '{''id'': 51, ''label'': ''West Virginia''}'
+      - '{''id'': 52, ''label'': ''Wisconsin''}'
+      - '{''id'': 53, ''label'': ''Wyoming''}'
+      required: true
+    - id: 12
+      name: mobile_home_lot_rental_application_form_12
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: mobile_home_lot_rental_application_form_13
+      label: mobile_home_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Single-Wide''}'
+      - '{''id'': 2, ''label'': ''Double-Wide''}'
+      - '{''id'': 3, ''label'': ''Triple-Wide''}'
+      required: true
+    - id: 14
+      name: mobile_home_lot_rental_application_form_14
+      label: rent_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Month-to-Month''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Bi-Weekly''}'
+      - '{''id'': 4, ''label'': ''Semi-Monthly''}'
+      - '{''id'': 5, ''label'': ''Monthly''}'
+      required: true
+    - id: 15
+      name: mobile_home_lot_rental_application_form_15
+      label: renter_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: park_name
+      label: park_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: lot_number
+      label: lot_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: lot_address
+      label: lot_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rent_start_date
+      label: rent_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: rent_end_date
+      label: rent_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: rent_frequency
+      label: rent_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rent_frequency_2
+      label: rent_frequency_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rent_frequency_3
+      label: rent_frequency_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rent_frequency_4
+      label: rent_frequency_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rent_frequency_5
+      label: rent_frequency_5
+      hint: null
+      type: text
+      options: []
+      required: false

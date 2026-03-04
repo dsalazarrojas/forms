@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screen Printing Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artwork_description
+      label: artwork_description
+      hint: A clear description of your artwork
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: design_file
+      label: design_file
+      hint: Uploading artwork or design files will help us get it right
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: production_deadline
+      label: Production Deadline
+      hint: When would you like your order to be produced?
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: color_scheme
+      label: color_scheme
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Black
+      required: false
+    - id: 7
+      name: ink_color
+      label: ink_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fabric_type
+      label: fabric_type
+      hint: null
+      type: select_multiple
+      options:
+      - Cotton
+      - Polyester
+      - Tri-blend
+      required: false
+    - id: 9
+      name: finish_type
+      label: finish_type
+      hint: null
+      type: select_multiple
+      options:
+      - 3D
+      - Embroidery
+      - Print
+      - Screen Print
+      - Embellishment
+      required: false
+    - id: 10
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

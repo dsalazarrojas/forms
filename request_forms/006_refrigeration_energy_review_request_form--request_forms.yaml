@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refrigeration Energy Review Request Form
+    pages:
+    - id: 1
+      name: refrigeration_energy_review_request_form
+      label: refrigeration_energy_review_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_information
+      label: system_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_records
+      label: system_records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessments
+      label: assessments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assigned_energy_consultant
+      label: assigned_energy_consultant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: review_requests
+      label: review_requests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

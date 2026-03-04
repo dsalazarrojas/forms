@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Managed Security Services Pricing Request Form
+    pages:
+    - id: 1
+      name: managed_security_services_pricing_request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: security_services
+      label: Which security services do you need?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Compliance and Governance''}'
+      - '{''id'': 2, ''label'': ''Cloud Security''}'
+      - '{''id'': 3, ''label'': ''Cyber Security Awareness''}'
+      - '{''id'': 4, ''label'': ''Identity and Access Management''}'
+      - '{''id'': 5, ''label'': ''Incident Response''}'
+      - '{''id'': 6, ''label'': ''Penetration Testing''}'
+      - '{''id'': 7, ''label'': ''Security Consulting''}'
+      - '{''id'': 8, ''label'': ''Security Auditing''}'
+      - '{''id'': 9, ''label'': ''Security Policy Development''}'
+      - '{''id'': 10, ''label'': ''Vulnerability Management''}'
+      required: true
+    - id: 3
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: security_concerns
+      label: Security Concerns
+      hint: Describe your security concerns
+      type: note
+      options: []
+      required: false

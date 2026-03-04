@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory System Integration Report Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: integration_tasks
+      label: Integration Tasks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: outcomes
+      label: Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false

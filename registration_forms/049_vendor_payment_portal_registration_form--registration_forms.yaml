@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Payment Portal Registration Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - credit card
+      - bank transfer
+      - paypal
+      required: false
+    - id: 4
+      name: tax_id
+      label: tax_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - agreement 1
+      - agreement 2
+      - agreement 3
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_page
+      label: next_page
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''next page 1''}'
+      - '{''id'': 2, ''label'': ''next page 2''}'
+      - '{''id'': 3, ''label'': ''next page 3''}'
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

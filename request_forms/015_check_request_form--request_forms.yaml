@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Check Request Form
+    pages:
+    - id: 1
+      name: section_dept_header
+      label: -- Internal Check Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requesting_dept_name
+      label: Requesting Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_requested_on
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_payee_info
+      label: -- Payee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: payee_full_name_org
+      label: Payee Full Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payee_tax_id_ein
+      label: Payee Tax ID (SSN/EIN)
+      hint: Required for first-time vendors
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payee_mailing_address_full
+      label: Complete Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_payment_info
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: total_payment_amount
+      label: Total Amount to be Paid ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_request
+      label: Reason for Payment
+      hint: null
+      type: select_one
+      options:
+      - Vendor Invoice
+      - Employee Reimbursement
+      - Donation / Grant
+      - Subscription / Membership
+      - Petty Cash Replenishment
+      - Other
+      required: true
+    - id: 11
+      name: payment_priority
+      label: Payment Priority
+      hint: null
+      type: select_one
+      options:
+      - Standard (Next Batch)
+      - Urgent (Requires Approval)
+      - Hold for Specific Date
+      required: true
+    - id: 12
+      name: section_approvals
+      label: -- Approvals and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: invoice_attached_verification
+      label: Supporting Invoice Attached
+      hint: null
+      type: select_one
+      options:
+      - Yes, Attached
+      - No, Not Applicable
+      required: true
+    - id: 14
+      name: budget_approval_confirmed
+      label: Funds available in budget
+      hint: null
+      type: select_one
+      options:
+      - Yes, Confirmed
+      - Other
+      required: true
+    - id: 15
+      name: authorized_approver_name
+      label: Authorized Approver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: internal_tracking_number
+      label: Internal Reference Number
+      hint: For finance dept use only
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: final_comments_finance
+      label: Notes for Finance Department
+      hint: null
+      type: text
+      options: []
+      required: false

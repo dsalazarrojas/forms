@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Take Over Report Form Template
+    pages:
+    - id: 1
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mileage_logged
+      label: Mileage Logged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_damage_description
+      label: Vehicle Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mileage_remarks
+      label: Additional Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mileage_reading_previous_driver
+      label: Previous Driver's Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mileage_reading_this_driver
+      label: Driver's Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: fuel_consumed
+      label: Fuel Consumed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fuel_cost
+      label: Fuel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_fuel_consumed
+      label: Total Fuel Consumed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: average_fuel_consumption
+      label: Average Fuel Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_returned
+      label: Vehicle Returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: remarks
+      label: Additional Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''John Doe''}'
+      required: false
+    - id: 16
+      name: remarks_vehicles_returned
+      label: Remarks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vehicle in Good Condition''}'
+      - '{''label'': ''Vehicle Damaged''}'
+      - '{''label'': ''Vehicle Not Returned''}'
+      required: false
+    - id: 17
+      name: vehicle_return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: remarks_returned
+      label: Additional Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: remarks_returned_vehicle
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fuel_consumption_returned
+      label: Fuel Consumed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: remarks_returned_fuel
+      label: Additional Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: remarks_returned_vehicle
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: remarks_returned_vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vehicle in Good Condition''}'
+      - '{''label'': ''Vehicle Damaged''}'
+      - '{''label'': ''Vehicle Not Returned''}'
+      required: false
+    - id: 24
+      name: vehicle_return_status
+      label: Vehicle Return Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vehicle is Returned''}'
+      - '{''label'': ''Vehicle Not Returned''}'
+      - '{''label'': ''Vehicle Lost''}'
+      required: false
+    - id: 25
+      name: remarks_returned_vehicle_status
+      label: Additional Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Spam Form
+    pages:
+    - id: 1
+      name: report_spam_form
+      label: report_spam
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: spam_form
+      label: form_for_spam
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_spam_description
+      label: spam_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: spam_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: form_spam
+      label: spam_report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: report_spam_time
+      label: time_spam_attack
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: report_spam_note
+      label: report_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: report_spam_form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Report Forms''}'
+      - '{''value'': ''Other Category''}'
+      required: false
+    - id: 9
+      name: report_spam_form_title
+      label: title
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Report Forms''}'
+      - '{''value'': ''Other Title''}'
+      required: false
+    - id: 10
+      name: report_spam_form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broker Price Opinion Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: Street address of the property being appraised
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: Select the type of property
+      type: select_one
+      options:
+      - Single Family Home
+      - Multi-Family
+      - Condo
+      - Commercial
+      - Land
+      required: true
+    - id: 6
+      name: square_footage
+      label: Square Footage
+      hint: Gross living area
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: Include full and half baths
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: property_condition
+      label: Property Condition
+      hint: Overall condition of the property
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: true
+    - id: 11
+      name: recent_improvements
+      label: Recent Improvements or Renovations
+      hint: Describe any recent upgrades
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comparable_sales
+      label: Number of Comparable Sales Analyzed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: market_analysis_date
+      label: Market Analysis Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: recommended_price
+      label: Recommended Market Value
+      hint: Your recommended price for this property
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: price_justification
+      label: Justification for Recommended Price
+      hint: Explain factors influencing your valuation
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: broker_name
+      label: Broker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: broker_license
+      label: Broker License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: broker_phone
+      label: Broker Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: broker_email
+      label: Broker Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Date of Opinion
+      hint: null
+      type: date
+      options: []
+      required: true

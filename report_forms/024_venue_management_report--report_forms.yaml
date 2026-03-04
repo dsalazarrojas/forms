@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Venue Management Report
+    pages:
+    - id: 1
+      name: venue_status_update
+      label: Update Venue Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_reporting
+      label: Report Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_needs
+      label: Maintenance Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_team
+      label: Facility Team
+      hint: null
+      type: select_one
+      options:
+      - Facility Manager
+      - Facility Coordinator
+      - Maintenance Worker
+      required: false
+    - id: 5
+      name: event_space
+      label: Event Space
+      hint: null
+      type: select_multiple
+      options:
+      - Auditorium
+      - Ballroom
+      - Conference Room
+      required: false
+    - id: 6
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

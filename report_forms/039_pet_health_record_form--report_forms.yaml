@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Health Record Form
+    pages:
+    - id: 1
+      name: pet_health_record_form_1
+      label: pet_health_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: medication_1
+      label: pet_medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Medication 1''}'
+      - '{''value'': 2, ''label'': ''Medication 2''}'
+      - '{''value'': 3, ''label'': ''Medication 3''}'
+      required: false
+    - id: 3
+      name: medication_2
+      label: medications
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Medication 1''}'
+      - '{''value'': 2, ''label'': ''Medication 2''}'
+      required: false
+    - id: 4
+      name: food
+      label: food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_1
+      label: vaccinations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Vaccination 1''}'
+      - '{''value'': 2, ''label'': ''Vaccination 2''}'
+      - '{''value'': 3, ''label'': ''Vaccination 3''}'
+      required: false
+    - id: 6
+      name: vaccination_2
+      label: vaccinations
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Vaccination 1''}'
+      - '{''value'': 2, ''label'': ''Vaccination 2''}'
+      required: false
+    - id: 7
+      name: behavior
+      label: behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false

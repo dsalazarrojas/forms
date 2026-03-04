@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Performance Reassessment Request Form
+    pages:
+    - id: 1
+      name: section_identity
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: actor_full_name
+      label: Actor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: production_name
+      label: Production Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: character_role
+      label: Role / Character
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department_head
+      label: Direct Supervisor / Department Head
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_assessment
+      label: -- Reassessment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: original_assessment_date
+      label: Date of Original Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_request
+      label: Reason for Reassessment Request
+      hint: Please provide a clear justification for this request
+      type: select_one
+      options:
+      - Improvement in specific skills
+      - Discrepancy in original feedback
+      - New performance data available
+      - Change in role requirements
+      - Other
+      required: true
+    - id: 9
+      name: detailed_justification
+      label: Detailed Justification
+      hint: Expand on the reason selected above
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: performance_areas
+      label: Specific Areas for Review
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Character Interpretation
+      - Physical Performance
+      - Vocal Work
+      - Emotional Range
+      - Professionalism and Reliability
+      - Collaboration with Cast/Crew
+      required: true
+    - id: 11
+      name: evidence_submission
+      label: Supporting Evidence Link
+      hint: Provide links to new footage, reviews, or performance logs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_review
+      label: -- Review Routing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: requested_reviewer
+      label: Preferred Reviewer (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Regular Review Cycle
+      - Medium - Next Production Milestone
+      - High - Immediate Contractual Review Required
+      required: true
+    - id: 15
+      name: acknowledgment
+      label: I acknowledge that this reassessment is subject to reviewer availability
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

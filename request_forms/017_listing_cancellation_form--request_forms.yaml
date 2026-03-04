@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Listing Cancellation Form
+    pages:
+    - id: 1
+      name: listing_cancellation_form
+      label: listing_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cancellation_reason
+      label: cancellation_reason
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: listing_id
+      label: listing_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_removal
+      label: reason_for_removal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cancellation_date
+      label: cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false

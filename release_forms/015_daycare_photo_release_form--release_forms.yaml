@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Photo Release Form
+    pages:
+    - id: 1
+      name: daycare_photo_release_form_template
+      label: Release of Photo and Video Media
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: daycare_parent_name
+      label: Parent Name
+      hint: Please enter your name as the parent or guardian of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: daycare_parent_email
+      label: Email Address
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: daycare_parent_phone
+      label: Phone Number
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: daycare_child_name
+      label: Child's Name
+      hint: Enter the child's name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: daycare_child_date_of_birth
+      label: Date of Birth
+      hint: Enter the child's date of birth in MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: daycare_child_school
+      label: School or Daycare Center
+      hint: Enter the child's school or daycare center
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: daycare_child_grade
+      label: Grade Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: daycare_photo_description
+      label: Photo Description
+      hint: Briefly describe the photo being released
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: daycare_photo_media
+      label: Media Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: daycare_terms_acceptance
+      label: Acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: daycare_additional_comments
+      label: Additional Comments
+      hint: Enter any additional comments
+      type: text
+      options: []
+      required: false

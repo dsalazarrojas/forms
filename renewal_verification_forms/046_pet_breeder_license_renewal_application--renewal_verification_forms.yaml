@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pet Breeder License Renewal Application
+    pages:
+    - id: 1
+      name: breeder_contact_info
+      label: Breeder Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''Pet Name'': ''Pet Name''}'
+      - '{''Owner Name'': ''Owner Name''}'
+      - '{''Address'': ''Address''}'
+      - '{''Phone Number'': ''Phone Number''}'
+      - '{''Email Address'': ''Email Address''}'
+      required: false
+    - id: 2
+      name: license_info
+      label: License Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''License Type'': ''License Type''}'
+      - '{''License Number'': ''License Number''}'
+      - '{''License Expiration'': ''License Expiration''}'
+      - '{''License Issued'': ''License Issued''}'
+      required: false
+    - id: 3
+      name: animal_info
+      label: Animal Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: compliance_history
+      label: Compliance History
+      hint: Provide a detailed history of your compliance with our license regulations.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: animal_list
+      label: Animals
+      hint: List the animals you breed and their relevant health certifications.
+      type: select_multiple
+      options:
+      - '{''Animal 1'': ''Animal 1''}'
+      - '{''Animal 2'': ''Animal 2''}'
+      - '{''Animal 3'': ''Animal 3''}'
+      required: false
+    - id: 6
+      name: breeder_acceptance
+      label: Breeder Acceptance
+      hint: null
+      type: select_one
+      options:
+      - I accept the terms and conditions of this application.
+      - I do not accept the terms and conditions of this application.
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Construction Progress Report Form
+    pages:
+    - id: 1
+      name: road_construction_progress_report_form
+      label: road_construction_progress_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''On Track''}'
+      - '{''id'': 2, ''name'': ''Delayed''}'
+      - '{''id'': 3, ''name'': ''On Hold''}'
+      - '{''id'': 4, ''name'': ''Complete''}'
+      required: false
+    - id: 4
+      name: project_status_details
+      label: project_status_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_completed
+      label: work_completed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Concrete Foundation''}'
+      - '{''id'': 2, ''name'': ''Structural Frame''}'
+      - '{''id'': 3, ''name'': ''Glazing''}'
+      - '{''id'': 4, ''name'': ''Finishing Work''}'
+      required: false
+    - id: 6
+      name: delay_reason
+      label: delay_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delay_date
+      label: delay_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delay_date_time
+      label: delay_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_manager_name
+      label: project_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_email
+      label: project_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: project_manager_phone
+      label: project_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: site_manager_name
+      label: site_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: site_manager_email
+      label: site_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: site_manager_phone
+      label: site_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false

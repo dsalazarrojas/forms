@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Consultant Quote Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: risk_consultant
+      label: Risk Consultant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quote_price
+      label: Quote Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: quote_terms
+      label: Quote Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quote_date_range
+      label: Quote Date Range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: quote_price_range
+      label: Quote Price Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: quote_terms_range
+      label: Quote Terms Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to_range
+      label: Assigned To Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes_range
+      label: Notes Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 16
+      name: risk_type
+      label: Risk Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: risk_category
+      label: Risk Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: quote_type
+      label: Quote Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: notes2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: risk_description2
+      label: Risk Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_level2
+      label: Risk Level 2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 23
+      name: risk_type2
+      label: Risk Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: notes3
+      label: Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quote_terms3
+      label: Quote Terms 3
+      hint: null
+      type: text
+      options: []
+      required: false

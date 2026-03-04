@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Employee Reference Request Form
+    pages:
+    - id: 1
+      name: section_candidate_info
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_applied_for
+      label: Position Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_reference_info
+      label: -- Reference Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: reference_name
+      label: Reference Name
+      hint: Person providing the reference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reference_company
+      label: Company/Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: relationship_to_candidate
+      label: Relationship to Candidate
+      hint: e.g., Supervisor, Peer, Client
+      type: select_one
+      options:
+      - Immediate Supervisor
+      - Department Manager
+      - Colleague/Peer
+      - Client/Vendor
+      - HR Representative
+      required: true
+    - id: 8
+      name: employment_dates
+      label: Dates of Candidate Employment
+      hint: Approximate if exact dates unknown
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_evaluation
+      label: -- Performance Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: technical_skills_rating
+      label: Technical Proficiency and Skills
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Exceptional
+      required: true
+    - id: 11
+      name: reliability_rating
+      label: Reliability and Dependability
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Exceptional
+      required: true
+    - id: 12
+      name: communication_skills
+      label: Communication and Interpersonal Skills
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Exceptional
+      required: true
+    - id: 13
+      name: reason_for_leaving
+      label: Reason for Leaving (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rehire_eligibility
+      label: Would you rehire this individual?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Conditional
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature_confirmation
+      label: I certify this reference is accurate and confidential
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true

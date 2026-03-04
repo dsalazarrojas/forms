@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exterior Improvement Agreement
+    pages:
+    - id: 1
+      name: home_owner_info
+      label: Home Owner Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hoa_guidelines
+      label: HOA Guidelines
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the guidelines
+      - I have not read and do not understand the guidelines
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_photo
+      label: Project Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false

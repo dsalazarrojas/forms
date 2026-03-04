@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Repair Quote Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_description
+      label: service description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: service type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 7
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: repair_description
+      label: Repair Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: repair_agreement
+      label: Repair Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: satisfaction_guarantee
+      label: Satisfaction Guarantee
+      hint: null
+      type: select_one
+      options:
+      - option 4
+      - option 5
+      - option 6
+      required: true
+    - id: 13
+      name: service_agreed
+      label: Service Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - option 7
+      - option 8
+      - option 9
+      required: true
+    - id: 14
+      name: service_address
+      label: service address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: service_zip
+      label: service zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: service_city
+      label: service city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: service_state
+      label: service state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: service_country
+      label: service country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: service_postal_code
+      label: Postal Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: service_note
+      label: service note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_comments
+      label: Service Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - option 10
+      - option 11
+      - option 12
+      required: true
+    - id: 23
+      name: service_priority
+      label: Service Priority
+      hint: null
+      type: select_multiple
+      options:
+      - option 13
+      - option 14
+      - option 15
+      required: false
+    - id: 24
+      name: service_type_details
+      label: Service Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: service_comments
+      label: Service Comments
+      hint: null
+      type: text
+      options: []
+      required: false

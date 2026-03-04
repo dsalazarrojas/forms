@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Configuration Estimate Request
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: User Email
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: design_type
+      label: design_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: design_format
+      label: design_format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: user_note
+      label: user_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: user_comments
+      label: user_comments
+      hint: null
+      type: note
+      options: []
+      required: false

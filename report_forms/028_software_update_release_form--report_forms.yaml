@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Update Release Form
+    pages:
+    - id: 1
+      name: software_update_release_form
+      label: Software Update Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: release_version
+      label: Release Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_number
+      label: Release Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_description
+      label: Release Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: release_status
+      label: Release Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''8-0'', ''name'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': ''8-1'', ''name'': ''Released'', ''value'': ''Released''}'
+      - '{''id'': ''8-2'', ''name'': ''Cancelled'', ''value'': ''Cancelled''}'
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''10-0'', ''name'': ''IT Manager'', ''value'': ''IT Manager''}'
+      - '{''id'': ''10-1'', ''name'': ''Product Manager'', ''value'': ''Product Manager''}'
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

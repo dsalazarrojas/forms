@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academy House On Call Report
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academy House On Call Report --
+      hint: Document all on-call incidents, actions taken, and follow-up items for
+        the reporting period.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_name
+      label: On-call staff member name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: staff_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: staff_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shift_date
+      label: Date of on-call shift
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shift_start_time
+      label: Shift start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: shift_end_time
+      label: Shift end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: house_or_building
+      label: House or building name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_section
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incidents_occurred
+      label: Were there any incidents during the shift
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: incident_type
+      label: Type of incident (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Student illness or injury
+      - Behavioral issue
+      - Facility or maintenance emergency
+      - Fire alarm or safety drill
+      - Missing or absent student
+      - Visitor or security concern
+      - Other
+      required: false
+    - id: 12
+      name: incident_time
+      label: Time of incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: incident_description
+      label: Detailed description of the incident
+      hint: Include who was involved, what happened, and where
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_taken
+      label: Actions taken in response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: persons_contacted
+      label: Who was contacted or notified about the incident
+      hint: Include names and roles
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_required
+      label: Is any follow-up action required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: follow_up_details
+      label: If yes, describe the follow-up needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: general_observations
+      label: General observations or notes from the shift
+      hint: e.g. student wellbeing, building conditions, routine checks
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: report_date
+      label: Date report was completed
+      hint: null
+      type: date
+      options: []
+      required: true

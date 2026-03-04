@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Experience Release Form
+    pages:
+    - id: 1
+      name: release_form
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_experience
+      label: Travel Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tour_leader_name
+      label: Tour Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_agency_name
+      label: Travel Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_agency_email
+      label: Travel Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: release_terms_and_conditions
+      label: Release Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_release
+      label: Medical Release
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True, ''value'': True}'
+      - '{''option'': False, ''value'': False}'
+      required: true
+    - id: 21
+      name: emergency_release
+      label: Emergency Release
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True, ''value'': True}'
+      - '{''option'': False, ''value'': False}'
+      required: true
+    - id: 22
+      name: travel_agency_acknowledgement
+      label: Travel Agency Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True, ''label'': True, ''value'': True}'
+      - '{''option'': False, ''label'': False, ''value'': False}'
+      required: true
+    - id: 23
+      name: participant_acknowledgement
+      label: Participant Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True, ''label'': True, ''value'': True}'
+      - '{''option'': False, ''label'': False, ''value'': False}'
+      required: true
+    - id: 24
+      name: travel_agency_signature
+      label: Travel Agency Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True, ''label'': True, ''value'': True}'
+      - '{''option'': False, ''label'': False, ''value'': False}'
+      required: true
+    - id: 25
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True, ''label'': True, ''value'': True}'
+      - '{''option'': False, ''label'': False, ''value'': False}'
+      required: true

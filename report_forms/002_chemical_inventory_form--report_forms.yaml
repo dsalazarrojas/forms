@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Inventory Form
+    pages:
+    - id: 1
+      name: section_chemical_details
+      label: -- Chemical Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: chemical_name
+      label: Chemical Name
+      hint: Full IUPAC or common name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cas_number
+      label: CAS Registry Number
+      hint: e.g., 64-17-5
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: physical_state
+      label: Physical State
+      hint: State at room temperature
+      type: select_one
+      options:
+      - label: Solid
+        value: solid
+      - label: Liquid
+        value: liquid
+      - label: Gas
+        value: gas
+      required: true
+    - id: 5
+      name: ghs_classification
+      label: GHS Hazard Classification
+      hint: Primary hazard category
+      type: select_one
+      options:
+      - label: Flammable
+        value: flammable
+      - label: Toxic
+        value: toxic
+      - label: Corrosive
+        value: corrosive
+      - label: Oxidizer
+        value: oxidizer
+      - label: Non-Hazardous
+        value: none
+      required: true
+    - id: 6
+      name: section_storage_location
+      label: -- Storage and Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: storage_location
+      label: Storage Location - Room and Shelf
+      hint: Detailed location description
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_quantity
+      label: Current Quantity
+      hint: Numeric value only
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: Select the unit used
+      type: select_one
+      options:
+      - label: Grams (g)
+        value: g
+      - label: Milliliters (ml)
+        value: ml
+      - label: Kilograms (kg)
+        value: kg
+      - label: Liters (L)
+        value: l
+      required: true
+    - id: 10
+      name: expiration_date
+      label: Expiration or Retest Date
+      hint: Leave blank if not applicable
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_custodian_info
+      label: -- Custodian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: person_responsible
+      label: Person Responsible for Inventory
+      hint: Full name of the lab manager or PI
+      type: text
+      options: []
+      required: true

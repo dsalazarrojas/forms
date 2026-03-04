@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: mail_service_disruption_report_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 2
+      name: issue_details
+      label: Issue Details
+      hint: Please describe the issue in details.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility
+      label: Facility
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: mailroom
+      label: Mailroom
+      hint: null
+      type: select_multiple
+      options:
+      - Mailroom 1
+      - Mailroom 2
+      - Mailroom 3
+      required: false
+    - id: 5
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Delayed
+      - Disrupted
+      - Lost
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Done
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - In Progress
+      required: false
+    - id: 14
+      name: user_comment
+      label: User Comment
+      hint: Additional comments for the user.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_comment
+      label: Facility Comment
+      hint: Additional comments for the facility.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mailroom_comment
+      label: Mailroom Comment
+      hint: Additional comments for the mailroom.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_service_comment
+      label: Customer Service Comment
+      hint: Additional comments for the customer service team.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: Additional comments for follow-up.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: issue_comment
+      label: Issue Comment
+      hint: Additional comments for the issue.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_affected
+      label: Facility Affected
+      hint: null
+      type: select_multiple
+      options:
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      required: false
+    - id: 21
+      name: mailroom_affected
+      label: Mailroom Affected
+      hint: null
+      type: select_multiple
+      options:
+      - Mailroom 1
+      - Mailroom 2
+      - Mailroom 3
+      required: false
+    - id: 22
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cause
+      label: Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: solution
+      label: Solution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

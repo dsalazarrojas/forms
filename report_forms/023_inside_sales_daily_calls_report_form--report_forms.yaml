@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inside Sales Daily Calls Report Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_call
+      label: date of call
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: call_length
+      label: call length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: calls_completed
+      label: calls completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reach_outs
+      label: reach outs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: tasks_escalated
+      label: tasks escalated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: tasks_completed
+      label: tasks completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: task_type
+      label: task type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: call_status
+      label: call status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: sales_rep
+      label: sales rep
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sales_manager
+      label: sales manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: region
+      label: region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: territory
+      label: territory
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: account_name
+      label: account name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: account_number
+      label: account number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: account_type
+      label: account type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: customer_type
+      label: customer type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: call_outcome
+      label: call outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: call_outcome_other
+      label: call outcome other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

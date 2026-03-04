@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Product Trial Release Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allergy_disclosures
+      label: Allergy Disclosures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: follow_up_preferences
+      label: Follow-up Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: food_product_information
+      label: Food Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: release_form_signature
+      label: Release Form Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Battery Maintenance Cost Estimate Request
+    pages:
+    - id: 1
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: battery_type
+      label: Battery Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: trim_level
+      label: Trim Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: cost_estimate
+      label: Cost Estimate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: service_center
+      label: Service Center
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: created
+      label: Created
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: updated
+      label: Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Return Form
+    pages:
+    - id: 1
+      name: material_return_form
+      label: Material Return Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - new
+      - used
+      - damaged
+      - missing
+      required: false
+    - id: 4
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - pending
+      - cancelled
+      - inactive
+      required: false
+    - id: 5
+      name: reason_for_return
+      label: Reason For Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_receiving
+      label: Reason For Receiving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: return_method
+      label: Return Method
+      hint: null
+      type: select_one
+      options:
+      - online
+      - in_person
+      - via_post
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

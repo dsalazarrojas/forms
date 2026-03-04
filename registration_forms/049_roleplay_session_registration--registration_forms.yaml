@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roleplay Session Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_title
+      label: Session Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: participant_character
+      label: Participant Character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_host_name
+      label: Event Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_host_email
+      label: Event Host Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: guidelines
+      label: Guidelines
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Agree to the terms
+      - Disagree to the terms
+      required: false
+    - id: 12
+      name: roleplay_session_id
+      label: Roleplay Session ID
+      hint: null
+      type: number
+      options: []
+      required: false

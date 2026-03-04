@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survivor Story Sharing Consent Form
+    pages:
+    - id: 1
+      name: survivor_story_sharing_consent_form
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_media
+      label: social_media
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Twitter
+      - Facebook
+      - TikTok
+      required: true
+    - id: 6
+      name: story_type
+      label: story_type
+      hint: null
+      type: select_one
+      options:
+      - text
+      - photo
+      - video
+      required: true
+    - id: 7
+      name: story
+      label: story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sharing_options
+      label: sharing_options
+      hint: null
+      type: select_multiple
+      options:
+      - publicly
+      - privately
+      - only_with_organization
+      required: true
+    - id: 9
+      name: sharing_method
+      label: sharing_method
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - mailchimp
+      - mailchimp_groups
+      - social_media
+      required: true
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: upload_file_type
+      label: upload_file_type
+      hint: null
+      type: select_multiple
+      options:
+      - photo
+      - video
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_story
+      label: time_of_story
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: location_of_story
+      label: location_of_story
+      hint: null
+      type: text
+      options: []
+      required: false

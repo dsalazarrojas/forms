@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Qualified Report Submission Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_category
+      label: Report Category
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 3
+      name: report_priority
+      label: Report Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file1
+      label: Report File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: file2
+      label: Supporting File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: report_category2
+      label: Report Category 2
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 18
+      name: report_priority2
+      label: Report Priority 2
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 19
+      name: report_date2
+      label: Report Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: report_time2
+      label: Report Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team2
+      label: Team 2
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 24
+      name: report_comments
+      label: Report Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true

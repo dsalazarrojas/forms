@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Location Scan Request Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: scan_details
+      label: Scan Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_id
+      label: Location Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: scan_type
+      label: Scan Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: other_scan_type
+      label: Other Scan Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: on_site_visit
+      label: On-Site Visit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: authorization
+      label: Authorization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: location_scan_request_id
+      label: Location Scan Request Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: facility_id
+      label: Facility Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: scan_request_status
+      label: Scan Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: scan_request_date
+      label: Scan Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: scan_request_time
+      label: Scan Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: scan_request_authorization_details
+      label: Scan Request Authorization Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: scan_request_note
+      label: Scan Request Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: scan_request_phone
+      label: Scan Request Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: scan_request_address
+      label: Scan Request Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: scan_request_facility_id
+      label: Scan Request Facility Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: scan_request_location_id
+      label: Scan Request Location Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: scan_request_user_id
+      label: Scan Request User Id
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Services Contract Report
+    pages:
+    - id: 1
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_deliveries
+      label: Service Deliveries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: contract_details
+      label: Contract Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: service_updates
+      label: Service Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporting_status
+      label: Reporting Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: reporting_start_date
+      label: Reporting Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reporting_end_date
+      label: Reporting End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reporting_period_frequency
+      label: Reporting Period Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_start_date_frequency
+      label: Reporting Start Date Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: reporting_end_date_frequency
+      label: Reporting End Date Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_provider_notes
+      label: Service Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: service_provider_signature
+      label: Service Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_provider_name
+      label: Service Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: service_provider_email
+      label: Service Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: service_provider_phone
+      label: Service Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contract_signed
+      label: Contract Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

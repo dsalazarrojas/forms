@@ -1,0 +1,189 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Quality Nonconformance Summary Report
+    pages:
+    - id: 1
+      name: summary
+      label: Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident
+      label: Incident
+      hint: Briefly describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: categorization
+      label: Categorize Issue
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Equipment''}'
+      - '{''label'': ''Material''}'
+      - '{''label'': ''Process''}'
+      - '{''label'': ''Software''}'
+      - '{''label'': ''Training''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Critical''}'
+      - '{''label'': ''Major''}'
+      - '{''label'': ''Minor''}'
+      - '{''label'': ''Informational''}'
+      required: false
+    - id: 5
+      name: corrective_action
+      label: Corrective Action
+      hint: Specify a corrective action taken to prevent future occurrences
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_action
+      label: Follow-up Action
+      hint: Provide an update on the status of corrective actions taken or planned
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Draft''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_due_date
+      label: Follow-up Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Complete''}'
+      required: false
+    - id: 17
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: Provide notes on the follow-up
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: report_due_date
+      label: Report Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_reviewer
+      label: Follow-up Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_review_date
+      label: Follow-up Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_review_status
+      label: Follow-up Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Complete''}'
+      required: false

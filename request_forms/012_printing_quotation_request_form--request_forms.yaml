@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Printing Quotation Request Form
+    pages:
+    - id: 1
+      name: printing_quotation_request_form_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: printing_quotation_request_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: printing_quotation_request_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: printing_quotation_request_form_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: printing_quotation_request_form_paper_size
+      label: paper_size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 6
+      name: printing_quotation_request_form_paper_orientation
+      label: paper_orientation
+      hint: null
+      type: select_one
+      options:
+      - Portrait
+      - Landscape
+      required: false
+    - id: 7
+      name: printing_quotation_request_form_color
+      label: color
+      hint: null
+      type: select_one
+      options:
+      - Color
+      - Black and White
+      - Gray
+      required: false
+    - id: 8
+      name: printing_quotation_request_form_additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: printing_quotation_request_form_additional_notes_2
+      label: additional_notes__2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: printing_quotation_request_form_requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false

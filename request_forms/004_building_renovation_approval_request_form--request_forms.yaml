@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Renovation Approval Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Renovation Request Details --
+      hint: Complete this form to request approval for building renovations
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Name of the person submitting the request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or Unit
+      hint: Department responsible for the space
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: building_location
+      label: Building and Room Number
+      hint: Exact location of the proposed renovation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: Desired start date for renovation work
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: estimated_completion_date
+      label: Estimated Completion Date
+      hint: Anticipated finish date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Provide the approximate total cost in local currency
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: scope_of_work
+      label: Scope of Work Summary
+      hint: Describe planned activities and major changes
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: safety_and_access_plan
+      label: Safety and Access Plan
+      hint: Outline measures to ensure safety and minimize disruption
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: funding_source
+      label: Funding Source
+      hint: Select the primary source of funds for the renovation
+      type: select_one
+      options:
+      - Department budget
+      - Capital funds
+      - Grant
+      - External donor
+      required: true
+    - id: 11
+      name: approver_signature
+      label: Approver Decision
+      hint: For administrative use to record approval status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Conditional approval
+      - Denied
+      required: true

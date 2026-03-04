@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: flight arrival report form
+    pages:
+    - id: 1
+      name: arrival_information
+      label: Arrival Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: flight_number
+      label: flight number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: gate_number
+      label: Gate Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: arrival_aircraft
+      label: Arrival Aircraft
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: flight_department
+      label: Flight Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: ground_handling
+      label: Ground Handling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: airport_operations
+      label: Airport Operations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: arrival_report_comments
+      label: Arrival Report Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: arrival_report_attachment
+      label: Arrival Report Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: flight_number_confirmation
+      label: Flight Number Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: arrival_report_status
+      label: Arrival Report Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

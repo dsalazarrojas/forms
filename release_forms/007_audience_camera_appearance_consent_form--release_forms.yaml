@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audience Camera Appearance Consent Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal name of person appearing on camera
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 years of age or older?
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am a minor (parent consent required)
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or legal guardian (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email for parent or guardian (if minor)
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: Name of event being recorded
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Venue or location where recording takes place
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: recording_type
+      label: Recording Type
+      hint: What type of recording will occur?
+      type: select_multiple
+      options:
+      - Photography
+      - Video Recording
+      - Audio Recording
+      - Live Streaming
+      - Social Media Content
+      required: true
+    - id: 12
+      name: usage_rights_granted
+      label: Usage Rights Granted
+      hint: Select how your likeness may be used
+      type: select_multiple
+      options:
+      - Promotional materials
+      - Social media posts
+      - Website content
+      - Broadcast television
+      - Streaming platforms
+      - Print publications
+      - Internal training
+      required: true
+    - id: 13
+      name: usage_duration
+      label: Usage Duration
+      hint: How long may your likeness be used?
+      type: select_one
+      options:
+      - 1 year
+      - 3 years
+      - 5 years
+      - Perpetual (unlimited)
+      - Event only
+      required: true
+    - id: 14
+      name: compensation_received
+      label: Compensation Received
+      hint: Did you receive compensation for this appearance?
+      type: select_one
+      options:
+      - Yes, monetary payment
+      - Yes, non-monetary compensation
+      - No, voluntary appearance
+      required: true
+    - id: 15
+      name: likeness_release
+      label: Likeness Release
+      hint: I grant permission to use my image, likeness, and voice
+      type: select_one
+      options:
+      - Yes, I grant full permission
+      - Yes, with restrictions (specify below)
+      - No, I do not grant permission
+      required: true
+    - id: 16
+      name: usage_restrictions
+      label: Usage Restrictions
+      hint: Specify any restrictions on usage
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: liability_release
+      label: Liability Release
+      hint: I release the organization from claims related to recording
+      type: select_one
+      options:
+      - Yes, I release all claims
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

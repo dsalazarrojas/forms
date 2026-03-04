@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Audit Observations Report
+    pages:
+    - id: 1
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: findings
+      label: findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: observations
+      label: observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_items
+      label: action_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_action_date
+      label: next_action_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_action_time
+      label: next_action_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_follow_up_date
+      label: next_follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: next_follow_up_time
+      label: next_follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false

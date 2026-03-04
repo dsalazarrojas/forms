@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Log
+    pages:
+    - id: 1
+      name: log_date
+      label: Log Date
+      hint: Date of this log entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: boat_name
+      label: Boat Name
+      hint: Name of the vessel
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: boat_registration
+      label: Boat Registration Number
+      hint: Official registration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: captain_name
+      label: Captain Name
+      hint: Person in command
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: departure_location
+      label: Departure Location
+      hint: Where did you depart from?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: departure_time
+      label: Departure Time
+      hint: Time of departure
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: destination
+      label: Destination
+      hint: Where are you going?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_arrival
+      label: Estimated Arrival Time
+      hint: Expected time of arrival
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: actual_arrival_time
+      label: Actual Arrival Time
+      hint: Actual time of arrival
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: passengers_count
+      label: Number of Passengers
+      hint: Total passengers on board
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: passenger_names
+      label: Passenger Names
+      hint: List all passengers
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: crew_members
+      label: Crew Members
+      hint: List crew on duty
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fuel_level_departure
+      label: Fuel Level at Departure
+      hint: Gallons or percentage
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: fuel_level_arrival
+      label: Fuel Level at Arrival
+      hint: Gallons or percentage
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fuel_added
+      label: Fuel Added
+      hint: Gallons refueled
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: fuel_cost
+      label: Fuel Cost
+      hint: Total cost of fuel
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: engine_hours_start
+      label: Engine Hours at Start
+      hint: Starting hour reading
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: engine_hours_end
+      label: Engine Hours at End
+      hint: Ending hour reading
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: distance_traveled
+      label: Distance Traveled
+      hint: Nautical miles
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Describe weather during trip
+      type: select_one
+      options:
+      - Sunny/Clear
+      - Partly Cloudy
+      - Overcast
+      - Rain
+      - Storm
+      - Fog
+      - High Winds
+      required: true
+    - id: 21
+      name: sea_conditions
+      label: Sea Conditions
+      hint: Describe sea state
+      type: select_one
+      options:
+      - Calm
+      - Slight
+      - Moderate
+      - Rough
+      - Very Rough
+      - High
+      required: true
+    - id: 22
+      name: wind_speed
+      label: Wind Speed
+      hint: In knots
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issues_encountered
+      label: Issues Encountered
+      hint: Any problems during trip?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_performed
+      label: Maintenance Performed
+      hint: Any maintenance done?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incidents_accidents
+      label: Incidents or Accidents
+      hint: Report any incidents
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: notes_comments
+      label: Notes and Comments
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: submitter_name
+      label: Submitter Name
+      hint: Person completing log
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: submitter_signature
+      label: Submitter Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: submission_date
+      label: Submission Date
+      hint: Date log was submitted
+      type: date
+      options: []
+      required: true

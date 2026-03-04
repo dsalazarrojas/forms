@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Negative COVID 19 Test Reporting Form
+    pages:
+    - id: 1
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: result_details
+      label: Result Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_location
+      label: Patient Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: test_site
+      label: Test Site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_member_email
+      label: Staff Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: staff_member_phone
+      label: Staff Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false

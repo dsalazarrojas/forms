@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Calibration Report Form
+    pages:
+    - id: 1
+      name: machine_calibration_form
+      label: Machine Calibration Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: machine_identifier
+      label: Machine Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: machine_location
+      label: Machine Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_calibration
+      label: Date Of Calibration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_calibration_due
+      label: Next Calibration Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_one
+      options:
+      - Calibrated
+      - Not Calibrated
+      - Pending
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

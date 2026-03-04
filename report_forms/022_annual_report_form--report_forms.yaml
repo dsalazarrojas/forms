@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Report Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company or Organization Name
+      hint: Legal entity name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_year
+      label: Reporting Year
+      hint: Fiscal year being reported
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: report_preparer
+      label: Report Prepared By
+      hint: Name and title of person compiling report
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preparer_email
+      label: Preparer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: preparer_phone
+      label: Preparer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: report_date
+      label: Report Submission Date
+      hint: Date this report is being filed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: executive_summary
+      label: Executive Summary
+      hint: Brief overview of year performance
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: key_highlights
+      label: Key Highlights and Achievements
+      hint: Major accomplishments this year
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: total_revenue
+      label: Total Annual Revenue
+      hint: Gross revenue for the year
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: revenue_change
+      label: Revenue Change from Previous Year
+      hint: Percentage increase or decrease
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_expenses
+      label: Total Annual Expenses
+      hint: Sum of all expenses
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: net_income
+      label: Net Income or Profit
+      hint: Revenue minus expenses
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: expenses_breakdown
+      label: Major expense categories
+      hint: List largest spending areas
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_count
+      label: Total Number of Employees
+      hint: Headcount at year end
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: employee_growth
+      label: Employee Growth Rate
+      hint: Change in headcount from previous year
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: market_performance
+      label: Market Performance Assessment
+      hint: Company position in market
+      type: select_one
+      options:
+      - Improved
+      - Maintained
+      - Declined
+      - New market entry
+      required: true
+    - id: 17
+      name: strategic_initiatives
+      label: Strategic Initiatives Completed
+      hint: Major projects or plans executed
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: new_products
+      label: New Products or Services Launched
+      hint: Additions to product line
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: market_expansion
+      label: Geographic or Market Expansion
+      hint: New markets or regions entered
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: partnerships_formed
+      label: Strategic Partnerships or Acquisitions
+      hint: New partnerships or business combinations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: challenges_faced
+      label: Challenges and Obstacles Faced
+      hint: Difficulties encountered during the year
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: challenges_resolved
+      label: How Challenges Were Addressed
+      hint: Solutions and responses to challenges
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sustainability_initiatives
+      label: Sustainability and Social Responsibility
+      hint: ESG initiatives or community involvement
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: outlook_next_year
+      label: Outlook for Next Year
+      hint: Expectations and goals for coming year
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: financial_position
+      label: Overall Financial Position
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Healthy
+      - Adequate
+      - Challenged
+      - At risk
+      required: true

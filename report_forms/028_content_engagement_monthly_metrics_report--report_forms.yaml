@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Engagement Monthly Metrics Report
+    pages:
+    - id: 1
+      name: report_month
+      label: Report Month
+      hint: Which month is this report for?
+      type: select_one
+      options:
+      - January 2026
+      - February 2026
+      - March 2026
+      - April 2026
+      - May 2026
+      - June 2026
+      - July 2026
+      - August 2026
+      - September 2026
+      - October 2026
+      - November 2026
+      - December 2026
+      required: true
+    - id: 2
+      name: report_year
+      label: Report Year
+      hint: Year of this report
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: prepared_by
+      label: Prepared By
+      hint: Name of person preparing report
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Marketing
+      - Content
+      - Social Media
+      - Analytics
+      - Management
+      required: true
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: Date report was prepared
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_content_pieces
+      label: Total Content Pieces Published
+      hint: Number of content pieces published this month
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: blog_posts_published
+      label: Blog Posts Published
+      hint: Number of blog posts
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: social_posts_published
+      label: Social Media Posts Published
+      hint: Number of social media posts
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: videos_published
+      label: Videos Published
+      hint: Number of videos
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_website_visits
+      label: Total Website Visits
+      hint: Total traffic for the month
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: unique_visitors
+      label: Unique Visitors
+      hint: Number of unique visitors
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: page_views
+      label: Page Views
+      hint: Total page views
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: average_time_on_page
+      label: Average Time on Page
+      hint: Average time in minutes
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: bounce_rate
+      label: Bounce Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_social_engagements
+      label: Total Social Engagements
+      hint: Total likes, shares, comments
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: facebook_likes
+      label: Facebook Likes
+      hint: Number of likes
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: facebook_shares
+      label: Facebook Shares
+      hint: Number of shares
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: instagram_likes
+      label: Instagram Likes
+      hint: Number of likes
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: instagram_comments
+      label: Instagram Comments
+      hint: Number of comments
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: twitter_engagements
+      label: Twitter Engagements
+      hint: Total retweets and likes
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: linkedin_engagements
+      label: LinkedIn Engagements
+      hint: Total reactions and comments
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: email_opens
+      label: Email Opens
+      hint: Number of email opens
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: email_clicks
+      label: Email Clicks
+      hint: Number of email clicks
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: conversion_rate
+      label: Conversion Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: leads_generated
+      label: Leads Generated
+      hint: Number of new leads
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: top_performing_content
+      label: Top Performing Content
+      hint: Which content performed best?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: lowest_performing_content
+      label: Lowest Performing Content
+      hint: Which content performed worst?
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: month_over_month_growth
+      label: Month Over Month Growth
+      hint: Percentage change from last month
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: key_insights
+      label: Key Insights
+      hint: What did you learn this month?
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: recommendations
+      label: Recommendations
+      hint: What actions do you recommend?
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: goals_for_next_month
+      label: Goals for Next Month
+      hint: What are your targets?
+      type: text
+      options: []
+      required: true

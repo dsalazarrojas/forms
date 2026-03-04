@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Recording Release Form
+    pages:
+    - id: 1
+      name: talent_full_name
+      label: Talent Full Name
+      hint: Legal name of person being recorded
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: talent_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: talent_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: talent_address
+      label: Mailing Address
+      hint: Full address for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 years of age or older?
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am a minor
+      required: true
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: producer_company_name
+      label: Producer or Company Name
+      hint: Name of producer or production company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_title
+      label: Project Title
+      hint: Title of the audio project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_type
+      label: Project Type
+      hint: What type of project is this?
+      type: select_one
+      options:
+      - Film
+      - Television
+      - Radio
+      - Podcast
+      - Commercial
+      - Music Recording
+      - Audiobook
+      - Video Game
+      - Other
+      required: true
+    - id: 11
+      name: recording_date
+      label: Recording Date
+      hint: Date of recording session
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: recording_location
+      label: Recording Location
+      hint: Where was the recording made?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: rights_transferred
+      label: Rights Transferred
+      hint: What rights are being transferred?
+      type: select_multiple
+      options:
+      - All intellectual property rights
+      - Distribution rights
+      - Reproduction rights
+      - Public performance rights
+      - Derivative works rights
+      - Digital streaming rights
+      - Broadcast rights
+      required: true
+    - id: 14
+      name: territory
+      label: Territory
+      hint: Geographic scope of rights transfer
+      type: select_one
+      options:
+      - Worldwide
+      - North America
+      - United States
+      - European Union
+      - Specific territory
+      required: true
+    - id: 15
+      name: duration
+      label: Duration
+      hint: How long are rights transferred?
+      type: select_one
+      options:
+      - In perpetuity
+      - 10 years
+      - 5 years
+      - 3 years
+      - 1 year
+      required: true
+    - id: 16
+      name: compensation_received
+      label: Compensation Received
+      hint: What compensation was received?
+      type: select_one
+      options:
+      - Monetary payment
+      - Royalty share
+      - Credit only
+      - No compensation
+      - Other consideration
+      required: true
+    - id: 17
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Amount received in USD (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: moral_rights_waiver
+      label: Moral Rights Waiver
+      hint: I waive any moral rights to the recording
+      type: select_one
+      options:
+      - Yes, I waive moral rights
+      - No, I retain moral rights
+      required: true
+    - id: 19
+      name: liability_release
+      label: Liability Release
+      hint: I release the producer from claims related to the recording
+      type: select_one
+      options:
+      - Yes, I release all claims
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: exclusivity_agreement
+      label: Exclusivity Agreement
+      hint: Is this release exclusive?
+      type: select_one
+      options:
+      - Yes, exclusive release
+      - No, non-exclusive
+      - Limited exclusivity
+      required: true
+    - id: 21
+      name: talent_signature
+      label: Talent Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of release
+      type: date
+      options: []
+      required: true

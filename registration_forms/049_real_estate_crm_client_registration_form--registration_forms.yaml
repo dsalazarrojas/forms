@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: real-estate-crm-client-registration-form
+    pages:
+    - id: 1
+      name: registration_info
+      label: Registration Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: market_info
+      label: Market Info
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Commercial
+      - Industrial
+      required: false
+    - id: 4
+      name: contact_info_2
+      label: Contact Info 2
+      hint: null
+      type: text
+      options: []
+      required: false

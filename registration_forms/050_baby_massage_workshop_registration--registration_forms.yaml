@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Massage Workshop Registration
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_baby_info
+      label: -- Baby Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: baby_name
+      label: Baby's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: baby_date_of_birth
+      label: Baby's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: baby_age_months
+      label: Baby's Age (in months)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: baby_gender
+      label: Baby's Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer not to specify
+      required: false
+    - id: 10
+      name: section_workshop_details
+      label: -- Workshop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workshop_date
+      label: Workshop Date
+      hint: Which session are you registering for?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: workshop_time
+      label: Workshop Time
+      hint: What time does it start?
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: workshop_duration
+      label: Workshop Duration
+      hint: How long is the session?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_experience
+      label: -- Experience and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: prior_massage_experience
+      label: Prior Baby Massage Experience?
+      hint: null
+      type: select_one
+      options:
+      - Yes, have experience
+      - Some experience
+      - No, beginner
+      - Learning for myself only
+      required: false
+    - id: 16
+      name: learning_goals
+      label: What Are Your Learning Goals?
+      hint: What do you hope to learn?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: health_concerns
+      label: Any Baby Health Concerns?
+      hint: Colic, reflux, skin conditions, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: skin_sensitivities
+      label: Skin Sensitivities or Allergies
+      hint: Eczema, allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_logistics
+      label: -- Workshop Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: How many people will attend?
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: additional_children
+      label: Will Other Children Be Attending?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Mobility, hearing, other needs
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: registration_fee
+      label: Registration Fee
+      hint: Cost of workshop
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      - Check
+      - Other
+      required: true
+    - id: 26
+      name: section_consent
+      label: -- Consent and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: health_consent
+      label: Baby is healthy and able to participate?
+      hint: null
+      type: select_one
+      options:
+      - Yes, baby is healthy
+      - No, baby has concerns
+      required: true
+    - id: 28
+      name: waiver_signed
+      label: I agree to liability waiver and terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 29
+      name: photography_consent
+      label: Permission to take photos during workshop?
+      hint: null
+      type: select_one
+      options:
+      - Yes, can be photographed
+      - No, prefer not to
+      required: false
+    - id: 30
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scroll Website Design Request Form
+    pages:
+    - id: 1
+      name: website_name
+      label: Website Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: design_style
+      label: Design Style
+      hint: null
+      type: select_one
+      options:
+      - style_1
+      - style_2
+      - style_3
+      required: false
+    - id: 5
+      name: colors
+      label: Colors
+      hint: null
+      type: select_multiple
+      options:
+      - color_1
+      - color_2
+      - color_3
+      required: false
+    - id: 6
+      name: font_size
+      label: Font Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: background_image
+      label: Background Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Name and Email
+      hint: null
+      type: select_one
+      options:
+      - submitter_1
+      - submitter_2
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

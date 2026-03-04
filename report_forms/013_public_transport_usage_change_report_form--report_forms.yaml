@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Transport Usage Change Report Form
+    pages:
+    - id: 1
+      name: public_transport_usage_change_report_form
+      label: Public Transport Usage Change Report Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_improvement
+      label: Service Improvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rider_feedback
+      label: Rider Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transit_usage_change
+      label: Transit Usage Change
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: service_improvement_idea
+      label: Service Improvement Idea
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Rider email
+      type: email
+      options: []
+      required: false

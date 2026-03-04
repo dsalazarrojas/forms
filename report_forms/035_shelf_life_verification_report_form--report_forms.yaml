@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Life Verification Report Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: batch_id
+      label: Batch ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: result
+      label: Result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Passed''}'
+      - '{''label'': ''Failed''}'
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evidence_files
+      label: Evidence Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true

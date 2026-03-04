@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Heritage Interview Recording Consent
+    pages:
+    - id: 1
+      name: cultural_heritage_interview_recording_consent
+      label: Cultural Heritage Interview Recording Consent
+      hint: This form collects recording permissions from cultural heritage interview
+        subjects.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent to be recorded.
+      - No, I do not consent to be recorded.
+      required: false
+    - id: 4
+      name: audio_recording_consent
+      label: Audio Recording Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: video_recording_consent
+      label: Video Recording Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: photo_graphic_consent
+      label: PhotoGRAPHIC Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: recording_start_time
+      label: Recording Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: recording_end_time
+      label: Recording End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: recording_duration
+      label: Recording Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recording_date
+      label: Recording Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: recording_time
+      label: Recording Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recording_device
+      label: Recording Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recording_conditions
+      label: Recording Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recording_conditions_yes_no
+      label: Recording Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: recording_conditions_notes
+      label: Recording Conditions Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recording_terms_and_conditions
+      label: Recording Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false

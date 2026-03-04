@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Common Request Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: For follow-up and status updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_department
+      label: Your Department/Organization
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_request_details
+      label: -- Request Details --
+      hint: Please provide as much information as possible.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: request_category
+      label: Category of Request
+      hint: Select the most relevant category
+      type: select_one
+      options:
+      - IT Support
+      - Maintenance/Facilities
+      - HR/Payroll
+      - Marketing/Communications
+      - Purchasing/Procurement
+      - Legal/Compliance
+      - General Inquiry
+      required: true
+    - id: 8
+      name: request_subject_title
+      label: Brief Subject or Title of Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: request_detailed_description
+      label: Detailed Description of the Request
+      hint: What do you need help with?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level
+      label: Urgency Level
+      hint: Please select the impact of this request
+      type: select_one
+      options:
+      - High (Immediate attention required)
+      - Medium (Within 24-48 hours)
+      - Low (Non-urgent/Routine)
+      required: true
+    - id: 11
+      name: deadline_requested
+      label: Requested Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: section_attachments_refs
+      label: -- Attachments and References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: attachment_file_names
+      label: Description of Any Supporting Documents
+      hint: List filenames or links to files
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reference_number_related
+      label: Any Related Ticket or Project Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_submission_final
+      label: -- Final Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_contact_method
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - In-person Visit
+      required: true
+    - id: 17
+      name: submission_date_request
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_comments_req
+      label: Any Additional Comments for the Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: acknowledgment_receipt_req
+      label: I understand that my request will be reviewed and I will be contacted
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: marketing_and_design_request_form
+    pages:
+    - id: 1
+      name: form_request
+      label: Form Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_request
+      label: Design Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: marketing_channels
+      label: Marketing Channels
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: marketing_budget
+      label: Marketing Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: deadline_date
+      label: Deadline Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: deadline_time
+      label: Deadline Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_manager
+      label: Assigned Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

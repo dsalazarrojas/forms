@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_data_accuracy_report_form
+    pages:
+    - id: 1
+      name: discrepancies
+      label: discrepancies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: severity_rating
+      label: severity_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: attach_evidence
+      label: attach_evidence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: corrective_actions
+      label: corrective_actions
+      hint: null
+      type: note
+      options: []
+      required: false

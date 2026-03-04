@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Forecast Request Contact Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '123'
+      - '456'
+      required: false
+    - id: 3
+      name: form_3
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Supply
+      - Demand
+      required: false
+    - id: 4
+      name: form_4
+      label: Supply Request
+      hint: null
+      type: select_multiple
+      options:
+      - Supply
+      - Demand
+      required: false
+    - id: 5
+      name: form_5
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 6
+      name: form_6
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

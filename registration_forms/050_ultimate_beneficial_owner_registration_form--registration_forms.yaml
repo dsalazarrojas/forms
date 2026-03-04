@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ultimate Beneficial Owner Registration Form
+    pages:
+    - id: 1
+      name: legal_entity
+      label: legal_entity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_date_of_birth
+      label: owner_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: owner_nationality
+      label: owner_nationality
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: owner_id_number
+      label: owner_id_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: owner_residence
+      label: owner_residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_position
+      label: owner_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_relationship
+      label: owner_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: beneficial_owner_type
+      label: beneficial_owner_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: beneficial_owner_shareholding
+      label: beneficial_owner_shareholding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: beneficial_owner_ownership_type
+      label: beneficial_owner_ownership_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: ultimate_beneficial_owner_id
+      label: ultimate_beneficial_owner_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: ultimate_beneficial_owner_date
+      label: ultimate_beneficial_owner_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: ultimate_beneficial_owner_shareholding
+      label: ultimate_beneficial_owner_shareholding
+      hint: null
+      type: number
+      options: []
+      required: false

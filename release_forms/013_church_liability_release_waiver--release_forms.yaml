@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Liability Release Waiver
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name of participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Participant Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_activity
+      label: Event or Activity
+      hint: What are you participating in
+      type: select_one
+      options:
+      - Youth Retreat
+      - Mission Trip
+      - Sports Event
+      - Outdoor Adventure
+      - Community Service
+      - Church Trip
+      - Other Church Activity
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date(s)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Sibling
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Do You Have Any Medical Conditions
+      hint: That we should be aware of
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: medical_conditions_detail
+      label: Please Describe Medical Conditions
+      hint: Include allergies, medications, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assumption_of_risk
+      label: Assumption of Risk Acknowledgment
+      hint: I understand there are risks involved
+      type: select_one
+      options:
+      - I acknowledge and accept all risks
+      - I do not accept
+      required: true
+    - id: 15
+      name: release_of_liability
+      label: Release of Liability Agreement
+      hint: I release the church from liability
+      type: select_one
+      options:
+      - I agree to release liability
+      - I do not agree
+      required: true
+    - id: 16
+      name: medical_treatment_consent
+      label: Consent for Medical Treatment
+      hint: In case of emergency
+      type: select_one
+      options:
+      - I consent to emergency medical treatment
+      - I do not consent
+      required: true
+    - id: 17
+      name: photo_release
+      label: Photo and Video Release
+      hint: Church may use photos for publicity
+      type: select_one
+      options:
+      - I grant permission
+      - I do not grant permission
+      required: true
+    - id: 18
+      name: code_of_conduct
+      label: Code of Conduct Agreement
+      hint: I agree to follow church rules
+      type: select_one
+      options:
+      - I agree to follow the code of conduct
+      - I do not agree
+      required: true
+    - id: 19
+      name: transportation_consent
+      label: Transportation Consent
+      hint: Permission for church transportation
+      type: select_one
+      options:
+      - I consent to church transportation
+      - I will provide own transportation
+      required: true
+    - id: 20
+      name: guardian_name
+      label: Parent/Guardian Name (if minor)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: guardian_signature
+      label: Parent/Guardian Signature (if minor)
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

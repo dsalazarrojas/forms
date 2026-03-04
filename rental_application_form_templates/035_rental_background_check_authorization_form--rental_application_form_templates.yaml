@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Background Check Authorization Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: rental_unit_number
+      label: Rental Unit Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rental_agent_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: background_check_results
+      label: Background Check Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: rental_agent_signature
+      label: Property Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: true

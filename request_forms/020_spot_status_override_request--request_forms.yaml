@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spot Status Override Request
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: facility_id
+      label: Facility Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: spot_id
+      label: Spot Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: status_id
+      label: Status Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: false

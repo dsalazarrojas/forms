@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Manufacturing Efficiency Report Form
+    pages:
+    - id: 1
+      name: production_shift
+      label: production_shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: work_center
+      label: work_center
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Machine 1''}'
+      - '{''id'': 2, ''name'': ''Machine 2''}'
+      - '{''id'': 3, ''name'': ''Machine 3''}'
+      required: false
+    - id: 3
+      name: production_time
+      label: production_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: machine_id
+      label: machine_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Machine 1''}'
+      - '{''id'': 2, ''name'': ''Machine 2''}'
+      - '{''id'': 3, ''name'': ''Machine 3''}'
+      required: false
+    - id: 5
+      name: production_date
+      label: production_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: production_hours_per_shift
+      label: production_hours_per_shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: shift_length
+      label: shift_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_parts_produced
+      label: total_parts_produced
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_parts_inspected
+      label: total_parts_inspected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_parts_defective
+      label: total_parts_defective
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_parts_reworked
+      label: total_parts_reworked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_parts_rejected
+      label: total_parts_rejected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_parts_suspended
+      label: total_parts_suspended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: production_rate
+      label: production_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shift
+      label: shift
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Day Shift''}'
+      - '{''id'': 2, ''name'': ''Night Shift''}'
+      required: false
+    - id: 18
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Supervisor 1''}'
+      - '{''id'': 2, ''name'': ''Supervisor 2''}'
+      - '{''id'': 3, ''name'': ''Supervisor 3''}'
+      required: false
+    - id: 19
+      name: production_notes
+      label: production_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_order_number
+      label: work_order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lot_number
+      label: lot_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: production_run
+      label: production_run
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': 1}'
+      - '{''id'': 2, ''name'': 2}'
+      - '{''id'': 3, ''name'': 3}'
+      required: false
+    - id: 23
+      name: production_code
+      label: production_code
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''A''}'
+      - '{''id'': 2, ''name'': ''B''}'
+      - '{''id'': 3, ''name'': ''C''}'
+      required: false
+    - id: 24
+      name: production_id
+      label: production_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Timesheet Template
+    pages:
+    - id: 1
+      name: employee_workweek
+      label: Employee Work Week
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pay_rate
+      label: Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pay_frequency_type
+      label: Pay Frequency Type
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Annually
+      required: false
+    - id: 8
+      name: pay_start_date
+      label: Pay Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: pay_end_date
+      label: Pay End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_work_status
+      label: Employee Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Leave
+      required: false
+    - id: 16
+      name: pay_status
+      label: Pay Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

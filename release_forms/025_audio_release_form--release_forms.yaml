@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Release Form
+    pages:
+    - id: 1
+      name: assignor_full_name
+      label: Assignor Full Name
+      hint: Legal name of person transferring rights
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assignor_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: assignor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assignor_address
+      label: Mailing Address
+      hint: Full address for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assignee_name
+      label: Assignee Name
+      hint: Name of person or company receiving rights
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assignee_company
+      label: Assignee Company
+      hint: Company name (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: Date of this release agreement
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: audio_work_title
+      label: Audio Work Title
+      hint: Title of the audio work being released
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: audio_work_description
+      label: Audio Work Description
+      hint: Brief description of the audio work
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: creation_date
+      label: Creation Date
+      hint: When was the work created?
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: work_type
+      label: Work Type
+      hint: What type of audio work is this?
+      type: select_one
+      options:
+      - Musical composition
+      - Sound recording
+      - Spoken word
+      - Sound effects library
+      - Podcast episode
+      - Audiobook
+      - Jingle or commercial
+      - Other
+      required: true
+    - id: 12
+      name: rights_transferred
+      label: Rights Transferred
+      hint: What rights are being transferred?
+      type: select_multiple
+      options:
+      - Copyright ownership
+      - Master recording rights
+      - Publishing rights
+      - Performance rights
+      - Mechanical rights
+      - Synchronization rights
+      - Digital distribution rights
+      - All rights
+      required: true
+    - id: 13
+      name: territory_scope
+      label: Territory Scope
+      hint: Geographic scope of transfer
+      type: select_one
+      options:
+      - Worldwide
+      - North America
+      - United States
+      - European Union
+      - Specific territory
+      required: true
+    - id: 14
+      name: duration_of_transfer
+      label: Duration of Transfer
+      hint: How long are rights transferred?
+      type: select_one
+      options:
+      - In perpetuity
+      - 99 years
+      - 50 years
+      - 25 years
+      - 10 years
+      required: true
+    - id: 15
+      name: consideration_amount
+      label: Consideration Amount
+      hint: Payment amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: How is payment structured?
+      type: select_one
+      options:
+      - Lump sum payment
+      - Installment plan
+      - Royalty based
+      - Advance against royalties
+      - Other
+      required: true
+    - id: 17
+      name: writer_share_retained
+      label: Writer Share Retained
+      hint: Are you retaining any writer share?
+      type: select_one
+      options:
+      - No, all rights transferred
+      - Yes, retaining writer share
+      - Yes, retaining performance share
+      - Yes, retaining other rights
+      required: true
+    - id: 18
+      name: moral_rights_waived
+      label: Moral Rights Waived
+      hint: Are moral rights being waived?
+      type: select_one
+      options:
+      - Yes, moral rights waived
+      - No, moral rights retained
+      - Partially waived
+      required: true
+    - id: 19
+      name: warranties_confirmed
+      label: Warranties Confirmed
+      hint: I warrant I own the rights and can transfer them
+      type: select_one
+      options:
+      - Yes, I confirm all warranties
+      - No, I cannot confirm
+      required: true
+    - id: 20
+      name: indemnification_agreement
+      label: Indemnification Agreement
+      hint: I agree to indemnify against claims
+      type: select_one
+      options:
+      - Yes, I agree to indemnify
+      - No, I do not agree
+      required: true
+    - id: 21
+      name: assignor_signature
+      label: Assignor Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of release
+      type: date
+      options: []
+      required: true

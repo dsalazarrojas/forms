@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Walking Report Form
+    pages:
+    - id: 1
+      name: visit_info
+      label: Visit Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_info
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visit_details
+      label: Visit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: walk_date
+      label: Walk Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: walk_duration
+      label: Walk Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: walk_distance
+      label: Walk Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weather
+      label: Weather
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Fog
+      - Rain
+      - Snow
+      - Sunny
+      - Windy
+      required: false
+    - id: 11
+      name: route
+      label: Route
+      hint: null
+      type: select_multiple
+      options:
+      - Park
+      - Beach
+      - Woods
+      - Home
+      - Other
+      required: false
+    - id: 12
+      name: dog_condition
+      label: Dog Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: walker_notes
+      label: Walker Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: client_updates
+      label: Client Updates
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: dog_id
+      label: Dog Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: dog_name
+      label: Dog Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dog_age
+      label: Dog Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: dog_health_condition
+      label: Dog Health Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 20
+      name: vet_notes
+      label: Vet Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: walker_phone
+      label: Walker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: walker_email
+      label: Walker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: walk_status
+      label: Walk Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      - In Progress
+      required: false

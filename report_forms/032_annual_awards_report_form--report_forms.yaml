@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Awards Report Form
+    pages:
+    - id: 1
+      name: reporting_entity_header
+      label: -- Reporting Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of the organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_name
+      label: Department or Division Name
+      hint: Department submitting report
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporting_person_name
+      label: Reporting Person Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporting_person_title
+      label: Position or Title
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_period_header
+      label: -- Reporting Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reporting_year
+      label: Reporting Year
+      hint: What year is this report for
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: report_submission_date
+      label: Report Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: awards_summary_header
+      label: -- Awards Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_awards_given
+      label: Total Number of Awards Given
+      hint: Count of all awards presented
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_categories
+      label: Number of Award Categories
+      hint: How many different categories
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_recipients
+      label: Total Number of Award Recipients
+      hint: Count of people who won awards
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: ceremony_details_header
+      label: -- Ceremony Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ceremony_date
+      label: Awards Ceremony Date
+      hint: When was the ceremony held
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: ceremony_location
+      label: Ceremony Location
+      hint: Where was the ceremony
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attendance_count
+      label: Number of Attendees
+      hint: How many people attended
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: highlights_header
+      label: -- Event Highlights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: ceremony_highlights
+      label: Key Highlights of the Ceremony
+      hint: Notable moments or achievements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: standout_moments
+      label: Most Memorable Moments
+      hint: Special or significant moments
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: impact_header
+      label: -- Impact and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: award_impact
+      label: Impact of Awards on Organization
+      hint: How did awards affect the organization
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recipient_feedback
+      label: Recipient Feedback or Testimonials
+      hint: Comments from award winners
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: future_recommendations
+      label: Recommendations for Next Year
+      hint: Improvements or suggestions
+      type: text
+      options: []
+      required: false

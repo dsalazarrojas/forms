@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom-greeting-card-design-request
+    pages:
+    - id: 1
+      name: style_preferences
+      label: Style Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: card_size
+      label: Card Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: message_type
+      label: Message Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: font_style
+      label: Font Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: card_message
+      label: Card Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CRM Support Ticket Form
+    pages:
+      - id: 1
+        name: reporter_name
+        label: Reporter name
+        hint: Person filing the ticket
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: reporter_email
+        label: Reporter email
+        hint: For follow up
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: issue_category
+        label: Issue category
+        hint: Choose the area affected
+        type: select_one
+        options:
+          - Data issue
+          - Access problem
+          - Integration failure
+          - UI bug
+        required: true
+      - id: 4
+        name: priority
+        label: Priority
+        hint: Impact on operations
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 5
+        name: description
+        label: Issue description
+        hint: Provide steps to reproduce if applicable
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: attachment_reference
+        label: Attachment reference or link
+        hint: Optional screenshot or log link
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: expected_resolution_date
+        label: Expected resolution date
+        hint: If known provide target date
+        type: date
+        options: []
+        required: false
+      - id: 8
+        name: follow_up_notes
+        label: Follow up notes
+        hint: Internal use
+        type: text
+        options: []
+        required: false

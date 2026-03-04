@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wastewater Treatment Output Report Form
+    pages:
+    - id: 1
+      name: plant_performance
+      label: Plant Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: wastewater_influent
+      label: Wastewater Influent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wastewater_treatment
+      label: Wastewater Treatment
+      hint: null
+      type: select_one
+      options:
+      - Chemical
+      - Biological
+      required: false
+    - id: 4
+      name: effluent_quality
+      label: Effluent Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: turbidity
+      label: Turbidity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ph
+      label: pH
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: flow_rate
+      label: Flow Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_capacity
+      label: Treatment Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: treatment_capacity_units
+      label: Treatment Capacity Units
+      hint: null
+      type: select_one
+      options:
+      - Ml/min
+      - m3/d
+      required: false
+    - id: 11
+      name: treatment_capacity_status
+      label: Treatment Capacity Status
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

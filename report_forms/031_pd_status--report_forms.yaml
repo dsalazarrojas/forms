@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: pd_status
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pd_status
+      label: pd_status
+      hint: null
+      type: select_one
+      options:
+      - status_1
+      - status_2
+      - status_3
+      required: false
+    - id: 4
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 5
+      name: pd_note
+      label: pd_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pd_phone
+      label: pd_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false

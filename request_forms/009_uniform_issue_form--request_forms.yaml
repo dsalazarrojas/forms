@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Issue Form
+    pages:
+    - id: 1
+      name: user_input_group
+      label: User Input Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_label
+      label: Group Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_label
+      label: User Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_issued
+      label: Date Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_serial
+      label: Equipment Serial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_cost
+      label: Equipment Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: issued_by
+      label: Issued By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 10
+      name: equipment_count
+      label: Equipment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issued_to
+      label: Issued To
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      required: false

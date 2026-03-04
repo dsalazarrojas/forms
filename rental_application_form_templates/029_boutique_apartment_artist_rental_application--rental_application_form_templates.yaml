@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Apartment Artist Rental Application
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_full_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone_no
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: portfolio_url
+      label: Website / Portfolio URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: artistic_practice_header
+      label: -- Artistic Practice --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: med_select
+      label: Primary Medium
+      hint: null
+      type: select_one
+      options:
+      - Painting / Drawing
+      - Sculpture
+      - Photography
+      - Digital Art
+      - Performance
+      - Music
+      - Writing
+      required: true
+    - id: 8
+      name: statement_text
+      label: Brief Artist Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: duration_select
+      label: Desired Residency Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      required: true
+    - id: 10
+      name: rental_housing_header
+      label: -- Rental and Housing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: move_in_dt
+      label: Preferred Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: studio_req
+      label: Do you require a separate studio space?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Integrated
+      - Yes - Separate
+      - false
+      required: true
+    - id: 13
+      name: occupants_val
+      label: Number of Occupants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: references_header
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: prof_ref
+      label: Professional / Artistic Reference Name and Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: land_ref
+      label: Previous Landlord Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: portfolio_header
+      label: -- Portfolio Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: portfolio_link_val
+      label: Link to high-resolution portfolio images
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submission_dt
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

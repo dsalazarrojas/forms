@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech User Testimonial Release Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: testimonial
+      label: Testimonial
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: publish_permission
+      label: Publish Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: publish_medium
+      label: Publish Medium
+      hint: Select all that apply
+      type: select_one
+      options:
+      - Website
+      - Blog
+      - Newsletter
+      - Social Media
+      - Email Marketing
+      required: true
+    - id: 5
+      name: testimonial_content
+      label: Testimonial Content
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

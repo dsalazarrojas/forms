@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inhalant Abuse Incident Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suspect_inhalant_use
+      label: Suspect Inhalant Use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspect_employer
+      label: Suspect Employer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: suspect_employer_employees
+      label: Suspect Employer Employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: suspect_job_title
+      label: Suspect Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suspect_work_site
+      label: Suspect Work Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suspect_phone
+      label: Suspect Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suspect_work_phone
+      label: Suspect Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suspect_email
+      label: Suspect Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: suspect_address
+      label: Suspect Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: suspect_work_address
+      label: Suspect Work Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suspect_employer_address
+      label: Suspect Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: suspect_job_title_employer
+      label: Suspect Job Title Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: suspect_employer
+      label: Suspect Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: suspect_dui
+      label: Suspect DUI
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: suspect_drug_screen
+      label: Suspect Drug Screen
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: suspect_last_dui_date
+      label: Suspect Last DUI Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: suspect_last_drug_screen_date
+      label: Suspect Last Drug Screen Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: suspect_last_drug_screen_result
+      label: Suspect Last Drug Screen Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: suspect_license_class
+      label: Suspect License Class
+      hint: null
+      type: text
+      options: []
+      required: false

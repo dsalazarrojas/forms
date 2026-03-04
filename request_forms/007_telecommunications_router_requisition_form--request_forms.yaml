@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunications Router Requisition Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: router_type
+      label: router_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cisco'', ''value'': ''cisco''}'
+      - '{''label'': ''Huawei'', ''value'': ''huawei''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: router_model
+      label: router_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''IT Department'', ''value'': ''it_department''}'
+      - '{''label'': ''Operations'', ''value'': ''operations''}'
+      required: false
+    - id: 10
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: router_status
+      label: router_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''label'': ''Rejected'', ''value'': ''rejected''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_report_form
+    pages:
+    - id: 1
+      name: service_report_form_page
+      label: Service Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: air_conditioning_system_id
+      label: air conditioning system
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: last_service_date
+      label: Last Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_service_schedule
+      label: Next Service Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_service_notes
+      label: Next Service Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: technician_name
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technician_notes
+      label: Technician Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: equipment_status
+      label: equipment status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''new'', ''label'': ''New''}'
+      - '{''id'': 2, ''name'': ''refurbished'', ''label'': ''Refurbished''}'
+      - '{''id'': 3, ''name'': ''used'', ''label'': ''Used''}'
+      - '{''id'': 4, ''name'': ''obsolete'', ''label'': ''Obsolete''}'
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_user
+      label: Submitted User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_user_email
+      label: Submitted User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitted_user_phone
+      label: Submitted User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_user_name
+      label: Submitted User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_user_department
+      label: Submitted User Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_user_title
+      label: Submitted User Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_user_jobtitle
+      label: Submitted User Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_user_notes
+      label: Submitted User Notes
+      hint: null
+      type: note
+      options: []
+      required: false

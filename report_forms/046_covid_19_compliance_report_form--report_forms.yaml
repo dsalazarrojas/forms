@@ -1,0 +1,326 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Compliance Report Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: Healthcare facility name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_address
+      label: Facility Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_type
+      label: Facility Type
+      hint: Type of healthcare facility
+      type: select_one
+      options:
+      - Hospital
+      - Nursing home
+      - Assisted living
+      - Home health agency
+      - Hospice
+      - Dialysis center
+      - Outpatient clinic
+      - Other
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Person
+      hint: Reporting contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporting_period
+      label: Reporting Period
+      hint: Time period covered
+      type: select_one
+      options:
+      - Weekly report
+      - Monthly report
+      - Quarterly report
+      - Annual report
+      required: true
+    - id: 9
+      name: period_start_date
+      label: Period Start Date
+      hint: Beginning of period
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: period_end_date
+      label: Period End Date
+      hint: End of period
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: report_date
+      label: Report Date
+      hint: Date submitted
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_header_1
+      label: -- Staff Vaccination Status --
+      hint: Healthcare personnel data
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_healthcare_personnel
+      label: Total Healthcare Personnel
+      hint: Number of staff
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: fully_vaccinated_staff
+      label: Fully Vaccinated Staff
+      hint: Completed primary series
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: boosted_staff
+      label: Boosted Staff
+      hint: Received booster dose
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: medically_exempt_staff
+      label: Medically Exempt Staff
+      hint: With medical exemption
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: religiously_exempt_staff
+      label: Religiously Exempt Staff
+      hint: With religious exemption
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: unvaccinated_staff
+      label: Unvaccinated Staff
+      hint: No doses received
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_header_2
+      label: -- Patient Vaccination Status --
+      hint: Patient data
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: total_patients
+      label: Total Patients
+      hint: Current census
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: fully_vaccinated_patients
+      label: Fully Vaccinated Patients
+      hint: Completed primary series
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: boosted_patients
+      label: Boosted Patients
+      hint: Received booster
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: medically_exempt_patients
+      label: Medically Exempt Patients
+      hint: With medical exemption
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: unvaccinated_patients
+      label: Unvaccinated Patients
+      hint: Not vaccinated
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: section_header_3
+      label: -- COVID-19 Cases --
+      hint: Infection data
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: new_staff_cases
+      label: New Staff Cases
+      hint: Positive cases this period
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: new_patient_cases
+      label: New Patient Cases
+      hint: Positive cases this period
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: staff_hospitalizations
+      label: Staff Hospitalizations
+      hint: Due to COVID-19
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: patient_hospitalizations
+      label: Patient Hospitalizations
+      hint: Due to COVID-19
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: staff_deaths
+      label: Staff Deaths
+      hint: COVID-19 related
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: patient_deaths
+      label: Patient Deaths
+      hint: COVID-19 related
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: section_header_4
+      label: -- Compliance Measures --
+      hint: Safety protocols
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: masking_policy
+      label: Masking Policy
+      hint: Current requirements
+      type: select_one
+      options:
+      - Universal masking required
+      - Masking for unvaccinated
+      - Masking recommended
+      - No masking requirement
+      required: true
+    - id: 34
+      name: screening_policy
+      label: Screening Policy
+      hint: Health screening
+      type: select_one
+      options:
+      - Daily screening for all
+      - Screening for symptomatic
+      - Weekly testing
+      - No screening
+      required: true
+    - id: 35
+      name: ppe_availability
+      label: PPE Availability
+      hint: Supply status
+      type: select_one
+      options:
+      - Adequate supply
+      - Limited supply
+      - Critical shortage
+      required: true
+    - id: 36
+      name: outbreak_status
+      label: Outbreak Status
+      hint: Current situation
+      type: select_one
+      options:
+      - No outbreak
+      - Contained outbreak
+      - Active outbreak
+      - Recent outbreak - resolved
+      required: true
+    - id: 37
+      name: compliance_issues
+      label: Compliance Issues
+      hint: Any violations
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: corrective_actions
+      label: Corrective Actions Taken
+      hint: Steps to address issues
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: administrator_name
+      label: Administrator Name
+      hint: Facility administrator
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: administrator_signature
+      label: Administrator Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Closet Door Installation Request
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Customer or property owner name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_property
+      label: -- Property Information --
+      hint: Details about the location
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, Zip
+      hint: Location details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential - Single Family
+      - Residential - Apartment
+      - Residential - Condo
+      - Commercial Office
+      - Retail
+      - Other
+      required: true
+    - id: 8
+      name: section_closet
+      label: -- Closet Details --
+      hint: Specifications of the closet
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: closet_location
+      label: Location of Closet
+      hint: Which room or area
+      type: select_one
+      options:
+      - Master bedroom
+      - Secondary bedroom
+      - Entryway
+      - Hallway
+      - Utility room
+      - Other
+      required: true
+    - id: 10
+      name: closet_type
+      label: Current Closet Type
+      hint: What exists now
+      type: select_one
+      options:
+      - Open shelving
+      - Curtain rod
+      - No doors
+      - Bifold doors
+      - Sliding doors
+      - Swinging doors
+      - Other
+      required: true
+    - id: 11
+      name: opening_width
+      label: Closet Opening Width
+      hint: Width in inches or feet
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: opening_height
+      label: Closet Opening Height
+      hint: Height in inches or feet
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_door_type
+      label: -- Door Type and Style --
+      hint: Choose your preferred door style
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: desired_door_type
+      label: Desired Door Type
+      hint: null
+      type: select_one
+      options:
+      - Bifold doors
+      - Sliding bypass doors
+      - Swinging hinged doors
+      - Pocket doors
+      - Louvered doors
+      - Mirrored doors
+      - Custom doors
+      required: true
+    - id: 15
+      name: door_material
+      label: Preferred Material
+      hint: null
+      type: select_one
+      options:
+      - Wood
+      - Composite
+      - Plastic or vinyl
+      - Glass or frosted
+      - Metal frame
+      - Other
+      required: true
+    - id: 16
+      name: door_finish
+      label: Preferred Finish or Color
+      hint: White, natural wood, dark stain, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: mirrored_preference
+      label: Do you want a mirrored surface
+      hint: null
+      type: select_one
+      options:
+      - Yes, full mirror
+      - Yes, partial mirror
+      - No mirror needed
+      - Not sure
+      required: false
+    - id: 18
+      name: section_timeline
+      label: -- Installation Timeline --
+      hint: When do you need this done
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_date
+      label: Preferred Installation Date
+      hint: When would you like the work completed
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: timeline_flexibility
+      label: How flexible is your timeline
+      hint: null
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Prefer soon
+      - Urgent - within 1 week
+      - Not flexible - fixed date
+      required: true
+    - id: 21
+      name: access_availability
+      label: Availability for installer access
+      hint: null
+      type: select_one
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      - Flexible anytime
+      - Limited availability
+      required: true
+    - id: 22
+      name: section_budget
+      label: -- Budget and Preferences --
+      hint: Your preferences and constraints
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: budget_range
+      label: Approximate Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 200
+      - 200-500
+      - 500-1000
+      - 1000-2000
+      - Over 2000
+      - Flexible
+      required: false
+    - id: 24
+      name: additional_work
+      label: Any additional work or modifications needed
+      hint: Shelving, hardware, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional notes or questions
+      hint: null
+      type: text
+      options: []
+      required: false

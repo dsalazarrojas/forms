@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Sales Report
+    pages:
+    - id: 1
+      name: daily_sales_report_form_1
+      label: sales_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: daily_sales_report_form_2
+      label: customer_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: daily_sales_report_form_3
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: daily_sales_report_form_4
+      label: sales_person
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Jack
+      required: true
+    - id: 5
+      name: daily_sales_report_form_5
+      label: sales_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: daily_sales_report_form_6
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: daily_sales_report_form_7
+      label: daily
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: daily_sales_report_form_8
+      label: week
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 9
+      name: daily_sales_report_form_9
+      label: month
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      required: true
+    - id: 10
+      name: daily_sales_report_form_10
+      label: year
+      hint: null
+      type: select_one
+      options:
+      - '2024'
+      - '2025'
+      - '2026'
+      required: true
+    - id: 11
+      name: daily_sales_report_form_11
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: daily_sales_report_form_12
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: daily_sales_report_form_13
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

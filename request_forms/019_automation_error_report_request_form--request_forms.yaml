@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Error Report Request Form
+    pages:
+    - id: 1
+      name: section_header_reporter
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reporter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_error
+      label: -- Error Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: error_title
+      label: Error Title or Summary
+      hint: Brief description of what went wrong
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: error_date
+      label: Date Error Occurred
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: error_time
+      label: Time Error Occurred
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: error_type
+      label: Type of Error
+      hint: null
+      type: select_one
+      options:
+      - System Crash
+      - Performance Issue
+      - Data Loss
+      - Connection Failure
+      - Authentication Error
+      - Configuration Error
+      - Integration Failure
+      - Other
+      required: true
+    - id: 11
+      name: error_severity
+      label: Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 12
+      name: section_header_system
+      label: -- System Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: affected_system
+      label: Affected System or Application
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: system_version
+      label: System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: environment
+      label: Environment
+      hint: null
+      type: select_one
+      options:
+      - Development
+      - Testing
+      - Staging
+      - Production
+      required: true
+    - id: 16
+      name: section_header_description
+      label: -- Error Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: error_description
+      label: Detailed Error Description
+      hint: What exactly happened? Include error messages if available
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: reproduction_steps
+      label: Steps to Reproduce
+      hint: How can we recreate this error?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: error_message
+      label: Error Message or Code
+      hint: Exact error message displayed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_impact
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: users_affected
+      label: Number of Users Affected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: data_affected
+      label: Data Affected
+      hint: What data or processes are impacted?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: workaround_available
+      label: Is There a Workaround
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 24
+      name: workaround_description
+      label: Workaround Description
+      hint: If yes, describe the temporary solution
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true

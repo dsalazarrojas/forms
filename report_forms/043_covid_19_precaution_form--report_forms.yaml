@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Precaution Form
+    pages:
+    - id: 1
+      name: section_organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Healthcare facility
+      - School or University
+      - Government office
+      - Community center
+      - Other
+      required: true
+    - id: 4
+      name: location
+      label: Location or Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reporting_person
+      label: Reporting Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_precautions_implemented
+      label: -- Precautions Implemented --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: precautions
+      label: COVID-19 Precautions in Place
+      hint: null
+      type: select_multiple
+      options:
+      - Mask requirements
+      - Social distancing markers
+      - Handwashing stations
+      - Sanitizing stations
+      - Ventilation improvements
+      - Capacity restrictions
+      - Temperature screening
+      - Health questionnaires
+      - PPE availability
+      - Isolation areas
+      - Remote work options
+      - Other
+      required: true
+    - id: 9
+      name: section_staff_practices
+      label: -- Staff Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: staff_training
+      label: Staff trained on COVID-19 safety?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 11
+      name: mask_compliance
+      label: Mask compliance level among staff
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: cleaning_protocol
+      label: Enhanced cleaning protocols in place?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: section_incident_reporting
+      label: -- Incident Reporting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: covid_cases
+      label: COVID-19 cases reported in past 30 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 15
+      name: case_count
+      label: Number of cases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: exposure_incidents
+      label: Exposure incidents reported?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: incident_details
+      label: Details of incidents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_communication
+      label: -- Communication and Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: communication_plan
+      label: Communication plan to staff and public?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: updates_frequency
+      label: Frequency of updates
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - As needed
+      required: false
+    - id: 21
+      name: section_additional_notes
+      label: -- Additional Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: additional_measures
+      label: Additional COVID-19 precautions or concerns
+      hint: null
+      type: text
+      options: []
+      required: false

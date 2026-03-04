@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Tax Organizer Form
+    pages:
+    - id: 1
+      name: rental_property_organizer_form_title
+      label: rental-property-organizer-form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: property-type
+      hint: null
+      type: select_one
+      options:
+      - Property A
+      - Property B
+      - Property C
+      required: false
+    - id: 4
+      name: tax_period
+      label: tax-period
+      hint: null
+      type: select_multiple
+      options:
+      - January to April
+      - May to August
+      - September to December
+      required: false
+    - id: 5
+      name: gross_income
+      label: gross-income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: deductions
+      label: deductions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_rate
+      label: tax-rate
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: other_income
+      label: other-income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: other_deductions
+      label: other-deductions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tax_inspector_name
+      label: tax-inspector-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_inspector_phone
+      label: tax-inspector-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_inspector_email
+      label: tax-inspector-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

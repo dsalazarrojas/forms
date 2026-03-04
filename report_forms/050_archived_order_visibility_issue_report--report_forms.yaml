@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Archived Order Visibility Issue Report
+    pages:
+    - id: 1
+      name: section_reporter_info
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reporter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_department
+      label: Department or Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_date
+      label: Report Date
+      hint: Date of issue discovery
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: report_time
+      label: Time of Issue
+      hint: When was the issue discovered?
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: section_issue_details
+      label: -- Issue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_number
+      label: Order Number
+      hint: Reference ID or order number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_type
+      label: Type of Issue
+      hint: null
+      type: select_one
+      options:
+      - Cannot find archived order
+      - Search functionality not working
+      - Archived order not displaying
+      - Filter issues
+      - Sort issues
+      - Access denied
+      - Data missing
+      - Other
+      required: true
+    - id: 12
+      name: issue_description
+      label: Detailed Issue Description
+      hint: What exactly is not working?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: visibility_problem
+      label: Visibility Problem
+      hint: null
+      type: select_one
+      options:
+      - Order completely invisible
+      - Partial information missing
+      - Difficult to locate
+      - Incorrect status shown
+      - Date information wrong
+      required: true
+    - id: 14
+      name: section_impact
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: severity_level
+      label: Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Critical - Business impact
+      - High - Operational impact
+      - Medium - Minor inconvenience
+      - Low - Minimal impact
+      required: true
+    - id: 16
+      name: affected_records
+      label: Number of Affected Records
+      hint: How many orders have this issue?
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_reproduction
+      label: -- Issue Reproduction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: reproducible
+      label: Can the issue be reproduced?
+      hint: null
+      type: select_one
+      options:
+      - Consistently
+      - Intermittently
+      - Unable to reproduce
+      - Unknown
+      required: true
+    - id: 19
+      name: steps_to_reproduce
+      label: Steps to Reproduce Issue
+      hint: Detailed steps if available
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: browser_system
+      label: Browser or System Information
+      hint: e.g., Chrome on Windows 10
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_resolution
+      label: -- Resolution Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: desired_resolution
+      label: Desired Resolution
+      hint: How should this be fixed?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: urgency_needed_by
+      label: When is resolution needed?
+      hint: Deadline if time-sensitive
+      type: date
+      options: []
+      required: false

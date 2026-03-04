@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dining Room Violation Report
+    pages:
+    - id: 1
+      name: dining_room_violation
+      label: dining_room_violation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: school_workplace_facility
+      label: school_workplace_facility
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Workplace
+      - Facility
+      required: true
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy123
+      required: true
+    - id: 9
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_multiple
+      options:
+      - Cleanliness Issue
+      - Food Safety Issue
+      - Food Quality Issue
+      - Other
+      required: true
+    - id: 10
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: photos_comments
+      label: photos_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: true
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - Kitchen
+      - Dining Room
+      - Other
+      required: true
+    - id: 17
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: photos
+      label: photos
+      hint: null
+      type: text
+      options: []
+      required: false

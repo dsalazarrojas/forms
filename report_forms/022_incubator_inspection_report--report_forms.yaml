@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incubator Inspection Report
+    pages:
+    - id: 1
+      name: incubator_inspection_form_section1
+      label: Inspect Incubators
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incubator_name
+      label: Incubator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incubator_type
+      label: Incubator Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: date_of_inspection
+      label: Date Of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_inspection
+      label: Time Of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: inspection_completed
+      label: Completed
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 10
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: action_planned
+      label: Action Planned
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 12
+      name: facility_signature
+      label: Facility Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: date
+      options: []
+      required: false

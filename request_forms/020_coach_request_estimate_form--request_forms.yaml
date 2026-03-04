@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach Request Estimate Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position or title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of this estimate request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: coach_type
+      label: Type of Coach Needed
+      hint: What type of coaching do you need
+      type: select_one
+      options:
+      - Life Coach
+      - Executive Coach
+      - Career Coach
+      - Health Coach
+      - Wellness Coach
+      - Business Coach
+      - Team Coach
+      - Not Sure
+      required: true
+    - id: 8
+      name: number_of_coaches
+      label: Number of Coaches Needed
+      hint: How many coaches do you need
+      type: select_one
+      options:
+      - 1
+      - 2-3
+      - 4-5
+      - 6-10
+      - Over 10
+      required: true
+    - id: 9
+      name: service_duration
+      label: Expected Duration of Services
+      hint: How long do you need coaching
+      type: select_one
+      options:
+      - One-Time Session
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - Ongoing
+      required: true
+    - id: 10
+      name: session_frequency
+      label: Preferred Session Frequency
+      hint: How often should sessions occur
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - As Needed
+      required: true
+    - id: 11
+      name: session_format
+      label: Preferred Session Format
+      hint: How should sessions be delivered
+      type: select_one
+      options:
+      - In Person
+      - Video Conference
+      - Phone
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 12
+      name: group_size
+      label: Expected Group Size
+      hint: How many people will be coached
+      type: select_one
+      options:
+      - Individual 1-on-1
+      - Small Group 2-5
+      - Medium Group 6-15
+      - Large Group 16-30
+      - Workshop 30+
+      required: true
+    - id: 13
+      name: coaching_goals
+      label: Primary Coaching Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_audience
+      label: Target Audience Description
+      hint: Who will receive coaching
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_challenges
+      label: Current Challenges
+      hint: What issues are you facing
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When do you want to begin
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: location_preference
+      label: Location Preference
+      hint: Where should coaching take place
+      type: select_one
+      options:
+      - Client Office
+      - Coach Office
+      - Virtual Online
+      - Offsite Retreat
+      - No Preference
+      required: false
+    - id: 18
+      name: travel_required
+      label: Is Travel Required
+      hint: Will coaches need to travel
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 19
+      name: travel_locations
+      label: Travel Locations
+      hint: Where would coaches need to travel
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget
+      type: select_one
+      options:
+      - Under $5000
+      - $5000-$10000
+      - $10001-$25000
+      - $25001-$50000
+      - Over $50000
+      required: false
+    - id: 21
+      name: previous_coaching
+      label: Have You Used Coaching Before
+      hint: Has your organization used coaching
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: previous_experience
+      label: Previous Coaching Experience
+      hint: Describe your past experience
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When do you need to decide
+      type: select_one
+      options:
+      - Within 1 Week
+      - 1-2 Weeks
+      - 2-4 Weeks
+      - 1-2 Months
+      - Flexible
+      required: false
+    - id: 25
+      name: competitors_considered
+      label: Are You Considering Other Providers
+      hint: Are you getting other estimates
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 26
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Online Search
+      - Referral
+      - Social Media
+      - Advertisement
+      - Previous Client
+      - Other
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

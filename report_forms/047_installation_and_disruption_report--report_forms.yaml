@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Installation And Disruption Report
+    pages:
+    - id: 1
+      name: service_outcome
+      label: Service Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: installed_services
+      label: Installed Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: disruption_outcome
+      label: Disruption Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: disruption_date
+      label: Disruption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cause_of_disruption
+      label: Cause of Disruption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: affected_services
+      label: Affected Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: disruption_type
+      label: Disruption Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: field_team_member
+      label: Field Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: field_manager
+      label: Field Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

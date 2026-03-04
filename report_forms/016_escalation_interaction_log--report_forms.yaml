@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Escalation Interaction Log
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: escalation_type
+      label: Escalation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      - '{''id'': 3, ''name'': ''None''}'
+      - '{''id'': 4, ''name'': ''Chat''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: interaction_time
+      label: Interaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: escalation_details
+      label: Escalation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Resolved''}'
+      - '{''id'': 2, ''name'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''Closed''}'
+      - '{''id'': 4, ''name'': ''Not Applicable''}'
+      required: false
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_details
+      label: Action Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: outcome_details
+      label: Outcome Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

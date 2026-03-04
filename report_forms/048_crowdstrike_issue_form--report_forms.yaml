@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Issue Form
+    pages:
+    - id: 1
+      name: customer_input
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue
+      label: issue
+      hint: null
+      type: select_multiple
+      options:
+      - Bug
+      - Problem
+      - Error
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: issue_type
+      label: issue type
+      hint: null
+      type: select_one
+      options:
+      - Software
+      - Hardware
+      - Configuration
+      required: true
+    - id: 10
+      name: environment
+      label: environment
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Cloud
+      - Cluster
+      required: true
+    - id: 11
+      name: reporter
+      label: reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attachment
+      label: attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 15
+      name: tags
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: true
+    - id: 16
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - To-Do
+      - In Progress
+      - Done
+      required: true
+    - id: 17
+      name: resolved_by
+      label: resolved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: resolved_date
+      label: resolved date
+      hint: null
+      type: date
+      options: []
+      required: false

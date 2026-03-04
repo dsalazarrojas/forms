@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Dealership Quote Request Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Where should we send the quote?
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Any method
+      required: true
+    - id: 7
+      name: vehicle_interest
+      label: Vehicle of Interest
+      hint: Tell us about the vehicle you want
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Preferred Year
+      hint: What year are you looking for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      - Any recent year
+      required: true
+    - id: 9
+      name: vehicle_make
+      label: Preferred Make
+      hint: Which manufacturer?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_model
+      label: Preferred Model
+      hint: Which model?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_trim
+      label: Preferred Trim Level
+      hint: Specific trim or package if known
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_color
+      label: Preferred Color
+      hint: Exterior color preference
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: New or used?
+      type: select_one
+      options:
+      - New
+      - Used
+      - Certified Pre-Owned
+      - Either
+      required: true
+    - id: 14
+      name: budget_information
+      label: Budget Information
+      hint: Your budget details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: budget_range
+      label: Budget Range
+      hint: Your price range
+      type: select_one
+      options:
+      - Under $20,000
+      - $20,000 - $30,000
+      - $30,000 - $40,000
+      - $40,000 - $50,000
+      - $50,000 - $60,000
+      - $60,000 - $80,000
+      - Over $80,000
+      required: true
+    - id: 16
+      name: financing_needed
+      label: Financing Needed
+      hint: Do you need financing?
+      type: select_one
+      options:
+      - true
+      - No - paying cash
+      - Maybe - depends on rates
+      required: true
+    - id: 17
+      name: trade_in_available
+      label: Trade-In Available
+      hint: Do you have a vehicle to trade?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: trade_in_details
+      label: Trade-In Details
+      hint: Year, make, model of trade-in
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: purchase_timeline
+      label: Purchase Timeline
+      hint: When do you plan to buy?
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Just browsing
+      required: true
+    - id: 20
+      name: current_vehicle
+      label: Current Vehicle
+      hint: What do you currently drive?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: features_interest
+      label: Features of Interest
+      hint: What features are important to you?
+      type: select_multiple
+      options:
+      - All-Wheel Drive
+      - Leather Interior
+      - Sunroof/Moonroof
+      - Navigation System
+      - Backup Camera
+      - Heated Seats
+      - Apple CarPlay/Android Auto
+      - Safety Features
+      - Fuel Efficiency
+      - Performance Package
+      required: false
+    - id: 22
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Television/Radio Ad
+      - Friend/Family
+      - Drive-by
+      - Previous Customer
+      - Other
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: test_drive_interest
+      label: Test Drive Interest
+      hint: Would you like to schedule a test drive?
+      type: select_one
+      options:
+      - Yes - please contact me
+      - Maybe - after I see the quote
+      - No - just want pricing info
+      required: true
+    - id: 25
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

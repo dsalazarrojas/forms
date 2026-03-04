@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: X RAY Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: physician_title
+      label: Physician Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: xray_date
+      label: X-Ray Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: authorization
+      label: Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_name_2
+      label: Physician Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: xray_status
+      label: X-Ray Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: patient_informed_consent
+      label: Patient Informed Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

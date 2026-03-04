@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Installation Quote Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Job Type 1
+      - Job Type 2
+      - Job Type 3
+      required: false
+    - id: 5
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: quote_amount
+      label: Quote Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_technician
+      label: Service Technician
+      hint: null
+      type: select_one
+      options:
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: false

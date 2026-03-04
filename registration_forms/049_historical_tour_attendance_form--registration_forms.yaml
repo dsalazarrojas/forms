@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Tour Attendance Form
+    pages:
+    - id: 1
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: tour_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: tour_start_time
+      label: Tour Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: tour_end_time
+      label: Tour End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendees
+      label: Tour Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: headcount
+      label: Headcount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: headcount_status
+      label: Headcount Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: headcounts
+      label: Headcounts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: accessibility_requests
+      label: Accessibility Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accessibility_requests_status
+      label: Accessibility Requests Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: headcounts_status
+      label: Headcounts Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reg_status
+      label: Reg Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: reg_type
+      label: Reg Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: reg_notes
+      label: Reg Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: accessibility_type
+      label: Accessibility Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: accessibility_status
+      label: Accessibility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: accessibility_request
+      label: Accessibility Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reg_notes
+      label: Reg Notes
+      hint: null
+      type: note
+      options: []
+      required: false

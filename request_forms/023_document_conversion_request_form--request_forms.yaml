@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_conversion_request_form
+    pages:
+    - id: 1
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - docx
+      - jpg
+      - png
+      - mp3
+      - mp4
+      - mpg
+      - tif
+      - tiff
+      - mov
+      - mp2
+      required: false
+    - id: 3
+      name: file_format
+      label: file_format
+      hint: null
+      type: select_multiple
+      options:
+      - pdf
+      - docx
+      - jpg
+      - png
+      - mp3
+      - mp4
+      - mpg
+      - tif
+      - tiff
+      - mov
+      - mp2
+      required: false
+    - id: 4
+      name: urgency_level
+      label: urgency_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: priority_level
+      label: priority_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: required_fields
+      label: required_fields
+      hint: null
+      type: select_multiple
+      options:
+      - field1
+      - field2
+      - field3
+      - field4
+      - field5
+      - field6
+      - field7
+      - field8
+      required: false
+    - id: 7
+      name: additional_info
+      label: additional_info
+      hint: Additional information or special requests.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_number
+      label: project_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - ongoing
+      - complete
+      - pending
+      required: false
+    - id: 19
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false

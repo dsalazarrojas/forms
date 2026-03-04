@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artists And Producer Strategy Session Form
+    pages:
+    - id: 1
+      name: session_header
+      label: -- Strategy Session Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_lead
+      label: Lead Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: producer_lead
+      label: Lead Producer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Date of Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project or Album Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_phase
+      label: Current Project Phase
+      hint: null
+      type: select_one
+      options:
+      - Pre-production
+      - Recording/Creation
+      - Mixing/Editing
+      - Marketing/Launch
+      - Post-launch Review
+      required: true
+    - id: 7
+      name: session_objectives
+      label: Primary Objectives for this Session
+      hint: What do we need to decide today
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget_update
+      label: Budget Allocation Review
+      hint: Current spend vs. remaining budget
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_notes
+      label: Marketing and Distribution Strategy
+      hint: Social media, streaming, physical sales
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_items
+      label: List of Action Items
+      hint: Who is doing what and by when
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: next_session_date
+      label: Proposed Next Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: session_satisfaction
+      label: Rate the productivity of this session
+      hint: 1 - low, 5 - high
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Producer Notes and Observations
+      hint: null
+      type: text
+      options: []
+      required: false

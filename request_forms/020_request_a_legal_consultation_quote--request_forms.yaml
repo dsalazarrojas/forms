@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Legal Consultation Quote
+    pages:
+    - id: 1
+      name: user_input
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inquiry_details
+      label: inquiry_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_multiple
+      options:
+      - Consultation
+      - Consultation with Meeting
+      - Consultation and Document Review
+      - Document Review
+      required: true
+    - id: 6
+      name: urgency
+      label: urgency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_of_follow_up
+      label: date_of_follow_up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: additional_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number_2
+      label: phone_2
+      hint: null
+      type: text
+      options: []
+      required: false

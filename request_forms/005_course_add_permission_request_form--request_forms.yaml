@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: course_add_permission_request_form
+    pages:
+    - id: 1
+      name: course_title
+      label: course_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: departmental_requester
+      label: departmental_requester
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: course_description
+      label: course_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: restricted_course_title
+      label: restricted_course_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: restricted_course_code
+      label: restricted_course_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: course_status
+      label: course_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_request_made
+      label: date_request_made
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: requestor
+      label: requestor
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachments
+      label: attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: course_addition_type
+      label: course_addition_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: course_addition_status
+      label: course_addition_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: course_requestor
+      label: course_requestor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: course_department
+      label: course_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: course_requestor_department
+      label: course_requestor_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reason_for_request_2
+      label: reason_for_request_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_requestor_id
+      label: course_requestor_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_requestor_name
+      label: course_requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: course_requestor_contact
+      label: course_requestor_contact
+      hint: null
+      type: text
+      options: []
+      required: false

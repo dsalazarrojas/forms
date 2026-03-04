@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Release Of Information Form
+    pages:
+    - id: 1
+      name: section_individual_info
+      label: -- Individual Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: individual_name
+      label: Full Legal Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: identification_number
+      label: Identification Number
+      hint: ID card, social security, etc
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Current address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_information_authorization
+      label: -- Information Release Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: information_type
+      label: Type of Information Being Released
+      hint: What information will be shared
+      type: select_multiple
+      options:
+      - Medical Records
+      - Financial Information
+      - Personal History
+      - Educational Records
+      - Employment Records
+      - Legal Documents
+      - Other
+      required: true
+    - id: 10
+      name: releasing_entity
+      label: Organization Releasing Information
+      hint: Name of organization sharing data
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: receiving_entity
+      label: Organization Receiving Information
+      hint: Who will receive the information
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: receiving_entity_contact
+      label: Contact Person at Receiving Organization
+      hint: Name and title
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: purpose_of_release
+      label: Purpose of Information Release
+      hint: Why is this information needed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_authorization
+      label: -- Authorization and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: consent_acknowledge
+      label: I Authorize the Release of Information
+      hint: Agree to share information as described
+      type: select_one
+      options:
+      - Yes, I Authorize
+      - No, I Do Not Authorize
+      required: true
+    - id: 16
+      name: duration_of_release
+      label: Duration of Authorization
+      hint: How long will this authorization last
+      type: select_one
+      options:
+      - One Time Only
+      - 30 Days
+      - 90 Days
+      - 1 Year
+      - Indefinite Until Revoked
+      required: true
+    - id: 17
+      name: conditions
+      label: Any Conditions or Restrictions
+      hint: Special conditions on this release
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: revocation_right
+      label: I Understand I Can Revoke This Authorization
+      hint: You can revoke this at any time
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 19
+      name: section_signature
+      label: -- Signature and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: witness_name
+      label: Witness Name
+      hint: If required, witness name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirmation
+      label: I Confirm I Have Read and Understood This Form
+      hint: Final confirmation
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, I Do Not Confirm
+      required: true

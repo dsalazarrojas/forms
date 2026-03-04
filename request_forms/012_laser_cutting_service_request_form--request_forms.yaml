@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laser Cutting Service Request Form
+    pages:
+    - id: 1
+      name: laser_cutting_service_request_form_page
+      label: Laser Cutting Service Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_upload
+      label: Design Upload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fast Delivery''}'
+      - '{''id'': 2, ''label'': ''Standard Delivery''}'
+      - '{''id'': 3, ''label'': ''Priority Delivery''}'
+      required: false
+    - id: 4
+      name: design_details
+      label: Design Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cut_size
+      label: Cut Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: material
+      label: Material
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Acrylic''}'
+      - '{''id'': 2, ''label'': ''ABS''}'
+      - '{''id'': 3, ''label'': ''Polycarbonate''}'
+      - '{''id'': 4, ''label'': ''Wood''}'
+      required: false
+    - id: 7
+      name: production_timeframe
+      label: Production Timeframe
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: production_date
+      label: Production Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: fabrication_location
+      label: Fabrication Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fabrication_notes
+      label: Fabrication Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

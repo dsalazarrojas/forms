@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incomplete Work Items Report Form
+    pages:
+    - id: 1
+      name: incomplete_work_items_report_form
+      label: incomplete work items report form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - incomplete
+      - complete
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 6
+      name: date_submitted
+      label: date submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_completed
+      label: date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - new
+      - in_progress
+      - done
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 12
+      name: work_items
+      label: work items
+      hint: null
+      type: select_multiple
+      options:
+      - item 1
+      - item 2
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: work_item_ids
+      label: work item ids
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: work_item_status
+      label: work item status
+      hint: null
+      type: select_multiple
+      options:
+      - new
+      - in_progress
+      - done
+      required: false
+    - id: 16
+      name: work_item_priority
+      label: work item priority
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 17
+      name: work_item_due_date
+      label: work item due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: work_item_due_time
+      label: work item due time
+      hint: null
+      type: time
+      options: []
+      required: false

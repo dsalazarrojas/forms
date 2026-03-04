@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Testimonial Advertising Release Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Testimonial and Release Form
+      hint: Share your experience and grant permission to use your testimonial
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: City and State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: website
+      label: Company Website
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: testimonial_section
+      label: -- Your Testimonial --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_used
+      label: What service or product did you use?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: time_as_client
+      label: How long have you been a client?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: false
+    - id: 13
+      name: testimonial_text
+      label: Your Testimonial (Please write in your own words)
+      hint: What was your experience? What results did you achieve?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: testimonial_length
+      label: Approximate length of testimonial
+      hint: How detailed would you like it to be?
+      type: select_one
+      options:
+      - Brief - 1-2 sentences
+      - Medium - 3-5 sentences
+      - Detailed - Full paragraph
+      required: false
+    - id: 15
+      name: key_benefit
+      label: What was the biggest benefit or result you experienced?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: permission_section
+      label: -- Permission and Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: use_permission
+      label: I grant permission to use my testimonial for marketing purposes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: media_usage
+      label: I grant permission to use my testimonial in the following materials -
+        select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Advertisements
+      - Email Marketing
+      - Case Studies
+      - Presentations
+      - Videos
+      - All of the above
+      required: false
+    - id: 19
+      name: name_permission
+      label: May we use your name in the testimonial?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Anonymous Only
+      required: true
+    - id: 20
+      name: company_permission
+      label: May we use your company name?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: photo_permission
+      label: May we include a photo of you in the testimonial materials?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: video_permission
+      label: May we use a video testimonial?
+      hint: We can arrange a brief video call
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 23
+      name: exclusive_permission
+      label: Is this testimonial exclusive or can you provide it to other companies?
+      hint: null
+      type: select_one
+      options:
+      - Exclusive to this company
+      - Not Exclusive
+      required: false
+    - id: 24
+      name: duration_section
+      label: -- Duration and Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: usage_duration
+      label: How long may we use this testimonial?
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - Indefinitely
+      - Not sure
+      required: false
+    - id: 26
+      name: review_before_use
+      label: I want to review the testimonial before it is published
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: modification_permission
+      label: We may edit the testimonial for grammar or brevity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: incentive_section
+      label: -- Incentives and Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: receive_incentive
+      label: Are you interested in receiving an incentive for this testimonial?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Necessary
+      required: false
+    - id: 30
+      name: final_confirmation
+      label: I confirm that this testimonial is truthful and based on my genuine experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

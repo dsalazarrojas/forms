@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Shift Report Template
+    pages:
+    - id: 1
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: breaks
+      label: breaks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: patient_count
+      label: patient_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: patient_visits
+      label: patient_visits
+      hint: null
+      type: select_multiple
+      options:
+      - none
+      - '1'
+      - 2-5
+      - 6-10
+      - 11-15
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_one
+      options:
+      - nurse_manager
+      - nurse_supervisor
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: custom1
+      label: custom1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: custom2
+      label: custom2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: custom3
+      label: custom3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: custom4
+      label: custom4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: custom5
+      label: custom5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: custom6
+      label: custom6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: custom7
+      label: custom7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: custom8
+      label: custom8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: custom9
+      label: custom9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: custom10
+      label: custom10
+      hint: null
+      type: text
+      options: []
+      required: false

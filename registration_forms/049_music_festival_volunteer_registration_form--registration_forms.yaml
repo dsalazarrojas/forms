@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Festival Volunteer Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Please enter your email address.
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_role
+      label: volunteer role
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''artist''}'
+      - '{''name'': ''staff''}'
+      - '{''name'': ''volunteer''}'
+      required: false
+    - id: 5
+      name: shift_start_time
+      label: shift start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shift_end_time
+      label: shift end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''morning''}'
+      - '{''name'': ''afternoon''}'
+      - '{''name'': ''evening''}'
+      required: false
+    - id: 8
+      name: volunteer_hours
+      label: volunteer hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency contact
+      hint: Enter your emergency contact's phone number.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_information
+      label: medical information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: tshirt_size
+      label: tshirt size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''small''}'
+      - '{''name'': ''medium''}'
+      - '{''name'': ''large''}'
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: dietary restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''vegetarian''}'
+      - '{''name'': ''vegan''}'
+      - '{''name'': ''gluten free''}'
+      required: false
+    - id: 14
+      name: food_preferences
+      label: food preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''pizza''}'
+      - '{''name'': ''sushi''}'
+      - '{''name'': ''tacos''}'
+      required: false
+    - id: 15
+      name: volunteer_special_request
+      label: volunteer special request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''spouse''}'
+      - '{''name'': ''parent''}'
+      - '{''name'': ''friend''}'
+      required: false
+    - id: 17
+      name: emergency_phone
+      label: emergency phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_information_2
+      label: medical information 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_experience
+      label: volunteer experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: why_volunteer
+      label: why volunteer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: availability_2
+      label: availability 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''monday''}'
+      - '{''name'': ''tuesday''}'
+      - '{''name'': ''wednesday''}'
+      - '{''name'': ''thursday''}'
+      - '{''name'': ''friday''}'
+      - '{''name'': ''saturday''}'
+      - '{''name'': ''sunday''}'
+      required: false
+    - id: 22
+      name: availability_3
+      label: availability 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''morning''}'
+      - '{''name'': ''afternoon''}'
+      - '{''name'': ''evening''}'
+      required: false
+    - id: 23
+      name: availability_4
+      label: availability 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''morning''}'
+      - '{''name'': ''afternoon''}'
+      - '{''name'': ''evening''}'
+      required: false
+    - id: 24
+      name: availability_5
+      label: availability 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''morning''}'
+      - '{''name'': ''afternoon''}'
+      - '{''name'': ''evening''}'
+      required: false
+    - id: 25
+      name: availability_6
+      label: availability 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''morning''}'
+      - '{''name'': ''afternoon''}'
+      - '{''name'': ''evening''}'
+      required: false

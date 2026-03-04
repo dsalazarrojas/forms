@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Device Check In Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_device_type
+      label: user_device_type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''computer''}'
+      - '{''text'': ''laptop''}'
+      - '{''text'': ''tablet''}'
+      - '{''text'': ''phone''}'
+      required: true
+    - id: 3
+      name: serial_number
+      label: serial_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mac_address
+      label: mac_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: device_config
+      label: device_config
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: device_status
+      label: device_status
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''available''}'
+      - '{''text'': ''unavailable''}'
+      required: true
+    - id: 10
+      name: date_used
+      label: date_used
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_used
+      label: time_used
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: user_location
+      label: user_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_ip_address
+      label: user_ip_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: user_browser
+      label: user_browser
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: user_os
+      label: user_os
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: user_version
+      label: user_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: user_language
+      label: user_language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: user_country
+      label: user_country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: user_state
+      label: user_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: user_city
+      label: user_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: user_zip
+      label: user_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: user_region
+      label: user_region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: user_device_make
+      label: user_device_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: user_device_model
+      label: user_device_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: user_device_type
+      label: user_device_type
+      hint: null
+      type: text
+      options: []
+      required: true

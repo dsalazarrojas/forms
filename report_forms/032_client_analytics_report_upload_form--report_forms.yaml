@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Analytics Report Upload Form
+    pages:
+      - id: 1
+        name: upload_intro
+        label: -- Analytics Data Submission --
+        hint: Please upload your analytics reports for the current reporting period.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client/Account Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: submission_date
+        label: Today's Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: reporting_period
+        label: Reporting Period
+        hint: null
+        type: select_one
+        options:
+          - Monthly (Current Month)
+          - Quarterly (Q1)
+          - Quarterly (Q2)
+          - Quarterly (Q3)
+          - Quarterly (Q4)
+          - Annual
+          - Specific Campaign
+        required: true
+      - id: 5
+        name: analytics_platform
+        label: Primary Analytics Platform
+        hint: null
+        type: select_one
+        options:
+          - Google Analytics 4
+          - Adobe Analytics
+          - Mixpanel
+          - Shopify Analytics
+          - Facebook Ads Manager
+          - Multiple Platforms
+        required: true
+      - id: 6
+        name: report_details_header
+        label: -- Report Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: report_file_description
+        label: Description of Files Being Uploaded
+        hint: e.g. GA4 Traffic Report, Conversion Data
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: file_upload_confirmation
+        label: Have you successfully uploaded the files to the secure portal?
+        hint: This form tracks the submission event
+        type: select_one
+        options:
+          - Yes, files uploaded
+          - Not yet
+        required: true
+      - id: 9
+        name: portal_link
+        label: Link to Uploaded Assets (if applicable)
+        hint: e.g. Dropbox, Google Drive, or Agency Portal link
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: data_concerns
+        label: Any specific anomalies or concerns in this period's data?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: follow_up_meeting_requested
+        label: Would you like to schedule a deep-dive review call?
+        hint: null
+        type: select_one
+        options:
+          - Yes, please send invite
+          - No, just send the summary
+        required: true
+      - id: 12
+        name: contact_person_email
+        label: Best email for reporting follow-up
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 13
+        name: submission_footer
+        label: -- Submission Recorded --
+        hint: Our analysts will begin reviewing your data immediately.
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: internal_campaign_id
+        label: Internal Campaign ID
+        hint: null
+        type: text
+        options: []
+        required: false

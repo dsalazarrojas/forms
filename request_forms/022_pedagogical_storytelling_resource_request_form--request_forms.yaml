@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedagogical Storytelling Resource Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: educator_info
+      label: Educator Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resource_type
+      label: resource_type
+      hint: null
+      type: select_one
+      options:
+      - Book
+      - Video
+      - Website
+      - Podcast
+      required: false
+    - id: 4
+      name: resource_link
+      label: resource_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_message
+      label: Request Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

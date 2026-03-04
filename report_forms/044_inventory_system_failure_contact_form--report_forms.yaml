@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_system_failure_contact_form
+    pages:
+    - id: 1
+      name: inventory_system_failure
+      label: Inventory System Failure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: report_priority
+      label: Report Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: report_details
+      label: Report Details
+      hint: Please provide a detailed description of the issue
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: report_urgency
+      label: Report Urgency
+      hint: null
+      type: select_one
+      options:
+      - Now
+      - Within 24 Hours
+      - Within 48 Hours
+      - As Soon As Possible
+      required: false
+    - id: 5
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false

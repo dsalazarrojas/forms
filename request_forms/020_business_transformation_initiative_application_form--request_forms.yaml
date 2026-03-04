@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Transformation Initiative Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of project lead or sponsor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_name
+      label: Department or Business Unit
+      hint: Which department is this for?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_title
+      label: Project or Initiative Title
+      hint: Name of the transformation project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_category
+      label: Project Category
+      hint: Type of transformation initiative
+      type: select_one
+      options:
+      - Digital Transformation
+      - Process Improvement
+      - Organizational Restructuring
+      - Technology Migration
+      - Customer Experience Enhancement
+      - Sustainability Initiative
+      - Cost Optimization
+      - Other
+      required: true
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: Detailed explanation of the initiative
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_objectives
+      label: Business Objectives and Goals
+      hint: What are you trying to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_state
+      label: Current State Assessment
+      hint: How do things work currently?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: desired_state
+      label: Desired Future State
+      hint: What should improve or change?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_impact
+      label: Expected Business Impact
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Revenue increase
+      - Cost reduction
+      - Efficiency improvement
+      - Customer satisfaction
+      - Market position
+      - Employee engagement
+      - Compliance improvement
+      - Risk reduction
+      required: true
+    - id: 12
+      name: financial_investment
+      label: Estimated Financial Investment
+      hint: In USD or local currency
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: timeline_months
+      label: Project Timeline
+      hint: Estimated duration in months
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: start_date
+      label: Proposed Start Date
+      hint: When should the project begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: team_size
+      label: Expected Team Size
+      hint: Number of people needed
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: critical_success_factors
+      label: Critical Success Factors
+      hint: What needs to go right?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: key_risks
+      label: Key Risks and Mitigation
+      hint: What could go wrong and how to address?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: stakeholder_support
+      label: Stakeholder Support Level
+      hint: null
+      type: select_one
+      options:
+      - Strong support from all key stakeholders
+      - Support from most stakeholders
+      - Mixed support
+      - Limited support
+      - No support yet
+      required: true
+    - id: 19
+      name: resource_requirements
+      label: Key Resource Requirements
+      hint: Budget, people, technology, etc.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: success_metrics
+      label: How Will Success Be Measured?
+      hint: KPIs and metrics to track progress
+      type: text
+      options: []
+      required: true

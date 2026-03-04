@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Status Inquiry Contact Form
+    pages:
+    - id: 1
+      name: refund_status_inquiry_contact_form
+      label: Request Refund Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description of Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: refund_status
+      label: Current Refund Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: customer_message
+      label: Additional Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clock In Out Change Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name as listed in payroll
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_request
+      label: -- Change Request Details --
+      hint: Information about the time change
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: request_type
+      label: Type of Change Request
+      hint: null
+      type: select_one
+      options:
+      - Correction to clock in time
+      - Correction to clock out time
+      - Missing clock in
+      - Missing clock out
+      - Adjustment to total hours
+      - Other
+      required: true
+    - id: 6
+      name: work_date
+      label: Date of the shift
+      hint: Which day the time change applies to
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_times
+      label: -- Original and Corrected Times --
+      hint: Specify what needs to be changed
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: original_clock_in
+      label: Original clock in time
+      hint: What time was recorded or should have been recorded
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: corrected_clock_in
+      label: Corrected clock in time
+      hint: The correct time you clocked in
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: original_clock_out
+      label: Original clock out time
+      hint: What time was recorded or should have been recorded
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: corrected_clock_out
+      label: Corrected clock out time
+      hint: The correct time you clocked out
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: time_difference
+      label: Total time difference in minutes
+      hint: How many minutes need to be adjusted
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_reason
+      label: -- Reason for Change --
+      hint: Explain why the correction is needed
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reason
+      label: Reason for this change request
+      hint: System error, forgot to clock, equipment issue, etc.
+      type: select_one
+      options:
+      - System error or technical issue
+      - Forgot to clock in or out
+      - Supervisor approval needed
+      - Equipment malfunction
+      - Legitimate time adjustment
+      - Other
+      required: true
+    - id: 15
+      name: detailed_explanation
+      label: Detailed explanation
+      hint: Provide context for this correction
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_approval
+      label: -- Approval Information --
+      hint: Who authorized this change
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Your direct manager or supervisor
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: supervisor_email
+      label: Supervisor Email
+      hint: For verification and approval
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: pre_approved
+      label: Has your supervisor pre-approved this change
+      hint: null
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, verbal approval
+      - No, not yet discussed
+      - Pending approval
+      required: true
+    - id: 20
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: supporting_documentation
+      label: Any supporting documentation provided
+      hint: Email approval, note, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: acknowledgment
+      label: I confirm this information is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_software_bug_report_form
+    pages:
+    - id: 1
+      name: bug_description
+      label: Bug Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: bug_steps
+      label: Steps to reproduce
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bug_type
+      label: Bug Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tech_support_email
+      label: Tech Support Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: environment
+      label: Environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

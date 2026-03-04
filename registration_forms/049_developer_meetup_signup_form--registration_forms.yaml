@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Developer Meetup Signup Form
+    pages:
+    - id: 1
+      name: meetup_details
+      label: Meetup details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_type
+      label: Registration type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''In-person''}'
+      - '{''option2'': ''Online''}'
+      - '{''option3'': ''Both''}'
+      required: false
+    - id: 6
+      name: meetup_start_date
+      label: Meetup start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: meetup_start_time
+      label: Meetup start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: meetup_end_date
+      label: Meetup end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: meetup_end_time
+      label: Meetup end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: attendee_count
+      label: Attendee count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: meetup_location
+      label: Meetup location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Location 1''}'
+      - '{''option2'': ''Location 2''}'
+      - '{''option3'': ''Location 3''}'
+      required: false
+    - id: 13
+      name: organizer_name
+      label: Organizer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: organizer_email
+      label: Organizer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: organizer_phone
+      label: Organizer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: organizer_note
+      label: Organizer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

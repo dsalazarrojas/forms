@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Trial Adverse Event Incident Report
+    pages:
+    - id: 1
+      name: study_id
+      label: study id
+      hint: Study ID number
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: report_title
+      label: Report Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_phase
+      label: study_phase
+      hint: 'Phases: Phase 1, Phase 2'
+      type: select_one
+      options:
+      - Phase 1
+      - Phase 2
+      required: false
+    - id: 4
+      name: study_status
+      label: study status
+      hint: status
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Terminated
+      required: false
+    - id: 5
+      name: date_incident_occurred
+      label: date incident occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_incident_occurred
+      label: time incident occurred
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_description
+      label: Event description
+      hint: Describe the adverse event that occurred
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: subject_id
+      label: subject id
+      hint: Subject ID number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: study_title
+      label: Study Title
+      hint: Study title as listed on the protocol
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: study_start_date
+      label: study start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: study_end_date
+      label: study end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: study_start_date
+      label: study end date
+      hint: Study end date if applicable
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: study_location
+      label: study location
+      hint: Where the adverse event occurred
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: adverse_reaction
+      label: adverse reaction
+      hint: Adverse reaction or event
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: severity
+      label: Severity
+      hint: Mild, Moderate, Severe
+      type: select_multiple
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 16
+      name: action_taken
+      label: action taken
+      hint: action
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: action_taken_by
+      label: action taken by
+      hint: action taken by
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: study_sponsor
+      label: Study Sponsor
+      hint: Name of sponsor
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: study_sponsor_contact
+      label: study sponsor contact
+      hint: Contact name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: study_sponsor_org
+      label: study sponsor org
+      hint: Study sponsor org
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: study_sponsor_addr
+      label: study sponsor addr
+      hint: study sponsor org address
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: study_sponsor_phone
+      label: study sponsor phone
+      hint: Study sponsor phone
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: study_sponsor_email
+      label: study sponsor email
+      hint: Study sponsor email
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: adverse_event_id
+      label: Adverse Event ID
+      hint: Adverse Event ID number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: adverse_event_cause
+      label: Event cause
+      hint: Adverse Event cause
+      type: text
+      options: []
+      required: false

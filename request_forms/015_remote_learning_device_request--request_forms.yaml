@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Learning Device Request
+    pages:
+    - id: 1
+      name: user_input
+      label: Remote Learning Device Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_email
+      label: school email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: device_requested
+      label: Devices Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Laptops
+      - Tablets
+      - Smartphones
+      - Tablets
+      - Desktop
+      - Other
+      required: true
+    - id: 5
+      name: quantity_requested
+      label: quantity_requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: classroom_name
+      label: classroom name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_email
+      label: teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_address
+      label: school address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_phone
+      label: school phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: classroom_name
+      label: classroom name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_city
+      label: school city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_province
+      label: school province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_postal_code
+      label: school post code
+      hint: null
+      type: text
+      options: []
+      required: false

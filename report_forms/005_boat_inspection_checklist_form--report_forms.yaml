@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Inspection Checklist Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: boat_manufacturer
+      label: Boat Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: boat_model
+      label: Boat Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: boat_year
+      label: Boat Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: boat_hull_number
+      label: Hull Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Hybrid
+      required: true
+    - id: 8
+      name: engine_hours
+      label: Engine Hours
+      hint: Current operating hours
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: engine_condition
+      label: Engine Condition
+      hint: Overall assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: true
+    - id: 10
+      name: engine_compression
+      label: Engine Compression Test
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Tested
+      required: true
+    - id: 11
+      name: oil_level_check
+      label: Oil Level Check
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Low
+      - High
+      - Not Checked
+      required: true
+    - id: 12
+      name: fuel_system_condition
+      label: Fuel System Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: fuel_filter_inspection
+      label: Fuel Filter Inspection
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Needs Cleaning
+      - Needs Replacement
+      - Not Checked
+      required: true
+    - id: 14
+      name: battery_condition
+      label: Battery Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Dead
+      - Missing
+      required: true
+    - id: 15
+      name: electrical_system
+      label: Electrical System
+      hint: null
+      type: select_one
+      options:
+      - Working Properly
+      - Minor Issues
+      - Major Issues
+      - Not Tested
+      required: true
+    - id: 16
+      name: cooling_system_check
+      label: Cooling System
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Tested
+      required: true
+    - id: 17
+      name: propeller_condition
+      label: Propeller Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Minor Damage
+      - Severe Damage
+      - Missing
+      required: true
+    - id: 18
+      name: steering_system
+      label: Steering System
+      hint: null
+      type: select_one
+      options:
+      - Working Properly
+      - Stiff
+      - Loose
+      - Not Functional
+      required: true
+    - id: 19
+      name: hull_integrity
+      label: Hull Integrity
+      hint: Check for cracks, leaks, corrosion
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Severe Damage
+      required: true
+    - id: 20
+      name: safety_equipment
+      label: Safety Equipment Present
+      hint: Life jackets, first aid, flares, etc
+      type: select_one
+      options:
+      - All Present
+      - Some Missing
+      - Most Missing
+      - None Present
+      required: true
+    - id: 21
+      name: overall_assessment
+      label: Overall Inspection Assessment
+      hint: null
+      type: select_one
+      options:
+      - Pass - Ready for Use
+      - Conditional Pass - Minor Repairs Needed
+      - Fail - Major Repairs Required
+      - Not Seaworthy
+      required: true
+    - id: 22
+      name: repairs_needed
+      label: Detailed List of Repairs Needed
+      hint: Describe any issues found
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_recommendations
+      label: Maintenance Recommendations
+      hint: Suggested preventive maintenance
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: inspector_signature_confirmation
+      label: I certify this inspection is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I do not confirm
+      required: true

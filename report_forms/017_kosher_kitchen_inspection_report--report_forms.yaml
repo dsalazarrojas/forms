@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kosher Kitchen Inspection Report
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: kitchen_location
+      label: kitchen_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: kosher_certificate
+      label: kosher_certificate
+      hint: null
+      type: select_one
+      options:
+      - Kosher
+      - Non-Kosher
+      required: false
+    - id: 5
+      name: critical_findings
+      label: critical_findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrective_actions_taken
+      label: corrective_actions_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cleanliness_outcomes
+      label: cleanliness_outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: kosher_compliance
+      label: kosher_compliance
+      hint: null
+      type: select_one
+      options:
+      - In Compliance
+      - Out of Compliance
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: kitchen_id
+      label: kitchen_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: inspector_id
+      label: inspector_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_submitted_at
+      label: form_submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false

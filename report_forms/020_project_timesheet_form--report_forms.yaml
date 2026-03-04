@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Timesheet Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estimated_start_date
+      label: Estimated Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: estimated_end_date
+      label: Estimated End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false

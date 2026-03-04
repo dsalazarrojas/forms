@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Daily Office Cleaning Checklist
+    pages:
+    - id: 1
+      name: office_cleaning_checklist
+      label: Office Location
+      hint: The name of your office location
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cleaning_frequency
+      label: How often would you like to clean?
+      hint: null
+      type: select_one
+      options:
+      - Every morning
+      - After every meeting
+      - At closing of business
+      - Never
+      required: true
+    - id: 3
+      name: cleaning_tasks
+      label: What cleaning tasks to perform
+      hint: null
+      type: select_multiple
+      options:
+      - Sweep and mop floors
+      - Empty trash
+      - Clean counters and sinks
+      - Dust and dust
+      - Wipe down surfaces
+      - Vacuum and clean furniture
+      required: false
+    - id: 4
+      name: office_cleaning_tasks
+      label: Select all applicable tasks
+      hint: null
+      type: select_one
+      options:
+      - Sweep and mop floors
+      - Empty trash
+      - Clean counters and sinks
+      - Dust and dust
+      - Wipe down surfaces
+      - Vacuum and clean furniture
+      required: true
+    - id: 5
+      name: date_completed
+      label: Date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: Time completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: completed_by
+      label: Completed by
+      hint: Name of staff member or person who completed the task
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Attorney Representation
+    pages:
+    - id: 1
+      name: request_for_attorney_representation_form
+      label: Request For Attorney Representation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: no_hint_required
+      label: No Coding Is Necessitated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: easy_to_use
+      label: Easy To Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category_name
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Request Forms
+      - Other
+      required: false
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

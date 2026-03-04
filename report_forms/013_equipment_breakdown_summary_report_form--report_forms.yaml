@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Breakdown Summary Report Form
+    pages:
+    - id: 1
+      name: equipment_breakdown_form
+      label: equipment_breakdown
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: failure_date
+      label: failure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: failure_reason
+      label: failure_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: repair_details
+      label: repair_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: failure_frequency
+      label: failure_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: equipment_location
+      label: equipment_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_history
+      label: incident_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Maintenance Team''}'
+      - '{''value'': ''Operations Team''}'
+      - '{''value'': ''Both''}'
+      - '{''value'': ''Not Specified''}'
+      required: false
+    - id: 10
+      name: repair_status
+      label: repair_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Operational''}'
+      - '{''value'': ''Maintenance''}'
+      - '{''value'': ''Not Available''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 13
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 14
+      name: equipment_tag
+      label: equipment_tag
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Critical''}'
+      - '{''value'': ''Important''}'
+      - '{''value'': ''Non-Critical''}'
+      - '{''value'': ''Not Tagged''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

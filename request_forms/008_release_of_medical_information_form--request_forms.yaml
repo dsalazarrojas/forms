@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Of Medical Information Form
+    pages:
+    - id: 1
+      name: release_of_medical_information_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: release_of_medical_information_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: release_of_medical_information_form_date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: release_of_medical_information_form_medical_record_release
+      label: Medical Record Release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: release_of_medical_information_form_ownership
+      label: Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: release_of_medical_information_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: release_of_medical_information_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: release_of_medical_information_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: release_of_medical_information_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: release_of_medical_information_form_signed
+      label: Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: release_of_medical_information_form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: release_of_medical_information_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: release_of_medical_information_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: release_of_medical_information_form_authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: text
+      options: []
+      required: true

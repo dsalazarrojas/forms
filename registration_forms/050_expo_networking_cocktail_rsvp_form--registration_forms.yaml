@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: expo_networking_cocktail_rsvp_form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: attendees name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: rsvp_type
+      label: rsvp type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''attending'', ''label'': ''attending''}'
+      - '{''id'': 2, ''name'': ''not attending'', ''label'': ''not attending''}'
+      - '{''id'': 3, ''name'': ''maybe'', ''label'': ''maybe''}'
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: false

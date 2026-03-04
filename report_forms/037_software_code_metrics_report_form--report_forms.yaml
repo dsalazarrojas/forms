@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_code_metrics_report_form
+    pages:
+    - id: 1
+      name: software_code_metrics_report_form_page_1
+      label: software_code_metrics_report_form_page_1_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: code_metrics_type
+      label: code_metrics_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: code_metrics_report_form_page_2
+      label: code_metrics_report_form_page_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: code_metrics_report_form_page_3
+      label: code_metrics_report_form_page_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: code_metrics_report_form_page_4
+      label: code_metrics_report_form_page_4
+      hint: null
+      type: text
+      options: []
+      required: false

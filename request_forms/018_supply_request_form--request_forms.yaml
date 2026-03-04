@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supplier_id
+      label: supplier
+      hint: The supplier name or ID
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product_id
+      label: product
+      hint: The product name or ID
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity_ordered
+      label: quantity_ordered
+      hint: Quantity Ordered
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_ordered
+      label: date_ordered
+      hint: Date Ordered
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_delivered
+      label: date_delivered
+      hint: Date Delivered
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: Status
+      type: select_one
+      options:
+      - '{''label'': ''pending'', ''value'': ''pending''}'
+      - '{''label'': ''in_stock'', ''value'': ''in_stock''}'
+      - '{''label'': ''delivered'', ''value'': ''delivered''}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: Notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

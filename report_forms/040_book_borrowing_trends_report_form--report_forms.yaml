@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Borrowing Trends Report Form
+    pages:
+    - id: 1
+      name: report_header
+      label: -- Report Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: library_name
+      label: Library name
+      hint: Institution generating report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period_start
+      label: Reporting period start
+      hint: Start date for the report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period_end
+      label: Reporting period end
+      hint: End date for the report
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: total_borrows
+      label: Total borrows
+      hint: Total number of items borrowed
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: top_genres
+      label: Top genres borrowed
+      hint: Select top genres for the period
+      type: select_multiple
+      options:
+      - Fiction
+      - Non fiction
+      - Children
+      - Young adult
+      - Mystery
+      required: false
+    - id: 7
+      name: notable_trends
+      label: Notable trends
+      hint: Observed changes in borrowing behavior
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: Suggestions for collection adjustments
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Claim Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_type
+      label: What type of travel was taken
+      hint: What type of travel you were on
+      type: select_one
+      options:
+      - Business
+      - Vacation
+      required: false
+    - id: 3
+      name: travel_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mode_of_transportation
+      label: Mode of Transportation
+      hint: What mode of transportation did you use
+      type: select_multiple
+      options:
+      - Air
+      - Train
+      - Bus
+      required: false
+    - id: 8
+      name: travel_distance
+      label: Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_hours
+      label: Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: travel_days
+      label: Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: travel_nights
+      label: Nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: travel_expenses
+      label: Travel Expenses
+      hint: List travel expenses, including meals, accommodations, etc
+      type: select_multiple
+      options:
+      - Airfare
+      - Hotel
+      - Meals
+      - Other
+      required: true
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

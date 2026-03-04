@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 55th Street Guest Form
+    pages:
+    - id: 1
+      name: section_header_guest_info
+      label: "--- Guest Information & Stay Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Guest full name
+      hint: Enter legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email address
+      hint: For confirmations and signature receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Primary phone number
+      hint: Include country code if international
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: arrival_date
+      label: Arrival date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: arrival_time
+      label: Expected arrival time
+      hint: Use 24-hour or AM/PM
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: departure_date
+      label: Departure date
+      hint: Leave blank for open-ended stays
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: number_of_nights
+      label: Number of nights staying
+      hint: Enter whole number
+      type: integer
+      options: []
+      required: false
+    - id: 9
+      name: guest_address
+      label: Home address or mailing address
+      hint: Street, city, state/province, postal code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Name of local contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Provide best reachable number
+      type: phone
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_license_plate
+      label: Vehicle license plate (if bringing a vehicle)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: room_preferences
+      label: Room preference
+      hint: Select one if applying
+      type: select_one
+      options:
+        - Single bed
+        - Double bed
+        - Shared room
+        - No preference
+      required: false
+    - id: 14
+      name: guest_signature_fullname
+      label: Guest signature (type full name)
+      hint: Typing full name serves as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: host_instructions_or_notes
+      label: Host notes or special instructions
+      hint: e.g., dietary restrictions, accessibility needs
+      type: text
+      options: []
+      required: false

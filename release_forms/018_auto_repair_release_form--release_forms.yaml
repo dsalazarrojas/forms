@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Repair Release Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Auto Repair Release Form
+      hint: Please read and complete this release form
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: Provide your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Exterior color
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: license_plate
+      label: License Plate Number
+      hint: Current plate
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mileage_in
+      label: Mileage In
+      hint: Odometer reading at drop-off
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: repair_info
+      label: Repair Information
+      hint: Details about the repair
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: repair_description
+      label: Description of Repairs
+      hint: What work was performed
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: repair_date
+      label: Date of Repair
+      hint: When was repair completed
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: total_cost
+      label: Total Repair Cost
+      hint: Total amount paid
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: parts_used
+      label: Parts Used
+      hint: List of parts replaced
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parts_warranty
+      label: Parts Warranty
+      hint: Warranty on parts
+      type: select_one
+      options:
+      - 12 months or 12000 miles
+      - 24 months or 24000 miles
+      - 36 months or 36000 miles
+      - Lifetime
+      - No Warranty
+      - Other
+      required: false
+    - id: 25
+      name: labor_warranty
+      label: Labor Warranty
+      hint: Warranty on labor
+      type: select_one
+      options:
+      - 12 months or 12000 miles
+      - 24 months or 24000 miles
+      - 36 months or 36000 miles
+      - Lifetime
+      - No Warranty
+      - Other
+      required: false
+    - id: 26
+      name: release_terms
+      label: Release Terms
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: work_satisfactory
+      label: Work Completed Satisfactorily
+      hint: Are you satisfied with the work
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: vehicle_condition
+      label: Vehicle Condition at Pickup
+      hint: Condition when received back
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 29
+      name: personal_items_removed
+      label: Personal Items Removed
+      hint: Have you removed all personal items
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: keys_received
+      label: All Keys Received
+      hint: Did you get all keys back
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: outstanding_issues
+      label: Outstanding Issues
+      hint: Any unresolved concerns
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: release_agreement
+      label: Release Agreement
+      hint: By signing you release the repair shop from liability
+      type: select_one
+      options:
+      - I Agree and Release
+      - I Do Not Agree
+      required: true
+    - id: 33
+      name: warranty_understanding
+      label: Warranty Understanding
+      hint: Do you understand the warranty terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not
+      required: true
+    - id: 34
+      name: future_issues
+      label: Future Issues Acknowledgment
+      hint: Unrelated future issues are not covered
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 35
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 37
+      name: witness_name
+      label: Witness Name
+      hint: Shop representative
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: witness_signature
+      label: Witness Signature
+      hint: Shop representative signature
+      type: text
+      options: []
+      required: false

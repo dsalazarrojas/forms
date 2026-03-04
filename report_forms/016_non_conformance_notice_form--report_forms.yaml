@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Conformance Notice Form
+    pages:
+    - id: 1
+      name: non_conformance_topic
+      label: Non Conformance Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attached_files
+      label: Attached Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

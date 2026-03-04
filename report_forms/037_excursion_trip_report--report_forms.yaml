@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excursion Trip Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: report_location
+      label: Report Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_details
+      label: Report Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: report_issues
+      label: Report Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: report_vehicles
+      label: Report Vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: report_assets
+      label: Report Assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: report_assets_other
+      label: Other Assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: report_assets_vehicles
+      label: Vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: report_assets_equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

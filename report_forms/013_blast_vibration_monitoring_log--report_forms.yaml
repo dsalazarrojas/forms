@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blast Vibration Monitoring Log
+    pages:
+    - id: 1
+      name: site_header
+      label: -- Site Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_name
+      label: Site name
+      hint: Location of blasting activity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: Date of monitoring
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: Time of measurement
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: blast_id
+      label: Blast identifier
+      hint: Internal blast reference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vibration_reading_peak
+      label: Vibration reading peak mm s
+      hint: Peak particle velocity decimal
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vibration_reading_average
+      label: Vibration reading average mm s
+      hint: Average PPV if available
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: instrument_serial
+      label: Instrument serial number
+      hint: Monitor device serial
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: observer_notes
+      label: Observer notes
+      hint: Observations during blast
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_required
+      label: Follow up required
+      hint: Further investigation needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

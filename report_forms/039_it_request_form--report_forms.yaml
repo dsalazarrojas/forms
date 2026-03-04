@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_request_form
+    pages:
+    - id: 1
+      name: it_request_form
+      label: software_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hardware_issue
+      label: hardware_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: it_urgency
+      label: urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category_1
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Software
+      - Hardware
+      required: false
+    - id: 6
+      name: status_1
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - In-progress
+      - Resolved
+      required: false
+    - id: 7
+      name: priority_1
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_1
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_1
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

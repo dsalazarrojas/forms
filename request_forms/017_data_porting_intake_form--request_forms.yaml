@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Porting Intake Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transfer_details
+      label: Transfer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_transfer_method
+      label: Data Transfer Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Email and Phone''}'
+      - '{''label'': ''Email, Phone, and In-Person''}'
+      - '{''label'': ''Phone and In-Person''}'
+      - '{''label'': ''In-Person''}'
+      required: false
+    - id: 7
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Data Transfers''}'
+      - '{''label'': ''Account Information''}'
+      - '{''label'': ''Account Management''}'
+      required: true
+    - id: 9
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Multiple''}'
+      required: true
+    - id: 10
+      name: data_transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: support_info
+      label: Support Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Primary''}'
+      required: true
+    - id: 14
+      name: requestor_phone_extension
+      label: Requestor Phone Extension
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: requestor_work_phone
+      label: Requestor Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: requestor_cell_phone
+      label: Requestor Cell Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: notes_2
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: transfer_method
+      label: Transfer Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: requestor_department
+      label: Requestor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: requestor_manager
+      label: Requestor Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: requestor_work_phone
+      label: Requestor Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false

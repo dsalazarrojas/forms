@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workout Completion Rate Report Form
+    pages:
+    - id: 1
+      name: workout_completion_rate_report_form_page_1
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 8
+      name: workout_type
+      label: Workout Type
+      hint: null
+      type: select_multiple
+      options:
+      - Strength Training
+      - Cardio
+      - Both
+      required: false
+    - id: 9
+      name: workout_frequency
+      label: Workout Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: workout_days_per_week
+      label: Workout Days Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: workout_minutes_per_session
+      label: Workout Minutes Per Session
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_notes_2
+      label: Participant Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

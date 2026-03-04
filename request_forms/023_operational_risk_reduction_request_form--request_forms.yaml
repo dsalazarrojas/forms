@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operational Risk Reduction Request Form
+    pages:
+    - id: 1
+      name: operational_risk_reduction_request_form
+      label: Operational Risk Reduction Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: operational_risk_reduction_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Risk Management
+      - Operational Risk
+      - Financial Risk
+      required: false
+    - id: 3
+      name: operational_risk_reduction_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: operational_risk_reduction_impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: operational_risk_reduction_impact_frequency
+      label: Impact Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: operational_risk_reduction_impact_likelihood
+      label: Likelihood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: operational_risk_reduction_potential_consequences
+      label: Potential Consequences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: operational_risk_reduction_control_measure
+      label: Control Measure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: operational_risk_reduction_review
+      label: Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: operational_risk_reduction_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: operational_risk_reduction_date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: operational_risk_reduction_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: operational_risk_reduction_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: operational_risk_reduction_attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: operational_risk_reduction_attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: operational_risk_reduction_attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: operational_risk_reduction_attachment_file_type
+      label: Attachment File Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

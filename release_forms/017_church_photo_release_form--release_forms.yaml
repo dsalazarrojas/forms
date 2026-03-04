@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Photo Release Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Person being photographed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_address
+      label: Participant Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: minor_status
+      label: Is the Participant a Minor
+      hint: Under 18 years old
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: guardian_name
+      label: Parent/Guardian Name
+      hint: If participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guardian_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: guardian_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_description
+      label: Description of Photographs
+      hint: What type of photos will be taken
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_name
+      label: Event or Activity Name
+      hint: Where photos will be taken
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: usage_purpose
+      label: Intended Use of Photographs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Church website
+      - Social media
+      - Church bulletin
+      - Promotional materials
+      - Annual report
+      - Display boards
+      - News media
+      - Internal records
+      required: true
+    - id: 14
+      name: usage_duration
+      label: Duration of Usage Rights
+      hint: How long can photos be used
+      type: select_one
+      options:
+      - One year
+      - Three years
+      - Five years
+      - Indefinitely
+      - One-time use only
+      required: true
+    - id: 15
+      name: compensation
+      label: Will You Receive Compensation
+      hint: null
+      type: select_one
+      options:
+      - No, this is voluntary
+      - Yes, payment received
+      - Yes, gift received
+      required: true
+    - id: 16
+      name: restrictions
+      label: Any Usage Restrictions
+      hint: Limitations on photo use
+      type: select_one
+      options:
+      - No restrictions
+      - No social media use
+      - No website use
+      - No print materials
+      - Approval required before use
+      required: true
+    - id: 17
+      name: restriction_details
+      label: Please Specify Restrictions
+      hint: If any restrictions selected
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: grant_permission
+      label: Permission Grant
+      hint: I grant permission to use photographs
+      type: select_one
+      options:
+      - Yes, I grant full permission
+      - Yes, with restrictions noted
+      - No, I do not grant permission
+      required: true
+    - id: 19
+      name: revocation_understanding
+      label: Revocation Understanding
+      hint: Permission can be revoked in writing
+      type: select_one
+      options:
+      - I understand
+      - I have questions
+      required: true
+    - id: 20
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: guardian_signature
+      label: Parent/Guardian Signature
+      hint: If participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: witness_name
+      label: Witness Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_signature
+      label: Witness Signature
+      hint: Optional
+      type: text
+      options: []
+      required: false

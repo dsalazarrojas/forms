@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Alive Fellowship Manchester
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: email_confirmation
+      label: Confirm E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full Membership'', ''value'': ''Full Member''}'
+      - '{''id'': 2, ''label'': ''Associate Membership'', ''value'': ''Associate Member''}'
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit'', ''value'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Cancel'', ''value'': ''Cancel''}'
+      required: true

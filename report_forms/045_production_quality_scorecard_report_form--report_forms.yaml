@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Quality Scorecard Report Form
+    pages:
+    - id: 1
+      name: shift_name
+      label: Shift Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: score_1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: criteria_1
+      label: Criteria 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: criteria_2
+      label: Criteria 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: criteria_3
+      label: Criteria 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: criteria_4
+      label: Criteria 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: score_2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shift_notes
+      label: Shift Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shift_assessment
+      label: Shift Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: shift_rating
+      label: Shift Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: batch_notes
+      label: Batch Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: batch_name
+      label: Batch Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: batch_rating
+      label: Batch Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: quality_issues
+      label: Quality Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: issues_description
+      label: Issues Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

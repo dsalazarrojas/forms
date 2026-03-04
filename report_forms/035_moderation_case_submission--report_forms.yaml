@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moderation Case Submission
+    pages:
+    - id: 1
+      name: incident_report
+      label: incident report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: severity
+      label: severity
+      hint: null
+      type: select_multiple
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Very Severe
+      required: false
+    - id: 7
+      name: follow_up
+      label: follow up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: case_notes
+      label: case notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: false
+    - id: 12
+      name: case_status
+      label: case status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Resolved
+      - Closed
+      required: false
+    - id: 13
+      name: follow_up_details
+      label: follow up details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_notes
+      label: additional notes
+      hint: null
+      type: text
+      options: []
+      required: false

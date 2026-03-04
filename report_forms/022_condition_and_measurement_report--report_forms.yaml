@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Condition And Measurement Report
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector name
+      hint: Person performing the inspection
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: asset_id
+      label: Asset identifier
+      hint: Equipment or property ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection date
+      hint: Date inspection performed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location of asset
+      hint: Building, floor, or area
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: measurement_type
+      label: Measurement type
+      hint: Type of measurement recorded
+      type: select_one
+      options:
+      - Length
+      - Width
+      - Height
+      - Weight
+      - Temperature
+      required: true
+    - id: 6
+      name: measured_value
+      label: Measured value
+      hint: Enter numeric measurement
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: allowed_tolerance
+      label: Allowed tolerance
+      hint: Acceptable measurement range
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: condition_status
+      label: Condition status
+      hint: Overall condition assessment
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Requires repair
+      required: true
+    - id: 9
+      name: photos_reference
+      label: Photo references
+      hint: List filenames or upload references
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommended_actions
+      label: Recommended actions
+      hint: Suggested repairs or monitoring
+      type: text
+      options: []
+      required: false

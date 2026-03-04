@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: criminal_affidavit_form
+    pages:
+    - id: 1
+      name: criminal_affidavit_form_page_1
+      label: police_case_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: case_date
+      label: police_case_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: suspect_name
+      label: suspect_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suspect_address
+      label: suspect_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suspect_contact
+      label: suspect_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: police_officer_name
+      label: police_officer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: police_officer_station
+      label: police_station
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: crime_description
+      label: crime_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness_statement
+      label: witness_statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: police_case_status
+      label: police_case_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 11
+      name: police_case_notes
+      label: police_case_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: police_case_attachment
+      label: police_case_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: police_witness_statement_attachment
+      label: police_witness_statement_attachment
+      hint: null
+      type: text
+      options: []
+      required: false

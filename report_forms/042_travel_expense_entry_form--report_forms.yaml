@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_expense_entry_form
+    pages:
+    - id: 1
+      name: travel_expense_entry
+      label: travel_expense_entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_travel
+      label: date_of_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_purpose
+      label: travel_purpose
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      required: false
+    - id: 5
+      name: travel_start_date
+      label: travel_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_end_date
+      label: travel_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_distance
+      label: travel_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_mode
+      label: travel_mode
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Train
+      - Car
+      - Other
+      required: false
+    - id: 9
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: accommodation
+      label: accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meal_and_sundry
+      label: meal_and_sundry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_expenses
+      label: other_expenses
+      hint: null
+      type: text
+      options: []
+      required: false

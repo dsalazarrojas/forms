@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Monitoring Alert Report Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_source
+      label: Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_summary
+      label: Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''high'', ''label'': ''High''}'
+      - '{''id'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: incident_evidence
+      label: Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_responsible_team
+      label: Responsible Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''it'', ''label'': ''IT''}'
+      - '{''id'': ''sec'', ''label'': ''Security''}'
+      - '{''id'': ''op'', ''label'': ''Operations''}'
+      required: false
+    - id: 8
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''open'', ''label'': ''Open''}'
+      - '{''id'': ''closed'', ''label'': ''Closed''}'
+      - '{''id'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''system'', ''label'': ''System''}'
+      - '{''id'': ''network'', ''label'': ''Network''}'
+      - '{''id'': ''application'', ''label'': ''Application''}'
+      required: false
+    - id: 14
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_escalation
+      label: Escalation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': False, ''label'': False}'
+      - '{''id'': True, ''label'': True}'
+      required: false
+    - id: 16
+      name: incident_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''one_time'', ''label'': ''One Time''}'
+      - '{''id'': ''recurring'', ''label'': ''Recurring''}'
+      required: false
+    - id: 17
+      name: incident_impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''low'', ''label'': ''Low''}'
+      - '{''id'': ''medium'', ''label'': ''Medium''}'
+      - '{''id'': ''high'', ''label'': ''High''}'
+      required: false
+    - id: 18
+      name: incident_severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''low'', ''label'': ''Low''}'
+      - '{''id'': ''medium'', ''label'': ''Medium''}'
+      - '{''id'': ''high'', ''label'': ''High''}'
+      required: false
+    - id: 19
+      name: incident_status_escalation
+      label: Status Escalation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': False, ''label'': False}'
+      - '{''id'': True, ''label'': True}'
+      required: false
+    - id: 20
+      name: incident_report_status
+      label: Report Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''draft'', ''label'': ''Draft''}'
+      - '{''id'': ''submitted'', ''label'': ''Submitted''}'
+      - '{''id'': ''approved'', ''label'': ''Approved''}'
+      required: false
+    - id: 21
+      name: incident_escalation_count
+      label: Escalation Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: incident_escalation_time
+      label: Escalation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: incident_escalation_status
+      label: Escalation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''open'', ''label'': ''Open''}'
+      - '{''id'': ''closed'', ''label'': ''Closed''}'
+      required: false
+    - id: 24
+      name: incident_responsible_user
+      label: Responsible User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

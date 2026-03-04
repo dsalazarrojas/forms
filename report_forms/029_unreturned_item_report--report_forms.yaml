@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unreturned Item Report
+    pages:
+    - id: 1
+      name: unreturned_item_report_form
+      label: unreturned_item_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: borrower_details
+      label: borrower_details
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Borrower''}'
+      - Borrower 2
+      - Borrower 3
+      required: false
+    - id: 3
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: overdue_days
+      label: overdue_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

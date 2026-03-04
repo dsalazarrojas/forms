@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Location Cost Estimation Form
+    pages:
+    - id: 1
+      name: venue_details
+      label: Venue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_capacity
+      label: Venue Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: estimate_type
+      label: Estimate Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type A''}'
+      - '{''id'': 2, ''label'': ''Type B''}'
+      - '{''id'': 3, ''label'': ''Type C''}'
+      required: false
+    - id: 4
+      name: estimate_request_date
+      label: Estimate Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: estimate_request_time
+      label: Estimate Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: estimate_requester
+      label: Estimate Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Plan Release Form
+    pages:
+    - id: 1
+      name: release_form
+      label: service_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_release
+      label: reason_for_releas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_release
+      label: date_of_releas
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_release
+      label: time_of_releas
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_nam
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: decision
+      label: releas
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Volunteer Training Day Registration
+    pages:
+    - id: 1
+      name: volunteer_sign_up
+      label: Volunteer Sign-up
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: training_sessions
+      label: Training Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: Call or text
+      type: select_one
+      options:
+      - Call
+      - Text
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Payment Hold Request Form
+    pages:
+    - id: 1
+      name: vendor_payment_hold_request_form
+      label: Vendor Payment Hold Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: invoice_details
+      label: Invoice Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: invoice_id
+      label: invoice_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vendor_name
+      label: vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: hold_reason
+      label: hold_reason
+      hint: null
+      type: select_one
+      options:
+      - Late payment
+      - Incorrect payment method
+      - Missing payment document
+      required: false
+    - id: 7
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: select_one
+      options:
+      - Finance Team
+      - Procurement Team
+      - Accounts Team
+      required: false

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: BSOD (Blue Screen Of Death) Crash Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: When did the crash occur?
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_time
+      label: Time of Crash
+      hint: Approximate time the system crashed
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: reporter_name
+      label: Reporter Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_email
+      label: Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: reporter_phone
+      label: Reporter Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: computer_name
+      label: Computer or Device Name
+      hint: Hostname or device identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: operating_system
+      label: Operating System
+      hint: Windows version, etc.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: crash_frequency
+      label: How Often Does This Crash Occur?
+      hint: null
+      type: select_one
+      options:
+      - First occurrence
+      - Occasionally
+      - Frequently
+      - Constantly
+      - Intermittent
+      required: true
+    - id: 9
+      name: error_code
+      label: BSOD Error Code
+      hint: The STOP code displayed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: error_message
+      label: Error Message
+      hint: Complete error message if available
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: what_you_were_doing
+      label: What Were You Doing When It Crashed?
+      hint: Application, task, or activity
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recently_installed
+      label: Recently Installed Software or Updates?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 13
+      name: recent_changes
+      label: Recent System Changes
+      hint: Hardware added, drivers updated, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recovery_steps
+      label: Recovery Steps Attempted
+      hint: What have you already tried?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: data_loss
+      label: Any Data Loss or Corruption?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 16
+      name: hardware_affected
+      label: Is Hardware Potentially Affected?
+      hint: Hard drive, RAM, motherboard, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: system_backup
+      label: Latest System Backup Date
+      hint: When was the last backup?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: critical_data
+      label: Does This System Store Critical Data?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some
+      required: false
+    - id: 19
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this issue?
+      type: select_one
+      options:
+      - Critical - System unusable
+      - High - Major impact
+      - Medium - Occasional impact
+      - Low - Workaround available
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

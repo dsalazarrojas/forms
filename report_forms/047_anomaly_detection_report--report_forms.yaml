@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anomaly Detection Report
+    pages:
+      - id: 1
+        name: report_date
+        label: Report Date and Time
+        hint: When anomaly was detected
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: report_time
+        label: Report Time
+        hint: Time of detection
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: reporter_name
+        label: Reporter Name
+        hint: Person reporting the anomaly
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: reporter_email
+        label: Reporter Email
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: reporter_department
+        label: Department
+        hint: Reporting department
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: anomaly_type
+        label: Type of Anomaly
+        hint: null
+        type: select_one
+        options:
+          - "Security anomaly"
+          - "Performance anomaly"
+          - "Data anomaly"
+          - "Network anomaly"
+          - "User behavior anomaly"
+          - "System anomaly"
+          - "Other"
+        required: true
+      - id: 7
+        name: system_affected
+        label: System or Service Affected
+        hint: What system is impacted
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: anomaly_description
+        label: Detailed Description of Anomaly
+        hint: What was observed or detected
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: detection_method
+        label: How was the anomaly detected
+        hint: Monitoring tool, manual review, alert, etc.
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: first_occurrence
+        label: First Occurrence Date
+        hint: When did issue first appear
+        type: date
+        options: []
+        required: false
+      - id: 11
+        name: occurrence_frequency
+        label: Frequency of Occurrence
+        hint: null
+        type: select_one
+        options:
+          - "One-time event"
+          - "Intermittent"
+          - "Recurring"
+          - "Continuous"
+        required: true
+      - id: 12
+        name: severity_level
+        label: Severity Level
+        hint: null
+        type: select_one
+        options:
+          - "Critical - immediate action required"
+          - "High - urgent attention needed"
+          - "Medium - should be addressed soon"
+          - "Low - monitor situation"
+          - "Informational - for awareness"
+        required: true
+      - id: 13
+        name: business_impact
+        label: Business Impact
+        hint: How does this affect operations
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: affected_users
+        label: Number of Affected Users or Systems
+        hint: Estimated count
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: data_involved
+        label: Type of Data Involved
+        hint: null
+        type: select_multiple
+        options:
+          - "Personal data"
+          - "Financial data"
+          - "Health information"
+          - "Operational data"
+          - "Proprietary information"
+          - "Other"
+        required: false
+      - id: 16
+        name: potential_cause
+        label: Potential Cause
+        hint: Suspected root cause
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: related_incidents
+        label: Related Incidents or Patterns
+        hint: Similar anomalies previously observed
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: evidence_attached
+        label: Evidence or Supporting Documentation
+        hint: Logs, screenshots, metrics, etc.
+        type: select_one
+        options:
+          - "Yes - attached or referenced"
+          - "Will provide separately"
+          - "No evidence available"
+        required: true
+      - id: 19
+        name: immediate_actions
+        label: Immediate Actions Taken
+        hint: Steps already taken to address
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: investigation_status
+        label: Investigation Status
+        hint: null
+        type: select_one
+        options:
+          - "Not started"
+          - "In progress"
+          - "Completed"
+          - "Awaiting resources"
+        required: true
+      - id: 21
+        name: escalation_needed
+        label: Escalation to senior management needed
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Under review"
+        required: false
+      - id: 22
+        name: next_steps
+        label: Recommended Next Steps
+        hint: What should be done
+        type: text
+        options: []
+        required: true

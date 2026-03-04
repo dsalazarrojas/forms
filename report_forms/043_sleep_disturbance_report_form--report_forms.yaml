@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Disturbance Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: subject_name
+      label: Subject Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sleep_stages
+      label: Sleep Stages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Stage 1: Non-REM Sleep'
+      - 'Stage 2: Light Sleep'
+      - 'Stage 3: Deep Sleep'
+      - 'Stage 4: REM Sleep'
+      required: false
+    - id: 4
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: disturbances
+      label: Disturbances
+      hint: null
+      type: select_multiple
+      options:
+      - Snoring
+      - Sleepwalking
+      - Sleep Talking
+      - Sleep Paralysis
+      - Sleep Apnea
+      - Sleep Terrors
+      - Sleepwalking
+      required: false
+    - id: 7
+      name: sleep_location
+      label: Sleep Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Bed
+      - Hotel
+      - Clinic
+      - Lab
+      - Other
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy1
+      - chatjimmy2
+      required: false

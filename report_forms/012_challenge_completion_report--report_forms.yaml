@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Challenge Completion Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: When the report is submitted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of challenge participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_id
+      label: Participant ID Number
+      hint: Unique identifier if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: challenge_name
+      label: Challenge Name
+      hint: Name of the challenge completed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: challenge_start_date
+      label: Challenge Start Date
+      hint: When challenge began
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: challenge_end_date
+      label: Challenge End Date
+      hint: When challenge was completed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: completion_status
+      label: Completion Status
+      hint: Was challenge fully completed
+      type: select_one
+      options:
+      - Fully Completed
+      - Partially Completed
+      - Not Completed
+      - Completed Early
+      required: true
+    - id: 8
+      name: completion_percentage
+      label: Percentage Complete
+      hint: If partially completed, what percent
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: supporting_evidence
+      label: Supporting Evidence or Documentation
+      hint: Photos, screenshots, or files proving completion
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: goals_met
+      label: Goals Met During Challenge
+      hint: Describe goals achieved
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: challenges_encountered
+      label: Challenges or Obstacles Encountered
+      hint: What made the challenge difficult
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: solutions_implemented
+      label: Solutions Implemented
+      hint: How were obstacles overcome
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Key takeaways from the challenge
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: personal_growth
+      label: Personal Growth or Development
+      hint: How did you grow through this challenge
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: effort_level
+      label: Overall Effort Level Required
+      hint: Rate the effort required
+      type: select_one
+      options:
+      - Minimal Effort
+      - Moderate Effort
+      - Significant Effort
+      - Extreme Effort
+      required: false
+    - id: 16
+      name: difficulty_rating
+      label: Difficulty Rating
+      hint: Rate challenge difficulty
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 17
+      name: satisfaction_level
+      label: Satisfaction with Completing Challenge
+      hint: How satisfied are you with completion
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 18
+      name: would_do_again
+      label: Would You Do This Challenge Again
+      hint: Interest in repeating the challenge
+      type: select_one
+      options:
+      - 'Yes'
+      - Maybe
+      - 'No'
+      required: false
+    - id: 19
+      name: recommendations
+      label: Recommendations for Future Participants
+      hint: Advice for others taking this challenge
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_acknowledgment
+      label: I Certify This Report is Accurate and Complete
+      hint: Acknowledge truthfulness of report
+      type: select_one
+      options:
+      - Yes, I Agree
+      - 'No'
+      required: true

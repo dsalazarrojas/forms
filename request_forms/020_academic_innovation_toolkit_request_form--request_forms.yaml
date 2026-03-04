@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Innovation Toolkit Request Form
+    pages:
+    - id: 1
+      name: toolkit_request
+      label: -- Toolkit Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester full name
+      hint: Faculty or staff name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Institutional email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or unit
+      hint: Department requesting the toolkit
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: toolkit_type
+      label: Toolkit type requested
+      hint: Choose the most relevant category
+      type: select_one
+      options:
+      - Teaching toolkit
+      - Research toolkit
+      - Data analysis toolkit
+      - Accessibility toolkit
+      - Other
+      required: true
+    - id: 6
+      name: intended_use
+      label: Intended use of toolkit
+      hint: Brief description of planned activities
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: number_of_copies
+      label: Number of copies or licenses
+      hint: Estimated quantity required
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: timeline
+      label: Desired timeline for delivery
+      hint: Provide dates or semester
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget_source
+      label: Budget or funding source
+      hint: Department code or grant reference
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approver_confirmation
+      label: Approver confirmation
+      hint: Signature or approver name for processing
+      type: text
+      options: []
+      required: false

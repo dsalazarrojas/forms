@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Lighting Inquiry
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: address_line1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_line2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: service_type_options
+      label: Type of Service
+      hint: null
+      type: select_multiple
+      options:
+      - Exterior
+      - Electrical Work
+      - Lighting Design
+      - Electrical Work
+      - Lighting Design
+      - Other
+      - Other
+      - Other
+      required: false
+    - id: 7
+      name: service_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_type_other_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: note
+      options: []
+      required: false

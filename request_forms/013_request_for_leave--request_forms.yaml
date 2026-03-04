@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Leave
+    pages:
+    - id: 1
+      name: request_for_leave
+      label: Request for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Leave Type
+      - Work
+      - Personal
+      required: false
+    - id: 3
+      name: date_of_leave
+      label: Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date_of_leave
+      label: Start Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date_of_leave
+      label: End Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: duration_of_leave
+      label: Duration of Leave
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purpose_of_leave
+      label: Purpose of Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

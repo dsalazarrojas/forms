@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Flight Operations Report
+    pages:
+    - id: 1
+      name: scheduled_departure
+      label: Scheduled Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: scheduled_arrival
+      label: Scheduled Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: actual_departure
+      label: Actual Departure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: actual_arrival
+      label: Actual Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: flight_status
+      label: Flight Status
+      hint: Select status of the flight
+      type: select_one
+      options:
+      - Delayed
+      - On schedule
+      - Cancelled
+      required: false
+    - id: 6
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: flight_type
+      label: Flight Type
+      hint: Type of flight
+      type: select_one
+      options:
+      - Commercial
+      - Private
+      - Charter
+      required: false
+    - id: 8
+      name: scheduled_departure_time
+      label: Scheduled Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: actual_departure_time
+      label: Actual Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: flight_status_reason
+      label: Flight Status Reason
+      hint: Reason for flight status (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: flight_id
+      label: Flight ID
+      hint: null
+      type: number
+      options: []
+      required: false

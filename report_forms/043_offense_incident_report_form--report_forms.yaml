@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: offense incident report form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: offense_type
+      label: Offense Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: Provide a detailed description of the incident
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: perpetrator
+      label: Perpetrator
+      hint: Name of the person or entity involved in the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: witnesses
+      label: Witnesses
+      hint: List of witnesses to the incident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: perpetrator_contact
+      label: Perpetrator Contact Information
+      hint: Contact information for the perpetrator
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: Where the incident occurred
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_reason
+      label: Report Reason
+      hint: Reason for reporting the incident
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reporter
+      label: Incident Reporter
+      hint: Person filing the incident report
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_status
+      label: Incident Status
+      hint: Status of the incident (e.g. active, closed, pending)
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Pending
+      required: false
+    - id: 11
+      name: incident_priority
+      label: Incident Priority
+      hint: Priority level of the incident (e.g. High, Medium, Low)
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: incident_category
+      label: Incident Category
+      hint: Category of the incident (e.g. Theft, Harassment, etc.)
+      type: select_one
+      options:
+      - Theft
+      - Harassment
+      - Other
+      required: false
+    - id: 13
+      name: incident_date
+      label: Incident Date
+      hint: Date the incident occurred
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: report_submitted
+      label: Report Submitted
+      hint: Date the report was submitted
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: report_updated
+      label: Report Updated
+      hint: Date the report was last updated
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: report_closed
+      label: Report Closed
+      hint: Date the report was closed
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: report_closed_reason
+      label: Report Closed Reason
+      hint: Reason why the report was closed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_description
+      label: Incident Description
+      hint: Brief description of the incident
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: incident_notes
+      label: Incident Notes
+      hint: Additional notes about the incident
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attachment
+      label: Attachment
+      hint: Attach any relevant documents or evidence
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: Notes for the reviewer
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reviewer
+      label: Reviewer
+      hint: Name of the person reviewing the report
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Reviewer signature
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_comments
+      label: Reviewer Comments
+      hint: Comments from the reviewer
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review_date
+      label: Review Date
+      hint: Date the report was reviewed
+      type: date
+      options: []
+      required: false

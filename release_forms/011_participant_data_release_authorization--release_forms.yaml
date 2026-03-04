@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participant Data Release Authorization
+    pages:
+    - id: 1
+      name: form_participant_data_release_authorization
+      label: Participant Data Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_recipient_details
+      label: Recipient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_release_purpose
+      label: Release Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_release_type
+      label: Release Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Participant''}'
+      - '{''label'': ''Program''}'
+      - '{''label'': ''Research Team''}'
+      required: false
+    - id: 5
+      name: form_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_agreed
+      label: Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: form_email_recipient
+      label: Email Recipient
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_phone_recipient
+      label: Phone Recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_address_recipient
+      label: Address Recipient
+      hint: null
+      type: text
+      options: []
+      required: false

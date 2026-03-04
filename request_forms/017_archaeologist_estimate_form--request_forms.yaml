@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Archaeologist Estimate Form
+    pages:
+    - id: 1
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Title or description
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: Geographic area or site name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_type
+      label: Type of Archaeological Work
+      hint: null
+      type: select_one
+      options:
+      - Excavation
+      - Survey
+      - Cultural Resource Assessment
+      - Monitoring
+      - Laboratory analysis
+      - Other
+      required: true
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: Detailed scope of work
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_duration_days
+      label: Estimated Project Duration (days)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_team_requirements
+      label: -- Team and Resource Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: team_lead_required
+      label: Project Lead Archaeologist Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: team_members_count
+      label: Number of Additional Team Members
+      hint: Estimated staff needed
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: specialized_expertise
+      label: Specialized Expertise Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Ceramics analysis
+      - Faunal remains analysis
+      - Botanical analysis
+      - Lithics analysis
+      - Carbon dating
+      - GIS mapping
+      - Historical research
+      required: false
+    - id: 11
+      name: equipment_needed
+      label: Major Equipment Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Excavation tools
+      - Survey equipment
+      - Lab equipment
+      - Photography equipment
+      - Documentation software
+      required: false
+    - id: 12
+      name: section_budget_factors
+      label: -- Budget Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: travel_required
+      label: Travel Required
+      hint: null
+      type: select_one
+      options:
+      - Local only
+      - Regional
+      - National
+      - International
+      required: true
+    - id: 14
+      name: accommodation_days
+      label: Accommodation Days Needed
+      hint: Number of nights away from base
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: lab_work_required
+      label: Laboratory Work Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: estimated_budget
+      label: Client Budget Range
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: project_start_date
+      label: Desired Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: project_deadline
+      label: Project Deadline
+      hint: When must work be completed?
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Component Integrity Verification Report
+    pages:
+      - id: 1
+        name: section_inspection_summary
+        label: -- Inspection Summary --
+        hint: Record inspection findings and corrective actions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inspector_name
+        label: Inspector name
+        hint: Person completing the report
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inspection_date
+        label: Inspection date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: component_identifier
+        label: Component identifier
+        hint: Serial or asset tag
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: integrity_findings
+        label: Integrity findings
+        hint: Describe any defects or anomalies
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: severity_level
+        label: Severity level
+        hint: Rate severity of issues found
+        type: select_one
+        options: [Low, Moderate, High, Critical]
+        required: true
+      - id: 7
+        name: corrective_actions
+        label: Corrective actions taken
+        hint: Actions performed to mitigate issues
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommended_follow_up
+        label: Recommended follow up
+        hint: Suggested next steps and timeline
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: attachments
+        label: Attachments
+        hint: Photos or documents referenced in the report
+        type: text
+        options: []
+        required: false

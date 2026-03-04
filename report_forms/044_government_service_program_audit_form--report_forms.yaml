@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Service Program Audit Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Public Program
+      - Private Program
+      - Other
+      required: false
+    - id: 4
+      name: program_name_details
+      label: Program Name Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_start_date
+      label: Program Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_end_date
+      label: Program End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_review
+      label: Program Review
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: program_rating
+      label: Program Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: program_comments
+      label: Program Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Other
+      required: false
+    - id: 11
+      name: program_notes
+      label: Program Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_recommendation
+      label: Program Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - Recommend
+      - No Recommendation
+      required: false

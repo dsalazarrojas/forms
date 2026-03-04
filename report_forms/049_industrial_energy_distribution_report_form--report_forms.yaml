@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_energy_distribution_report_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_sources
+      label: Energy Sources
+      hint: null
+      type: select_multiple
+      options:
+      - Electricity
+      - Steam
+      - Gas
+      - Water
+      - Other
+      required: false
+    - id: 3
+      name: total_energy_distributed
+      label: Total Energy Distributed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: operational_issues
+      label: Operational Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_comments
+      label: Issue Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: issue_image
+      label: Issue Image
+      hint: null
+      type: text
+      options: []
+      required: false

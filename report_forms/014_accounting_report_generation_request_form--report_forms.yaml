@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Report Generation Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_type
+      label: Report Type
+      hint: Select the primary report category
+      type: select_one
+      options:
+      - Profit and Loss
+      - Balance Sheet
+      - Aging Report
+      - Budget vs Actual
+      - Custom Report
+      required: true
+    - id: 3
+      name: custom_report_details
+      label: Custom Report Details
+      hint: Specify parameters if Custom Report was selected
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly Recurring
+      - Quarterly Recurring
+      required: true
+    - id: 5
+      name: start_date_for_data
+      label: Start Date for Data
+      hint: Beginning of the report range
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date_for_data
+      label: End Date for Data
+      hint: End of the report range
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: level_of_detail
+      label: Level of Detail
+      hint: null
+      type: select_one
+      options:
+      - Summary
+      - Detailed with Transactions
+      required: true
+    - id: 8
+      name: output_format
+      label: Output Format
+      hint: Select preferred file types
+      type: select_multiple
+      options:
+      - PDF
+      - Excel
+      - CSV
+      - Online Dashboard
+      required: true
+    - id: 9
+      name: needed_by_date
+      label: Needed By Date
+      hint: Desired delivery date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: distribution_list
+      label: Distribution List
+      hint: Email addresses separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_status
+      label: Internal Approval Status
+      hint: For office use only
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      required: false

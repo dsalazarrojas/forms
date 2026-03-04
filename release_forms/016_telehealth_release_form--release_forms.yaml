@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: telehealth-release-form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_date
+      label: consent-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider
+      label: healthcare-provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_date
+      label: release-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_release
+      label: reason-for-release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signed_date
+      label: signed-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signed_by
+      label: signed-by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Doctor'', ''value'': ''Doctor''}'
+      - '{''id'': 2, ''label'': ''Nurse'', ''value'': ''Nurse''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: patient_signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_signature
+      label: doctor-signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_signature
+      label: healthcare-provider-signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: release_form_saved
+      label: release-form-saved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_relationship
+      label: patient-relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Parent/Primary Caregiver'', ''value'': ''Parent/Primary
+        Caregiver''}'
+      - '{''id'': 2, ''label'': ''Partner'', ''value'': ''Partner''}'
+      - '{''id'': 3, ''label'': ''Spouse'', ''value'': ''Spouse''}'
+      - '{''id'': 4, ''label'': ''Child'', ''value'': ''Child''}'
+      - '{''id'': 5, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false

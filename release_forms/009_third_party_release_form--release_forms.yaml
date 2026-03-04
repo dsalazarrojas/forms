@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Release Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: third_party_access
+      label: Third Party Access
+      hint: null
+      type: select_multiple
+      options:
+      - Client Name
+      - Client Contact Number
+      - Client Date of Birth
+      required: false
+    - id: 3
+      name: authorized_user
+      label: Authorized Third Party
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: release_form_signature
+      label: Release Form Signature
+      hint: Please sign below to confirm your authorization
+      type: select_one
+      options:
+      - I acknowledge that I have read and understand the release
+      - I acknowledge that I have received this form from my client
+      - I request that my client has access to the following information
+      - Please sign below to confirm your authorization
+      required: false
+    - id: 5
+      name: release_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: release_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: release_form_client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Maintenance Subscription Form
+    pages:
+    - id: 1
+      name: vehicle_maintenance_subscription_form
+      label: vehicle-maintenance-subscription-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: vehicle-make
+      hint: null
+      type: select_one
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - Other
+      required: false
+    - id: 5
+      name: service_preferences
+      label: service-preferences
+      hint: null
+      type: select_multiple
+      options:
+      - oil_change
+      - tire_rotation
+      - brake_service
+      - tire_balance
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false

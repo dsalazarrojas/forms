@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Student And School Resources Funding Form
+    pages:
+    - id: 1
+      name: school_enrollment
+      label: school_enrollment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: financial_situation
+      label: financial_situation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_funds
+      label: school_funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_population
+      label: student_population
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: teacher_staffing
+      label: teacher_staffing
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      - '{''value'': ''C''}'
+      required: false
+    - id: 6
+      name: school_resources
+      label: school_resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      - '{''value'': ''C''}'
+      required: false
+    - id: 7
+      name: school_budget
+      label: school_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_situation
+      label: student_situation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: school_administrators
+      label: school_administrators
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      - '{''value'': ''C''}'
+      required: false
+    - id: 10
+      name: school_funds_earned
+      label: school_funds_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: school_funds_spent
+      label: school_funds_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: school_funds_remaining
+      label: school_funds_remaining
+      hint: null
+      type: number
+      options: []
+      required: false

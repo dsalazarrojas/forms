@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mountain Lodge Rental Application Form
+    pages:
+    - id: 1
+      name: guest_info
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stay_details
+      label: Stay Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      - '{''id'': 3, ''name'': ''In-person''}'
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_arrival
+      label: Time of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: num_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: stay_length
+      label: Length of Stay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

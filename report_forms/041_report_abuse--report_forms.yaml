@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Abuse
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_number
+      label: Page Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''report_type'', ''label'': ''Report Type'', ''value'':
+        ''report_type''}'
+      - '{''id'': 2, ''name'': ''report_type'', ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_form_id
+      label: Report Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submitted_by'', ''label'': ''System'', ''value'':
+        ''system''}'
+      - '{''id'': 2, ''name'': ''submitted_by'', ''label'': ''User'', ''value'': ''user''}'
+      required: false

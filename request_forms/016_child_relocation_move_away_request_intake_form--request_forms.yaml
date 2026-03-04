@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Relocation (Move Away) Request Intake Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of relocation request submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requesting_parent_first_name
+      label: Requesting Parent First Name
+      hint: Legal first name of parent requesting relocation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requesting_parent_last_name
+      label: Requesting Parent Last Name
+      hint: Legal last name of parent requesting relocation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requesting_parent_email
+      label: Requesting Parent Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requesting_parent_phone
+      label: Requesting Parent Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requesting_parent_address
+      label: Requesting Parent Address
+      hint: Current full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: non_requesting_parent_first_name
+      label: Non-Requesting Parent First Name
+      hint: Legal first name of other parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: non_requesting_parent_last_name
+      label: Non-Requesting Parent Last Name
+      hint: Legal last name of other parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: non_requesting_parent_contact
+      label: Non-Requesting Parent Contact
+      hint: Phone or email for other parent
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: current_custody_arrangement
+      label: Current Custody Arrangement
+      hint: Describe the current custody or visitation arrangement
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: proposed_relocation_city
+      label: Proposed Relocation City
+      hint: City of proposed new residence
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: proposed_relocation_state
+      label: Proposed Relocation State
+      hint: State or province of proposed new residence
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: proposed_relocation_distance
+      label: Proposed Relocation Distance
+      hint: Approximate distance from current residence in miles
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: proposed_move_date
+      label: Proposed Move Date
+      hint: When do you plan to relocate?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: reason_for_relocation
+      label: Reason for Relocation
+      hint: Primary reason for the proposed move
+      type: select_one
+      options:
+      - Employment opportunity
+      - Educational opportunity
+      - Family support or proximity
+      - Health or medical reasons
+      - Cost of living
+      - Safety concerns
+      - New relationship or marriage
+      - Other
+      required: true
+    - id: 20
+      name: relocation_details
+      label: Relocation Details
+      hint: Provide detailed explanation of the reason for relocation
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: proposed_visitation_plan
+      label: Proposed Visitation Plan
+      hint: How will visitation with the other parent be maintained?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: transportation_plan
+      label: Transportation Plan
+      hint: How will transportation for visitation be handled?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: other_parent_response
+      label: Other Parent Response
+      hint: Has the other parent been notified? What is their response?
+      type: select_one
+      options:
+      - Notified and agrees
+      - Notified and objects
+      - Notified, no response yet
+      - Not yet notified
+      - Unable to contact
+      required: true
+    - id: 24
+      name: court_case_number
+      label: Court Case Number
+      hint: If applicable, provide existing court case number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attorney_name
+      label: Attorney Name
+      hint: Name of representing attorney if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: attorney_contact
+      label: Attorney Contact
+      hint: Phone or email for attorney
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_children_affected
+      label: Additional Children Affected
+      hint: Are there other children affected by this relocation?
+      type: select_one
+      options:
+      - Yes, list names and ages
+      - No other children affected
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information relevant to this request
+      type: text
+      options: []
+      required: false

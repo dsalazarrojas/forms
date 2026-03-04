@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Release Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Name
+      hint: Name of person submitting report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for urgent follow up
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_address
+      label: Site Address
+      hint: Street address of incident site
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: chemical_type
+      label: Chemical Type
+      hint: Brief description of substance class
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimated_volume
+      label: Estimated Volume
+      hint: Enter numeric value and units in comments
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: exposure_potential
+      label: Exposure Potential
+      hint: Select best match
+      type: select_one
+      options:
+      - None
+      - Limited
+      - Moderate
+      - High
+      required: true
+    - id: 7
+      name: environmental_impact
+      label: Environmental Impact Observed
+      hint: Describe observed contamination or impacts
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: corrective_actions
+      label: Corrective Actions Planned
+      hint: Outline steps to remediate
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photos_attached
+      label: Photos Attached
+      hint: Note if photos are available for review
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 10
+      name: follow_up_needed
+      label: Follow Up Needed
+      hint: Indicate if incident requires further investigation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

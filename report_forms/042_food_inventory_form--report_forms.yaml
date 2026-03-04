@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Inventory Form
+    pages:
+    - id: 1
+      name: food_inventory_form_fields
+      label: Food Inventory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inventory_item
+      label: Item
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quantity_received
+      label: Quantity Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity_in_use
+      label: Quantity In Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reorder_point
+      label: Reorder Point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quantity_on_hand
+      label: Quantity On Hand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quantity_low_point
+      label: Low Point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quantity_ordered_last_3_months
+      label: Quantity Ordered Last 3 Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: quantity_in_last_3_months
+      label: Quantity In Last 3 Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: reorder_frequency
+      label: Reorder Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: quantity_low_frequency
+      label: Low Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: inventory_category
+      label: Inventory Category
+      hint: null
+      type: select_one
+      options:
+      - Bacon
+      - Meat
+      - Produce
+      - Dairy
+      - Baking
+      - Pantry
+      - Frozen
+      - Condiments
+      - Oils
+      - Seasonings
+      - Spices
+      - Specialty
+      - Meat
+      - Seafood
+      - Dessert
+      required: true
+    - id: 14
+      name: inventory_subcategory
+      label: Inventory Sub Category
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Pork
+      - Lamb
+      - Turkey
+      - Veggie
+      - Seafood
+      required: true
+    - id: 15
+      name: inventory_subcategory2
+      label: Inventory Subcategory 2
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Pork
+      - Lamb
+      - Turkey
+      - Veggie
+      - Seafood
+      - Other
+      required: false
+    - id: 16
+      name: inventory_subcategory3
+      label: Inventory Subcategory 3
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Pork
+      - Lamb
+      - Turkey
+      - Veggie
+      - Seafood
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: date_low_point
+      label: Date Low Point
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: supplier
+      label: Supplier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: reorder_frequency_last_3_months
+      label: Reorder Frequency Last 3 Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: notes_last_3_months
+      label: Notes Last 3 Months
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: notes_3_months_ago
+      label: Notes 3 Months Ago
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: last_reorder_date
+      label: Last Reorder Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchasing Department Material Requisition Form
+    pages:
+    - id: 1
+      name: material_name
+      label: material_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: requisitioned_by
+      label: requisitioned_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_timeframe
+      label: delivery_timeframe
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: material_description
+      label: material_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: purchase_order_id
+      label: purchase_order_id
+      hint: null
+      type: text
+      options: []
+      required: false

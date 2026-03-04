@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Benefit Investigation Form
+    pages:
+      - id: 1
+        name: section_investigator
+        label: -- Investigator Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: investigator_name
+        label: Investigator Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: investigator_id
+        label: Investigator ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: investigation_date
+        label: Date of Investigation
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: investigation_time
+        label: Time of Investigation
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 6
+        name: section_subject
+        label: -- Subject Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: subject_name
+        label: Subject Name
+        hint: Person being investigated
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: case_number
+        label: Case Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: section_allegation
+        label: -- Allegation Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: allegation_type
+        label: Type of Allegation
+        hint: null
+        type: select_one
+        options:
+          - Fraud
+          - Misrepresentation
+          - Unauthorized Use
+          - Identity Theft
+          - Overbilling
+          - Other
+        required: true
+      - id: 12
+        name: allegation_description
+        label: Description of Allegation
+        hint: Detailed description of the issue
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: date_alleged_occurred
+        label: Date Alleged Incident Occurred
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 14
+        name: complainant_name
+        label: Complainant Name
+        hint: Who reported the issue
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: section_findings
+        label: -- Investigation Findings --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: evidence_gathered
+        label: Evidence Gathered
+        hint: Documents, statements, records, etc.
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: witnesses_interviewed
+        label: Witnesses Interviewed
+        hint: Names of people spoken to
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: investigation_findings
+        label: Investigation Findings
+        hint: Summary of what was discovered
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: allegation_substantiated
+        label: Was Allegation Substantiated
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partially
+          - Inconclusive
+        required: true
+      - id: 20
+        name: section_conclusion
+        label: -- Conclusion and Recommendations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: recommended_action
+        label: Recommended Action
+        hint: What should happen next
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: fraud_indicator
+        label: Fraud Indicators Identified
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 23
+        name: report_priority
+        label: Priority Level
+        hint: null
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Urgent
+        required: true
+      - id: 24
+        name: additional_notes
+        label: Additional Notes
+        hint: null
+        type: text
+        options: []
+        required: false

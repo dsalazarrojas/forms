@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Outcome Report Form
+    pages:
+      - id: 1
+        name: report_header_section
+        label: -- Report Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: report_date
+        label: Report Date
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: reporting_period
+        label: Reporting Period
+        hint: null
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Semi-Annually
+          - Annually
+        required: true
+      - id: 4
+        name: report_prepared_by
+        label: Report Prepared By
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: department_name
+        label: Department or Agency
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: case_information_section
+        label: -- Case Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: case_number
+        label: Case Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: case_title
+        label: Case Title or Description
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: case_opened_date
+        label: Case Opened Date
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: case_closed_date
+        label: Case Closed Date
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: case_manager
+        label: Case Manager or Investigator
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: outcome_summary_section
+        label: -- Outcome Summary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: final_outcome
+        label: Final Outcome
+        hint: null
+        type: select_one
+        options:
+          - Successful Resolution
+          - Partial Resolution
+          - Unsuccessful
+          - Transferred
+          - Dismissed
+          - Settled
+          - Other
+        required: true
+      - id: 14
+        name: outcome_description
+        label: Detailed Outcome Description
+        hint: Explain the resolution in detail
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: goals_achievement
+        label: -- Goals and Achievements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: original_objectives
+        label: Original Case Objectives
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: objectives_met
+        label: Were Primary Objectives Met?
+        hint: null
+        type: select_one
+        options:
+          - All objectives met
+          - Most objectives met
+          - Some objectives met
+          - Few objectives met
+          - No objectives met
+        required: true
+      - id: 18
+        name: measurable_outcomes
+        label: Measurable Outcomes Achieved
+        hint: Quantify results where possible
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: key_accomplishments
+        label: Key Accomplishments
+        hint: Summarize major achievements
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: challenges_section
+        label: -- Challenges and Lessons Learned --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: challenges_faced
+        label: Challenges or Obstacles Encountered
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: lessons_learned
+        label: Lessons Learned
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: recommendations
+        label: Recommendations for Future Cases
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: client_feedback_section
+        label: -- Client Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: client_satisfaction
+        label: Client Satisfaction Level
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - Not Applicable
+        required: false

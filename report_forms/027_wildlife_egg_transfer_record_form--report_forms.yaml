@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Egg Transfer Record Form
+    pages:
+    - id: 1
+      name: transfer_location
+      label: Transfer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor
+      label: Donor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: collector
+      label: Collector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: collector_signature
+      label: Collector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transfer_location_details
+      label: Transfer Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recipient
+      label: Recipient
+      hint: null
+      type: text
+      options: []
+      required: false

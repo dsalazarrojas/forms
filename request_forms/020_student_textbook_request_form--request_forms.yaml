@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Textbook Request Form
+    pages:
+    - id: 1
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 2
+      name: book_request_details
+      label: book_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: textbook_requested
+      label: textbook_requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: requested_for
+      label: Requested For
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: textbook_title
+      label: Textbook Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: textbook_author
+      label: Textbook Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: textbook_isbn
+      label: Textbook ISBN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: textbook_price
+      label: Textbook Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: textbook_quantity
+      label: Textbook Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_request
+      label: Date Of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: teacher_course
+      label: Teacher Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: course
+      label: Course
+      hint: null
+      type: text
+      options: []
+      required: false

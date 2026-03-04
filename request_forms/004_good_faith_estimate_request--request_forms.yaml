@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Good Faith Estimate Request
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: service_description
+      label: Description of Work
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: total_estimate
+      label: Total Estimate
+      hint: Enter your estimate
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: false
+    - id: 7
+      name: send_quote
+      label: Send Quote
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_terms
+      label: Service Terms
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_city
+      label: Submitter City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_state
+      label: Submitter State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - American Samoa
+      required: false
+    - id: 16
+      name: submitter_country
+      label: Submitter Country
+      hint: null
+      type: select_one
+      options:
+      - Canada
+      - United States
+      required: false
+    - id: 17
+      name: submitter_zip
+      label: Submitter Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter_agree
+      label: I Agree
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_agree_label
+      label: I Agree Label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_agree_hint
+      label: You agree that the submitted information is accurate and true.
+      hint: null
+      type: text
+      options: []
+      required: true

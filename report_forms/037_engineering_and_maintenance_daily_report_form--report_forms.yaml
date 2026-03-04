@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: engineering_and_maintenance_daily_report_form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: work_order_number
+      label: work_order_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''id'': 3, ''label'': ''Not Started'', ''value'': ''not_started''}'
+      required: false
+    - id: 4
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: solution_description
+      label: Solution Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Electrical'', ''value'': ''electrical''}'
+      - '{''id'': 2, ''label'': ''Mechanical'', ''value'': ''mechanical''}'
+      - '{''id'': 3, ''label'': ''Software'', ''value'': ''software''}'
+      required: false
+    - id: 8
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: task_id
+      label: Task ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: report_by
+      label: Report By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: task_due_date
+      label: Task Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: task_start_time
+      label: Task Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: task_finish_time
+      label: Task Finish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: issue_start_time
+      label: Issue Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: issue_finish_time
+      label: Issue Finish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: task_duration
+      label: Task Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false

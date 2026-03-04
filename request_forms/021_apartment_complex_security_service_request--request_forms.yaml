@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Complex Security Service Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: request_time
+      label: Request time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: request_id
+      label: Request ID number
+      hint: Auto-generated reference number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resident_name
+      label: Resident name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: apartment_number
+      label: Apartment number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: issue_type
+      label: Type of security issue
+      hint: Select primary category
+      type: select_one
+      options:
+      - Unauthorized access
+      - Theft or property damage
+      - Suspicious activity
+      - Trespassing
+      - Harassment or safety threat
+      - Equipment malfunction
+      - Access control issue
+      - Lost access card or key
+      - Parking violation
+      - Other
+      required: true
+    - id: 9
+      name: issue_location
+      label: Location of incident
+      hint: Apartment, entrance, parking lot, etc
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: issue_description
+      label: Detailed description of security issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_date
+      label: Date incident occurred
+      hint: If not today
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: incident_time
+      label: Time incident occurred
+      hint: If known
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: witnesses_present
+      label: Were there any witnesses?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: witness_details
+      label: Witness names and contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: suspect_description
+      label: Description of suspect if applicable
+      hint: Physical description, vehicle details, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_damage
+      label: Any property damage?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: damage_description
+      label: Description of damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: police_report_filed
+      label: Has police report been filed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, report number included
+      - false
+      - Not applicable
+      required: true
+    - id: 19
+      name: police_report_number
+      label: Police report number if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: urgency_level
+      label: Urgency level
+      hint: null
+      type: select_one
+      options:
+      - Urgent - immediate threat
+      - High - significant concern
+      - Medium - standard priority
+      - Low - non-urgent
+      required: true
+    - id: 21
+      name: requested_action
+      label: Requested action from security
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Security patrol
+      - Camera review
+      - Access card review
+      - Additional lighting
+      - Increased monitoring
+      - Investigation
+      - Arrest assistance
+      - Other
+      required: true
+    - id: 22
+      name: follow_up_preference
+      label: Preferred follow-up method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Text message
+      - No preference
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional information or context
+      hint: null
+      type: text
+      options: []
+      required: false

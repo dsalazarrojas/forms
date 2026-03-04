@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Program Release Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: Email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: program_name
+      label: Program Name
+      hint: Name of the content creation program
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_dates
+      label: Program Dates
+      hint: Dates of participation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: Name of organizing entity
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: release_type
+      label: Release Type
+      hint: What rights are you granting?
+      type: select_one
+      options:
+      - Full Media Release
+      - Limited Media Release
+      - Educational Use Only
+      - Promotional Use Only
+      - Internal Use Only
+      required: true
+    - id: 9
+      name: photo_consent
+      label: Photo Consent
+      hint: I consent to photographs being taken and used
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 10
+      name: video_consent
+      label: Video Consent
+      hint: I consent to video recordings being taken and used
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 11
+      name: audio_consent
+      label: Audio Consent
+      hint: I consent to audio recordings being taken and used
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 12
+      name: name_usage_consent
+      label: Name Usage Consent
+      hint: I consent to my name being used in materials
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 13
+      name: testimonial_consent
+      label: Testimonial Consent
+      hint: I consent to my testimonials being used
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 14
+      name: usage_channels
+      label: Usage Channels
+      hint: Where can content be used?
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Print Materials
+      - Video Platforms
+      - Email Marketing
+      - Press Releases
+      - Advertising
+      - Presentations
+      required: true
+    - id: 15
+      name: usage_duration
+      label: Usage Duration
+      hint: How long can content be used?
+      type: select_one
+      options:
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Perpetual
+      - Until Revoked
+      required: true
+    - id: 16
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where can content be used?
+      type: select_one
+      options:
+      - Local Only
+      - National
+      - International
+      - Worldwide
+      required: true
+    - id: 17
+      name: compensation_received
+      label: Compensation Received
+      hint: Did you receive compensation for participation?
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 18
+      name: compensation_details
+      label: Compensation Details
+      hint: Describe compensation if any
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: minor_participant
+      label: Is Participant a Minor?
+      hint: Is the participant under 18?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Required if participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_guardian_signature_date
+      label: Parent or Guardian Signature Date
+      hint: Required if participant is a minor
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: release_effective_date
+      label: Release Effective Date
+      hint: Date this release takes effect
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_permissions
+      label: Additional Permissions
+      hint: Any additional permissions granted
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: revocation_terms
+      label: Revocation Terms
+      hint: I understand the terms for revoking this release
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: I confirm I have read and agree to this release
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, I Do Not Confirm
+      required: true

@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Substitute Teacher Reporting Form
+    pages:
+    - id: 1
+      name: lesson_notes
+      label: Lesson Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_names
+      label: Student Names
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Bob Smith''}'
+      required: true
+    - id: 4
+      name: student_ages
+      label: Student Ages
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 10, ''label'': 10}'
+      - '{''value'': 11, ''label'': 11}'
+      - '{''value'': 12, ''label'': 12}'
+      required: true
+    - id: 5
+      name: lesson_plans
+      label: Lesson Plans
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Reading'', ''label'': ''Reading''}'
+      - '{''value'': ''Writing'', ''label'': ''Writing''}'
+      - '{''value'': ''Mathematics'', ''label'': ''Mathematics''}'
+      required: false
+    - id: 6
+      name: student_subjects
+      label: Student Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Math'', ''label'': ''Math''}'
+      - '{''value'': ''Reading'', ''label'': ''Reading''}'
+      - '{''value'': ''Writing'', ''label'': ''Writing''}'
+      required: true
+    - id: 7
+      name: lesson_objectives
+      label: Lesson Objectives
+      hint: null
+      type: text
+      options: []
+      required: false

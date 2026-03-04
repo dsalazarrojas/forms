@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Auto Test Drive Reservation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_choice
+      label: Vehicle Choice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: test_drive_date
+      label: Test Drive Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_drive_time
+      label: Test Drive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

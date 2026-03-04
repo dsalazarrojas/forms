@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Photo Shoot Release Form
+    pages:
+    - id: 1
+      name: talent_photo_shoot_release_form
+      label: talent photo shoot release form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: talent_details
+      label: talent details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_details
+      label: guardian details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_type
+      label: release type
+      hint: null
+      type: select_one
+      options:
+      - photo
+      - still image
+      - film
+      - commercial
+      - print
+      - online usage
+      required: false
+    - id: 5
+      name: release_duration
+      label: release duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: release_location
+      label: release location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signed
+      label: signed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - pending
+      required: false
+    - id: 8
+      name: photo_shoot_date
+      label: photo shoot date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: photo_shoot_time
+      label: photo shoot time
+      hint: null
+      type: time
+      options: []
+      required: false

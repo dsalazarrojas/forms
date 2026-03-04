@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Well Water System Maintenance Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Field 1'', ''value'': ''1''}'
+      - '{''label'': ''Field 2'', ''value'': ''2''}'
+      - '{''label'': ''Field 3'', ''value'': ''3''}'
+      required: true
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: schedule_visit
+      label: Schedule Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: well_system_status
+      label: Well System Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''1''}'
+      - '{''label'': ''Inactive'', ''value'': ''2''}'
+      required: true
+    - id: 7
+      name: maintenance_request_reason
+      label: Maintenance Request Reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Urgent'', ''value'': ''1''}'
+      - '{''label'': ''Non-urgent'', ''value'': ''2''}'
+      - '{''label'': ''Other'', ''value'': ''3''}'
+      required: false
+    - id: 8
+      name: maintenance_request_priority
+      label: Maintenance Request Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High'', ''value'': ''1''}'
+      - '{''label'': ''Low'', ''value'': ''2''}'
+      - '{''label'': ''Medium'', ''value'': ''3''}'
+      required: false
+    - id: 9
+      name: maintenance_request_date
+      label: Maintenance Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: maintenance_request_time
+      label: Maintenance Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jim'', ''value'': ''1''}'
+      - '{''label'': ''Bob'', ''value'': ''2''}'
+      - '{''label'': ''Alice'', ''value'': ''3''}'
+      required: true
+    - id: 12
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

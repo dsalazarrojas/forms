@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Driven Decision Strategy Workshop Registration Form
+    pages:
+    - id: 1
+      name: section_header_welcome
+      label: '--- Welcome to the AI-Driven Decision Strategy Workshop ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your legal name as it appears on identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this for registration confirmation and workshop updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional - for urgent workshop communications
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Current job title
+      hint: e.g. Manager, Director, Analyst, Executive
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company or organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry_sector
+      label: Industry sector
+      hint: Select the sector most relevant to your work
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Education
+      - Government
+      - Retail
+      - Consulting
+      - Other
+      required: true
+    - id: 8
+      name: experience_level
+      label: Experience level with AI decision-making tools
+      hint: null
+      type: select_one
+      options:
+      - Beginner (little to no experience)
+      - Intermediate (some exposure)
+      - Advanced (regular user)
+      - Professional (expert level)
+      required: true
+    - id: 9
+      name: workshop_goals
+      label: What are your primary goals for attending this workshop?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Learn AI-driven decision frameworks
+      - Improve strategic planning skills
+      - Network with industry peers
+      - Implement AI tools in my organization
+      - Understand ethical implications of AI decisions
+      - Enhance data analysis capabilities
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of birth
+      hint: For demographic purposes only
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary restrictions or allergies
+      hint: Please specify any dietary needs for workshop meals
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 14
+      name: how_heard
+      label: How did you hear about this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Colleague recommendation
+      - Professional association
+      - Industry publication
+      - Previous attendee
+      - Online search
+      - Advertisement
+      required: true
+    - id: 15
+      name: expected_attendance_days
+      label: How many days do you expect to attend?
+      hint: Workshop runs for 2 days
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_payment
+      label: '--- Payment Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Company Check
+      - Purchase Order
+      - Digital Wallet
+      required: true
+    - id: 19
+      name: billing_address
+      label: Billing address
+      hint: If different from mailing address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like us to know
+      type: text
+      options: []
+      required: false

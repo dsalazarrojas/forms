@@ -1,0 +1,331 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Self Assessment Questionnaire
+    pages:
+    - id: 1
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - In a relationship
+      - Single
+      - It's complicated
+      - In a domestic partnership
+      required: false
+    - id: 2
+      name: partner1_name
+      label: partner1 name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner1_age
+      label: partner1 age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: partner2_name
+      label: partner2 name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: partner2_age
+      label: partner2 age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: relationship_length
+      label: relationship length
+      hint: null
+      type: select_multiple
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      - 4 years
+      - 5 years
+      required: false
+    - id: 7
+      name: relationship_type
+      label: relationship type
+      hint: null
+      type: select_one
+      options:
+      - Romantic
+      - Friend
+      - Family
+      - Sibling
+      - Coworker
+      - Other
+      required: false
+    - id: 8
+      name: communication_style
+      label: communication style
+      hint: null
+      type: select_one
+      options:
+      - Collaborative
+      - Assertive
+      - Avoidant
+      - Passive
+      required: false
+    - id: 9
+      name: communication_effectiveness
+      label: communication effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: intimacy_level
+      label: intimacy level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: conflict_frequency
+      label: conflict frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - Rarely
+      required: false
+    - id: 12
+      name: emotional_support
+      label: emotional support
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: conflict_resolution
+      label: conflict resolution
+      hint: null
+      type: select_one
+      options:
+      - Collaborative
+      - Avoidant
+      - Passive
+      - Aggressive
+      required: false
+    - id: 14
+      name: conflict_resolution_effectiveness
+      label: conflict resolution effectiveness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: emotional_maturity
+      label: emotional maturity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: partner1_respect
+      label: partner1 respect
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: partner1_trust
+      label: partner1 trust
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 18
+      name: partner2_respect
+      label: partner2 respect
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 19
+      name: partner2_trust
+      label: partner2 trust
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: relationship_satisfaction
+      label: relationship satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: relationship_growth
+      label: relationship growth
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 22
+      name: partner1_growth
+      label: partner1 growth
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 23
+      name: partner2_growth
+      label: partner2 growth
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: partner1_investment
+      label: partner1 investment
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 25
+      name: partner2_investment
+      label: partner2 investment
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 26
+      name: communication_frequency
+      label: communication frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Several times a week
+      - Several times a month
+      - Rarely
+      required: false
+    - id: 27
+      name: communication_style_difference
+      label: communication style difference
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 28
+      name: conflict_resolution_difference
+      label: conflict resolution difference
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 29
+      name: partner1_emotional_maturity
+      label: partner1 emotional maturity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 30
+      name: partner2_emotional_maturity
+      label: partner2 emotional maturity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 31
+      name: relationship_quality
+      label: relationship quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 32
+      name: partner1_relationship_quality
+      label: partner1 relationship quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 33
+      name: partner2_relationship_quality
+      label: partner2 relationship quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

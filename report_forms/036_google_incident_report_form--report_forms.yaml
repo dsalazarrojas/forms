@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Google Incident Report Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_summary
+      label: Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      - type4
+      - type5
+      - type6
+      - type7
+      - type8
+      required: true
+    - id: 4
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      - status4
+      required: true
+    - id: 9
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_reporter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: incident_reporter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - priority1
+      - priority2
+      - priority3
+      required: true
+    - id: 15
+      name: incident_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false

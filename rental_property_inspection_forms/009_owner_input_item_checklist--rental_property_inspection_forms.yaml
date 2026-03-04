@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Owner Input Item Checklist
+    pages:
+    - id: 1
+      name: owner_input_item_checklist
+      label: owner_input_item_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: items_checked
+      label: items_checked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_confirmation
+      label: owner_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_confirmation_date
+      label: owner_confirmation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: owner_confirmation_time
+      label: owner_confirmation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: items_verified
+      label: items_verified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: condition_comments
+      label: condition_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: owner_verification_status
+      label: owner_verification_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: items_not_verified
+      label: items_not_verified
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

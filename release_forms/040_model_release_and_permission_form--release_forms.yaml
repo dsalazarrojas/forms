@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Release And Permission Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: model_release_date
+      label: model_released_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: photographer_name
+      label: photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: model_statement
+      label: i_agree
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 8
+      name: client_statement
+      label: i_agree
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 9
+      name: client_statement_hints
+      label: why_didnt_agree
+      hint: null
+      type: text
+      options: []
+      required: false

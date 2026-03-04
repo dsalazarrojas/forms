@@ -1,0 +1,241 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2015 16 Faculty Annual Report
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: faculty_id
+      label: Faculty ID
+      hint: Your institutional identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: Must be your official university email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: e.g., Computer Science, History
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position
+      label: Position
+      hint: e.g., Assistant Professor, Senior Lecturer
+      type: select_one
+      options:
+      - Assistant Professor
+      - Associate Professor
+      - Professor
+      - Senior Lecturer
+      - Lecturer
+      - Adjunct Professor
+      - Research Fellow
+      required: true
+    - id: 8
+      name: section_header_academic
+      label: '--- Academic Activities ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: courses_taught
+      label: Courses taught this year
+      hint: List course codes separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: credit_hours
+      label: Total credit hours taught
+      hint: Numeric value
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: student_supervision
+      label: Number of students supervised
+      hint: Include PhD, Masters, and undergraduate
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: average_student_grade
+      label: Average grade of supervised students
+      hint: e.g., A-, B+
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_research
+      label: '--- Research Output ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: publications
+      label: Number of peer‑reviewed publications
+      hint: Count only journal articles
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: conference_papers
+      label: Number of conference papers presented
+      hint: Count only oral presentations
+      type: integer
+      options: []
+      required: false
+    - id: 16
+      name: grants_awarded
+      label: Total grant amount awarded (USD)
+      hint: Sum of all grant money received
+      type: decimal
+      options: []
+      required: false
+    - id: 17
+      name: research_projects
+      label: Ongoing research projects
+      hint: Briefly describe each project
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_service
+      label: '--- Service & Outreach ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: committee_memberships
+      label: Committees served on
+      hint: List committee names
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: community_outreach
+      label: Community outreach activities
+      hint: Provide a short summary
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_profdev
+      label: '--- Professional Development ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: workshops_attended
+      label: Workshops or training attended
+      hint: List titles and dates
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: certifications
+      label: Professional certifications earned
+      hint: Include awarding body
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_feedback
+      label: '--- Satisfaction & Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: satisfaction
+      label: How satisfied are you with the 2015 16 Faculty Annual Report process?
+      hint: None
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 26
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 27
+      name: experience_aspects
+      label: Which aspects applied to your experience with the report? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 28
+      name: open_feedback
+      label: What would you improve or change about the Faculty Annual Report?
+      hint: Provide specific suggestions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other remarks
+      type: text
+      options: []
+      required: false

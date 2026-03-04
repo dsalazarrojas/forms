@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pfizer COVID 19 Vaccine Appointment Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - America/New York
+      - Pacific
+      - Alaska
+      - Atlantic
+      - Central
+      required: false
+    - id: 8
+      name: vaccination_site
+      label: Vaccination Site
+      hint: null
+      type: select_one
+      options:
+      - Pfizer 1
+      - Pfizer 2
+      - Pfizer 3
+      required: true
+    - id: 9
+      name: doctor
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Cancel
+      required: true
+    - id: 12
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Cancel
+      required: true
+    - id: 13
+      name: confirm_doctor
+      label: Confirm Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_doctor_phone
+      label: Confirm Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_vaccination_site
+      label: Confirm Vaccination Site
+      hint: null
+      type: select_one
+      options:
+      - Pfizer 1
+      - Pfizer 2
+      - Pfizer 3
+      required: false
+    - id: 16
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Cancel
+      required: false
+    - id: 17
+      name: confirm_time_zone
+      label: Confirm Time Zone
+      hint: null
+      type: select_one
+      options:
+      - America/New York
+      - Pacific
+      - Alaska
+      - Atlantic
+      - Central
+      required: false
+    - id: 18
+      name: confirm_vaccination_site_phone
+      label: Confirm Vaccination Site Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_message
+      label: Doctor Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_time
+      label: Doctor Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: doctor_time_zone
+      label: Doctor Time Zone
+      hint: null
+      type: select_one
+      options:
+      - America/New York
+      - Pacific
+      - Alaska
+      - Atlantic
+      - Central
+      required: false
+    - id: 24
+      name: doctor_site
+      label: Doctor Site
+      hint: null
+      type: select_one
+      options:
+      - Pfizer 1
+      - Pfizer 2
+      - Pfizer 3
+      required: false

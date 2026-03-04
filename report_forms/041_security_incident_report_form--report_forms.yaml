@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Physical''}'
+      - '{''value'': ''Cyber''}'
+      required: true
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''On-Site''}'
+      - '{''value'': ''Off-Site''}'
+      required: true
+    - id: 5
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''Closed''}'
+      required: false
+    - id: 6
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Physical''}'
+      - '{''value'': ''Cyber''}'
+      required: false
+    - id: 7
+      name: incident_category_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_submitter
+      label: Incident Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: incident_submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_submitter_supervisor
+      label: Submitter Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_submitter_manager
+      label: Submitter Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_submitter_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_responder
+      label: Incident Responder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: incident_responder_title
+      label: Responder Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_responder_phone
+      label: Responder Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: incident_responder_email
+      label: Responder Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: incident_responder_location
+      label: Responder Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_responder_department
+      label: Responder Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_responder_supervisor
+      label: Responder Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_responder_manager
+      label: Responder Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: incident_responder_notes
+      label: Responder Notes
+      hint: null
+      type: text
+      options: []
+      required: false

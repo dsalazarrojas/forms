@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Discharge Form
+    pages:
+    - id: 1
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: camp_session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: camp_date
+      label: Discharge Date
+      hint: Date of Discharge
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: camper_notes
+      label: Camper Notes
+      hint: null
+      type: note
+      options: []
+      required: false

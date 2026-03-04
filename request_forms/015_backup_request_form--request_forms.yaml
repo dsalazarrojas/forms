@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backup Request Form
+    pages:
+      - id: 1
+        name: section_requester
+        label: -- Requester Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: requester_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 5
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: manager_approval
+        Label: Manager Name/Approval
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_request_details
+        label: -- Request Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: request_date
+        label: Request Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: backup_type
+        Label: Type of Backup Needed
+        hint: null
+        type: select_one
+        options:
+          - Full System Backup
+          - Partial File Backup
+          - Database Backup
+          - Application Backup
+          - Email Backup
+          - Other
+        required: true
+      - id: 10
+        name: files_description
+        Label: Description of Files/Data to Backup
+        hint: What specific data needs backing up?
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: file_location
+        label: Current File Location
+        hint: Server, folder, cloud location, etc.
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: estimated_size
+        Label: Estimated Size of Data
+        hint: MB, GB, TB, etc.
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: backup_priority
+        Label: Priority Level
+        hint: null
+        type: select_one
+        options:
+          - Critical - Immediate
+          - High - Within 24 hours
+          - Medium - Within 1 week
+          - Low - Routine
+        required: true
+      - id: 14
+        name: section_destination
+        label: -- Backup Destination --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: destination_type
+        Label: Backup Destination Type
+        hint: null
+        type: select_one
+        options:
+          - External Hard Drive
+          - Network Storage
+          - Cloud Storage
+          - Tape Drive
+          - Multiple Locations
+        required: true
+      - id: 16
+        name: destination_location
+        Label: Specific Destination Location
+        hint: Which drive, server, or cloud account?
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: retention_period
+        Label: Retention Period
+        hint: How long should backups be kept?
+        type: select_one
+        options:
+          - 1 Month
+          - 3 Months
+          - 6 Months
+          - 1 Year
+          - 2 Years
+          - Indefinite
+        required: true
+      - id: 18
+        name: encryption_required
+        Label: Encryption Required?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 19
+        name: section_scheduling
+        label: -- Scheduling --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: backup_frequency
+        Label: Desired Backup Frequency
+        hint: null
+        type: select_one
+        options:
+          - One-Time
+          - Daily
+          - Weekly
+          - Monthly
+          - As Needed
+        required: true
+      - id: 21
+        name: preferred_time
+        Label: Preferred Backup Time
+        hint: Hours when backup can be performed
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: section_verification
+        label: -- Verification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: restore_testing
+        Label: Request Restore Testing After Backup?
+        hint: Verify backup integrity
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 24
+        name: special_requirements
+        Label: Special Requirements or Considerations
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: submit_confirmation
+        Label: I Confirm This Information is Accurate
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

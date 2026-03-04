@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: nursing_report_submission
+    pages:
+    - id: 1
+      name: shift_details
+      label: Shift Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interventions
+      label: Interventions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Medication 1
+      - Medication 2
+      - Medication 3
+      required: true
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - Allergy 1
+      - Allergy 2
+      - Allergy 3
+      required: true
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: physical_exam
+      label: Physical Exam
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: laboratory_results
+      label: Laboratory Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: radiology_results
+      label: Radiology Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_imaging
+      label: Medical Imaging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: unit
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: select_one
+      options:
+      - Patient 1
+      - Patient 2
+      - Patient 3
+      required: true
+    - id: 24
+      name: nurse_id
+      label: Nurse ID
+      hint: null
+      type: select_one
+      options:
+      - Nurse 1
+      - Nurse 2
+      - Nurse 3
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

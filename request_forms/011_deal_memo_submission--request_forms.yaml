@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deal Memo Submission
+    pages:
+    - id: 1
+      name: deal_details
+      label: Deal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: deal_terms
+      label: Deal Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Acceptance of this submission constitutes an agreement that the deal details
+        are
+      - accurate and complete
+      - I have made no changes or modifications to any of the deal details
+      - I certify that I have the authority to enter this submission and that
+      - all information is accurate
+      - I have not altered the deal details in any way
+      - This submission represents an accurate representation of the deal details
+      - This submission is an accurate representation
+      - This is an accurate representation of the deal details
+      - I have not altered
+      - accurate and complete
+      - accurate representation
+      required: true
+    - id: 3
+      name: deal_acknowledgments
+      label: Deal Acknowledgments
+      hint: null
+      type: select_one
+      options:
+      - Acceptance of this submission constitutes an agreement that the deal details
+        are accurate
+      - accurate and complete
+      - I have not altered the deal details in any way
+      - This submission represents an accurate representation of the deal details
+      - This submission is an accurate representation
+      - This is an accurate representation of the deal details
+      - I have not altered
+      - accurate and complete
+      required: true
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: number
+      options: []
+      required: true

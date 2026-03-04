@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artistic Sabbatical Leave Of Absence Form
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Artist/Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department_unit
+      label: Department or Faculty
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sabbatical_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sabbatical_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: leave_purpose
+      label: Primary Purpose of Sabbatical
+      hint: null
+      type: select_one
+      options:
+      - Creative Production
+      - Scholarly Research
+      - Professional Development
+      - International Exchange
+      - Other
+      required: true
+    - id: 6
+      name: project_proposal
+      label: Detailed Project Proposal
+      hint: Describe what you will accomplish
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: benefit_to_org
+      label: Anticipated Benefit to the Organization
+      hint: How will this leave improve your future work
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: funding_source
+      label: Funding or Grant Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: return_agreement
+      label: I agree to return to my position for at least one year
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 10
+      name: supervisor_approval_header
+      label: -- For Administrative Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone Number during Absence
+      hint: null
+      type: text
+      options: []
+      required: false

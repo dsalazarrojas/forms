@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Report Form
+    pages:
+    - id: 1
+      name: report_number
+      label: Report Number
+      hint: Unique identifier for this accident report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_name
+      label: Reporter Name
+      hint: Full name of the person reporting the accident
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_contact
+      label: Reporter Contact
+      hint: Contact information for the person reporting
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: accident_date
+      label: Accident Date
+      hint: Date when the accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: accident_time
+      label: Accident Time
+      hint: Time when the accident occurred
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: accident_location
+      label: Accident Location
+      hint: Complete address or specific location where the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Weather conditions at the time of the accident
+      type: select_one
+      options:
+      - Clear
+      - Rain
+      - Snow
+      - Fog
+      - Windy
+      - Nighttime
+      - Other
+      required: true
+    - id: 8
+      name: accident_type
+      label: Accident Type
+      hint: Type of accident that occurred
+      type: select_one
+      options:
+      - Motor Vehicle Collision
+      - Pedestrian Accident
+      - Workplace Injury
+      - Slip and Fall
+      - Property Damage
+      - Personal Injury
+      - Other
+      required: true
+    - id: 9
+      name: parties_involved
+      label: Parties Involved
+      hint: Number of parties involved in the accident
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: injuries_reported
+      label: Injuries Reported
+      hint: Number of people injured in the accident
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: fatalities_reported
+      label: Fatalities Reported
+      hint: Number of fatalities resulting from the accident
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: property_damage_estimated
+      label: Property Damage Estimated
+      hint: Estimated dollar amount of property damage
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: accident_description
+      label: Accident Description
+      hint: Detailed description of how the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: witness_count
+      label: Witness Count
+      hint: Number of witnesses to the accident
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: witness_details
+      label: Witness Details
+      hint: Names and contact information of witnesses
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: police_report_filed
+      label: Police Report Filed
+      hint: Was a police report filed for this accident?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 17
+      name: police_report_number
+      label: Police Report Number
+      hint: If applicable, provide the police report number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_services_called
+      label: Emergency Services Called
+      hint: Were emergency services called to the scene?
+      type: select_one
+      options:
+      - Police
+      - Fire Department
+      - Ambulance
+      - None
+      - All Services
+      required: true
+    - id: 19
+      name: contributing_factors
+      label: Contributing Factors
+      hint: What factors contributed to the accident?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information about the accident
+      type: text
+      options: []
+      required: false

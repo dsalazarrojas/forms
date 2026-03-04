@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Reliability Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_duration
+      label: Incident Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_services
+      label: Affected Services
+      hint: null
+      type: select_multiple
+      options:
+      - Internet
+      - Email
+      - Phone
+      - Voice
+      - Video
+      - Chat
+      - Voice over Internet Protocol
+      - Video over Internet Protocol
+      required: false
+    - id: 7
+      name: incident_impact
+      label: Incident Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Ongoing
+      - Unknown
+      required: false
+    - id: 9
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preventive_measures
+      label: Preventive Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_subtype
+      label: Subtype
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In progress
+      required: false
+    - id: 17
+      name: reported_by
+      label: Reported by
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Management
+      - Team Member
+      required: false
+    - id: 18
+      name: incident_report_id
+      label: Incident Report ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_comment
+      label: Incident Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_commenter
+      label: Commenter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: incident_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 25
+      name: incident_reported_by
+      label: Reported by
+      hint: null
+      type: text
+      options: []
+      required: false

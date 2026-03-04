@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Shift Pass On Form
+    pages:
+    - id: 1
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time_end
+      label: end_shift_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: replacement_name
+      label: replacement_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: replacement_phone
+      label: replacement_phone
+      hint: null
+      type: text
+      options: []
+      required: false

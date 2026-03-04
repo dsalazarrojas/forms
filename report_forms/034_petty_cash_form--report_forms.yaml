@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petty Cash Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_manager_name
+      label: Account Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: amount_type
+      label: Amount Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Petty Cash
+      required: true
+    - id: 10
+      name: amount_submitted
+      label: Amount Submitted
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: amount_approved
+      label: Amount Approved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approved_date
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: amount_pending
+      label: Amount Pending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: amount_pending_status
+      label: Amount Pending Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: amount_reimbursed
+      label: Amount Reimbursed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: reimbursed_by
+      label: Reimbursed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reimbursed_date
+      label: Reimbursed Date
+      hint: null
+      type: date
+      options: []
+      required: false

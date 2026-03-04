@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily job report form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: works_completed
+      label: Works Completed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: selected_option
+      label: Selected Option
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 13
+      name: section
+      label: Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sub_section
+      label: Sub Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 20
+      name: supervisor_number
+      label: Supervisor Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_manager
+      label: Submitted By Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to_manager
+      label: Submitted To Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department_manager
+      label: Department Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_manager
+      label: Section Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_comments_2
+      label: Manager Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

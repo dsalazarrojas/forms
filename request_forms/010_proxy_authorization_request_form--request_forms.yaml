@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Proxy Authorization Request Form
+    pages:
+    - id: 1
+      name: proxy_authorization_request_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: proxy_authorization_request_form_first_name
+      label: Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: scope
+      label: Scope
+      hint: null
+      type: select_one
+      options:
+      - scope-option-1
+      - scope-option-2
+      - scope-option-3
+      required: false
+    - id: 6
+      name: valid_from
+      label: Valid From
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: valid_to
+      label: Valid To
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: proxy_contact_details
+      label: Proxy Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: proxy_email
+      label: Proxy Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: proxy_phone
+      label: Proxy Phone
+      hint: null
+      type: text
+      options: []
+      required: false

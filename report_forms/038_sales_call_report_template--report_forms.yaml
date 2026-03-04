@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Call Report Template
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_number
+      label: Customer Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_of_call
+      label: Date of Call
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_call
+      label: Time of Call
+      hint: null
+      type: time
+      options: []
+      required: false

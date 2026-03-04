@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Equipment Maintenance Report
+    pages:
+    - id: 1
+      name: site_id
+      label: Site ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: Enter equipment location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: last_inspection_result
+      label: Last Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Failed
+      - Passed
+      required: true
+    - id: 7
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 8
+      name: next_maintenance_date
+      label: Next Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Not Scheduled
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - Facility Manager
+      - Maintenance Staff
+      - Other
+      required: true

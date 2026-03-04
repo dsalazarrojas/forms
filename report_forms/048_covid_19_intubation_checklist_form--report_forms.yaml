@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Intubation Checklist Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: bed_number
+      label: Bed Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Intubation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: intubation_date
+      label: Intubation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: intubation_time
+      label: Intubation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: intubating_physician
+      label: Intubating Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tube_type
+      label: Endotracheal Tube Type
+      hint: null
+      type: select_one
+      options:
+      - Oral
+      - Nasal
+      - Tracheostomy
+      required: true
+    - id: 11
+      name: tube_size
+      label: Tube Size (mm)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tube_depth
+      label: Tube Depth at Teeth (cm)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_header_3
+      label: -- Pre-Intubation Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: indication_for_intubation
+      label: Indication for Intubation
+      hint: null
+      type: select_multiple
+      options:
+      - Respiratory failure
+      - Airway protection
+      - Hemodynamic instability
+      - Altered mental status
+      - Severe hypoxia
+      - Procedure requirement
+      - Other
+      required: true
+    - id: 15
+      name: pre_intubation_oxygen
+      label: Pre-Intubation Oxygen Saturation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_header_4
+      label: -- Equipment and Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: ppe_used
+      label: Personal Protective Equipment Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - N95 mask
+      - Face shield
+      - Gown
+      - Gloves
+      - Head cover
+      - Shoe covers
+      required: true
+    - id: 18
+      name: ventilator_type
+      label: Ventilator Type
+      hint: null
+      type: select_one
+      options:
+      - Pressure control
+      - Volume control
+      - Dual mode
+      - Other
+      required: true
+    - id: 19
+      name: section_header_5
+      label: -- Post-Intubation Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: tube_position_confirmed
+      label: Tube Position Confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: tube_security
+      label: Tube Secured Properly
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: cuff_pressure_checked
+      label: Cuff Pressure Checked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: lung_sounds_bilateral
+      label: Bilateral Lung Sounds Present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unclear
+      required: true
+    - id: 24
+      name: complications_noted
+      label: Complications or Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: checklist_completion_time
+      label: Checklist Completion Time
+      hint: null
+      type: time
+      options: []
+      required: true

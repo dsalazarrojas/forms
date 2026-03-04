@@ -1,0 +1,647 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Patient Care Report Form
+    pages:
+    - id: 1
+      name: section_run_info
+      label: -- Run Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: run_number
+      label: Run/Call Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: call_date
+      label: Call Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: call_time
+      label: Call Time Received
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: dispatched_time
+      label: Dispatched Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: arrived_scene_time
+      label: Arrived at Scene Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: departed_scene_time
+      label: Departed Scene Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: arrived_facility_time
+      label: Arrived at Facility Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: transferred_care_time
+      label: Transferred Care Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: available_time
+      label: Available for Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: section_patient_demographics
+      label: -- Patient Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: patient_age
+      label: Patient Age
+      hint: Years
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Unknown
+      required: true
+    - id: 17
+      name: patient_race
+      label: Patient Race/Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black or African American
+      - Asian
+      - Native American
+      - Pacific Islander
+      - Hispanic or Latino
+      - Other
+      - Unknown
+      required: false
+    - id: 18
+      name: patient_weight
+      label: Patient Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_incident_info
+      label: -- Incident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: incident_location
+      label: Incident Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: location_type
+      label: Location Type
+      hint: null
+      type: select_one
+      options:
+      - Private residence
+      - Public place
+      - Workplace
+      - School
+      - Healthcare facility
+      - Nursing home
+      - Street/Highway
+      - Other
+      required: true
+    - id: 22
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Patient's own words if possible
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: mechanism_of_injury
+      label: Mechanism of Injury
+      hint: If trauma
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: nature_of_illness
+      label: Nature of Illness
+      hint: If medical
+      type: select_one
+      options:
+      - Cardiac
+      - Respiratory
+      - Neurological
+      - Gastrointestinal
+      - Genitourinary
+      - Gynecological
+      - Endocrine
+      - Toxicological
+      - Psychiatric
+      - Other
+      required: false
+    - id: 25
+      name: section_vitals
+      label: -- Vital Signs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: blood_pressure
+      label: Blood Pressure
+      hint: mmHg
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: heart_rate
+      label: Heart Rate
+      hint: BPM
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: Breaths per minute
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: temperature
+      label: Temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: blood_glucose
+      label: Blood Glucose
+      hint: mg/dL
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: pain_level
+      label: Pain Level
+      hint: Scale 0-10
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: pain_location
+      label: Pain Location
+      hint: Where is the pain
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: gcs_score
+      label: Glasgow Coma Scale
+      hint: Total score
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: section_assessment
+      label: -- Patient Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: level_of_consciousness
+      label: Level of Consciousness
+      hint: null
+      type: select_one
+      options:
+      - Alert
+      - Verbal
+      - Pain
+      - Unresponsive
+      required: true
+    - id: 37
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: select_one
+      options:
+      - Oriented x4
+      - Oriented x3
+      - Oriented x2
+      - Oriented x1
+      - Confused
+      - Disoriented
+      required: true
+    - id: 38
+      name: skin_color
+      label: Skin Color
+      hint: null
+      type: select_one
+      options:
+      - Pink
+      - Pale
+      - Cyanotic
+      - Flushed
+      - Jaundiced
+      - Mottled
+      required: false
+    - id: 39
+      name: skin_temperature
+      label: Skin Temperature
+      hint: null
+      type: select_one
+      options:
+      - Warm
+      - Cool
+      - Cold
+      - Hot
+      required: false
+    - id: 40
+      name: skin_condition
+      label: Skin Condition
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Moist
+      - Diaphoretic
+      - Clammy
+      required: false
+    - id: 41
+      name: pupils
+      label: Pupils
+      hint: Size and reaction
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: lung_sounds
+      label: Lung Sounds
+      hint: null
+      type: select_one
+      options:
+      - Clear bilaterally
+      - Wheezing
+      - Crackles
+      - Diminished
+      - Absent
+      - Stridor
+      required: false
+    - id: 43
+      name: heart_sounds
+      label: Heart Sounds
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Irregular
+      - Murmur
+      - Gallop
+      - Not assessed
+      required: false
+    - id: 44
+      name: pulses
+      label: Pulses
+      hint: Rate and quality
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: section_treatment
+      label: -- Treatment Provided --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: oxygen_therapy
+      label: Oxygen Therapy
+      hint: Type and flow rate
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: airway_interventions
+      label: Airway Interventions
+      hint: What was done
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: breathing_interventions
+      label: Breathing Interventions
+      hint: What was done
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: circulation_interventions
+      label: Circulation Interventions
+      hint: What was done
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: iv_access
+      label: IV Access
+      hint: Location and gauge
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: iv_fluids
+      label: IV Fluids Administered
+      hint: Type and amount
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: medications_given
+      label: Medications Administered
+      hint: List all medications with doses
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: procedures_performed
+      label: Procedures Performed
+      hint: List all procedures
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: immobilization
+      label: Immobilization
+      hint: Type and location
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: bleeding_control
+      label: Bleeding Control
+      hint: Method used
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: section_patient_response
+      label: -- Patient Response --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 57
+      name: response_to_treatment
+      label: Patient Response to Treatment
+      hint: Improved, unchanged, deteriorated
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: vitals_after_treatment
+      label: Vital Signs After Treatment
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: section_transport
+      label: -- Transport Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 60
+      name: transport_priority
+      label: Transport Priority
+      hint: null
+      type: select_one
+      options:
+      - Priority/Emergency
+      - Non-priority/Routine
+      required: true
+    - id: 61
+      name: transport_mode
+      label: Transport Mode
+      hint: null
+      type: select_one
+      options:
+      - Lights and siren
+      - No lights/siren
+      required: false
+    - id: 62
+      name: destination_facility
+      label: Destination Facility
+      hint: Hospital name
+      type: text
+      options: []
+      required: false
+    - id: 63
+      name: destination_reason
+      label: Reason for Facility Choice
+      hint: Patient preference, closest, specialty
+      type: text
+      options: []
+      required: false
+    - id: 64
+      name: patient_position
+      label: Patient Position During Transport
+      hint: null
+      type: select_one
+      options:
+      - Supine
+      - Sitting
+      - Lateral recumbent
+      - Fowler's
+      - Other
+      required: false
+    - id: 65
+      name: section_handoff
+      label: -- Hospital Handoff --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 66
+      name: receiving_nurse
+      label: Receiving Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 67
+      name: receiving_physician
+      label: Receiving Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 68
+      name: handoff_report_time
+      label: Handoff Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 69
+      name: belongings_transferred
+      label: Patient Belongings Transferred
+      hint: List items
+      type: text
+      options: []
+      required: false
+    - id: 70
+      name: section_crew
+      label: -- Crew Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 71
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 72
+      name: driver_certification
+      label: Driver Certification
+      hint: null
+      type: select_one
+      options:
+      - EMT-B
+      - EMT-I
+      - Paramedic
+      - Driver only
+      required: true
+    - id: 73
+      name: attendant_name
+      label: Attendant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 74
+      name: attendant_certification
+      label: Attendant Certification
+      hint: null
+      type: select_one
+      options:
+      - EMT-B
+      - EMT-I
+      - Paramedic
+      - Other
+      required: true
+    - id: 75
+      name: third_crew_member
+      label: Third Crew Member
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 76
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 77
+      name: narrative
+      label: Patient Care Narrative
+      hint: Detailed account of assessment and care
+      type: text
+      options: []
+      required: true
+    - id: 78
+      name: special_circumstances
+      label: Special Circumstances
+      hint: Any unusual situations
+      type: text
+      options: []
+      required: false
+    - id: 79
+      name: report_completed_by
+      label: Report Completed By
+      hint: Signature
+      type: text
+      options: []
+      required: true
+    - id: 80
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true

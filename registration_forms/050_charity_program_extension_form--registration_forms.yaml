@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Program Extension Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_id
+      label: Participant ID
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_name
+      label: Current Program
+      hint: Which program
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program_start_date
+      label: Program Start Date
+      hint: When you began
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: program_end_date
+      label: Current Program End Date
+      hint: Scheduled completion
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: extension_reason
+      label: Reason for Extension Request
+      hint: Why you need more time
+      type: select_one
+      options:
+      - Need more time to complete requirements
+      - Medical or health reasons
+      - Family circumstances
+      - Employment changes
+      - Educational conflicts
+      - Financial hardship
+      - Other personal reasons
+      required: true
+    - id: 10
+      name: extension_details
+      label: Describe Your Situation
+      hint: Explain your need
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: extension_length
+      label: Requested Extension Length
+      hint: How much time
+      type: select_one
+      options:
+      - 1 month
+      - 2 months
+      - 3 months
+      - 6 months
+      - 1 year
+      - Other
+      required: true
+    - id: 12
+      name: new_end_date
+      label: Proposed New End Date
+      hint: When you will complete
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: progress_made
+      label: Progress Made So Far
+      hint: What you have accomplished
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: remaining_requirements
+      label: Remaining Requirements
+      hint: What is left to do
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: completion_plan
+      label: Plan for Completion
+      hint: How you will finish
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: support_needed
+      label: Additional Support Needed
+      hint: What would help you
+      type: select_multiple
+      options:
+      - Extended counseling sessions
+      - Additional resources
+      - Flexible scheduling
+      - Financial assistance
+      - Transportation help
+      - Childcare support
+      - None
+      required: false
+    - id: 17
+      name: case_manager
+      label: Current Case Manager
+      hint: Who you work with
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: prior_extensions
+      label: Have You Had Extensions Before
+      hint: Previous requests
+      type: select_one
+      options:
+      - Yes this is first
+      - Yes one prior
+      - Yes multiple
+      - false
+      required: true
+    - id: 19
+      name: commitment_statement
+      label: Do You Commit to Completing the Program
+      hint: Your commitment
+      type: select_one
+      options:
+      - Yes fully committed
+      - Yes with conditions
+      - Unsure
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Appeal Request Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Direct Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: incident_location
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_type
+      label: Type of Unfair Treatment
+      hint: null
+      type: select_one
+      options:
+      - Discrimination
+      - Harassment
+      - Retaliation
+      - Unequal pay
+      - Unfair discipline
+      - Breach of contract
+      - Other
+      required: true
+    - id: 11
+      name: incident_description
+      label: Detailed Description of the Incident
+      hint: Please provide a complete account of what happened
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: individuals_involved
+      label: Names of other individuals involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_reporting
+      label: -- Previous Reporting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reported_before
+      label: Have you reported this issue previously?
+      hint: null
+      type: select_one
+      options:
+      - Yes, to my manager
+      - Yes, to HR
+      - Yes, to both
+      - No
+      required: true
+    - id: 15
+      name: previous_report_date
+      label: Date of previous report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: resolution_sought
+      label: -- Resolution Sought --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: desired_outcome
+      label: What resolution or action do you seek?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: supporting_evidence
+      label: Do you have supporting documentation or evidence?
+      hint: null
+      type: select_one
+      options:
+      - Yes, emails
+      - Yes, messages
+      - Yes, other documents
+      - No
+      required: false
+    - id: 19
+      name: witnesses_available
+      label: Are there witnesses who can support your claim?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Unsure
+      required: false
+    - id: 20
+      name: witness_information
+      label: Witness names and contact details
+      hint: null
+      type: text
+      options: []
+      required: false

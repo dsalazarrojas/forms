@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Platform Metrics Report Form
+    pages:
+    - id: 1
+      name: platform_metrics_report_form
+      label: platform_metrics_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_periods
+      label: reporting_periods
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Q1 2024''}'
+      - '{''id'': 2, ''name'': ''Q2 2024''}'
+      - '{''id'': 3, ''name'': ''Q3 2024''}'
+      - '{''id'': 4, ''name'': ''Q4 2024''}'
+      required: false
+    - id: 3
+      name: trend_visibility
+      label: trend_visibility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_metrics
+      label: performance_metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_id
+      label: product_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: metric_1
+      label: metric_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: metric_2
+      label: metric_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: metric_3
+      label: metric_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: platform_metrics_report_form_submit
+      label: platform_metrics_report_form_submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''I have read and understand the terms of this form
+        submission''}'
+      - '{''id'': 2, ''name'': ''I understand that this form submission is used for
+        internal purposes only''}'
+      - '{''id'': 14, ''name'': ''platform_metrics_report_form_submit_confirmation''}'
+      - '{''id'': 15, ''name'': ''platform_metrics_report_form_submit_confirmation''}'
+      - '{''id'': 16, ''name'': ''platform_metrics_report_form_submit_confirmation_2''}'
+      required: false
+    - id: 14
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

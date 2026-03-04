@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theme Park Disability Access Request Form
+    pages:
+    - id: 1
+      name: theme_park_disability_access_request_form
+      label: Theme Park Disability Access Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: theme_park_visitor_info
+      label: Theme Park Visitor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: theme_park_disability_type
+      label: Theme Park Disability Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Visually Impaired''}'
+      - '{''label'': ''Physical Impaired''}'
+      - '{''label'': ''Hearing Impaired''}'
+      - '{''label'': ''Cognitive Impaired''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: theme_park_disability_type_other
+      label: Theme Park Disability Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: theme_park_contact_person
+      label: Theme Park Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: theme_park_date_time
+      label: Theme Park Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: theme_park_phone
+      label: Theme Park Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: theme_park_email
+      label: Theme Park Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: theme_park_notes
+      label: Theme Park Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: theme_park_comments
+      label: Theme Park Comments
+      hint: null
+      type: note
+      options: []
+      required: false

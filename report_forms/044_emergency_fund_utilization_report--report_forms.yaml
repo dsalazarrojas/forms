@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_fund_utilization_report
+    pages:
+    - id: 1
+      name: emergency_fund_utilization_report
+      label: emergency_fund_utilization_report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_of_emergency
+      label: date_of_emergency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: amount_allocated
+      label: amount_allocated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

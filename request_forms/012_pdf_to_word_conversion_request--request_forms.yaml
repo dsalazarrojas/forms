@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: pdf_to_word_conversion_request
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pdf_to_upload
+      label: PDF to Upload
+      hint: Upload PDF file
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Image
+      - PDF
+      required: true
+    - id: 4
+      name: conversion_preset
+      label: Conversion Preset
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Express
+      required: true
+    - id: 5
+      name: conversion_options
+      label: Conversion Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: turnaround_time
+      label: Turnaround Time
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 4 hours
+      - 8 hours
+      - 12 hours
+      - 24 hours
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Add any special instructions
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Client Email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_pdf
+      label: Upload PDF
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

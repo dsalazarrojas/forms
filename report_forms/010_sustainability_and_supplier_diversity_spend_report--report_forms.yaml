@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: sustainability_and_supplier_diversity_spend_report
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supplier_info
+      label: Supplier Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sustainability_info
+      label: Sustainability Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: spend_info
+      label: Spend Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_address
+      label: Supplier Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supplier_city
+      label: Supplier City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supplier_state
+      label: Supplier State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supplier_country
+      label: Supplier Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supplier_zip
+      label: Supplier Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supplier_type
+      label: Supplier Type
+      hint: null
+      type: text
+      options: []
+      required: false

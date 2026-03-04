@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Cancellation Request Form
+    pages:
+    - id: 1
+      name: program_cancellation_request_form
+      label: Cancellation Request
+      hint: Enter the reason for cancellation request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_id
+      label: Program ID
+      hint: Enter Program ID
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: Enter contact number of participant
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: cancellation_date
+      label: Cancellation Date
+      hint: Enter cancellation date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_cancellation_request_form_comments
+      label: Comments
+      hint: Enter any other comments
+      type: text
+      options: []
+      required: false

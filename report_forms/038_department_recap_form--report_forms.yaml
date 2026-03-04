@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Department Recap Form
+    pages:
+    - id: 1
+      name: department_updates
+      label: prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performance_kpis
+      label: departmental
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: achievements
+      label: key
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: internal_reporting
+      label: reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: transparency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: productivity_boost
+      label: boost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: internal_reporting_system
+      label: system
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: departmental_kpis
+      label: kpis
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: firearm_report_form
+      label: Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: firearm_details
+      label: Firearm Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: firearm_type
+      label: Firearm Type
+      hint: null
+      type: select_one
+      options:
+      - 9mm pistol
+      - 10mm pistol
+      - 11mm pistol
+      - 40mm pistol
+      - 380 pistol
+      - 45mm pistol
+      - 9mm rifle
+      - 10mm rifle
+      - 11mm rifle
+      - 40mm rifle
+      - 380 rifle
+      - 45mm rifle
+      - 9mm
+      - 10mm
+      - 11mm
+      - 40mm
+      - '380'
+      - 45mm
+      required: false
+    - id: 5
+      name: firearm_status
+      label: Firearm Status
+      hint: null
+      type: select_one
+      options:
+      - Lost
+      - Stolen
+      - Recovered
+      - Sold
+      - Other
+      required: false
+    - id: 6
+      name: firearm_location
+      label: Firearm Location
+      hint: null
+      type: select_multiple
+      options:
+      - Local
+      - State
+      - National
+      - Unknown
+      required: false
+    - id: 7
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_date_time
+      label: Incident Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - 0% complete
+      - 1% complete
+      - 2% complete
+      - 3% complete
+      - 4% complete
+      - 5% complete
+      - 6% complete
+      - 7% complete
+      - 8% complete
+      - 9% complete
+      - 10% complete
+      - Complete
+      - Reopened
+      - Cancelled
+      - Incomplete
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

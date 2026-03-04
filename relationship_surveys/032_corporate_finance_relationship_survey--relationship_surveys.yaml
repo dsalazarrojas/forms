@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Finance Relationship Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_question
+      label: What is the main reason for this survey?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rating
+      label: How satisfied with your service quality?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feedback
+      label: What can we do better?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: collaboration
+      label: How effective is our collaboration?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: collaboration_question
+      label: Which area do we need to improve?
+      hint: null
+      type: select_one
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 11
+      name: collaboration_suggestion
+      label: What collaboration suggestion do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow-up contact information
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: follow_up_frequency
+      label: How often would you like to be contacted for feedback?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: follow_up_channel
+      label: What channel would you like to use for feedback?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: follow_up_message
+      label: Follow-up message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: submission_location
+      label: Submission Location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 19
+      name: submission_comment
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_ip
+      label: Submission IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_useragent
+      label: Submission User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_os
+      label: Submission OS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_device
+      label: Submission Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_browser
+      label: Submission Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_country
+      label: Submission Country
+      hint: null
+      type: text
+      options: []
+      required: false

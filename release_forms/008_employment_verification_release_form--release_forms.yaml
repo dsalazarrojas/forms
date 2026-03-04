@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_verification_release_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: employee_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employer_info
+      label: employer_info
+      hint: Please enter your former employers name and address and dates of employment.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: employment_start_date
+      label: employment_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employment_end_date
+      label: employment_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

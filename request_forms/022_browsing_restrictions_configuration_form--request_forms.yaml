@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Browsing Restrictions Configuration Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_type
+      label: Type of Restriction Request
+      hint: null
+      type: select_one
+      options:
+      - Individual User
+      - Group or Team
+      - Device
+      - Network Level
+      required: true
+    - id: 5
+      name: target_user
+      label: Target User or Group Name
+      hint: Who will the restrictions apply to
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_device
+      label: Target Device or Computer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: websites_to_block
+      label: Websites to Block
+      hint: List URLs or domains
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: website_categories
+      label: Website Categories to Restrict
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media
+      - Streaming
+      - Gaming
+      - Shopping
+      - Adult Content
+      - News
+      - Custom Categories
+      required: false
+    - id: 9
+      name: whitelist_websites
+      label: Websites to Allow - Whitelist
+      hint: List approved websites
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: restriction_scope
+      label: Scope of Restrictions
+      hint: null
+      type: select_one
+      options:
+      - Office Hours Only
+      - Specific Times
+      - Always Enforced
+      required: true
+    - id: 11
+      name: restriction_start_time
+      label: Restriction Start Time
+      hint: If applicable
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: restriction_end_time
+      label: Restriction End Time
+      hint: If applicable
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: bypass_authorization
+      label: Allow Override or Bypass Authorization
+      hint: Can user request exceptions
+      type: select_one
+      options:
+      - Yes, with approval
+      - No, no bypass allowed
+      - Special cases only
+      required: true
+    - id: 14
+      name: logging_monitoring
+      label: Enable Logging and Monitoring
+      hint: Track browsing attempts
+      type: select_one
+      options:
+      - Yes, log all
+      - Yes, log violations only
+      - No logging
+      required: true
+    - id: 15
+      name: notification_method
+      label: How Should User Be Notified
+      hint: Of restriction policies
+      type: select_one
+      options:
+      - Email
+      - System Message
+      - In-Person
+      - All Methods
+      required: true
+    - id: 16
+      name: start_date
+      label: Restriction Start Date
+      hint: When should restrictions go live
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: end_date
+      label: Restriction End Date
+      hint: Leave blank if indefinite
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: business_justification
+      label: Business Justification for Restrictions
+      hint: Explain the reason
+      type: text
+      options: []
+      required: true

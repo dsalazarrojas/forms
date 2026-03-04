@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: systems_support_log_form
+    pages:
+    - id: 1
+      name: system_id
+      label: system_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reported_by
+      label: reported_by
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: attachment_url
+      label: attachment_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment_name
+      label: attachment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment_content
+      label: attachment_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment_mime_type
+      label: attachment_mime_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment_size
+      label: attachment_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attachment_last_updated
+      label: attachment_last_updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: issue_reported_on
+      label: issue_reported_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: issue_reported_on_tz
+      label: issue_reported_on_tz
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 16
+      name: issue_reported_by
+      label: issue_reported_by
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 17
+      name: issue_last_updated
+      label: issue_last_updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: issue_last_updated_tz
+      label: issue_last_updated_tz
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 19
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 21
+      name: issue_severity
+      label: issue_severity
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: reported_by_department
+      label: reported_by_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reported_by_email
+      label: reported_by_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reported_by_phone
+      label: reported_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

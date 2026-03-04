@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphite Monitoring Log Form
+    pages:
+    - id: 1
+      name: graphite_form
+      label: Graphite Monitoring Log
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: graphite_type
+      label: Graphite Type
+      hint: null
+      type: select_one
+      options:
+      - Graphite
+      - Lead
+      - Steel
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 12
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 13
+      name: graphite_status
+      label: Graphite Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 14
+      name: graphite_status_notes
+      label: Graphite Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: graphite_status_1
+      label: Graphite Status 1
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 16
+      name: graphite_status_2
+      label: Graphite Status 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: graphite_status_3
+      label: Graphite Status 3
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: graphite_notes
+      label: Graphite Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: graphite_comments
+      label: Graphite Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: graphite_comments_1
+      label: Graphite Comments 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: graphite_comments_2
+      label: Graphite Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: graphite_comments_3
+      label: Graphite Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: graphite_comments_4
+      label: Graphite Comments 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: graphite_comments_5
+      label: Graphite Comments 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: graphite_comments_6
+      label: Graphite Comments 6
+      hint: null
+      type: text
+      options: []
+      required: false

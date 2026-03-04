@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Odometer Statement Form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: odometer_mileage
+      label: Odometer Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: odometer_reading_date
+      label: Odometer Reading Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: odometer_maintenance_record
+      label: Odometer Maintenance Record
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - None
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: seller_signature
+      label: Seller's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: buyer_signature
+      label: Buyer's Signature
+      hint: null
+      type: text
+      options: []
+      required: false

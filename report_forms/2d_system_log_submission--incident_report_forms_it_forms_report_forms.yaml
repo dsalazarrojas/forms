@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2D System Log Submission
+    pages:
+    - id: 1
+      name: header_section
+      label: '--- System Event Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector/Auditor name
+      hint: Enter the name of the person documenting this event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Date of log entry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspection_time
+      label: Time of log entry
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: system_id
+      label: System ID or identifier
+      hint: Enter the unique identifier for the system being logged
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location or site of system"
+      hint: Physical location of the system
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Type of event logged
+      hint: null
+      type: select_one
+      options:
+      - Routine maintenance
+      - Error occurrence
+      - Security incident
+      - Performance degradation
+      - Hardware failure
+      - Software update
+      - User access issue
+      required: true
+    - id: 8
+      name: severity_level
+      label: Severity level
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      - Informational
+      required: true
+    - id: 9
+      name: system_status
+      label: Current system status
+      hint: null
+      type: select_one
+      options:
+      - Operational
+      - Degraded
+      - Down
+      - Maintenance mode
+      - Unknown
+      required: true
+    - id: 10
+      name: affected_components
+      label: Affected system components (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Database
+      - Network
+      - Storage
+      - Application layer
+      - Authentication
+      - Backup systems
+      - Monitoring tools
+      required: false
+    - id: 11
+      name: error_code
+      label: Error code or reference number
+      hint: If applicable, enter the system-generated error code
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: duration_minutes
+      label: Duration of event (minutes)
+      hint: How long did the event last or how long has it been occurring?
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: impacted_users_count
+      label: Number of impacted users
+      hint: Approximate number of users affected by this event
+      type: integer
+      options: []
+      required: false
+    - id: 14
+      name: business_impact
+      label: Business impact assessment
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 15
+      name: detected_by
+      label: How was this event detected?
+      hint: null
+      type: select_one
+      options:
+      - Automated monitoring
+      - User report
+      - Scheduled check
+      - External notification
+      - Audit review
+      required: true
+    - id: 16
+      name: resolution_status
+      label: Resolution status
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - In progress
+      - Escalated
+      - Pending investigation
+      - Workaround implemented
+      required: true
+    - id: 17
+      name: resolution_time_hours
+      label: Time to resolution (hours)
+      hint: How long did it take to resolve the issue?
+      type: decimal
+      options: []
+      required: false
+    - id: 18
+      name: root_cause_category
+      label: Root cause category
+      hint: null
+      type: select_one
+      options:
+      - Human error
+      - Hardware failure
+      - Software bug
+      - Configuration issue
+      - Network problem
+      - Security breach
+      - Environmental factor
+      required: false
+    - id: 19
+      name: preventive_measures
+      label: Recommended preventive measures
+      hint: Suggest actions to prevent similar events in the future
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other relevant information about this event
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: escalation_required
+      label: Does this require escalation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Undetermined
+      required: true
+    - id: 22
+      name: next_review_date
+      label: Next review date
+      hint: When should this log entry be reviewed again?
+      type: date
+      options: []
+      required: false

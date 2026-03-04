@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Application Interest Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: Street address of the property
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: move_in_date
+      label: Move in Date
+      hint: When do you plan to move in?
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_type
+      label: Rental Type
+      hint: What type of rental are you interested in? (House, Apartment, etc.)
+      type: select_one
+      options:
+      - Single Family
+      - Townhouse
+      - Apartment
+      - Condo
+      required: false
+    - id: 7
+      name: move_in_location
+      label: Move in Location
+      hint: What neighborhood or area do you live in right now?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: What type of property are you interested in (House, Apartment, Townhouse,
+        etc.)
+      type: select_multiple
+      options:
+      - House
+      - Townhouse
+      - Apartment
+      - Condo
+      required: false
+    - id: 9
+      name: rent_range
+      label: Rent Range
+      hint: null
+      type: select_multiple
+      options:
+      - Under 1000
+      - 1000-1500
+      - 1500-2000
+      - 2000-2500
+      - 2500-3000
+      - 3000-4000
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: Additional Message
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name_of_parent_or_guardian
+      label: Name of Parent or Guardian
+      hint: Name of Parent or Guardian if under 18
+      type: text
+      options: []
+      required: false

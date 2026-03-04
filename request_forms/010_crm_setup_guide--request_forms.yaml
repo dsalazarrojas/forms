@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Setup Guide
+    pages:
+    - id: 1
+      name: guide_instructions
+      label: -- CRM Setup Requirements Guide --
+      hint: Please complete this form to help us configure your CRM environment correctly
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_stakeholder
+      label: Primary Project Stakeholder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_domain
+      label: Business Domain
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: configuration_header
+      label: -- Environment Configuration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: fiscal_year_start
+      label: Fiscal Year Start Month
+      hint: used for sales forecasting
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 6
+      name: base_currency
+      label: Primary Business Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - JPY
+      required: true
+    - id: 7
+      name: lead_sources
+      label: Core Lead Sources
+      hint: list common ways you acquire leads
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sales_stages
+      label: Sales Pipeline Stages
+      hint: e.g. Qualification, Discovery, Proposal, Negotiation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: automation_header
+      label: -- Automation and Workflows --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: auto_notifications
+      label: Enable Automated Lead Notifications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: data_privacy_header
+      label: -- Data Privacy and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: compliance_regime
+      label: Applicable Data Regulations
+      hint: null
+      type: select_multiple
+      options:
+      - GDPR
+      - CCPA
+      - HIPAA
+      - PIPEDA
+      - None
+      required: true
+    - id: 13
+      name: data_retention_policy
+      label: Data Retention Period
+      hint: in years
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: timeline_header
+      label: -- Implementation Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: discovery_completion
+      label: Targeted Discovery Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: go_live_date
+      label: Expected Go-Live Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: setup_notes
+      label: Additional Setup Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

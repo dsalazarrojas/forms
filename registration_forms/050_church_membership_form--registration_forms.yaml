@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Membership Form
+    pages:
+    - id: 1
+      name: header_membership_basics
+      label: -- Membership Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: membership_applicant_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: membership_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: membership_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: membership_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: membership_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: header_spiritual_journey
+      label: -- Spiritual Journey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_baptism_status
+      label: Have you been baptized?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: conversion_experience_brief
+      label: Briefly share your personal faith story
+      hint: How you came to follow Christ
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: previous_membership_listing
+      label: Previous church memberships (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: membership_reason_joining
+      label: Why do you wish to join this local congregation?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: header_membership_covenant
+      label: -- Member Covenant --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: belief_statement_agreement
+      label: I agree with the Church's Articles of Faith
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: service_giving_covenant
+      label: I commit to support the church through service and giving
+      hint: Participation in community life
+      type: select_one
+      options:
+      - I Commit
+      - Other
+      required: true
+    - id: 15
+      name: header_engagement_interests
+      label: -- Interests and Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: membership_service_interests
+      label: Areas where you are interested in serving
+      hint: null
+      type: select_multiple
+      options:
+      - Worship
+      - Kids
+      - Youth
+      - Missions
+      - Hospitality
+      - Media
+      - Support
+      required: false
+    - id: 17
+      name: membership_small_group_interest
+      label: Are you interested in joining a small group?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Already in one
+      - false
+      required: true
+    - id: 18
+      name: applicant_membership_signature
+      label: Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: application_submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

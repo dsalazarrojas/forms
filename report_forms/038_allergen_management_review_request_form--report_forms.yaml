@@ -1,0 +1,294 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Allergen Management Review Request Form
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Quality Assurance
+      - Food Safety
+      - Production
+      - Operations
+      - Research and Development
+      - Procurement
+      - Human Resources
+      - Other
+      required: true
+    - id: 6
+      name: facility_location
+      label: Facility Location
+      hint: Which facility?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: review_type
+      label: Type of Review Requested
+      hint: What type of review?
+      type: select_one
+      options:
+      - Routine allergen review
+      - Incident investigation
+      - New product assessment
+      - Supplier change review
+      - Process change review
+      - Customer complaint follow-up
+      - Regulatory compliance
+      - Other
+      required: true
+    - id: 8
+      name: priority_level
+      label: Priority Level
+      hint: Urgency
+      type: select_one
+      options:
+      - Critical - immediate
+      - High - within 24 hours
+      - Medium - within 1 week
+      - Low - routine schedule
+      required: true
+    - id: 9
+      name: allergens_involved
+      label: Allergens Involved
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Peanuts
+      - Tree nuts
+      - Milk
+      - Eggs
+      - Wheat/Gluten
+      - Soy
+      - Fish
+      - Shellfish
+      - Sesame
+      - Mustard
+      - Sulfites
+      - Lupin
+      - Celery
+      - Other
+      required: true
+    - id: 10
+      name: products_affected
+      label: Products Affected
+      hint: List products
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_description
+      label: Incident Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_date
+      label: Incident Date
+      hint: When did it occur?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: incident_location
+      label: Incident Location
+      hint: Where did it occur?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: root_cause_known
+      label: Root Cause Known?
+      hint: Do you know the cause?
+      type: select_one
+      options:
+      - Yes, confirmed
+      - Suspected cause
+      - Unknown
+      required: true
+    - id: 15
+      name: suspected_root_cause
+      label: Suspected Root Cause
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_impact
+      label: Customer Impact
+      hint: Were customers affected?
+      type: select_one
+      options:
+      - No customer impact
+      - Potential exposure
+      - Confirmed exposure
+      - Adverse reaction reported
+      - Medical treatment required
+      required: true
+    - id: 17
+      name: product_distribution
+      label: Product Distribution Status
+      hint: Where are products?
+      type: select_one
+      options:
+      - Still in production
+      - In warehouse
+      - Shipped to distributors
+      - On retail shelves
+      - With consumers
+      required: true
+    - id: 18
+      name: recall_consideration
+      label: Recall Under Consideration?
+      hint: Is recall being considered?
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Under evaluation
+      required: true
+    - id: 19
+      name: regulatory_notification
+      label: Regulatory Notification Required
+      hint: Do authorities need to be notified?
+      type: select_one
+      options:
+      - Yes, notified
+      - Yes, pending
+      - No, not required
+      - Undetermined
+      required: true
+    - id: 20
+      name: previous_similar_incidents
+      label: Previous Similar Incidents
+      hint: Has this happened before?
+      type: select_one
+      options:
+      - Yes, same issue
+      - Yes, similar issue
+      - No, first occurrence
+      required: false
+    - id: 21
+      name: documentation_attached
+      label: Documentation Attached
+      hint: List attached documents
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_members_needed
+      label: Team Members Needed
+      hint: Who should be involved?
+      type: select_multiple
+      options:
+      - Quality manager
+      - Production supervisor
+      - Food safety specialist
+      - R&D representative
+      - Procurement representative
+      - Legal counsel
+      - Communications team
+      - External consultant
+      required: false
+    - id: 23
+      name: review_deadline
+      label: Review Deadline
+      hint: When is review needed?
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What do you need from review?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: corrective_actions_initiated
+      label: Corrective Actions Initiated
+      hint: Have you taken any actions?
+      type: select_one
+      options:
+      - Yes, immediate containment
+      - Yes, preliminary actions
+      - No, awaiting review
+      required: true
+    - id: 26
+      name: actions_description
+      label: Actions Description
+      hint: Describe actions taken
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: communication_plan
+      label: Communication Plan Needed
+      hint: Is communication needed?
+      type: select_one
+      options:
+      - Yes, internal only
+      - Yes, external required
+      - Yes, both internal and external
+      - No communication needed
+      required: true
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: management_notification
+      label: Management Notified
+      hint: Has management been informed?
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Pending
+      required: true

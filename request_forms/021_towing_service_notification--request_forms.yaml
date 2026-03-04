@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Towing Service Notification
+    pages:
+    - id: 1
+      name: towing_request_details
+      label: Towing Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: towing_authorization
+      label: Authorization
+      hint: null
+      type: select_one
+      options:
+      - Towing authorized
+      - Not authorized
+      required: false
+    - id: 3
+      name: towing_vehicle_details
+      label: Towing Vehicle Details
+      hint: Please provide the vehicle make, model, and year.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: towed_by
+      label: Towed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: towed_at
+      label: Towed At
+      hint: Date and time of the tow
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: towing_operator
+      label: Towing Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pickup_location
+      label: Pickup Location
+      hint: Address or nearest intersection
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dropoff_location
+      label: Dropoff Location
+      hint: Address or nearest intersection
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: towing_service_confirmation
+      label: Towing Service Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about the tow
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: towing_service_name
+      label: Towing Service Name
+      hint: Towing service name or company name
+      type: text
+      options: []
+      required: false

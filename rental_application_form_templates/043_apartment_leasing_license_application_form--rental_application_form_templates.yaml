@@ -1,0 +1,551 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Leasing License Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: SSN or ITIN
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: drivers_license_number
+      label: Driver License Number
+      hint: License number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: drivers_license_state
+      label: License State
+      hint: Issuing state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_address
+      label: Current Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_city
+      label: City
+      hint: Current city
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_state
+      label: State
+      hint: Current state
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_zip
+      label: ZIP Code
+      hint: Current ZIP
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_housing_status
+      label: Current Housing Status
+      hint: Do you rent or own
+      type: select_one
+      options:
+      - Renting
+      - Owning
+      - Living with family
+      - Living with roommates
+      - Other
+      required: true
+    - id: 14
+      name: current_landlord
+      label: Current Landlord Name
+      hint: If renting
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_landlord_phone
+      label: Current Landlord Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_landlord_email
+      label: Current Landlord Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: length_at_current_address
+      label: How long at current address
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - More than 5 years
+      required: true
+    - id: 18
+      name: reason_for_moving
+      label: Reason for Moving
+      hint: Why are you moving
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: desired_property
+      label: Property Applying For
+      hint: Address or name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: desired_unit
+      label: Desired Unit Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: desired_move_in_date
+      label: Desired Move-in Date
+      hint: When do you want to move
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: lease_term_preference
+      label: Preferred Lease Term
+      hint: Length of lease
+      type: select_one
+      options:
+      - 6 months
+      - 9 months
+      - 12 months
+      - 18 months
+      - 24 months
+      - Flexible
+      required: true
+    - id: 23
+      name: employment_section
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: employment_status
+      label: Employment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Student
+      - Disabled
+      - Other
+      required: true
+    - id: 25
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: employer_address
+      label: Employer Address
+      hint: Work address
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: length_of_employment
+      label: Length of Employment
+      hint: How long employed
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - More than 5 years
+      required: false
+    - id: 29
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Manager name
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: monthly_income
+      label: Gross Monthly Income
+      hint: Before taxes
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: additional_income
+      label: Additional Income
+      hint: Other income sources
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: income_source
+      label: Additional Income Source
+      hint: Where from
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: financial_section
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: bank_name
+      label: Bank Name
+      hint: Your bank
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Both
+      - Other
+      required: true
+    - id: 37
+      name: credit_score_range
+      label: Credit Score Range
+      hint: Approximate score
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (below 650)
+      - Not sure
+      required: true
+    - id: 38
+      name: bankruptcies
+      label: Have you ever filed bankruptcy
+      hint: Bankruptcy history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 39
+      name: bankruptcy_details
+      label: Bankruptcy Details
+      hint: If yes, explain
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: evictions
+      label: Have you ever been evicted
+      hint: Eviction history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 41
+      name: eviction_details
+      label: Eviction Details
+      hint: If yes, explain
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: criminal_history
+      label: Do you have any criminal history
+      hint: Criminal record
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 43
+      name: criminal_details
+      label: Criminal History Details
+      hint: If yes, explain
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: occupants_section
+      label: -- Additional Occupants --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: total_occupants
+      label: Total Number of Occupants
+      hint: How many will live there
+      type: number
+      options: []
+      required: true
+    - id: 46
+      name: adult_occupants
+      label: Number of Adults
+      hint: 18 and over
+      type: number
+      options: []
+      required: true
+    - id: 47
+      name: child_occupants
+      label: Number of Children
+      hint: Under 18
+      type: number
+      options: []
+      required: false
+    - id: 48
+      name: children_ages
+      label: Children Ages
+      hint: Ages of children
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: pets_section
+      label: -- Pet Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 50
+      name: have_pets
+      label: Do you have pets
+      hint: Pet ownership
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 51
+      name: pet_type
+      label: Pet Type
+      hint: What kind of pet
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: pet_breed
+      label: Pet Breed
+      hint: Breed of pet
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: pet_size
+      label: Pet Size
+      hint: Weight in pounds
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: pet_age
+      label: Pet Age
+      hint: Age in years
+      type: number
+      options: []
+      required: false
+    - id: 55
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Make, model, year, color
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: parking_needed
+      label: Is parking needed
+      hint: Parking requirement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 57
+      name: references_section
+      label: -- Personal References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 58
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 59
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 60
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 61
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do you know them
+      type: text
+      options: []
+      required: true
+    - id: 62
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 63
+      name: reference_2_phone
+      label: Reference 2 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 64
+      name: reference_2_email
+      label: Reference 2 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 65
+      name: reference_2_relationship
+      label: Reference 2 Relationship
+      hint: How do you know them
+      type: text
+      options: []
+      required: true
+    - id: 66
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 67
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 68
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 69
+      name: application_fee_paid
+      label: Application Fee Paid
+      hint: Fee payment status
+      type: select_one
+      options:
+      - true
+      - false
+      - Waived
+      required: true
+    - id: 70
+      name: application_status
+      label: Application Status
+      hint: For office use
+      type: select_one
+      options:
+      - Submitted
+      - Under review
+      - Approved
+      - Denied
+      - Pending additional info
+      required: false

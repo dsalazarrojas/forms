@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Supply Data Accuracy Report Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: data_source
+      label: Data Source
+      hint: null
+      type: select_one
+      options:
+      - Source A
+      - Source B
+      - Source C
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Smith
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: completed
+      label: Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments_history
+      label: Comments History
+      hint: null
+      type: select_multiple
+      options:
+      - Comments 1
+      - Comments 2
+      - Comments 3
+      required: false
+    - id: 15
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attachment_comment
+      label: Attachment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 18
+      name: issue_tags
+      label: Issue Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false

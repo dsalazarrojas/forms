@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_trip_report_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Post Trip Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_supervisor
+      label: trip_supervisor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Bob Smith''}'
+      required: true
+    - id: 3
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_notes
+      label: Travel Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Bob Smith''}'
+      required: true
+    - id: 11
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

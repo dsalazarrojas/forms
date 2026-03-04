@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Allocation Mapping Application Form
+    pages:
+    - id: 1
+      name: cost_allocation_form_data
+      label: Cost Allocation Form Data
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 2
+      name: cost_allocation_requester
+      label: Cost Allocation Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cost_allocation_project
+      label: Cost Allocation Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cost_allocation_cost
+      label: Cost Allocation Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cost_allocation_allocation_date
+      label: Cost Allocation Allocation Date
+      hint: null
+      type: date
+      options: []
+      required: false

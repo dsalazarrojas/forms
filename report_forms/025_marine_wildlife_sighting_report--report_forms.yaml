@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Wildlife Sighting Report
+    pages:
+    - id: 1
+      name: marine_wildlife_sighting_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sighting_time
+      label: Sighting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: sighting_location
+      label: Sighting Location
+      hint: Provide location details
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sighting_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: species_id
+      label: Species ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: sighting_date
+      label: Sighting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: sighting_coordinates
+      label: Sighting Coordinates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: conservation_group
+      label: Conservation Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: conservation_group_id
+      label: Conservation Group ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: researcher_contact_info
+      label: Researcher Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: researcher_notes
+      label: Researcher Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: conservation_group_url
+      label: Conservation Group URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: conservation_group_email
+      label: Conservation Group Email
+      hint: null
+      type: email
+      options: []
+      required: false

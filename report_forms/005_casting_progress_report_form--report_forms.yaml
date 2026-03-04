@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Progress Report Form
+    pages:
+    - id: 1
+      name: report_info_header
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: shift_type
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - All Day
+      required: true
+    - id: 4
+      name: production_title
+      label: Production Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_name
+      label: Reporter Name
+      hint: Casting Director or Associate
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: progress_summary_header
+      label: -- Casting Progress Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: auditions_conducted
+      label: Number of Auditions Conducted Today
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: roles_reviewed
+      label: Roles Reviewed/Casting Runs
+      hint: List the roles focused on during this shift
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: quality_rating
+      label: Overall Talent Quality Today
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: callbacks_selected
+      label: Number of Callbacks Selected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: issues_encountered
+      label: Technical or Scheduling Issues
+      hint: Describe any delays or equipment failures
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_actions
+      label: Required Follow-up Actions
+      hint: e.g. Rescheduling, checking references
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: casting_stage
+      label: Current Stage of Casting
+      hint: null
+      type: select_one
+      options:
+      - Pre-Screening
+      - First Audition
+      - Callbacks
+      - Final Selection
+      - Contracting
+      required: true
+    - id: 14
+      name: general_notes
+      label: Additional Shift Notes
+      hint: null
+      type: text
+      options: []
+      required: false

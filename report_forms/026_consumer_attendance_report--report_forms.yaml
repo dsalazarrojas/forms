@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Attendance Report
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: Name of the event or session
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_start_time
+      label: Start Time
+      hint: Event start time
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: event_end_time
+      label: End Time
+      hint: Event end time
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: Where was the event held
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: Select the type of event
+      type: select_one
+      options:
+      - Workshop
+      - Training Session
+      - Community Meeting
+      - Seminar
+      - Conference
+      - Webinar
+      - Other
+      required: true
+    - id: 7
+      name: organizer_name
+      label: Organizer Name
+      hint: Name of the event organizer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organizer_email
+      label: Organizer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: organizer_phone
+      label: Organizer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: total_registered
+      label: Total Registered
+      hint: Number of people registered
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_attended
+      label: Total Attended
+      hint: Number of people who attended
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: attendance_rate
+      label: Attendance Rate
+      hint: Percentage of attendees
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: attendee_demographics
+      label: Attendee Demographics
+      hint: Brief description of attendee profile
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: age_groups
+      label: Age Groups Represented
+      hint: Select applicable age groups
+      type: select_multiple
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 15
+      name: event_objectives
+      label: Event Objectives
+      hint: What were the goals of this event
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: topics_covered
+      label: Topics Covered
+      hint: List main topics discussed
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: materials_distributed
+      label: Materials Distributed
+      hint: List any handouts or materials
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_engagement
+      label: Participant Engagement Level
+      hint: Rate overall engagement
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 19
+      name: feedback_summary
+      label: Feedback Summary
+      hint: Summary of participant feedback
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: challenges_encountered
+      label: Challenges Encountered
+      hint: Any issues during the event
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: successes
+      label: Key Successes
+      hint: What went well
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_actions
+      label: Follow-up Actions Needed
+      hint: List any follow-up items
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_event_date
+      label: Next Event Date
+      hint: Scheduled date for next event
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: report_submitted_by
+      label: Report Submitted By
+      hint: Name of person submitting report
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: report_submission_date
+      label: Report Submission Date
+      hint: Date of report submission
+      type: date
+      options: []
+      required: true

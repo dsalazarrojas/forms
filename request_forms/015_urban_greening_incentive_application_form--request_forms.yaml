@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Greening Incentive Application Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_budget_currency
+      label: project_budget_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - Other
+      required: false
+    - id: 10
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: funding_type
+      label: funding_type
+      hint: null
+      type: select_multiple
+      options:
+      - Grant
+      - Loan
+      - Donation
+      required: false
+    - id: 13
+      name: funding_amount
+      label: funding_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Pending
+      required: false
+    - id: 15
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: applicant_address
+      label: applicant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: applicant_phone
+      label: applicant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: applicant_email
+      label: applicant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: application_form_attachment
+      label: application_form_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: applicant_notes
+      label: applicant_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Not Yet Reviewed
+      required: false
+    - id: 25
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false

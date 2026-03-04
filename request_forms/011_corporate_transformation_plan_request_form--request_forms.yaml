@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_transformation_plan_request_form
+    pages:
+    - id: 1
+      name: transformation_objectives
+      label: Transformation Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: focus_areas
+      label: Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: transformation_type
+      label: Transformation Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: false
+    - id: 6
+      name: stakeholders
+      label: Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - PMO
+      - Leadership
+      - Team
+      required: false
+    - id: 7
+      name: timeline_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: timeline_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: budget_value
+      label: Budget Value
+      hint: null
+      type: number
+      options: []
+      required: false

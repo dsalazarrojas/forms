@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: r_d_experiment_validation_report_form
+    pages:
+    - id: 1
+      name: experiment_number
+      label: Experiment Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: outcome
+      label: outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pass''}'
+      - '{''id'': 2, ''name'': ''Fail''}'
+      - '{''id'': 3, ''name'': ''Unknown''}'
+      required: false
+    - id: 4
+      name: reason_for_outcome
+      label: reason_for_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_development_stage
+      label: product_development_stage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Development''}'
+      - '{''id'': 2, ''name'': ''Live''}'
+      - '{''id'': 3, ''name'': ''Archived''}'
+      required: false
+    - id: 9
+      name: validation_decision
+      label: validation_decision
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Pass''}'
+      - '{''id'': 2, ''name'': ''Fail''}'
+      - '{''id'': 3, ''name'': ''Unknown''}'
+      required: false
+    - id: 10
+      name: validated_by
+      label: validated_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: validated_on
+      label: validated_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: validated_by_name
+      label: validated_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: validated_by_email
+      label: validated_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: validated_by_phone
+      label: validated_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: validated_by_location
+      label: validated_by_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: validated_by_notes
+      label: validated_by_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: validated_by_department
+      label: validated_by_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: validated_by_designer
+      label: validated_by_designer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: validated_by_designer_name
+      label: validated_by_designer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: validated_by_designer_email
+      label: validated_by_designer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: validated_by_designer_phone
+      label: validated_by_designer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: validated_by_designer_location
+      label: validated_by_designer_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: validated_by_designer_department
+      label: validated_by_designer_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: file_attachment
+      label: file_attachment
+      hint: null
+      type: text
+      options: []
+      required: false

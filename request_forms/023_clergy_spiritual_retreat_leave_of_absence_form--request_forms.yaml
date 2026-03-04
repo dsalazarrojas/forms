@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clergy Spiritual Retreat Leave Of Absence Form
+    pages:
+    - id: 1
+      name: retreat_header
+      label: -- Clergy Spiritual Retreat Leave Request --
+      hint: For personal spiritual renewal and rest.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clergy_member_name
+      label: Clergy Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_title
+      label: Position/Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: cell_phone
+      label: Cell Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_dates_header
+      label: -- Leave Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: leave_start_date
+      label: Start Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: leave_end_date
+      label: End Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: total_days_requested
+      label: Total Number of Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: retreat_details_header
+      label: -- Retreat Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: retreat_location
+      label: Location of Retreat
+      hint: e.g. Retreat Center name or City/State
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_retreat
+      label: Emergency Contact During Retreat
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_phone_retreat
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: coverage_arrangements
+      label: Coverage Arrangements
+      hint: Who will handle urgent pastoral needs or services during your absence?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: pastoral_coverage_confirmed
+      label: Has coverage been confirmed by the person named above?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: approval_status
+      label: Status of Request
+      hint: For administrative use
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 17
+      name: supervisor_comments
+      label: Supervisor/Bishop Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: final_note
+      label: -- Wishing you a blessed and restorative time away --
+      hint: null
+      type: note
+      options: []
+      required: false

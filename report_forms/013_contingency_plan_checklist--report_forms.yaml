@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contingency Plan Checklist
+    pages:
+      - id: 1
+        name: organization_name
+        label: Organization Name
+        hint: Company or organization
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: plan_date
+        label: Plan Date
+        hint: Date of checklist
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: prepared_by
+        label: Prepared By
+        hint: Name of person creating plan
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Relevant department
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: risk_category
+        label: Risk Category
+        hint: Type of risk being addressed
+        type: select_one
+        options:
+          - Health and Safety
+          - Natural Disaster
+          - Technology Failure
+          - Supply Chain
+          - Financial
+          - Operational
+          - Cybersecurity
+          - Other
+        required: true
+      - id: 6
+        name: risk_description
+        label: Risk Description
+        hint: Describe the potential risk
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: risk_likelihood
+        label: Risk Likelihood
+        hint: Probability of occurrence
+        type: select_one
+        options:
+          - Very Low
+          - Low
+          - Medium
+          - High
+          - Very High
+        required: true
+      - id: 8
+        name: risk_impact
+        label: Risk Impact
+        hint: Severity if it occurs
+        type: select_one
+        options:
+          - Minimal
+          - Minor
+          - Moderate
+          - Major
+          - Severe
+        required: true
+      - id: 9
+        name: emergency_contacts_updated
+        label: Emergency Contacts Updated
+        hint: Are emergency contacts current?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not applicable
+        required: true
+      - id: 10
+        name: communication_plan_in_place
+        label: Communication Plan in Place
+        hint: Is there a communication protocol?
+        type: select_one
+        options:
+          - Yes, documented
+          - Yes, informal
+          - No
+        required: true
+      - id: 11
+        name: backup_systems_ready
+        label: Backup Systems Ready
+        hint: Are backups functional?
+        type: select_one
+        options:
+          - Yes, tested
+          - Yes, not tested
+          - No
+          - Not applicable
+        required: true
+      - id: 12
+        name: supplies_inventory
+        label: Supplies Inventory
+        hint: Emergency supplies status
+        type: select_one
+        options:
+          - Fully stocked
+          - Partially stocked
+          - Not stocked
+        required: true
+      - id: 13
+        name: evacuation_routes_posted
+        label: Evacuation Routes Posted
+        hint: Are routes clearly marked?
+        type: select_one
+        options:
+          - Yes, all areas
+          - Yes, some areas
+          - No
+          - Not applicable
+        required: false
+      - id: 14
+        name: staff_trained
+        label: Staff Trained
+        hint: Have staff been trained on procedures?
+        type: select_one
+        options:
+          - Yes, all staff
+          - Yes, some staff
+          - No
+        required: true
+      - id: 15
+        name: drill_schedule
+        label: Drill Schedule
+        hint: When is the next drill?
+        type: date
+        options: []
+        required: false
+      - id: 16
+        name: recovery_procedures
+        label: Recovery Procedures
+        hint: Are recovery steps documented?
+        type: select_one
+        options:
+          - Yes, complete
+          - Yes, partial
+          - No
+        required: true
+      - id: 17
+        name: insurance_coverage
+        label: Insurance Coverage
+        hint: Is coverage adequate?
+        type: select_one
+        options:
+          - Yes, reviewed
+          - Yes, needs review
+          - No
+          - Unknown
+        required: true
+      - id: 18
+        name: critical_vendors_identified
+        label: Critical Vendors Identified
+        hint: Are key vendors documented?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 19
+        name: data_backup_verified
+        label: Data Backup Verified
+        hint: Is data backed up and verified?
+        type: select_one
+        options:
+          - Yes, daily
+          - Yes, weekly
+          - No
+          - Not applicable
+        required: true
+      - id: 20
+        name: action_items
+        label: Action Items
+        hint: Tasks to complete
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: review_date
+        label: Next Review Date
+        hint: When to review this plan
+        type: date
+        options: []
+        required: true
+      - id: 22
+        name: approval_status
+        label: Approval Status
+        hint: Plan approval
+        type: select_one
+        options:
+          - Approved
+          - Pending review
+          - Needs revision
+        required: true

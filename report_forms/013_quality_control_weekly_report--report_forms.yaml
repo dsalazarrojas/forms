@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Control Weekly Report
+    pages:
+    - id: 1
+      name: weekly_rating_scale
+      label: Weekly Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: escalation_needs
+      label: Escalation Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: issue_rating
+      label: Issues Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: corrective_actions_issued
+      label: Corrective Actions Issued
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: corrective_actions_taken
+      label: Corrective Actions Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: notes_escalation
+      label: Notes Escalation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_member
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_leads
+      label: Team Leads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quality_team_members
+      label: Quality Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: notes_escalation_needs
+      label: Notes Escalation Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

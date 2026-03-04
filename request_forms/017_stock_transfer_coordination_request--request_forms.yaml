@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Transfer Coordination Request
+    pages:
+    - id: 1
+      name: transfer_request
+      label: Transfer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stock_item_id
+      label: Stock Item ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: stock_item_name
+      label: Stock Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transfer_from_warehouse
+      label: Transfer From Warehouse
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: transfer_to_warehouse
+      label: Transfer To Warehouse
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: quantity_transferring
+      label: Quantity Transferring
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: transfer_method
+      label: Transfer Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

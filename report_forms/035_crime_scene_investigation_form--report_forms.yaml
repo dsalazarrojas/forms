@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crime Scene Investigation Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crime_description
+      label: Crime Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: crime_type
+      label: Crime Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: crime_location
+      label: Crime Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: crime_time
+      label: Crime Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: crime_date
+      label: Crime Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: crime_investigation_officer
+      label: Crime Investigation Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspect_description
+      label: Suspect Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: suspect_gender
+      label: Suspect Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 12
+      name: suspect_address
+      label: Suspect Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_description
+      label: Witness Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: witness_age
+      label: Witness Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: witness_gender
+      label: Witness Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 17
+      name: witness_address
+      label: Witness Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: officer_rank
+      label: Officer Rank
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: officer_department
+      label: Officer Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: crime_scene_investigation_note
+      label: Crime Scene Investigation Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: suspect_photo
+      label: Suspect Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_photo
+      label: Witness Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: crime_scene_investigation_evidence
+      label: Crime Scene Investigation Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: officer_additional_comments
+      label: Officer Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

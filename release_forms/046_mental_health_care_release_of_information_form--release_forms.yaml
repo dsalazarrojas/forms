@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_care_release_of_information_form
+    pages:
+    - id: 1
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_individual
+      label: Name of individual
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Kaiser''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: patient_number
+      label: Patient Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_facility
+      label: Healthcare Facility
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hospital''}'
+      - '{''value'': ''Clinic''}'
+      - '{''value'': ''Home''}'
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cardiology''}'
+      - '{''value'': ''Dermatology''}'
+      - '{''value'': ''Gastroenterology''}'
+      required: false
+    - id: 10
+      name: physician
+      label: Physician
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cardiologist''}'
+      - '{''value'': ''Dermatologist''}'
+      - '{''value'': ''Gastroenterologist''}'
+      required: false
+    - id: 11
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Electronic''}'
+      - '{''value'': ''Paper''}'
+      required: false
+    - id: 12
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Patient''}'
+      - '{''value'': ''Family Member''}'
+      - '{''value'': ''Healthcare Provider''}'
+      required: false
+    - id: 14
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false

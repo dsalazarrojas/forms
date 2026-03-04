@@ -1,0 +1,320 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Testimonial Release Form
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Testimonial Release Form Introduction --
+      hint: This form grants permission for the institution to use your testimonial
+        for promotional purposes.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_alumni_info
+      label: -- Alumni Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: degree_earned
+      label: Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Certificate
+      required: true
+    - id: 9
+      name: major_field
+      label: Major/Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_testimonial
+      label: -- Testimonial Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: testimonial_type
+      label: Type of Testimonial
+      hint: Select the format of your testimonial
+      type: select_one
+      options:
+      - Written Quote
+      - Video Testimonial
+      - Photo with Quote
+      - Case Study
+      - Interview
+      required: true
+    - id: 12
+      name: testimonial_text
+      label: Your Testimonial
+      hint: Share your experience and how the institution impacted your life
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: specific_programs
+      label: Specific Programs or Experiences to Highlight
+      hint: Mention any particular programs, professors, or experiences
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: career_impact
+      label: How did your education impact your career
+      hint: Describe the impact on your professional journey
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_media_release
+      label: -- Media Release Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: photo_permission
+      label: Photo Usage Permission
+      hint: Grant permission to use your photograph
+      type: select_one
+      options:
+      - Yes - I grant permission to use my photo
+      - Yes - With restrictions (specify below)
+      - No - Do not use my photo
+      required: true
+    - id: 17
+      name: photo_restrictions
+      label: Photo Usage Restrictions
+      hint: Specify any limitations on photo use
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: video_permission
+      label: Video Testimonial Permission
+      hint: Grant permission to record and use video testimonial
+      type: select_one
+      options:
+      - Yes - I grant permission for video recording
+      - Interested - Contact me for details
+      - No - Not interested in video
+      required: false
+    - id: 19
+      name: name_usage
+      label: Name Usage Permission
+      hint: How may we use your name with the testimonial
+      type: select_one
+      options:
+      - Full name with graduation year
+      - First name and last initial only
+      - Anonymous
+      - Do not use my name
+      required: true
+    - id: 20
+      name: professional_info_usage
+      label: Professional Information Usage
+      hint: May we include your job title and employer
+      type: select_one
+      options:
+      - Yes - Include full professional information
+      - Yes - Include job title only
+      - No - Do not include professional info
+      required: true
+    - id: 21
+      name: section_usage_rights
+      label: -- Usage Rights and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: media_channels
+      label: Approved Media Channels
+      hint: Where may your testimonial be used
+      type: select_multiple
+      options:
+      - Institution Website
+      - Social Media
+      - Print Brochures
+      - Email Campaigns
+      - Video Presentations
+      - Press Releases
+      - Alumni Publications
+      - Recruitment Materials
+      required: true
+    - id: 23
+      name: usage_duration
+      label: Duration of Usage Rights
+      hint: How long may we use your testimonial
+      type: select_one
+      options:
+      - Indefinitely
+      - 5 years
+      - 3 years
+      - 1 year
+      - One-time use only
+      required: true
+    - id: 24
+      name: exclusive_rights
+      label: Exclusive Rights Statement
+      hint: Understanding of rights granted
+      type: select_one
+      options:
+      - I grant non-exclusive rights to use my testimonial
+      - I understand the institution may edit for length and clarity
+      - I retain ownership of my original content
+      required: true
+    - id: 25
+      name: section_current_info
+      label: -- Current Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: current_employer
+      label: Current Employer/Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: industry
+      label: Industry/Sector
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Finance
+      - Business
+      - Engineering
+      - Arts/Entertainment
+      - Government
+      - Nonprofit
+      - Other
+      required: false
+    - id: 29
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Optional - for verification
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: availability_contact
+      label: Availability for Follow-up
+      hint: When can we contact you about this testimonial
+      type: select_one
+      options:
+      - Anytime
+      - Business hours only
+      - Evenings and weekends
+      - By appointment only
+      required: false
+    - id: 32
+      name: referral_source
+      label: How did you hear about this opportunity
+      hint: null
+      type: select_one
+      options:
+      - Email invitation
+      - Alumni newsletter
+      - Social media
+      - Friend/colleague
+      - Website
+      - Other
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: section_agreement
+      label: -- Agreement and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: agreement_statement
+      label: Release Agreement
+      hint: I have read and agree to the terms of this release
+      type: select_one
+      options:
+      - I agree to the terms and grant the permissions stated above
+      - Other
+      required: true
+    - id: 36
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boudoir Model Release Form
+    pages:
+    - id: 1
+      name: model_first_name
+      label: Model First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: model_last_name
+      label: Model Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: model_dob
+      label: Date of Birth
+      hint: MM/DD/YYYY - must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 18 years of age or older
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am under 18
+      required: true
+    - id: 5
+      name: model_address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: model_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: model_email
+      label: Email Address
+      hint: For communication regarding images
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: photographer_name
+      label: Photographer Name
+      hint: Full name of photographer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photography_business
+      label: Photography Business Name
+      hint: Name of photography company or studio
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shoot_date
+      label: Shoot Date
+      hint: Date of photography session
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: shoot_location
+      label: Shoot Location
+      hint: Where the photoshoot took place
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: image_description
+      label: Image Description
+      hint: General description of images created
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: usage_rights
+      label: Usage Rights Granted
+      hint: Select how images may be used
+      type: select_multiple
+      options:
+      - Photographer portfolio
+      - Photographer website
+      - Social media
+      - Marketing materials
+      - Exhibition or gallery
+      - Publication or editorial
+      - Advertising
+      - Competition entries
+      - Private use only
+      required: true
+    - id: 14
+      name: usage_restrictions
+      label: Usage Restrictions
+      hint: Any restrictions on image use
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exclusivity
+      label: Exclusivity
+      hint: Are these images exclusive to you
+      type: select_one
+      options:
+      - No exclusivity
+      - Exclusive for 6 months
+      - Exclusive for 1 year
+      - Exclusive for 2 years
+      - Permanent exclusivity
+      required: true
+    - id: 16
+      name: compensation
+      label: Compensation
+      hint: What compensation was provided
+      type: select_one
+      options:
+      - Monetary payment
+      - Print credits
+      - Digital images
+      - Trade for services
+      - No compensation
+      - Other
+      required: true
+    - id: 17
+      name: compensation_amount
+      label: Compensation Amount
+      hint: If monetary, specify amount
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: image_delivery
+      label: Image Delivery
+      hint: How will images be delivered
+      type: select_one
+      options:
+      - Digital download
+      - USB drive
+      - Printed proofs
+      - Online gallery
+      - Other
+      required: true
+    - id: 19
+      name: retouching_approval
+      label: Retouching Approval
+      hint: Will you approve retouched images
+      type: select_one
+      options:
+      - Yes, approval required
+      - No, photographer discretion
+      required: true
+    - id: 20
+      name: third_party_usage
+      label: Third Party Usage
+      hint: Can photographer license to third parties
+      type: select_one
+      options:
+      - Yes, with notification
+      - Yes, without notification
+      - No, photographer use only
+      required: true
+    - id: 21
+      name: model_signature
+      label: Model Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness signature if applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: photographer_signature
+      label: Photographer Signature
+      hint: Photographer signature
+      type: text
+      options: []
+      required: true

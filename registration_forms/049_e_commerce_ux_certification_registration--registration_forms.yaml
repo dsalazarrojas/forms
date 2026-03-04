@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce UX Certification Registration
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: Experience level minimalist
+      hint: Choose your experience level
+      type: select_one
+      options:
+      - '{0: ''Junior''}'
+      - '{1: ''Experienced''}'
+      - '{2: ''Senior''}'
+      required: false
+    - id: 3
+      name: motivation
+      label: motivation
+      hint: Please state your motivation for certification
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: certification_programs_interested
+      label: Certification programs interested in
+      hint: null
+      type: select_multiple
+      options:
+      - eCommece UX Certification
+      - Certified ECommerce UX
+      - Advanced E-Commerce UX certification
+      required: false
+    - id: 10
+      name: name_of_institution
+      label: Name of institution
+      hint: null
+      type: text
+      options: []
+      required: false

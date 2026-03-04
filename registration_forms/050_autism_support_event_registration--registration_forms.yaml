@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autism Support Event Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: When you are registering
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Name of the autism support event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: When is the event scheduled
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: relationship_to_autism
+      label: Relationship to Autism Community
+      hint: How are you connected
+      type: select_one
+      options:
+      - Parent of Child with Autism
+      - Individual with Autism
+      - Educator
+      - Healthcare Provider
+      - Family Member
+      - Advocate
+      - Professional
+      - Community Member
+      required: true
+    - id: 9
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: children_attending
+      label: Number of Children Attending
+      hint: Children in your group
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: ages_of_children
+      label: Ages of Children Attending
+      hint: Age range of children
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For meals or refreshments
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mobility_assistance
+      label: Mobility Assistance Needed
+      hint: Wheelchair access, parking, etc
+      type: select_one
+      options:
+      - 'No'
+      - Wheelchair Access
+      - Reserved Parking
+      - Mobility Device Support
+      - Other
+      required: false
+    - id: 15
+      name: sensory_accommodations
+      label: Sensory Accommodations
+      hint: Quiet rooms, low sensory areas
+      type: select_one
+      options:
+      - No Special Accommodations
+      - Quiet Space Needed
+      - Low Sensory Area
+      - Separate Waiting Area
+      - Other
+      required: false
+    - id: 16
+      name: communication_support
+      label: Communication Support Needed
+      hint: ASL, CART, or other support
+      type: select_multiple
+      options:
+      - ASL Interpreter
+      - CART Captioning
+      - Large Print Materials
+      - Simplified Language
+      - Visual Supports
+      - No Support Needed
+      required: false
+    - id: 17
+      name: breakout_session_interest
+      label: Interest in Breakout Sessions
+      hint: Select sessions you want to attend
+      type: select_multiple
+      options:
+      - Parent Support Group
+      - Education and Advocacy
+      - Self-Advocacy Skills
+      - Employment Resources
+      - Health and Wellness
+      - Community Resources
+      required: false
+    - id: 18
+      name: networking_interest
+      label: Interested in Networking
+      hint: Would you like to network with others
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Somewhat Interested
+      - No - Prefer Not To
+      required: false
+    - id: 19
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to help at the event
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Maybe
+      - No - Not Interested
+      required: false
+    - id: 20
+      name: volunteer_roles
+      label: Volunteer Role Preference
+      hint: What would you like to help with
+      type: select_multiple
+      options:
+      - Setup and Cleanup
+      - Registration Table
+      - Guest Speaker Support
+      - Session Facilitation
+      - Hospitality
+      - Other
+      required: false
+    - id: 21
+      name: previous_events_attended
+      label: Attended Previous Events
+      hint: Have you attended our events before
+      type: select_one
+      options:
+      - No - First Time
+      - Yes - Once Before
+      - Yes - Multiple Times
+      - Yes - Regular Attendee
+      required: false
+    - id: 22
+      name: feedback_topics
+      label: Topics You Would Like Discussed
+      hint: Suggest topics for future events
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any other needs or feedback
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: newsletter_signup
+      label: Sign Up for Newsletter
+      hint: Receive updates about future events
+      type: select_one
+      options:
+      - Yes - Subscribe
+      - No - Not Interested
+      required: false
+    - id: 25
+      name: registration_confirmation
+      label: I Confirm My Registration
+      hint: Agree to event terms
+      type: select_one
+      options:
+      - Yes - Confirm
+      - No - Cancel
+      required: true

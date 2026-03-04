@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Chapter Review Release Form
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_affiliation
+      label: Institutional Affiliation
+      hint: University or organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_title
+      label: Professional Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: book_author
+      label: Book Author
+      hint: Author or editor of the book
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: chapter_number
+      label: Chapter Number
+      hint: Which chapter did you review
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: chapter_title
+      label: Chapter Title
+      hint: Title of the chapter reviewed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: Date of review completion
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: overall_rating
+      label: Overall Chapter Rating
+      hint: Rate the chapter quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: content_quality_rating
+      label: Content Quality Rating
+      hint: Rate the content quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: clarity_rating
+      label: Clarity and Readability Rating
+      hint: Rate the clarity of writing
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: strengths
+      label: Chapter Strengths
+      hint: Describe the strengths of this chapter
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: weaknesses
+      label: Areas for Improvement
+      hint: Describe areas that need improvement
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recommendation
+      label: Publication Recommendation
+      hint: Would you recommend this chapter for publication
+      type: select_one
+      options:
+      - Accept as is
+      - Accept with minor revisions
+      - Accept with major revisions
+      - Reject
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments for Author
+      hint: Any other feedback for the author
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: release_consent
+      label: Release Consent
+      hint: Do you consent to share your review with the author
+      type: select_one
+      options:
+      - Yes I consent
+      - No keep confidential
+      required: true
+    - id: 18
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

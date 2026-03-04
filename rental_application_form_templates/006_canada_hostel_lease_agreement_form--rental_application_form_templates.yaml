@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canada Hostel Lease Agreement Form
+    pages:
+    - id: 1
+      name: tenant_info_section
+      label: -- Tenant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal name as it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: identification_id
+      label: Passport Number or ID
+      hint: For verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: home_address
+      label: Permanent Home Address
+      hint: Your primary residence outside the hostel
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lease_terms_section
+      label: -- Lease Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: check_in_date
+      label: Check-in Date
+      hint: Expected date of arrival
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: check_out_date
+      label: Check-out Date
+      hint: Expected date of departure
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: lease_duration
+      label: Lease Duration
+      hint: Pick the duration that fits your stay
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Semester
+      - Yearly
+      required: true
+    - id: 12
+      name: room_type
+      label: Room Type
+      hint: Select your preferred accommodation
+      type: select_one
+      options:
+      - Private Single
+      - Private Double
+      - Shared Dorm (4 beds)
+      - Shared Dorm (8 beds)
+      required: true
+    - id: 13
+      name: rent_amount
+      label: Monthly Rent Amount
+      hint: Enter agreed rent in CAD
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: security_deposit
+      label: Security Deposit
+      hint: Enter the deposit amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: rules_section
+      label: -- Rules and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: house_rules_agreement
+      label: House Rules Agreement
+      hint: Confirm you have read the hostel community guidelines
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: damage_policy_agreement
+      label: Damage Policy Agreement
+      hint: You are responsible for any damages caused during your stay
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: smoking_policy_ack
+      label: Smoking Policy Acknowledgment
+      hint: Smoking is strictly prohibited indoors
+      type: select_one
+      options:
+      - I acknowledge no smoking allowed
+      - I do not acknowledge
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of someone we can call in an emergency
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: agreement_date
+      label: Date of Agreement
+      hint: Date you are signing this lease
+      type: date
+      options: []
+      required: true

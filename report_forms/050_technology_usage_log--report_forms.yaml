@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: technology_usage_log
+    pages:
+    - id: 1
+      name: technology_usage_log_form
+      label: Technology Usage Log Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technology_usage
+      label: Technology Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: technology_type
+      label: Technology Type
+      hint: null
+      type: select_multiple
+      options:
+      - Computer
+      - Tablet
+      - Smartphone
+      - Other
+      required: false
+    - id: 4
+      name: technology_description
+      label: Technology Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technology_usage_start_date
+      label: Technology Usage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: technology_usage_end_date
+      label: Technology Usage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: technology_usage_duration
+      label: Technology Usage Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: technology_usage_notes
+      label: Technology Usage Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: technology_usage_location
+      label: Technology Usage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technology_usage_who
+      label: Technology Usage Who
+      hint: null
+      type: text
+      options: []
+      required: false

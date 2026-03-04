@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Maintenance Tools Requisition Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your primary maintenance team
+      type: select_one
+      options:
+      - Airframe (A)
+      - Powerplant (P)
+      - Avionics (E)
+      - Composites and Sheet Metal
+      - Quality Control
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: Your unique employee or badge number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_tool_details
+      label: -- Tool and Equipment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tool_description
+      label: Tool Description
+      hint: Clearly state the name of the tool
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tool_id_part
+      label: Part Number or Tool ID
+      hint: Specific identifier from the catalog
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tool_quantity
+      label: Quantity
+      hint: Number of units requested
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: tool_category
+      label: Tool Category
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hand Tools (Wrenches, Drivers)
+      - Power Tools (Drills, Riveters)
+      - Precision Measurement (Calipers, Gauges)
+      - Specialty Aviation Tools
+      - Ground Support Equipment
+      required: true
+    - id: 11
+      name: section_project_info
+      label: -- Project and Urgency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: tail_number
+      label: Aircraft Tail Number
+      hint: Plane the tool is needed for
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: work_order
+      label: Work Order Number
+      hint: Internal project tracking number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: AOG - Aircraft On Ground (Highest priority)
+      type: select_one
+      options:
+      - Low (Routine stock)
+      - Medium (Next scheduled maintenance)
+      - High (Imminent need)
+      - AOG (Aircraft On Ground)
+      required: true
+    - id: 15
+      name: required_date
+      label: Required Date
+      hint: When do you need this tool?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: logistics_preference
+      label: Pickup or Delivery
+      hint: How will you receive the tool?
+      type: select_one
+      options:
+      - Tool Room Pickup
+      - Delivery to Hangar
+      - Direct to Aircraft
+      required: true
+    - id: 17
+      name: supervisor_approval
+      label: Supervisor Approval Name
+      hint: Approving manager for this request
+      type: text
+      options: []
+      required: true

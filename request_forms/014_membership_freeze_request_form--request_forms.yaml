@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Freeze Request Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_request_other
+      label: Other (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_reason
+      label: Please enter the reason for your request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true

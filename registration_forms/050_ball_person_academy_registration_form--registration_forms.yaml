@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ball Person Academy Registration Form
+    pages:
+      - id: 1
+        name: section_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        Label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: date_of_birth
+        Label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: phone_number
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 7
+        name: section_academy
+        label: -- Ball Person Academy Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: academy_name
+        Label: Academy Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: program_level
+        Label: Program Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Professional
+          - Coaching Staff
+        required: true
+      - id: 10
+        name: registration_date
+        Label: Registration Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: program_start_date
+        Label: Program Start Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: section_experience
+        label: -- Experience and Background --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: tennis_experience
+        Label: Tennis Experience Level
+        hint: null
+        type: select_one
+        options:
+          - No Experience
+          - Recreational Player
+          - Competitive Player
+          - Former Professional
+          - Coach or Instructor
+        required: true
+      - id: 14
+        name: ball_person_experience
+        Label: Previous Ball Person Experience
+        hint: null
+        type: select_one
+        options:
+          - "No"
+          - "Yes"
+          - Some Experience
+        required: false
+      - id: 15
+        name: prior_events_worked
+        Label: Major Events Worked (if applicable)
+        hint: Tournaments, exhibitions, etc.
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_sports
+        label: -- Sports Interests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: primary_sport
+        Label: Primary Tennis Interest
+        hint: null
+        type: select_one
+        options:
+          - Singles
+          - Doubles
+          - Mixed Doubles
+          - All
+        required: false
+      - id: 18
+        name: section_availability
+        label: -- Availability and Schedule --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: availability_level
+        Label: Availability for Events
+        hint: null
+        type: select_one
+        options:
+          - Full-Time
+          - Part-Time
+          - Weekends Only
+          - Flexible
+        required: true
+      - id: 20
+        name: preferred_seasons
+        Label: Preferred Seasons to Work
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Spring
+          - Summer
+          - Fall
+          - Winter
+          - Year-Round
+        required: false
+      - id: 21
+        name: section_skills
+        label: -- Skills and Certifications --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: certifications
+        Label: Relevant Certifications or Training
+        hint: First Aid, CPR, Sports Management, etc.
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: physical_fitness
+        Label: Physical Fitness Level
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Fair
+        required: true
+      - id: 24
+        name: special_skills
+        Label: Special Skills or Qualifications
+        hint: Languages, previous sports experience, etc.
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: registration_confirmation
+        Label: I Confirm My Registration for Ball Person Academy
+        hint: null
+        type: select_one
+        options:
+          - Confirm Registration
+          - Decline
+        required: true

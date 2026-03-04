@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Backline Equipment Request Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Band Name
+      hint: Performer name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact
+      label: Primary Contact Person
+      hint: Name of contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Performance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: performance_date
+      label: Performance Date
+      hint: Date of the scheduled performance
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: performance_time
+      label: Performance Time
+      hint: What time is the performance?
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: venue_name
+      label: Venue or Event Name
+      hint: Where is the performance?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: performance_type
+      label: Type of Performance
+      hint: What kind of act?
+      type: select_one
+      options:
+      - Rock Band
+      - Hip-Hop/Rap
+      - Country
+      - Pop
+      - Jazz
+      - Electronic/EDM
+      - Classical
+      - Comedy
+      - DJ
+      - Other
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Band/Ensemble Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: band_size
+      label: Number of Band Members
+      hint: How many performers?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: band_members
+      label: Band Member Roles
+      hint: List names and instruments
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Equipment Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: instruments_provided
+      label: Which Instruments Will You Provide?
+      hint: What equipment are you bringing?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: backline_drums
+      label: Drum Kit Needed?
+      hint: Do you need drums provided?
+      type: select_one
+      options:
+      - Yes, we need drums
+      - We are providing drums
+      - Not applicable
+      required: true
+    - id: 17
+      name: drums_specifications
+      label: Drum Kit Specifications
+      hint: Size, configuration, and details
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: bass_amplifier
+      label: Bass Amplifier Needed?
+      hint: Wattage and specifications
+      type: select_one
+      options:
+      - Yes, we need bass amp
+      - We are providing bass amp
+      - Not applicable
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Audio and Technical Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: sound_engineer
+      label: Do You Require a Sound Engineer?
+      hint: Will you need technical support?
+      type: select_one
+      options:
+      - Yes, we need sound engineer
+      - We will provide our own
+      - Not needed
+      required: true
+    - id: 21
+      name: additional_equipment
+      label: Additional Equipment Requests
+      hint: Any other gear or technical needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: power_requirements
+      label: Power Requirements
+      hint: Any special electrical needs?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: technical_rider
+      label: Technical Rider Attached or Provided?
+      hint: Full technical specifications document
+      type: select_one
+      options:
+      - Yes, attached
+      - Will provide separately
+      - Not applicable
+      - Available upon request
+      required: false
+    - id: 25
+      name: additional_requests
+      label: Any Other Requests or Special Notes
+      hint: Final comments or requirements
+      type: text
+      options: []
+      required: false

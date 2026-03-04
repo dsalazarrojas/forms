@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Attendance Registration
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: Date of meeting or event
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event or Meeting Name
+      hint: What is this event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: Where is event held
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: Start time of event
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: chapter_name
+      label: Chapter Name
+      hint: Which chapter
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_name
+      label: Attendee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attendee_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_year
+      label: Graduation Year
+      hint: Year you graduated
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: membership_status
+      label: Membership Status
+      hint: Are you an active member
+      type: select_one
+      options:
+      - Active Member
+      - Inactive Member
+      - Non-Member
+      required: true
+    - id: 11
+      name: first_time_attending
+      label: First Time Attending Event
+      hint: Is this your first event
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: accompanied_by
+      label: Accompanied By
+      hint: Guest name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_type
+      label: Registration Type
+      hint: Member or guest registration
+      type: select_one
+      options:
+      - Member
+      - Guest
+      - Family
+      required: true
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food restrictions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Special needs
+      type: select_one
+      options:
+      - None
+      - Wheelchair Access
+      - Interpreting Services
+      - Other
+      required: false
+    - id: 16
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe what is needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: willing_to_volunteer
+      label: Willing to Volunteer
+      hint: Interest in helping with events
+      type: select_one
+      options:
+      - 'Yes'
+      - Maybe
+      - 'No'
+      required: false
+    - id: 18
+      name: volunteer_interests
+      label: Volunteer Interests
+      hint: What areas interest you
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_heard_about_event
+      label: How Did You Hear About This Event
+      hint: Source of information
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Word of Mouth
+      - Website
+      - Text Message
+      - Other
+      required: false
+    - id: 20
+      name: check_in_confirmation
+      label: Attendance Confirmed
+      hint: Registered and checked in
+      type: select_one
+      options:
+      - Yes, Checked In
+      - 'No'
+      required: true

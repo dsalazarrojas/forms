@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Examination Score Release Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exam_name
+      label: Exam Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: department_options
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - English
+      - Finance
+      - History
+      - Math
+      - Science
+      required: false
+    - id: 12
+      name: authorized_recipient_name
+      label: Authorized Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorized_recipient_email
+      label: Authorized Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: authorized_recipient_phone
+      label: Authorized Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false

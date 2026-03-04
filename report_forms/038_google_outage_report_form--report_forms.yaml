@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: google_outage_report_form
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - Google Cloud
+      - Google Workspace
+      - Google Maps
+      - Google Ads
+      - Google Search
+      - Google Workspace (beta)
+      required: false
+    - id: 4
+      name: service_name
+      label: service_name
+      hint: null
+      type: select_multiple
+      options:
+      - Google Ads
+      - Google Search
+      - Google Cloud
+      - Google Maps
+      - Google Workspace
+      - Google Workspace (beta)
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: start_location
+      label: Start Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Client location
+      - Other
+      - Remote
+      - On the way to work
+      required: false
+    - id: 9
+      name: end_location
+      label: End Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Client location
+      - Other
+      - Remote
+      - On the way to work
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reported_by
+      label: Reported by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting_user
+      label: Reporting User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_user_email
+      label: Reporting User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: reporting_user_phone
+      label: Reporting User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reporting_user_title
+      label: Reporting User Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporting_user_company
+      label: Reporting User Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reporting_user_department
+      label: Reporting User Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reporting_user_job_title
+      label: Reporting User Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reporting_user_notes
+      label: Reporting User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: outage_impact
+      label: Outage Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: outage_impact_other
+      label: Other Outage Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reporting_user_agreed
+      label: Reporting User Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: reporting_user_agreed_notes
+      label: Reporting User Agreed Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: reporting_user_agreed_reason
+      label: Reporting User Agreed Reason
+      hint: null
+      type: text
+      options: []
+      required: false

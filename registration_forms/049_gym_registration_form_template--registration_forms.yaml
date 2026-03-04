@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Registration Form Template
+    pages:
+    - id: 1
+      name: personal_info
+      label: Contact Information
+      hint: Enter your contact information
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 9
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and accepted the terms and conditions.
+      - I have not read the terms and conditions.
+      required: true

@@ -1,0 +1,158 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Safety Occurrence Report Form
+    pages:
+      - id: 1
+        name: section_report_meta
+        label: -- Occurrence Metadata --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: report_date
+        label: Date of Occurrence
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: report_time
+        label: Time of Occurrence (UTC)
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: occurrence_location
+        label: Location of Occurrence
+        hint: FIR, Airport, or Position
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_reporter_details
+        label: -- Reporting Person Details --
+        hint: Information about the reporter
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: reporter_name
+        label: Reporter Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: reporter_email
+        label: Reporter Email Address
+        hint: For follow-up and verification
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: reporter_position
+        label: Reporter Position
+        hint: Choose your primary role
+        type: select_one
+        options:
+          - Flight Crew (Pilot)
+          - Cabin Crew
+          - Maintenance (Engineer)
+          - Air Traffic Control (ATC)
+          - Ground Handling
+          - Flight Operations (Dispatch)
+        required: true
+      - id: 9
+        name: airline_code
+        label: Airline or Company Code
+        hint: e.g. ABC Airways
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_occurrence_info
+        label: -- Occurrence Specifics --
+        hint: Categorize and describe the event
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: occurrence_category
+        label: Occurrence Category
+        hint: What level of event is this?
+        type: select_one
+        options:
+          - Incident (Minor)
+          - Near Miss (Safety Hazard)
+          - Hazard Observation
+          - Routine Observation (Safety Improvement)
+        required: true
+      - id: 12
+        name: aircraft_reg
+        label: Aircraft Registration
+        hint: Tail number of the aircraft involved
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: flight_phase
+        label: Phase of Flight
+        hint: When did the occurrence happen?
+        type: select_one
+        options:
+          - Parked/Stand
+          - Taxi
+          - Take-off
+          - Climb
+          - Cruise
+          - Descent
+          - Approach
+          - Landing
+        required: true
+      - id: 14
+        name: occurrence_description
+        label: Description of Occurrence
+        hint: Please provide a clear and factual account
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: immediate_action
+        label: Immediate Action Taken
+        hint: What was done at the time to manage the event?
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: severity_assessment
+        label: Initial Severity Assessment
+        hint: How serious was the potential risk?
+        type: select_one
+        options:
+          - Negligible (No effect)
+          - Minor (Slightly increased workload)
+          - Major (Significant reduction in safety margins)
+          - Hazardous (Large reduction in safety margins)
+          - Catastrophic (Likely hull loss or fatalities)
+        required: true
+      - id: 17
+        name: corrective_recommendations
+        label: Recommendations for Corrective Action
+        hint: Suggested changes to prevent recurrence
+        type: text
+        options: []
+        required: false

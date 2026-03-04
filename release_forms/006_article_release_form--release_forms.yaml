@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Article Release Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Author Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: author_full_name
+      label: Author Full Name
+      hint: Complete legal name of the author
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_email
+      label: Author Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: author_phone
+      label: Author Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: author_organization
+      label: Organization or Affiliation
+      hint: Company, publication, or institution
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Article Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: article_title
+      label: Article Title
+      hint: Official title of the article being released
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: publication_date
+      label: Original Publication Date
+      hint: When was the article originally published?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: publication_source
+      label: Original Publication Source
+      hint: Where was it originally published?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: article_topic
+      label: Article Topic or Category
+      hint: Main subject matter of the article
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Release Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: release_type
+      label: Type of Release Requested
+      hint: What permissions are being granted?
+      type: select_one
+      options:
+      - Full Rights Transfer
+      - Republication Rights
+      - Digital Archive Rights
+      - Translation Rights
+      - Adaptation Rights
+      - Limited Use Rights
+      required: true
+    - id: 13
+      name: reuse_permissions
+      label: Permitted Uses of Article
+      hint: Select all authorized uses
+      type: select_multiple
+      options:
+      - Online Publication
+      - Print Publication
+      - Educational Distribution
+      - Commercial Use
+      - Social Media Sharing
+      - Compilation in Anthology
+      - Open Access Repository
+      required: true
+    - id: 14
+      name: geographic_scope
+      label: Geographic Scope of Release
+      hint: Where can the article be used?
+      type: select_one
+      options:
+      - Worldwide
+      - United States Only
+      - United Kingdom Only
+      - European Union
+      - Specific Country
+      - Online Only
+      required: true
+    - id: 15
+      name: duration_of_rights
+      label: Duration of Rights Grant
+      hint: How long are rights granted for?
+      type: select_one
+      options:
+      - Indefinite
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Specified Period
+      required: true
+    - id: 16
+      name: section_header_4
+      label: -- Compensation and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: compensation_type
+      label: Compensation for Rights
+      hint: Type of compensation provided
+      type: select_one
+      options:
+      - No Compensation
+      - One-Time Payment
+      - Royalties
+      - Contributor Credit Only
+      - Free Access
+      - Other
+      required: false
+    - id: 18
+      name: compensation_amount
+      label: Compensation Amount
+      hint: If applicable, amount in GBP
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: credit_required
+      label: Author Credit Required
+      hint: Must the author be credited?
+      type: select_one
+      options:
+      - Yes, byline required
+      - Yes, but anonymous acceptable
+      - No credit required
+      required: true
+    - id: 20
+      name: section_header_5
+      label: -- Exclusions and Restrictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: excluded_uses
+      label: Explicitly Excluded Uses
+      hint: What uses are NOT permitted?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: modifications_allowed
+      label: Are modifications to the article permitted?
+      hint: Can the article be edited or adapted?
+      type: select_one
+      options:
+      - Yes, without restrictions
+      - Yes, with approval required
+      - Minor edits only
+      - No modifications
+      required: true
+    - id: 23
+      name: section_header_6
+      label: -- Confirmation and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: legal_authority
+      label: I have the legal authority to grant these rights
+      hint: Confirm you own or control the article rights
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I do not
+      required: true
+    - id: 25
+      name: signature_agreement
+      label: I agree to the terms of this release
+      hint: By selecting yes, you agree to all terms above
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

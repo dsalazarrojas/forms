@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Alarm Safety Inspection Tenant Verification Form
+    pages:
+    - id: 1
+      name: tenant_verification
+      label: Tenant Verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: alarm_system_status
+      label: alarm_system_status
+      hint: null
+      type: select_one
+      options:
+      - Landlord
+      - Property Manager
+      - Tenant
+      required: false
+    - id: 3
+      name: system_functionality_tested
+      label: system_functionality_tested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tenant_signature
+      label: tenant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: alarm_type
+      label: alarm_type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Police
+      - Medical
+      required: false
+    - id: 7
+      name: alarm_activation_method
+      label: alarm_activation_method
+      hint: null
+      type: select_one
+      options:
+      - Key
+      - Card
+      - Keypad
+      required: false
+    - id: 8
+      name: keyless_entry_enabled
+      label: keyless_entry_enabled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: alarm_sounds_volume
+      label: alarm_sounds_volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: system_tested_date
+      label: system_tested_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: system_tested_by
+      label: system_tested_by
+      hint: null
+      type: select_one
+      options:
+      - Technician
+      - Property Manager
+      - Tenant
+      required: false
+    - id: 12
+      name: alarm_sounds
+      label: alarm_sounds
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: alarm_sounds_duration
+      label: alarm_sounds_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: test_notes
+      label: test_notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: alarm_type_frequency
+      label: alarm_type_frequency
+      hint: null
+      type: select_one
+      options:
+      - 1x
+      - 2x
+      - 3x
+      required: false
+    - id: 16
+      name: alarm_sounds_test_notes
+      label: alarm_sounds_test_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Coaching Call Check In Form
+    pages:
+    - id: 1
+      name: coaching_call_date
+      label: Coaching Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: call_duration
+      label: Call Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

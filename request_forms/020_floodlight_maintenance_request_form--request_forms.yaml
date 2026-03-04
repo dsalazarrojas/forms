@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floodlight Maintenance Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Submit Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Requestor Phone
+      hint: (XXX) XXX-XXX
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: Floor/Room Number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: schedule_visit
+      label: Schedule Visit
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true

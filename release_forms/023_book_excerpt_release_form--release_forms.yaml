@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Excerpt Release Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Full name of person requesting excerpt
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Requestor Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Requestor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization or publication
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: Select type of organization
+      type: select_one
+      options:
+      - Magazine
+      - Newspaper
+      - Online Publication
+      - Academic Journal
+      - Blog
+      - Anthology
+      - Educational Institution
+      - Marketing Agency
+      - Other
+      required: true
+    - id: 6
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: book_author
+      label: Book Author
+      hint: Author of the book
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: publisher
+      label: Publisher
+      hint: Name of publisher
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: publication_year
+      label: Publication Year
+      hint: Year book was published
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: isbn
+      label: ISBN
+      hint: ISBN number if available
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: excerpt_chapter
+      label: Chapter or Section
+      hint: Which chapter or section
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: excerpt_length
+      label: Length of Excerpt
+      hint: Approximate word count
+      type: select_one
+      options:
+      - Under 500 words
+      - 500-1000 words
+      - 1000-2500 words
+      - 2500-5000 words
+      - Over 5000 words
+      required: true
+    - id: 13
+      name: intended_use
+      label: Intended Use of Excerpt
+      hint: How will the excerpt be used
+      type: select_one
+      options:
+      - Print Publication
+      - Online Article
+      - Marketing Material
+      - Educational Use
+      - Review or Critique
+      - Anthology
+      - Promotional Sample
+      required: true
+    - id: 14
+      name: publication_name
+      label: Publication Name
+      hint: Where will it be published
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: publication_date
+      label: Expected Publication Date
+      hint: When will it be published
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: distribution_scope
+      label: Distribution Scope
+      hint: How widely will it be distributed
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Online Global
+      required: true
+    - id: 17
+      name: exclusive_rights
+      label: Are Exclusive Rights Requested
+      hint: Select if exclusivity is needed
+      type: select_one
+      options:
+      - Yes Exclusive
+      - No Non-Exclusive
+      required: true
+    - id: 18
+      name: compensation_offered
+      label: Is Compensation Offered
+      hint: Will you pay for excerpt rights
+      type: select_one
+      options:
+      - true
+      - false
+      - Negotiable
+      required: true
+    - id: 19
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Amount offered if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: credit_line
+      label: Proposed Credit Line
+      hint: How will the book be credited
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: release_granted
+      label: Release Permission
+      hint: Do you grant permission to use the excerpt
+      type: select_one
+      options:
+      - Yes I grant permission
+      - No I do not grant permission
+      - Pending Review
+      required: true
+    - id: 22
+      name: terms_conditions
+      label: I Agree to Terms and Conditions
+      hint: By selecting yes you agree to all terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes or Conditions
+      hint: Any special conditions or notes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: authorizer_name
+      label: Authorizer Full Name
+      hint: Name of person authorizing release
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: authorizer_signature
+      label: Authorizer Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true

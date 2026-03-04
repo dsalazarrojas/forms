@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Online Class Reporting Form
+    pages:
+    - id: 1
+      name: class_reporter_name
+      label: Class Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class_reporter_email
+      label: Class Report Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: class_id
+      label: Class ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: class_attendance
+      label: Class Attendance
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: true
+    - id: 9
+      name: class_attendance_options
+      label: Class Attendance Options
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: class_subject
+      label: Class Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: class_grade
+      label: Class Grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: class_level
+      label: Class Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: class_comments
+      label: Class Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: class_status
+      label: Class Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: true
+    - id: 19
+      name: class_location
+      label: Class Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Teacher
+      - Admin
+      required: true
+    - id: 21
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: class_start_time
+      label: Class Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: class_end_time
+      label: Class End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: class_start_date
+      label: Class Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

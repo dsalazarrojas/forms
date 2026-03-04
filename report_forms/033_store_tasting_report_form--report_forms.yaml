@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: store_tasting_report_form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_location
+      label: store_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - Product Type
+      - Category
+      - Brand
+      - Price
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: store_manager
+      label: store_manager
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Team Member
+      required: false
+    - id: 10
+      name: store_manager_email
+      label: store_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: store_manager_phone
+      label: store_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_manager_title
+      label: store_manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      - N/A
+      required: false
+    - id: 14
+      name: quality
+      label: quality
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      - N/A
+      required: false
+    - id: 15
+      name: presentation
+      label: presentation
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      - N/A
+      required: false
+    - id: 16
+      name: value
+      label: value
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      - N/A
+      required: false
+    - id: 17
+      name: taste
+      label: taste
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      - N/A
+      required: false
+    - id: 18
+      name: overall
+      label: overall
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      - N/A
+      required: false
+    - id: 19
+      name: store_tasting_score
+      label: store_tasting_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: store_manager_comments
+      label: store_manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: customer_rating
+      label: customer_rating
+      hint: null
+      type: number
+      options: []
+      required: false

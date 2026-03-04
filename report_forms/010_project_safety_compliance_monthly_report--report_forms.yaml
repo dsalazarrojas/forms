@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Safety Compliance Monthly Report
+    pages:
+    - id: 1
+      name: project_safety_compliance_monthly_report
+      label: Project Safety Compliance Monthly Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_id
+      label: Site
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_id
+      label: Project
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 5
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_incident_occurred
+      label: Date Incident Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: description_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: severity_incident
+      label: Severity of Incident
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: investigation_outcome
+      label: Investigation Outcome
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Pending
+      - Complete
+      - Dismissing
+      required: false
+    - id: 11
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Resolved
+      - Closed
+      required: false
+    - id: 12
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_by
+      label: Follow-up By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Pending
+      - Complete
+      required: false
+    - id: 17
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_date_incident_occurred
+      label: Date Incident Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: incident_description
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_image_url
+      label: Incident Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_video_url
+      label: Incident Video URL
+      hint: null
+      type: text
+      options: []
+      required: false

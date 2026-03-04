@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grant Proposal Coaching Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grant_goals
+      label: Grant Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scheduling_preferences
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: coaching_services
+      label: Coaching Services
+      hint: null
+      type: select_multiple
+      options:
+      - Grant Proposals
+      - Grant Writing Services
+      - Grant Strategy Sessions
+      - Grant Writing
+      - Review and Feedback
+      required: false
+    - id: 8
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false

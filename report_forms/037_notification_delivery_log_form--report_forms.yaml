@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: form_title
+      label: Notification Delivery Log Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: notification_date
+      label: notification_date
+      hint: <text or null>
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: notification_time
+      label: notification_time
+      hint: <text or null>
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: recipient_name
+      label: recipient_name
+      hint: <text or null>
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: notification_type
+      label: notification_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: <text or null>
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: recipient_email
+      label: recipient_email
+      hint: <text or null>
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: recipient_phone
+      label: recipient_phone
+      hint: <text or null>
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_method
+      label: follow_up_method
+      hint: <text or null>
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: follow_up_date
+      label: follow_up_date
+      hint: <text or null>
+      type: date
+      options: []
+      required: true

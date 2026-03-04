@@ -1,0 +1,410 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amateur Athletic Waiver And Release Of Liability
+    pages:
+    - id: 1
+      name: section_title
+      label: -- Amateur Athletic Waiver and Release of Liability --
+      hint: Please read this document carefully before signing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: participant_first_name
+      label: Participant First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_last_name
+      label: Participant Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: section_emergency_contact
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Relationship to Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_activity_info
+      label: -- Activity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: sport_activity
+      label: Sport or Athletic Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: team_organization
+      label: Team or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: season_year
+      label: Season/Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_medical_info
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions
+      label: Do you have any medical conditions we should know about
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Asthma
+      - Diabetes
+      - Heart condition
+      - Seizure disorder
+      - Severe allergies
+      - Previous injuries
+      - Other
+      required: true
+    - id: 25
+      name: medical_conditions_detail
+      label: Please Describe Medical Conditions
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: current_medications
+      label: Are you taking any regular medications
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes (list below)
+      required: true
+    - id: 27
+      name: medications_list
+      label: List Medications
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: allergies
+      label: Do you have any allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Food allergies
+      - Medication allergies
+      - Insect stings
+      - Latex
+      - Other
+      required: true
+    - id: 29
+      name: allergies_detail
+      label: Please Describe Allergies
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_assumption_risk
+      label: -- Assumption of Risk --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand and acknowledge the risks
+      type: select_one
+      options:
+      - I understand that athletic activities involve risk of injury
+      - I understand that injuries may range from minor to serious
+      - I understand that injuries may include permanent disability or death
+      - I voluntarily accept all risks associated with participation
+      required: true
+    - id: 34
+      name: section_release_liability
+      label: -- Release of Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: release_statement
+      label: Release Statement
+      hint: I hereby release from liability
+      type: select_one
+      options:
+      - I release the organization from all liability for injuries
+      - I release coaches, staff, and volunteers from liability
+      - I release facility owners and sponsors from liability
+      - This release covers negligence but not gross negligence
+      required: true
+    - id: 36
+      name: section_indemnification
+      label: -- Indemnification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: indemnification_agreement
+      label: Indemnification Agreement
+      hint: I agree to indemnify and hold harmless
+      type: select_one
+      options:
+      - I agree to indemnify the organization against claims
+      - I agree to pay for damages I may cause
+      - I accept financial responsibility for my actions
+      required: true
+    - id: 38
+      name: section_medical_consent
+      label: -- Medical Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: medical_treatment_consent
+      label: Medical Treatment Consent
+      hint: I consent to medical treatment
+      type: select_one
+      options:
+      - I consent to emergency medical treatment
+      - I authorize transportation to medical facilities
+      - I accept financial responsibility for medical costs
+      required: true
+    - id: 40
+      name: section_media_release
+      label: -- Media Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: photo_video_permission
+      label: Photo and Video Permission
+      hint: Grant permission for media usage
+      type: select_one
+      options:
+      - Yes - I grant permission for photos and videos
+      - Yes - For promotional use only
+      - No - Do not use my image
+      required: true
+    - id: 42
+      name: section_code_conduct
+      label: -- Code of Conduct --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: conduct_agreement
+      label: Code of Conduct Agreement
+      hint: I agree to follow the code of conduct
+      type: select_one
+      options:
+      - I agree to follow all rules and regulations
+      - I agree to show good sportsmanship
+      - I agree to respect officials, coaches, and opponents
+      - I understand violations may result in removal
+      required: true
+    - id: 44
+      name: section_parent_guardian
+      label: -- Parent/Guardian Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: If participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: parent_guardian_signature
+      label: Parent/Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: parent_guardian_date
+      label: Parent/Guardian Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 48
+      name: section_participant_signature
+      label: -- Participant Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 51
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false

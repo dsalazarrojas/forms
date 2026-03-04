@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CI/CD Pipeline Setup Request Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Work email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your team or department
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_name
+        label: Project Name
+        hint: Name of the project
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: project_description
+        label: Project Description
+        hint: Brief overview of the project
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: repository_url
+        label: Repository URL
+        hint: Git repository location
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: repository_type
+        label: Repository Type
+        hint: Version control platform
+        type: select_one
+        options:
+          - GitHub
+          - GitLab
+          - Bitbucket
+          - Azure DevOps
+          - Other
+        required: true
+      - id: 8
+        name: primary_branch
+        label: Primary Branch Name
+        hint: Main branch for deployment
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: programming_language
+        label: Primary Programming Language
+        hint: Main language used
+        type: select_one
+        options:
+          - JavaScript
+          - TypeScript
+          - Python
+          - Java
+          - C Sharp
+          - Go
+          - Ruby
+          - PHP
+          - Swift
+          - Kotlin
+          - Other
+        required: true
+      - id: 10
+        name: framework
+        label: Framework
+        hint: Primary framework if applicable
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: target_environment
+        label: Target Environment
+        hint: Where will this deploy
+        type: select_multiple
+        options:
+          - Development
+          - Staging
+          - Production
+          - QA Testing
+        required: true
+      - id: 12
+        name: deployment_platform
+        label: Deployment Platform
+        hint: Target infrastructure
+        type: select_one
+        options:
+          - AWS
+          - Azure
+          - Google Cloud
+          - On-Premises
+          - Heroku
+          - Vercel
+          - Netlify
+          - Other
+        required: true
+      - id: 13
+        name: ci_cd_tool_preference
+        label: CI/CD Tool Preference
+        hint: Preferred automation tool
+        type: select_one
+        options:
+          - Jenkins
+          - GitHub Actions
+          - GitLab CI
+          - CircleCI
+          - Travis CI
+          - Azure Pipelines
+          - No Preference
+        required: true
+      - id: 14
+        name: build_requirements
+        label: Build Requirements
+        hint: Special build steps needed
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: test_requirements
+        label: Testing Requirements
+        hint: Types of tests to run
+        type: select_multiple
+        options:
+          - Unit Tests
+          - Integration Tests
+          - End-to-End Tests
+          - Performance Tests
+          - Security Scans
+          - Code Quality Checks
+          - None
+        required: true
+      - id: 16
+        name: deployment_frequency
+        label: Expected Deployment Frequency
+        hint: How often will you deploy
+        type: select_one
+        options:
+          - Multiple Times Daily
+          - Daily
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - On-Demand
+        required: true
+      - id: 17
+        name: approval_workflow
+        label: Approval Workflow Required
+        hint: Do you need approval gates
+        type: select_one
+        options:
+          - Yes - Manual Approval for Production
+          - Yes - Manual Approval for All Environments
+          - No - Automated Deployment
+        required: true
+      - id: 18
+        name: notification_preferences
+        label: Notification Preferences
+        hint: How to receive build notifications
+        type: select_multiple
+        options:
+          - Email
+          - Slack
+          - Microsoft Teams
+          - PagerDuty
+          - None
+        required: true
+      - id: 19
+        name: security_requirements
+        label: Security Requirements
+        hint: Any special security needs
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: estimated_timeline
+        label: Estimated Setup Timeline
+        hint: When do you need this ready
+        type: date
+        options: []
+        required: true
+      - id: 21
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other requirements
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: priority_level
+        label: Priority Level
+        hint: How urgent is this request
+        type: select_one
+        options:
+          - Critical
+          - High
+          - Medium
+          - Low
+        required: true

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Policy Review Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Review Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: documents
+      label: Required Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Policy Document
+      - Supporting Document
+      - Other
+      required: true
+    - id: 3
+      name: priorities
+      label: Request Priorities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact
+      label: Contact Person
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_time
+      label: Date and Time
+      hint: "YYYY-MM-DD HH:MM:SS"
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: review_frequency
+      label: Review Frequency
+      hint: 'Select one of the following:'
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annual
+      required: true

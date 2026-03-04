@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toolbox Safety Meeting Form
+    pages:
+    - id: 1
+      name: report_form_toolbox_safety_meeting_form
+      label: Toolbox Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: toolbox_safety_meeting_form_toolkit
+      label: Tool Kit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: toolbox_safety_meeting_form_tool_list
+      label: Tool List
+      hint: List of tools
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: toolbox_safety_meeting_form_toolkit_location
+      label: Tool Location
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: toolbox_safety_meeting_form_toolkit_responsible
+      label: Tool Kit Responsible
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: toolbox_safety_meeting_form_toolkit_inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: toolbox_safety_meeting_form_toolkit_last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: toolbox_safety_meeting_form_toolkit_last_inspection_result
+      label: Last Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

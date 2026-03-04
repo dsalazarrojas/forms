@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kite Damage Report Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: kite_damage_report
+      label: Kite Damage Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      required: false
+    - id: 4
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: repair_cost
+      label: Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: repair_cost_currency
+      label: Repair Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - AUD
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: false

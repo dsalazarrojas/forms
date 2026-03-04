@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Equipment Loan Requestæk
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Hospitals
+      - Clinics
+      - Universities
+      - Labs
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - General Medical Equipment minimalist
+      - Surgical Equipment
+      - Diagnostic Equipment
+      - Other
+      required: false
+    - id: 5
+      name: loan_date
+      label: Loan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: loan_start
+      label: Loan Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: loan_end
+      label: Loan End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: borrower_details
+      label: Borrower Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Active prophets
+      - Inactive
+      - Pending
+      - Approved
+      - Denied
+      - Cancelled
+      required: false

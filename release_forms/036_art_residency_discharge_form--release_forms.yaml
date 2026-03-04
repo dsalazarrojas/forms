@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Residency Discharge Form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: Date of discharge from residency
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: Full name of resident artist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Artist Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Artist Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: residency_program
+      label: Residency Program
+      hint: Name of residency program
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: residency_start_date
+      label: Residency Start Date
+      hint: When did residency begin
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: residency_end_date
+      label: Residency End Date
+      hint: Scheduled end date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: studio_space_number
+      label: Studio Space Number
+      hint: Assigned studio space
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: accommodation_number
+      label: Accommodation Number
+      hint: Assigned living space if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: keys_returned
+      label: Keys Returned
+      hint: Have all keys been returned
+      type: select_one
+      options:
+      - Yes - All Keys Returned
+      - No - Keys Still Outstanding
+      - Not Applicable
+      required: true
+    - id: 11
+      name: keys_details
+      label: Keys Details
+      hint: List any missing keys
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment_returned
+      label: Equipment Returned
+      hint: Select all equipment returned
+      type: select_multiple
+      options:
+      - Studio Keys
+      - Equipment Keys
+      - Access Cards
+      - Tools
+      - Laptop or Computer
+      - Camera Equipment
+      - Projector
+      - None Issued
+      required: true
+    - id: 13
+      name: studio_condition
+      label: Studio Condition
+      hint: Condition of studio space at checkout
+      type: select_one
+      options:
+      - Excellent - Clean and Ready
+      - Good - Minor Cleaning Needed
+      - Fair - Cleaning Required
+      - Poor - Significant Cleaning Needed
+      - Damaged - Repairs Needed
+      required: true
+    - id: 14
+      name: accommodation_condition
+      label: Accommodation Condition
+      hint: Condition of living space
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 15
+      name: materials_disposed
+      label: Materials Disposed
+      hint: Have you properly disposed of materials
+      type: select_one
+      options:
+      - Yes - All Materials Disposed
+      - Yes - Some Materials Remaining
+      - No - Materials Still Present
+      required: true
+    - id: 16
+      name: materials_details
+      label: Materials Details
+      hint: Describe remaining materials
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: artwork_removed
+      label: Artwork Removed
+      hint: Has all artwork been removed
+      type: select_one
+      options:
+      - Yes - All Artwork Removed
+      - Partially - Some Artwork Remaining
+      - No - Artwork Still Present
+      required: true
+    - id: 18
+      name: artwork_left_behind
+      label: Artwork Left Behind
+      hint: Describe any artwork left behind
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: utilities_turned_off
+      label: Utilities Turned Off
+      hint: Have utilities been turned off
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 20
+      name: final_utility_reading
+      label: Final Utility Reading
+      hint: Final meter readings if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: checkout_inspection_completed
+      label: Checkout Inspection Completed
+      hint: Has inspection been completed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: inspection_notes
+      label: Inspection Notes
+      hint: Any notes from inspection
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: residency_experience
+      label: Residency Experience
+      hint: Rate your overall residency experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 24
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend this residency
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 25
+      name: feedback_comments
+      label: Feedback Comments
+      hint: Any feedback about your residency
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: future_collaboration
+      label: Future Collaboration
+      hint: Interested in future collaboration
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 27
+      name: artist_signature
+      label: Artist Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: staff_signature
+      label: Staff Signature
+      hint: Staff member completing checkout
+      type: text
+      options: []
+      required: true

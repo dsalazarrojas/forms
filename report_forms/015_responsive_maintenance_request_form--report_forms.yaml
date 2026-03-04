@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Maintenance Request Form
+    pages:
+    - id: 1
+      name: maintenance_request_form
+      label: Maintenance Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Report Forms
+      - Request Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johndoe
+      - janeDoe
+      required: false
+    - id: 7
+      name: sync_apps
+      label: Sync with 100+ apps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: embedded
+      label: Embedded
+      hint: null
+      type: text
+      options: []
+      required: false

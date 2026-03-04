@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Request Form
+    pages:
+    - id: 1
+      name: holiday_request_form
+      label: holiday_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: holiday_type
+      label: Holiday type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: days_off
+      label: Days off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: holiday_request
+      label: Holiday request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

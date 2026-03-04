@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Transport License Renewal Application
+    pages:
+    - id: 1
+      name: licensee_name_full
+      label: Licensee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: current_license_id
+      label: Current License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: license_expiry_date
+      label: Current Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: business_entity_name
+      label: Registered Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_physical_address
+      label: Business Physical Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_vin_number
+      label: Vehicle Identification Number - VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: last_inspection_date
+      label: Date of Last Vehicle Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: driver_qual_summary
+      label: Summary of Driver Qualifications
+      hint: List relevant certifications or years of experience
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_proof_status
+      label: Proof of Insurance Provided
+      hint: null
+      type: select_one
+      options:
+      - Yes - Document attached
+      - No - Will provide separately
+      required: true
+    - id: 11
+      name: renewal_fee_status
+      label: Renewal Fee Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid - Transaction ID provided
+      - Pending - Will pay via mail
+      required: true
+    - id: 12
+      name: compliance_declaration
+      label: Declaration of Compliance
+      hint: I declare that I am in compliance with all relevant transport regulations
+      type: select_one
+      options:
+      - I declare compliance
+      - Other
+      required: true

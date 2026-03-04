@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Log Form
+    pages:
+    - id: 1
+      name: route_id
+      label: Route ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: route_distance
+      label: Route Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: start_miles
+      label: Start Miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: end_miles
+      label: End Miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: drive_time
+      label: Drive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Diesel
+      - Gasoline
+      - Hybrid
+      - Electric
+      - Hydrogen
+      required: true
+    - id: 12
+      name: fuel_used
+      label: Fuel Used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Good
+      - Bad
+      - Fair
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: route_notes
+      label: Route Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: weather_condition
+      label: Weather Condition
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Overcast
+      - Light Rain
+      - Heavy Rain
+      - Light Snow
+      - Heavy Snow
+      - Fog
+      - Sleet
+      - Light Wind
+      - Strong Wind
+      - Stormy
+      - Thunderstorm
+      required: true
+    - id: 21
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_year_made
+      label: Vehicle Year Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: drive_miles
+      label: Drive Miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: drive_hours
+      label: Drive Hours
+      hint: null
+      type: number
+      options: []
+      required: false

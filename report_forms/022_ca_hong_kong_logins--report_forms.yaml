@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ca Hong Kong Logins
+    pages:
+      - id: 1
+        name: report_date
+        label: Report date
+        hint: Date of the login record
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: system_name
+        label: System name
+        hint: Which system was accessed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: username
+        label: Username used
+        hint: User identifier
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: ip_address
+        label: IP address
+        hint: Source IP of login
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: location
+        label: Approximate location
+        hint: City or region
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: success_or_failure
+        label: Login success or failure
+        hint: Outcome of attempt
+        type: select_one
+        options:
+          - Success
+          - Failure
+        required: true
+      - id: 7
+        name: notes
+        label: Notes
+        hint: Any anomalies or follow up
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: reported_by
+        label: Reported by
+        hint: Person who reported this
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment Report Form
+    pages:
+    - id: 1
+      name: risk_assessment_report_form_1
+      label: risk_assessment_report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: organization
+      hint: The name of the organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: risk_description
+      label: risk_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risk_frequency
+      label: risk_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: risk_location
+      label: risk_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_impact
+      label: risk_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_probability
+      label: risk_probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: risk_consequence
+      label: risk_consequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_prevention
+      label: risk_prevention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_control
+      label: risk_control
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: risk_treatment
+      label: risk_treatment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: risk_review
+      label: risk_review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: risk_next_action
+      label: risk_next_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: risk_status
+      label: risk_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risk_comment
+      label: risk_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risk_reviewer
+      label: risk_reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_assessor
+      label: risk_assessor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_date
+      label: risk_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: risk_rater
+      label: risk_rater
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: risk_rating
+      label: risk_rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_rating_notes
+      label: risk_rating_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: risk_recommendations
+      label: risk_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: risk_responsible
+      label: risk_responsible
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 25
+      name: risk_comments
+      label: risk_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Availability Inquiry Form
+    pages:
+    - id: 1
+      name: owner_full_name
+      label: Owner Full Name
+      hint: Pet owner legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email
+      hint: Preferred email for confirmations
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_name
+      label: Pet Name
+      hint: Name of the pet
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pet_type
+      label: Pet Type
+      hint: Species or breed
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: true
+    - id: 6
+      name: preferred_service
+      label: Preferred Service
+      hint: Service needed for the pet
+      type: select_one
+      options:
+      - Grooming
+      - Boarding
+      - Veterinary visit
+      - Daycare
+      required: true
+    - id: 7
+      name: available_time_slots
+      label: Available Time Slots
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      required: true
+    - id: 8
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: Date service should begin
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any health concerns or instructions
+      type: text
+      options: []
+      required: false

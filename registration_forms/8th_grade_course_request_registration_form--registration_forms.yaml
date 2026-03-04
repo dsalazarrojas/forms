@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 8th Grade Course Request Registration Form
+    pages:
+    - id: 1
+      name: section_header_student_info
+      label: "--- Student Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: Enter first and last name as shown on school records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID number
+      hint: School-assigned ID (if unknown, enter N/A)
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_school
+      label: Current school name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent or guardian name
+      hint: Primary contact for course questions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_email
+      label: Parent/guardian email address
+      hint: Used for confirmations and schedule updates
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_phone
+      label: Parent/guardian phone number
+      hint: Include area code
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: requested_core_courses
+      label: Core course requests (select up to 4)
+      hint: Choose required core subjects for next year
+      type: select_multiple
+      options:
+        - English Language Arts
+        - Mathematics (Pre-Algebra / Algebra I)
+        - Science (Life Science)
+        - Social Studies (US/World History)
+        - Physical Education
+      required: true
+    - id: 9
+      name: requested_electives
+      label: Elective course preferences (ranked)
+      hint: List your top elective choices separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_programs
+      label: Special programs or supports required
+      hint: e.g., ELL, IEP, 504 plan — leave blank if none
+      type: select_multiple
+      options:
+        - Individualized Education Program (IEP)
+        - 504 Accommodation Plan
+        - English Language Learner (ELL) Support
+        - Gifted / Advanced Placement
+        - None
+      required: false
+    - id: 11
+      name: parental_signature
+      label: Parent/guardian e-signature (type name)
+      hint: Typing name constitutes electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submission_date
+      label: Date submitted
+      hint: null
+      type: date
+      options: []
+      required: true

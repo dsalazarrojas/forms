@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Ticket And Part Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''label'': ''Repair''}'
+      - '{''id'': 8, ''label'': ''Replacement''}'
+      - '{''id'': 9, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''label'': ''Service 1''}'
+      - '{''id'': 12, ''label'': ''Service 2''}'
+      - '{''id'': 13, ''label'': ''Service 3''}'
+      required: false
+    - id: 6
+      name: part_details
+      label: Part Details
+      hint: null
+      type: note
+      options: []
+      required: false

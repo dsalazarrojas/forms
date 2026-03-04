@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beta Reader Agreement Form
+    pages:
+    - id: 1
+      name: reader_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reader_email
+      label: Email Address
+      hint: We will send manuscript and updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: reader_phone
+      label: Phone Number
+      hint: Optional contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reader_address
+      label: Mailing Address
+      hint: For potential physical copy delivery
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: beta_reader_experience
+      label: Beta Reading Experience
+      hint: How much beta reading experience do you have
+      type: select_one
+      options:
+      - First Time Beta Reader
+      - Some Experience
+      - Experienced Beta Reader
+      - Professional Beta Reader
+      required: true
+    - id: 6
+      name: preferred_genres
+      label: Preferred Genres
+      hint: What genres do you enjoy reading
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Thriller
+      - Horror
+      - Historical Fiction
+      - Young Adult
+      - Non-Fiction
+      - Biography
+      - Self-Help
+      required: true
+    - id: 7
+      name: manuscript_title
+      label: Manuscript Title
+      hint: Title of the book you will be reading
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: author_name
+      label: Author Name
+      hint: Name of the author
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manuscript_format
+      label: Manuscript Format
+      hint: How would you like to receive the manuscript
+      type: select_one
+      options:
+      - PDF
+      - Word Document
+      - Google Docs
+      - ePub
+      - Physical Copy
+      required: true
+    - id: 10
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: When do you expect to complete your review
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: feedback_format
+      label: Preferred Feedback Format
+      hint: How would you like to provide feedback
+      type: select_one
+      options:
+      - Written Report
+      - Inline Comments
+      - Video Call
+      - Phone Call
+      - Email Exchange
+      required: true
+    - id: 12
+      name: feedback_areas
+      label: Areas of Focus
+      hint: What aspects will you focus on in your feedback
+      type: select_multiple
+      options:
+      - Plot and Pacing
+      - Character Development
+      - Dialogue
+      - Setting and World Building
+      - Grammar and Spelling
+      - Overall Readability
+      - Emotional Impact
+      - Consistency
+      - Market Appeal
+      - Other
+      required: true
+    - id: 13
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you agree to keep the manuscript confidential
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 14
+      name: non_disclosure
+      label: Non-Disclosure Terms
+      hint: Do you agree not to share or distribute the manuscript
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 15
+      name: timeline_commitment
+      label: Timeline Commitment
+      hint: Can you commit to the feedback deadline
+      type: select_one
+      options:
+      - Yes, I Can Commit
+      - I Need More Time
+      - Not Sure
+      required: true
+    - id: 16
+      name: compensation_expectation
+      label: Compensation Expectation
+      hint: Are you expecting compensation for this work
+      type: select_one
+      options:
+      - Volunteer, No Compensation
+      - Open to Discussion
+      - Yes, Paid Only
+      required: true
+    - id: 17
+      name: acknowledgment_preference
+      label: Acknowledgment Preference
+      hint: Would you like to be acknowledged in the book
+      type: select_one
+      options:
+      - Yes, Please Acknowledge Me
+      - No, I Prefer to Remain Anonymous
+      - Not Sure
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or information you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Electronic Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: agreement_date
+      label: Date of Agreement
+      hint: Today date
+      type: date
+      options: []
+      required: true

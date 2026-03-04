@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Task Details Form
+    pages:
+    - id: 1
+      name: marketing_task_details
+      label: Marketing Task Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: task_type
+      label: Task Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false

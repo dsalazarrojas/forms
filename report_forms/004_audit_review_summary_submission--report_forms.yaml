@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Review Summary Submission
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: audit_period
+      label: Audit Period
+      hint: Time period covered by this audit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audited_entity
+      label: Audited Entity Name
+      hint: Name of the organization or department audited
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: audit_scope
+      label: Audit Scope
+      hint: What areas were included in the audit
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: audit_type
+      label: Audit Type
+      hint: Select the type of audit conducted
+      type: select_one
+      options:
+      - Financial Audit
+      - Operational Audit
+      - Compliance Audit
+      - Internal Audit
+      - External Audit
+      - Risk Assessment
+      required: true
+    - id: 6
+      name: auditor_name
+      label: Lead Auditor Name
+      hint: Name of the person conducting the audit
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_team_size
+      label: Audit Team Size
+      hint: Number of team members involved
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_findings
+      label: Total Number of Findings
+      hint: Count of all identified issues
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: critical_findings
+      label: Critical Findings
+      hint: Number of critical/high priority issues
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: major_findings
+      label: Major Findings
+      hint: Number of major/medium priority issues
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: minor_findings
+      label: Minor Findings
+      hint: Number of minor/low priority issues
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: compliance_status
+      label: Overall Compliance Status
+      hint: General compliance assessment
+      type: select_one
+      options:
+      - Non-Compliant
+      - Partially Compliant
+      - Substantially Compliant
+      - Fully Compliant
+      required: true
+    - id: 13
+      name: key_findings_summary
+      label: Key Findings Summary
+      hint: Brief summary of main issues identified
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: root_cause_analysis
+      label: Root Cause Analysis Provided
+      hint: Was root cause analysis completed
+      type: select_one
+      options:
+      - 'Yes'
+      - Partial
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 15
+      name: recommendations_count
+      label: Number of Recommendations
+      hint: How many corrective actions recommended
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: implementation_timeline
+      label: Recommended Implementation Timeline
+      hint: When should findings be addressed
+      type: select_one
+      options:
+      - Immediate - Within 30 Days
+      - Urgent - Within 60 Days
+      - Planned - Within 90 Days
+      - Standard - Within 6 Months
+      - Extended - Custom Timeline
+      required: true
+    - id: 17
+      name: management_response_provided
+      label: Management Response Provided
+      hint: Has management responded to findings
+      type: select_one
+      options:
+      - Yes - Fully Responsive
+      - Yes - Partial Response
+      - No - Not Yet
+      - In Progress
+      required: false
+    - id: 18
+      name: followup_audit_needed
+      label: Follow-Up Audit Recommended
+      hint: Is follow-up audit needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Possibly
+      - To Be Determined
+      required: true
+    - id: 19
+      name: supporting_documents
+      label: Supporting Documentation Attached
+      hint: Are audit workpapers and evidence included
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - 'No'
+      - To Be Provided Separately
+      required: true
+    - id: 20
+      name: reviewer_name
+      label: Review Approval Name
+      hint: Name of person approving this summary
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: reviewer_email
+      label: Reviewer Email
+      hint: Contact email for reviewer
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co-Working Safety Certification Registration
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coworking_location
+      label: Primary Co-working Location
+      hint: null
+      type: select_one
+      options:
+      - Downtown
+      - Uptown
+      - East Side
+      - West Side
+      required: true
+    - id: 3
+      name: section_session
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: preferred_session_date
+      label: Preferred Safety Certification Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_time_slot
+      label: Preferred Session Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 10:00 AM
+      - 2:00 PM
+      - 6:00 PM
+      required: true
+    - id: 6
+      name: section_contact_emergency
+      label: -- Contact and Emergency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: mobile_phone
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_policy_ack
+      label: -- Policy Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: fire_safety_protocol_ack
+      label: I have read and reviewed the building Fire Safety Protocol
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I have
+      required: true
+    - id: 13
+      name: evacuation_plan_ack
+      label: I understand the designated Emergency Evacuation Plan
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I understand
+      required: true
+    - id: 14
+      name: safety_regulations_agreement
+      label: I agree to comply with all building safety and security regulations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 15
+      name: digital_signature
+      label: Digital Signature for Registration Verification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: registration_date
+      label: Date of Registration Submission
+      hint: null
+      type: date
+      options: []
+      required: true

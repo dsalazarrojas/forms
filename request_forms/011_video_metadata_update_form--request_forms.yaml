@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Metadata Update Form
+    pages:
+    - id: 1
+      name: video_metadata_update_form
+      label: Video Metadata Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: video_id
+      label: Video Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: update_type
+      label: Update Type
+      hint: null
+      type: select_one
+      options:
+      - Update
+      - Delete
+      - Merge
+      - Other
+      required: false
+    - id: 5
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: update_description
+      label: Update Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: update_status
+      label: Update Status
+      hint: 'Select one of the following: Draft, Published, Archived, Unpublished'
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Archived
+      - Unpublished
+      required: false
+    - id: 8
+      name: update_by
+      label: Update By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

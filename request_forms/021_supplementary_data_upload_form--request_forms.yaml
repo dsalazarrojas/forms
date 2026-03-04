@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplementary Data Upload Form
+    pages:
+    - id: 1
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_upload
+      label: Date of Upload
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''pdf''}'
+      - '{''label'': ''docx''}'
+      - '{''label'': ''jpg''}'
+      - '{''label'': ''jpeg''}'
+      - '{''label'': ''png''}'
+      required: false
+    - id: 6
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: uploaded_by
+      label: Uploaded by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_for
+      label: Uploaded for
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''HR''}'
+      - '{''label'': ''Education''}'
+      - '{''label'': ''Insurance''}'
+      - '{''label'': ''Operations''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

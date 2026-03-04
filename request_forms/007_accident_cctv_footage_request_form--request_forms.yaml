@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident CCTV Footage Request Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_role
+      label: Role or Position
+      hint: null
+      type: select_one
+      options:
+      - Security officer
+      - Property manager
+      - Building administrator
+      - Insurance representative
+      - Law enforcement
+      - Employee
+      - Other
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: incident_time_start
+      label: Approximate Start Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: incident_time_end
+      label: Approximate End Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: incident_location
+      label: Location of Incident
+      hint: Building name, floor, area, or specific address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - Vehicle accident
+      - Slip, trip, or fall
+      - Workplace injury
+      - Property damage
+      - Theft or vandalism
+      - Assault or altercation
+      - Other
+      required: true
+    - id: 13
+      name: incident_description
+      label: Description of the Incident
+      hint: Provide a detailed account of what occurred
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_footage_request
+      label: -- Footage Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: camera_locations
+      label: Specific Camera Locations Requested
+      hint: List the camera IDs or area names if known
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: footage_purpose
+      label: Purpose of Footage Request
+      hint: null
+      type: select_one
+      options:
+      - Insurance claim
+      - Internal investigation
+      - Law enforcement request
+      - Legal proceedings
+      - Safety review
+      - Other
+      required: true
+    - id: 17
+      name: police_report_number
+      label: Police Report Number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: urgency
+      label: Urgency of Request
+      hint: null
+      type: select_one
+      options:
+      - Standard - Within 5 business days
+      - Priority - Within 2 business days
+      - Urgent - Within 24 hours
+      required: true
+    - id: 19
+      name: delivery_format
+      label: Preferred Delivery Format
+      hint: null
+      type: select_one
+      options:
+      - Digital download link
+      - USB drive
+      - DVD
+      - Secure file transfer
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

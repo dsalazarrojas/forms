@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brewery Production Line Incident Report Form
+    pages:
+      - id: 1
+        name: report_date
+        label: Report Date
+        hint: Date of the incident report
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: report_time
+        label: Report Time
+        hint: Time incident was reported
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: incident_date
+        label: Incident Date
+        hint: When did the incident occur
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: incident_time
+        label: Incident Time
+        hint: Time of incident occurrence
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: reporting_person
+        label: Person Reporting Incident
+        hint: Name of person making report
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: department
+        label: Department or Production Area
+        hint: Which department affected
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: production_line
+        label: Production Line Number or Name
+        hint: Specific line affected
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: incident_type
+        label: Type of Incident
+        hint: Category of incident
+        type: select_one
+        options:
+          - Equipment breakdown
+          - Product contamination
+          - Safety hazard
+          - Personnel injury
+          - Quality issue
+          - Spill or leak
+          - Fire or electrical
+          - Other
+        required: true
+      - id: 9
+        name: incident_description
+        label: Detailed Incident Description
+        hint: What happened
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: root_cause
+        label: Suspected Root Cause
+        hint: Why do you think this happened
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: severity_level
+        label: Incident Severity Level
+        hint: Rate the severity
+        type: select_one
+        options:
+          - Minor - No impact on production
+          - Moderate - Limited production impact
+          - Major - Significant production stoppage
+          - Critical - Complete line shutdown
+          - Catastrophic - Facility-wide impact
+        required: true
+      - id: 12
+        name: safety_impact
+        label: Safety Impact
+        hint: Any personnel safety concerns
+        type: select_one
+        options:
+          - No safety impact
+          - Minor safety risk
+          - Moderate safety risk
+          - Severe safety hazard
+          - Immediate danger
+        required: true
+      - id: 13
+        name: injuries_reported
+        label: Were there any injuries
+        hint: Any personnel injured
+        type: select_one
+        options:
+          - No injuries
+          - Minor injury
+          - Moderate injury
+          - Severe injury
+          - Multiple injuries
+        required: true
+      - id: 14
+        name: injured_persons
+        label: Injured Persons Details
+        hint: Names and extent of injuries
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: medical_attention
+        label: Medical Attention Required
+        hint: Was first aid or medical care needed
+        type: select_one
+        options:
+          - No medical attention
+          - First aid provided
+          - On-site medical care
+          - Hospital visit required
+          - Ambulance called
+        required: false
+      - id: 16
+        name: production_impact
+        label: Production Impact
+        hint: Effect on production schedule
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: downtime_duration
+        label: Estimated Production Downtime
+        hint: How long until resumption
+        type: select_one
+        options:
+          - No downtime
+          - Less than 1 hour
+          - 1-4 hours
+          - 4-8 hours
+          - Over 8 hours
+        required: false
+      - id: 18
+        name: product_affected
+        label: Product or Batch Affected
+        hint: Which products were impacted
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: immediate_actions
+        label: Immediate Actions Taken
+        hint: What was done immediately
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: corrective_measures
+        label: Corrective Measures Recommended
+        hint: How to prevent recurrence
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: equipment_damage
+        label: Equipment Damage Assessment
+        hint: Extent of equipment damage
+        type: select_one
+        options:
+          - No damage
+          - Minor damage - operational
+          - Moderate damage - limited operation
+          - Major damage - requires repair
+          - Total loss
+        required: false
+      - id: 22
+        name: regulatory_notification
+        label: Regulatory Notification Needed
+        hint: Should authorities be notified
+        type: select_one
+        options:
+          - No notification required
+          - To be determined
+          - Yes - OSHA
+          - Yes - EPA
+          - Yes - Local authorities
+        required: false
+      - id: 23
+        name: follow_up_required
+        label: Follow-up Actions Required
+        hint: What needs to be done
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: responsibility_assigned
+        label: Assigned Responsibility
+        hint: Who will follow up
+        type: text
+        options: []
+        required: false

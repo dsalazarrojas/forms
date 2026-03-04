@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Hardness Test Report Form
+    pages:
+    - id: 1
+      name: material_hardness_test_report_form
+      label: test_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: material_hardness_tested_item
+      label: tested_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_temperature
+      label: test_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: test_time_minutes
+      label: test_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: test_method
+      label: test_method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: test_result
+      label: test_result
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

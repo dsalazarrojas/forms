@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Grant Final Report
+    pages:
+    - id: 1
+      name: section_grant
+      label: -- Grant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: grant_program_name
+      label: Grant Program Name
+      hint: Name of the grant received
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grant_amount
+      label: Grant Amount Received - USD
+      hint: Total funds awarded
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: grant_period_start
+      label: Grant Period Start Date
+      hint: When grant period began
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: grant_period_end
+      label: Grant Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: grant_id
+      label: Grant ID or Reference Number
+      hint: If provided by funder
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_club
+      label: -- Club Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: club_president
+      label: Club President Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_accomplishments
+      label: -- Project Accomplishments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_goals
+      label: Original Project Goals
+      hint: What were you trying to accomplish?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: goals_achieved
+      label: Goals Achieved
+      hint: Which goals were successfully completed?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: participants_served
+      label: Number of People Served or Participated
+      hint: Estimate or exact count
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: key_outcomes
+      label: Key Outcomes and Results
+      hint: What was the impact?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: unexpected_results
+      label: Unexpected Results or Changes
+      hint: Anything different than planned?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_spending
+      label: -- Financial Accounting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: total_spent
+      label: Total Amount Spent - USD
+      hint: How much of the grant was used?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: remaining_funds
+      label: Remaining Unspent Funds - USD
+      hint: Grant money not yet spent
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: major_expenses
+      label: Major Expense Categories
+      hint: Breakdown of how money was spent
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: budget_variance
+      label: Budget Variance Explanation
+      hint: If spending differed from plan
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_supporting
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: receipts_documentation
+      label: Documentation Attached
+      hint: null
+      type: select_multiple
+      options:
+      - Receipts
+      - Invoices
+      - Photos
+      - Attendance records
+      - Evaluation surveys
+      - Other
+      required: false
+    - id: 25
+      name: section_follow_up
+      label: -- Follow-up and Sustainability --
+      hint: null
+      type: note
+      options: []
+      required: false

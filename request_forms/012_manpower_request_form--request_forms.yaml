@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manpower Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: man_power_request_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manpower_request_details
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requested_manpower_type
+      label: requested_manpower_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: requested_manpower_number
+      label: requested_manpower_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: requested_for
+      label: requested_for
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: request_description
+      label: request_description
+      hint: Briefly describe your need for additional staff or positions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requested_start_date
+      label: requested_start_date
+      hint: If applicable, provide start date in prophets or prophets format
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Accident Report Form
+    pages:
+      - id: 1
+        name: report_date
+        label: Report Date
+        hint: Date this report is being filed
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: report_time
+        label: Report Time
+        hint: Time this report is being filed
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: incident_date
+        label: Date of Incident
+        hint: When did the accident occur
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: incident_time
+        label: Time of Incident
+        hint: Approximate time of accident
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: incident_location
+        label: Location of Incident
+        hint: Specific location on construction site
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: project_name
+        label: Project Name
+        hint: Name of the construction project
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: injured_person_name
+        label: Injured Person Name
+        hint: Full name of injured party
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: injured_person_role
+        label: Injured Person Role
+        hint: Job title or position
+        type: select_one
+        options:
+          - General Laborer
+          - Carpenter
+          - Electrician
+          - Plumber
+          - Equipment Operator
+          - Supervisor
+          - Engineer
+          - Inspector
+          - Visitor
+          - Other
+        required: true
+      - id: 9
+        name: injury_type
+        label: Type of Injury
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Cut or Laceration
+          - Fracture or Broken Bone
+          - Sprain or Strain
+          - Burn
+          - Head Injury
+          - Eye Injury
+          - Hearing Damage
+          - Chemical Exposure
+          - Electrical Shock
+          - Fall from Height
+          - Struck by Object
+          - Other
+        required: true
+      - id: 10
+        name: injury_severity
+        label: Injury Severity
+        hint: How severe is the injury
+        type: select_one
+        options:
+          - Minor (First Aid Only)
+          - Moderate (Medical Treatment)
+          - Serious (Hospitalization)
+          - Critical (Life-Threatening)
+          - Fatal
+        required: true
+      - id: 11
+        name: body_parts_affected
+        label: Body Parts Affected
+        hint: Select all affected areas
+        type: select_multiple
+        options:
+          - Head
+          - Neck
+          - Shoulder
+          - Arm
+          - Hand
+          - Finger
+          - Chest
+          - Back
+          - Abdomen
+          - Leg
+          - Knee
+          - Foot
+          - Toe
+          - Multiple Areas
+        required: true
+      - id: 12
+        name: accident_description
+        label: Detailed Accident Description
+        hint: Describe exactly what happened
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: witnesses_present
+        label: Were There Witnesses
+        hint: Did anyone see the accident
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 14
+        name: witness_names
+        label: Witness Names
+        hint: List names and contact information
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: equipment_involved
+        label: Equipment or Tools Involved
+        hint: Describe any equipment involved
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: weather_conditions
+        label: Weather Conditions
+        hint: At time of incident
+        type: select_one
+        options:
+          - Clear and Sunny
+          - Cloudy
+          - Rainy
+          - Snowy
+          - Windy
+          - Foggy
+          - Indoor (Not Applicable)
+        required: true
+      - id: 17
+        name: safety_equipment_used
+        label: Safety Equipment in Use
+        hint: What PPE was being worn
+        type: select_multiple
+        options:
+          - Hard Hat
+          - Safety Glasses
+          - Hearing Protection
+          - Respirator
+          - Safety Harness
+          - High-Visibility Vest
+          - Steel-Toed Boots
+          - Gloves
+          - None
+        required: true
+      - id: 18
+        name: immediate_action_taken
+        label: Immediate Action Taken
+        hint: What was done right after the accident
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: medical_treatment
+        label: Medical Treatment Provided
+        hint: Describe treatment given
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: reported_to_supervisor
+        label: Reported to Supervisor
+        hint: Was supervisor notified
+        type: select_one
+        options:
+          - Yes, Immediately
+          - Yes, Within 1 Hour
+          - Yes, Later
+          - No
+        required: true
+      - id: 21
+        name: photos_available
+        label: Photos Available
+        hint: Do you have photos of the incident
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 22
+        name: reporter_name
+        label: Reporter Name
+        hint: Person filing this report
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: reporter_signature
+        label: Reporter Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true

@@ -1,0 +1,517 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birdwatching Workshop Registration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose your workshop
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: workshop_name
+      label: Workshop Name
+      hint: Which workshop
+      type: select_one
+      options:
+      - Introduction to Birdwatching
+      - Bird Identification Basics
+      - Bird Song Recognition
+      - Bird Photography Workshop
+      - Advanced Birding Techniques
+      - Waterbird Identification
+      - Raptor Identification
+      - Shorebird Workshop
+      - Warbler Workshop
+      - Owl Prowl
+      - Migration Monitoring
+      - Citizen Science Training
+      required: true
+    - id: 13
+      name: workshop_date
+      label: Workshop Date
+      hint: Date of workshop
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: workshop_time
+      label: Workshop Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: workshop_duration
+      label: Workshop Duration
+      hint: How long
+      type: select_one
+      options:
+      - 2 Hours
+      - Half Day (3-4 Hours)
+      - Full Day (6-8 Hours)
+      - Multi-Day
+      - Weekly Series
+      required: true
+    - id: 16
+      name: workshop_location
+      label: Workshop Location
+      hint: Where will it be held
+      type: select_one
+      options:
+      - Nature Center
+      - Local Park
+      - Wildlife Refuge
+      - Botanical Garden
+      - Online Virtual
+      - Hybrid
+      required: true
+    - id: 17
+      name: experience_level
+      label: Birdwatching Experience
+      hint: Your experience level
+      type: select_one
+      options:
+      - Complete Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 18
+      name: years_of_birdwatching
+      label: Years of Birdwatching
+      hint: How long have you been birding
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 19
+      name: learning_goals
+      label: Learning Goals
+      hint: What do you want to learn
+      type: select_multiple
+      options:
+      - Species Identification
+      - Using Binoculars
+      - Bird Song Recognition
+      - Bird Behavior
+      - Photography Techniques
+      - Habitat Identification
+      - Citizen Science Participation
+      - Conservation Knowledge
+      - Field Guide Usage
+      - Birding Ethics
+      required: true
+    - id: 20
+      name: equipment
+      label: Equipment
+      hint: What you have
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: binoculars_owned
+      label: Binoculars Owned
+      hint: Do you have binoculars
+      type: select_one
+      options:
+      - Yes - Will Bring
+      - No - Need to Borrow
+      - Maybe - Considering Purchase
+      required: true
+    - id: 22
+      name: binocular_specifications
+      label: Binocular Specifications
+      hint: If you own binoculars
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: camera_equipment
+      label: Camera Equipment
+      hint: For photography workshops
+      type: select_one
+      options:
+      - DSLR/Mirrorless Camera
+      - Point and Shoot
+      - Smartphone Only
+      - No Camera
+      - Not Applicable
+      required: false
+    - id: 24
+      name: field_guide
+      label: Field Guide
+      hint: Do you have a field guide
+      type: select_one
+      options:
+      - Yes - Physical Book
+      - Yes - Mobile App
+      - Yes - Both
+      - No - Need Recommendations
+      required: false
+    - id: 25
+      name: special_needs
+      label: Special Needs
+      hint: Any accommodations needed
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: mobility_requirements
+      label: Mobility Requirements
+      hint: Describe your mobility
+      type: select_one
+      options:
+      - No Limitations
+      - Can Walk Moderate Distances
+      - Limited Walking
+      - Need Accessible Route
+      - Use Mobility Aid
+      - Wheelchair User
+      required: true
+    - id: 27
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Specific accommodations
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For provided refreshments
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Other
+      required: true
+    - id: 30
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Specify restrictions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: registration_options
+      label: Registration Options
+      hint: Additional options
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: group_registration
+      label: Group Registration
+      hint: Are you registering a group
+      type: select_one
+      options:
+      - No - Individual
+      - Yes - 2-4 People
+      - Yes - 5-10 People
+      - Yes - 10+ People
+      required: true
+    - id: 33
+      name: group_size
+      label: Group Size
+      hint: Number of people
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: group_names
+      label: Group Member Names
+      hint: List all participants
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: transportation
+      label: Transportation
+      hint: How will you get there
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Need Carpool Match
+      - Can Offer Rides
+      - Public Transportation
+      - Walking
+      - Need Shuttle Service
+      required: true
+    - id: 36
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Do you need lodging info
+      type: select_one
+      options:
+      - No - Local Resident
+      - Yes - Send Hotel List
+      - Yes - Need Recommendations
+      required: false
+    - id: 37
+      name: payment_information
+      label: Payment Information
+      hint: Workshop fee
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: registration_fee
+      label: Registration Fee
+      hint: Workshop cost
+      type: number
+      options: []
+      required: true
+    - id: 39
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Bank Transfer
+      - Gift Certificate
+      required: true
+    - id: 40
+      name: discount_code
+      label: Discount Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: membership_discount
+      label: Membership Discount
+      hint: Are you a member
+      type: select_one
+      options:
+      - Yes - Member
+      - No - Not a Member
+      - Want to Become Member
+      required: false
+    - id: 42
+      name: financial_assistance
+      label: Financial Assistance
+      hint: Do you need assistance
+      type: select_one
+      options:
+      - No - Full Payment
+      - Yes - Partial Assistance
+      - Yes - Scholarship Needed
+      required: false
+    - id: 43
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How to contact you
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: Best way to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Any Method
+      required: true
+    - id: 45
+      name: email_updates
+      label: Email Updates
+      hint: Receive workshop updates
+      type: select_one
+      options:
+      - Yes - All Updates
+      - Yes - Reminders Only
+      - No Thanks
+      required: true
+    - id: 46
+      name: newsletter_subscription
+      label: Newsletter Subscription
+      hint: Join our mailing list
+      type: select_one
+      options:
+      - Yes - Subscribe Me
+      - No Thanks
+      - Already Subscribed
+      required: false
+    - id: 47
+      name: how_heard_about_workshop
+      label: How Did You Hear About Workshop
+      hint: Help us improve outreach
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Email Newsletter
+      - Friend Referral
+      - Nature Center
+      - Birding Club
+      - Advertisement
+      - Previous Workshop
+      - Other
+      required: false
+    - id: 48
+      name: additional_comments
+      label: Additional Comments
+      hint: Questions or special requests
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: waivers_and_agreements
+      label: Waivers and Agreements
+      hint: Required acknowledgments
+      type: note
+      options: []
+      required: false
+    - id: 52
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Acknowledge risks
+      type: select_one
+      options:
+      - I Accept Liability Waiver
+      - I Understand Outdoor Risks
+      required: true
+    - id: 53
+      name: photo_release
+      label: Photo Release
+      hint: Can we use photos
+      type: select_one
+      options:
+      - Yes - May Use for Promotion
+      - No - Do Not Use
+      required: true
+    - id: 54
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Understand cancellation terms
+      type: select_one
+      options:
+      - I Understand Cancellation Policy
+      - I Agree to Refund Terms
+      required: true
+    - id: 55
+      name: registration_signature
+      label: Registration Signature
+      hint: Sign to confirm
+      type: select_one
+      options:
+      - I Agree to All Terms
+      - I Confirm Information is Accurate
+      required: true
+    - id: 56
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

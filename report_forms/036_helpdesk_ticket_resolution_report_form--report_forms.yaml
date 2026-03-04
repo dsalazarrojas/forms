@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Helpdesk Ticket Resolution Report Form
+    pages:
+    - id: 1
+      name: support_request
+      label: support_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ticket_id
+      label: ticket_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: resolved
+      label: resolved
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 4
+      name: case_type
+      label: case_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Ticket''}'
+      - '{''id'': 2, ''label'': ''Task''}'
+      - '{''id'': 3, ''label'': ''Question''}'
+      required: true
+    - id: 5
+      name: resolution
+      label: resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: prophets_resolution
+      label: Prophets Resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resolution_date
+      label: resolution_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: prophets_resolution_date
+      label: Prophets Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: prophets_resolution_time
+      label: Prophets Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: case_notes
+      label: case_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: support_team
+      label: support_team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team 1''}'
+      - '{''id'': 2, ''label'': ''Team 2''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team 1''}'
+      - '{''id'': 2, ''label'': ''Team 2''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: case_type
+      label: case_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Ticket''}'
+      - '{''id'': 2, ''label'': ''Task''}'
+      - '{''id'': 3, ''label'': ''Question''}'
+      required: true
+    - id: 17
+      name: ticket_status
+      label: ticket_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: true
+    - id: 18
+      name: closed_date
+      label: closed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: closed_time
+      label: closed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitted_goals
+      label: submitted_goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Goal 1''}'
+      - '{''id'': 2, ''label'': ''Goal 2''}'
+      - '{''id'': 3, ''label'': ''Goal 3''}'
+      required: true
+    - id: 21
+      name: submitted_objectives
+      label: submitted_objectives
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Objective 1''}'
+      - '{''id'': 2, ''label'': ''Objective 2''}'
+      - '{''id'': 3, ''label'': ''Objective 3''}'
+      required: true
+    - id: 22
+      name: submitted_actions
+      label: submitted_actions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Action 1''}'
+      - '{''id'': 2, ''label'': ''Action 2''}'
+      - '{''id'': 3, ''label'': ''Action 3''}'
+      required: true
+    - id: 23
+      name: submitted_results
+      label: submitted_results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Result 1''}'
+      - '{''id'': 2, ''label'': ''Result 2''}'
+      - '{''id'': 3, ''label'': ''Result 3''}'
+      required: true
+    - id: 24
+      name: submitted_notes
+      label: submitted_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: submitted_attachment
+      label: submitted_attachment
+      hint: null
+      type: note
+      options: []
+      required: false

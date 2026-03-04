@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: licence_renewal_form
+    pages:
+    - id: 1
+      name: form_information
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: licence_number
+      label: licence-number
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 12345, ''label'': ''ABC123''}'
+      - '{''value'': 67890, ''label'': ''DEF456''}'
+      required: false
+    - id: 3
+      name: licence_expiration_date
+      label: licence-expiration-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: renewal_date
+      label: renewal-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: renewal_deadline
+      label: renewal-deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false

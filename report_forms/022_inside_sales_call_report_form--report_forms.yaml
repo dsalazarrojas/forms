@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: inside_sales_call_report_form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Day of Report
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_call
+      label: Date of Call
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: call_notes
+      label: Call Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_one
+      options:
+      - Follow-up with customer
+      - Send follow-up email
+      - Schedule follow-up call
+      - Other
+      required: true
+    - id: 9
+      name: follow_up_action_other
+      label: Other
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false

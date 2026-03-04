@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Relationship Check In
+    pages:
+    - id: 1
+      name: relationship_progress
+      label: How would you describe your progress this week?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_support
+      label: How supportive is your partner this week?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication
+      label: How would you describe your communication this week?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: conflict_resolution
+      label: How would you describe your resolution of conflicts this week?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emotional_intimacy
+      label: How would you describe your emotional intimacy this week?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: relationship_satisfaction
+      label: How would you describe your relationship satisfaction this week?
+      hint: null
+      type: text
+      options: []
+      required: false

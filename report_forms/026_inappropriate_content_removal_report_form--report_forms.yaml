@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inappropriate Content Removal Report Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Inappropriate Content Removal Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: Briefly describe the offensive content you wish to report.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: Select the type of content you are reporting.
+      type: select_one
+      options:
+      - Inappropriate User Post
+      - Inappropriate User
+      - Inappropriate Content
+      - Other
+      required: false
+    - id: 4
+      name: content
+      label: Content
+      hint: Provide a detailed description of the content.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: url
+      label: URL
+      hint: Provide the URL of the content.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: Select who is this content should be reviewed by.
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      required: false

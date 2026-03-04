@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Track Quote Request
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_length
+      label: project_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: track_type
+      label: track_type
+      hint: null
+      type: select_multiple
+      options:
+      - standard
+      - custom
+      required: false
+    - id: 5
+      name: track_material
+      label: track_material
+      hint: null
+      type: select_multiple
+      options:
+      - wood
+      - asphalt
+      - cement
+      required: false
+    - id: 6
+      name: track_width
+      label: track_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: track_length
+      label: track_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: track_depth
+      label: track_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: track_slope
+      label: track_slope
+      hint: null
+      type: select_one
+      options:
+      - flat
+      - gently sloping
+      - moderately sloping
+      - steeply sloping
+      required: false
+    - id: 10
+      name: track_direction
+      label: track_direction
+      hint: Enter the direction of the track
+      type: select_one
+      options:
+      - east-west
+      - north-south
+      - northeast-southwest
+      required: true
+    - id: 11
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: file_uploads
+      label: File Uploads
+      hint: Enter a comma separated list of files to upload
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

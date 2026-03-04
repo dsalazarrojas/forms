@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Quest Form
+    pages:
+    - id: 1
+      name: workshop_event
+      label: Event or Workshop
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Workshop
+      - Other
+      required: false
+    - id: 2
+      name: graphic_design
+      label: Graphic Design
+      hint: null
+      type: select_multiple
+      options:
+      - Graphic
+      - UI/UX
+      - Web Design
+      required: false
+    - id: 3
+      name: website_update
+      label: Website Update
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: grant
+      label: Grant
+      hint: null
+      type: text
+      options: []
+      required: false

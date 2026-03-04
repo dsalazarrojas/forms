@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Painting Commission Form Template
+    pages:
+    - id: 1
+      name: painting_commission_form_template
+      label: Painting Commission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artist_email
+      label: Artist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: artist_phone
+      label: Artist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: commission_type
+      label: Commission Type
+      hint: null
+      type: select_multiple
+      options:
+      - Original
+      - Print
+      - Digital
+      required: false
+    - id: 6
+      name: image_details
+      label: Image Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: art_description
+      label: Art Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: commission_cost
+      label: Commission Cost
+      hint: Enter the commission cost.
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: upload_image
+      label: Upload Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: upload_art
+      label: Upload Art
+      hint: null
+      type: note
+      options: []
+      required: false

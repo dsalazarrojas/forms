@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Shift Incident Report
+    pages:
+    - id: 1
+      name: shift_start_time
+      label: Shift start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: shift_end_time
+      label: Shift end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_time
+      label: Incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_type
+      label: Incident type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 101, ''label'': ''Equipment failure'', ''value'': ''Equipment failure''}'
+      - '{''id'': 102, ''label'': ''Employee error'', ''value'': ''Employee error''}'
+      - '{''id'': 103, ''label'': ''Weather'', ''value'': ''Weather''}'
+      - '{''id'': 104, ''label'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: incident_employees_involved
+      label: Incident Employees Involved
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 201, ''label'': ''John'', ''value'': ''John''}'
+      - '{''id'': 202, ''label'': ''Jane'', ''value'': ''Jane''}'
+      - '{''id'': 203, ''label'': ''Jim'', ''value'': ''Jim''}'
+      required: true
+    - id: 9
+      name: witness
+      label: Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_contact
+      label: Witness contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_cause
+      label: Incident cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter
+      label: Incident reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_contact
+      label: Supervisor contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: action_plan
+      label: Action plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_comments
+      label: Incident comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_notes
+      label: Incident notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_reported
+      label: Reported
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 301, ''label'': True, ''value'': ''Reported''}'
+      - '{''id'': 302, ''label'': False, ''value'': False}'
+      required: true
+    - id: 19
+      name: shift_start_lat
+      label: Shift start lat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: shift_start_lng
+      label: Shift start lng
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: shift_end_lat
+      label: Shift end lat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: shift_end_lng
+      label: Shift end lng
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_notes
+      label: Supervisor notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_date_utc
+      label: Incident date utc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false

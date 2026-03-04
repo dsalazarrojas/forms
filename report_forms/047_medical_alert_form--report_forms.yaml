@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Alert Form
+    pages:
+    - id: 1
+      name: medical_alert_form_1
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_alert_date
+      label: medical_alert_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_alert_type
+      label: medical_alert_type
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Non-critical
+      - Urgent
+      required: true
+    - id: 5
+      name: reason_for_alert
+      label: reason_for_alert
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_team_name
+      label: medical_team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_team_contact
+      label: medical_team_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_team_contact_phone
+      label: medical_team_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_team_contact_email
+      label: medical_team_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: medical_team_status
+      label: medical_team_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_team_location
+      label: medical_team_location
+      hint: null
+      type: text
+      options: []
+      required: false

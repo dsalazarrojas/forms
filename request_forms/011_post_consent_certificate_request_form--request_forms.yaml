@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Consent Certificate Request Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: program name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent_date
+      label: consent date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: program_id
+      label: program id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: program_type
+      label: program type
+      hint: null
+      type: select_one
+      options:
+      - type_1
+      - type_2
+      required: false
+    - id: 7
+      name: training_level
+      label: training level
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 9
+      name: certificate_type
+      label: certificate type
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 10
+      name: request_reason
+      label: request reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

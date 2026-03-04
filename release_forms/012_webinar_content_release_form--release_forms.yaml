@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Content Release Form
+    pages:
+    - id: 1
+      name: release_form_title
+      label: Release Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_form_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: release_form_description
+      label: Release Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_form_contributors
+      label: Contributors
+      hint: List of contributors (comma separated)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_form_permission
+      label: Permission
+      hint: Check to agree to the release form
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Undecided''}'
+      required: false
+    - id: 6
+      name: release_form_agreement
+      label: Agreement
+      hint: Check if you have read and agree to the release form
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Undecided''}'
+      required: false
+    - id: 7
+      name: release_form_nda
+      label: Non Disclosure Agreement
+      hint: Attach your NDA to share
+      type: text
+      options: []
+      required: false

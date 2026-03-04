@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitting Release Form
+    pages:
+    - id: 1
+      name: parent_name_1
+      label: Parent or Guardian One Name
+      hint: Legal name of first parent
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name_2
+      label: Parent or Guardian Two Name
+      hint: Legal name of second parent if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Primary Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: child_one_name
+      label: First Child Name
+      hint: Full name of first child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_one_dob
+      label: First Child Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: child_two_name
+      label: Second Child Name
+      hint: Full name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: child_two_dob
+      label: Second Child Date of Birth
+      hint: MM/DD/YYYY if applicable
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: child_three_name
+      label: Third Child Name
+      hint: Full name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: child_three_dob
+      label: Third Child Date of Birth
+      hint: MM/DD/YYYY if applicable
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: babysitter_name
+      label: Babysitter Name
+      hint: Full name of caregiver
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: babysitter_phone
+      label: Babysitter Phone
+      hint: Caregiver contact number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: care_schedule
+      label: Regular Care Schedule
+      hint: Days and times of care
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: start_date
+      label: Care Start Date
+      hint: When does care begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: liability_release
+      label: Liability Release
+      hint: I release babysitter from liability for ordinary negligence
+      type: select_one
+      options:
+      - Yes, I release
+      - No, I do not release
+      required: true
+    - id: 17
+      name: emergency_authorization
+      label: Emergency Medical Authorization
+      hint: I authorize emergency medical treatment if needed
+      type: select_one
+      options:
+      - Yes, authorized
+      - No, not authorized
+      required: true
+    - id: 18
+      name: transportation_permission
+      label: Transportation Permission
+      hint: Can babysitter transport children
+      type: select_one
+      options:
+      - Yes, with restrictions
+      - Yes, no restrictions
+      - No, not permitted
+      required: true
+    - id: 19
+      name: visitor_permission
+      label: Visitor Permission
+      hint: Can babysitter have visitors or bring guests
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: screen_time_rules
+      label: Screen Time Permission
+      hint: Can children use screens during care
+      type: select_one
+      options:
+      - Yes, with limits
+      - Yes, no limits
+      - No screens allowed
+      required: true
+    - id: 21
+      name: outing_permission
+      label: Outing Permission
+      hint: Can babysitter take children on outings
+      type: select_one
+      options:
+      - Yes, to public places
+      - Yes, with prior approval
+      - No, stay at home only
+      required: true
+    - id: 22
+      name: photo_permission
+      label: Photo Permission
+      hint: Can babysitter take and share photos of children
+      type: select_one
+      options:
+      - Yes, for personal use only
+      - Yes, including social media
+      - No photos allowed
+      required: true
+    - id: 23
+      name: termination_notice
+      label: Termination Notice Period
+      hint: How much notice for ending arrangement
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 1 month
+      - As needed
+      required: true
+    - id: 24
+      name: parent_signature_date
+      label: Date Signed
+      hint: Date of this release
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: agreement_accepted
+      label: Agreement Acceptance
+      hint: I have read and agree to all terms
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

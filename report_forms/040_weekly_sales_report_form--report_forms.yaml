@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_sales_report_form
+    pages:
+    - id: 1
+      name: week
+      label: weekly_sales_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: sales_amount
+      label: sales_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sales_channel
+      label: sales_channel
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: sales_region
+      label: sales_region
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: weekly_sales
+      label: weekly_sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sales_manager
+      label: sales_manager
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: sales_email
+      label: sales_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: sales_phone
+      label: sales_phone
+      hint: null
+      type: text
+      options: []
+      required: false

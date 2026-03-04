@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marina Boat Collision Incident Report Form
+    pages:
+    - id: 1
+      name: marina_staff_name
+      label: Marina Staff
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: marina_staff_email
+      label: Marina Staff Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: marina_staff_phone
+      label: Marina Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: boat_name
+      label: Boat Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: boat_type
+      label: Boat Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: videos
+      label: Videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_details
+      label: Other Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: witness_list_label
+      label: Witness List
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: witness_vehicles
+      label: Witness Vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: witness_vehicles_label
+      label: Witness Vehicles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: witness_vessels
+      label: Witness Vessels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: witness_vessels_label
+      label: Witness Vessels
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: witness_crew
+      label: Witness Crew
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: witness_crew_label
+      label: Witness Crew
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: marina_staff_comments
+      label: Marina Staff Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: boat_operator
+      label: Boat Operator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: boat_operator_label
+      label: Boat Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witness_statement_1
+      label: Witness Statement 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: witness_statement_2
+      label: Witness Statement 2
+      hint: null
+      type: text
+      options: []
+      required: false

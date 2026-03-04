@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Diagnostics Usability Testing Registration
+    pages:
+    - id: 1
+      name: remote_diagnostics_usability_testing_registration
+      label: remote_diagnostics_usability_testing_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Participant''}'
+      - '{''id'': 2, ''label'': ''Moderator''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_status_ending_date
+      label: participant_status_ending_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: diagnostic_category
+      label: diagnostic_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: diagnostic_type
+      label: diagnostic_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: diagnostic_sub_type
+      label: diagnostic_sub_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: diagnostic_description
+      label: diagnostic_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: diagnostic_status
+      label: diagnostic_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: false
+    - id: 12
+      name: diagnostic_notes
+      label: diagnostic_notes
+      hint: null
+      type: text
+      options: []
+      required: false

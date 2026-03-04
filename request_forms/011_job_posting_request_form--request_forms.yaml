@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Posting Request Form
+    pages:
+    - id: 1
+      name: job_posting_request_form
+      label: Submit New Job Posting
+      hint: null
+      type: select_one
+      options:
+      - Job Title
+      - Job Description
+      - Job Location
+      - Job Type
+      - Job Category
+      - Job Requirements
+      - Job Level
+      - Job Status
+      - Job Tags
+      required: false
+    - id: 2
+      name: job_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Internship
+      required: false
+    - id: 5
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Marketing
+      - Sales
+      - HR
+      required: false
+    - id: 6
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Entry Level
+      - Mid Level
+      - Senior Level
+      required: false
+    - id: 8
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: job_tags
+      label: Job Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_url
+      label: Job URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_posting_date
+      label: Job Posting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: job_status_date
+      label: Job Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_posting_status
+      label: Job Posting Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: job_category_description
+      label: Job Category Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: job_requirements_description
+      label: Job Requirements Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: job_posting_comments
+      label: Job Posting Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_posting_image
+      label: Job Posting Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

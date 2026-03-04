@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: flight_punctuality_statistics_report
+    pages:
+    - id: 1
+      name: report_form
+      label: Flight Punctuality Statistics Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Airline
+      - Airport
+      - Other
+      required: false
+    - id: 3
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: select_one
+      options:
+      - On time
+      - Delayed
+      - Cancelled
+      required: false
+    - id: 6
+      name: delay_reason
+      label: Delay Reason
+      hint: null
+      type: select_multiple
+      options:
+      - ATC
+      - Weather
+      - Maintenance
+      - Mechanical
+      - Other
+      required: false
+    - id: 7
+      name: flight_duration
+      label: Flight Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delay_duration
+      label: Delay Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: delay_cause
+      label: Delay Cause
+      hint: null
+      type: select_multiple
+      options:
+      - Air Traffic Control
+      - Weather
+      - Aircraft Maintenance
+      - Other
+      required: false

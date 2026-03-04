@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: California Rental Lease Agreement Form
+    pages:
+    - id: 1
+      name: landlord_name
+      label: Landlord Name
+      hint: Full legal name or company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: landlord_address
+      label: Landlord Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: landlord_email
+      label: Landlord Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: landlord_phone
+      label: Landlord Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenant_name
+      label: Tenant Name
+      hint: Full legal name of tenant
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tenant_email
+      label: Tenant Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: tenant_phone
+      label: Tenant Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Full address of rental property
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_city
+      label: City
+      hint: City of property
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_state
+      label: State
+      hint: State (California)
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_zip
+      label: ZIP Code
+      hint: ZIP code of property
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: Type of rental property
+      type: select_one
+      options:
+      - Single family home
+      - Apartment
+      - Condominium
+      - Townhouse
+      - Duplex
+      - Studio
+      - Room in shared housing
+      - Other
+      required: true
+    - id: 13
+      name: lease_start_date
+      label: Lease Start Date
+      hint: When does lease begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: lease_end_date
+      label: Lease End Date
+      hint: When does lease end
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: lease_type
+      label: Lease Type
+      hint: Type of lease agreement
+      type: select_one
+      options:
+      - Fixed term
+      - Month-to-month
+      - Year-to-year
+      - Other
+      required: true
+    - id: 16
+      name: monthly_rent
+      label: Monthly Rent Amount
+      hint: Rent amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: rent_due_date
+      label: Rent Due Date
+      hint: What day is rent due
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: security_deposit
+      label: Security Deposit
+      hint: Deposit amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Accepted Payment Methods
+      hint: How can tenant pay rent
+      type: select_multiple
+      options:
+      - Check
+      - Money order
+      - Bank transfer
+      - Online payment
+      - Cash
+      - Other
+      required: false
+    - id: 20
+      name: late_fee
+      label: Late Fee
+      hint: Late fee amount
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: grace_period
+      label: Grace Period
+      hint: Days before late fee applies
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: number_of_occupants
+      label: Number of Occupants
+      hint: Total people living in unit
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: occupant_names
+      label: Occupant Names
+      hint: Names of all occupants
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: pets_allowed
+      label: Pets Allowed
+      hint: Are pets permitted
+      type: select_one
+      options:
+      - No pets allowed
+      - Cats allowed
+      - Dogs allowed
+      - Small pets only
+      - Case by case
+      required: true
+    - id: 25
+      name: pet_deposit
+      label: Pet Deposit
+      hint: Additional pet deposit if applicable
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: parking_included
+      label: Parking Included
+      hint: Is parking included
+      type: select_one
+      options:
+      - No parking
+      - Street parking
+      - 1 space included
+      - 2 spaces included
+      - Garage parking
+      required: false
+    - id: 27
+      name: utilities_included
+      label: Utilities Included
+      hint: Which utilities are included
+      type: select_multiple
+      options:
+      - None
+      - Water
+      - Garbage
+      - Electricity
+      - Gas
+      - Internet
+      - Cable
+      - All utilities
+      required: false
+    - id: 28
+      name: smoking_allowed
+      label: Smoking Policy
+      hint: Is smoking permitted
+      type: select_one
+      options:
+      - No smoking
+      - Smoking allowed outside only
+      - Smoking allowed in designated areas
+      - Smoking permitted
+      required: true
+    - id: 29
+      name: lease_terms_acknowledgment
+      label: Lease Terms Acknowledgment
+      hint: Do you agree to all lease terms
+      type: select_one
+      options:
+      - Yes, I agree to all terms
+      - No, I do not agree
+      required: true
+    - id: 30
+      name: landlord_signature
+      label: Landlord Signature
+      hint: Digital signature or typed name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: landlord_signature_date
+      label: Landlord Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: tenant_signature
+      label: Tenant Signature
+      hint: Digital signature or typed name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: tenant_signature_date
+      label: Tenant Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: additional_terms
+      label: Additional Terms
+      hint: Any special conditions or addendums
+      type: text
+      options: []
+      required: false

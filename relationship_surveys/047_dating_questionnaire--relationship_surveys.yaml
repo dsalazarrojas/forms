@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dating Questionnaire
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_meeting
+      label: Date Of Meeting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: level_of_compatibility
+      label: Level Of Compatibility
+      hint: null
+      type: select_one
+      options:
+      - high
+      - low
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - engaged
+      - married
+      - divorced
+      - single
+      required: false
+    - id: 14
+      name: date_of_last_contact
+      label: Date Of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: partner_level_of_compatibility
+      label: Partner Level Of Compatibility
+      hint: null
+      type: select_one
+      options:
+      - high
+      - low
+      required: false

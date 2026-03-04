@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: playwright_script_reproduction_release_form
+    pages:
+    - id: 1
+      name: playwright_script_id
+      label: Playwright Script ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: production_company
+      label: Production Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: production_title
+      label: Production Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: script_version
+      label: Script Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: permission_level
+      label: Permission Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Custom
+      required: true
+    - id: 6
+      name: performance_dates
+      label: Performance Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: production_notes
+      label: Production Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: script_reproduction
+      label: Script Reproduction
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: reproduction_notes
+      label: Reproduction Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - Theater
+      - School
+      - Production Organization
+      required: true
+    - id: 15
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - Planned
+      - In Progress
+      - Completed
+      required: true
+    - id: 16
+      name: review_required
+      label: Review Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: review_type
+      label: Review Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_required
+      label: Approval Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: approval_notes
+      label: Approval Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: production_manager
+      label: Production Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: production_manager_phone
+      label: Production Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: production_manager_email
+      label: Production Manager Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: production_manager_notes
+      label: Production Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true

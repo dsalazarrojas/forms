@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: relationship_statement_submission
+    pages:
+    - id: 1
+      name: introduction
+      label: What is this form for
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: couple_details
+      label: Relationship Details
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_history
+      label: Relationship History
+      hint: Provide a detailed history of your relationship
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature2
+      label: Signature 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: Provide a detailed contact information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,55 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fire Department Incident Report
+    pages:
+    - id: 1
+      name: call_type
+      label: Call Type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Rescue
+      - Medical
+      - Other
+      required: false
+    - id: 2
+      name: situation_founded
+      label: Situation Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: officer_in_charge
+      label: Officer In Charge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: units_involved
+      label: Units Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: call_number
+      label: Call Number
+      hint: null
+      type: text
+      options: []
+      required: false

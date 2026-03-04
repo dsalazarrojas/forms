@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_consent_release_form
+    pages:
+    - id: 1
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_providers
+      label: Healthcare Providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: printed_name
+      label: Printed Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: printed_date
+      label: Printed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: printed_hospital_name
+      label: Printed Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: healthcare_organization
+      label: Healthcare Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

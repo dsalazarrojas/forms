@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Environmental Monitoring Registration Form
+    pages:
+    - id: 1
+      name: factory_name
+      label: Factory Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: monitor_conditions
+      label: Monitor Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: monitor_start_date
+      label: Monitor Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: monitor_stop_date
+      label: Monitor Stop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: monitor_frequency
+      label: Monitor Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: monitor_location
+      label: Monitor Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false

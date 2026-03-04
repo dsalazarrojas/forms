@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Defect Root Cause Request Form
+    pages:
+    - id: 1
+      name: manufacturing_defect_root_cause_request_form
+      label: Manufacturing Defect Root Cause Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

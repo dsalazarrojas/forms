@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Use Optimization Program Registration Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: total_water_used
+      label: Total Water Used
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: water_source
+      label: Water Source
+      hint: null
+      type: select_one
+      options:
+      - Aquifer
+      - Well
+      - Reservoir
+      - River
+      - Lake
+      required: true
+    - id: 9
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: program_goal
+      label: Program Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Bob
+      - Joe
+      required: false

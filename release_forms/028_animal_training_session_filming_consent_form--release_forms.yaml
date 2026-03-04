@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Training Session Filming Consent Form
+    pages:
+    - id: 1
+      name: client_name_legal
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_name_trained
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainer_name_lead
+      label: Lead Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_date_time
+      label: Date of Training Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: filming_permission_status
+      label: Permission to Record Session
+      hint: I grant permission to film or record this training session
+      type: select_one
+      options:
+      - I grant permission
+      - I do not grant permission
+      required: true
+    - id: 6
+      name: educational_use_consent
+      label: Use of Footage for Educational Purposes
+      hint: May be shown to other trainers or in classes
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - For internal use only
+      required: true
+    - id: 7
+      name: promotional_use_consent
+      label: Use of Footage for Promotional Purposes
+      hint: May be used on social media or website
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - For private use only
+      required: true
+    - id: 8
+      name: filming_liability_waiver
+      label: Liability Waiver for Filming Activities
+      hint: I agree to waive liability for issues related to recording
+      type: select_one
+      options:
+      - I agree to waive liability
+      - Other
+      required: true
+    - id: 9
+      name: footage_restriction_notes
+      label: Specific Restrictions on Footage Use
+      hint: e.g. Do not show my face, only the animal
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_acknowledgment
+      label: Digital Signature
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

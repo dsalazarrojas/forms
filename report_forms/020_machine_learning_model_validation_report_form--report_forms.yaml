@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Learning Model Validation Report Form
+    pages:
+    - id: 1
+      name: model_selection
+      label: Model Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: model_name
+      label: Model Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_source
+      label: Data Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: model_type
+      label: Model Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: model_version
+      label: Model Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: model_status
+      label: Model Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: validation_results
+      label: Validation Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: model_developer_name
+      label: Model Developer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_signature
+      label: Reviewer's Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

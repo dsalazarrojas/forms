@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Retail Performance Report
+    pages:
+    - id: 1
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: week_start_date
+      label: Week Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: week_end_date
+      label: Week End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sales
+      label: Sales
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: transactions
+      label: Transactions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: foot_traffic
+      label: Foot Traffic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: inventory_status
+      label: Inventory Status
+      hint: null
+      type: select_one
+      options:
+      - In Stock
+      - Out of Stock
+      - Damaged
+      required: true
+    - id: 8
+      name: store_locations
+      label: Store Locations
+      hint: null
+      type: select_multiple
+      options:
+      - Head Office
+      - Store 1
+      - Store 2
+      required: true
+    - id: 9
+      name: sales_channels
+      label: Sales Channels
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false
+    - id: 10
+      name: sales_channels_2
+      label: Sales Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false
+    - id: 11
+      name: customer_segment
+      label: Customer Segment
+      hint: null
+      type: select_multiple
+      options:
+      - Young Adults
+      - Seniors
+      - Families
+      required: true
+    - id: 12
+      name: average_ticket
+      label: Average Ticket
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: average_tickets
+      label: Average Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_revenue
+      label: Total Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_customers
+      label: Total Customers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: repeat_customers
+      label: Repeat Customers
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: customer_acquisition_costs
+      label: Customer Acquisition Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: customer_acquisition_costs_2
+      label: Customer Acquisition Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: customer_retention_costs
+      label: Customer Retention Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: customer_retention_costs_2
+      label: Customer Retention Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: average_order_value
+      label: Average Order Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: average_order_value_2
+      label: Average Order Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: order_value_distribution
+      label: Order Value Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 24
+      name: customer_segments_2
+      label: Customer Segment
+      hint: null
+      type: select_multiple
+      options:
+      - Young Adults
+      - Seniors
+      - Families
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

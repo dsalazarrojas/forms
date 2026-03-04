@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Patient Census Report
+    pages:
+    - id: 1
+      name: page1
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: unit
+      hint: null
+      type: select_one
+      options:
+      - ICU
+      - prophets
+      required: false
+    - id: 3
+      name: page2_unit
+      label: unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page2_prophet
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page3
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: page3_date
+      label: date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page3_date_2
+      label: date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: page4
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page4_prophets
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page5
+      label: staffing
+      hint: null
+      type: select_multiple
+      options:
+      - RN
+      - LPN
+      - MD
+      - RN
+      - LPN
+      - MD
+      required: false

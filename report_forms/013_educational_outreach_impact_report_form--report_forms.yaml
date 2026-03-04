@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Outreach Impact Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_website
+      label: School Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: outreach_goals
+      label: Outreach Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: school_partners
+      label: School Partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: school_partners_other
+      label: Other School Partners
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: program_length
+      label: Program Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: staff_involved
+      label: Staff Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: total_staff_hours
+      label: Total Staff Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: student_participants
+      label: Student Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: student_participants_other
+      label: Other Student Participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: email_notifications
+      label: Email Notifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: send_reminders
+      label: Send Reminders
+      hint: null
+      type: text
+      options: []
+      required: false

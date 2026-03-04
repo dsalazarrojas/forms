@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Rental Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rental_start_date
+      label: Rental Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rental_end_date
+      label: Rental End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 10
+      name: rent_term
+      label: Rent Term
+      hint: null
+      type: select_multiple
+      options:
+      - 6 months
+      - 12 months
+      - 18 months
+      - 24 months
+      required: true
+    - id: 11
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: move_in_time
+      label: Move In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Condo
+      required: true
+    - id: 14
+      name: property_size
+      label: Property Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: move_out_time
+      label: Move Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: renter_status
+      label: Renter Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Passive
+      - Inactive
+      required: true
+    - id: 19
+      name: move_in_location
+      label: Move In Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: move_out_location
+      label: Move Out Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: security_deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: lease_agreement
+      label: Lease Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rental_agreement_date
+      label: Rental Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: date
+      options: []
+      required: false

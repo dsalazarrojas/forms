@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Body Repair Service Request Form
+    pages:
+    - id: 1
+      name: customer_details_header
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_details_header
+      label: -- Vehicle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: car_make
+      label: Car Make
+      hint: e.g. Chevrolet
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: car_model
+      label: Car Model
+      hint: e.g. Silverado
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: car_year
+      label: Car Year
+      hint: e.g. 2022
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: license_plate
+      label: License Plate
+      hint: For vehicle identification
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_details_header
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_required
+      label: Service Required
+      hint: Select all that apply to the damage
+      type: select_multiple
+      options:
+      - Dent Repair
+      - Scratch Repair
+      - Paint Job
+      - Frame Alignment
+      - Bumper Repair
+      - Window Glass Repair
+      required: true
+    - id: 12
+      name: damage_description
+      label: Damage Description
+      hint: Briefly describe how the damage occurred or what needs fixing
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: insurance_claim
+      label: Is this an insurance claim?
+      hint: Select yes if you are filing through insurance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: insurance_company_name
+      label: Insurance Company Name
+      hint: Only if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: Choose a date for vehicle inspection
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_driveable
+      label: Is the vehicle driveable?
+      hint: Does it need to be towed to the shop?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

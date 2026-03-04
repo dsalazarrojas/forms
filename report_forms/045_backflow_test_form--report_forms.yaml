@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backflow Test Form
+    pages:
+      - id: 1
+        name: tester_name
+        label: Tester name
+        hint: Certified tester
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: company
+        label: Company
+        hint: Testing company name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: test_date
+        label: Test date
+        hint: Date of backflow test
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: location
+        label: Test location address
+        hint: Site address
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: assembly_id
+        label: Assembly identification
+        hint: Device serial or tag
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: test_results
+        label: Test results summary
+        hint: Pass or fail and readings
+        type: select_one
+        options: [Pass, Fail]
+        required: true
+      - id: 7
+        name: observed_issues
+        label: Observed issues and recommendations
+        hint: Describe any faults found
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: remediation_required
+        label: Remediation required
+        hint: Select if repairs are needed
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 9
+        name: follow_up_date
+        label: Suggested follow up date
+        hint: If remediation required
+        type: date
+        options: []
+        required: false
+      - id: 10
+        name: tester_signature
+        label: Tester signature name
+        hint: Typed name certifies test
+        type: text
+        options: []
+        required: true

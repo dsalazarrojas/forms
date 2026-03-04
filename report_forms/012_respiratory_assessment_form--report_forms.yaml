@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Respiratory Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: respiratory_symptoms
+      label: Respiratory Symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lung_function
+      label: Lung Function
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: oxygen_delivery_method
+      label: Oxygen Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Oxygen Nasal Cannula''}'
+      - '{''value'': ''Oxygen Mask''}'
+      - '{''value'': ''Oxygen Hood''}'
+      - '{''value'': ''Oxygen Nasal Tube''}'
+      required: true
+    - id: 8
+      name: breathing_difficulties
+      label: Breathing Difficulties
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Chest Pain''}'
+      - '{''value'': ''Shortness of Breath''}'
+      - '{''value'': ''Blue Tinge''}'
+      - '{''value'': ''Difficulty Breathing''}'
+      required: true
+    - id: 9
+      name: respiratory_status
+      label: Respiratory Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Stable''}'
+      - '{''value'': ''Unstable''}'
+      - '{''value'': ''Critical''}'
+      required: true
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Asthma''}'
+      - '{''value'': ''COPD''}'
+      - '{''value'': ''Pneumonia''}'
+      required: false
+    - id: 11
+      name: oxygen_level
+      label: Oxygen Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: heart_rate
+      label: Heart Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''70-79 mmHg''}'
+      - '{''value'': ''80-89 mmHg''}'
+      - '{''value'': ''90-99 mmHg''}'
+      - '{''value'': ''100-109 mmHg''}'
+      required: false
+    - id: 14
+      name: respiratory_rate_1
+      label: Respiratory Rate 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: respiratory_rate_2
+      label: Respiratory Rate 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: respiratory_rate_3
+      label: Respiratory Rate 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: oxygen_level_2
+      label: Oxygen Level 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: blood_pressure_2
+      label: Blood Pressure 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''90-99 mmHg''}'
+      - '{''value'': ''100-109 mmHg''}'
+      - '{''value'': ''110-119 mmHg''}'
+      required: false
+    - id: 19
+      name: respiratory_rate_4
+      label: Respiratory Rate 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: respiratory_rate_5
+      label: Respiratory Rate 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: oxygen_level_3
+      label: Oxygen Level 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: blood_pressure_3
+      label: Blood Pressure 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''110-119 mmHg''}'
+      - '{''value'': ''120-129 mmHg''}'
+      - '{''value'': ''130-139 mmHg''}'
+      required: false
+    - id: 23
+      name: respiratory_status_2
+      label: Respiratory Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Stable''}'
+      - '{''value'': ''Unstable''}'
+      - '{''value'': ''Critical''}'
+      required: false
+    - id: 24
+      name: medical_condition_2
+      label: Medical Condition 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Asthma''}'
+      - '{''value'': ''COPD''}'
+      - '{''value'': ''Pneumonia''}'
+      required: false

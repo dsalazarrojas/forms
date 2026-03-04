@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cards Design Request
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_company_practice_name
+      label: Company/Practice Name
+      hint: Optional if for personal use
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email_address
+      label: Contact Email Address
+      hint: We will send your design proofs here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: card_specifications_header
+      label: -- Card Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: card_type_selected
+      label: Card Type
+      hint: Select the purpose of the card
+      type: select_one
+      options:
+      - label: Business Card
+        value: business
+      - label: Greeting Card
+        value: greeting
+      - label: Thank You Card
+        value: thank_you
+      - label: Postcard
+        value: postcard
+      - label: Custom Request
+        value: custom
+      required: true
+    - id: 7
+      name: card_size_dimensions
+      label: Card Size
+      hint: Select the preferred dimensions
+      type: select_one
+      options:
+      - label: Standard (3.5 x 2)
+        value: standard
+      - label: Square (2.5 x 2.5)
+        value: square
+      - label: A7 (5.25 x 7.25)
+        value: a7
+      - label: Custom Dimensions
+        value: custom
+      required: true
+    - id: 8
+      name: orientation_layout_selected
+      label: Orientation
+      hint: Horizontal or Vertical
+      type: select_one
+      options:
+      - label: Horizontal (Landscape)
+        value: horizontal
+      - label: Vertical (Portrait)
+        value: vertical
+      required: true
+    - id: 9
+      name: material_finish_selection
+      label: Material & Finish
+      hint: Select the paper type and coating
+      type: select_one
+      options:
+      - label: Premium Matte (16pt)
+        value: matte
+      - label: High-Gloss (UV Coating)
+        value: gloss
+      - label: Recycled Kraft
+        value: recycled
+      - label: Pearl (Metallic)
+        value: pearl
+      required: true
+    - id: 10
+      name: quantity_ordered_total
+      label: Quantity
+      hint: Select the number of cards
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: design_elements_header
+      label: -- Design & Text Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: design_upload_link_reference
+      label: Design/Logo Upload or Link
+      hint: Link to your logo or design assets (e.g., Dropbox/Drive)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: card_text_messaging_content
+      label: Card Text and Messaging
+      hint: Enter the exact text to be printed on the card
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: brand_colors_hex_codes
+      label: Brand Colors (Hex Codes)
+      hint: e.g.,
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_deadline_date
+      label: Requested Deadline Date
+      hint: When do you need these delivered?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_comments_request
+      label: Additional Design Request Details
+      hint: Any specific font or layout requests
+      type: text
+      options: []
+      required: false

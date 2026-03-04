@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bathroom Furniture Quote Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_type
+      label: Project Type
+      hint: What type of project
+      type: select_one
+      options:
+      - New Installation
+      - Remodel
+      - Replacement
+      - Addition
+      - Commercial Project
+      required: true
+    - id: 5
+      name: bathroom_type
+      label: Bathroom Type
+      hint: Which room
+      type: select_one
+      options:
+      - Master Bathroom
+      - Guest Bathroom
+      - Powder Room
+      - Kids Bathroom
+      - En-Suite
+      - Multiple Bathrooms
+      required: true
+    - id: 6
+      name: furniture_items
+      label: Furniture Items Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vanity Cabinet
+      - Vanity Top
+      - Mirror
+      - Medicine Cabinet
+      - Linen Cabinet
+      - Storage Tower
+      - Shelving Unit
+      - Bench or Stool
+      - Complete Set
+      required: true
+    - id: 7
+      name: style_preference
+      label: Style Preference
+      hint: Design style
+      type: select_one
+      options:
+      - Modern
+      - Traditional
+      - Contemporary
+      - Rustic
+      - Farmhouse
+      - Industrial
+      - Coastal
+      - Transitional
+      required: true
+    - id: 8
+      name: color_preference
+      label: Color Preference
+      hint: Preferred finish
+      type: select_one
+      options:
+      - White
+      - Black
+      - Gray
+      - Brown
+      - Natural Wood
+      - Blue
+      - Green
+      - Custom
+      required: false
+    - id: 9
+      name: size_requirements
+      label: Size Requirements
+      hint: Dimensions or space available
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - $5,000 - $10,000
+      - Over $10,000
+      required: true
+    - id: 11
+      name: timeline
+      label: Project Timeline
+      hint: When do you need this
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - Just Planning
+      required: true
+    - id: 12
+      name: installation_needed
+      label: Installation Service Needed
+      hint: Do you need installation
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 13
+      name: property_address
+      label: Property Address
+      hint: Delivery address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_details
+      label: Additional Details
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Assessment
+    pages:
+    - id: 1
+      name: travel_assessment_1
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: select_one_travelling_type
+      label: Travelling Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Domestic'', ''value'': ''Domestic''}'
+      - '{''id'': 2, ''name'': ''International'', ''value'': ''International''}'
+      required: false
+    - id: 10
+      name: select_multiple_travel_modes
+      label: Travel Mode
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Car'', ''value'': ''Car''}'
+      - '{''id'': 2, ''name'': ''Train'', ''value'': ''Train''}'
+      - '{''id'': 3, ''name'': ''Plane'', ''value'': ''Plane''}'
+      - '{''id'': 4, ''name'': ''Bus'', ''value'': ''Bus''}'
+      required: false
+    - id: 11
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Agent 1'', ''value'': ''Agent 1''}'
+      - '{''id'': 2, ''name'': ''Agent 2'', ''value'': ''Agent 2''}'
+      required: false
+    - id: 13
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false

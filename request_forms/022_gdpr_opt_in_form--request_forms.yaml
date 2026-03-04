@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: GDPR Opt In Form
+    pages:
+    - id: 1
+      name: optin
+      label: I want to receive updates and marketing offers from you.
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false

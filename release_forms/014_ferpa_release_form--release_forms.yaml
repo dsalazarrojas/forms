@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ferpa Release Form
+    pages:
+    - id: 1
+      name: release_form
+      label: Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: release_form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: release_form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: release_form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: release_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: release_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: release_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: release
+      label: release_form_release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Visibility Access Request Form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_requestor
+      label: the_requestor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''requestor_1''}'
+      - '{''value'': ''requestor_2''}'
+      - '{''value'': ''requestor_3''}'
+      required: false
+    - id: 3
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''request_type_1''}'
+      - '{''value'': ''request_type_2''}'
+      - '{''value'': ''request_type_3''}'
+      required: false
+    - id: 4
+      name: inventory_item
+      label: inventory_item
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''item_1''}'
+      - '{''value'': ''item_2''}'
+      - '{''value'': ''item_3''}'
+      required: false
+    - id: 5
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''access_level_1''}'
+      - '{''value'': ''access_level_2''}'
+      - '{''value'': ''access_level_3''}'
+      required: false
+    - id: 6
+      name: request_start_date
+      label: request_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: request_end_date
+      label: request_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_request
+      label: submit_request
+      hint: null
+      type: text
+      options: []
+      required: false

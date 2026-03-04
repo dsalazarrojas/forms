@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Incident Report Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_affected
+      label: Staff Affected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: responder_name
+      label: Responder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: responder_contact
+      label: Responder Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_to
+      label: Report To
+      hint: null
+      type: select_one
+      options:
+      - Assistant Principal
+      - Counselor
+      - Teacher
+      - Other
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

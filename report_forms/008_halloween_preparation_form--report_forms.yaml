@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Preparation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''event_type_1'', ''label'': ''Trick-or-Treat''}'
+      - '{''id'': 2, ''name'': ''event_type_2'', ''label'': ''Costume Party''}'
+      - '{''id'': 3, ''name'': ''event_type_3'', ''label'': ''Horror Movie Night''}'
+      required: false
+    - id: 6
+      name: guests
+      label: Guests
+      hint: Number of guests expected
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: staff
+      label: Staff
+      hint: Number of staff attending
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: food
+      label: Food
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''food_1'', ''label'': ''Pizza''}'
+      - '{''id'': 2, ''name'': ''food_2'', ''label'': ''Cake''}'
+      - '{''id'': 3, ''name'': ''food_3'', ''label'': ''Popcorn''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false

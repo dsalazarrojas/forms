@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: official_statement_submission_form
+    pages:
+    - id: 1
+      name: submitter_details
+      label: Submitter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_date_time
+      label: Incident Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident_description
+      hint: Describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship
+      label: relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_involvement
+      label: incident_involvement
+      hint: Were other individuals involved in the incident?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_reporter
+      label: incident_reporter
+      hint: Who reported the incident?
+      type: select_one
+      options:
+      - Manager
+      - Employee
+      - Visitor
+      required: false
+    - id: 12
+      name: incident_description2
+      label: incident_description2
+      hint: Additional Information
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_signature
+      label: submitter_signature
+      hint: null
+      type: text
+      options: []
+      required: false

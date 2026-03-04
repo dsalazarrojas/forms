@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Location History Form
+    pages:
+    - id: 1
+      name: contact_history_1
+      label: contact_history_1_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: contact_history_2
+      label: contact_history_2_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_history_3
+      label: contact_history_3_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: infected_individual
+      label: infected_individual_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_id
+      label: form_id_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sync_apps
+      label: sync_apps_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: easy_customize
+      label: easy_customize_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: fill_device
+      label: fill_device_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

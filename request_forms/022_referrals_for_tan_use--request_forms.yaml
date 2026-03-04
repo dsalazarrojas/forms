@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referrals (for TAN Use)
+    pages:
+    - id: 1
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_relationship
+      label: Referral Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: referral_phone
+      label: Referral Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_email
+      label: Referral Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: referral_note
+      label: Referral Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: number_of_referrals
+      label: Number of Referrals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_referrals_2
+      label: More Referrals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: referral_source_2
+      label: Referral Source 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: GDPR Photo Release Form
+    pages:
+    - id: 1
+      name: photo_release_form_subject_name
+      label: Subject Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: photo_release_form_subject_age
+      label: Subject Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: photo_release_form_subject_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photo_release_form_parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: photo_release_form_subject_contact
+      label: Subject Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_release_form_release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: photo_release_form_image_description
+      label: Image Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_release_form_image_date_taken
+      label: Date Taken
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: photo_release_form_image_time_taken
+      label: Time Taken
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: photo_release_form_image_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photo_release_form_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

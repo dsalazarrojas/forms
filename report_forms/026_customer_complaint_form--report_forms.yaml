@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_complaint_form
+    pages:
+    - id: 1
+      name: customer_complaint_form
+      label: customer_complaint_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: product_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_description
+      label: complaint_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_complaint_email
+      label: customer_complaint_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

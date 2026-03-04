@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Study Room Reservation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_input
+      label: Room Selection
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Main Library''}'
+      - '{''label'': ''Annex''}'
+      - '{''label'': ''Law Library''}'
+      required: true
+    - id: 3
+      name: start_date_time
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date_time
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Quiet Room''}'
+      - '{''label'': ''Group Study Room''}'
+      - '{''label'': ''Study Room''}'
+      required: true
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: affiliation
+      label: Affiliation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student''}'
+      - '{''label'': ''Faculty''}'
+      required: true
+    - id: 9
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

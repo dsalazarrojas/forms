@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operations Planning Assistance Request Form
+    pages:
+    - id: 1
+      name: request_form_1
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: operations_planning_assistance_request_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 3
+      name: operations_planning_assistance_request_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: operations_planning_assistance_request_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: operations_planning_assistance_request_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: operations_planning_assistance_request_form_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: operations_planning_assistance_request_form_request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: operations_planning_assistance_request_form_request_notes
+      label: Request Notes
+      hint: Provide any additional notes regarding your request.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: operations_planning_assistance_request_form_support_request_type
+      label: Support Request Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false

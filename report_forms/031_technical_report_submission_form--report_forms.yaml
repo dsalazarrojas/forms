@@ -1,0 +1,61 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: technical-report-submission-form
+    pages:
+    - id: 1
+      name: report_form
+      label: Technical Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: author_details
+      label: Author Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''John''}'
+      required: false
+    - id: 4
+      name: report_comments
+      label: Report Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: technical_report_submission_form_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: technical_report_submission_form_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

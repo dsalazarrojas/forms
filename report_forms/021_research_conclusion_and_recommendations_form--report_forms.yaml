@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Research Conclusion And Recommendations Form
+    pages:
+    - id: 1
+      name: research_conclusion
+      label: Research Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: action_plan
+      label: Action Plan
+      hint: Describe the action plan for the recommendations
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: research_type
+      label: Research Type
+      hint: null
+      type: select_one
+      options:
+      - Research 1
+      - Research 2
+      - Research 3
+      required: true
+    - id: 7
+      name: research_status
+      label: Research Status
+      hint: Select the current status of the research
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Not Started
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 9
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 10
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

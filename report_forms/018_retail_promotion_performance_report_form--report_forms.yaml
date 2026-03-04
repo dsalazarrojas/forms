@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประก Retail Promotion Performance Report Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: campaign_start
+      label: Campaign Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: campaign_end
+      label: Campaign End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campaign_type
+      label: Campaign Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 6
+      name: product_name_goals
+      label: Product Name Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: campaign_location
+      label: Campaign Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: campaign_budget
+      label: Campaign Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: campaign_media_channels
+      label: Campaign Media Channels
+      hint: null
+      type: select_multiple
+      options:
+      - option_5
+      - option_6
+      - option_7
+      - option_8
+      required: false
+    - id: 11
+      name: product_promotion_channels
+      label: Product Promotion Channels
+      hint: null
+      type: select_multiple
+      options:
+      - option_9
+      - option_10
+      - option_11
+      - option_12
+      required: false
+    - id: 12
+      name: promotion_message
+      label: Promotion Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

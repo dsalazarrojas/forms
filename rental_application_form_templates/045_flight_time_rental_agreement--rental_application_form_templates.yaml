@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Time Rental Agreement
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: aircraft_type
+      label: Aircraft Type
+      hint: null
+      type: select_one
+      options:
+      - Aircraft 1
+      - Aircraft 2
+      - Aircraft 3
+      - Aircraft 4
+      - Aircraft 5
+      required: true
+    - id: 6
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rental_start_time
+      label: Rental Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: rental_end_time
+      label: Rental End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: terms_accepted
+      label: Terms & Conditions
+      hint: null
+      type: select_one
+      options:
+      - I have read and agreed to the terms and conditions
+      - I have not read and agreed to the terms and conditions
+      required: true
+    - id: 10
+      name: signed_at
+      label: Signed At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: aircraft_id
+      label: Aircraft ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: aircraft_owner_id
+      label: Owner ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: aircraft_owner
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: aircraft_type_id
+      label: Type ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: aircraft_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      required: true
+    - id: 17
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: user_signature
+      label: User Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: user_name_2
+      label: User Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: user_email_2
+      label: User Email 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_phone_2
+      label: User Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

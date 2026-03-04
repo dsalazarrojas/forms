@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_services_fee_schedule_request
+    pages:
+    - id: 1
+      name: it_services
+      label: it_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_options
+      label: service_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pricing
+      label: pricing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferred_service_times
+      label: preferred_service_times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultant_info
+      label: consultant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_service_dates
+      label: preferred_service_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: it_services_fee_schedule_request_submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

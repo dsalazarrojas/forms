@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Living Safety Awareness Consent Form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: unit_number
+      label: Unit or Room Number
+      hint: Your unit or room identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: move_in_date
+      label: Move-In Date
+      hint: Date you moved in or will move in
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: Your relationship to the contact
+      type: select_one
+      options:
+      - Spouse or Partner
+      - Parent
+      - Sibling
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions to Note
+      hint: Any medical conditions staff should know
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mobility_assistance
+      label: Require Mobility Assistance
+      hint: Do you need mobility accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: safety_guidelines_acknowledgment
+      label: I Have Read Safety Guidelines
+      hint: You confirm reading all safety rules
+      type: select_one
+      options:
+      - Yes I Have Read
+      - No I Have Not
+      required: true
+    - id: 12
+      name: fire_safety_acknowledgment
+      label: Fire Safety Procedures Acknowledged
+      hint: You understand fire evacuation procedures
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 13
+      name: emergency_exits_location
+      label: Do You Know Emergency Exit Locations
+      hint: Can you locate all emergency exits
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: fire_extinguisher_location
+      label: Do You Know Fire Extinguisher Locations
+      hint: Can you locate fire extinguishers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: first_aid_kit_location
+      label: Do You Know First Aid Kit Location
+      hint: Do you know where first aid kits are
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: security_features_acknowledgment
+      label: Security Features Acknowledged
+      hint: You understand security systems in place
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Explanation
+      required: true
+    - id: 17
+      name: guest_policy_acknowledgment
+      label: Guest Policy Acknowledged
+      hint: You understand rules about visitors
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 18
+      name: noise_policy_acknowledgment
+      label: Noise Policy Acknowledged
+      hint: You understand quiet hours and noise rules
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 19
+      name: common_area_rules
+      label: Common Area Rules Acknowledged
+      hint: You understand shared space etiquette
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 20
+      name: reporting_procedures
+      label: Incident Reporting Procedures Known
+      hint: Do you know how to report issues
+      type: select_one
+      options:
+      - Yes I Know How
+      - No Please Explain
+      required: true
+    - id: 21
+      name: safety_equipment_use
+      label: Willing to Use Safety Equipment
+      hint: You agree to use provided safety equipment
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 22
+      name: participation_in_drills
+      label: Will Participate in Safety Drills
+      hint: You will join scheduled safety drills
+      type: select_one
+      options:
+      - Yes I Will
+      - No I Cannot
+      required: false
+    - id: 23
+      name: consent_to_contact
+      label: Consent to Contact Emergency Contact
+      hint: Staff may contact your emergency contact if needed
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not
+      required: true
+    - id: 24
+      name: liability_understanding
+      label: Liability Terms Understood
+      hint: You understand liability limitations
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Clarification
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date of Acknowledgment
+      hint: Today date
+      type: date
+      options: []
+      required: true

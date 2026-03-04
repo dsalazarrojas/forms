@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: google_report_a_problem_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: problem_description
+      label: problem_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: screenshot
+      label: screenshot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: problem_type
+      label: problem_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: problem_details
+      label: problem_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: problem_priority
+      label: problem_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: problem_solution
+      label: problem_solution
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: problem_category
+      label: problem_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: problem_description_details
+      label: problem_description_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

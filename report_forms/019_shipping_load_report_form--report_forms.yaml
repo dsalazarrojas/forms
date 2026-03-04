@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Load Report Form
+    pages:
+    - id: 1
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_datetime
+      label: pickup_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipment_number
+      label: shipment_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shipment_type
+      label: shipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''LTL''}'
+      - '{''id'': 2, ''label'': ''LCL''}'
+      - '{''id'': 3, ''label'': ''FTL''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: pickup_date
+      label: pickup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipment_weight
+      label: shipment_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipment_volume
+      label: shipment_volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipment_length
+      label: shipment_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipment_width
+      label: shipment_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: shipment_height
+      label: shipment_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: delivery_location
+      label: delivery_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_datetime
+      label: delivery_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: shipment_status
+      label: shipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In Transit''}'
+      - '{''id'': 2, ''label'': ''Delivered''}'
+      - '{''id'': 3, ''label'': ''On Hold''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_at
+      label: created_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: created_by_user
+      label: created_by_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by_user
+      label: updated_by_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipment_service
+      label: shipment_service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Standard''}'
+      - '{''id'': 2, ''label'': ''Express''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: shipment_carrier
+      label: shipment_carrier
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''UPS''}'
+      - '{''id'': 2, ''label'': ''FedEx''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: shipment_tracking_number
+      label: shipment_tracking_number
+      hint: null
+      type: text
+      options: []
+      required: false

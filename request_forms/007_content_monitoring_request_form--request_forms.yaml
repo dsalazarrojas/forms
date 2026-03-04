@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Monitoring Request Form
+    pages:
+    - id: 1
+      name: requestor_header
+      label: -- Requestor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Name of Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Legal and Compliance
+      - Marketing and PR
+      - Product Development
+      - Customer Support
+      - Human Resources
+      required: true
+    - id: 4
+      name: content_target_header
+      label: -- Content for Monitoring --
+      hint: Specify the content that requires ongoing review
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: content_source_url
+      label: Content URL or Social Media Handle
+      hint: The exact location of the content to monitor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: monitoring_frequency
+      label: Desired Monitoring Frequency
+      hint: How often should we check this content
+      type: select_one
+      options:
+      - Real-time Alerts
+      - Daily Summary
+      - Weekly Audit
+      - Monthly Review
+      required: true
+    - id: 7
+      name: monitoring_reason
+      label: Reason for Monitoring
+      hint: What are we looking for
+      type: select_one
+      options:
+      - Brand Sentiment Tracking
+      - Competitor Activity
+      - Compliance and Policy Violations
+      - Copyright Infringement
+      - Customer Feedback and Reviews
+      required: true
+    - id: 8
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Routine monitoring
+      - Medium - Active campaign or issue
+      - High - Legal or PR crisis
+      required: true
+    - id: 9
+      name: notification_method
+      label: Preferred Notification Method
+      hint: How should we send the reports
+      type: select_one
+      options:
+      - Email Digest
+      - Slack Channel Notification
+      - Dashboard Update
+      - SMS for Urgent Issues
+      required: true
+    - id: 10
+      name: duration_of_monitoring
+      label: Duration of Monitoring (Days)
+      hint: How long should this request remain active
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: additional_instructions
+      label: Special Instructions
+      hint: Any specific keywords or phrases to watch for
+      type: text
+      options: []
+      required: false

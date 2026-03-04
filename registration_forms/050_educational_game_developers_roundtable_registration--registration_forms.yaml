@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Game Developers Roundtable Registration
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Developer
+      - Organizer
+      - Sponsor
+      - Attendee
+      required: false
+    - id: 3
+      name: session_interests
+      label: Session Interests
+      hint: null
+      type: select_multiple
+      options:
+      - AI and Machine Learning
+      - Game Design
+      - Game Engines
+      - Game Engines and Tools
+      - Game Theory
+      - Game Writing
+      - Mathematics and Algorithms
+      - Physics Engines
+      - Programming
+      - Storytelling
+      - Virtual Reality
+      required: false
+    - id: 4
+      name: discussion_topics
+      label: Discussion Topics
+      hint: null
+      type: select_multiple
+      options:
+      - AI and Machine Learning
+      - Business and Marketing
+      - Game Engines and Tools
+      - Game Theories and Mechanic
+      - Mathematics and Algorithm
+      - Narrative and Storytelling
+      - Physics and Math
+      - Programming
+      - Virtual Reality
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

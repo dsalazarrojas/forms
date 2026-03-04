@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Seating Change Request Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Passenger Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: booking_reference
+      label: Booking Reference (PNR)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_request
+      label: -- Seat Change Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_seat_number
+      label: Current Seat Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requested_seat_number
+      label: Requested Seat Number (If specific)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: select_one
+      options:
+      - Group seating request
+      - Medical or mobility reasons
+      - Preferred seat location (Window/Aisle)
+      - Extra legroom request
+      - Cabin upgrade inquiry
+      - Other
+      required: true
+    - id: 9
+      name: change_description
+      label: Details of Change Request
+      hint: Please explain why you would like to change your seat
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: group_members
+      label: Names of Group Members (If applicable)
+      hint: If changing seats to sit together
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_confirmation
+      label: I have medical documentation for this request (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 12
+      name: urgency_level
+      label: Urgency of Request
+      hint: null
+      type: select_one
+      options:
+      - High (Travel within 24 hours)
+      - Medium (Travel within 7 days)
+      - Low (Travel after 7 days)
+      required: true
+    - id: 13
+      name: follow_up_method
+      label: Preferred Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: true
+    - id: 14
+      name: consent_statement
+      label: I understand that seat changes are subject to availability and airline
+        policies
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true

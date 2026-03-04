@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_request_form
+    pages:
+    - id: 1
+      name: research_request_form_page
+      label: research_request_form_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_details
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: research_study
+      label: research_study
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: research_study_options
+      label: research_studies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: research_type
+      label: research_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: study_details
+      label: study_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: study_details_options
+      label: study_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: research_contact
+      label: research_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: research_contact_phone
+      label: research_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: research_contact_email
+      label: research_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

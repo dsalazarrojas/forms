@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Training Registration Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - Government Program
+      - Non-Government Program
+      required: false
+    - id: 9
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_multiple
+      options:
+      - In-Person
+      - Online
+      - Hybrid
+      - Virtual
+      required: false
+    - id: 10
+      name: training_hours
+      label: Total Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_cost
+      label: Total Training Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: false
+    - id: 13
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

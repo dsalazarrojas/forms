@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: registrant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dance_category
+      label: dance_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: academy_name
+      label: academy_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contest_festival_name
+      label: contest_festival_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category_name
+      label: category_name
+      hint: null
+      type: text
+      options: []
+      required: false

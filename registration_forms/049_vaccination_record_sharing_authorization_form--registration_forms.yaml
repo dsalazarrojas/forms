@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Record Sharing Authorization Form
+    pages:
+    - id: 1
+      name: sharing_authorization
+      label: Sharing Authorization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sharing_institution
+      label: Sharing Institution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sharing_institution_id
+      label: Sharing Institution ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sharing_who
+      label: Sharing Who
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''healthcare provider'', ''label'': ''Healthcare provider'',
+        ''value'': ''Healthcare provider''}'
+      - '{''id'': 2, ''name'': ''insurance company'', ''label'': ''Insurance company'',
+        ''value'': ''Insurance company''}'
+      required: false
+    - id: 5
+      name: sharing_with_who
+      label: Sharing With
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sharing_with_who_who
+      label: Sharing With Who
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sharing_with_who_who_id
+      label: Sharing With Who ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sharing_date
+      label: Sharing Date
+      hint: null
+      type: date
+      options: []
+      required: false

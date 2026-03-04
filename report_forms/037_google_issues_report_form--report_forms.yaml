@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: google_issues_report_form
+    pages:
+    - id: 1
+      name: issue_subject
+      label: Issue Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: google_product
+      label: Google Product
+      hint: null
+      type: select_one
+      options:
+      - Google Drive
+      - Google Docs
+      - Google Sheets
+      - Google Slides
+      required: false
+    - id: 4
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Bug
+      - Feature Request
+      - General Feedback
+      required: true
+    - id: 5
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: true
+    - id: 7
+      name: reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assignee
+      label: Assignee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reported_at
+      label: Reported At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false

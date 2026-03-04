@@ -1,0 +1,171 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Relationship Strength Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Client Relationship Assessment --
+      hint: Your feedback helps us strengthen our partnership
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship_duration
+      label: How Long Have You Been Our Client?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: true
+    - id: 4
+      name: trust_level
+      label: Level of Trust in Our Organization
+      hint: null
+      type: select_one
+      options:
+      - Very high trust
+      - High trust
+      - Moderate trust
+      - Low trust
+      - Very low trust
+      required: true
+    - id: 5
+      name: reliability
+      label: Our Reliability and Consistency
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: communication_openness
+      label: Openness to Communication
+      hint: How well can you communicate with us?
+      type: select_one
+      options:
+      - Very open
+      - Open
+      - Neutral
+      - Somewhat guarded
+      - Very guarded
+      required: true
+    - id: 7
+      name: value_alignment
+      label: Value and Goal Alignment
+      hint: Do our values align with yours?
+      type: select_one
+      options:
+      - Strongly aligned
+      - Well aligned
+      - Somewhat aligned
+      - Poorly aligned
+      - Not aligned
+      required: true
+    - id: 8
+      name: conflict_history
+      label: History of Conflicts or Issues
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Some
+      - Several
+      - Significant
+      required: true
+    - id: 9
+      name: problem_resolution
+      label: How We Handle Problems
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: mutual_benefit
+      label: Relationship is Mutually Beneficial
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 11
+      name: commitment_level
+      label: Our Commitment to Your Success
+      hint: null
+      type: select_one
+      options:
+      - Extremely committed
+      - Very committed
+      - Committed
+      - Somewhat committed
+      - Not committed
+      required: true
+    - id: 12
+      name: future_prospects
+      label: Outlook for Future of Relationship
+      hint: null
+      type: select_one
+      options:
+      - Very positive
+      - Positive
+      - Neutral
+      - Uncertain
+      - Negative
+      required: true
+    - id: 13
+      name: strengths_of_relationship
+      label: Strongest Aspects of Our Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Resource Allocation Registration Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Treasury-Managed Funds
+      - Non-Treasury-Managed Funds
+      required: false
+    - id: 3
+      name: request_amount
+      label: Request Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: request_details
+      label: Request Details
+      hint: Provide a brief description of the request.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Human Resources
+      - Marketing
+      required: false
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - In Progress
+      required: false
+    - id: 8
+      name: assigned_resources
+      label: Assigned Resources
+      hint: List all resources assigned for this request.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roadside Assistance Membership Renewal Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Roadside Assistance Membership Renewal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_id
+      label: Membership ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: plan
+      label: Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Basic''}'
+      - '{''value'': ''Premium''}'
+      - '{''value'': ''Plus''}'
+      - '{''value'': ''Ultimate''}'
+      required: false
+    - id: 4
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''credit_card''}'
+      - '{''value'': ''bank_transfer''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: payment_terms_accepted
+      label: Terms accepted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''accepted''}'
+      - '{''value'': ''not_accepted''}'
+      - '{''value'': ''declined''}'
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''car''}'
+      - '{''value'': ''truck''}'
+      - '{''value'': ''motorcycle''}'
+      - '{''value'': ''van''}'
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: driver_phone
+      label: Driver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: driver_email
+      label: Driver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: driver_address
+      label: Driver Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: driver_city
+      label: Driver City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: driver_state
+      label: Driver State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: driver_zip
+      label: Driver Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone_2
+      label: Emergency Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

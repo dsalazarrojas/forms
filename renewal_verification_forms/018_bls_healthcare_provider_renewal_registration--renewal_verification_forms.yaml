@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: BLS Healthcare Provider Renewal Registration
+    pages:
+    - id: 1
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: provider_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_license_number
+      label: Current License or Certification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: license_expiration_date
+      label: Current License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: healthcare_role
+      label: Healthcare Role or Credential
+      hint: Nurse, physician, EMT, etc.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_affiliation
+      label: Primary Facility or Organization
+      hint: Hospital, clinic, ambulance service, etc.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: renewal_reason
+      label: Reason for Renewal
+      hint: null
+      type: select_one
+      options:
+      - License expiring soon
+      - Continuing education requirement
+      - Position change
+      - Facility requirement
+      - Other
+      required: true
+    - id: 9
+      name: bls_certification_type
+      label: BLS Certification Type
+      hint: Adult, pediatric, infant CPR, etc.
+      type: select_one
+      options:
+      - Adult CPR
+      - Pediatric CPR
+      - Infant CPR
+      - Healthcare Provider CPR
+      - Advanced Life Support (ALS)
+      - All of the above
+      required: true
+    - id: 10
+      name: preferred_session_date
+      label: Preferred Training Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_session_time
+      label: Preferred Session Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (1pm-5pm)
+      - Evening (6pm-9pm)
+      - Weekend
+      - Flexible
+      required: false
+    - id: 12
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - In-person classroom
+      - Online with testing
+      - Hybrid
+      - No preference
+      required: false
+    - id: 13
+      name: continuing_education_hours
+      label: Continuing Education Hours Completed
+      hint: Since last certification
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: employer_sponsorship
+      label: Will your employer be sponsoring this renewal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false

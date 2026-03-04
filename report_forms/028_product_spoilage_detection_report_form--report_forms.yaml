@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Spoilage Detection Report Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: spoilage_type
+      label: Spoilage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Leaking''}'
+      - '{''label'': ''Moldy''}'
+      - '{''label'': ''Rotten''}'
+      - '{''label'': ''Sour''}'
+      - '{''label'': ''Swollen''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: spoilage_evidence
+      label: Spoilage Evidence
+      hint: Take a photo of the spoilt product
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''New''}'
+      - '{''label'': ''Used''}'
+      - '{''label'': ''Damaged''}'
+      - '{''label'': ''Expiration''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: Where the spoilt product was found
+      type: select_one
+      options:
+      - '{''label'': ''Warehouse''}'
+      - '{''label'': ''Retail''}'
+      - '{''label'': ''Manufacturing''}'
+      - '{''label'': ''Transportation''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: action_taken
+      label: Action Taken
+      hint: What action was taken to address the spoilt product
+      type: select_multiple
+      options:
+      - '{''label'': ''Replaced''}'
+      - '{''label'': ''Reboxed''}'
+      - '{''label'': ''Discarded''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

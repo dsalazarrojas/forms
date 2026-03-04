@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: relationship_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: relationship_status
+      label: what_is_your_relationship_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - It's complicated
+      - Widowed
+      - Divorced
+      - In a civil partnership
+      - '{''Other'': None}'
+      required: true
+    - id: 3
+      name: partner_s_age
+      label: partner_s_age
+      hint: How old is your partner?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: partner_s_gender
+      label: partner_s_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: true
+    - id: 5
+      name: partner_s_income
+      label: partner_s_income
+      hint: What is your partner's income?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: partner_s_education
+      label: partner_s_education
+      hint: What is your partner's education level?
+      type: select_multiple
+      options:
+      - High school
+      - Some college
+      - College or university
+      - University graduate
+      - Some university
+      - Other
+      required: false
+    - id: 7
+      name: partner_s_occupation
+      label: partner_s_occupation
+      hint: What is your partner's occupation?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_s_relationship_length
+      label: partner_s_relationship_length
+      hint: How long have you been in a relationship with your partner?
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: communication
+      label: communication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trust
+      label: trust
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 11
+      name: intimacy
+      label: intimacy
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 12
+      name: conflict
+      label: conflict
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 13
+      name: support
+      label: support
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 14
+      name: partner_s_mood
+      label: partner_s_mood
+      hint: How would you describe your partner's mood?
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: self_mood
+      label: self_mood
+      hint: How would you describe your own mood?
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: relationship_goals
+      label: relationship_goals
+      hint: What are your goals for this relationship?
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: partner_s_goals
+      label: partner_s_goals
+      hint: What are your partner's goals for this relationship?
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: conflict_resolution
+      label: conflict_resolution
+      hint: How do you usually resolve conflicts in your relationship?
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: conflict_resolution_strategies
+      label: conflict_resolution_strategies
+      hint: What strategies do you use to resolve conflicts?
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: communication_style
+      label: communication_style
+      hint: What is your communication style?
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: conflict_frequency
+      label: conflict_frequency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: conflict_topics
+      label: conflict_topics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: conflict_resolution_satisfaction
+      label: conflict_resolution_satisfaction
+      hint: How satisfied are you with conflict resolution in your relationship?
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: relationship_satisfaction
+      label: relationship_satisfaction
+      hint: How satisfied are you with your relationship?
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

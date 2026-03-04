@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Request And Release Form
+    pages:
+    - id: 1
+      name: request_page
+      label: Request Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_page
+      label: Release Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_request
+      label: date_of_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_return
+      label: date_of_return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: device_description
+      label: device_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: device_condition
+      label: device_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: equipment_location
+      label: equipment_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: equipment_name
+      label: equipment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false

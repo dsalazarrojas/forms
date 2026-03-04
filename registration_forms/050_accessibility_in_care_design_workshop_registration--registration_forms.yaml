@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility In Care Design Workshop Registration
+    pages:
+    - id: 1
+      name: section_attendee
+      label: -- Attendee Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: As it should appear on your certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: profession_role
+      label: Professional Role or Title
+      hint: e.g. Clinical Director, Architect, Nurse
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: For workshop link and materials
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_selection
+      label: -- Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workshops_selected
+      label: Select the sessions you wish to attend
+      hint: check all that interest you
+      type: select_multiple
+      options:
+      - Foundations of Universal Design
+      - Designing for Visual Impairment
+      - Neurodiversity in Care Spaces
+      - Mobile Accessibility in Health
+      - Building Accessible Patient Portals
+      required: true
+    - id: 7
+      name: attendance_mode
+      label: Attendance Mode
+      hint: How will you participate?
+      type: select_one
+      options:
+      - In-person (Physical Workshop)
+      - Virtual (Live Stream)
+      - On-demand (Recording only)
+      required: true
+    - id: 8
+      name: section_needs
+      label: -- Personal Accessibility Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_requirements
+      label: Do you have any specific requirements for participation?
+      hint: We want to ensure an inclusive environment
+      type: select_multiple
+      options:
+      - Closed Captioning
+      - Sign Language Interpretation
+      - Accessible Digital Materials
+      - Wheelchair access
+      - Quiet room availability
+      required: false
+    - id: 10
+      name: dietary_notes
+      label: Dietary needs for in-person attendees
+      hint: e.g. allergies, vegan
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_motivation
+      label: -- Motivation and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: learning_objectives
+      label: What is your main goal for attending this workshop?
+      hint: briefly describe your intent
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: organization_size
+      label: Size of your organization
+      hint: used for workshop context
+      type: select_one
+      options:
+      - Solo or Independent
+      - 2-50 employees
+      - 51-500 employees
+      - 500+ employees
+      required: true
+    - id: 14
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: attendance_commitment
+      label: I commit to attending the selected sessions
+      hint: reservation confirmation
+      type: select_one
+      options:
+      - Yes - Confirmed
+      - Other
+      required: true
+    - id: 16
+      name: section_final
+      label: -- Final Note --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: extra_info
+      label: Any other information you would like to share
+      hint: final comments for the organizers
+      type: text
+      options: []
+      required: false

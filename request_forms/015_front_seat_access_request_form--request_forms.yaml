@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Front Seat Access Request Form
+    pages:
+    - id: 1
+      name: front_seat_access_request_form_1
+      label: School or Tour Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: school_or_tour_group
+      label: School or Tour Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: front_seat_access_request_form_2
+      label: Front-Seat Access Request
+      hint: Enter the date of the front-seat access request (YYYY-MM-DD)
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tour_leader_name
+      label: Tour Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_event_date
+      label: School Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: school_event_location
+      label: School Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tour_leader_confirmation
+      label: Tour Leader Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: school_confirmation
+      label: School Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

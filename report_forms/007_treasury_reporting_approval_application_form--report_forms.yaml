@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Reporting Approval Application Form
+    pages:
+    - id: 1
+      name: report_form_details
+      label: Report Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reporting_start_date
+      label: Reporting Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reporting_end_date
+      label: Reporting End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Budget Request Form
+    pages:
+    - id: 1
+      name: section_header_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Name of Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_title
+      label: Title or Position
+      hint: Pastor, ministry leader, committee chair, etc
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_or_ministry
+      label: Department or Ministry
+      hint: Sunday school, music ministry, youth group, etc
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_budget_details
+      label: -- Budget Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: budget_period
+      label: Budget Period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annual
+      - Annual
+      - One-time project
+      required: true
+    - id: 10
+      name: budget_period_dates
+      label: Budget Period Dates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_request_purpose
+      label: -- Request Purpose --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: request_category
+      label: Request Category
+      hint: null
+      type: select_one
+      options:
+      - Personnel
+      - Supplies
+      - Equipment
+      - Programs and events
+      - Facility improvement
+      - Technology
+      - Outreach
+      - Education
+      - Other
+      required: true
+    - id: 13
+      name: request_description
+      label: Description of Request
+      hint: What will the funds be used for and why
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: request_justification
+      label: Justification and Expected Outcomes
+      hint: How will this benefit the church and members
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_financial
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: amount_requested
+      label: Total Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: List items and costs
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: funds_available
+      label: Funds Currently Available in Department
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: previous_requests
+      label: Previous Budget Requests This Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_impact
+      label: -- Impact and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: expected_impact
+      label: Expected Impact on Members
+      hint: Number affected, spiritual growth, community service, etc
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: timeline
+      label: Timeline for Spending
+      hint: When will funds be used
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contingency_plan
+      label: Contingency Plan if Budget is Reduced
+      hint: How would you adjust if funding is partial
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_approval
+      label: -- Approval and Authority --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: authority_approval
+      label: Approved by Department or Committee Authority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending approval
+      required: true
+    - id: 26
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Issue Report Form
+    pages:
+    - id: 1
+      name: reporter_header
+      label: -- Reporter Information --
+      hint: Reports can be submitted anonymously if preferred
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: anonymous_submission
+      label: Do you wish to remain anonymous?
+      hint: null
+      type: select_one
+      options:
+      - Yes, submit anonymously
+      - No, I will provide contact info
+      required: true
+    - id: 3
+      name: reporter_name
+      label: Your Full Name
+      hint: (Only required if not anonymous)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporter_email
+      label: Your Email Address
+      hint: (Only required if not anonymous)
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: issue_details_header
+      label: -- Issue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: issue_category
+      label: Category of the Issue
+      hint: null
+      type: select_one
+      options:
+      - Public Safety (e.g., crime, dangerous site)
+      - Infrastructure (e.g., potholes, streetlights)
+      - Environmental (e.g., pollution, trash dumping)
+      - Public Health (e.g., pests, hygiene)
+      - Zoning or Property Management
+      - Other
+      required: true
+    - id: 7
+      name: issue_location
+      label: Exact Location or Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: neighborhood_name
+      label: Neighborhood Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_first_observed
+      label: Date when the issue was first observed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: issue_description
+      label: Detailed Description of the Issue
+      hint: Please describe what is happening and the impact it has
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: urgency_level
+      label: Urgency of this Issue
+      hint: null
+      type: select_one
+      options:
+      - Low - Routine
+      - Medium - Needs attention soon
+      - High - Immediate concern
+      - Emergency - Threat to life or property
+      required: true
+    - id: 12
+      name: photo_note
+      label: Note - If you have photos, please send them to reports-civic.gov with
+        the tracking ID provided after submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_permission
+      label: Would you like a follow-up on the status of this report?
+      hint: (Requires contact information)
+      type: select_one
+      options:
+      - Yes, please
+      - No thanks
+      required: false
+    - id: 14
+      name: report_verification
+      label: I certify that this information is accurate to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 15
+      name: report_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true

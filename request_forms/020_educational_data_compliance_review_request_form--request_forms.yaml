@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Data Compliance Review Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_type
+      label: data_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_use
+      label: data_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reviewers
+      label: reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: route_to
+      label: route_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: route_to_reviewer
+      label: route_to_reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: route_to_reviewer_email
+      label: route_to_reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: route_to_reviewer_phone
+      label: route_to_reviewer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: route_to_reviewer_notes
+      label: route_to_reviewer_notes
+      hint: null
+      type: note
+      options: []
+      required: false

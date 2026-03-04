@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_service
+      label: Date of service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: provider_name
+      label: Provider name
+      hint: Your provider name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_type
+      label: Claim type
+      hint: null
+      type: select_one
+      options:
+      - Claim
+      - Pre-authorization
+      - Denial
+      required: true
+    - id: 8
+      name: claim_amount
+      label: Claim amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: claim_status
+      label: Claim status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 10
+      name: patient_id
+      label: Patient ID
+      hint: Your patient ID
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Received
+      - Refunded
+      required: true
+    - id: 12
+      name: insurance_info
+      label: Insurance info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: claim_number
+      label: Claim number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: patient_address
+      label: Patient address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_city
+      label: Patient city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_state
+      label: Patient state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      required: false
+    - id: 17
+      name: provider_address
+      label: Provider address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claim_note
+      label: Claim note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: insurance_plan
+      label: Insurance plan
+      hint: null
+      type: select_one
+      options:
+      - Gold
+      - Silver
+      - Bronze
+      required: false
+    - id: 20
+      name: patient_zip
+      label: Patient zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: provider_zip
+      label: Provider zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_country
+      label: Patient country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: provider_country
+      label: Provider country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit card
+      - Bank transfer
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - User
+      - AI
+      - Human
+      required: false

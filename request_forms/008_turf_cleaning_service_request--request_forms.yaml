@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Turf Cleaning Service Request
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Lawn Mowing
+      - Lawn Trimming
+      - Lawn Edging
+      - Yard Cleanup
+      required: false
+    - id: 7
+      name: service_area
+      label: Service Area
+      hint: null
+      type: select_multiple
+      options:
+      - Front Yard
+      - Back Yard
+      - Other
+      required: false
+    - id: 8
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

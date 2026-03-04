@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chargeback Withdrawal Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: transaction_date
+      label: Original Transaction Date
+      hint: Date of purchase
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: transaction_amount
+      label: Transaction Amount
+      hint: Amount in question
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: chargeback_date
+      label: Chargeback Filing Date
+      hint: When chargeback was filed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: merchant_name
+      label: Merchant Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: withdrawal_reason
+      label: Reason for Withdrawal
+      hint: Why withdrawing chargeback
+      type: select_one
+      options:
+      - Issue resolved with merchant
+      - Received refund already
+      - Filed by mistake
+      - Changed my mind
+      - Merchant provided proof
+      - Other
+      required: true
+    - id: 10
+      name: resolution_details
+      label: Describe the Resolution
+      hint: How was the issue resolved
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: merchant_contact
+      label: Merchant Contact Name
+      hint: Who you worked with
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: refund_amount
+      label: Refund Amount Received
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: consent_statement
+      label: Do you understand this withdraws your dispute
+      hint: Acknowledge withdrawal
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need clarification
+      required: true
+    - id: 14
+      name: future_contact
+      label: May merchant contact you for feedback
+      hint: Permission for follow-up
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: signature_date
+      label: Date of This Request
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

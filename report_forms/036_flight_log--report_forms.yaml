@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: flight_log
+    pages:
+    - id: 1
+      name: flight_date
+      label: flight_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_airport
+      label: start_airport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_airport
+      label: end_airport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: crew_members
+      label: crew_members
+      hint: List of crew members on this flight
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: aircraft_model
+      label: aircraft_model
+      hint: null
+      type: text
+      options: []
+      required: false

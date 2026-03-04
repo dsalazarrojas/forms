@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Handyman Quote Request Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - General Maintenance
+      - Emergency Repair
+      - Other
+      required: false
+    - id: 3
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - Repair
+      - Maintenance
+      - Other
+      required: false
+    - id: 5
+      name: estimated_time
+      label: Estimated Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

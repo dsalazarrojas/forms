@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calm Resolve Support Log
+    pages:
+    - id: 1
+      name: session_info_header
+      label: -- Support Session Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Support Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_identifier
+      label: Client Name or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Date of Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_time
+      label: Time of Session
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: session_format
+      label: Session Format
+      hint: null
+      type: select_one
+      options:
+      - Video Call
+      - Phone Call
+      - In-Person
+      - Chat - Text
+      required: true
+    - id: 7
+      name: primary_concerns
+      label: Primary Client Concerns
+      hint: What issues were addressed today?
+      type: select_multiple
+      options:
+      - Stress Management
+      - Conflict Resolution
+      - Emotional Regulation
+      - Work-Life Balance
+      - Relationship Issues
+      - Grief and Loss
+      required: true
+    - id: 8
+      name: session_summary
+      label: Detailed Session Summary
+      hint: Summarize the discussion and outcomes
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: resolution_strategies
+      label: Strategies and Tools Implemented
+      hint: Techniques recommended to the client
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: calmness_rating_pre
+      label: Client Calmness Rating - Pre-Session
+      hint: On a scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: calmness_rating_post
+      label: Client Calmness Rating - Post-Session
+      hint: On a scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: follow_up_required
+      label: Follow-up Actions Required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: follow_up_details
+      label: Follow-up Task Details
+      hint: Describe what needs to be done next
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_session_scheduled
+      label: Next Session Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: coach_reflection
+      label: Internal Coach Reflections
+      hint: Private notes on client progress
+      type: text
+      options: []
+      required: false

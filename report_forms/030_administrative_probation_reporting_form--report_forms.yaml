@@ -1,0 +1,205 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Probation Reporting Form
+    pages:
+    - id: 1
+      name: report_header
+      label: -- Administrative Probation Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the employee on probation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Current position title of the employee
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Department where the employee is working
+      type: select_one
+      options: ["Administration", "Human Resources", "Finance", "Marketing", "Operations", "IT", "Sales", "Customer Service", "Executive", "Other"]
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of the employee's supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_position
+      label: Supervisor Position
+      hint: Position title of the supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: probation_start_date
+      label: Probation Start Date
+      hint: Date when the probationary period began
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: probation_end_date
+      label: Probation End Date
+      hint: Date when the probationary period ends
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: report_period_start
+      label: Report Period Start Date
+      hint: Beginning date of this reporting period
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: report_period_end
+      label: Report Period End Date
+      hint: Ending date of this reporting period
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: attendance_rating
+      label: Attendance Rating
+      hint: Rate the employee's attendance during this period
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 13
+      name: punctuality_rating
+      label: Punctuality Rating
+      hint: Rate the employee's punctuality during this period
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 14
+      name: work_quality_rating
+      label: Work Quality Rating
+      hint: Rate the quality of the employee's work
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 15
+      name: productivity_rating
+      label: Productivity Rating
+      hint: Rate the employee's productivity
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 16
+      name: communication_rating
+      label: Communication Skills Rating
+      hint: Rate the employee's communication skills
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 17
+      name: teamwork_rating
+      label: Teamwork Rating
+      hint: Rate the employee's ability to work with others
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 18
+      name: initiative_rating
+      label: Initiative Rating
+      hint: Rate the employee's initiative and proactivity
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 19
+      name: policy_compliance_rating
+      label: Policy Compliance Rating
+      hint: Rate the employee's compliance with policies
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 20
+      name: incidents_disciplinary_actions
+      label: Incidents or Disciplinary Actions
+      hint: List any incidents or disciplinary actions during this period
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: strengths_identified
+      label: Strengths Identified
+      hint: What strengths has the employee demonstrated?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas need improvement?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: training_development_needs
+      label: Training and Development Needs
+      hint: What training or development does the employee need?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_recommendation
+      label: Overall Recommendation
+      hint: What is your overall recommendation regarding the employee?
+      type: select_one
+      options: ["Extend Probation", "Continue as Planned", "Early Confirmation", "Termination Recommended"]
+      required: true
+    - id: 25
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: Additional comments about the employee's performance
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: report_date
+      label: Report Date
+      hint: Date when this report is completed
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Electronic signature of the supervisor
+      type: text
+      options: []
+      required: true

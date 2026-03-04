@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental History Verification Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rental_application
+      label: Rental Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: verification_details
+      label: Verification Details
+      hint: null
+      type: select_one
+      options:
+      - Landlord
+      - Property Manager
+      - Building Manager
+      - Property Management Company
+      required: false
+    - id: 6
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      required: false
+    - id: 7
+      name: reason_for_not_verified
+      label: Reason for Not Verified
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: verification_result
+      label: Verification Result
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Conditional Approved
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: verified_name
+      label: Verified Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: verified_title
+      label: Verified Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: verified_agency
+      label: Verified Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tenant_contact
+      label: Tenant Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 17
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Multi-Unit
+      required: false
+    - id: 18
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: property_year_built
+      label: Property Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: property_street
+      label: Property Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_city
+      label: Property City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_state
+      label: Property State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_zip
+      label: Property Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_country
+      label: Property Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false

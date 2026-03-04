@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image Upload For Search
+    pages:
+    - id: 1
+      name: search_context
+      label: Search Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: search_image
+      label: Search Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: search_type
+      label: Search Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
