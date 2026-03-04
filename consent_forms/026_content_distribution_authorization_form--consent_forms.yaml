@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Distribution Authorization Form
+    pages:
+    - id: 1
+      name: authorizing_party_name
+      label: Authorizing Party Name
+      hint: Full name or company name granting authorization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: authorizing_party_email
+      label: Authorizing Party Email
+      hint: Email address of authorizing party
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: authorizing_party_phone
+      label: Authorizing Party Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: authorized_party_name
+      label: Authorized Party Name
+      hint: Full name or company receiving authorization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: authorized_party_email
+      label: Authorized Party Email
+      hint: Email address of authorized party
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: authorization_type
+      label: Authorization Type
+      hint: What type of authorization is this?
+      type: select_one
+      options:
+      - Exclusive Distribution
+      - Non-Exclusive Distribution
+      - Limited Distribution
+      - Digital Distribution Only
+      - Print Distribution Only
+      - Full Distribution Rights
+      required: true
+    - id: 8
+      name: content_description
+      label: Content Description
+      hint: Describe the content being authorized
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: content_title
+      label: Content Title
+      hint: Title of the content
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: content_type
+      label: Content Type
+      hint: What format is the content?
+      type: select_one
+      options:
+      - Article
+      - Video
+      - Podcast
+      - Image
+      - Infographic
+      - E-book
+      - White Paper
+      - Multiple Formats
+      required: true
+    - id: 11
+      name: distribution_channels
+      label: Authorized Distribution Channels
+      hint: Where can content be distributed?
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Email Newsletter
+      - Print Publication
+      - Television
+      - Radio
+      - Streaming Platforms
+      - Third-Party Websites
+      required: true
+    - id: 12
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where can content be distributed?
+      type: select_one
+      options:
+      - Local Only
+      - Regional
+      - National
+      - International
+      - Worldwide
+      required: true
+    - id: 13
+      name: authorization_duration
+      label: Authorization Duration
+      hint: How long is this authorization valid?
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Perpetual
+      required: true
+    - id: 14
+      name: start_date
+      label: Authorization Start Date
+      hint: When does authorization begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: end_date
+      label: Authorization End Date
+      hint: When does authorization end?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: modification_rights
+      label: Modification Rights
+      hint: Can the content be modified?
+      type: select_one
+      options:
+      - No Modifications Allowed
+      - Minor Edits Allowed
+      - Significant Edits Allowed
+      - Full Modification Rights
+      required: true
+    - id: 17
+      name: attribution_required
+      label: Attribution Required
+      hint: Must the original creator be credited?
+      type: select_one
+      options:
+      - Yes, Full Attribution
+      - Yes, Partial Attribution
+      - No Attribution Required
+      required: true
+    - id: 18
+      name: compensation_terms
+      label: Compensation Terms
+      hint: What compensation is involved?
+      type: select_one
+      options:
+      - No Compensation
+      - One-Time Fee
+      - Royalty Based
+      - Revenue Share
+      - Trade Agreement
+      required: true
+    - id: 19
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Specify amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: exclusivity_terms
+      label: Exclusivity Terms
+      hint: Is this authorization exclusive?
+      type: select_one
+      options:
+      - Exclusive
+      - Non-Exclusive
+      - Semi-Exclusive
+      required: true
+    - id: 21
+      name: termination_conditions
+      label: Termination Conditions
+      hint: Under what conditions can this be terminated?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: authorization_confirmed
+      label: Authorization Confirmed
+      hint: I confirm and authorize this distribution agreement
+      type: select_one
+      options:
+      - Yes, I Authorize
+      - No, I Do Not Authorize
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true

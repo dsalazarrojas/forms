@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: green_retail_architecture_registration_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registration_interests
+      label: Registration Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Retail Design
+      - Sustainability
+      - Community Engagement
+      - Events
+      - Community Development
+      - Other
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

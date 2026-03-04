@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_office_claim_form
+    pages:
+    - id: 1
+      name: claimant_details
+      label: claimant details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_type
+      label: claim type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Lost Parcel''}'
+      - '{''label'': ''Damaged Parcel''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: post_office
+      label: post office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_service
+      label: delivery service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: claim_details
+      label: claim details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: supporting documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature_time
+      label: signature time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_signature
+      label: reviewer signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: post_office_staff
+      label: post office staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_position
+      label: staff position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: staff_name
+      label: staff name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_contact_number
+      label: staff contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: staff_email
+      label: staff email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: staff_signature
+      label: staff signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_note
+      label: reviewer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_name
+      label: reviewer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_position
+      label: reviewer position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_contact_number
+      label: reviewer contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_email
+      label: reviewer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_signature
+      label: reviewer signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_on
+      label: submitted on
+      hint: null
+      type: date
+      options: []
+      required: false

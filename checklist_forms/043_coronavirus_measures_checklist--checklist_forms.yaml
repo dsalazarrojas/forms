@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Measures Checklist
+    pages:
+    - id: 1
+      name: coronavirus_measures_checklist_form_1
+      label: employee_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 2
+      name: coronavirus_measures_checklist_form_2
+      label: travel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: coronavirus_measures_checklist_form_3
+      label: symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: coronavirus_measures_checklist_form_4
+      label: temperature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: coronavirus_measures_checklist_form_5
+      label: test_results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: coronavirus_measures_checklist_form_6
+      label: recent_travel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: coronavirus_measures_checklist_form_7
+      label: travel_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: coronavirus_measures_checklist_form_8
+      label: symptoms_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

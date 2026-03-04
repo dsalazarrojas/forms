@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Participation Rules Acknowledgment
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal name of auction participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Mailing Address
+      hint: Full address for official correspondence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bidder_registration_number
+      label: Bidder Registration Number
+      hint: Your assigned bidder ID (if already registered)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: auction_event_name
+      label: Auction Event Name
+      hint: Name of the auction event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: auction_date
+      label: Auction Date
+      hint: Date of the auction
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: participation_type
+      label: Participation Type
+      hint: How will you participate?
+      type: select_one
+      options:
+      - In-Person Bidding
+      - Online Bidding
+      - Phone Bidding
+      - Proxy Bidding
+      - Written Bid Submission
+      required: true
+    - id: 9
+      name: rules_read_acknowledgment
+      label: Rules Read Acknowledgment
+      hint: I confirm I have read the auction rules and regulations
+      type: select_one
+      options:
+      - Yes, I have read and understand
+      - No, I need to review the rules
+      required: true
+    - id: 10
+      name: binding_bid_acknowledgment
+      label: Binding Bid Acknowledgment
+      hint: I understand that all bids are binding and legally enforceable
+      type: select_one
+      options:
+      - Yes, I understand and agree
+      - No, I do not agree
+      required: true
+    - id: 11
+      name: buyer_premium_acknowledgment
+      label: Buyer Premium Acknowledgment
+      hint: I understand a buyer premium percentage will be added to winning bids
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 12
+      name: payment_terms_acknowledgment
+      label: Payment Terms Acknowledgment
+      hint: I agree to pay within the specified time frame if I win
+      type: select_one
+      options:
+      - Yes, I agree to payment terms
+      - No, I cannot agree
+      required: true
+    - id: 13
+      name: item_inspection_acknowledgment
+      label: Item Inspection Acknowledgment
+      hint: I understand items are sold as-is and I had opportunity to inspect
+      type: select_one
+      options:
+      - Yes, I understand items are sold as-is
+      - No, I need to inspect items first
+      required: true
+    - id: 14
+      name: removal_deadline_acknowledgment
+      label: Removal Deadline Acknowledgment
+      hint: I agree to remove purchased items by the specified deadline
+      type: select_one
+      options:
+      - Yes, I agree to removal terms
+      - No, I need alternative arrangements
+      required: true
+    - id: 15
+      name: liability_release
+      label: Liability Release
+      hint: I release the auction house from liability related to items purchased
+      type: select_one
+      options:
+      - Yes, I release liability
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: photography_consent
+      label: Photography Consent
+      hint: I consent to being photographed or recorded during the auction
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 17
+      name: data_privacy_acknowledgment
+      label: Data Privacy Acknowledgment
+      hint: I understand my information will be used per the privacy policy
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I need to review privacy policy
+      required: true
+    - id: 18
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: Date of acknowledgment
+      type: date
+      options: []
+      required: true

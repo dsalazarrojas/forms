@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Form
+    pages:
+    - id: 1
+      name: formal_complaint_header
+      label: -- Formal Complaint Intake --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: complainant_full_name
+      label: Complainant Full Name
+      hint: Name of the person filing the complaint
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complainant_email_address
+      label: Contact Email
+      hint: Where we should send updates regarding the complaint
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: complainant_phone_number
+      label: Phone Number
+      hint: Best number for contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_category_formal
+      label: Category of Complaint
+      hint: Select the primary area of concern
+      type: select_one
+      options:
+      - Service Quality
+      - Product Defect / Issue
+      - Staff Behavior / Conduct
+      - Facility / Building Condition
+      - Billing / Payment Dispute
+      - Other
+      required: true
+    - id: 6
+      name: complaint_incident_date_formal
+      label: Date of Incident
+      hint: When did the event occur?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: complaint_incident_time
+      label: Approximate Time of Incident
+      hint: If applicable
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: complaint_location_formal
+      label: Location of Incident
+      hint: e.g., Store Branch, Online Platform, Specific Office
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: full_complaint_narrative
+      label: Detailed Description of the Complaint
+      hint: Provide a full narrative of the events
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: previous_resolution_attempts_formal
+      label: Describe any previous attempts to resolve this issue
+      hint: Who did you speak with and what was the result?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: desired_outcome_formal
+      label: What is your desired outcome or remedy?
+      hint: e.g., Refund, Apology, Change in policy
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: verification_acknowledgment_formal
+      label: I certify that the information provided is true and accurate
+      hint: Formal verification
+      type: select_one
+      options:
+      - I so certify
+      - Other
+      required: true
+    - id: 13
+      name: complaint_submission_date_formal
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

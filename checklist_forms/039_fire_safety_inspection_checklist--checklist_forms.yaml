@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_safety_inspection_checklist
+    pages:
+    - id: 1
+      name: fire_safety_checklist
+      label: fire_safety_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fire_safety_inspection_date
+      label: fire_safety_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fire_safety_inspector_signature
+      label: fire_safety_inspector_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: fire_safety_inspection_completed
+      label: fire_safety_inspection_completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: fire_safety_inspection_notes
+      label: fire_safety_inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fire_safety_inspection_location
+      label: fire_safety_inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_safety_inspector
+      label: fire_safety_inspector
+      hint: null
+      type: select_one
+      options:
+      - Responsible Officer
+      - Supervisor
+      - Director
+      required: false
+    - id: 8
+      name: fire_safety_inspector_title
+      label: fire_safety_inspector_title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fire_safety_inspector_name
+      label: fire_sassistant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fire_safety_inspector_phone
+      label: fire_safety_inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fire_safety_inspector_email
+      label: fire_safety_inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: fire_safety_inspection_location
+      label: fire_safety_inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fire_safety_inspection_location_street
+      label: fire_safety_inspection_location_street
+      hint: null
+      type: text
+      options: []
+      required: false

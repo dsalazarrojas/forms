@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: elevator_inspection_form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: elevator_id
+      label: elevator_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_name
+      label: building_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: floor_number
+      label: floor_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: elevator_type
+      label: elevator_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Passenger''}'
+      - '{''id'': 2, ''name'': ''Freight''}'
+      - '{''id'': 3, ''name'': ''Goods''}'
+      required: false
+    - id: 6
+      name: inspection_status
+      label: inspection_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Complete''}'
+      - '{''id'': 2, ''name'': ''Not Complete''}'
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: elevator_maintenance
+      label: elevator_maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_due_date
+      label: maintenance_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Complete''}'
+      - '{''id'': 2, ''name'': ''Not Complete''}'
+      required: false
+    - id: 11
+      name: maintenance_description
+      label: maintenance_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_cost
+      label: maintenance_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: inspection_comments
+      label: inspection_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: safety_issues
+      label: safety_issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: safety_action
+      label: safety_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspection_comments
+      label: inspection_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Routine Checklist Form
+    pages:
+    - id: 1
+      name: morning_tasks
+      label: Morning Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exercise
+      label: Exercise
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meetings
+      label: Meetings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

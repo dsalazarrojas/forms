@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Innovation Podcast Consent Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: professional_title
+        label: Professional Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: section_podcast
+        label: -- Podcast Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: episode_topic
+        label: Podcast Episode Topic
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: recording_date
+        label: Scheduled Recording Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: section_consent
+        label: -- Consent and Release --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: recording_consent
+        label: I consent to the recording of my voice and image for the podcast
+        hint: null
+        type: select_one
+        options: [Yes, I consent]
+        required: true
+      - id: 10
+        name: ownership_agreement
+        label: I agree that the production team owns all rights to the recording
+        hint: null
+        type: select_one
+        options: [Yes, I agree]
+        required: true
+      - id: 11
+        name: editing_consent
+        label: I understand that the recording may be edited for clarity and length
+        hint: null
+        type: select_one
+        options: [Yes, I understand]
+        required: true
+      - id: 12
+        name: promo_permission
+        label: I grant permission to use my name and bio in promotional materials
+        hint: null
+        type: select_one
+        options: [Yes, I grant permission]
+        required: true
+      - id: 13
+        name: section_limitations
+        label: -- Limitations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: topics_to_avoid
+        label: Are there any specific topics you wish to avoid during the recording?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: edit_review_request
+        label: Do you require a review of the final edit before publishing?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 16
+        name: digital_signature
+        label: Signature - Type Full Name
+        hint: null
+        type: text
+        options: []
+        required: true

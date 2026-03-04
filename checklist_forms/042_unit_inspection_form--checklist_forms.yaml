@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unit Inspection Form
+    pages:
+    - id: 1
+      name: unit_inspection_form
+      label: Unit Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tenant_information
+      label: Tenant Information
+      hint: Please fill out all fields
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: unit_condition
+      label: Unit Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: before_inspection
+      label: Before Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: after_inspection
+      label: After Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: damage_areas
+      label: Damage Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photos
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - New Tenant
+      - Current Tenant
+      required: true
+    - id: 12
+      name: move_in_inspector
+      label: Move In Inspector
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - John
+      required: true
+    - id: 13
+      name: move_out_inspector
+      label: Move Out Inspector
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - John
+      required: true
+    - id: 14
+      name: tenant_status
+      label: Tenant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Vacant
+      required: true
+    - id: 15
+      name: unit_status
+      label: Unit Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Vacant
+      required: true
+    - id: 16
+      name: reason_for_vacancy
+      label: Reason for Vacancy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: lease_length
+      label: Lease Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: security_deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 24
+      name: utility_cost
+      label: Utility Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

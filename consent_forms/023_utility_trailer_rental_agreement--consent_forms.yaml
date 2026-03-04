@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Trailer Rental Agreement
+    pages:
+    - id: 1
+      name: renter_details
+      label: Renter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trailer_info
+      label: Trailer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_dates
+      label: Rental Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: acknowledgment
+      label: Acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: renter_address
+      label: Renter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trailer_type
+      label: Trailer Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rent_start_date
+      label: Rental Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rent_end_date
+      label: Rental End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: trailer_rent
+      label: Trailer Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: trailer_deposit
+      label: Trailer Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

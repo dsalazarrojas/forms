@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Contest Voting Form
+    pages:
+        - id: 1
+          name: section_voter
+          label: -- Voter Information --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 2
+          name: voter_name
+          label: Voter Name
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 3
+          name: voter_email
+          label: Email Address
+          hint: null
+          type: email
+          options: []
+          required: true
+        - id: 4
+          name: voter_affiliation
+          label: Voter Affiliation or Category
+          hint: Judge, professional, public voter, etc.
+          type: select_one
+          options:
+            - Professional judge
+            - Artist
+            - Art enthusiast
+            - General public
+            - Student
+            - Curator
+          required: true
+        - id: 5
+          name: voting_date
+          label: Voting Date
+          hint: null
+          type: date
+          options: []
+          required: true
+        - id: 6
+          name: section_entry_1
+          label: -- Entry 1 Evaluation --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 7
+          name: entry_1_id
+          label: Entry ID Number
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 8
+          name: entry_1_title
+          label: Artwork Title
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 9
+          name: entry_1_artist
+          label: Artist Name - If Identified
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 10
+          name: entry_1_rating
+          label: Quality Rating
+          hint: null
+          type: select_one
+          options:
+            - Excellent
+            - Very good
+            - Good
+            - Fair
+            - Poor
+          required: true
+        - id: 11
+          name: entry_1_vote
+          label: Would You Vote for This Entry
+          hint: null
+          type: select_one
+          options:
+            - Yes - strong vote
+            - Yes - vote
+            - Neutral
+            - No
+            - Strong no
+          required: true
+        - id: 12
+          name: entry_1_comments
+          label: Comments About This Entry
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 13
+          name: section_entry_2
+          label: -- Entry 2 Evaluation --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 14
+          name: entry_2_id
+          label: Entry ID Number
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 15
+          name: entry_2_title
+          label: Artwork Title
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 16
+          name: entry_2_rating
+          label: Quality Rating
+          hint: null
+          type: select_one
+          options:
+            - Excellent
+            - Very good
+            - Good
+            - Fair
+            - Poor
+          required: true
+        - id: 17
+          name: entry_2_vote
+          label: Would You Vote for This Entry
+          hint: null
+          type: select_one
+          options:
+            - Yes - strong vote
+            - Yes - vote
+            - Neutral
+            - No
+            - Strong no
+          required: true
+        - id: 18
+          name: entry_2_comments
+          label: Comments About This Entry
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 19
+          name: section_summary
+          label: -- Overall Contest Feedback --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 20
+          name: overall_quality
+          label: Overall Quality of Submissions
+          hint: null
+          type: select_one
+          options:
+            - Excellent
+            - Very good
+            - Good
+            - Fair
+            - Poor
+          required: true
+        - id: 21
+          name: voting_clarity
+          label: Clarity of Voting Instructions
+          hint: null
+          type: select_one
+          options:
+            - Very clear
+            - Clear
+            - Somewhat clear
+            - Unclear
+            - Very unclear
+          required: true
+        - id: 22
+          name: section_consent
+          label: -- Consent and Agreements --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 23
+          name: voting_integrity
+          label: I certify my vote is fair and impartial
+          hint: null
+          type: select_one
+          options:
+            - Yes, I certify
+            - No
+          required: true
+        - id: 24
+          name: conflict_of_interest
+          label: I have no conflict of interest in this voting
+          hint: No personal or financial interest
+          type: select_one
+          options:
+            - Yes, no conflict
+            - Yes, but disclosed above
+            - No, I have a conflict
+          required: true
+        - id: 25
+          name: confidentiality
+          label: I agree to maintain confidentiality if required
+          hint: null
+          type: select_one
+          options:
+            - Yes, I agree
+            - No
+          required: true

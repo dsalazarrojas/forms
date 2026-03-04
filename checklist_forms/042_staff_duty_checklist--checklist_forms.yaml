@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Duty Checklist
+    pages:
+    - id: 1
+      name: duty_shift
+      label: duty_shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_member
+      label: staff_member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

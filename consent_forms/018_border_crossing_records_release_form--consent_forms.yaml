@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Border Crossing Records Release Form
+    pages:
+    - id: 1
+      name: subject_info_header
+      label: -- Subject Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: passport_no
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: person_nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorization_header
+      label: -- Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: records_period_select
+      label: Time Period for Records Release
+      hint: null
+      type: select_one
+      options:
+      - Past 12 Months
+      - Past 5 Years
+      - All Available Records
+      - Specific Date Range
+      required: true
+    - id: 8
+      name: custom_date_range
+      label: If Specific Date Range - please list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agency_name
+      label: Name of Recipient Agency or Individual
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: agency_address
+      label: Recipient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consent_note
+      label: -- Consent and Signature --
+      hint: By signing below, I authorize the release of my border crossing records.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: understanding_ack
+      label: I understand that this authorization is voluntary
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand and agree
+      - Other
+      required: true
+    - id: 13
+      name: digital_sign
+      label: Digital Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: sign_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true

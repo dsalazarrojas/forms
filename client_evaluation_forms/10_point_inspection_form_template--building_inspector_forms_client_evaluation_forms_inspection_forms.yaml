@@ -1,0 +1,269 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 10 Point Inspection Form
+    pages:
+    - id: 1
+      name: section_header_inspector_site
+      label: '--- Inspector & Site Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector/Auditor Name
+      hint: Full name of the person conducting the inspection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_email
+      label: Inspector Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: inspection_location
+      label: Location / Site Inspected
+      hint: e.g., Building A, Fleet Vehicle
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_asset_details
+      label: '--- Asset / Subject Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: asset_type
+      label: Type of Asset/Subject
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Equipment
+      - Facility
+      - Infrastructure
+      - System
+      - Other
+      required: true
+    - id: 9
+      name: asset_id_number
+      label: Asset ID / Serial Number
+      hint: Unique identifier for the inspected item
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_department
+      label: Client or Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_checklist
+      label: '--- 10-Point Inspection Checklist ---'
+      hint: Rate each point on a scale of 1 (poor) to 5 (excellent) or provide status.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: point_1_structural_integrity
+      label: 1. Structural Integrity / Physical Condition
+      hint: Check for wear, damage, rust, or degradation
+      type: select_one
+      options:
+      - Compliant
+      - Minor Issues
+      - Major Issues
+      - Non-Compliant
+      - N/A
+      required: true
+    - id: 13
+      name: point_2_operational_functionality
+      label: 2. Operational Functionality
+      hint: Is the asset/system operating as intended?
+      type: select_one
+      options:
+      - Fully Functional
+      - Minor Defects
+      - Major Defects
+      - Non-Functional
+      - N/A
+      required: true
+    - id: 14
+      name: point_3_safety_features
+      label: 3. Safety Features & Guards
+      hint: Are all safety mechanisms present and working?
+      type: select_one
+      options:
+      - All OK
+      - Minor Deficiencies
+      - Major Deficiencies
+      - Inoperable
+      - N/A
+      required: true
+    - id: 15
+      name: point_4_cleanliness
+      label: 4. Cleanliness & Housekeeping
+      hint: Area/asset clean, organized, free of debris?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: point_5_documentation
+      label: 5. Documentation & Records (Score 1-5)
+      hint: Availability and completeness of manuals, logs, permits (1=poor, 5=excellent)
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: point_6_environmental_impact
+      label: 6. Environmental Impact (Leaks, Emissions)
+      hint: Check for leaks, spills, excessive noise/emissions
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Severe
+      required: true
+    - id: 18
+      name: point_7_maintenance_status
+      label: 7. Maintenance Status (Visual Check)
+      hint: Recent maintenance, signs of neglect, fluid levels
+      type: select_one
+      options:
+      - Up-to-date
+      - Due Soon
+      - Overdue
+      - Unknown
+      required: true
+    - id: 19
+      name: point_8_power_connections
+      label: 8. Power / Utility Connections
+      hint: Cabling, piping, ventilation secure and undamaged?
+      type: select_one
+      options:
+      - Secure & Intact
+      - Minor Issues
+      - Major Issues
+      - Hazardous
+      required: true
+    - id: 20
+      name: point_9_access_egress
+      label: 9. Access & Egress Routes
+      hint: Clear, unobstructed, safe for movement?
+      type: select_one
+      options:
+      - Clear
+      - Minor Obstructions
+      - Blocked
+      - N/A
+      required: true
+    - id: 21
+      name: point_10_security
+      label: 10. Security Vulnerabilities (Physical)
+      hint: Locks, alarms, perimeter integrity
+      type: select_one
+      options:
+      - Secure
+      - Minor Weaknesses
+      - Major Vulnerabilities
+      - Compromised
+      - N/A
+      required: true
+    - id: 22
+      name: section_header_overall_assessment
+      label: '--- Overall Assessment & Actions ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: overall_compliance_status
+      label: Overall Compliance Status
+      hint: Summarize the compliance level of the inspected item/site
+      type: select_one
+      options:
+      - Fully Compliant
+      - Minor Issues
+      - Major Issues
+      - Non-Compliant
+      required: true
+    - id: 24
+      name: issues_identified
+      label: Issues Identified (select all applicable)
+      hint: Select all categories of issues found during the inspection.
+      type: select_multiple
+      options:
+      - Safety hazard
+      - Documentation gap
+      - Equipment failure
+      - Maintenance lapse
+      - Structural defect
+      - Environmental concern
+      - Security breach
+      - Operational inefficiency
+      - Cleanliness issue
+      - Other
+      required: false
+    - id: 25
+      name: recommended_corrective_actions
+      label: Recommended Corrective Actions
+      hint: Detail what needs to be done to address identified issues, include urgency.
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: follow_up_inspection_date
+      label: Proposed Follow-up Inspection Date
+      hint: Date by which issues should be resolved and re-inspected (if required).
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments / Notes
+      hint: Any other relevant observations or details not covered above.
+      type: text
+      options: []
+      required: false

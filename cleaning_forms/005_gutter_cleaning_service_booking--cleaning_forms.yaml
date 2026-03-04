@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: gutter_cleaning_service_booking
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_information
+      label: Service Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Gutter Cleaning
+      - Gutters and Downspouts
+      - Other
+      required: false
+    - id: 9
+      name: service_address_2
+      label: Service Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false

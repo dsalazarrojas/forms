@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Course Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will use this for course communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_course_selection
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_name
+      label: Course Name
+      hint: Select the coaching course you wish to enroll in
+      type: select_one
+      options:
+      - Foundation Coaching Skills
+      - Advanced Health Coaching
+      - Executive Coaching Certification
+      - Sports Coaching Mastery
+      - Life Coaching Fundamentals
+      required: true
+    - id: 9
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 10
+      name: start_date
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_experience
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coaching_experience
+      label: Do you have previous coaching experience?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: years_experience
+      label: Years of Coaching Experience
+      hint: Enter 0 if no experience
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: certifications
+      label: Relevant Certifications
+      hint: List any coaching or related certifications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_learning_goals
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: learning_objectives
+      label: What are your learning objectives for this course?
+      hint: Please describe your goals
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: course_fee
+      label: Course Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Company Sponsored
+      required: true
+    - id: 20
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: agree_terms
+      label: I agree to the course terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

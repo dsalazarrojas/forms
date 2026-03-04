@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Topical Medication Competency Checklist
+    pages:
+    - id: 1
+      name: assessment_questions
+      label: Assessment Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: medication_names
+      label: Medication Names
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: correct_administration_techniques
+      label: Correct Administration Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: common_side_effects
+      label: Common Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: special_contraindications
+      label: Special Contradictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: observation_and_monitoring
+      label: Observation and Monitoring
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: documentation
+      label: Documentation
+      hint: null
+      type: note
+      options: []
+      required: false

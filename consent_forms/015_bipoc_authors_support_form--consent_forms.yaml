@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: BIPOC Authors Support Form
+    pages:
+    - id: 1
+      name: author_name
+      label: Author Name
+      hint: Your legal or pen name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For all communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: racial_ethnic_identity
+      label: Racial or Ethnic Identity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_writing_genre
+      label: Primary Writing Genre
+      hint: Fiction, poetry, non-fiction, memoir, etc.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: writing_experience
+      label: Years of Writing Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: published_work
+      label: Have you had work previously published?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 8
+      name: current_project
+      label: Tell Us About Your Current Project
+      hint: Title, genre, and brief description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_completion_stage
+      label: Project Completion Stage
+      hint: null
+      type: select_one
+      options:
+      - Concept Stage
+      - First Draft
+      - Editing
+      - Agent/Publisher Ready
+      - Other
+      required: false
+    - id: 10
+      name: support_needs
+      label: What Support Do You Need?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mentorship
+      - Editing Services
+      - Publishing Guidance
+      - Writing Community
+      - Grant Funding
+      - Networking Opportunities
+      - Professional Development
+      required: true
+    - id: 11
+      name: goals_objectives
+      label: What Are Your Writing Goals?
+      hint: Describe your aspirations
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: writing_background
+      label: Writing Background and Training
+      hint: Degrees, workshops, mentors, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: community_engagement
+      label: Are you active in a writing community?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very active
+      - Somewhat active
+      - Not active
+      required: false
+    - id: 14
+      name: consent_to_contact
+      label: I consent to be contacted about this program
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: consent_privacy
+      label: I consent to privacy practices and data use
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 16
+      name: additional_information
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

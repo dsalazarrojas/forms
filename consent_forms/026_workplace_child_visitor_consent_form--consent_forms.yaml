@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Child Visitor Consent Form
+    pages:
+    - id: 1
+      name: workplace_child_visitor_consent_form
+      label: Workplace Child Visitor Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_or_guardian_permission
+      label: Parent or Guardian Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_adults
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: workplace_contact
+      label: Workplace Contact
+      hint: null
+      type: text
+      options: []
+      required: false

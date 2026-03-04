@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Training Form
+    pages:
+    - id: 1
+      name: food_safety_training_form_data
+      label: Food Safety Training History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: areas_for_improvement_2
+      label: Areas for Improvement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: food_safety_knowledge
+      label: Food Safety Knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_last_training
+      label: Date of Last Training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_last_training
+      label: Time of Last Training
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: food_safety_certification_date
+      label: Food Safety Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: food_safety_training_frequency
+      label: Food Safety Training Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every 1-3 months
+      - Every 3-6 months
+      - More than 6 months
+      required: false
+    - id: 10
+      name: food_safety_training_last_date
+      label: Food Safety Training Last Date
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '3'
+      - '6'
+      - '9'
+      required: false
+    - id: 11
+      name: food_safety_training_frequency_last_date
+      label: Food Safety Training Frequency Last Date
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '3'
+      - '6'
+      - '9'
+      required: false
+    - id: 12
+      name: areas_for_improvement_last_date
+      label: Areas for Improvement Last Date
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '3'
+      - '6'
+      - '9'
+      required: false
+    - id: 13
+      name: training_history
+      label: Training History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: food_safety_training_form_data_last_filled_out
+      label: Food Safety Training Form Last Filled Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: food_safety_training_form_filled_out_count
+      label: Food Safety Training Form Filled Out Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trainee_name
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: trainee_email
+      label: Trainee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: trainee_phone
+      label: Trainee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trainer_phone
+      label: Trainer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: food_safety_training_form_version
+      label: Food Safety Training Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: food_safety_training_form_version_history
+      label: Food Safety Training Form Version History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: food_safety_training_form_last_filled_out
+      label: Food Safety Training Form Last Filled Out
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '3'
+      - '6'
+      - '9'
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_platform_beta_testing_consent_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: expectations
+      label: Expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expected_launch_date
+      label: Expected Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: expected_launch_time
+      label: Expected Launch Time
+      hint: null
+      type: time
+      options: []
+      required: false

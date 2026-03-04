@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Research Records Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: select_one
+      options:
+      - Medical Record
+      - Medical Records
+      - Lab Results
+      required: true
+    - id: 6
+      name: medical_record_type_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_of_patient_or_guardian
+      label: Signature of Patient or Guardian
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: date_research_started
+      label: Date Research Started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: date_research_ended
+      label: Date Research Ended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: research_name
+      label: Research Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: researcher_signature
+      label: Researcher Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: research_project
+      label: Research Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: research_supervisor
+      label: Research Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: research_institutional_review_date
+      label: Institutional Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: research_institutional_review_number
+      label: Institutional Review Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: research_institutional_review_status
+      label: Institutional Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Reviewed
+      required: true
+    - id: 24
+      name: research_institutional_review_date
+      label: Institutional Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: research_institutional_review_notes
+      label: Institutional Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false

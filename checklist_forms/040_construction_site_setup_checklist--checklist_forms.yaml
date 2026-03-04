@@ -1,0 +1,296 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Site Setup Checklist
+    pages:
+      - id: 1
+        name: checklist_date
+        label: Checklist Date
+        hint: Date of site setup
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: site_name
+        label: Site Name
+        hint: Name of construction site
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: site_address
+        label: Site Address
+        hint: Full address
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: site_manager
+        label: Site Manager
+        hint: Name of manager
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: general_contractor
+        label: General Contractor
+        hint: Company name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: site_security_fence
+        label: Site Security Fence Installed
+        hint: Perimeter secured
+        type: select_one
+        options:
+          - Yes, Complete
+          - Partially
+          - No
+          - Not Required
+        required: true
+      - id: 7
+        name: site_gates
+        label: Site Gates Installed
+        hint: Entry points secured
+        type: select_one
+        options:
+          - Yes, All
+          - Some
+          - No
+          - Not Required
+        required: true
+      - id: 8
+        name: signage_safety
+        label: Safety Signs Posted
+        hint: Required signage
+        type: select_one
+        options:
+          - Yes, All Posted
+          - Some Posted
+          - No
+        required: true
+      - id: 9
+        name: signage_contact
+        label: Emergency Contact Signs Posted
+        hint: Contact information visible
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: office_trailer
+        label: Office Trailer Set Up
+        hint: Site office ready
+        type: select_one
+        options:
+          - Yes, Complete
+          - In Progress
+          - No
+          - Not Required
+        required: true
+      - id: 11
+        name: utilities_connected
+        label: Utilities Connected
+        hint: Power, water, etc.
+        type: select_one
+        options:
+          - Yes, All
+          - Some Connected
+          - None
+          - Not Required
+        required: true
+      - id: 12
+        name: temporary_power
+        label: Temporary Power Installed
+        hint: Construction power
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Required
+        required: true
+      - id: 13
+        name: temporary_water
+        label: Temporary Water Available
+        hint: Water for construction
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Required
+        required: true
+      - id: 14
+        name: portable_toilets
+        label: Portable Toilets Delivered
+        hint: Sanitation facilities
+        type: select_one
+        options:
+          - Yes, Sufficient
+          - Yes, Limited
+          - No
+        required: true
+      - id: 15
+        name: waste_containers
+        label: Waste Containers Placed
+        hint: Dumpsters and bins
+        type: select_one
+        options:
+          - Yes, Sufficient
+          - Yes, Limited
+          - No
+        required: true
+      - id: 16
+        name: material_storage_area
+        label: Material Storage Area Designated
+        hint: Staging area ready
+        type: select_one
+        options:
+          - Yes, Marked
+          - Yes, Informal
+          - No
+        required: true
+      - id: 17
+        name: parking_area
+        label: Worker Parking Area Designated
+        hint: Parking arranged
+        type: select_one
+        options:
+          - Yes, Marked
+          - Yes, Informal
+          - No
+        required: true
+      - id: 18
+        name: first_aid_station
+        label: First Aid Station Set Up
+        hint: Medical supplies available
+        type: select_one
+        options:
+          - Yes, Fully Stocked
+          - Yes, Basic
+          - No
+        required: true
+      - id: 19
+        name: fire_extinguishers
+        label: Fire Extinguishers Placed
+        hint: In required locations
+        type: select_one
+        options:
+          - Yes, All Placed
+          - Some Placed
+          - No
+        required: true
+      - id: 20
+        name: emergency_exits
+        label: Emergency Exits Marked
+        hint: Egress routes clear
+        type: select_one
+        options:
+          - Yes, All Marked
+          - Some Marked
+          - No
+        required: true
+      - id: 21
+        name: lighting_adequate
+        label: Site Lighting Adequate
+        hint: For early or late work
+        type: select_one
+        options:
+          - Yes, Full Coverage
+          - Yes, Partial
+          - No
+        required: true
+      - id: 22
+        name: equipment_staging
+        label: Equipment Staging Area Ready
+        hint: Space for machinery
+        type: select_one
+        options:
+          - Yes, Prepared
+          - Yes, Needs Work
+          - No
+        required: true
+      - id: 23
+        name: erosion_control
+        label: Erosion Control Measures
+        hint: Silt fences, etc.
+        type: select_one
+        options:
+          - Yes, Installed
+          - Partially
+          - No
+          - Not Required
+        required: true
+      - id: 24
+        name: dust_control
+        label: Dust Control Measures
+        hint: Water trucks, etc.
+        type: select_one
+        options:
+          - Yes, In Place
+          - Partially
+          - No
+        required: true
+      - id: 25
+        name: safety_barriers
+        label: Safety Barriers Installed
+        hint: Around hazards
+        type: select_one
+        options:
+          - Yes, All Areas
+          - Some Areas
+          - No
+        required: true
+      - id: 26
+        name: check_in_station
+        label: Check-In Station Ready
+        hint: For worker sign-in
+        type: select_one
+        options:
+          - Yes, Complete
+          - Basic Setup
+          - No
+        required: true
+      - id: 27
+        name: items_incomplete
+        label: Items Not Complete
+        hint: List any unchecked items
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: action_items
+        label: Action Items
+        hint: What needs to be done
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: site_ready_for_work
+        label: Site Ready for Work
+        hint: Can work begin
+        type: select_one
+        options:
+          - Yes, Fully Ready
+          - Yes, With Minor Items
+          - No, Not Ready
+        required: true
+      - id: 30
+        name: inspector_signature
+        label: Inspector Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true

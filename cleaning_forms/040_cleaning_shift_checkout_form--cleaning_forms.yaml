@@ -1,0 +1,304 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Shift Checkout Form
+    pages:
+      - id: 1
+        name: section_header_shift
+        label: -- Shift Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: checkout_date
+        label: Checkout Date
+        hint: Date of shift checkout
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: checkout_time
+        label: Checkout Time
+        hint: Time shift is ending
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: shift_period
+        label: Shift Period
+        hint: Which shift are you checking out from?
+        type: select_one
+        options:
+          - Early Morning (6 AM - 2 PM)
+          - Afternoon (2 PM - 10 PM)
+          - Evening (10 PM - 6 AM)
+          - All Day
+        required: true
+      - id: 5
+        name: section_header_staff
+        label: -- Staff Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: staff_name
+        label: Staff Member Name
+        hint: Name of person checking out
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: employee_id
+        label: Employee ID
+        hint: Internal employee number
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: supervisor_name
+        label: Shift Supervisor
+        hint: Name of supervisor on duty
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: section_header_facility
+        label: -- Facility Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: facility_name
+        label: Facility Name
+        hint: Name of the facility
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: facility_location
+        label: Facility Location
+        hint: Address or building identifier
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: section_header_completion
+        label: -- Task Completion Summary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: all_assigned_tasks_complete
+        label: All Assigned Tasks Completed?
+        hint: null
+        type: select_one
+        options:
+          - Yes, All Complete
+          - Mostly Complete
+          - Some Incomplete
+          - Many Incomplete
+        required: true
+      - id: 14
+        name: incomplete_tasks
+        label: Tasks Not Yet Completed
+        hint: Describe incomplete work
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: reason_incomplete
+        label: Reason for Incomplete Tasks
+        hint: Why weren't tasks finished?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_header_equipment
+        label: -- Equipment and Supplies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: equipment_status
+        label: Equipment Status at End of Shift
+        hint: How is equipment?
+        type: select_one
+        options:
+          - All Equipment Functioning
+          - Some Equipment Issues
+          - Major Equipment Problems
+        required: true
+      - id: 18
+        name: equipment_issues
+        label: Equipment Issues or Problems
+        hint: Describe any issues found
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: supplies_low
+        label: Supplies Running Low?
+        hint: What needs restocking?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: equipment_returned
+        label: All Equipment Returned and Stored
+        hint: null
+        type: select_one
+        options:
+          - Yes, All Returned
+          - Missing Items
+          - Not Yet Returned
+        required: true
+      - id: 21
+        name: missing_equipment
+        label: Missing or Lost Equipment
+        hint: Describe any missing items
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: section_header_facility_status
+        label: -- Facility Status --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: facility_cleanliness
+        label: Overall Facility Cleanliness
+        hint: How clean is the facility?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 24
+        name: all_doors_locked
+        label: All Doors Locked and Secured
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 25
+        name: lights_off
+        label: All Lights Turned Off
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 26
+        name: hvac_status
+        label: HVAC/Climate Control Off
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: false
+      - id: 27
+        name: security_system
+        label: Security System Activated
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: false
+      - id: 28
+        name: section_header_incidents
+        label: -- Incidents and Observations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: incidents_reported
+        label: Any Incidents or Safety Issues?
+        hint: null
+        type: select_one
+        options:
+          - No Incidents
+          - Minor Incident
+          - Major Incident
+        required: true
+      - id: 30
+        name: incident_description
+        label: Incident Description
+        hint: Details of what happened
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: damage_found
+        label: Any Damage Found?
+        hint: Describe any property damage
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: section_header_handoff
+        label: -- Next Shift Handoff --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: notes_next_shift
+        label: Notes for Next Shift
+        hint: Important information to pass on
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: section_header_supervisor
+        label: -- Supervisor Sign-Off --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 35
+        name: supervisor_approval
+        label: Supervisor Approval of Checkout
+        hint: null
+        type: select_one
+        options:
+          - Approved
+          - Approved with Notes
+          - Not Approved
+          - Pending Review
+        required: false
+      - id: 36
+        name: supervisor_comments
+        label: Supervisor Comments
+        hint: Feedback or observations
+        type: text
+        options: []
+        required: false

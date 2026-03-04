@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: house_cleaning_estimate_form
+    pages:
+    - id: 1
+      name: house_cleaning_estimate_form
+      label: estimate_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: estimated_cost
+      label: estimated_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cleaning_frequency
+      label: cleaning_frequency
+      hint: Select the cleaning frequency
+      type: select_one
+      options:
+      - weekly
+      - bi_weekly
+      - monthly
+      - quarterly
+      required: false
+    - id: 4
+      name: square_footage
+      label: house_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: number_of_rooms
+      label: number_of_rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: estimated_cleaning_time
+      label: estimated_cleaning_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: estimated_cost_per_hour
+      label: estimated_cost_per_hour
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: estimated_total_cost
+      label: estimated_total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: estimated_cleaning_start_time
+      label: cleaning_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: estimated_cleaning_end_time
+      label: cleaning_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: estimated_duration
+      label: estimated_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: estimated_cleaning_frequency
+      label: cleaning_frequency
+      hint: Select the cleaning frequency
+      type: select_one
+      options:
+      - weekly
+      - bi_weekly
+      - monthly
+      - quarterly
+      required: false

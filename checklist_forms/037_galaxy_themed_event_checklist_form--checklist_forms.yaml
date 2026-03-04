@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Galaxy Themed Event Checklist Form
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_organizer
+      label: event organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_details
+      label: event details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_budget
+      label: event budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: event_capacity
+      label: event capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_status
+      label: event status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: true
+    - id: 10
+      name: event_notes
+      label: event notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_participants
+      label: event participants
+      hint: null
+      type: select_multiple
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 12
+      name: event_email
+      label: event email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: event_phone
+      label: event phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_address
+      label: event address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_notes
+      label: event notes
+      hint: null
+      type: text
+      options: []
+      required: false

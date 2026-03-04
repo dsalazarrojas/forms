@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: MCC Panel Technical Checklist
+    pages:
+    - id: 1
+      name: general_checklist
+      label: General Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electrical_checklist
+      label: Electrical Checklist
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Panel lights'', ''label'': ''Panel lights''}'
+      - '{''value'': ''Panel lights 2'', ''label'': ''Panel lights 2''}'
+      - '{''value'': ''Panel lights 3'', ''label'': ''Panel lights 3''}'
+      required: false
+    - id: 3
+      name: mechanical_checklist
+      label: Mechanical Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Panel 1'', ''label'': ''Panel 1''}'
+      - '{''value'': ''Panel 2'', ''label'': ''Panel 2''}'
+      required: false
+    - id: 4
+      name: safety_checklist
+      label: Safety Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_checklist
+      label: Maintenance Checklist
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Panel 1'', ''label'': ''Panel 1''}'
+      - '{''value'': ''Panel 2'', ''label'': ''Panel 2''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Item 1'', ''label'': ''Item 1''}'
+      - '{''value'': ''Item 2'', ''label'': ''Item 2''}'
+      required: false
+    - id: 12
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false

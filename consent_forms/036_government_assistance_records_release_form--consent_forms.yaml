@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Assistance Records Release Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: employee_dob
+      label: Employee DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: government_agency
+      label: Government Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: employee_contact
+      label: Employee Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: release_by
+      label: Release By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: release_date_range
+      label: Release Date Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: release_reason
+      label: Release Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

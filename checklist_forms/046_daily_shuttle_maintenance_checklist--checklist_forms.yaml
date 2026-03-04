@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Shuttle Maintenance Checklist
+    pages:
+    - id: 1
+      name: pre_trip_checklist
+      label: pre_trip_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: issues
+      label: issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issues_details
+      label: issues_details
+      hint: Please describe any issues you have found
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: readiness_to_operate
+      label: readiness_to_operate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: next_maintenance_date
+      label: next_maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - Fleet Management
+      - Facilities Operations
+      - Shuttle Service
+      - Hotel Management
+      - Campus Management
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

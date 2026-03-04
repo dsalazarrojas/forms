@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caller ID Spoofing Complaint Form
+    pages:
+    - id: 1
+      name: complainant_name
+      label: Complainant Name
+      hint: Name of person filing the complaint
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complainant_contact
+      label: Contact Phone or Email
+      hint: Best way for investigators to contact you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Date of Incident
+      hint: When the spoofed call occurred
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: spoofed_number
+      label: Spoofed Caller ID Number
+      hint: The number that appeared on caller ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: receiving_number
+      label: Number Receiving the Call
+      hint: The number on which the spoofed call was received
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description_of_call
+      label: Description of the Call
+      hint: Provide details about what was said or requested
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evidence_files
+      label: Evidence or Supporting Files
+      hint: List attachments or describe screenshots logged
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: severity_rating
+      label: Severity of Impact
+      hint: How severe was the impact on you or your organization
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: police_report_filed
+      label: Police Report Filed
+      hint: Has a report been filed with law enforcement
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: follow_up_preference
+      label: Preferred Follow Up Method
+      hint: How would you like to be contacted for updates
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - No Follow Up
+      required: true

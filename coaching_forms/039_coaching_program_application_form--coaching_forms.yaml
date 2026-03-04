@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Program Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: program_selection
+      label: Program Selection
+      hint: Which program are you applying for
+      type: select_one
+      options:
+      - Life Coaching Certification
+      - Executive Coaching Program
+      - Career Coaching Program
+      - Health Coaching Program
+      - Business Coaching Program
+      - Master Coach Program
+      required: true
+    - id: 7
+      name: program_level
+      label: Program Level
+      hint: What level are you seeking
+      type: select_one
+      options:
+      - Foundation Level
+      - Intermediate Level
+      - Advanced Level
+      - Master Level
+      required: true
+    - id: 8
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When do you want to begin
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest completed education
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      required: true
+    - id: 10
+      name: institution_name
+      label: Institution Name
+      hint: Name of your college or university
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: field_of_study
+      label: Field of Study
+      hint: Your major or area
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_experience_years
+      label: Years of Work Experience
+      hint: Total professional experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 13
+      name: current_occupation
+      label: Current Occupation
+      hint: Your current job
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: employer_name
+      label: Employer Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coaching_experience
+      label: Previous Coaching Experience
+      hint: Describe any coaching background
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: why_this_program
+      label: Why Do You Want to Join This Program
+      hint: Your motivation for applying
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: career_objectives
+      label: Career Objectives
+      hint: What are your professional goals
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: how_will_you_use_certification
+      label: How Will You Use This Certification
+      hint: Your intended application
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: time_commitment_ability
+      label: Can You Commit Required Time
+      hint: Are you available for program
+      type: select_one
+      options:
+      - Yes Fully
+      - Yes With Some Limitations
+      - Not Sure
+      - false
+      required: true
+    - id: 20
+      name: weekly_study_hours
+      label: Hours Per Week for Study
+      hint: How much time can you commit
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-15 hours
+      - 15-20 hours
+      - Over 20 hours
+      required: true
+    - id: 21
+      name: learning_format_preference
+      label: Learning Format Preference
+      hint: How do you want to learn
+      type: select_one
+      options:
+      - Online Self-Paced
+      - Online Live Classes
+      - In Person
+      - Hybrid
+      required: true
+    - id: 22
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: financial_aid_needed
+      label: Do You Need Financial Aid
+      hint: Are you seeking assistance
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 24
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Payment Plan
+      - Employer Sponsored
+      required: false
+    - id: 25
+      name: employer_sponsorship
+      label: Is Employer Sponsoring You
+      hint: Is your company paying
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: false
+    - id: 26
+      name: how_heard_about_program
+      label: How Did You Hear About This Program
+      hint: How did you find us
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral
+      - Advertisement
+      - Event
+      - Other
+      required: false
+    - id: 27
+      name: referral_name
+      label: Who Referred You
+      hint: Name of referrer
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: references_count
+      label: Number of References
+      hint: How many can you provide
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5 or More
+      required: true
+    - id: 29
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_accepted
+      label: I Accept Program Terms and Conditions
+      hint: You agree to program policies
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 31
+      name: application_date
+      label: Application Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

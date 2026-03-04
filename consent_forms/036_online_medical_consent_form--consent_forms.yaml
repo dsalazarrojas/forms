@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Medical Consent Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_contact
+      label: Parent/Guardian Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_data
+      label: Medical Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_waiver
+      label: Consent Waiver
+      hint: null
+      type: select_multiple
+      options:
+      - yes, no
+      - Other
+      required: false
+    - id: 5
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

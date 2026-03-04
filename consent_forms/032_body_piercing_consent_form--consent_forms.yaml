@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Piercing Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: piercer_name
+      label: Piercer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: piercing_location
+      label: Location of Piercing
+      hint: null
+      type: select_one
+      options:
+      - Earlobe
+      - Ear Cartilage
+      - Nostril
+      - Septum
+      - Lip
+      - Tongue
+      - Nipple
+      - Navel
+      - Genital
+      - Other
+      required: true
+    - id: 8
+      name: piercing_type
+      label: Type of Piercing
+      hint: null
+      type: select_one
+      options:
+      - Single Piercing
+      - Multiple Piercings
+      - Surface Piercing
+      - Dermal Implant
+      - Other
+      required: true
+    - id: 9
+      name: jewelry_type
+      label: Type of Jewelry
+      hint: Material and style
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: procedure_understanding
+      label: I understand the piercing procedure
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully understand
+      - Yes, mostly understand
+      - Partially understand
+      - Do not understand
+      required: true
+    - id: 11
+      name: risks_acknowledged
+      label: I acknowledge the risks of piercing
+      hint: Infection, rejection, scarring, etc
+      type: select_one
+      options:
+      - Yes, fully acknowledged
+      - Yes, mostly acknowledged
+      - Partially acknowledged
+      - Not acknowledged
+      required: true
+    - id: 12
+      name: infection_risks_understood
+      label: I understand infection risks
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 13
+      name: rejection_risks
+      label: I understand rejection risks
+      hint: Body rejecting the piercing
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 14
+      name: scarring_risks
+      label: I understand scarring may occur
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 15
+      name: medical_conditions_disclosed
+      label: I have disclosed relevant conditions
+      hint: Diabetes, immune disorders, etc
+      type: select_one
+      options:
+      - Yes - Disclosed
+      - No - No relevant conditions
+      - Unsure
+      required: true
+    - id: 16
+      name: medications_disclosed
+      label: I have disclosed all medications
+      hint: Blood thinners, antibiotics, etc
+      type: select_one
+      options:
+      - Yes - Disclosed
+      - No - Not taking medications
+      - Unsure
+      required: true
+    - id: 17
+      name: allergies_disclosed
+      label: I have disclosed all allergies
+      hint: To metals, antiseptics, anesthetics
+      type: select_one
+      options:
+      - Yes - Disclosed
+      - No - No known allergies
+      - Unsure
+      required: true
+    - id: 18
+      name: pregnancy_status
+      label: I am not pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Correct - Not Pregnant
+      - I am Pregnant
+      - I am Nursing
+      - Not Applicable
+      required: true
+    - id: 19
+      name: aftercare_instructions_understood
+      label: I understand aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully understood
+      - Yes, mostly understood
+      - Partially understood
+      - Not understood
+      required: true
+    - id: 20
+      name: pain_expectation
+      label: I understand pain levels expected
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 21
+      name: healing_time_understood
+      label: I understand healing timeline
+      hint: Varies by location and person
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 22
+      name: hygiene_commitment
+      label: I commit to proper hygiene and aftercare
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Commit
+      - No, I Do Not Commit
+      required: true
+    - id: 23
+      name: consent_to_piercing
+      label: I consent to this piercing
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 24
+      name: liability_waiver
+      label: I accept liability and waive claims
+      hint: null
+      type: select_one
+      options:
+      - I Accept and Waive
+      - I Do Not Accept
+      required: true

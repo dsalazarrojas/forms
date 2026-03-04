@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_insurance_hotel_reimbursement_claim_form
+    pages:
+    - id: 1
+      name: claimant_info
+      label: Claimant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_city
+      label: Claimant City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claimant_state
+      label: Claimant State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: claimant_zip
+      label: Claimant Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claimant_email
+      label: Claimant E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claimant_date_of_loss
+      label: Date of Loss
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: claimant_description
+      label: Describe Loss
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claimant_attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claimant_agreed
+      label: Agreed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: claimant_agreed_date
+      label: Agreed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_provider_name
+      label: Insurance Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_provider_phone
+      label: Insurance Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_provider_address
+      label: Insurance Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: adjuster_name
+      label: Adjuster Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: adjuster_company
+      label: Adjuster Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: adjuster_phone
+      label: Adjuster Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: adjuster_email
+      label: Adjuster E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

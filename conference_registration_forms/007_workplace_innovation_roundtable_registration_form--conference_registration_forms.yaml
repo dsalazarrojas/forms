@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Innovation Roundtable Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: attendee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_title
+      label: event_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_end_time
+      label: event_end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true

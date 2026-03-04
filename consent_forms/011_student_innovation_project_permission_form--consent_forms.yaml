@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Inovation Project Permission Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: Please sign below to give your consent.
+      type: select_one
+      options:
+      - '{''label'': ''Consent'', ''value'': ''consent''}'
+      - '{''label'': ''Decline'', ''value'': ''decline''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Please enter student email address.
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Please enter student phone number.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_email
+      label: Parent Email
+      hint: Please enter parent/guardian email address.
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: parent_phone
+      label: Parent Phone
+      hint: Please enter parent/guardian phone number.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signature_2
+      label: Signature 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date_signed_2
+      label: Date Signed 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: student_signature
+      label: Student's Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: date_signed_student
+      label: Date Signed (Student)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_signed_parent
+      label: Date Signed (Parent)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: signature_3
+      label: Parent's Signature
+      hint: null
+      type: note
+      options: []
+      required: false

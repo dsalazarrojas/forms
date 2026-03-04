@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_confirmation_form
+    pages:
+    - id: 1
+      name: confirm_payment
+      label: confirm_payment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: confirm_payment_details
+      label: confirm_payment_details
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: confirm_payment_date
+      label: confirm_payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: confirm_payment_time
+      label: confirm_payment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: confirm_payment_method
+      label: confirm_payment_method
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: confirm_payment_status
+      label: confirm_payment_status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: confirm_payment_amount
+      label: confirm_payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: confirm_payment_currency
+      label: confirm_payment_currency
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

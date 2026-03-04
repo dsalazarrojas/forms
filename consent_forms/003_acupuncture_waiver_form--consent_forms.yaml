@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Waiver Form
+    pages:
+    - id: 1
+      name: client_information_header
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: treatment_area
+      label: Area(s) of treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_treatment
+      label: Reason for seeking acupuncture treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: risk_acknowledgment_header
+      label: Risk Acknowledgment and Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: understand_risks
+      label: I understand the risks associated with acupuncture treatment including
+        but not limited to bruising, soreness, infection, and pneumothorax
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 10
+      name: informed_consent
+      label: I have been fully informed of the treatment protocol and agree to proceed
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 11
+      name: medical_conditions_header
+      label: Medical Conditions and Contraindications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: bleeding_disorders
+      label: Do you have a bleeding disorder or take blood thinning medication?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: pacemaker
+      label: Do you have a cardiac pacemaker or other electrical device implanted?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: pregnancy
+      label: Are you currently pregnant?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Possibly
+      required: true
+    - id: 15
+      name: infections
+      label: Do you have any active infections or open wounds in the treatment area?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: recent_surgery
+      label: Have you had surgery in the treatment area within the past 6 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: medical_disclosure
+      label: Please disclose any other medical conditions or concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: release_header
+      label: Release of Liability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: release_agreement
+      label: I hereby release and hold harmless the acupuncture practitioner and facility
+        from any claims or damages arising from my treatment
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 20
+      name: signature_acknowledgment
+      label: I affirm that all information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 21
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

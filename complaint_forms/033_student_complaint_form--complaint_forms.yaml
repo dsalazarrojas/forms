@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Complaint Form
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_description
+      label: complaint description
+      hint: A clear and concise description of the complaint
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: complaint_type
+      label: complaint type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Academic Issue'', ''value'': ''Academic Issue''}'
+      - '{''id'': 2, ''name'': ''Student Issue'', ''value'': ''Student Issue''}'
+      - '{''id'': 3, ''name'': ''Faculty Issue'', ''value'': ''Faculty Issue''}'
+      - '{''id'': 4, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''submit'', ''value'': ''Submit''}'
+      - '{''id'': 2, ''name'': ''Save Draft'', ''value'': ''Save Draft''}'
+      - '{''id'': 3, ''name'': ''Cancel'', ''value'': ''Cancel''}'
+      required: false
+    - id: 8
+      name: attachments
+      label: attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Academic'', ''value'': ''Academic''}'
+      - '{''id'': 2, ''name'': ''Administrative'', ''value'': ''Administrative''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: attachments_comment
+      label: attachments_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: category_comment
+      label: category_comment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Academic'', ''value'': ''Academic''}'
+      - '{''id'': 2, ''name'': ''Administrative'', ''value'': ''Administrative''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false

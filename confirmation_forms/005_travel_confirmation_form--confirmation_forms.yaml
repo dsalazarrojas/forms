@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_confirmation_form
+    pages:
+    - id: 1
+      name: travel_confirmation_details
+      label: travel confirmation details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_confirmation
+      label: reservation confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: passenger_confirmation
+      label: passenger confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: flight_details
+      label: flight details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false

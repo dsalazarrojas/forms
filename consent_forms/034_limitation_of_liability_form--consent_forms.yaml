@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Limitation Of Liability Form
+    pages:
+    - id: 1
+      name: title
+      label: limitation of liability form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Consent Forms
+      - Entrepreneur Forms
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: Enter a brief description of the form
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 5
+      name: output
+      label: output file
+      hint: null
+      type: select_one
+      options:
+      - limitation of liability form -- consent forms
+      - Other
+      required: true

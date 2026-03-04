@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Vehicle Inspection Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date inspection was completed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: mechanic_name
+      label: Mechanic or Inspector Name
+      hint: Full name of person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mechanic_license
+      label: Mechanic License Number
+      hint: Professional certification
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_name
+      label: Inspection Facility Name
+      hint: Name of shop or facility
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: Vehicle owner
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_vin
+      label: Vehicle Identification Number - VIN
+      hint: Complete VIN
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: Year - Make - Model
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_mileage
+      label: Odometer Reading
+      hint: Current mileage
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: inspection_type
+      label: Type of Inspection
+      hint: null
+      type: select_one
+      options:
+      - Annual safety inspection
+      - State emissions test
+      - Pre-purchase inspection
+      - Insurance inspection
+      - General maintenance check
+      required: true
+    - id: 13
+      name: overall_condition
+      label: Overall Vehicle Condition
+      hint: General assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      - Critical condition
+      required: true
+    - id: 14
+      name: pass_fail
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - PASS - Safe to operate
+      - PASS with conditions
+      - FAIL - Not safe to operate
+      - FAIL - Immediate repairs required
+      required: true
+    - id: 15
+      name: defects_found
+      label: Defects and Issues Found
+      hint: Detailed list of problems
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: safety_issues
+      label: Safety Concerns Identified
+      hint: Specific safety hazards
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emissions_status
+      label: Emissions Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Acceptable
+      - Non-compliant - repairs needed
+      - Exempt from emissions
+      required: false
+    - id: 18
+      name: repair_recommendations
+      label: Repair Recommendations
+      hint: What repairs are recommended
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: repair_urgency
+      label: Urgency of Repairs
+      hint: How soon repairs should be done
+      type: select_one
+      options:
+      - Immediate - before operation
+      - Urgent - within 1 week
+      - Soon - within 1 month
+      - Routine maintenance
+      - No repairs needed
+      required: false
+    - id: 20
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: Approximate total for repairs
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_recommendations
+      label: Maintenance Recommendations
+      hint: Preventive maintenance suggestions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fluids_status
+      label: Fluid Levels and Condition
+      hint: Oil, coolant, transmission fluid, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: battery_condition
+      label: Battery Condition and Age
+      hint: Battery status and replacement needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_signature
+      label: Customer Acknowledges Receipt of Report
+      hint: null
+      type: select_one
+      options:
+      - Acknowledged and agreed
+      - Acknowledged - has questions
+      - Not yet provided
+      required: false
+    - id: 25
+      name: next_service_date
+      label: Recommended Next Service Date
+      hint: When vehicle should be serviced again
+      type: date
+      options: []
+      required: false

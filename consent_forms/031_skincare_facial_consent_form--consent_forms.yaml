@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Facial Consent Form
+    pages:
+    - id: 1
+      name: upcoming_visit
+      label: Upcoming Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expectations
+      label: Expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Client Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergy_declaration
+      label: Allergies
+      hint: List any allergies or sensitivities you have
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition_declaration
+      label: Medical Conditions
+      hint: List any medical conditions or disabilities
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skincare_product_ingredients
+      label: Skincare Product Ingredients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''PayPal''}'
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

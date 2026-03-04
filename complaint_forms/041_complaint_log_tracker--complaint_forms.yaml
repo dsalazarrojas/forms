@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Log Tracker
+    pages:
+      - id: 1
+        name: tracker_log_header
+        label: -- Complaint Internal Tracking Log --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: log_identifier_number
+        label: Log Entry ID
+        hint: Unique system-generated ID (if known)
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: complaint_entry_date
+        label: Date Complaint Received
+        hint: When the issue was first reported
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: complainant_full_name_log
+        label: Complainant Name
+        hint: Individual or entity reporting the issue
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: complaint_category_log
+        label: Category of Issue
+        hint: Select the most accurate category for tracking
+        type: select_one
+        options:
+          - Product / Equipment Issue
+          - Customer Service / Conduct
+          - Billing / Financial Dispute
+          - IT / System Technical Issue
+          - Safety / Facility Concern
+          - Other
+        required: true
+      - id: 6
+        name: detailed_issue_description_log
+        label: Detailed Issue Description
+        hint: Summary of the complaint for internal use
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: assigned_staff_member
+        label: Assigned To (Staff Name)
+        hint: Team member responsible for resolution
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: priority_level_log
+        label: Priority Level
+        hint: Based on impact and urgency
+        type: select_one
+        options:
+          - Critical (Response within 4 hours)
+          - High (Response within 24 hours)
+          - Medium (Response within 3 days)
+          - Low (Routine)
+        required: true
+      - id: 9
+        name: current_status_log
+        label: Current Resolution Status
+        hint: Update as the case progresses
+        type: select_one
+        options:
+          - New Entry
+          - Investigation In-Progress
+          - Pending Information from Complainant
+          - Awaiting Manager Approval
+          - Resolved
+          - Closed / No Action
+        required: true
+      - id: 10
+        name: resolution_summary_log
+        label: Resolution Summary
+        hint: Briefly describe how the issue was resolved
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: final_closure_date_log
+        label: Date Case Officially Closed
+        hint: Leave blank if still open
+        type: date
+        options: []
+        required: false
+      - id: 12
+        name: tracker_last_updated
+        label: Last Updated Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

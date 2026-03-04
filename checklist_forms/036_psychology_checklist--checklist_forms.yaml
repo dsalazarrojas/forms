@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychology Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Psychology Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment
+      label: Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 4
+      name: plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - Formal Education
+      - Informal Education
+      - Training
+      required: false
+    - id: 6
+      name: quality_assurance
+      label: Quality Assurance
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Informal
+      - None
+      required: false
+    - id: 7
+      name: assessment_plan
+      label: Assessment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-Up
+      hint: null
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 4 weeks
+      required: false
+    - id: 9
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false

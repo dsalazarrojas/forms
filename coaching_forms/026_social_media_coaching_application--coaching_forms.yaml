@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Coaching Application
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: coaching_level
+      label: Coaching Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 7
+      name: experience
+      label: How do you know us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: what_is_your_goal
+      label: What is your goal?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: about_yourself
+      label: Tell us a little about yourself
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

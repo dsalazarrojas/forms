@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheerleading Demerit Form Template
+    pages:
+    - id: 1
+      name: cheerleader_name
+      label: Cheerleader Name
+      hint: Full name of the cheerleader
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: Name of the cheer team
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date of cheerleader
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: Date when the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: incident_time
+      label: Incident Time
+      hint: Time when the incident occurred
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: Where did the incident take place
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporting_coach
+      label: Reporting Coach
+      hint: Name of the coach reporting the demerit
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: demerit_category
+      label: Demerit Category
+      hint: Category of the violation
+      type: select_one
+      options:
+      - Attendance violation
+      - Behavioral issue
+      - Dress code violation
+      - Disrespect to coach or staff
+      - Disrespect to teammates
+      - Rule violation
+      - Performance issue
+      - Other
+      required: true
+    - id: 9
+      name: demerit_severity
+      label: Demerit Severity
+      hint: Severity level of the violation
+      type: select_one
+      options:
+      - Minor - 1 point
+      - Moderate - 2 points
+      - Serious - 3 points
+      - Major - 5 points
+      required: true
+    - id: 10
+      name: demerit_points
+      label: Demerit Points Assigned
+      hint: Number of demerit points
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: incident_description
+      label: Incident Description
+      hint: Detailed description of what occurred
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: witnesses
+      label: Witnesses
+      hint: Names of any witnesses to the incident
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_violations
+      label: Previous Violations
+      hint: Does this cheerleader have previous violations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: previous_violation_details
+      label: Previous Violation Details
+      hint: List previous violations if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: total_demerit_points
+      label: Total Demerit Points
+      hint: Total accumulated demerit points
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: action_taken
+      label: Action Taken
+      hint: What disciplinary action was taken
+      type: select_one
+      options:
+      - Verbal warning
+      - Written warning
+      - Practice suspension
+      - Performance restriction
+      - Team suspension
+      - Dismissal from team
+      - Other
+      required: true
+    - id: 17
+      name: action_details
+      label: Action Details
+      hint: Additional details about the action taken
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parent_notified
+      label: Parent or Guardian Notified
+      hint: Was the parent or guardian notified
+      type: select_one
+      options:
+      - Yes, notified
+      - No, not yet
+      - Not applicable
+      required: true
+    - id: 19
+      name: parent_response
+      label: Parent or Guardian Response
+      hint: Response from parent or guardian
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cheerleader_response
+      label: Cheerleader Response
+      hint: Response from the cheerleader
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvement_plan
+      label: Improvement Plan
+      hint: Plan for correcting the behavior
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Date for follow-up review
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: consequences_of_further_violations
+      label: Consequences of Further Violations
+      hint: What will happen if violations continue
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: coach_signature
+      label: Coach Signature
+      hint: I confirm this demerit is accurate
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 25
+      name: cheerleader_signature
+      label: Cheerleader Acknowledgment
+      hint: I acknowledge receipt of this demerit
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      - Refused to sign
+      required: true
+    - id: 26
+      name: parent_signature
+      label: Parent or Guardian Acknowledgment
+      hint: Parent or guardian acknowledgment
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      - Not contacted
+      required: false

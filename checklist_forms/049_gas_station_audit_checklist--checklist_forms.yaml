@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gas Station Audit Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: station_details
+      label: Station Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: safety_measures
+      label: Safety Measures
+      hint: Check all safety measures
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: cleanliness_standards
+      label: Cleanliness Standards
+      hint: Check all cleanliness standards
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: findings
+      label: Findings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: station_address
+      label: Station Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

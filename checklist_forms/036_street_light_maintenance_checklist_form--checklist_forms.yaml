@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Street Light Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: street_light_maintenance_form
+      label: street_light_maintenance_form
+      hint: null
+      type: select_one
+      options:
+      - Power Source
+      - Foundation
+      - Pole
+      - Other
+      required: false
+    - id: 2
+      name: power_source
+      label: street_light_pole_power_source
+      hint: null
+      type: select_multiple
+      options:
+      - Electric
+      - Gas
+      - Solar
+      required: false
+    - id: 3
+      name: utilities
+      label: street_light_maintenance_utilities
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Sewer
+      - Gas
+      required: false
+    - id: 4
+      name: condition
+      label: street_light_conditions
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: pole_condition
+      label: street_light_pole_condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: foundation_condition
+      label: street_light_foundation_condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

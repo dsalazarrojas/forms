@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Antisemitism Incident
+    pages:
+    - id: 1
+      name: report_antisemitism_incident_form
+      label: Incident report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: victim_name
+      label: Victim name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: victim_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: victim_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Date of the incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_type
+      label: Report type
+      hint: Select type of report
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: follow_up_email_sent
+      label: Follow up email sent
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

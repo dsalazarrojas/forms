@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Inspection Checklist
+    pages:
+    - id: 1
+      name: restaurant_address
+      label: Restaurant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_insurance
+      label: Business Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: food_services
+      label: Food Services
+      hint: null
+      type: select_multiple
+      options:
+      - Food Service
+      - Bar Service
+      - Catering
+      required: false
+    - id: 10
+      name: food_services_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: restroom_condition
+      label: Restroom Conditions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: trash_receptacle
+      label: Trash and Receptacles
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: fire_exit_signs
+      label: Fire Exit Signs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 15
+      name: emergency_exit
+      label: Emergency Exit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: electrical
+      label: Electrical
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: water_supply
+      label: Water Supply
+      hint: null
+      type: text
+      options: []
+      required: false

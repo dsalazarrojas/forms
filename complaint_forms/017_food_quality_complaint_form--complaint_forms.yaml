@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Quality Complaint Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: food_item_description
+      label: Food Item Description
+      hint: Describe the food item you are complaining about.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: complaint_details
+      label: Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complaint_category
+      label: Complaint Category
+      hint: null
+      type: select_multiple
+      options:
+      - Food Quality
+      - Food Safety
+      - Food Allergies
+      required: true
+    - id: 8
+      name: food_allergens
+      label: Food Allergens
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten
+      - Dairy
+      - Nuts
+      - Soy
+      - Shellfish
+      - Eggs
+      required: false
+    - id: 9
+      name: resolution_action
+      label: Resolution Action
+      hint: null
+      type: select_one
+      options:
+      - Send a follow-up email to customer
+      - Contact customer via phone
+      - Close complaint
+      - Escalate to manager
+      - Forward to quality team
+      - Forward to chef
+      required: true
+    - id: 10
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment_comment
+      label: Attachment Comment
+      hint: null
+      type: text
+      options: []
+      required: false

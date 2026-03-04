@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Scene Commentary Consent Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For correspondence and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required if under 18
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: scene_info_header
+      label: -- Scene Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Name of the animation project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: scene_title
+      label: Scene Title or Number
+      hint: Which scene will be commented on
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: commentary_date
+      label: Date of Commentary Recording
+      hint: When the commentary will be recorded
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: commentary_format
+      label: Commentary Format
+      hint: How will commentary be recorded
+      type: select_one
+      options:
+      - Audio Recording
+      - Video Recording
+      - Written Transcript
+      - Combination
+      required: true
+    - id: 11
+      name: commentary_purpose
+      label: Purpose of Commentary
+      hint: What is the commentary for
+      type: select_one
+      options:
+      - Educational Behind-the-Scenes
+      - Director's Commentary
+      - Scene Breakdown
+      - Animation Techniques
+      - Production Insights
+      - Character Development
+      - Other
+      required: false
+    - id: 12
+      name: consent_header
+      label: -- Recording Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: audio_recording_consent
+      label: I consent to audio recording of my commentary
+      hint: Permission to record my voice
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: video_recording_consent
+      label: I consent to video recording of my commentary
+      hint: Permission to record video with my appearance
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Audio only, no video
+      required: true
+    - id: 15
+      name: name_credit_consent
+      label: I consent to my name being credited in the footage
+      hint: Your name will appear as the commentator
+      type: select_one
+      options:
+      - Yes, credit my name
+      - No, keep me anonymous
+      - Use pseudonym
+      required: true
+    - id: 16
+      name: usage_rights_header
+      label: -- Usage Rights and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: online_distribution
+      label: Permission to distribute commentary online
+      hint: Can this be shared on websites and streaming
+      type: select_one
+      options:
+      - Yes, distribute freely
+      - Yes, for nonprofit use only
+      - Yes, with permission for each use
+      - No, do not distribute
+      required: true
+    - id: 18
+      name: social_media_use
+      label: Permission to share on social media
+      hint: Can clips be shared on Instagram, YouTube, etc.
+      type: select_one
+      options:
+      - Yes, use freely
+      - Yes, ask me first
+      - No, do not use
+      required: true
+    - id: 19
+      name: commercial_use
+      label: Permission for commercial use
+      hint: Can commentary be used for marketing or profit
+      type: select_one
+      options:
+      - Yes, allow commercial use
+      - No, nonprofit only
+      - No, personal use only
+      required: true
+    - id: 20
+      name: derivative_works
+      label: Permission to edit or modify commentary
+      hint: Can the footage be edited or altered
+      type: select_one
+      options:
+      - Yes, edit as needed
+      - Yes, with approval
+      - No, keep original only
+      required: true
+    - id: 21
+      name: parental_consent_header
+      label: -- Parental Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or legal guardian
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: Contact email for verification
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: parent_consent
+      label: Parent or guardian consents to above permissions
+      hint: Guardian must agree to all terms
+      type: select_one
+      options:
+      - Yes, parent consents
+      - No, parent does not consent
+      required: false
+    - id: 25
+      name: agreement_final
+      label: I have read and agree to this consent form
+      hint: Click to confirm understanding and agreement
+      type: select_one
+      options:
+      - Yes, I agree to all terms
+      - No, I do not agree
+      required: true

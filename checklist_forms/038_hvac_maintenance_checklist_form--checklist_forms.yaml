@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: HVAC Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: page_1
+      label: page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_tasks
+      label: General Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: filter_by_location
+      label: Filter By Location
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: true
+    - id: 4
+      name: filter_by_type
+      label: Filter By Type
+      hint: null
+      type: select_one
+      options:
+      - Heating
+      - Ventilation
+      - Air-Conditioning
+      required: false
+    - id: 5
+      name: date_last_maintained
+      label: Date Last Maintained
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_maintenance_due_date
+      label: Next Maintenance Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assignee_name
+      label: Assignee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assignee_email
+      label: Assignee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assignee_phone
+      label: Assignee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approver_signature_date
+      label: Approver Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_signature_date
+      label: Reviewer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assignee_comments
+      label: Assignee Comments
+      hint: null
+      type: text
+      options: []
+      required: false

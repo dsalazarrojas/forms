@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Truck Packout Checklist
+    pages:
+    - id: 1
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Ready
+      - Not Ready
+      - N/A
+      required: false
+    - id: 2
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_multiple
+      options:
+      - Petrol
+      - Diesel
+      - Other
+      required: false
+    - id: 3
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: oil_level
+      label: Oil Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tire_condition
+      label: Tires
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - N/A
+      required: false
+    - id: 6
+      name: tire_tread_depth
+      label: Tread Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tire_air_pressure
+      label: Tire Air Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tire_type
+      label: Tire Type
+      hint: null
+      type: select_one
+      options:
+      - Steel
+      - Alu
+      - N/A
+      required: false
+    - id: 9
+      name: tire_size
+      label: Tire Size
+      hint: null
+      type: select_multiple
+      options:
+      - '18'
+      - '20'
+      - '22'
+      required: false
+    - id: 10
+      name: wheel_type
+      label: Wheel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Aluminum
+      - Steel
+      - N/A
+      required: false
+    - id: 11
+      name: wheel_size
+      label: Wheel Size
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Heavy Duty
+      - N/A
+      required: false
+    - id: 12
+      name: brake_wear
+      label: Brake Wear
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: suspension_condition
+      label: Suspension
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - N/A
+      required: false
+    - id: 14
+      name: brake_temperature
+      label: Brake Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: transmission_type
+      label: Transmission Type
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - N/A
+      required: false
+    - id: 16
+      name: transmission_fluid_level
+      label: Transmission Fluid Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: differential_type
+      label: Differential Type
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - N/A
+      required: false
+    - id: 18
+      name: differential_fluid_level
+      label: Differential Fluid Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: coolant_level
+      label: Coolant Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - Petrol
+      - Diesel
+      - N/A
+      required: false
+    - id: 21
+      name: engine_temperature
+      label: Engine Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: battery_level
+      label: Battery Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: battery_type
+      label: Battery Type
+      hint: null
+      type: select_one
+      options:
+      - 12V
+      - 24V
+      - N/A
+      required: false
+    - id: 24
+      name: battery_size
+      label: Battery Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Large
+      - N/A
+      required: false
+    - id: 25
+      name: battery_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false

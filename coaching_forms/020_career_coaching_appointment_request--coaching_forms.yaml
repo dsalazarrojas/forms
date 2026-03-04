@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Coaching Appointment Request
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_requested
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: current_employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed and seeking work
+      - Student
+      - Retired
+      - On leave
+      - Other
+      required: true
+    - id: 6
+      name: current_industry
+      label: Current Industry or Field
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_job_title
+      label: Current Job Title
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_of_experience
+      label: Years of Work Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 9
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High school diploma or GED
+      - Some college
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree
+      - Professional degree
+      required: true
+    - id: 10
+      name: coaching_reason
+      label: Primary Reason for Seeking Coaching
+      hint: null
+      type: select_one
+      options:
+      - Career exploration
+      - Job search strategy
+      - Resume and cover letter help
+      - Interview preparation
+      - Career transition
+      - Promotion preparation
+      - Work-life balance
+      - Salary negotiation
+      - Starting a business
+      - Return to workforce
+      required: true
+    - id: 11
+      name: specific_goals
+      label: Specific Goals for Coaching
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: alternative_appointment_date
+      label: Alternative Appointment Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: null
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 4 PM)
+      - Evening (4 PM - 7 PM)
+      - Flexible
+      required: true
+    - id: 15
+      name: appointment_format
+      label: Preferred Appointment Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Video call
+      - Phone call
+      - No preference
+      required: true
+    - id: 16
+      name: time_zone
+      label: Your Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Eastern Time
+      - Central Time
+      - Mountain Time
+      - Pacific Time
+      - Alaska Time
+      - Hawaii Time
+      - Other (specify in notes)
+      required: true
+    - id: 17
+      name: previous_coaching
+      label: Have You Had Career Coaching Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - multiple sessions
+      - Yes - one session
+      - No - first time
+      required: true
+    - id: 18
+      name: coaching_experience_helpful
+      label: What Would Make Coaching Most Helpful for You
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personalized action plan
+      - Accountability check-ins
+      - Industry insights
+      - Skill assessment
+      - Networking strategies
+      - Resource recommendations
+      - Mock interviews
+      - Resume review
+      - LinkedIn profile help
+      - Confidence building
+      required: true
+    - id: 19
+      name: urgency
+      label: How Urgent Is Your Need for Coaching
+      hint: null
+      type: select_one
+      options:
+      - Very urgent - need help immediately
+      - Somewhat urgent - within 2 weeks
+      - Moderate - within a month
+      - Not urgent - flexible timing
+      required: true
+    - id: 20
+      name: availability
+      label: Your General Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Saturday
+      - Sunday
+      - During lunch breaks
+      - Very limited availability
+      required: true
+    - id: 21
+      name: referral_source
+      label: How Did You Hear About Our Coaching Services
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family referral
+      - Professional referral
+      - Email or newsletter
+      - Search engine
+      - Advertisement
+      - Other
+      required: true
+    - id: 22
+      name: special_circumstances
+      label: Any Special Circumstances We Should Know
+      hint: Disability accommodations, language preferences, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: budget_range
+      label: Coaching Budget Range
+      hint: Per session
+      type: select_one
+      options:
+      - Under $100
+      - $100 to $200
+      - $200 to $300
+      - $300 to $500
+      - Over $500
+      - Need sliding scale
+      - Employer sponsored
+      required: false
+    - id: 24
+      name: package_interest
+      label: Interested in Coaching Package
+      hint: Multiple sessions at discounted rate
+      type: select_one
+      options:
+      - Yes - interested in package
+      - No - single session only
+      - Undecided
+      required: true
+    - id: 25
+      name: additional_information
+      label: Any Additional Information to Share
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_agreement
+      label: I Agree to the Coaching Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: preferred_coach
+      label: Preferred Coach (If Any)
+      hint: Leave blank if no preference
+      type: text
+      options: []
+      required: false

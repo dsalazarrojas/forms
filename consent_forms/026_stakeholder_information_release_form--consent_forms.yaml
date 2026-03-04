@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Information Release Form
+    pages:
+    - id: 1
+      name: stakeholder_title
+      label: Stakeholder Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stakeholder_name
+      label: stakeholder_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stakeholder_contact_information
+      label: stakeholder_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_role
+      label: stakeholder_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stakeholder_department
+      label: stakeholder_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stakeholder_email
+      label: stakeholder_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: stakeholder_phone
+      label: stakeholder_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stakeholder_notes
+      label: stakeholder_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: stakeholder_is_authorized
+      label: stakeholder_is_authorized
+      hint: null
+      type: select_one
+      options:
+      - Authorized
+      - Not Authorized
+      required: false
+    - id: 10
+      name: stakeholder_is_active
+      label: stakeholder_is_active
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

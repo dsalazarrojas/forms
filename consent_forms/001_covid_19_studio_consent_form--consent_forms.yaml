@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Studio Consent Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client email
+      hint: Enter a valid email for confirmations
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: appointment_date
+      label: Appointment date
+      hint: Select the scheduled service date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: covid_symptom_declaration
+      label: Have you experienced any COVID symptoms in the past 14 days
+      hint: Check yes if any symptoms apply
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: temperature_reading
+      label: Temperature reading in celsius
+      hint: Provide measured temperature or leave blank if unavailable
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: consent_for_service
+      label: Consent to receive services under studio policies
+      hint: Please confirm you agree to the studio health protocols
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional notes or health considerations
+      hint: Include allergies or special instructions or null
+      type: text
+      options: []
+      required: false

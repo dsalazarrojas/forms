@@ -1,0 +1,378 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Closing Checklist
+    pages:
+      - id: 1
+        name: checklist_header
+        label: Retail Store Closing Checklist
+        hint: Complete all items before leaving at the end of your shift
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: store_location
+        label: Store Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: closing_date
+        label: Closing Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: shift_type
+        label: Shift Type
+        hint: null
+        type: select_one
+        options:
+          - Weekday
+          - Weekend
+          - Holiday
+        required: true
+      - id: 7
+        name: manager_on_duty
+        label: Manager on Duty
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: section_1_header
+        label: -- Customer Area --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: floors_swept
+        label: Floors Swept
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 10
+        name: floors_mopped
+        label: Floors Mopped
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: false
+      - id: 11
+        name: displays_restocked
+        label: Displays Restocked and Faced
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 12
+        name: fitting_rooms_cleared
+        label: Fitting Rooms Cleared and Cleaned
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: false
+      - id: 13
+        name: mirrors_cleaned
+        label: Mirrors and Glass Cleaned
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: false
+      - id: 14
+        name: trash_emptied
+        label: All Trash Bins Emptied
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 15
+        name: section_2_header
+        label: -- Cash Register Area --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: register_count_complete
+        label: Register Count Completed
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 17
+        name: cash_deposited
+        label: Cash Deposited in Safe
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 18
+        name: receipts_balanced
+        label: Receipts Balanced
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 19
+        name: register_cleaned
+        label: Register Area Cleaned
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 20
+        name: credit_card_slips_filed
+        label: Credit Card Slips Filed
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: false
+      - id: 21
+        name: section_3_header
+        label: -- Stock Room --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: merchandise_put_away
+        label: All Merchandise Put Away
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 23
+        name: boxes_broken_down
+        label: Boxes Broken Down and Recycled
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 24
+        name: stock_room_organized
+        label: Stock Room Organized
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 25
+        name: returns_processed
+        label: Returns Processed
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: false
+      - id: 26
+        name: section_4_header
+        label: -- Security --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: doors_checked
+        label: All Entry Doors Checked
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 28
+        name: windows_locked
+        label: All Windows Locked
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 29
+        name: alarm_set
+        label: Security Alarm Set
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 30
+        name: lights_turned_off
+        label: All Lights Turned Off
+        hint: Except security lights
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 31
+        name: equipment_secured
+        label: All Equipment Secured
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 32
+        name: section_5_header
+        label: -- Final Checks --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: manager_walkthrough
+        label: Manager Walkthrough Complete
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 34
+        name: issues_reported
+        label: Any Issues to Report
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 35
+        name: issues_details
+        label: Issue Details
+        hint: If yes describe
+        type: text
+        options: []
+        required: false
+      - id: 36
+        name: opening_prep_notes
+        label: Notes for Opening Crew
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 37
+        name: employee_signature
+        label: Employee Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 38
+        name: manager_signature
+        label: Manager Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: completion_time
+        label: Closing Completion Time
+        hint: null
+        type: time
+        options: []
+        required: true

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Review & Graphic Upload Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: review_round
+      label: Review Round Number
+      hint: First, second, third review, etc.
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: submission_date
+      label: Design Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: design_concepts
+      label: Number of Concepts Submitted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: design_preferences
+      label: Design Style Preferences
+      hint: What style did the client prefer?
+      type: select_multiple
+      options:
+      - Modern
+      - Minimalist
+      - Bold
+      - Classic
+      - Playful
+      - Professional
+      - Other
+      required: false
+    - id: 8
+      name: feedback_quality
+      label: Quality of Feedback Provided
+      hint: null
+      type: select_one
+      options:
+      - Detailed and specific
+      - Clear feedback
+      - General feedback
+      - Vague feedback
+      - No feedback
+      required: false
+    - id: 9
+      name: design_strengths
+      label: Strengths of Design(s)
+      hint: What worked well?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: design_revisions_needed
+      label: Revisions Needed
+      hint: What needs to be changed?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: overall_direction
+      label: Overall Direction and Feedback
+      hint: General comments about the design direction
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: brand_alignment
+      label: Design Alignment with Brand
+      hint: Does it match the brand vision?
+      type: select_one
+      options:
+      - Excellent alignment
+      - Good alignment
+      - Fair alignment
+      - Poor alignment
+      - No alignment
+      required: false
+    - id: 13
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Approved with minor revisions
+      - Needs major revisions
+      - Not approved
+      - Pending other stakeholder feedback
+      required: true
+    - id: 14
+      name: revision_timeline
+      label: Preferred Timeline for Revisions
+      hint: When do you need revised artwork?
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: upload_revised_file
+      label: Upload Revised Artwork File
+      hint: If ready to upload new designs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

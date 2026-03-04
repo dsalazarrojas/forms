@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harassment Complaint Absence Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_description
+      label: Complaint Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_occurred
+      label: Date Occurred
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_off_request
+      label: Time Off Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: time_off_start
+      label: Time Off Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_off_end
+      label: Time Off End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: manager_response
+      label: Manager Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

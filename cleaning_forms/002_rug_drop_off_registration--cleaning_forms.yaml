@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rug Drop Off Registration
+    pages:
+    - id: 1
+      name: rug_drop_off_registration
+      label: rug_drop_off_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_drop_off_date_time
+      label: Preferred Drop Off Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: special_handling_notes
+      label: Special Handling Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rug_id
+      label: Rug ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rug_type
+      label: Rug Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rug_condition
+      label: Rug Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: preferred_drop_off_time
+      label: Preferred Drop Off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rug_weight
+      label: Rug Weight
+      hint: null
+      type: number
+      options: []
+      required: false

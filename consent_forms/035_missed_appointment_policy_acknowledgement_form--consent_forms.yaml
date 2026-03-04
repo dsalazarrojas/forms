@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Missed Appointment Policy Acknowledgement Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_missed_appointment
+      label: reason for miss
+      hint: null
+      type: note
+      options: []
+      required: false

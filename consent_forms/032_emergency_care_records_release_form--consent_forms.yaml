@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Care Records Release Form
+    pages:
+    - id: 1
+      name: form_1
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_relationship
+      label: patient_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: release_authorization
+      label: release_authorization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: release_expiration
+      label: release_expiration
+      hint: null
+      type: date
+      options: []
+      required: false

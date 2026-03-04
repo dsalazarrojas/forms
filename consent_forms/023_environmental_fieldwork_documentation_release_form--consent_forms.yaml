@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Fieldwork Documentation Release Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fieldwork_location
+      label: fieldwork-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: team-members
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 4
+      name: documentation
+      label: documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_date
+      label: consent-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consent_time
+      label: consent-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_conservation
+      label: research--conservation
+      hint: null
+      type: select_multiple
+      options:
+      - Research
+      - Conservation
+      - Education
+      required: false
+    - id: 10
+      name: project_details
+      label: project-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

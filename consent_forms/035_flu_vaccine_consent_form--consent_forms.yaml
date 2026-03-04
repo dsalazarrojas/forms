@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: flu_vaccine_consent_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - undecided
+      required: true
+    - id: 7
+      name: flu_season
+      label: flu season
+      hint: null
+      type: select_one
+      options:
+      - current
+      - upcoming
+      - none
+      required: true
+    - id: 8
+      name: vaccination_date
+      label: vaccination date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: doctor_name
+      label: doctor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: doctor_contact
+      label: doctor contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_facility
+      label: medical facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: flu_vaccine_type
+      label: flu vaccine type
+      hint: null
+      type: select_one
+      options:
+      - influenza type A
+      - influenza type B
+      - influenza type C
+      required: true
+    - id: 14
+      name: flu_vaccine_doses
+      label: flu vaccine doses
+      hint: null
+      type: select_one
+      options:
+      - 1 dose
+      - 2 doses
+      - 3 doses
+      required: true
+    - id: 15
+      name: flu_vaccine_manufacturer
+      label: flu vaccine manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: flu_vaccine_lot
+      label: flu vaccine lot
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: flu_vaccine_expiration_date
+      label: flu vaccine expiration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: flu_vaccine_administered_by
+      label: flu vaccine adminstered by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: flu_vaccine_administering_nurse
+      label: flu vaccine adminstering nurse
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: flu_vaccine_administered_at
+      label: flu vaccine adminstered at
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: flu_vaccine_administered_in
+      label: flu vaccine adminstered in
+      hint: null
+      type: select_one
+      options:
+      - hospital
+      - clinic
+      - doctor's office
+      required: true
+    - id: 22
+      name: flu_vaccine_administered_by_doctor
+      label: flu vaccine adminstered by doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: flu_vaccine_administered_by_nurse
+      label: flu vaccine adminstered by nurse
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: flu_vaccine_administered_by_clinic
+      label: flu vaccine adminstered by clinic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: flu_vaccine_administered_at_location
+      label: flu vaccine adminstered at location
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Records Release Form
+    pages:
+    - id: 1
+      name: requester_information_header
+      label: Requester Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_relationship
+      label: Relationship to Adoptee
+      hint: null
+      type: select_one
+      options:
+      - Adoptee - myself
+      - Birth parent
+      - Adoptive parent
+      - Sibling
+      - Legal representative
+      - Other family member
+      - Organization
+      required: true
+    - id: 6
+      name: adoptee_information_header
+      label: Adoptee Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: adoptee_name
+      label: Adoptee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: adoptee_date_of_birth
+      label: Adoptee Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: adoptee_age_status
+      label: Adoptee Age Status
+      hint: null
+      type: select_one
+      options:
+      - Minor (under 18)
+      - Adult (18 or older)
+      required: true
+    - id: 10
+      name: adoption_agency
+      label: Adoption Agency Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: adoption_date
+      label: Approximate Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: case_number
+      label: Case or Docket Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: records_requested_header
+      label: Records Requested
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: birth_certificate
+      label: Original birth certificate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: adoption_decree
+      label: Adoption decree and court papers
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: medical_records
+      label: Medical and health records
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: social_history
+      label: Social history and background information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: other_records
+      label: Other records requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: purpose_of_request
+      label: Purpose of Records Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: consent_authorization_header
+      label: Consent and Authorization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: consent_to_release
+      label: I authorize the release of the requested records
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 22
+      name: confidentiality_agreement
+      label: I understand that some records may be withheld to protect the privacy
+        of other parties
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true

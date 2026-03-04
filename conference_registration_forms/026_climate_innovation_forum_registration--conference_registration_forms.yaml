@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Innovation Forum Registration
+    pages:
+    - id: 1
+      name: attendee_section
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization/Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Energy
+      - Agriculture
+      - Transportation
+      - Finance
+      - Government
+      - Nonprofit
+      - Education
+      - Other
+      required: false
+    - id: 9
+      name: conference_section
+      label: -- Conference Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Corporate
+      - Student
+      - Early Bird
+      - VIP
+      required: true
+    - id: 11
+      name: attendance_format
+      label: Attendance Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 12
+      name: sessions_section
+      label: -- Session Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_sessions
+      label: Preferred sessions to attend
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Keynote addresses
+      - Breakout sessions
+      - Workshops
+      - Networking events
+      - Exhibition hall
+      - Panel discussions
+      - All sessions
+      required: false
+    - id: 14
+      name: topic_interests
+      label: Topic interests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clean energy innovation
+      - Carbon capture
+      - Sustainable agriculture
+      - Climate finance
+      - Policy and regulation
+      - Corporate sustainability
+      - Climate justice
+      - Technology solutions
+      required: true
+    - id: 15
+      name: experience_section
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: climate_experience
+      label: Climate and sustainability experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 17
+      name: participation_section
+      label: -- Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: speaking_interest
+      label: Interested in speaking or presenting?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 19
+      name: networking_interest
+      label: Interest in one-on-one networking
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility accommodations needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_requests
+      label: Additional requests or information
+      hint: Optional
+      type: text
+      options: []
+      required: false

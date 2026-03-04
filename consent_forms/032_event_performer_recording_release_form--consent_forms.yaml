@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Performer Recording Release Form
+    pages:
+    - id: 1
+      name: event_performer_recording_release_form
+      label: Event Performer Recording Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: date of event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recording_type
+      label: recording type
+      hint: null
+      type: select_multiple
+      options:
+      - recording
+      - streaming
+      - broadcast
+      - other
+      required: false
+    - id: 8
+      name: consent_to_recording
+      label: consent to recording
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: consent_to_broadcast
+      label: consent to broadcast
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: consent_to_streaming
+      label: consent to streaming
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - csv
+      - pdf
+      - excel
+      required: false
+    - id: 15
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_one
+      options:
+      - csv
+      - excel
+      required: false
+    - id: 16
+      name: output_name
+      label: Output File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: save_and_share
+      label: Save and Share
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: save_and_share_with
+      label: Save and Share with
+      hint: null
+      type: select_multiple
+      options:
+      - organizers
+      - performer
+      - other
+      required: false
+    - id: 20
+      name: save_and_share_email
+      label: Save and Share Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: save_and_share_message
+      label: Save and Share Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: output_path
+      label: Output Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: output_path_directory
+      label: Output Directory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: output_file_name
+      label: Output File Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: wish_list_template
+    pages:
+    - id: 1
+      name: wish_list
+      label: Wish List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: price_range
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_image_url
+      label: item_image
+      hint: null
+      type: select_one
+      options:
+      - url
+      - link
+      - file
+      - image
+      required: false
+    - id: 6
+      name: item_price
+      label: price
+      hint: null
+      type: select_multiple
+      options:
+      - dollar
+      - euro
+      - pound
+      required: false
+    - id: 7
+      name: gift_option
+      label: gift_option
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 8
+      name: wisher_email
+      label: wisher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: wisher_phone
+      label: wisher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: wisher_comment
+      label: wisher_comment
+      hint: null
+      type: note
+      options: []
+      required: false

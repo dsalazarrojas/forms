@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Transfer Lift Inspection Checklist
+    pages:
+    - id: 1
+      name: routine_equipment_checks
+      label: Equipment Checks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: lift_inspections
+      label: Inspections
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: lift_equipment
+      label: Lift Equipment
+      hint: null
+      type: select_one
+      options:
+      - Lift
+      - Stairway
+      - Other
+      required: true
+    - id: 4
+      name: patient_transfer
+      label: Transfer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: lift_clearance
+      label: Clearance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: lift_clearance_date
+      label: Clearance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: lift_clearance_time
+      label: Clearance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

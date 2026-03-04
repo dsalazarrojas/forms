@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Progress Check In
+    pages:
+    - id: 1
+      name: section_check_in_info
+      label: -- Check-In Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: last_session_date
+      label: Date of Last Coaching Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_progress_update
+      label: -- Progress Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_progress
+      label: Overall Progress Since Last Check-In
+      hint: null
+      type: select_one
+      options:
+      - Significant progress
+      - Good progress
+      - Some progress
+      - Minimal progress
+      - No progress
+      - Regression
+      required: true
+    - id: 8
+      name: goals_achieved
+      label: Goals Achieved Since Last Session
+      hint: What progress have you made?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: challenges_encountered
+      label: Challenges Encountered
+      hint: What obstacles have you faced?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_current_status
+      label: -- Current Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: goal_progress_rating
+      label: Progress Rating on Primary Goal
+      hint: On a scale of 1-10, how are you doing?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: confidence_level
+      label: Confidence Level Moving Forward
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not very confident
+      - Not confident
+      required: true
+    - id: 13
+      name: section_action_items
+      label: -- Action Items and Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: action_items_completed
+      label: Action Items Completed from Last Session
+      hint: What did you accomplish?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: new_action_items
+      label: New Action Items
+      hint: What will you work on next?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: timeline
+      label: Timeline for Next Goals
+      hint: By when do you want to achieve them?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_support_needed
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: support_needed
+      label: Support or Resources Needed
+      hint: What help do you need?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coaching_adjustments
+      label: Coaching Adjustments Needed
+      hint: Would you like to adjust coaching focus?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_satisfaction
+      label: -- Satisfaction Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: satisfaction_level
+      label: Overall Satisfaction with Coaching
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 22
+      name: next_session_date
+      label: Scheduled Next Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

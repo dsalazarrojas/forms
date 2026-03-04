@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warranty Claim Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Faulty or damaged product
+      - Incorrect or missing instructions
+      - Not as described
+      - Other
+      required: false
+    - id: 4
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

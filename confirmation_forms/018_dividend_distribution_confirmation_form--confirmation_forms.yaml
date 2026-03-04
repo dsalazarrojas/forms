@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: dividend_distribution_confirmation_form
+    pages:
+    - id: 1
+      name: dividend_distribution_confirmation
+      label: dividend_distribution_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dividend_details
+      label: dividend_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: distribution_date
+      label: distribution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: dividend_amount
+      label: dividend_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: distribution_confirmation_date
+      label: distribution_confirmation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: confirmation_method
+      label: confirmation_method
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''email''}'
+      - '{''option2'': ''phone''}'
+      - '{''option3'': ''letter''}'
+      required: false
+    - id: 8
+      name: confirmation_status
+      label: confirmation_status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''pending''}'
+      - '{''option2'': ''confirmed''}'
+      - '{''option3'': ''cancelled''}'
+      required: false
+    - id: 9
+      name: shareholder
+      label: shareholder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shareholder_address
+      label: shareholder_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirmation_notes
+      label: confirmation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

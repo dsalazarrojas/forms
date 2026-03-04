@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Allergy Management Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allergy_status
+      label: Allergy Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Emergency''}'
+      - '{''label'': ''Non-Emergency''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: emergency_medication
+      label: Emergency Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergy_info
+      label: Allergy Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_status
+      label: Treatment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Allergist''}'
+      - '{''label'': ''ER''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 8
+      name: school_camp_name
+      label: School or Camp Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_camp_phone
+      label: School or Camp Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_camp_email
+      label: School or Camp Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_allergist
+      label: Student Allergist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_dob
+      label: Student DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Guardian''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_medical_notes
+      label: Student Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: food_allergies
+      label: Food Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Milk''}'
+      - '{''label'': ''Eggs''}'
+      - '{''label'': ''Peanuts''}'
+      - '{''label'': ''Wheat''}'
+      - '{''label'': ''Fish''}'
+      - '{''label'': ''Soy''}'
+      - '{''label'': ''Tree Nuts''}'
+      - '{''label'': ''Shellfish''}'
+      - '{''label'': ''Sesame''}'
+      required: false
+    - id: 21
+      name: food_intolerances
+      label: Food Intolerances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_medication_administration
+      label: Emergency Medication Administration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''By a healthcare professional''}'
+      - '{''label'': ''By a non-healthcare professional''}'
+      - '{''label'': ''Not at all''}'
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_signed
+      label: Consent Signed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Partially Signed''}'
+      required: false

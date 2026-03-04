@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Vehicle Inspection Classic
+    pages:
+    - id: 1
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Leased
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      required: false
+    - id: 7
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 8
+      name: vehicle_status_note
+      label: Vehicle Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_inspection_date
+      label: Vehicle Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_inspection_time
+      label: Vehicle Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_inspection_time_note
+      label: Vehicle Inspection Time Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_inspection_status
+      label: Vehicle Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Pending
+      required: false
+    - id: 14
+      name: vehicle_status_update
+      label: Vehicle Status Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_inspection_note
+      label: Vehicle Inspection Note
+      hint: null
+      type: note
+      options: []
+      required: false

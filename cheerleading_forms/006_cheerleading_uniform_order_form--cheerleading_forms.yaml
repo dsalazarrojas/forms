@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheerleading Uniform Order Form
+    pages:
+    - id: 1
+      name: uniform_order_intro
+      label: -- Cheerleading Uniform Order Form --
+      hint: Complete your uniform order below
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: buyer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: School or organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: uniform_style
+      label: Uniform style
+      hint: null
+      type: select_one
+      options:
+      - Two-Piece Cheerleader
+      - One-Piece Cheerleader
+      - Shell and Skirt
+      - Cheer Sports Bra and Skirt
+      - Custom Design
+      required: true
+    - id: 9
+      name: primary_color
+      label: Primary color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Black
+      - Gold
+      - White
+      - Purple
+      - Green
+      - Custom
+      required: true
+    - id: 10
+      name: secondary_color
+      label: Secondary color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Gold
+      - Black
+      - Silver
+      - None
+      - Custom
+      required: true
+    - id: 11
+      name: trim_placement
+      label: Trim placement
+      hint: null
+      type: select_multiple
+      options:
+      - Collar
+      - Sleeves
+      - Waistband
+      - Bottom Hem
+      - None
+      required: false
+    - id: 12
+      name: logo_embroidery
+      label: Do you want logo embroidery?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: logo_file
+      label: Upload your logo file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: athlete_name
+      label: Athlete name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: athlete_number
+      label: Number for uniform
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: size
+      label: Uniform size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - Custom
+      required: true
+    - id: 17
+      name: quantity
+      label: Number of uniforms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: unit_price
+      label: Price per uniform
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: shipping_address
+      label: Shipping address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: zip_code
+      label: Zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: delivery_date_needed
+      label: When do you need the uniforms?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special requests or additional notes
+      hint: null
+      type: text
+      options: []
+      required: false

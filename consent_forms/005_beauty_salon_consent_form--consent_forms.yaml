@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Consent Form
+    pages:
+    - id: 1
+      name: section_client_profile
+      label: -- Client Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: last_visit_date
+      label: Date of Last Visit
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_service_preferences
+      label: -- Service Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut
+      - Hair Coloring
+      - Highlights
+      - Blowout
+      - Treatment
+      - Extensions
+      required: true
+    - id: 8
+      name: hair_type
+      label: Your Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      - Fine
+      - Thick
+      required: false
+    - id: 9
+      name: color_history
+      label: Recent Color History
+      hint: Describe any color treatments in the last 6 months
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_health_safety
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Known Allergies
+      hint: Especially to hair dyes or chemical treatments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skin_sensitivity
+      label: Do you have a sensitive scalp or skin?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: medications
+      label: Current Medications
+      hint: Some medications can affect hair treatment results
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_consent
+      label: -- Consent and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: consent_agreement
+      label: I consent to the beauty services and understand the risks
+      hint: Chemical treatments may have varying results based on hair history
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 16
+      name: photo_release
+      label: May we take photos of your hair for social media?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

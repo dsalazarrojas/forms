@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Rescue Transport Consent Form
+    pages:
+    - id: 1
+      name: transporter_name
+      label: Transporter Full Name
+      hint: Legal name of volunteer transporter
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: transporter_email
+      label: Transporter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: transporter_phone
+      label: Transporter Phone
+      hint: Mobile phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: driver_license_number
+      label: Driver License Number
+      hint: Valid license required
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: license_state
+      label: License State
+      hint: State of issuance
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What will you be driving
+      type: select_one
+      options:
+      - Car
+      - SUV
+      - Van
+      - Truck
+      - Trailer
+      - Other
+      required: true
+    - id: 8
+      name: vehicle_capacity
+      label: Animal Transport Capacity
+      hint: How many animals can you transport
+      type: select_one
+      options:
+      - 1-2 small animals
+      - 3-5 small animals
+      - 1-2 medium animals
+      - 1 large animal
+      - Multiple large animals
+      required: true
+    - id: 9
+      name: transport_date
+      label: Transport Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pickup_location
+      label: Pickup Location
+      hint: Address or facility name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: dropoff_location
+      label: Drop-off Location
+      hint: Destination address or facility
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: estimated_distance
+      label: Estimated Distance
+      hint: Approximate miles
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: animal_details
+      label: Animal Details
+      hint: Species breed and names
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: special_needs
+      label: Special Needs or Requirements
+      hint: Medical behavioral or other needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: consent_statement
+      label: I Understand Transport Responsibilities
+      hint: Acknowledge duties and safety requirements
+      type: select_one
+      options:
+      - Yes I Understand and Agree
+      - No I Do Not Agree
+      required: true
+    - id: 18
+      name: safety_agreement
+      label: Safety Agreement
+      hint: I will follow all safety protocols
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: insurance_confirmation
+      label: Vehicle Insurance Confirmation
+      hint: I have valid auto insurance
+      type: select_one
+      options:
+      - Yes I Have Valid Insurance
+      - false
+      required: true
+    - id: 20
+      name: background_check
+      label: Background Check Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Yet Started
+      required: true
+    - id: 21
+      name: previous_experience
+      label: Previous Transport Experience
+      hint: Describe any prior experience
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: availability
+      label: General Availability for Future Transports
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      - As Needed
+      required: false
+    - id: 23
+      name: reimbursement_request
+      label: Will You Request Mileage Reimbursement
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No I Donate My Services
+      required: true
+    - id: 24
+      name: signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

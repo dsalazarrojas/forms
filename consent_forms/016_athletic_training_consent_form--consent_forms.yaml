@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Training Consent Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sport_activity
+      label: Sport/Activity
+      hint: What sport or activity will you participate in?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_information
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any chronic health conditions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: Include medication and environmental allergies
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_medications
+      label: Current Medications
+      hint: List all medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: past_injuries
+      label: Past Injuries
+      hint: Previous sports-related injuries
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: surgery_history
+      label: Surgery History
+      hint: Any surgeries you have had
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_pain_issues
+      label: Current Pain or Injuries
+      hint: Any current pain or injuries?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physician_clearance
+      label: Physician Medical Clearance
+      hint: Have you been cleared by a physician?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      - Uncertain
+      required: true
+    - id: 17
+      name: consent_acknowledgments
+      label: -- Consent Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: acknowledge_risks
+      label: I understand the risks of athletic participation
+      hint: Acknowledge understanding of athletic risks
+      type: select_one
+      options:
+      - I Understand and Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: acknowledge_emergency_care
+      label: I consent to emergency medical care if needed
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 20
+      name: acknowledge_athletic_training
+      label: I consent to athletic training services
+      hint: Services may include taping, rehabilitation, etc.
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 21
+      name: acknowledge_liability_waiver
+      label: I acknowledge the liability waiver
+      hint: I release the organization from liability
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 22
+      name: acknowledge_photo_release
+      label: I consent to photos/video for educational purposes
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: false
+    - id: 23
+      name: acknowledge_privacy_policy
+      label: I acknowledge the privacy policy
+      hint: Understanding how medical information will be used
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 24
+      name: parent_consent_required
+      label: -- Parent/Guardian Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: parent_consent
+      label: Parent/Guardian Consent
+      hint: For athletes under 18 years of age
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      - Not Applicable
+      required: false

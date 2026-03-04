@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Data Retention Consent Form
+    pages:
+    - id: 1
+      name: candidate_info_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: To communicate regarding your data
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_applied
+      label: Position Applied For
+      hint: The role you were recently a candidate for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Date of Application
+      hint: Approximate date of your last interaction
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: data_retention_section
+      label: -- Data Retention Consent --
+      hint: How we handle your information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: retention_consent
+      label: Consent to retain personal data for future roles
+      hint: Allow us to keep your profile for upcoming opportunities
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 9
+      name: preferred_retention_period
+      label: Retention Period Preferred
+      hint: How long should we keep your data
+      type: select_one
+      options:
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      - Indefinitely (until withdrawn)
+      required: true
+    - id: 10
+      name: privacy_rights_section
+      label: -- Privacy Policy and Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: privacy_policy_ack
+      label: Acknowledgment of Privacy Policy
+      hint: Ensure you have read our full data protection terms
+      type: select_one
+      options:
+      - I have read and agree
+      - I have questions
+      required: true
+    - id: 12
+      name: background_check_consent
+      label: Consent for third-party background check
+      hint: If needed for future placement
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 13
+      name: future_contact_consent
+      label: Consent to be contacted for future opportunities
+      hint: How would you like us to reach out
+      type: select_one
+      options:
+      - Yes, by email
+      - Yes, by phone
+      - Yes, by both
+      - false
+      required: true
+    - id: 14
+      name: confirmation_section
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: withdrawal_right_ack
+      label: I understand my right to withdraw consent
+      hint: You can request data deletion at any time
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: digital_signature_name
+      label: Signature - Full Name for digital signature
+      hint: Type your name to sign this document
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Optometry Consent Form Template
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_details
+      label: treatment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_provider_name
+      label: healthcare_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider_signature
+      label: healthcare_provider_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: consent_to_treatment
+      label: consent_to_treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false

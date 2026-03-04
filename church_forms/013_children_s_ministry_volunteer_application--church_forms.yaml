@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Ministry Volunteer Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: Best phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: availability
+      label: Availability
+      hint: Days and times available to volunteer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_with_children
+      label: Experience With Children
+      hint: Brief summary of related experience
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: background_check_consent
+      label: Consent for Background Check
+      hint: Required for volunteer approval
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 7
+      name: references
+      label: References
+      hint: Provide two references with contact details
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: roles_interested
+      label: Roles Interested In
+      hint: Choose preferred volunteer roles
+      type: select_multiple
+      options:
+      - Classroom helper
+      - Activity leader
+      - Storytelling
+      - Event support
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Information
+      hint: Any other notes for the review team
+      type: text
+      options: []
+      required: false

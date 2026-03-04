@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 90 Day Action Plan Intake Form
+    pages:
+    - id: 1
+      name: section_header_plan_overview
+      label: "--- 90-Day Action Plan Overview ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client or participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: plan_start_date
+      label: Plan start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: primary_goal
+      label: Primary 90-day goal
+      hint: Be specific and measurable
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: goal_priority
+      label: Priority level
+      hint: Select one priority to focus on
+      type: select_one
+      options:
+        - High
+        - Medium
+        - Low
+      required: true
+    - id: 6
+      name: success_metrics
+      label: How success will be measured
+      hint: Metrics or KPIs (numbers, percentages, deliverables)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: milestone_1
+      label: Milestone 1 (description & target date)
+      hint: e.g., "Set up X by MM/DD"
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: milestone_2
+      label: Milestone 2 (description & target date)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: potential_obstacles
+      label: Anticipated obstacles
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Time constraints
+        - Budget limitations
+        - Resource availability
+        - Skill gaps
+        - Competing priorities
+        - None
+      required: false
+    - id: 10
+      name: support_needed
+      label: Support or resources needed
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+        - Weekly coaching sessions
+        - Project management support
+        - Training / upskilling
+        - Accountability partner
+        - Tools / software
+      required: false
+    - id: 11
+      name: accountability_preference
+      label: Preferred accountability cadence
+      hint: Choose one
+      type: select_one
+      options:
+        - Weekly check-in (30 min)
+        - Bi-weekly check-in
+        - Monthly summary email
+        - Self-updates only
+      required: true
+    - id: 12
+      name: preferred_checkin_time
+      label: Preferred regular check-in time
+      hint: "Local time (HH:MM)"
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: interim_success_indicators
+      label: Interim indicators of progress
+      hint: Short list of signs that plan is on track
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional notes or context for the coach
+      hint: Include any sensitivities or constraints
+      type: text
+      options: []
+      required: false

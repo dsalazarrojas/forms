@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mesothelioma Claim Form
+    pages:
+    - id: 1
+      name: claimant_contact
+      label: Claimant Contact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: claimant_date_of_birth
+      label: Claimant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mesothelioma_type
+      label: Mesothelioma Type
+      hint: null
+      type: select_one
+      options:
+      - Pleural
+      - Peritoneal
+      - Pericardial
+      - Cystic
+      - Am JCO
+      - Recurrent
+      required: true
+    - id: 6
+      name: claimant_date_of_diagnosis
+      label: Claimant Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: claimant_insurance_provider
+      label: Claimant Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claimant_insurance_number
+      label: Claimant Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: claimant_date_of_death
+      label: Claimant Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: claimant_date_of_last_contact
+      label: Claimant Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false

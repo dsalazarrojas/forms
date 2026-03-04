@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elite Event Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_preferences
+      label: Event Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Address for shipping and billing
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: Time of event
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: Event Type
+      hint: Type of event
+      type: select_one
+      options:
+      - VIP
+      - High-End
+      - General
+      required: false
+    - id: 12
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Cancelled
+      - Pending
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: Method of payment for event
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 14
+      name: attendee_list
+      label: Attendee List
+      hint: List of attendees
+      type: text
+      options: []
+      required: false

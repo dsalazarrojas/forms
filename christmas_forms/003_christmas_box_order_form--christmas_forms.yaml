@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Box Order Form
+    pages:
+    - id: 1
+      name: section_customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for delivery
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Order confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact for delivery issues
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping address
+      hint: Street, city, state, postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: box_size
+      label: Box size
+      hint: Choose preferred gift box size
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 7
+      name: contents_selection
+      label: Contents selection
+      hint: Select items to include in the box
+      type: select_multiple
+      options:
+      - Cookies and sweets
+      - Hot chocolate kit
+      - Handcrafted ornament
+      - Holiday candles
+      - Gift tag and card
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: Number of identical boxes
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: delivery_date
+      label: Preferred delivery date
+      hint: We will confirm availability
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: additional_requests
+      label: Additional requests
+      hint: Any personalization or notes
+      type: text
+      options: []
+      required: false

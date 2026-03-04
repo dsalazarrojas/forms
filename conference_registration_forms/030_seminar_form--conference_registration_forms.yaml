@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: seminar_form
+    pages:
+    - id: 1
+      name: attendee_information
+      label: attendee_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seminar_details
+      label: seminar_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_info
+      label: registration_info
+      hint: Please note that once you register, you will not be able to make any changes
+        to your registration.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_questions
+      label: attendee_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seminar_attendee
+      label: seminar_attendee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: seminar_attendee
+      label: seminar_attendee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

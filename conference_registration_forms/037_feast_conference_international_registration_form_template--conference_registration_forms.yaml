@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feast Conference International Registration Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: select_one_1
+      label: What do you want to do at the conference?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Attend''}'
+      - '{''id'': 2, ''label'': ''Speak''}'
+      - '{''id'': 3, ''label'': ''Organize''}'
+      required: true
+    - id: 7
+      name: select_multiple_1
+      label: What are your interests?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Worship''}'
+      - '{''id'': 2, ''label'': ''Learn''}'
+      - '{''id'': 3, ''label'': ''Network''}'
+      - '{''id'': 4, ''label'': ''Socialize''}'
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

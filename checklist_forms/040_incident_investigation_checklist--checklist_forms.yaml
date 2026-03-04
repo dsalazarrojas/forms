@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: incident_investigation_checklist
+    pages:
+    - id: 1
+      name: investigation_actions
+      label: Investigation actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident_description
+      hint: An explanation of the incident
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: investigation_manager
+      label: investigation_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_priority
+      label: incident_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: incident_report
+      label: incident_report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: witness_list
+      label: witness_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_date1
+      label: incident_date1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_time1
+      label: incident_time1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: incident_location1
+      label: incident_location1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_description1
+      label: incident_description1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: employee_name1
+      label: employee_name1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: investigation_manager1
+      label: investigation_manager1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: incident_type1
+      label: incident_type1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: incident_priority1
+      label: incident_priority1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: incident_status1
+      label: incident_status1
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: incident_report1
+      label: incident_report1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: witness_list1
+      label: witness_list1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

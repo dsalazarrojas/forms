@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Service Improvement Request Form
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_area
+      label: Service Area
+      hint: null
+      type: select_one
+      options:
+      - Downtown
+      - Uptown
+      - Downtown and Uptown
+      required: false
+    - id: 6
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_priority
+      label: Service Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - Follow-up via Phone
+      - Follow-up via Email
+      - Follow-up via Chat
+      required: false

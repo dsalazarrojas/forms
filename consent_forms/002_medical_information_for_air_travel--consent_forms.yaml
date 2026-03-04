@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Information For Air Travel
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_details
+      label: Medical Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

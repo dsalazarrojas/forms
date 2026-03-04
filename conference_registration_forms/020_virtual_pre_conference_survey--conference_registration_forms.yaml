@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Pre Conference Survey
+    pages:
+    - id: 1
+      name: attendance_status
+      label: Attendance status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: physical_conditions
+      label: Physical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: thoughts
+      label: Thoughts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

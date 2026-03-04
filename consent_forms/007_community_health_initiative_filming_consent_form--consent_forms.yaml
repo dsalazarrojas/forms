@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Initiative Filming Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guardian_name
+      label: Legal Guardian Name
+      hint: Required if participant is under 18
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recording_date
+      label: Date of Recording
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: video_consent
+      label: Consent for Video Recording
+      hint: Permission to record your image and actions on video
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 5
+      name: audio_consent
+      label: Consent for Audio Recording
+      hint: Permission to record your voice
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 6
+      name: photo_consent
+      label: Consent for Still Photography
+      hint: Permission to take digital or film photographs
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 7
+      name: use_case_agreement
+      label: I understand the media may be used for educational or promotional purposes
+      hint: Includes social media, websites, and print materials
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 8
+      name: withdrawal_policy
+      label: I understand I can withdraw consent before publication
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 9
+      name: signature_confirmation
+      label: Electronic Signature Confirmation
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

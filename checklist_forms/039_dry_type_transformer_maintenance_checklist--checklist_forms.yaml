@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: dry-type-transformer-maintenance-checklist
+    pages:
+    - id: 1
+      name: routine_inspections
+      label: Routine Inspections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_records
+      label: Maintenance Records
+      hint: null
+      type: select_multiple
+      options:
+      - Transformer Oil Level
+      - Transformer Type
+      - Transformer Age
+      required: false
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: transformer_status
+      label: Transformer Status
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Offline due to low oil level
+      - Offline due to high temperature
+      required: true
+    - id: 7
+      name: transformer_oil_level
+      label: Transformer Oil Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Normal
+      - Low
+      required: true
+    - id: 8
+      name: transformer_type
+      label: Transformer Type
+      hint: null
+      type: select_multiple
+      options:
+      - Dry Type
+      - Liquid Type
+      - Oilless Type
+      required: true
+    - id: 9
+      name: transformer_age
+      label: Transformer Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: true
+    - id: 11
+      name: site_visit_status
+      label: Site Visit Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      required: false
+    - id: 12
+      name: transformer_maintenance_status
+      label: Transformer Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Inactive due to high temperature
+      required: true
+    - id: 13
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Client Relationship Assessment Form
+    pages:
+    - id: 1
+      name: sales_client_relationship_assessment
+      label: What is the client's sales performance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10000, ''name'': ''Good'', ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 10001, ''name'': ''Fair'', ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 10002, ''name'': ''Poor'', ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 3
+      name: sales_performance
+      label: What is the client's sales performance?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10000, ''name'': ''High'', ''label'': ''High'', ''value'': ''High''}'
+      - '{''id'': 10001, ''name'': ''Medium'', ''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 10002, ''name'': ''Low'', ''label'': ''Low'', ''value'': ''Low''}'
+      required: false
+    - id: 4
+      name: sales_manager_comment
+      label: Sales Manager Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sales_manager_phone
+      label: Sales Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sales_manager_email
+      label: Sales Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_manager_title
+      label: Sales Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sales_manager_name
+      label: Sales Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sales_manager_company
+      label: Sales Manager Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_manager_department
+      label: Sales Manager Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sales_manager_job_title
+      label: Sales Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sales_manager_reported_hours
+      label: Sales Manager Reported Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sales_manager_reported_days
+      label: Sales Manager Reported Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sales_manager_sales
+      label: Sales Manager Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: sales_manager_sales_last_quarter
+      label: Sales Manager Last Quarter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: sales_manager_sales_last_year
+      label: Sales Manager Last Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: sales_manager_sales_last_6_months
+      label: Sales Manager Last 6 Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: sales_manager_average_sales_per_month
+      label: Sales Manager Average Sales per Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: sales_manager_total_sales
+      label: Sales Manager Total Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: sales_manager_sales_per_quarter
+      label: Sales Manager Sales per Quarter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: sales_manager_commission
+      label: Sales Manager Commission
+      hint: null
+      type: number
+      options: []
+      required: false

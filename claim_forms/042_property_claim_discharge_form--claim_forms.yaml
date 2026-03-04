@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Claim Discharge Form
+    pages:
+    - id: 1
+      name: policyholder
+      label: policyholder
+      hint: null
+      type: select_one
+      options:
+      - Claimant
+      - Policyholder
+      - Other
+      required: false
+    - id: 2
+      name: claim_details
+      label: claim details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: policy_holder_details
+      label: policy holder details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: claim_amount
+      label: claim amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: claim_status
+      label: claim status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      - Discontinued
+      required: false
+    - id: 6
+      name: claim_description
+      label: claim description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: policy_number
+      label: policy number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: discharge_date
+      label: discharge date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: claimant_signature
+      label: claimant signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policyholder_signature
+      label: policyholder signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claimant_contact_info
+      label: claimant contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policyholder_contact_info
+      label: policyholder contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_company_signature
+      label: insurance company signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_company_name
+      label: insurance company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_adjuster_name
+      label: assigned adjuster name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_adjuster_signature
+      label: assigned adjuster signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_completed
+      label: date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: claimant_address
+      label: claimant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policyholder_address
+      label: policyholder address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_adjuster_address
+      label: assigned adjuster address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: claimant_phone
+      label: claimant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claimant_email
+      label: claimant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: policyholder_phone
+      label: policyholder phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policyholder_email
+      label: policyholder email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: assigned_adjuster_phone
+      label: assigned adjuster phone
+      hint: null
+      type: text
+      options: []
+      required: false

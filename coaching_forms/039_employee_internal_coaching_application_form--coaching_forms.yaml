@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Internal Coaching Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_coaching
+      label: Reason for Coaching
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coaching_preferences
+      label: Coaching Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - one-on-one
+      - group
+      - phone_support
+      - email_support
+      required: false
+    - id: 6
+      name: coaching_topics
+      label: Coaching Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goals_and_objectives
+      label: Goals and Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coaching_start_date
+      label: Coaching Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: coaching_end_date
+      label: Coaching End Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: hours_worked_before_coaching_program
+      label: Hours Worked Before Coaching Program
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: percentage_coaching_hours
+      label: Percentage of Coaching Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: coaching_frequency
+      label: Coaching Frequency
+      hint: null
+      type: select_one
+      options:
+      - bi-weekly
+      - weekly
+      - monthly
+      required: false
+    - id: 13
+      name: primary_coach
+      label: Primary Coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: coaching_dedicated_time
+      label: Coaching Dedicated Time
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      - lunch_break
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: reviewed_by
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 22
+      name: reviewed_by_employee
+      label: Reviewed By Employee
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 23
+      name: reviewed_by_coach
+      label: Reviewed By Coach
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 24
+      name: reviewed_by_admin
+      label: Reviewed By Admin
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Festival Waiver Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Relationship to Participant
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I grant permission for the festival to use my name, photo, or likeness for
+        promotional purposes.
+      - I do not grant permission for the festival to use my name, photo, or likeness.
+      required: true
+    - id: 12
+      name: emergency_contact_consent
+      label: Emergency Contact Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I grant permission for the festival to use my name, photo, or likeness for
+        promotional purposes.
+      - I do not grant permission for the festival to use my name, photo, or likeness.
+      required: true

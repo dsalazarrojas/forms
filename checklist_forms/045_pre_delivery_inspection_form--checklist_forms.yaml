@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Delivery Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_license_plate
+      label: vehicle_license_plate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_vin
+      label: Vehicle Vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Gasoline'', ''value'': ''Gasoline''}'
+      - '{''id'': 2, ''label'': ''Electric'', ''value'': ''Electric''}'
+      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''Hybrid''}'
+      required: true
+    - id: 6
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Full'', ''value'': ''Full''}'
+      - '{''id'': 2, ''label'': ''Quarter'', ''value'': ''Quarter''}'
+      - '{''id'': 3, ''label'': ''Empty'', ''value'': ''Empty''}'
+      required: true
+    - id: 7
+      name: exterior_condition
+      label: Exterior Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Clean'', ''value'': ''Clean''}'
+      - '{''id'': 2, ''label'': ''Stains'', ''value'': ''Stains''}'
+      - '{''id'': 3, ''label'': ''Dents'', ''value'': ''Dents''}'
+      required: true
+    - id: 8
+      name: interior_condition
+      label: Interior Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Clean'', ''value'': ''Clean''}'
+      - '{''id'': 2, ''label'': ''Stains'', ''value'': ''Stains''}'
+      - '{''id'': 3, ''label'': ''Odor'', ''value'': ''Odor''}'
+      required: true
+    - id: 9
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: year_model
+      label: Year Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Automatic'', ''value'': ''Automatic''}'
+      - '{''id'': 2, ''label'': ''Manual'', ''value'': ''Manual''}'
+      required: true
+    - id: 13
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_year2
+      label: Vehicle Year 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_year3
+      label: Vehicle Year 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_year4
+      label: Vehicle Year 4
+      hint: null
+      type: number
+      options: []
+      required: false

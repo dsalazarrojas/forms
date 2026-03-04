@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Your Dream Home Checklist Form
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single Family''}'
+      - '{''value'': ''Townhouse''}'
+      - '{''value'': ''Condo''}'
+      - '{''value'': ''Duplex''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''City''}'
+      - '{''value'': ''Suburbs''}'
+      - '{''value'': ''Rural''}'
+      required: false
+    - id: 3
+      name: price_range
+      label: Price Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: number_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: year_built
+      label: Year Built
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lot_type
+      label: Lot Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Residential''}'
+      - '{''value'': ''Commercial''}'
+      required: false
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Single Family''}'
+      - '{''value'': ''Townhouse''}'
+      - '{''value'': ''Condo''}'
+      - '{''value'': ''Duplex''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: lot_orientation
+      label: Lot Orientation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''North''}'
+      - '{''value'': ''South''}'
+      - '{''value'': ''East''}'
+      - '{''value'': ''West''}'
+      required: false
+    - id: 12
+      name: has_porch
+      label: Has Porch
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: has_yard
+      label: Has Yard
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: has_pool
+      label: Has Pool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 15
+      name: has_garage
+      label: Has Garage
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 16
+      name: has_basement
+      label: Has Basement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 17
+      name: has_attic
+      label: Has Attic
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 18
+      name: has_fireplace
+      label: Has Fireplace
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 19
+      name: has_garden
+      label: Has Garden
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 20
+      name: has_play_area
+      label: Has Play Area
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 21
+      name: has_security_system
+      label: Has Security System
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 22
+      name: has_elevator
+      label: Has Elevator
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 23
+      name: has_fire_suppression_system
+      label: Has Fire Suppression System
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 24
+      name: has_water_source
+      label: Has Water Source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''City''}'
+      - '{''value'': ''Well''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 25
+      name: has_sewage_disposal
+      label: Has Sewage Disposal
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Septic''}'
+      - '{''value'': ''Sewage Disposal''}'
+      required: false
+    - id: 26
+      name: lot_frontage
+      label: Lot Frontage
+      hint: null
+      type: number
+      options: []
+      required: false

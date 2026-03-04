@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospital_communication_excellence_forum_registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendance_preferred
+      label: preferred_attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''in_person'', ''label'': ''In Person''}'
+      - '{''value'': ''virtual'', ''label'': ''Virtual''}'
+      required: true
+    - id: 6
+      name: dietary_needs
+      label: dietary_needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''vegetarian'', ''label'': ''Vegetarian''}'
+      - '{''value'': ''vegan'', ''label'': ''Vegan''}'
+      - '{''value'': ''gluten_free'', ''label'': ''Gluten Free''}'
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: accessibility_needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''wheelchair_accessible'', ''label'': ''Wheelchair Accessible''}'
+      - '{''value'': ''audio_desktop'', ''label'': ''Audio Descriptive Support''}'
+      - '{''value'': ''visual_alternate'', ''label'': ''Visual Alternative Support''}'
+      required: false

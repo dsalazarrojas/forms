@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Drawing Review Checklist Form
+    pages:
+    - id: 1
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_number
+      label: Project Number
+      hint: Reference code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: drawing_set_name
+      label: Drawing Set Name
+      hint: Which set is being reviewed?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Person conducting the review
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_cover_sheet
+      label: -- Cover Sheet and Conventions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cover_sheet_complete
+      label: Cover sheet is complete and accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: true
+    - id: 9
+      name: title_block_consistent
+      label: Title blocks consistent throughout
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: true
+    - id: 10
+      name: scale_notation
+      label: All drawings properly scaled and noted
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 11
+      name: legend_symbols
+      label: Legend and symbols clearly defined
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: true
+    - id: 12
+      name: section_compliance
+      label: -- Compliance and Standards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: building_code_compliance
+      label: Meets building code requirements
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Review needed
+      required: true
+    - id: 14
+      name: accessibility_compliance
+      label: Accessible design compliance verified
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: false
+    - id: 15
+      name: zoning_compliance
+      label: Zoning requirements met
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not applicable
+      required: false
+    - id: 16
+      name: section_dimensions
+      label: -- Dimensions and Annotations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: all_dimensions_present
+      label: All necessary dimensions shown
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 18
+      name: dimensions_clear
+      label: Dimensions are clear and legible
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Needs improvement
+      required: true
+    - id: 19
+      name: notes_specifications
+      label: All necessary notes and specifications included
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 20
+      name: section_coordination
+      label: -- Coordination with Other Disciplines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: mep_coordination
+      label: Coordinated with MEP drawings
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: false
+    - id: 22
+      name: structural_coordination
+      label: Coordinated with structural drawings
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: false
+    - id: 23
+      name: overall_quality
+      label: Overall Drawing Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: review_approval
+      label: Recommended for Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Approved with revisions
+      - Reject - Major revisions needed
+      required: true

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: pool_access_complaint_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pool_id
+      label: Pool ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: complaint_description
+      label: Complaint description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: complaint_details
+      label: Complaint details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complaint_image
+      label: Complaint image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pool_manager
+      label: Pool Manager
+      hint: null
+      type: select_one
+      options:
+      - Bob Smith
+      - Jane Doe
+      - John Doe
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_at
+      label: Assigned at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: closed_at
+      label: Closed at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: resolved_by
+      label: Resolved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resolved_at
+      label: Resolved at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submitted_at
+      label: Submitted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: pool_address
+      label: Pool address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pool_address_notes
+      label: Pool address notes
+      hint: null
+      type: text
+      options: []
+      required: false

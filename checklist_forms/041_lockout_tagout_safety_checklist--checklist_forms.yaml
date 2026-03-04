@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lockout Tagout Safety Checklist
+    pages:
+    - id: 1
+      name: lockout_tagout_safety_checklist_form_1
+      label: Initial Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: lockout_tagout_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: lockout_tagout_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: lockout_tagout_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Critical
+      required: false
+    - id: 6
+      name: lockout_tagout_issue
+      label: Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lockout_tagout_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lockout_tagout_inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: false
+    - id: 9
+      name: lockout_tagout_inspection_last
+      label: Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lockout_tagout_inspection_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Critical
+      required: false
+    - id: 11
+      name: lockout_tagout_inspection_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: false
+    - id: 12
+      name: lockout_tagout_next_action
+      label: Next Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lockout_tagout_inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Critical
+      required: false
+    - id: 14
+      name: lockout_tagout_inspection_result_notes
+      label: Inspection Result Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lockout_tagout_last_inspection_result
+      label: Last Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Critical
+      required: false
+    - id: 16
+      name: lockout_tagout_last_inspection_result_notes
+      label: Last Inspection Result Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lockout_tagout_next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: lockout_tagout_last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: lockout_tagout_last_inspection_time
+      label: Last Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: lockout_tagout_last_inspection_status
+      label: Last Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Critical
+      required: false
+    - id: 21
+      name: lockout_tagout_last_inspection_frequency
+      label: Last Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: false
+    - id: 22
+      name: lockout_tagout_inspection_history
+      label: Inspection History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lockout_tagout_inspection_summary
+      label: Inspection Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lockout_tagout_recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: lockout_tagout_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

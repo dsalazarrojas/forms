@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Roof Inspection Checklist
+    pages:
+    - id: 1
+      name: roof_condition
+      label: What is the condition of the roof?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leaks
+      label: Are there any leaks in the roof?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: damage
+      label: What type of damage is visible?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: photos_taken
+      label: How many photos were taken?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspector_company
+      label: Inspector Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_inspector
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_inspector
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: roof_size
+      label: Roof Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: roof_type
+      label: Roof Type
+      hint: null
+      type: select_one
+      options:
+      - flat
+      - pitched
+      - combination
+      required: false
+    - id: 14
+      name: inspector_license
+      label: Inspector License
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: inspection_area
+      label: Inspection Area
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: weather_condition
+      label: Weather Condition
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: drone_used
+      label: Drone Used
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: inspector_notes
+      label: Inspector Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: drone_type
+      label: Drone Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 24
+      name: flight_time
+      label: Flight Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

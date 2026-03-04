@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Confirmation Form
+    pages:
+    - id: 1
+      name: speaker_info
+      label: Speaker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: confirm_participation
+      label: Confirm Participation
+      hint: Please confirm that you will participate in this event.
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 4
+      name: confirm_travel
+      label: Confirm Travel Arrangements
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 5
+      name: confirm_lodging
+      label: Confirm Lodging
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 6
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: speaker_email
+      label: Speaker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false

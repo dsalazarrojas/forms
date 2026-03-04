@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Photography Consent Form
+    pages:
+    - id: 1
+      name: consent_intro
+      label: Photography Consent Authorization
+      hint: Please read and complete this form carefully
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: Person being photographed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_details
+      label: Event or Location Details
+      hint: Where photography will occur
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_name
+      label: Event or Location Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: organization_name
+      label: Organization Requesting Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: consent_options
+      label: Consent Options
+      hint: Choose what you allow
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: photo_consent
+      label: I Consent to Photography
+      hint: Still and digital photos
+      type: select_one
+      options:
+      - Yes - I Give Permission
+      - No - I Do Not Consent
+      required: true
+    - id: 18
+      name: video_consent
+      label: I Consent to Video Recording
+      hint: Video and motion capture
+      type: select_one
+      options:
+      - Yes - I Give Permission
+      - No - I Do Not Consent
+      required: true
+    - id: 19
+      name: audio_consent
+      label: I Consent to Audio Recording
+      hint: Voice and sound recording
+      type: select_one
+      options:
+      - Yes - I Give Permission
+      - No - I Do Not Consent
+      required: true
+    - id: 20
+      name: digital_media_consent
+      label: I Consent to Digital Media Use
+      hint: Social media and online platforms
+      type: select_one
+      options:
+      - Yes - I Give Permission
+      - No - I Do Not Consent
+      required: true
+    - id: 21
+      name: usage_purposes
+      label: Approved Purposes
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Print Publications
+      - Newsletters
+      - Promotional Materials
+      - Press Releases
+      - Annual Reports
+      - Internal Communications
+      - Educational Materials
+      - Archive
+      required: false
+    - id: 22
+      name: name_likeness
+      label: May We Use Your Name and Likeness
+      hint: In conjunction with images
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: time_limit
+      label: Consent Duration
+      hint: How long does consent last
+      type: select_one
+      options:
+      - One Time Use Only
+      - One Year
+      - Three Years
+      - Five Years
+      - Indefinitely
+      required: true
+    - id: 24
+      name: restrictions
+      label: Any Restrictions or Conditions
+      hint: Specify any limitations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guardian_info
+      label: Parent or Guardian Information
+      hint: If participant is under 18
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: is_minor
+      label: Is Participant Under 18
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: guardian_first_name
+      label: Guardian First Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: guardian_last_name
+      label: Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: guardian_relationship
+      label: Relationship to Participant
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Legal Guardian
+      - Other
+      required: false
+    - id: 30
+      name: guardian_signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

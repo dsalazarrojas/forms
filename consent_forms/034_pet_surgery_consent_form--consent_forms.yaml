@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Surgery Consent Form
+    pages:
+    - id: 1
+      name: pet_owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_surgery_info
+      label: Surgical Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: procedure_details
+      label: Procedure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_consent
+      label: Owner Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vet_sign_date_time
+      label: Veterinarian Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vet_sign_date_time
+      label: Veterinarian Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: owner_info_signature
+      label: Owner Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vet_info_signature
+      label: Veterinarian Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

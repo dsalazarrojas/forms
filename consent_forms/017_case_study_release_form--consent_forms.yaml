@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Study Release Form
+    pages:
+    - id: 1
+      name: release_header_section
+      label: -- Release Form Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Date of Release Authorization
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: case_study_title
+      label: Case Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization or Institution Name
+      hint: The entity seeking permission to publish
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_dob
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: participant_contact
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: publication_details_section
+      label: -- Publication Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: publication_type
+      label: Type of Publication
+      hint: null
+      type: select_one
+      options:
+      - Academic Journal Article
+      - Case Study Report
+      - Book Chapter
+      - Conference Presentation
+      - Website or Blog
+      - Educational Material
+      - Other
+      required: true
+    - id: 12
+      name: publication_description
+      label: Description of the Case Study
+      hint: What the case study is about and its purpose
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: target_audience
+      label: Intended Audience or Publication Venue
+      hint: Who will read or access this publication
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: confidentiality_section
+      label: -- Confidentiality and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: identifying_information
+      label: Will Identifying Information Be Included?
+      hint: null
+      type: select_one
+      options:
+      - Yes, my name will be used
+      - Yes, but with pseudonym
+      - No, will be completely de-identified
+      - Participant preference varies
+      required: true
+    - id: 16
+      name: personal_details_included
+      label: Which Personal Details May Be Included?
+      hint: Select all that may be disclosed
+      type: select_multiple
+      options:
+      - Name
+      - Age or Date of Birth
+      - Gender
+      - Occupation
+      - Location
+      - Medical Information
+      - Family Information
+      - Photographs
+      - Other
+      required: false
+    - id: 17
+      name: sensitive_information
+      label: How Will Sensitive Information Be Handled?
+      hint: Describe safeguards for sensitive details
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: rights_section
+      label: -- Rights and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: grant_permission
+      label: I grant permission to publish this case study
+      hint: null
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 20
+      name: usage_rights
+      label: Permitted Uses of the Case Study
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Academic Publication
+      - Educational Use
+      - Professional Training
+      - Research Purposes
+      - Public Presentation
+      - Online Distribution
+      - All Uses
+      required: true
+    - id: 21
+      name: future_permissions
+      label: May Organization Use This Case in Future Publications?
+      hint: null
+      type: select_one
+      options:
+      - Yes, in all future publications
+      - Yes, with my additional permission each time
+      - No, one-time use only
+      - Not sure
+      required: true
+    - id: 22
+      name: review_section
+      label: -- Review and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: review_opportunity
+      label: Would you like to review the published case before release?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I want to review it
+      - No, organization may publish directly
+      required: true
+    - id: 24
+      name: withdrawal_clause
+      label: Can this permission be withdrawn later?
+      hint: null
+      type: select_one
+      options:
+      - Yes, at any time
+      - Yes, within a certain period
+      - No, permanent authorization
+      required: true
+    - id: 25
+      name: additional_terms
+      label: Additional Terms or Conditions
+      hint: Any special requests or requirements
+      type: text
+      options: []
+      required: false

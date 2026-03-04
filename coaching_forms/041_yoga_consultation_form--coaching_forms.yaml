@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: yogaConsultationForm
+    pages:
+    - id: 1
+      name: clientdetails
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medicalconditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''diabetes''}'
+      - '{''value'': ''heartDisease''}'
+      - '{''value'': ''highBloodPressure''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''nuts''}'
+      - '{''value'': ''shellfish''}'
+      - '{''value'': ''soy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 4
+      name: currenthealth
+      label: Current Health
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 5
+      name: medicalhistory
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: previousinjuries
+      label: Previous Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medicationusage
+      label: Medication Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medicaldevices
+      label: Medical Devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergencycontact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergencycontactname
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergencycontactphone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergencycontactalternatephone
+      label: Alternate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergencycontactemail
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

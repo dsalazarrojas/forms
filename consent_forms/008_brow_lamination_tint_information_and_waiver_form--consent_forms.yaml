@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Lamination & Tint Information And Waiver Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Brow Lamination Only
+      - Tint Only
+      - Lamination and Tint
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: prior_treatments
+      label: Have you had brow treatments before
+      hint: Including lamination or tinting
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 8
+      name: prior_reactions
+      label: Previous reactions to brow treatments
+      hint: Any negative reactions or sensitivities
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skin_sensitivities
+      label: Known skin sensitivities or allergies
+      hint: Including product allergies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications
+      label: Current medications affecting skin
+      hint: Include topical medications
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pregnancy_status
+      label: Are you currently pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, nursing
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 12
+      name: health_conditions
+      label: Do you have any skin conditions affecting brows
+      hint: Eczema, psoriasis, rosacea, etc
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: informed_risks
+      label: I have been informed of the risks and benefits
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I have questions
+      required: true
+    - id: 14
+      name: consent_to_treat
+      label: I consent to the brow lamination and tint treatment
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: waiver_acknowledgment
+      label: I acknowledge and waive liability claims
+      hint: I understand and accept all risks
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true
+    - id: 16
+      name: aftercare_understood
+      label: Aftercare instructions understood
+      hint: I will follow all aftercare guidelines
+      type: select_one
+      options:
+      - Yes, I understand
+      - I need clarification
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

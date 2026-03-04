@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lifting Sling Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sling_type
+      label: Sling Type
+      hint: null
+      type: select_one
+      options:
+      - Lifting Sling
+      - Picking Sling
+      - Rigging Sling
+      required: false
+    - id: 4
+      name: sling_condition
+      label: Sling Condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Worn
+      required: false
+    - id: 5
+      name: hook_type
+      label: Hook Type
+      hint: null
+      type: select_one
+      options:
+      - Single Leg
+      - Double Leg
+      - Adjustable
+      required: false
+    - id: 6
+      name: load_capacity
+      label: Load Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: load_weight
+      label: Load Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lift_height
+      label: Lift Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lift_distance
+      label: Lift Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: lift_velocity
+      label: Lift Velocity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lift_direction
+      label: Lift Direction
+      hint: null
+      type: select_one
+      options:
+      - Forward
+      - Reverse
+      required: false
+    - id: 12
+      name: sling_inspection_frequency
+      label: Sling Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 13
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Deferred
+      required: false
+    - id: 14
+      name: inspection_comments
+      label: Inspection Comments
+      hint: null
+      type: text
+      options: []
+      required: false

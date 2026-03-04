@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_innovation_records_release_form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: patient_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_type
+      label: consent_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_release
+      label: date_of_release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: authorized_person
+      label: authorized_person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_type
+      label: release_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false

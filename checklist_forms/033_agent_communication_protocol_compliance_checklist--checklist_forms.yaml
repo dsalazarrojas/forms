@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Communication Protocol Compliance Checklist
+    pages:
+    - id: 1
+      name: header
+      label: -- Communication Protocol Compliance Checklist --
+      hint: evaluating adherence to standard operating procedures
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: eval_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: interaction_id
+      label: Interaction ID - Call or Chat
+      hint: reference to the recorded session
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: compliance_header
+      label: -- Compliance Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: greeting_check
+      label: Did the agent use the mandatory greeting?
+      hint: including name and company identity
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 8
+      name: client_name_check
+      label: Was the client's name used during the interaction?
+      hint: building rapport
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 9
+      name: listening_check
+      label: Did the agent demonstrate active listening?
+      hint: summarizing and acknowledging client points
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Needs Improvement
+      required: true
+    - id: 10
+      name: accuracy_check
+      label: Was the information provided accurate and complete?
+      hint: check against knowledge base
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Minor errors
+      required: true
+    - id: 11
+      name: language_check
+      label: Did the agent use professional and polite language?
+      hint: avoidance of jargon or slang
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 12
+      name: closing_check
+      label: Was the mandatory closing used?
+      hint: offering further assistance
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 13
+      name: overall_score
+      label: Overall Protocol Score
+      hint: final assessment of the interaction
+      type: select_one
+      options:
+      - 100% (Perfect)
+      - 80-99% (Compliant)
+      - 50-79% (Developing)
+      - Below 50% (Non-compliant)
+      required: true
+    - id: 14
+      name: coaching_notes
+      label: Specific coaching notes for the agent
+      hint: areas to focus on for next time
+      type: text
+      options: []
+      required: false

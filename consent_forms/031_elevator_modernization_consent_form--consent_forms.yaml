@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elevator Modernization Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_1
+      label: Page 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_1_label
+      label: Page 1 Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description
+      label: Form Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: page_2
+      label: Page 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: page_2_label
+      label: Page 2 Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false

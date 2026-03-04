@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Fundraising Campaign Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: campaign_name
+      label: Campaign Name
+      hint: Which fundraising campaign
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: campaign_date
+      label: Campaign Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: participation_type
+      label: Type of Participation
+      hint: How will you participate
+      type: select_one
+      options:
+      - Event Participant
+      - Volunteer
+      - Team Captain
+      - Sponsor
+      - Donor
+      - Social Media Ambassador
+      - Other
+      required: true
+    - id: 11
+      name: team_name
+      label: Team Name
+      hint: If participating on a team
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fundraising_goal
+      label: Personal Fundraising Goal
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: photo_consent
+      label: May We Use Photos of You for Campaign Promotion
+      hint: Social media website print materials
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 14
+      name: video_consent
+      label: May We Use Video Footage of You
+      hint: For promotional videos
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 15
+      name: name_usage
+      label: May We Use Your Name in Campaign Materials
+      hint: Donor lists participant recognition
+      type: select_one
+      options:
+      - Yes - Full Name
+      - Yes - First Name Only
+      - No - Anonymous
+      required: true
+    - id: 16
+      name: testimonial_consent
+      label: May We Share Your Testimonial or Story
+      hint: About why you support this cause
+      type: select_one
+      options:
+      - Yes I Would Love To Share
+      - Maybe - Will Consider
+      - No Thank You
+      required: false
+    - id: 17
+      name: social_media_consent
+      label: May We Tag or Mention You on Social Media
+      hint: Facebook Instagram Twitter etc
+      type: select_one
+      options:
+      - Yes Please
+      - No Thank You
+      required: true
+    - id: 18
+      name: social_media_handle
+      label: Social Media Handle
+      hint: If yes provide username
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: data_usage
+      label: Data Usage Consent
+      hint: We will use your data for campaign purposes
+      type: select_one
+      options:
+      - I Consent to Data Usage
+      - I Do Not Consent
+      required: true
+    - id: 20
+      name: third_party_sharing
+      label: May We Share Your Information with Campaign Partners
+      hint: Sponsors and partner organizations
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 21
+      name: future_contact
+      label: May We Contact You About Future Campaigns
+      hint: null
+      type: select_one
+      options:
+      - Yes Please
+      - No Thank You
+      required: true
+    - id: 22
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I release the shelter from liability during campaign activities
+      type: select_one
+      options:
+      - I Agree to the Waiver
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: age_confirmation
+      label: Age Confirmation
+      hint: I am 18 years or older
+      type: select_one
+      options:
+      - Yes I Am 18 or Older
+      - No I Am Under 18
+      required: true
+    - id: 24
+      name: guardian_name
+      label: Guardian Name
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guardian_signature
+      label: Guardian Signature
+      hint: Type full name if under 18
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_acceptance
+      label: I Have Read and Accept the Campaign Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 27
+      name: participant_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

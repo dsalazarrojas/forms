@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Research Release Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: researcher_information
+      label: researcher_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_details
+      label: study_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: consent_statement
+      label: consent_statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_consent
+      label: date_of_consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: participant_statement
+      label: participant_statement
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Health Complaint Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: problem_description
+      label: problem_description
+      hint: Please describe the concern in as much detail as possible.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location_type
+      label: location_type
+      hint: null
+      type: select_one
+      options:
+      - address
+      - building
+      - neighborhood
+      - street
+      - facility
+      required: true
+    - id: 6
+      name: latitude
+      label: latitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: longitude
+      label: longitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

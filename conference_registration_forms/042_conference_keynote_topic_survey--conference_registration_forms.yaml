@@ -1,0 +1,262 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Keynote Topic Survey
+    pages:
+      - id: 1
+        name: survey_header
+        label: Keynote Topic Survey
+        hint: Help us select keynote topics
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: organization
+        label: Organization
+        hint: Company name
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: job_role
+        label: Job Role
+        hint: Your position
+        type: select_one
+        options:
+          - Executive
+          - Manager
+          - Team Lead
+          - Individual Contributor
+          - Consultant
+          - Academic
+          - Student
+          - Other
+        required: true
+      - id: 6
+        name: industry
+        label: Industry
+        hint: Your sector
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Education
+          - Manufacturing
+          - Retail
+          - Government
+          - Nonprofit
+          - Other
+        required: true
+      - id: 7
+        name: experience_level
+        label: Experience Level
+        hint: Years in field
+        type: select_one
+        options:
+          - Entry Level 0-2 years
+          - Mid Level 3-7 years
+          - Senior Level 8-15 years
+          - Expert Level 15 Plus years
+        required: true
+      - id: 8
+        name: topic_preferences
+        label: Topic Preferences
+        hint: What interests you
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: primary_topic_interest
+        label: Primary Topic Interest
+        hint: Main area of interest
+        type: select_one
+        options:
+          - Innovation and Technology
+          - Leadership and Management
+          - Industry Trends
+          - Professional Development
+          - Research and Development
+          - Customer Experience
+          - Digital Transformation
+          - Sustainability
+        required: true
+      - id: 10
+        name: secondary_topics
+        label: Secondary Topics
+        hint: Other interests
+        type: select_multiple
+        options:
+          - Artificial Intelligence
+          - Data Analytics
+          - Cybersecurity
+          - Remote Work
+          - Diversity and Inclusion
+          - Change Management
+          - Entrepreneurship
+          - Marketing Strategy
+        required: false
+      - id: 11
+        name: specific_topics
+        label: Specific Topics
+        hint: What exactly do you want to hear
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: topic_suggestion_1
+        label: Topic Suggestion 1
+        hint: First idea
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: topic_suggestion_2
+        label: Topic Suggestion 2
+        hint: Second idea
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: topic_suggestion_3
+        label: Topic Suggestion 3
+        hint: Third idea
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: speaker_preferences
+        label: Speaker Preferences
+        hint: Who should present
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: speaker_type
+        label: Speaker Type
+        hint: Preferred background
+        type: select_one
+        options:
+          - Industry Expert
+          - Academic Researcher
+          - Business Leader
+          - Motivational Speaker
+          - Celebrity Guest
+          - Panel of Experts
+        required: false
+      - id: 17
+        name: speaker_diversity
+        label: Speaker Diversity
+        hint: Importance of diverse voices
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Not Important
+        required: false
+      - id: 18
+        name: format_preferences
+        label: Format Preferences
+        hint: How should it be delivered
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: presentation_format
+        label: Presentation Format
+        hint: Style preference
+        type: select_one
+        options:
+          - Traditional Lecture
+          - Interactive Workshop
+          - Fireside Chat
+          - Panel Discussion
+          - Case Study Presentation
+          - Live Demonstration
+        required: true
+      - id: 20
+        name: session_duration
+        label: Session Duration
+        hint: Ideal length
+        type: select_one
+        options:
+          - 30 Minutes
+          - 45 Minutes
+          - 60 Minutes
+          - 90 Minutes
+          - Half Day
+          - Full Day
+        required: false
+      - id: 21
+        name: interaction_level
+        label: Interaction Level
+        hint: Audience participation
+        type: select_one
+        options:
+          - No Interaction
+          - Minimal Q and A
+          - Moderate Interaction
+          - Highly Interactive
+          - Workshop Style
+        required: false
+      - id: 22
+        name: learning_objectives
+        label: Learning Objectives
+        hint: What do you want to gain
+        type: select_multiple
+        options:
+          - Practical Skills
+          - Strategic Insights
+          - Industry Knowledge
+          - Networking Opportunities
+          - Inspiration and Motivation
+          - Research Updates
+          - Best Practices
+        required: false
+      - id: 23
+        name: current_challenges
+        label: Current Challenges
+        hint: What problems do you face
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: past_keynote_feedback
+        label: Past Keynote Feedback
+        hint: What worked before
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_suggestions
+        label: Additional Suggestions
+        hint: Any other ideas
+        type: text
+        options: []
+        required: false

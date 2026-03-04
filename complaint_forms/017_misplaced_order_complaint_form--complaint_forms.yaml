@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Misplaced Order Complaint Form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: misplaced_order
+      label: Misplaced Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason for Misplacement
+      hint: Please provide a detailed description of why the order was misplaced
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: misplaced_date
+      label: Misplaced Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_delivery_date
+      label: Expected Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: actual_delivery_date
+      label: Actual Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_details
+      label: Order Details
+      hint: Please provide any additional details about the order
+      type: text
+      options: []
+      required: false

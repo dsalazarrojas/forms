@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Record Use Consent Form
+    pages:
+    - id: 1
+      name: client_or_entity_name
+      label: Client or Entity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: authorized_representative
+      label: Authorized Representative
+      hint: Name of person granting permission
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: records_authorized_for_use
+      label: Records Authorized for Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Ledger
+      - Tax Returns
+      - Audit Reports
+      - Internal Expense Records
+      required: true
+    - id: 4
+      name: purpose_of_record_use
+      label: Purpose of Record Use
+      hint: Why are these records being requested?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: authorization_period_start
+      label: Authorization Period Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: authorization_period_end
+      label: Authorization Period End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to the confidentiality terms
+      - I do not agree
+      required: true
+    - id: 8
+      name: privacy_header
+      label: -- Data Privacy Notice --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: privacy_text
+      label: All records will be handled in accordance with GDPR and local data protection laws. Use of data is limited to the purposes stated above.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_for_revocation
+      label: Contact for Revocation
+      hint: Email to contact if you wish to withdraw consent
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: digital_signature_authorization
+      label: Digital Signature Authorization
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

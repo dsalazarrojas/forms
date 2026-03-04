@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotion_dispute_complaint_form
+    pages:
+    - id: 1
+      name: promotion_dispute
+      label: promotion_dispute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - Promotional offer not available
+      - Promotional offer not as described
+      - Promotional offer not delivered
+      - Other
+      required: false
+    - id: 4
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_ordered
+      label: time_ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: item_ordered
+      label: item_ordered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_not_received
+      label: item_not_received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_received_but
+      label: item_received_but
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resolution
+      label: resolution
+      hint: null
+      type: text
+      options: []
+      required: false

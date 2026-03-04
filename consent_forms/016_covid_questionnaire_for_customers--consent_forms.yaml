@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Covid Questionnaire For Customers
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: have_you_traveled
+      label: have_you_traveled
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 3
+      name: have_you_traveled_countries
+      label: have_you_traveled_countries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''United States''}'
+      - '{''value'': ''Canada''}'
+      - '{''value'': ''China''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: have_you_traveled_recently
+      label: have_you_traveled_recently
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: have_you_traveled_frequency
+      label: have_you_traveled_frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_with_infected
+      label: contact_with_infected
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 7
+      name: contact_with_infected_details
+      label: contact_with_infected_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fever''}'
+      - '{''value'': ''Cough''}'
+      - '{''value'': ''Shortness of Breath''}'
+      - '{''value'': ''Loss of Taste''}'
+      - '{''value'': ''Loss of Smell''}'
+      required: false
+    - id: 9
+      name: exposure_date
+      label: exposure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: exposure_date_start
+      label: exposure_date_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: exposure_date_end
+      label: exposure_date_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: have_you_visited_hospital
+      label: have_you_visited_hospital
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: have_you_visited_other_countries
+      label: have_you_visited_other_countries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''United States''}'
+      - '{''value'': ''Canada''}'
+      - '{''value'': ''China''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 14
+      name: travel_history_countries
+      label: travel_history_countries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''United States''}'
+      - '{''value'': ''Canada''}'
+      - '{''value'': ''China''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 15
+      name: customer_is_mildly_sympomatic
+      label: customer_is_mildly_sympomatic
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 16
+      name: customer_is_symptomatic
+      label: customer_is_symptomatic
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 17
+      name: customer_is_severly_sympomatic
+      label: customer_is_severly_sympomatic
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 18
+      name: store_staff_wear_masks
+      label: store_staff_wear_masks
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 19
+      name: store_staff_wear_gloves
+      label: store_staff_wear_gloves
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 20
+      name: store_staff_wash_hands
+      label: store_staff_wash_hands
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 21
+      name: customer_wear_masks
+      label: customer_wear_masks
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 22
+      name: customer_wear_gloves
+      label: customer_wear_gloves
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 23
+      name: customer_wash_hands
+      label: customer_wash_hands
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 24
+      name: store_temperature_check
+      label: store_temperature_check
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 25
+      name: store_distance_check
+      label: store_distance_check
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

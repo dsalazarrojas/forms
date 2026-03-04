@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Complaint Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Please provide your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Please provide your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Please provide your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: Please describe your issue
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mortgage_number
+      label: Mortgage Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_date
+      label: Issue Date
+      hint: Please provide the date of the issue
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Lender
+      - Servicer
+      - Loan Servicer
+      required: true
+    - id: 11
+      name: issue_details
+      label: Issue Details
+      hint: Please provide more details about the issue
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      - None
+      required: true
+    - id: 13
+      name: mortgage_amount
+      label: Mortgage Amount
+      hint: Please provide the amount of the mortgage
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Townhouse
+      - Condo
+      - Apartament
+      - Multi Unit
+      - Other
+      required: true
+    - id: 15
+      name: property_state
+      label: Property State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DC
+      - DE
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      - Other
+      required: true
+    - id: 16
+      name: property_city
+      label: Property City
+      hint: Please enter your city
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: property_state_code
+      label: Property State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: property_type_other
+      label: Other Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: issue_resolution
+      label: Issue Resolution
+      hint: Please describe the steps taken to resolve the issue, if any
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sensor Installation Consent Form
+    pages:
+    - id: 1
+      name: sensor_type
+      label: Sensor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Temperature
+      - Humidity
+      - Pressure
+      - Motion
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Person's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sensor_details
+      label: Sensor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: installation_address
+      label: Installation Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false

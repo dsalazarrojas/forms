@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Disinfection Task Log
+    pages:
+    - id: 1
+      name: date_and_time
+      label: Date and time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disinfection_type
+      label: Disinfection type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chemical Disinfection''}'
+      - '{''value'': ''Steam Disinfection''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: chemicals_used
+      label: Chemicals used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Chemical 1''}'
+      - '{''value'': ''Chemical 2''}'
+      - '{''value'': ''Chemical 3''}'
+      required: false
+    - id: 5
+      name: staff_details
+      label: Staff details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employee 1''}'
+      - '{''value'': ''Employee 2''}'
+      - '{''value'': ''Employee 3''}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signatures
+      label: Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Signature 1''}'
+      - '{''value'': ''Signature 2''}'
+      - '{''value'': ''Signature 3''}'
+      required: false
+    - id: 8
+      name: staff_comments
+      label: Staff comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''comment 1''}'
+      - '{''value'': ''comment 2''}'
+      - '{''value'': ''comment 3''}'
+      required: false
+    - id: 9
+      name: staff_signatures
+      label: Staff signatures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''signature 1''}'
+      - '{''value'': ''signature 2''}'
+      - '{''value'': ''signature 3''}'
+      required: false
+    - id: 10
+      name: chemicals_required
+      label: Chemicals required
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chemical 1''}'
+      - '{''value'': ''Chemical 2''}'
+      - '{''value'': ''Chemical 3''}'
+      required: false
+    - id: 11
+      name: disinfection_status
+      label: Disinfection status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Not Started''}'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

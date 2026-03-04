@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refrigeration Compliance Inspection Checklist
+    pages:
+    - id: 1
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location_type
+      label: Location Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Missing
+      - Unknown
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false

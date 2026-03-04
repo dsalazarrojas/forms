@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Pay Presentation Agreement
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identification purposes
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: presentation_name
+      label: Presentation or Program Name
+      hint: Name of the presentation you are attending
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: presentation_date
+      label: Presentation Date
+      hint: When is the presentation scheduled
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: Name of organizing entity
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: copay_amount
+      label: Co-Pay Amount
+      hint: Amount you agree to pay
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $75
+      - $100
+      - $150
+      - $200
+      - Other Amount
+      required: true
+    - id: 10
+      name: payment_responsibility
+      label: Payment Responsibility Acknowledgment
+      hint: You understand your payment obligation
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Clarification
+      required: true
+    - id: 11
+      name: payment_due_date
+      label: Payment Due Date Understanding
+      hint: When payment is expected
+      type: select_one
+      options:
+      - Before Presentation
+      - Day of Presentation
+      - Within 7 Days After
+      - Within 30 Days After
+      - Per Billing Cycle
+      required: true
+    - id: 12
+      name: insurance_information
+      label: Will Insurance Be Billed
+      hint: Is insurance being used for this
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of your insurance company
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: financial_hardship
+      label: Experiencing Financial Hardship
+      hint: Do you need payment assistance
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: payment_plan_request
+      label: Request Payment Plan
+      hint: Would you like to set up installments
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you make payment
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Bank Transfer
+      - HSA or FSA Card
+      required: true
+    - id: 18
+      name: refund_policy_acknowledgment
+      label: Refund Policy Acknowledged
+      hint: You understand the refund policy
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 19
+      name: cancellation_policy_acknowledgment
+      label: Cancellation Policy Acknowledged
+      hint: You understand cancellation terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 20
+      name: consent_to_treatment
+      label: Consent to Participate
+      hint: You agree to participate in the presentation
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not
+      required: true
+    - id: 21
+      name: signature_date
+      label: Date of Agreement
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special circumstances
+      type: text
+      options: []
+      required: false

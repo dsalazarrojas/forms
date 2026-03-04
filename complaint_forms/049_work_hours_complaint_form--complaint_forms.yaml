@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Hours Complaint Form
+    pages:
+    - id: 1
+      name: work_hours_form
+      label: Work Hours Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: Please describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: complaint_time
+      label: Complaint Time
+      hint: null
+      type: time
+      options: []
+      required: false

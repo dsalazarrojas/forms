@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Full Name
+      hint: Enter your name as you want it recorded
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Mailing Address
+      hint: For tax receipt purposes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter the amount you wish to donate
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time donation
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 7
+      name: donation_fund
+      label: Designate Your Donation
+      hint: Where should your donation be used
+      type: select_one
+      options:
+      - General Fund
+      - Building Fund
+      - Mission Fund
+      - Youth Ministry
+      - Benevolence Fund
+      - Music Ministry
+      - Outreach Programs
+      - Where Most Needed
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer (ACH)
+      - PayPal
+      - Check by Mail
+      - Cash
+      required: true
+    - id: 9
+      name: card_number
+      label: Card Number
+      hint: Enter your card number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expiry_date
+      label: Card Expiration Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cvv
+      label: CVV Security Code
+      hint: 3-digit code on back of card
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cover_fees
+      label: Would You Like to Cover Processing Fees
+      hint: This ensures 100% of your donation goes to the church
+      type: select_one
+      options:
+      - Yes, I will cover the fees
+      - No, deduct from donation
+      required: true
+    - id: 13
+      name: anonymous
+      label: Would You Like to Remain Anonymous
+      hint: Your donation will not be publicly acknowledged
+      type: select_one
+      options:
+      - No, please acknowledge my gift
+      - Yes, keep my donation anonymous
+      required: true
+    - id: 14
+      name: tax_receipt
+      label: Tax Receipt Preference
+      hint: null
+      type: select_one
+      options:
+      - Email receipt
+      - Mail receipt
+      - No receipt needed
+      required: true
+    - id: 15
+      name: employer_match
+      label: Is Your Employer Matching Gifts
+      hint: Many employers match charitable donations
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 16
+      name: special_message
+      label: Special Message or Dedication
+      hint: In honor or memory of someone
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: newsletter_signup
+      label: Would You Like to Receive Our Newsletter
+      hint: Stay updated on how your donations are making an impact
+      type: select_one
+      options:
+      - Yes, please sign me up
+      - No, thank you
+      required: true
+    - id: 18
+      name: additional_donation
+      label: Would You Like to Add Another Donation
+      hint: To a different fund
+      type: select_one
+      options:
+      - No, this is my only donation
+      - Yes, I will add another
+      required: false

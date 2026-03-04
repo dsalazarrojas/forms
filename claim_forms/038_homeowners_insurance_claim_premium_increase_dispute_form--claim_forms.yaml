@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowners Insurance Claim Premium Increase Dispute Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Theft
+      - Vandalism
+      - Other
+      required: false
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: premium
+      label: Annual Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: original_premium
+      label: Original Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: current_premium
+      label: Current Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: increase_amount
+      label: Increase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: docs1
+      label: Supporting Document 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: docs2
+      label: Supporting Document 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - Canceled
+      required: true
+    - id: 18
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false

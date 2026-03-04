@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Education Feature Consent Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: date_time
+      label: Date and time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: decimal
+      label: Decimal number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: integer
+      label: Integer number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: media_consent
+      label: Media consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 13
+      name: feature_consent
+      label: Feature consent
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false

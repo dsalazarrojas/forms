@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cupcake Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cupcake
+      - Cake
+      - Pastry
+      required: false
+    - id: 3
+      name: num_cupcakes
+      label: Number of Cupcakes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false

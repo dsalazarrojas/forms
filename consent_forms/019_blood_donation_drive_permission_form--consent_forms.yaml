@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Drive Permission Form
+    pages:
+    - id: 1
+      name: permission_intro
+      label: -- Blood Donation Drive Consent --
+      hint: Please provide your consent and information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donor_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consent_donation
+      label: I consent to donate blood
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: consent_health_screening
+      label: I consent to health screening procedures
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: consent_infectious_testing
+      label: I consent to infectious disease testing
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 11
+      name: consent_data_use
+      label: I consent to use of my health data for screening
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 12
+      name: consent_contact_follow_up
+      label: I consent to be contacted for follow-up
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Do you have any chronic medical conditions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: current_pregnancy
+      label: Are you currently pregnant?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 15
+      name: recent_travel
+      label: Have you traveled outside the country recently?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: tattoo_piercing
+      label: Have you had tattoos or piercings in the last year?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: parent_guardian_consent
+      label: Parent/Guardian consent (if under 18)
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - I provide consent
+      - Parent consent received
+      required: true
+    - id: 18
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

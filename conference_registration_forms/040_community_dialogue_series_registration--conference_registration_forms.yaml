@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Dialogue Series Registration
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: organization
+        label: Organization affiliation
+        hint: Company or group name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email address
+        hint: For registration confirmation
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: sessions_interested
+        label: Sessions interested in attending
+        hint: Select one or more sessions
+        type: select_multiple
+        options:
+          - Opening plenary
+          - Breakout session A
+          - Breakout session B
+          - Closing panel
+        required: true
+      - id: 5
+        name: dietary_restrictions
+        label: Dietary restrictions
+        hint: For catering arrangements
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: accessibility_needs
+        label: Accessibility needs
+        hint: Any accommodations required
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: media_consent
+        label: Consent to be recorded or photographed
+        hint: For event documentation
+        type: select_one
+        options:
+          - Yes I consent
+          - No I do not consent
+        required: false

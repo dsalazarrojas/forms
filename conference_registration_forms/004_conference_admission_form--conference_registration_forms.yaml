@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Admission Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Conference Admission and Registration --
+      hint: Please complete all required fields to secure your admission.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization / Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ticket_type
+      label: Select Admission Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - General Admission - Full Conference
+      - VIP / Executive Pass
+      - Single Day Pass - Day 1
+      - Single Day Pass - Day 2
+      - Student / Academic Rate
+      required: true
+    - id: 8
+      name: registration_status
+      label: Registration Category
+      hint: null
+      type: select_one
+      options:
+      - Early Bird Registration
+      - Regular Registration
+      - Late / On-site Registration
+      required: true
+    - id: 9
+      name: dietary_requirements
+      label: Dietary Requirements or Restrictions
+      hint: For lunch and networking sessions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - Nut Allergy
+      - Halal
+      - Kosher
+      required: false
+    - id: 10
+      name: accessibility_needs
+      label: Special Accessibility Requirements
+      hint: How can we best accommodate you?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: referral_source
+      label: How did you hear about this conference?
+      hint: null
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Colleague Recommendation
+      - Industry Publication
+      - Search Engine
+      required: false
+    - id: 12
+      name: attendee_count
+      label: Number of Additional Attendees in Group
+      hint: Leave at 0 if registering only yourself
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Invoice Organization
+      required: true
+    - id: 14
+      name: terms_acceptance
+      label: I agree to the conference terms and conditions and cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

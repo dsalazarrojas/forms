@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: gutter_cleaning_checklist_form
+    pages:
+    - id: 1
+      name: gutter_section
+      label: Gutter Section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: roof_section
+      label: Roof Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gutter_condition
+      label: Gutter Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: gutter_cleaning_frequency
+      label: Gutter Cleaning Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: photos
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: videos
+      label: Videos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: completed_tasks
+      label: Completed Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: maintenance_recommendations
+      label: Maintenance Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: completed_tasks_status
+      label: Completed Tasks Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Partially Completed
+      required: false

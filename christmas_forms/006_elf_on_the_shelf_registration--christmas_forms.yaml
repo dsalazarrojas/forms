@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elf On The Shelf Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: confirm_schedule
+      label: Confirm Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: participant_grade
+      label: Participant Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false

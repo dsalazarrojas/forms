@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Menu Selections Form
+    pages:
+    - id: 1
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: menu_item_1
+      label: Select Menu Item 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: menu_item_2
+      label: Select Menu Item 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: menu_item_3
+      label: Select Menu Item 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: restaurant_phone
+      label: Restaurant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: restaurant_email
+      label: Restaurant E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false

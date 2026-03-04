@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: e-learning-activity-checklist
+    pages:
+    - id: 1
+      name: activity_checklist
+      label: Activity Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: student_progress
+      label: Student Progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      - Missing
+      required: false
+    - id: 6
+      name: submission_due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

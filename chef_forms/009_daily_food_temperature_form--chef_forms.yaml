@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Food Temperature Form
+    pages:
+    - id: 1
+      name: food_group
+      label: Food Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: food_item
+      label: Food Item
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: temperature_before_storage
+      label: Temperature Before Storage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: temperature_during_storage
+      label: Temperature During Storage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: storage_time
+      label: Storage Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

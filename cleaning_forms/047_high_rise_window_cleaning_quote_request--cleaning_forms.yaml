@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: High Rise Window Cleaning Quote Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: Project Location
+      hint: Address or location of the building
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: Describe your project in detail
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: window_type
+      label: Window Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single Pane''}'
+      - '{''label'': ''Double Pane''}'
+      - '{''label'': ''Insulated Pane''}'
+      required: false
+    - id: 5
+      name: number_of_units
+      label: Number of Units
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Provider 1''}'
+      - '{''label'': ''Provider 2''}'
+      - '{''label'': ''Provider 3''}'
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: estimated_date
+      label: Estimated Date
+      hint: Date the project is expected to start on
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: false

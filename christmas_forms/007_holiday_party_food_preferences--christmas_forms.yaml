@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: holiday_party_food_preferences
+    pages:
+    - id: 1
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Fish
+      - None
+      - Pescatarian
+      - Vegetarian
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten
+      - None
+      - Nuts
+      - Shellfish
+      - Soy
+      - Tree nuts
+      required: false
+    - id: 4
+      name: cuisine_choices
+      label: Holiday cuisine
+      hint: null
+      type: select_one
+      options:
+      - American
+      - Asian
+      - Italian
+      - Mexican
+      - None
+      - Seafood
+      required: false
+    - id: 5
+      name: favorite_foods
+      label: Favorite foods
+      hint: null
+      type: select_multiple
+      options:
+      - BBQ
+      - Burgers
+      - Chicken
+      - Fish
+      - Grilled meats
+      - Grilled veggies
+      - None
+      - Salads
+      - Seafood
+      - Tacos
+      - Vegetarian
+      required: false
+    - id: 6
+      name: rsvp_guest
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_guest_name
+      label: Guest names
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_response
+      label: RSVP response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: favorite_dress
+      label: Dress code
+      hint: null
+      type: select_one
+      options:
+      - Casual
+      - Formal
+      - None
+      - Semi-formal
+      required: false
+    - id: 10
+      name: party_theme
+      label: Party theme
+      hint: null
+      type: select_one
+      options:
+      - Beach party
+      - Black tie
+      - Christmas
+      - None
+      - Summer party
+      - Winter party
+      required: false
+    - id: 11
+      name: rsvp_arrival_time
+      label: Guest arrival time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: rsvp_departure_time
+      label: Guest departure time
+      hint: null
+      type: time
+      options: []
+      required: false

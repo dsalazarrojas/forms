@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Program Participation Agreement Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Career Program Name
+      hint: Name of the program you are joining
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: program_provider_organization
+      label: Program Provider Organization Name
+      hint: Organization offering the career program
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: program_provider_contact
+      label: Program Provider Contact Person
+      hint: Name and title
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_obligations
+      label: Acknowledge Understanding of Participant Obligations
+      hint: Will you meet program requirements?
+      type: select_one
+      options:
+      - Yes - I understand and agree
+      - No - I do not understand
+      - Need clarification
+      required: true
+    - id: 13
+      name: attendance_commitment
+      label: Attendance and Participation Commitment
+      hint: Will you attend all scheduled sessions?
+      type: select_one
+      options:
+      - Yes - commit to full participation
+      - Yes - but may miss occasional sessions
+      - Uncertain - may have conflicts
+      - No - cannot commit
+      required: true
+    - id: 14
+      name: time_commitment
+      label: How Many Hours Per Week Can You Commit?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: financial_responsibility
+      label: Financial Obligations
+      hint: Will you pay program fees if applicable?
+      type: select_one
+      options:
+      - Yes - I accept financial responsibility
+      - No - seeking funding or scholarship
+      - Uncertain - still arranging finances
+      required: true
+    - id: 16
+      name: program_fee_amount
+      label: Program Fee Amount
+      hint: Total cost of program participation
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay program fees?
+      type: select_one
+      options:
+      - Full payment upfront
+      - Payment plan installments
+      - Employer sponsorship
+      - Scholarship or grant
+      - Other arrangement
+      required: false
+    - id: 18
+      name: confidentiality_agreement
+      label: I Agree to Maintain Confidentiality
+      hint: Keep program information private
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: code_of_conduct
+      label: I Agree to Abide by Program Code of Conduct
+      hint: Uphold program rules and standards
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: intellectual_property
+      label: Acknowledgment of Intellectual Property Rights
+      hint: Program materials belong to provider
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I have concerns
+      required: true
+    - id: 21
+      name: liability_waiver
+      label: I Release the Organization from Liability
+      hint: For program-related incidents
+      type: select_one
+      options:
+      - Yes, I release organization
+      - No, I do not release organization
+      required: true
+    - id: 22
+      name: background_check_consent
+      label: Consent to Background Check if Required
+      hint: Some programs require background screening
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: false
+    - id: 23
+      name: data_privacy_consent
+      label: I Consent to Use of My Information
+      hint: For program administration and evaluation
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 24
+      name: photos_testimonials_consent
+      label: Permission to Use Photos or Testimonials
+      hint: For promotional purposes
+      type: select_one
+      options:
+      - Yes - allow photos and testimonials
+      - Yes - testimonials only
+      - No - do not use my information
+      required: false
+    - id: 25
+      name: withdrawal_policy
+      label: Understanding of Withdrawal and Refund Policy
+      hint: Do you understand the terms?
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - need clarification
+      required: true
+    - id: 26
+      name: additional_terms
+      label: Any Additional Terms or Conditions?
+      hint: Any special arrangements or accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: full_agreement_acceptance
+      label: I Accept All Terms and Conditions
+      hint: Final confirmation of agreement
+      type: select_one
+      options:
+      - Yes, I fully agree and accept
+      - No, I do not accept
+      required: true

@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractor Appointment Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - New Patient
+      - Returning Patient
+      - Follow-up
+      required: true
+    - id: 7
+      name: appointment_reason
+      label: -- Appointment Reason --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Why are you scheduling an appointment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: area_of_pain
+      label: Area of Pain or Concern
+      hint: null
+      type: select_one
+      options:
+      - Neck
+      - Upper back
+      - Mid-back
+      - Lower back
+      - Shoulder
+      - Arm
+      - Leg
+      - Other
+      required: true
+    - id: 10
+      name: symptom_duration
+      label: How Long Have You Had Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - 6+ months
+      required: true
+    - id: 11
+      name: appointment_scheduling
+      label: -- Appointment Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      required: true
+    - id: 14
+      name: appointment_type
+      label: Type of Appointment
+      hint: null
+      type: select_one
+      options:
+      - Initial Consultation
+      - Treatment
+      - Follow-up Treatment
+      - Re-evaluation
+      required: true
+    - id: 15
+      name: health_information
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: pain_severity
+      label: Pain Severity
+      hint: Rate 1 (mild) to 10 (severe)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: recent_accidents
+      label: Recent Accidents or Injuries
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: accident_details
+      label: Please Describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_treatment
+      label: Previous Chiropractic Care
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: -- Medical Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: current_conditions
+      label: Current Medical Conditions
+      hint: Pregnancy, arthritis, osteoporosis, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_surgeries
+      label: Previous Surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation
+      label: I confirm the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

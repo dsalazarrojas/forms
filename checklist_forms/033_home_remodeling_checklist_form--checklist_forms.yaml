@@ -1,0 +1,614 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_remodeling_checklist_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: Enter address of your home
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_start_date
+      label: Project Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_end_date
+      label: Project End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contractor
+      label: Contractor
+      hint: Enter contractor name and contact information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - On Hold
+      - Completed
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: select_multiple
+      options:
+      - General information
+      - Materials list
+      - Timeline
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: materials
+      label: Materials
+      hint: null
+      type: select_one
+      options:
+      - Drywall
+      - Flooring
+      - Paint
+      - Windows
+      - Doors
+      - Plumbing
+      - Electrical
+      - HVAC
+      - Siding
+      required: true
+    - id: 12
+      name: tasks
+      label: Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Design
+      - Permitting
+      - Demolition
+      - Construction
+      - Inspection
+      - Final walk-through
+      required: true
+    - id: 13
+      name: permits
+      label: Permits
+      hint: List any necessary permits
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: permits_2
+      label: Permits 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: permit_cost
+      label: Permit Cost
+      hint: Enter cost of permits
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: labor_cost
+      label: Labor Cost
+      hint: Enter cost of labor
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: material_cost
+      label: Material Cost
+      hint: Enter cost of materials
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: labor_hours
+      label: Labor Hours
+      hint: Enter hours of labor
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      required: false
+    - id: 21
+      name: payment_terms_2
+      label: Payment Terms 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: payment_terms_3
+      label: Payment Terms 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: payment_terms_4
+      label: Payment Terms 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: payment_terms_5
+      label: Payment Terms 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: payment_terms_6
+      label: Payment Terms 6
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: payment_terms_7
+      label: Payment Terms 7
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: payment_terms_8
+      label: Payment Terms 8
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: payment_terms_9
+      label: Payment Terms 9
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: payment_terms_10
+      label: Payment Terms 10
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: payment_terms_11
+      label: Payment Terms 11
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 31
+      name: payment_terms_12
+      label: Payment Terms 12
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 32
+      name: payment_terms_13
+      label: Payment Terms 13
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 33
+      name: payment_terms_14
+      label: Payment Terms 14
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 34
+      name: payment_terms_15
+      label: Payment Terms 15
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 35
+      name: payment_terms_16
+      label: Payment Terms 16
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 36
+      name: payment_terms_17
+      label: Payment Terms 17
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 37
+      name: payment_terms_18
+      label: Payment Terms 18
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 38
+      name: payment_terms_19
+      label: Payment Terms 19
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 39
+      name: payment_terms_20
+      label: Payment Terms 20
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 40
+      name: payment_terms_21
+      label: Payment Terms 21
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 41
+      name: payment_terms_22
+      label: Payment Terms 22
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 42
+      name: payment_terms_23
+      label: Payment Terms 23
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 43
+      name: payment_terms_24
+      label: Payment Terms 24
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 44
+      name: payment_terms_25
+      label: Payment Terms 25
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 45
+      name: payment_terms_26
+      label: Payment Terms 26
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 46
+      name: payment_terms_27
+      label: Payment Terms 27
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 47
+      name: payment_terms_28
+      label: Payment Terms 28
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 48
+      name: payment_terms_29
+      label: Payment Terms 29
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 49
+      name: payment_terms_30
+      label: Payment Terms 30
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 50
+      name: payment_terms_31
+      label: Payment Terms 31
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 51
+      name: payment_terms_32
+      label: Payment Terms 32
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 52
+      name: payment_terms_33
+      label: Payment Terms 33
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 53
+      name: payment_terms_34
+      label: Payment Terms 34
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 54
+      name: payment_terms_35
+      label: Payment Terms 35
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 55
+      name: payment_terms_36
+      label: Payment Terms 36
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 56
+      name: payment_terms_37
+      label: Payment Terms 37
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 57
+      name: payment_terms_38
+      label: Payment Terms 38
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 58
+      name: payment_terms_39
+      label: Payment Terms 39
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 59
+      name: payment_terms_40
+      label: Payment Terms 40
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 60
+      name: payment_terms_41
+      label: Payment Terms 41
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 61
+      name: payment_terms_42
+      label: Payment Terms 42
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 62
+      name: payment_terms_43
+      label: Payment Terms 43
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 63
+      name: payment_terms_44
+      label: Payment Terms 44
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 64
+      name: payment_terms_45
+      label: Payment Terms 45
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 65
+      name: payment_terms_46
+      label: Payment Terms 46
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 66
+      name: payment_terms_47
+      label: Payment Terms 47
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 67
+      name: payment_terms_48
+      label: Payment Terms 48
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 68
+      name: payment_terms_49
+      label: Payment Terms 49
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 69
+      name: payment_terms_50
+      label: Payment Terms 50
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

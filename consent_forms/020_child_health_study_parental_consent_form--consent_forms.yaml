@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Health Study Parental Consent Form
+    pages:
+    - id: 1
+      name: section_study_overview
+      label: -- Study Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: health_study_name
+      label: Name of Health Study
+      hint: As listed in the recruitment material
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: child_name
+      label: Child Full Name
+      hint: Student participant name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_dob
+      label: Child Date of Birth
+      hint: To verify age eligibility
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_guardian_auth
+      label: -- Guardian Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: guardian_name
+      label: Guardian Full Name
+      hint: Person giving legal consent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guardian_phone
+      label: Guardian Phone Number
+      hint: Primary mobile or work number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_consent_actions
+      label: -- Consent Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: clinical_consent
+      label: I consent to my child participating in clinical assessments
+      hint: Physical exams and developmental checks
+      type: select_one
+      options:
+      - label: Yes - I Consent
+        value: true
+      - label: No - I Do Not Consent
+        value: false
+      required: true
+    - id: 11
+      name: biological_consent
+      label: I consent to the collection of biological samples
+      hint: Blood or saliva if required by protocol
+      type: select_one
+      options:
+      - label: Yes - Consent to samples
+        value: true
+      - label: No - Do not consent to samples
+        value: false
+      - label: Not Applicable to this study
+        value: na
+      required: true
+    - id: 12
+      name: section_privacy_risks
+      label: -- Privacy and Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: risk_understanding
+      label: I have read and understood the risk disclosure
+      hint: Information sheet provided separately
+      type: select_one
+      options:
+      - label: Yes - Read and Understood
+        value: true
+      - label: No - Need more information
+        value: false
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date of Electronic Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true

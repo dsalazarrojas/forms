@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: profile_information_sharing_consent_form
+    pages:
+    - id: 1
+      name: profile_information_sharing_consent
+      label: profile_information_sharing_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sharing_consent
+      label: sharing_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email_sharing
+      label: email_sharing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false

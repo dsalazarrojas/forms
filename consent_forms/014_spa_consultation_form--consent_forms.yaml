@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Consultation Form
+    pages:
+    - id: 1
+      name: client_information
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_preferences
+      label: preferred_services
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Facials
+      - Haircuts
+      - Waxing
+      - Other
+      required: false
+    - id: 3
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_and_time
+      label: date_and_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false

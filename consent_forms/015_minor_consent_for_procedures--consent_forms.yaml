@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: minor_consent_for_procedures
+    pages:
+    - id: 1
+      name: minor_consent_for_procedures_page
+      label: Minor Consent For Procedures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: consent_details
+      label: Consent Details
+      hint: null
+      type: select_one
+      options:
+      - Dental
+      - Medical
+      - Emergency
+      required: true
+    - id: 5
+      name: school_camp_youth_program
+      label: School/Camp/Youth Program
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Camps
+      - Youth Program
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: procedure_description
+      label: Procedure Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guardian_signature
+      label: Guardian Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_signing
+      label: Date of Signing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: name_of_child
+      label: Name of Child
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: name_of_guardian
+      label: Name of Guardian
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      required: true
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: school_camp_youth_program_address
+      label: School/Camp/Youth Program Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: procedure_description_part_2
+      label: Procedure Description Part 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_of_procedure
+      label: Date of Procedure
+      hint: null
+      type: date
+      options: []
+      required: true

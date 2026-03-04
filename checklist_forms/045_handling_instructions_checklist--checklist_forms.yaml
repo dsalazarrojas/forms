@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Handling Instructions Checklist
+    pages:
+    - id: 1
+      name: item_handling_steps
+      label: Item Handling Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: confirmations
+      label: Confirmations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirmations
+      label: Confirmations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: warehouse_id
+      label: Warehouse
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lab_id
+      label: Lab
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manufacturer_id
+      label: Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: logistics_id
+      label: Logistics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: item_id
+      label: Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: item_status_id
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: warehouse_id
+      label: Warehouse
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: item_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: item_width
+      label: Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: item_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false

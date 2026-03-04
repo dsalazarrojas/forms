@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Designer And Assistant Evaluation Form
+    pages:
+    - id: 1
+      name: designer_assistant_name
+      label: Designer And Assistant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: designer_rating
+      label: Designer Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: assistant_rating
+      label: Assistant Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: design_work
+      label: Design Work
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 3, ''value'': ''below average'', ''label'': ''Below Average''}'
+      required: true
+    - id: 6
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 3, ''value'': ''below average'', ''label'': ''Below Average''}'
+      - '{''id'': 4, ''value'': ''not at all'', ''label'': ''Not at all''}'
+      - '{''id'': 5, ''value'': ''somewhat'', ''label'': ''Somewhat''}'
+      required: true
+    - id: 7
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 3, ''value'': ''below average'', ''label'': ''Below Average''}'
+      - '{''id'': 4, ''value'': ''not at all'', ''label'': ''Not at all''}'
+      - '{''id'': 5, ''value'': ''somewhat'', ''label'': ''Somewhat''}'
+      required: true
+    - id: 8
+      name: meeting_commitments
+      label: Meeting Commitments
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''almost always'', ''label'': ''Almost Always''}'
+      - '{''id'': 2, ''value'': ''most of the time'', ''label'': ''Most of the time''}'
+      - '{''id'': 3, ''value'': ''some of the time'', ''label'': ''Some of the time''}'
+      - '{''id'': 4, ''value'': ''rarely'', ''label'': ''Rarely''}'
+      required: true
+    - id: 9
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 3, ''value'': ''below average'', ''label'': ''Below Average''}'
+      - '{''id'': 4, ''value'': ''poor'', ''label'': ''Poor''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: designer_rating_comments
+      label: Designer Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assistant_rating_comments
+      label: Assistant Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: communication_skills_comments
+      label: Communication Skills Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: time_management_comments
+      label: Time Management Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: meeting_commitments_comments
+      label: Meeting Commitments Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: overall_rating_comments
+      label: Overall Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: work_style
+      label: Work Style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''collaborative'', ''label'': ''Collaborative''}'
+      - '{''id'': 2, ''value'': ''independent'', ''label'': ''Independent''}'
+      - '{''id'': 3, ''value'': ''autonomous'', ''label'': ''Autonomous''}'
+      required: false
+    - id: 19
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: designer_assistant_name
+      label: Designer and Assistant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''value'': ''completed'', ''label'': ''Completed''}'
+      - '{''id'': 3, ''value'': ''paused'', ''label'': ''Paused''}'
+      required: false
+    - id: 23
+      name: design_phase
+      label: Design Phase
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''concept'', ''label'': ''Concept''}'
+      - '{''id'': 2, ''value'': ''design'', ''label'': ''Design''}'
+      - '{''id'': 3, ''value'': ''testing'', ''label'': ''Testing''}'
+      - '{''id'': 4, ''value'': ''launch'', ''label'': ''Launch''}'
+      - '{''id'': 5, ''value'': ''maintenance'', ''label'': ''Maintenance''}'
+      - '{''id'': 6, ''value'': ''finished'', ''label'': ''Finished''}'
+      required: false
+    - id: 24
+      name: designer_assistant_email
+      label: Designer and Assistant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: designer_assistant_phone
+      label: Designer and Assistant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

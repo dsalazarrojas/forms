@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Coaching Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: financial_coaching_feedback_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: session_effectiveness
+      label: session_effectiveness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: emotional_intelligence
+      label: emotional_intelligence
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: goal_setting
+      label: goal_setting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: financial_planning
+      label: financial_planning
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: relationship_with_coach
+      label: relationship_with_coach
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false

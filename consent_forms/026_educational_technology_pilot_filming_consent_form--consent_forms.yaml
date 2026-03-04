@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Technology Pilot Filming Consent Form
+    pages:
+    - id: 1
+      name: school_info
+      label: School Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filming_location
+      label: Filming Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: filming_date
+      label: Filming Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: filming_time
+      label: Filming Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: filming_duration
+      label: Filming Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: filming_consent
+      label: Filming Consent
+      hint: null
+      type: select_one
+      options:
+      - Consent
+      - No Consent
+      - Pending
+      required: true
+    - id: 9
+      name: filming_consent_note
+      label: Filming Consent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: filming_equipment
+      label: Filming Equipment
+      hint: null
+      type: text
+      options: []
+      required: false

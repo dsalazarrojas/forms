@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executor Checklist Form
+    pages:
+    - id: 1
+      name: confirm_progress
+      label: Confirm Progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: capture_confirmations
+      label: Capture Confirmations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: estate_administrative_progress
+      label: Estate Administrative Progress
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '5'
+      - '10'
+      - '20'
+      required: false
+    - id: 4
+      name: document_uploads
+      label: Document Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: estate_administration_tasks
+      label: Estate Administration Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: executor_notes
+      label: Executor Notes
+      hint: null
+      type: text
+      options: []
+      required: false

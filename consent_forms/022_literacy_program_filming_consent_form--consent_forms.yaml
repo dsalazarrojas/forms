@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: literacy_program_filming_consent_form
+    pages:
+    - id: 1
+      name: filming_location
+      label: filming_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filming_date
+      label: filming_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: filming_time
+      label: filming_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: permission
+      label: permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: filming_consent
+      label: filming_consent
+      hint: null
+      type: text
+      options: []
+      required: false

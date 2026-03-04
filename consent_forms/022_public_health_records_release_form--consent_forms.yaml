@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Records Release Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: authorized_provider
+      label: authorized_provider
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: authorized_role
+      label: authorized_role
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: authorized_facility
+      label: authorized_facility
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_signed
+      label: time_signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: authorized_to_share
+      label: authorized_to_share
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 13
+      name: authorized_to_share_with
+      label: authorized_to_share_with
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 14
+      name: authorized_to_share_when
+      label: authorized_to_share_when
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 15
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_signature
+      label: witness_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: witness_name
+      label: witness_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_title
+      label: witness_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorized_to_share_facility
+      label: authorized_to_share_facility
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 20
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: consent_time
+      label: consent_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: consent_facility
+      label: consent_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: authorized_facility_list
+      label: authorized_facility_list
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 24
+      name: patient_signature_note
+      label: patient_signature_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: witness_signature_note
+      label: witness_signature_note
+      hint: null
+      type: note
+      options: []
+      required: false

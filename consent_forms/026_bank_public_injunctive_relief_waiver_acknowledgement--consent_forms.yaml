@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Public Injunctive Relief Waiver Acknowledgement
+    pages:
+    - id: 1
+      name: identification_header
+      label: -- Customer Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Legal Name
+      hint: As listed on your account agreement
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_identifier
+      label: Account Number or Unique ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Current Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: waiver_language_header
+      label: -- Disclosure Regarding Public Injunctive Relief --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: waiver_disclosure_text
+      label: Disclosure Statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: arbitration_provision_check
+      label: I acknowledge that my account is subject to an Arbitration Provision
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 9
+      name: waiver_scope_acknowledgement
+      label: I understand and agree to the waiver of public injunctive relief
+      hint: This means I agree not to seek injunctive relief that has the primary
+        purpose of preventing future harm to the general public
+      type: select_one
+      options:
+      - I Agree and Accept
+      - Other
+      required: true
+    - id: 10
+      name: individual_capacity_check
+      label: I agree to bring claims only in my individual capacity
+      hint: I waive the right to participate in a class action or representative proceeding
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 11
+      name: legal_counsel_header
+      label: -- Legal Representation and Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: counsel_consultation
+      label: Did you consult with legal counsel before signing this waiver?
+      hint: Consultation is recommended but not required
+      type: select_one
+      options:
+      - Yes - I consulted with an attorney
+      - No - I am signing of my own free will
+      required: true
+    - id: 13
+      name: voluntary_agreement
+      label: I am signing this agreement voluntarily and without duress
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 14
+      name: digital_signature_header
+      label: -- Execution and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signature_full_name
+      label: Electronic Signature (Type Full Name)
+      hint: This constitutes a legal signature
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_date
+      label: Date of Acknowledgement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: ip_log_note
+      label: Security Note
+      hint: Your IP address and timestamp will be logged with this submission for
+        verification
+      type: note
+      options: []
+      required: false

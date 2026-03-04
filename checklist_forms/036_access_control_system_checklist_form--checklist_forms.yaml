@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control System Checklist Form
+    pages:
+    - id: 1
+      name: section_inspection
+      label: -- Inspection Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of the officer performing checks
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Date of Inspection
+      hint: Current date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: facility_location
+      label: Facility or Building Location
+      hint: Name of site or area inspected
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_physical
+      label: -- Physical Locks and Barriers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: external_doors_secure
+      label: Are all external doors locking correctly?
+      hint: Physical lock check
+      type: select_one
+      options:
+      - 'Yes'
+      - Issues Found
+      - N/A
+      required: true
+    - id: 7
+      name: physical_keys_accounted
+      label: Are all master keys accounted for?
+      hint: inventory check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: turnstile_functionality
+      label: Are turnstiles operating smoothly?
+      hint: Visual and physical test
+      type: select_one
+      options:
+      - Functional
+      - Maintenance Required
+      - N/A
+      required: true
+    - id: 9
+      name: section_electronic
+      label: -- Electronic Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reader_connectivity
+      label: Do all card readers show green status?
+      hint: System health LED check
+      type: select_one
+      options:
+      - 'Yes'
+      - Some Red or Offline
+      required: true
+    - id: 11
+      name: alarm_system_test
+      label: Was the alarm system trigger tested successfully?
+      hint: Functional alarm test
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: emergency_exit_override
+      label: Does the emergency exit override function correctly?
+      hint: Fire safety compliance
+      type: select_one
+      options:
+      - Yes - Functional
+      - Other
+      required: true
+    - id: 13
+      name: section_surveillance
+      label: -- Surveillance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: camera_angles_clear
+      label: Are all camera views unobstructed and clear?
+      hint: Monitor review
+      type: select_one
+      options:
+      - 'Yes'
+      - Obstructions Found
+      required: true
+    - id: 15
+      name: recording_system_status
+      label: Is the NVR or DVR recording properly?
+      hint: Storage system check
+      type: select_one
+      options:
+      - Recording Active
+      - Error Logged
+      required: true
+    - id: 16
+      name: section_final
+      label: -- Comments and Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: observations_and_repairs
+      label: Notes on observations or required repairs
+      hint: Provide detail on any "No" or "Issue" answers
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: checklist_completion
+      label: I certify that all security checks have been performed
+      hint: Inspector verification
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

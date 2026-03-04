@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_iot_technology_fair_registration
+    pages:
+    - id: 1
+      name: main_page
+      label: Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Company Email
+      hint: Your company email is required for verification purposes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry Interests
+      hint: null
+      type: select_multiple
+      options:
+      - AI/Robotics
+      - Data Analytics
+      - Internet of Things
+      - Automation
+      - Energy Management
+      - Cyber Security
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: other_interest
+      label: Other Interests (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Word of Mouth
+      - Online Search
+      - Friend/Colleague
+      - Other (please specify)
+      required: true
+    - id: 9
+      name: how_can_we_follow_up
+      label: How can we follow up with you?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      - Other (please specify)
+      required: true
+    - id: 10
+      name: special_requests
+      label: Do you have any special requests or needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accept_terms
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I accept the terms and conditions
+      - I do not accept the terms and conditions
+      required: true
+    - id: 12
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_attendee_count
+      label: Number of Event Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: event_type
+      label: Event Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: company_type
+      label: Company/University Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: representative_name
+      label: Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: representative_email
+      label: Representative Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: representative_phone
+      label: Representative Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: number_of_representatives
+      label: Number of Representatives
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: representative_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

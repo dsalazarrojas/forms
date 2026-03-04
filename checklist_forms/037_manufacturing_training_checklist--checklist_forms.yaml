@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Training Checklist
+    pages:
+    - id: 1
+      name: training_checklist
+      label: Training Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: safety_team_comments
+      label: Safety Team Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 6
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - Supervisor
+      - Safety Team
+      - Operator
+      - Trainer
+      required: false
+    - id: 7
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Supervisor
+      - Safety Team
+      - Operator
+      - Trainer
+      required: false
+    - id: 12
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false

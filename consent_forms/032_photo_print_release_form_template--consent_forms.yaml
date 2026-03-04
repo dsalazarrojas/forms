@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Print Release Form Template
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: photo_capture_date
+      label: photo_capture_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: print_permission_granted
+      label: print_permission_granted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: print_permit
+      label: print_permit
+      hint: null
+      type: select_multiple
+      options:
+      - Print permit
+      - Print permit 1
+      - Print permit 2
+      required: true
+    - id: 5
+      name: print_quantity
+      label: print_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: photo_location
+      label: photo_location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: photo_capture_location
+      label: photo_capture_location
+      hint: null
+      type: select_one
+      options:
+      - Studio 1
+      - Studio 2
+      - Studio 3
+      required: true
+    - id: 8
+      name: print_location
+      label: print_location
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      required: true

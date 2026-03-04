@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dispatch Checklist For Cutting Boxes
+    pages:
+    - id: 1
+      name: box_number
+      label: Box Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cut_date
+      label: Cut Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: cut_by
+      label: Cut By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: checked_date
+      label: Checked Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: checked_signature
+      label: Checked Signature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: checked_email
+      label: Checked Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: checked_phone
+      label: Checked Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dispatch_notes
+      label: Dispatch Notes
+      hint: null
+      type: text
+      options: []
+      required: false

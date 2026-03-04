@@ -1,0 +1,42 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Overcurrent Protection Checklist
+    pages:
+    - id: 1
+      name: facility_inspection
+      label: Facility Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: device_check
+      label: Device Check
+      hint: null
+      type: select_one
+      options:
+      - Device 1
+      - Device 2
+      - Device 3
+      required: false
+    - id: 3
+      name: circuit_breaker_check
+      label: Circuit Breaker Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

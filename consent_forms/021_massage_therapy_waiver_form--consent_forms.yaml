@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Therapy Waiver Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Massage Therapy Waiver Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_risks
+      label: Risks Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_aware
+      label: Are you aware of the risks involved?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: risk_disclose
+      label: Will you disclose any health information that could impact the treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Condition
+      - Medications
+      - Allergies
+      - Other (Please Specify)
+      required: false
+    - id: 10
+      name: emergency_contacts
+      label: Emergency Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: therapist_email
+      label: Therapist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: therapist_phone
+      label: Therapist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: massage_type
+      label: Massage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Deep Tissue
+      - Swedish
+      - Shiatsu
+      - Sports
+      - Other
+      required: false
+    - id: 17
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - As Needed
+      required: false
+    - id: 19
+      name: massage_frequency_2
+      label: Frequency of Massages
+      hint: null
+      type: select_multiple
+      options:
+      - Every Week
+      - Every Two Weeks
+      - Every Month
+      - As Needed
+      required: false
+    - id: 20
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: form_signature
+      label: Client Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: form_signature_2
+      label: Therapist Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: form_submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      required: false
+    - id: 25
+      name: form_submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: form_submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

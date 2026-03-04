@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cabinet Inventory Checklist
+    pages:
+    - id: 1
+      name: inventory_header
+      label: -- Inventory Control Details --
+      hint: Tracking contents and asset condition
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cabinet_id
+      label: Cabinet ID or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_assigned
+      label: Assigned Department
+      hint: null
+      type: select_one
+      options:
+      - General Administration
+      - Research Lab
+      - IT Support
+      - Medical Supplies
+      - Facilities
+      - Human Resources
+      required: true
+    - id: 4
+      name: last_audit_date
+      label: Last Full Audit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: content_tracking_header
+      label: -- Content Inventory --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: stock_level_status
+      label: General Stock Level Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Stocked
+      - Adequate
+      - Low - Reorder Needed
+      - Critically Low
+      required: true
+    - id: 8
+      name: expired_items_found
+      label: Were any expired items identified
+      hint: for medical or chemical storage
+      type: select_one
+      options:
+      - false
+      - Yes - Removed
+      - Not Applicable
+      required: true
+    - id: 9
+      name: label_verification
+      label: Are all items clearly labeled
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 10
+      name: msds_manuals_present
+      label: Are safety manuals or SDS sheets present
+      hint: for hazardous materials
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 11
+      name: condition_header
+      label: -- Physical Asset Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: lock_functionality
+      label: Lock and Security Status
+      hint: if applicable
+      type: select_one
+      options:
+      - Secure and Functional
+      - Broken
+      - No Lock Present
+      required: true
+    - id: 13
+      name: shelf_integrity
+      label: Shelf Integrity - No sagging or damage
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 14
+      name: lighting_status
+      label: Internal Lighting Status
+      hint: null
+      type: select_one
+      options:
+      - Functional
+      - Needs Bulb
+      - No Lighting
+      required: false
+    - id: 15
+      name: reorder_items_list
+      label: Items Requiring Immediate Reorder
+      hint: list item names and quantities
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: discrepancies_found
+      label: Describe any inventory discrepancies
+      hint: comparison to master list
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: inventory_value_est
+      label: Estimated Total Value of Contents
+      hint: if known
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: final_signoff_date
+      label: Final Sign-off Date
+      hint: null
+      type: date
+      options: []
+      required: true

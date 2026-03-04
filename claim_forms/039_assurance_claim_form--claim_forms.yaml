@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assurance Claim Form
+    pages:
+    - id: 1
+      name: claim_date
+      label: Claim Date
+      hint: Date claim is being filed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: claim_number
+      label: Claim Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policy_type
+      label: Type of Policy
+      hint: What type of insurance?
+      type: select_one
+      options:
+      - Health Insurance
+      - Auto Insurance
+      - Home Insurance
+      - Life Insurance
+      - Travel Insurance
+      - Business Insurance
+      - Disability Insurance
+      - Other
+      required: true
+    - id: 6
+      name: claimant_first_name
+      label: Claimant First Name
+      hint: Person filing the claim
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: claimant_last_name
+      label: Claimant Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: claimant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: claimant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_date
+      label: Date of Incident or Loss
+      hint: When did the event occur?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_type
+      label: Type of Incident or Loss
+      hint: What happened?
+      type: select_one
+      options:
+      - Accident or Injury
+      - Property Damage
+      - Theft or Robbery
+      - Hospitalization
+      - Medical Treatment
+      - Death
+      - Natural Disaster
+      - Roadside Assistance
+      - Other
+      required: true
+    - id: 13
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: Provide comprehensive details
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: property_damaged
+      label: Property or Items Damaged (if applicable)
+      hint: What was damaged or lost?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_value
+      label: Value of Property or Items
+      hint: Estimated replacement value
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: other_involved_parties
+      label: Names of Other Parties Involved
+      hint: Witnesses, other drivers, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: police_report
+      label: Police Report Filed
+      hint: Was incident reported to police?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 18
+      name: police_report_number
+      label: Police Report Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_treatment
+      label: Medical Treatment Received
+      hint: Was there medical care?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 20
+      name: medical_provider
+      label: Medical Provider Name
+      hint: Hospital or doctor
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_date
+      label: Date of Medical Treatment
+      hint: When was treatment?
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: claim_amount
+      label: Claim Amount Requested
+      hint: How much are you claiming?
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: supporting_documentation
+      label: Supporting Documentation Attached
+      hint: Photos, receipts, reports
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: prior_claims
+      label: Prior Claims with This Insurer
+      hint: Have you filed claims before?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 25
+      name: claim_submission_date
+      label: Form Submission Date
+      hint: Date form completed
+      type: date
+      options: []
+      required: true

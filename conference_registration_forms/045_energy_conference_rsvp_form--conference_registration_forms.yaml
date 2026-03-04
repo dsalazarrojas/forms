@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Conference RSVP Form
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendance
+      label: Are you attending
+      hint: Select a number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: attendance_status
+      label: Are you attending
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair accessible
+      - Accommodations for mobility impairments
+      - American Sign Language
+      - Closed captions or sign language
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: dietary_needs
+      label: Dietary needs
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: sessions
+      label: Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Session 5
+      required: false
+    - id: 8
+      name: session_preferences
+      label: Sessions of interest
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Session 5
+      required: false

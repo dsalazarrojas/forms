@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Treatment Client Intake Form
+    pages:
+    - id: 1
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_needs
+      label: skin_needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false

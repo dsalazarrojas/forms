@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Recording Permission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: video_recording_consent
+      label: Video Recording Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 8
+      name: reason_for_recording
+      label: Reason for Recording
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 030_video_recording_permission_form--consent_forms.yaml
+      - Other
+      required: true
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: true
+    - id: 14
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: category_description
+      label: Category Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 17
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - assigned_tool
+      - Other
+      required: true
+    - id: 18
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: true
+    - id: 21
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: true
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 25
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - assigned_tool
+      - Other
+      required: true

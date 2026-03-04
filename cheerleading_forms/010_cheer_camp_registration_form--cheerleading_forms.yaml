@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Camp Registration Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: First Name
+      hint: Camper's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Last Name
+      hint: Camper's last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Camper's birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age of camper
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Camper's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: Name of school attended
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grade_level
+      label: Grade Level
+      hint: Current grade level
+      type: select_one
+      options:
+      - Elementary (K-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      - College
+      required: true
+    - id: 8
+      name: cheer_experience
+      label: Cheerleading Experience
+      hint: How many years of cheer experience
+      type: select_one
+      options:
+      - None - Beginner
+      - 1-2 years
+      - 3-5 years
+      - 5+ years
+      - Competitive team
+      required: true
+    - id: 9
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_email
+      label: Parent Email
+      hint: Email address for communications
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Parent Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip_code
+      label: ZIP Code
+      hint: Postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: camp_session
+      label: Camp Session
+      hint: Which camp session to attend
+      type: select_one
+      options:
+      - Session A - June 15-19
+      - Session B - June 22-26
+      - Session C - July 6-10
+      - Session D - July 13-17
+      - Session E - July 20-24
+      - Session F - August 3-7
+      required: true
+    - id: 19
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: Camp t-shirt size
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult 2XL
+      required: true
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any medical conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medications
+      label: Current Medications
+      hint: List any medications camper takes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: physician_name
+      label: Physician Name
+      hint: Name of primary care physician
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor's contact number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member ID number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: medical_release
+      label: Medical Release Authorization
+      hint: I authorize emergency medical treatment
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 27
+      name: photo_release
+      label: Photo Release
+      hint: I allow photos to be used for promotional purposes
+      type: select_one
+      options:
+      - Yes, I allow
+      - No, I do not allow
+      required: true
+    - id: 28
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I accept the liability waiver
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true
+    - id: 29
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for camp
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Bank transfer
+      - Scholarship
+      required: true
+    - id: 30
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any special needs we should know about
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: how_did_you_hear
+      label: How did you hear about us
+      hint: Help us understand how you found our camp
+      type: select_one
+      options:
+      - School referral
+      - Social media
+      - Friend or family
+      - Website search
+      - Previous camper
+      - Other
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: I confirm all information is accurate
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dietary Health Assessment Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Please enter the client's name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Spouse
+      - Parent
+      - Other
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Please enter the emergency contact's name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Please enter the emergency contact's phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Other
+      required: true
+    - id: 11
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Medications
+      - Environmental
+      - Other
+      required: false
+    - id: 13
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_information
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_assessment
+      label: Dietary Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: dietary_assessment_frequency
+      label: Dietary Assessment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 18
+      name: dietary_assessment_date
+      label: Dietary Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: dietary_assessment_time
+      label: Dietary Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: signature_reason
+      label: Signature Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

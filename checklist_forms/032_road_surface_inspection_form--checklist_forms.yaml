@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Surface Inspection Form
+    pages:
+    - id: 1
+      name: road_surface_inspection_form_1
+      label: Road Surface Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: road_surface_inspection_form_2
+      label: Road Surface Type
+      hint: null
+      type: select_one
+      options:
+      - Asphalt
+      - Concrete
+      - Brick
+      - Gravel
+      - Dirt
+      required: false
+    - id: 3
+      name: road_surface_inspection_form_3
+      label: Road Surface Condition
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: road_surface_inspection_form_4
+      label: Road Surface Defects
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Potholes
+      - Cracks
+      - Bumps
+      - Oil stains
+      - Slippery
+      - Uneven surface
+      - Broken glass
+      required: false
+    - id: 5
+      name: road_surface_inspection_form_5
+      label: Weather
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: road_surface_inspection_form_6
+      label: Inspectors' Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: road_surface_inspection_form_7
+      label: Road Surface Inspection Form Contact
+      hint: null
+      type: text
+      options: []
+      required: false

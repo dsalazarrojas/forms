@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: course_material_access_authorization_form
+    pages:
+    - id: 1
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: access_type
+      label: access_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: authorization_time
+      label: authorization_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: instructor_info
+      label: instructor_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_info
+      label: course_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorized_users
+      label: authorized_users
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: course_material_access
+      label: course_material_access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: true

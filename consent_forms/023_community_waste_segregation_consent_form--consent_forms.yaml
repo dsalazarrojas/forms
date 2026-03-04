@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Waste Segregation Consent Form
+    pages:
+    - id: 1
+      name: resident_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: resident_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: resident_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: household_address
+      label: Household Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: household_size
+      label: Number of People in Household
+      hint: Total residents
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: program_name
+      label: Which waste segregation program are you joining?
+      hint: Program selection
+      type: select_one
+      options:
+      - curbside recycling program
+      - Compost collection program
+      - Hazardous waste disposal
+      - E-waste recycling
+      - Bulk item pickup
+      - Full waste segregation package
+      required: true
+    - id: 7
+      name: section_program_details
+      label: -- Program Details --
+      hint: Please read the following information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: understand_program_requirements
+      label: I understand the requirements of the waste segregation program
+      hint: Program rules and expectations
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need More Information
+      required: true
+    - id: 9
+      name: understand_bin_placement
+      label: I understand that bins must be placed curbside by 7am on pickup day
+      hint: Collection schedule
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 10
+      name: understand_contamination_policy
+      label: I understand that contaminated bins may not be collected
+      hint: Proper sorting required
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 11
+      name: section_responsibilities
+      label: -- Resident Responsibilities --
+      hint: Your role in the program
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agree_proper_sorting
+      label: I agree to properly sort waste according to guidelines
+      hint: Correct segregation
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 13
+      name: agree_bin_maintenance
+      label: I agree to keep bins clean and in good condition
+      hint: Bin care
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 14
+      name: agree_accessible_placement
+      label: I agree to place bins in accessible locations for collection
+      hint: Easy access for workers
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 15
+      name: report_contamination
+      label: I agree to report any contamination issues promptly
+      hint: Communication
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 16
+      name: section_data_collection
+      label: -- Data Collection and Privacy --
+      hint: How we use your information
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: consent_data_collection
+      label: I consent to the collection of my waste disposal data
+      hint: For program monitoring
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 18
+      name: understand_data_use
+      label: I understand my data will be used for program evaluation
+      hint: Improvement purposes
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 19
+      name: consent_home_visits
+      label: I consent to occasional home visits for education purposes
+      hint: Program support
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: false
+    - id: 20
+      name: section_fees
+      label: -- Fees and Charges --
+      hint: Program costs
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: understand_fees
+      label: I understand the fee structure for this program
+      hint: Monthly or annual fees
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need Clarification
+      required: true
+    - id: 22
+      name: understand_additional_charges
+      label: I understand that additional pickups may incur extra charges
+      hint: Special collection fees
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 23
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Monthly utility bill
+      - Credit card auto-pay
+      - Check
+      - Online payment
+      - Cash at office
+      required: true
+    - id: 24
+      name: section_bin_delivery
+      label: -- Bin Delivery --
+      hint: Equipment provision
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: bin_delivery_preference
+      label: When would you like to receive your bins?
+      hint: Delivery timing
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 2 weeks
+      - Within 1 month
+      - Specific date (note below)
+      required: true
+    - id: 26
+      name: bin_delivery_date
+      label: If specific date, please specify
+      hint: Preferred delivery date
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: bin_placement_instructions
+      label: Any special instructions for bin placement at your home?
+      hint: Access information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_communication
+      label: -- Communication Preferences --
+      hint: How we contact you
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: For program updates
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Mail
+      - No preference
+      required: true
+    - id: 30
+      name: newsletter_signup
+      label: Would you like to receive our newsletter?
+      hint: Tips and updates
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Any additional comments or questions?
+      hint: Your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

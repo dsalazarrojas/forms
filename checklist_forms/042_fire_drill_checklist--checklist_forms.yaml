@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_drill_checklist
+    pages:
+    - id: 1
+      name: fire_drill_supervisors_present
+      label: fire drill supervisors present
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fire_drill_location
+      label: fire drill location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_drill_evacuation_plan
+      label: fire drill evacuaton plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_drill_sirens
+      label: fire drill siren
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 5
+      name: fire_drill_fire_extinguishers
+      label: fire drill fire extinguishers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: fire_drill_exit_routes
+      label: exit routes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_drill_assembly_points
+      label: assembly points
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fire_drill_announcements
+      label: announcements
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 9
+      name: fire_drill_roll_call
+      label: roll call
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 10
+      name: fire_drill_count
+      label: count down
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 11
+      name: fire_drill_count_start
+      label: count start
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false

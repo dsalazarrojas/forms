@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Doula Contract Form
+    pages:
+    - id: 1
+      name: contract_details
+      label: Contract Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''name'', ''label'': ''Name''}'
+      - '{''value'': ''address'', ''label'': ''Address''}'
+      - '{''value'': ''phone_number'', ''label'': ''Phone Number''}'
+      required: true
+    - id: 3
+      name: doula_info
+      label: Doula Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''doula_a'', ''label'': ''Doula A''}'
+      - '{''value'': ''doula_b'', ''label'': ''Doula B''}'
+      - '{''value'': ''doula_c'', ''label'': ''Doula C''}'
+      required: true
+    - id: 4
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 8
+      name: doulas_agreement
+      label: Doulas Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 9
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''contract_type_a'', ''label'': ''Contract Type A''}'
+      - '{''value'': ''contract_type_b'', ''label'': ''Contract Type B''}'
+      - '{''value'': ''contract_type_c'', ''label'': ''Contract Type C''}'
+      required: true
+    - id: 10
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''draft'', ''label'': ''Draft''}'
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      required: true
+    - id: 11
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contract_review
+      label: Contract Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: doula_signature
+      label: Doula Signature
+      hint: null
+      type: text
+      options: []
+      required: false

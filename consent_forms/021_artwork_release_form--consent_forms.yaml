@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artwork Release Form
+    pages:
+    - id: 1
+      name: artist_full_name
+      label: Artist Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_agreement
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: artwork_description_release
+      label: Description of Artwork Released
+      hint: Include title and medium if known
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rights_granted
+      label: Scope of Rights Granted
+      hint: null
+      type: select_one
+      options:
+      - Non-exclusive Usage Rights
+      - Exclusive Usage Rights
+      - One-time Editorial Use
+      - Full Copyright Transfer
+      required: true
+    - id: 5
+      name: media_platforms
+      label: Authorized Media Platforms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Print Publications
+      - Digital/Web Content
+      - Social Media
+      - Television/Broadcast
+      - Promotional Materials
+      required: true
+    - id: 6
+      name: release_term
+      label: Term of Release
+      hint: null
+      type: select_one
+      options:
+      - Perpetual - No expiration
+      - 1 Year
+      - 5 Years
+      - Event specific
+      required: true
+    - id: 7
+      name: compensation_details
+      label: Compensation or Royalty Agreement
+      hint: Enter N/A if unpaid/voluntary
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: credit_line
+      label: Artist Credit Requirement
+      hint: How should the artist be credited
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email_artist
+      label: Artist Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: certification_statement
+      label: I certify that I am the sole creator and owner of this work
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

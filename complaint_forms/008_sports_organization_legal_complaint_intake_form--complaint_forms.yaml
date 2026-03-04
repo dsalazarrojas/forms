@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: sports_organization_legal_complaint_intake_form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sport_type
+      label: Sport Type
+      hint: null
+      type: select_one
+      options:
+      - American Football
+      - Baseball
+      - Basketball
+      - Cricket
+      - Hockey
+      - Soccer
+      - Volleyball
+      required: false
+    - id: 6
+      name: complaint_nature
+      label: Complaint Nature
+      hint: null
+      type: select_multiple
+      options:
+      - Harassment
+      - Misrepresentation
+      - Misconduct
+      - Other (Please describe)
+      required: false
+    - id: 7
+      name: complaint_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitter Information
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Coach
+      - Official
+      - Other
+      - Parent
+      - Team Member
+      - Athlete
+      - Fan
+      - Volunteer
+      - Staff
+      - Parent/Guardian
+      - Other (Please describe)
+      - Parent/Guardian
+      required: false
+    - id: 9
+      name: submitted_to
+      label: Submission To
+      hint: null
+      type: select_one
+      options:
+      - Head of Organization
+      - Legal Department
+      - Sports Director
+      - President
+      - CEO
+      - Other (Please describe)
+      required: false

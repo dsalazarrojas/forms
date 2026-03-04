@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pump Prestart Checklist
+    pages:
+    - id: 1
+      name: safety_check
+      label: Safety Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pump_operational
+      label: Pump Operational
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Not Running
+      required: false
+    - id: 3
+      name: expected_start_time
+      label: Expected Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: actual_start_time
+      label: Actual Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: pre_start_checklist
+      label: Pre Start Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pump_is_securely_latched
+      label: Pump Is Securely Latched
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: pump_is_preheated
+      label: Pump Is Preheated
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

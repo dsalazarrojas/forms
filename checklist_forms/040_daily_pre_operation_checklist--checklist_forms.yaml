@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Pre Operation Checklist
+    pages:
+    - id: 1
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: location_used
+      label: Location Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pre_inspection_items
+      label: Pre-Inspection Items
+      hint: List the items checked during the pre-operation inspection
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: critical_item_issues
+      label: Critical Item Issues
+      hint: List critical issues found during the pre-operation inspection
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pre_operation_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_leader_name
+      label: Team Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: completed_at
+      label: Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: pre_inspection_items_2
+      label: More Pre-Inspection Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

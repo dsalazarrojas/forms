@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policyholder Story Sharing Consent Form
+    pages:
+    - id: 1
+      name: policyholder_story_sharing_consent_form_page_1
+      label: Policyholder Story Sharing Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_testimonial
+      label: Policyholder Testimonial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policyholder_permissions
+      label: Policyholder Permissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: follow_up
+      label: Follow ups
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: approved_story_sharing
+      label: Approved Story Sharing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policyholder_name
+      label: Policyholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policyholder_email
+      label: Policyholder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: policyholder_phone
+      label: Policyholder Phone
+      hint: null
+      type: text
+      options: []
+      required: false

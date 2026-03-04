@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: discrimination_complaint_claim_form
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_incident
+      label: date_of_incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description_of_incident
+      label: description_of_incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: discrimination_type
+      label: discrimination_type
+      hint: null
+      type: select_multiple
+      options:
+      - harassment
+      - retaliation
+      - hostile_work_environment
+      - unfair_treatment
+      required: false
+    - id: 8
+      name: reporting_officer
+      label: reporting_officer
+      hint: null
+      type: select_one
+      options:
+      - HRC Manager
+      - HR Generalist
+      - Manager
+      required: false
+    - id: 9
+      name: supporting_documentation
+      label: supporting_documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witnesses
+      label: witnesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_date
+      label: reporting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: resolution_outcome
+      label: resolution_outcome
+      hint: null
+      type: select_one
+      options:
+      - resolved
+      - open
+      - escalated
+      - unresolved
+      required: false
+    - id: 13
+      name: resolution_date
+      label: resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: complaint_status
+      label: complaint_status
+      hint: null
+      type: select_one
+      options:
+      - open
+      - escalated
+      - unresolved
+      - resolved
+      required: false
+    - id: 17
+      name: complaint_notes
+      label: complaint_notes
+      hint: null
+      type: text
+      options: []
+      required: false

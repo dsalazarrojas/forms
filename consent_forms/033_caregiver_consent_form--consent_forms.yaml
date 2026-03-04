@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Consent Form
+    pages:
+    - id: 1
+      name: caregiver_name
+      label: Caregiver Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: caregiver_relationship
+      label: Relationship to Child or Patient
+      hint: Parent, guardian, authorized representative
+      type: select_one
+      options:
+      - Parent or biological parent
+      - Adoptive parent
+      - Legal guardian
+      - Court-appointed guardian
+      - Power of attorney
+      - Authorized representative
+      required: true
+    - id: 3
+      name: child_name
+      label: Child or Patient Name
+      hint: Full legal name of person receiving care
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child or Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child or Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_or_treatment
+      label: Service, Treatment, or Procedure
+      hint: What care is being consented to?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_description
+      label: Description of Service or Treatment
+      hint: Details about what will be provided
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: healthcare_provider
+      label: Healthcare Provider or Facility Name
+      hint: Organization providing care
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: responsible_physician
+      label: Responsible Physician or Care Provider
+      hint: Name of primary healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: purpose_explanation
+      label: Purpose and Benefits Explained
+      hint: Do you understand why this care is needed?
+      type: select_one
+      options:
+      - Yes - fully explained
+      - Yes - generally explained
+      - Partially - some questions remain
+      - No - not explained
+      required: true
+    - id: 12
+      name: risks_discussed
+      label: Risks and Potential Complications Discussed
+      hint: Have risks been explained?
+      type: select_one
+      options:
+      - Yes - risks thoroughly discussed
+      - Yes - general risks mentioned
+      - Partially - limited discussion
+      - No - no risk discussion
+      required: true
+    - id: 13
+      name: alternatives_discussed
+      label: Alternative Treatments or Options Discussed
+      hint: Were other options presented?
+      type: select_one
+      options:
+      - Yes - alternatives thoroughly discussed
+      - Yes - alternatives mentioned
+      - Partially - limited alternatives
+      - No - alternatives not discussed
+      required: true
+    - id: 14
+      name: questions_opportunity
+      label: Opportunity to Ask Questions
+      hint: Did you have chance to ask questions?
+      type: select_one
+      options:
+      - Yes - asked and answered
+      - Yes - opportunity available
+      - Limited opportunity
+      - No - did not ask questions
+      required: true
+    - id: 15
+      name: consent_voluntary
+      label: Consent Given Voluntarily
+      hint: No pressure or coercion?
+      type: select_one
+      options:
+      - Yes - given completely voluntarily
+      - Mostly - some pressure to proceed
+      - Uncertain - felt some pressure
+      - No - felt coerced
+      required: true
+    - id: 16
+      name: informed_consent
+      label: Acknowledge Informed Consent
+      hint: Do you understand what you are consenting to?
+      type: select_one
+      options:
+      - Yes - fully informed
+      - Yes - adequately informed
+      - Partially informed - have questions
+      - No - not adequately informed
+      required: true
+    - id: 17
+      name: treatment_authorization
+      label: Authorize Recommended Treatment or Service
+      hint: Do you approve proceeding?
+      type: select_one
+      options:
+      - Yes, I authorize
+      - Yes, with conditions
+      - Need more time to decide
+      - No, I decline
+      required: true
+    - id: 18
+      name: emergency_treatment
+      label: Authorization for Emergency Treatment
+      hint: Can provider treat in emergencies?
+      type: select_one
+      options:
+      - Yes - authorize emergency treatment
+      - Yes - with limitations
+      - No - require consultation first
+      - Decline emergency authorization
+      required: false
+    - id: 19
+      name: medication_consent
+      label: Consent to Medications if Applicable
+      hint: Agree to prescribed medications?
+      type: select_one
+      options:
+      - Yes - consent to medications
+      - Yes - specific medications only
+      - Have concerns about medications
+      - Decline medications
+      required: false
+    - id: 20
+      name: records_release
+      label: Release of Medical Records
+      hint: Allow sharing of health information?
+      type: select_one
+      options:
+      - Yes - authorize records release
+      - Yes - limited release
+      - Need to specify restrictions
+      - No - decline release
+      required: false
+    - id: 21
+      name: insurance_billing
+      label: Authorization for Insurance Billing
+      hint: Allow billing to insurance?
+      type: select_one
+      options:
+      - Yes - bill to insurance
+      - Yes - will pay out of pocket
+      - Yes - verify coverage first
+      - Decline - make other arrangements
+      required: true
+    - id: 22
+      name: financial_responsibility
+      label: Financial Responsibility Acknowledgment
+      hint: Understand any out-of-pocket costs?
+      type: select_one
+      options:
+      - Yes - understand financial responsibility
+      - Partially - have questions
+      - No - need more information
+      required: true
+    - id: 23
+      name: hipaa_privacy
+      label: HIPAA Privacy and Confidentiality Notice
+      hint: Health information will be kept confidential
+      type: select_one
+      options:
+      - Yes - understand privacy protections
+      - Have privacy concerns
+      - Need clarification
+      required: false
+    - id: 24
+      name: follow_up_care
+      label: Agreement to Follow-up Care and Instructions
+      hint: Commit to follow post-care instructions?
+      type: select_one
+      options:
+      - Yes - agree to follow-up care
+      - Yes - with noted limitations
+      - Uncertain - depends on circumstances
+      - No - uncertain about follow-up
+      required: false
+    - id: 25
+      name: right_to_withdraw
+      label: Right to Withdraw Consent
+      hint: Can stop treatment and withdraw consent anytime
+      type: select_one
+      options:
+      - Yes - understand right to withdraw
+      - Need clarification on withdrawal
+      required: true
+    - id: 26
+      name: final_acknowledgment
+      label: Final Acknowledgment and Consent
+      hint: I give informed consent for above services
+      type: select_one
+      options:
+      - Yes - I give informed consent
+      - No - I decline consent
+      required: true
+    - id: 27
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

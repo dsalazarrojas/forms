@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: HSE Audit Checklist
+    pages:
+    - id: 1
+      name: introduction_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_environment_page
+      label: work-environment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: equipment_and_procedures_page
+      label: equipment-and-procedures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: training_and_competence_page
+      label: training-and-competence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: personal_protective_equipment_page
+      label: personal-protective-equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: emergency_procedure_page
+      label: emergency-procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: accident_report_page
+      label: accident-report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: safety_performance_measures_page
+      label: safety-performance-measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: regulatory_compliance_page
+      label: regulatory-compliance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: audit_completion_page
+      label: audit-completion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: action_plan_page
+      label: action-plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: follow_up_inspections_page
+      label: follow-up-inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: continuous_improvement_page
+      label: continuous-improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: certification_page
+      label: certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: audit_schedule_page
+      label: audit-schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: risk_and_hazard_identification_page
+      label: risk-and-hazard-identification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: corrective_action_plan_page
+      label: corrective-action-plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: incident_investigation_page
+      label: incident-investigation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: record_of_compliance_page
+      label: record-of-compliance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: audit_reporting_page
+      label: audit-reporting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: audit_findings_page
+      label: audit-findings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: action_plan_for_findings_page
+      label: action-plan-for-findings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: follow_up_activities_page
+      label: follow-up-activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: review_and_validation_page
+      label: review-and-validation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: review_of_performance_page
+      label: review-of-performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

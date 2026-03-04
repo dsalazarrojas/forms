@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anesthesia Procedure Checklist
+    pages:
+    - id: 1
+      name: section_preprocedure
+      label: -- Pre procedure Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: Hospital or chart number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: procedure_time
+      label: Procedure time
+      hint: Scheduled time
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: airway_equipment_ready
+      label: Airway equipment ready
+      hint: Check availability
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 5
+      name: medication_prepared
+      label: Medications prepared
+      hint: Confirm medications drawn up
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 6
+      name: iv_access
+      label: IV access established
+      hint: Confirm IV access is present
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 7
+      name: equipment_notes
+      label: Equipment notes
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: checklist_completed_by
+      label: Checklist completed by
+      hint: Name of staff completing checklist
+      type: text
+      options: []
+      required: true

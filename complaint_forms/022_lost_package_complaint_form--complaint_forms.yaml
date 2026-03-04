@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lost Package Complaint Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Enter Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: package_tracking_number
+      label: Package Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_lost_package
+      label: Reason for Lost Package
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - Chat Bob
+      - Chat Alice
+      required: false
+    - id: 9
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_photo
+      label: Customer Photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: store_manager_signature
+      label: Store Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: store_manager_photo
+      label: Store Manager Photo
+      hint: null
+      type: note
+      options: []
+      required: false

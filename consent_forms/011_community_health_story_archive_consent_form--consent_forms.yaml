@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Story Archive Consent Form
+    pages:
+      - id: 1
+        name: storyteller_name
+        label: Storyteller Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: story_title
+        label: Title of Your Story
+        hint: A brief name for your experience
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: story_content
+        label: Your Health Story
+        hint: Please share your experience or journey
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: archive_consent
+        label: Consent to Archive
+        hint: Do you permit this story to be stored in our permanent digital archive?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 5
+        name: research_consent
+        label: Consent to Use for Research
+        hint: May researchers use this story for public health studies?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 6
+        name: marketing_consent
+        label: Consent to Use for Outreach and Marketing
+        hint: May we use excerpts for newsletters or social media?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: edit_permission
+        label: Permission to Edit for Clarity
+        hint: We may fix grammar or spelling without changing the meaning
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: anonymity_preference
+        label: Anonymity Preference
+        hint: How should we credit this story?
+        type: select_one
+        options:
+          - Use real name
+          - Use pseudonym (fake name)
+          - Anonymous
+        required: true
+      - id: 9
+        name: signature_confirmation
+        label: Participant Electronic Signature
+        hint: Type your name to sign
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: submission_date
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true

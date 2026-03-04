@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Behavior Science Symposium Registration
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_interests
+      label: Session Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: note
+      options: []
+      required: false

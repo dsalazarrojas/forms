@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Ethics In Education Research Application Form
+    pages:
+    - id: 1
+      name: researcher_full_name
+      label: Principal Investigator Full Name
+      hint: Legal name of the lead researcher
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: researcher_email
+      label: Principal Investigator Email
+      hint: Professional email for research correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: researcher_institution
+      label: Institution Affiliation
+      hint: University or organization conducting the research
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: research_title
+      label: Research Project Title
+      hint: Brief title describing the research study
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_objectives
+      label: Research Objectives
+      hint: Primary goals and aims of the study
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ai_application_area
+      label: Area of AI Application in Education
+      hint: Specific educational context where AI will be applied
+      type: select_one
+      options: ["Personalized Learning", "Assessment and Grading", "Administrative Tasks", "Content Creation", "Student Support Systems", "Other"]
+      required: true
+    - id: 7
+      name: ethical_considerations
+      label: Ethical Considerations Addressed
+      hint: How will ethical implications be managed?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: data_privacy_measures
+      label: Data Privacy Protection Measures
+      hint: Describe how participant data will be protected
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bias_mitigation_strategies
+      label: Bias Mitigation Strategies
+      hint: How will algorithmic bias be prevented or addressed?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: research_duration
+      label: Estimated Research Duration
+      hint: Expected timeline for the study
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: funding_source
+      label: Funding Source
+      hint: Organization providing financial support
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ethics_review_status
+      label: IRB or Ethics Committee Approval Status
+      hint: Has the study received institutional approval?
+      type: select_one
+      options: ["Approved", "Pending", "Not Required", "Exempt"]
+      required: true
+    - id: 13
+      name: consent_process_description
+      label: Description of Consent Process
+      hint: How will participants be informed and consent obtained?
+      type: text
+      options: []
+      required: true

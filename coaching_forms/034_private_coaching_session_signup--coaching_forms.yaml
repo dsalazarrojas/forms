@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Coaching Session Signup
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_session_time
+      label: Preferred Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coaching_agreement
+      label: Coaching Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: coaching_type
+      label: Coaching Type
+      hint: null
+      type: select_multiple
+      options:
+      - Life Coaching
+      - Career Coaching
+      - Relationship Coaching
+      required: false

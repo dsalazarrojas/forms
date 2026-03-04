@@ -1,0 +1,279 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chef Visit Frequency Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - Your full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Optional - For follow-up communications
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: customer_type
+        label: Customer Type
+        hint: What type of customer are you
+        type: select_one
+        options:
+          - Homeowner
+          - Restaurant owner
+          - Event planner
+          - Corporate client
+          - Private chef client
+          - Other
+        required: true
+      - id: 4
+        name: location
+        label: Location
+        hint: City or region
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: first_chef_visit
+        label: When Did Chef First Visit
+        hint: When did you first hire a personal chef
+        type: select_one
+        options:
+          - Within the last month
+          - 1-3 months ago
+          - 3-6 months ago
+          - 6-12 months ago
+          - 1-2 years ago
+          - Over 2 years ago
+        required: true
+      - id: 6
+        name: visit_frequency
+        label: How Often Does Chef Visit
+        hint: Frequency of chef visits
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - Twice a month
+          - Once a month
+          - Occasionally
+          - One-time service
+        required: true
+      - id: 7
+        name: typical_visit_duration
+        label: Typical Visit Duration
+        hint: How long does the chef typically stay
+        type: select_one
+        options:
+          - 1-2 hours
+          - 2-4 hours
+          - 4-6 hours
+          - Full day
+          - Multiple days
+        required: true
+      - id: 8
+        name: meals_prepared_per_visit
+        label: Meals Prepared Per Visit
+        hint: How many meals are typically prepared
+        type: select_one
+        options:
+          - 1 meal
+          - 2-3 meals
+          - 4-6 meals
+          - 7-10 meals
+          - 10+ meals
+        required: true
+      - id: 9
+        name: services_used
+        label: Services Used
+        hint: Select all services you have used
+        type: select_multiple
+        options:
+          - Meal preparation
+          - Menu planning
+          - Grocery shopping
+          - Kitchen organization
+          - Cooking lessons
+          - Special event catering
+          - Dietary consultation
+          - Other
+        required: true
+      - id: 10
+        name: cuisine_types
+        label: Cuisine Types Requested
+        hint: Types of cuisine you enjoy
+        type: select_multiple
+        options:
+          - Italian
+          - French
+          - American
+          - Asian
+          - Mexican
+          - Mediterranean
+          - Indian
+          - Fusion
+          - Other
+        required: true
+      - id: 11
+        name: satisfaction_level
+        label: Satisfaction Level
+        hint: How satisfied are you with the service
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 12
+        name: food_quality_rating
+        label: Food Quality Rating
+        hint: Rate the quality of food prepared
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 13
+        name: professionalism_rating
+        label: Professionalism Rating
+        hint: Rate the chef's professionalism
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 14
+        name: value_for_money
+        label: Value for Money
+        hint: Is the service worth the cost
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 15
+        name: reliability_rating
+        label: Reliability Rating
+        hint: How reliable is the chef
+        type: select_one
+        options:
+          - Always on time
+          - Usually on time
+          - Sometimes late
+          - Often late
+          - Unreliable
+        required: true
+      - id: 16
+        name: cleanliness_rating
+        label: Cleanliness Rating
+        hint: How clean does the chef leave the kitchen
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 17
+        name: flexibility_rating
+        label: Flexibility Rating
+        hint: How flexible is the chef with requests
+        type: select_one
+        options:
+          - Very flexible
+          - Somewhat flexible
+          - Neutral
+          - Inflexible
+          - Very inflexible
+        required: true
+      - id: 18
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend this chef to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 19
+        name: plan_to_continue
+        label: Plan to Continue Service
+        hint: Do you plan to continue using the service
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 20
+        name: frequency_change
+        label: Frequency Change
+        hint: Do you plan to change visit frequency
+        type: select_one
+        options:
+          - Increase frequency
+          - Keep same
+          - Decrease frequency
+          - Discontinue service
+        required: true
+      - id: 21
+        name: best_part
+        label: Best Part of the Service
+        hint: What do you enjoy most
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_services
+        label: Additional Services Interested In
+        hint: What other services would you like
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

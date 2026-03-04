@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre-complaint-intake-form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_incident_happened
+      label: Date Incident Happened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_incident_happened
+      label: Time Incident Happened
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: report_who_reported
+      label: Report Who Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resolution_outcome
+      label: Resolution Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''resolved''}'
+      - '{''value'': ''ongoing''}'
+      - '{''value'': ''pending''}'
+      required: true
+    - id: 7
+      name: customer_contact_info
+      label: Customer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_contact_info
+      label: Staff Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

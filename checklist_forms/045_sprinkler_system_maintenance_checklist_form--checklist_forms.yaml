@@ -1,0 +1,34 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sprinkler System Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: sprinkler_system_checklist
+      label: sprinkler_system_checklist
+      hint: null
+      type: select_one
+      options:
+      - checklist 1a
+      - checklist 1b
+      - checklist 1c
+      required: false
+    - id: 2
+      name: sprinkler_flow_rate
+      label: sprinkler_flow_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - bi-monthly
+      - quarterly
+      - semi-annual
+      - annual
+      required: false

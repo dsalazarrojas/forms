@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mailbox Service Agreement
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_preferences
+      label: Service Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: e_signature_date
+      label: E-Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: e_signature_time
+      label: E-Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: e_signature_date_time
+      label: E-Signature Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

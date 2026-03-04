@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barking Dog Complaint Form
+    pages:
+    - id: 1
+      name: complainant_info_header
+      label: -- Complainant Information --
+      hint: To be completed by the person making the report
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: complainant_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complainant_address
+      label: Your Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complainant_phone
+      label: Phone Number
+      hint: For follow-up by animal control officers
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: complaint_details_header
+      label: -- Details of the Complaint --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: incident_address
+      label: Address of the Barking Dog
+      hint: Provide as much detail as possible (e.g., house number, apartment, color
+        of house)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: barking_duration
+      label: Typical Duration of Barking
+      hint: How long does the barking usually last?
+      type: select_one
+      options:
+      - Continuous (1+ hours)
+      - Intermittent throughout the day
+      - Specific times (e.g., only at night)
+      - Only when owner is away
+      required: true
+    - id: 8
+      name: barking_frequency
+      label: Frequency of Barking
+      hint: How many days per week?
+      type: select_one
+      options:
+      - Every day
+      - 3-5 days per week
+      - Weekends only
+      - Occasional
+      required: true
+    - id: 9
+      name: barking_times
+      label: Times of Day Barking Occurs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Early Morning (5am - 9am)
+      - Daytime (9am - 5pm)
+      - Evening (5pm - 10pm)
+      - Late Night (10pm - 5am)
+      required: true
+    - id: 10
+      name: animal_description_header
+      label: -- Animal and Owner Information --
+      hint: If known
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dog_description
+      label: Description of the Dog(s)
+      hint: e.g., Small brown terrier, Large black lab, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: owner_name
+      label: Dog Owner Name (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prior_communication
+      label: Have you attempted to discuss this with the owner?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Spoke in person
+      - Yes - Left a note
+      - No - Prefer not to contact directly
+      - No - Unable to locate owner
+      required: true
+    - id: 14
+      name: impact_description
+      label: Impact of Barking on You
+      hint: e.g., Loss of sleep, inability to work from home, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: evidence_header
+      label: -- Evidence and Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: bark_log_maintained
+      label: Have you maintained a barking log (dates/times)?
+      hint: A 7-day log is often required for enforcement
+      type: select_one
+      options:
+      - Yes - Log is ready for submission
+      - No - I will start one
+      required: true
+    - id: 17
+      name: witness_header
+      label: -- Additional Witnesses --
+      hint: List any other neighbors who can verify the complaint
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Date of Complaint
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: legal_acknowledgement
+      label: I certify that this complaint is true and accurate
+      hint: Filing a false report with the government may have legal consequences
+      type: select_one
+      options:
+      - I Agree and Certify
+      - Other
+      required: true

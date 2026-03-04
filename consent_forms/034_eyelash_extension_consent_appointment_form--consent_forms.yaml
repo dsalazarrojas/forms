@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eyelash Extension Consent & Appointment Form
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_date
+      label: consent_date
+      hint: Date of consent
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: appointment_client
+      label: appointment_client
+      hint: Client name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_contact
+      label: appointment_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_client
+      label: signature_client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_staff
+      label: signature_staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature_date
+      hint: Date of signature
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: main_signature
+      label: main_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: appointment_status
+      label: appointment_status
+      hint: null
+      type: select_one
+      options:
+      - Client has arrived for appointment
+      - Client has not arrived for appointment
+      - Client has cancelled appointment
+      - Client has rescheduled appointment
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

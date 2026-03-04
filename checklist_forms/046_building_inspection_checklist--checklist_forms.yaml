@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Inspection Checklist
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company
+      hint: Inspection company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: building_name
+      label: Building Name
+      hint: Name of building
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_address
+      label: Building Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: Classification
+      type: select_one
+      options:
+      - Single Family Home
+      - Multi Family
+      - Commercial
+      - Industrial
+      - Mixed Use
+      - Other
+      required: true
+    - id: 9
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weather_conditions
+      label: Weather Conditions
+      hint: During inspection
+      type: select_one
+      options:
+      - Clear/Sunny
+      - Cloudy
+      - Rainy
+      - Snowy
+      - Windy
+      - Other
+      required: false
+    - id: 11
+      name: exterior_check
+      label: Exterior Inspection
+      hint: Condition of exterior
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Repair
+      - Not Accessible
+      required: true
+    - id: 12
+      name: exterior_notes
+      label: Exterior Notes
+      hint: Comments on exterior
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: roof_check
+      label: Roof Inspection
+      hint: Condition of roof
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Repair
+      - Not Accessible
+      required: true
+    - id: 14
+      name: roof_notes
+      label: Roof Notes
+      hint: Comments on roof
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: foundation_check
+      label: Foundation Inspection
+      hint: Condition of foundation
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Repair
+      - Not Visible
+      required: true
+    - id: 16
+      name: foundation_notes
+      label: Foundation Notes
+      hint: Comments on foundation
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: plumbing_check
+      label: Plumbing Inspection
+      hint: Condition of plumbing
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Repair
+      - Not Assessed
+      required: true
+    - id: 18
+      name: plumbing_notes
+      label: Plumbing Notes
+      hint: Comments on plumbing
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: electrical_check
+      label: Electrical Inspection
+      hint: Condition of electrical
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Repair
+      - Not Assessed
+      required: true
+    - id: 20
+      name: electrical_notes
+      label: Electrical Notes
+      hint: Comments on electrical
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hvac_check
+      label: HVAC Inspection
+      hint: Condition of HVAC
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Repair
+      - Not Assessed
+      required: true
+    - id: 22
+      name: hvac_notes
+      label: HVAC Notes
+      hint: Comments on HVAC
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: interior_check
+      label: Interior Inspection
+      hint: Condition of interior
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Repair
+      - Not Assessed
+      required: true
+    - id: 24
+      name: interior_notes
+      label: Interior Notes
+      hint: Comments on interior
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fire_safety_check
+      label: Fire Safety Inspection
+      hint: Condition of fire safety
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Repair
+      - Not Assessed
+      required: true
+    - id: 26
+      name: fire_safety_notes
+      label: Fire Safety Notes
+      hint: Comments on fire safety
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: accessibility_check
+      label: Accessibility Inspection
+      hint: Accessibility compliance
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs Improvement
+      - Not Assessed
+      required: true
+    - id: 28
+      name: accessibility_notes
+      label: Accessibility Notes
+      hint: Comments on accessibility
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: major_issues
+      label: Major Issues Found
+      hint: Describe significant issues
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: overall_result
+      label: Overall Inspection Result
+      hint: Final assessment
+      type: select_one
+      options:
+      - Pass - No Issues
+      - Pass with Minor Issues
+      - Conditional Pass
+      - Fail - Major Issues
+      required: true
+    - id: 32
+      name: inspector_signature
+      label: Inspector Certification
+      hint: I certify this inspection is accurate
+      type: select_one
+      options:
+      - Yes - I Certify
+      - false
+      required: true

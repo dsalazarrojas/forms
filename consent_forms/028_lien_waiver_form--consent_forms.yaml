@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lien Waiver Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_value
+      label: Contract Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: lien_amount
+      label: Lien Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: lien_date
+      label: Lien Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: waiver_text
+      label: Waiver Text
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contractor_signature
+      label: Contractor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: lien_status
+      label: Lien Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: lien_status_options
+      label: Lien Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: owner_address_1
+      label: Owner Address 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: owner_address_2
+      label: Owner Address 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: owner_city
+      label: Owner City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: owner_state
+      label: Owner State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: owner_zip
+      label: Owner Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contractor_address_1
+      label: Contractor Address 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contractor_address_2
+      label: Contractor Address 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contractor_city
+      label: Contractor City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contractor_state
+      label: Contractor State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contractor_zip
+      label: Contractor Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: lien_submitted
+      label: Lien Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: lien_submitted_options
+      label: Lien Submitted
+      hint: null
+      type: text
+      options: []
+      required: false

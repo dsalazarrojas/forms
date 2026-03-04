@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Coaching Client Plan Adherence Check In
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: adherence_rating
+      label: Adherence Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: Describe the next steps the client will take between sessions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: Additional comments or concerns
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: coach_notes
+      label: Coach Notes
+      hint: Comments or concerns from the coach
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_notes
+      label: Client Notes
+      hint: Comments or concerns from the client
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_session_date
+      label: Next Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: next_session_time
+      label: Next Session Time
+      hint: null
+      type: time
+      options: []
+      required: false

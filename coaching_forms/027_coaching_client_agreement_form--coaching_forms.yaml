@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Client Agreement Form
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Full Name
+      hint: Legal name of the coach
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: coach_phone
+      label: Coach Phone
+      hint: Coach contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coach_business_name
+      label: Coaching Business Name
+      hint: Name of coaching practice
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Full Name
+      hint: Legal name of the client
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: Client contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: Client contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_address
+      label: Client Address
+      hint: Client mailing address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement_effective_date
+      label: Agreement Effective Date
+      hint: When does this agreement start
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: coaching_services
+      label: Coaching Services Description
+      hint: What services will be provided
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: session_package
+      label: Session Package
+      hint: Which package is selected
+      type: select_one
+      options:
+      - Single Session
+      - 3 Session Package
+      - 6 Session Package
+      - 12 Session Package
+      - Monthly Package
+      - Custom Arrangement
+      required: true
+    - id: 12
+      name: session_length
+      label: Session Length
+      hint: Duration of each session
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      - 120 Minutes
+      required: true
+    - id: 13
+      name: session_delivery
+      label: Session Delivery Method
+      hint: How will sessions be conducted
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      - Hybrid
+      required: true
+    - id: 14
+      name: total_investment
+      label: Total Investment
+      hint: Total cost of services
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1001-$2500
+      - $2501-$5000
+      - Over $5000
+      required: true
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: When is payment due
+      type: select_one
+      options:
+      - Full Payment in Advance
+      - 50 Percent Deposit Required
+      - Pay Per Session
+      - Monthly Installments
+      required: true
+    - id: 16
+      name: coaching_goals
+      label: Client Coaching Goals
+      hint: What does the client want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: client_commitments
+      label: Client Commitments
+      hint: What the client agrees to do
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: coach_commitments
+      label: Coach Commitments
+      hint: What the coach agrees to provide
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: cancellation_policy_terms
+      label: Cancellation Policy Terms
+      hint: You understand cancellation rules
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 20
+      name: cancellation_notice_period
+      label: Cancellation Notice Period
+      hint: Required notice for cancellation
+      type: select_one
+      options:
+      - 12 Hours
+      - 24 Hours
+      - 48 Hours
+      - 72 Hours
+      required: true
+    - id: 21
+      name: late_cancellation_fee
+      label: Late Cancellation Fee Applies
+      hint: You understand fees for late cancellation
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 22
+      name: rescheduling_policy
+      label: Rescheduling Policy Understood
+      hint: You understand how to reschedule
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 23
+      name: confidentiality_terms
+      label: Confidentiality Terms Accepted
+      hint: Both parties agree to privacy
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 24
+      name: liability_limitations
+      label: Liability Limitations Understood
+      hint: You understand liability terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Clarification
+      required: true
+    - id: 25
+      name: medical_disclaimer
+      label: Medical Disclaimer Acknowledged
+      hint: Coaching is not medical advice
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - false
+      required: true
+    - id: 26
+      name: results_disclaimer
+      label: Results Disclaimer Acknowledged
+      hint: Results vary by individual
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - false
+      required: true
+    - id: 27
+      name: communication_between_sessions
+      label: Communication Between Sessions
+      hint: How can you contact coach between sessions
+      type: select_one
+      options:
+      - Email Only
+      - Phone Only
+      - Email and Phone
+      - Scheduled Calls Only
+      - Emergency Only
+      required: true
+    - id: 28
+      name: homework_expectations
+      label: Homework or Assignments Expected
+      hint: Will there be work between sessions
+      type: select_one
+      options:
+      - Yes I Expect Assignments
+      - No Assignments
+      - Optional Assignments
+      required: false
+    - id: 29
+      name: termination_policy
+      label: Termination Policy Understood
+      hint: You understand how to end the agreement
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 30
+      name: client_agreement
+      label: I Agree to All Terms and Conditions
+      hint: Client accepts all terms
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 31
+      name: coach_agreement
+      label: Coach Agrees to All Terms
+      hint: Coach accepts all terms
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date of Agreement
+      hint: Today date
+      type: date
+      options: []
+      required: true

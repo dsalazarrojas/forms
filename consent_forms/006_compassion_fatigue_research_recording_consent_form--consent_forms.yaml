@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compassion Fatigue Research Recording Consent Form
+    pages:
+      - id: 1
+        name: study_information
+        label: -- Study Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: participant name
+        hint: full name or enter anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: study_id
+        label: study id
+        hint: internal reference number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: permission_audio
+        label: consent to audio recording
+        hint: allow audio recording for research
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 5
+        name: permission_video
+        label: consent to video recording
+        hint: allow video recording for research
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 6
+        name: use_of_recordings
+        label: permitted use of recordings
+        hint: brief description of how recordings will be used
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: retention_period
+        label: data retention period
+        hint: how long recordings will be stored
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: researcher_contact
+        label: researcher contact email
+        hint: for questions about recordings
+        type: email
+        options: []
+        required: true
+      - id: 9
+        name: signature_name
+        label: participant printed name
+        hint: typed name serves as consent
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: consent_date
+        label: date of consent
+        hint: date participant agreed
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: plagiarism_free_declaration_form
+    pages:
+    - id: 1
+      name: submitter_id
+      label: Submitter id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: submitter_name
+      label: submitter name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: submitter email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_phone
+      label: submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: original_work
+      label: original work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: original_authorship
+      label: original authorship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: plagiarism_declaration
+      label: plagiarism declaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submitter_declaration
+      label: submitter declaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitter_agreement
+      label: submitter agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read, understand, and agree to the terms and conditions
+      - I have not read, do not understand, and do not agree to the terms and conditions
+      required: false
+    - id: 10
+      name: submitter_declaration_date
+      label: submitter declaration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submitter_declaration_time
+      label: submitter declaration time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitter_declaration_note
+      label: submitter declaration note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter_declaration_email
+      label: submitter declaration email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: submitter_declaration_phone
+      label: submitter declaration phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_declaration_date
+      label: submitter declaration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitter_agreement_date
+      label: submitter agreement date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submitter_declaration_agreement
+      label: submitter declaration agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 18
+      name: submitter_declaration_note
+      label: submitter declaration note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitter_declaration_additional_note
+      label: submitter declaration additional note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submitter_declaration_agreement_note
+      label: submitter declaration agreement note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submitter_declaration_agreement_date
+      label: submitter declaration agreement date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitter_declaration_agreement_note
+      label: submitter declaration agreement note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitter_declaration_agreement_additional_note
+      label: submitter declaration agreement additional note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitter_declaration_agreement_additional_agreement_note
+      label: submitter declaration agreement additional agreement note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter_declaration_agreement_additional_agreement_date
+      label: submitter declaration agreement additional agreement date
+      hint: null
+      type: date
+      options: []
+      required: false

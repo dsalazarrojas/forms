@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Expert Interview Form
+    pages:
+      - id: 1
+        name: section_interview_overview
+        label: -- Interview Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: expert_name
+        label: Expert name
+        hint: Full name of interviewee
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: affiliation
+        label: Affiliation
+        hint: Institution or organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: contact_email
+        label: Contact email
+        hint: For scheduling and follow up
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: interview_date
+        label: Proposed interview date
+        hint: Preferred or scheduled date
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: consent_to_record
+        label: Consent to record interview
+        hint: Permission to record audio or video
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: consent_to_publish
+        label: Consent to publish interview materials
+        hint: Permission to use quotes or media in publications
+        type: select_one
+        options:
+          - Yes
+          - No
+          - With approval on quotes
+        required: true
+      - id: 8
+        name: topics_to_discuss
+        label: Topics to discuss
+        hint: Key themes or questions for the interview
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: interviewer_name
+        label: Interviewer name
+        hint: Person conducting the interview
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Any special instructions or considerations
+        type: text
+        options: []
+        required: false

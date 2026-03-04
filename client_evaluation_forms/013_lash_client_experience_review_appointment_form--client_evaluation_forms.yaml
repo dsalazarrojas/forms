@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Client Experience Review Appointment Form
+    pages:
+    - id: 1
+      name: client_experience
+      label: client_experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lash_services
+      label: lash_services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: technician_rating
+      label: technician_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technician_notes
+      label: technician_notes
+      hint: null
+      type: text
+      options: []
+      required: false

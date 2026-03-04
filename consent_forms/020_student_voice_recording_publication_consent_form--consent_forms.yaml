@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_voice_recording_publication_consent_form
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_contact
+      label: Parent Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_info
+      label: School Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: publication_type
+      label: Publication Type
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - School
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: publication_purpose
+      label: Publication Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: publication_purpose_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_informed_consent
+      label: Student Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: publication_location
+      label: Publication Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: publication_time
+      label: Publication Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: publication_duration
+      label: Publication Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: publication_date_range
+      label: Publication Date Range
+      hint: null
+      type: select_multiple
+      options:
+      - From
+      - To
+      required: false
+    - id: 16
+      name: recording_file_name
+      label: Recording File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recording_file
+      label: Recording File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: publication_url
+      label: Publication URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_to_publish
+      label: Consent to Publish
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: consent_reason
+      label: Consent Reason (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_sign_date
+      label: Parent Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: parent_sign_time
+      label: Parent Sign Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: parent_sign_location
+      label: Parent Sign Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_sign_date
+      label: School Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: school_sign_time
+      label: School Sign Time
+      hint: null
+      type: time
+      options: []
+      required: false

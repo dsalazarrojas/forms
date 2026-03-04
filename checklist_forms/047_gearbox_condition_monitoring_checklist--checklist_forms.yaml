@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: gearbox_condition_monitoring_checklist
+    pages:
+    - id: 1
+      name: gearbox_condition
+      label: Gearbox Condition
+      hint: null
+      type: select_one
+      options:
+      - Gearbox is clean
+      - Gearbox is dirty
+      required: false
+    - id: 2
+      name: oil_level_check
+      label: Oil Level Check
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      - Level 5
+      required: false
+    - id: 3
+      name: temperature_check
+      label: Temperature Check
+      hint: Record temperature in Celsius
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: oil_leak_check
+      label: Oil Leak Check
+      hint: null
+      type: select_one
+      options:
+      - No leak
+      - Leaking
+      required: false
+    - id: 5
+      name: bearing_condition
+      label: Bearing Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: bearing_lubrication
+      label: Bearing Lubrication
+      hint: null
+      type: select_one
+      options:
+      - Lubricated
+      - Not Lubricated
+      required: false
+    - id: 7
+      name: seal_condition
+      label: Seal Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: seal_leak_check
+      label: Seal Leak Check
+      hint: null
+      type: select_one
+      options:
+      - No leak
+      - Leaking
+      required: false
+    - id: 9
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: technician_name
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspection_notes
+      label: Inspection Notes
+      hint: Additional notes about the gearbox condition
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: gearbox_model
+      label: Gearbox Model
+      hint: Please enter the Gearbox model number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gearbox_serial
+      label: Gearbox Serial
+      hint: Please enter the Gearbox serial number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Please enter the Vehicle model number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_serial
+      label: Vehicle Serial
+      hint: Please enter the Vehicle serial number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: last_service_mileage
+      label: Last Service Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: next_service_mileage
+      label: Next Service Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: service_interval
+      label: Service Interval
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      required: false
+    - id: 20
+      name: gearbox_health_status
+      label: Gearbox Health Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 21
+      name: gearbox_inspection_status
+      label: Gearbox Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Not Inspected
+      - Inspected
+      required: false
+    - id: 22
+      name: gearbox_inspection_comments
+      label: Gearbox Inspection Comments
+      hint: Please enter comments about the inspection
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: gearbox_action_plan
+      label: Gearbox Action Plan
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Lubricate
+      - Replace Bearing
+      - Replace Seals
+      - Replace Gearbox
+      required: false
+    - id: 24
+      name: gearbox_inspection_result
+      label: Gearbox Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 25
+      name: gearbox_remarks
+      label: Gearbox Remarks
+      hint: Additional remarks about the inspection
+      type: note
+      options: []
+      required: false

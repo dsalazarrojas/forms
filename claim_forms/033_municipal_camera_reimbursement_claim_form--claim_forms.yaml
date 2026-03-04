@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: municipal-camera-reimbursement-claim-form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: municipality_id
+      label: municipal-id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_expense
+      label: date-of-expense
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: expense_description
+      label: expense-description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reimbursement_amount
+      label: reimbursement-amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: claim_status
+      label: claim-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: supporting-documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claimant_signature
+      label: claimant-signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_submission
+      label: date-of-submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by
+      label: submitted-by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supporting_document_description
+      label: supporting-document-description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitted_by_email
+      label: submitted-by-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: claimant_phone
+      label: claimant-phone
+      hint: null
+      type: text
+      options: []
+      required: true

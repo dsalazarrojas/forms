@@ -1,0 +1,278 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Report Form
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Name of the client
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: service_address
+        label: Service Address
+        hint: Address where service was provided
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: service_date
+        label: Service Date
+        hint: Date of cleaning service
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: service_time_start
+        label: Service Start Time
+        hint: Time service began
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: service_time_end
+        label: Service End Time
+        hint: Time service completed
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: cleaner_name
+        label: Cleaner Name
+        hint: Name of the cleaner or team
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: service_type
+        label: Service Type
+        hint: Type of cleaning service provided
+        type: select_one
+        options:
+          - Regular Cleaning
+          - Deep Cleaning
+          - Move-In or Move-Out
+          - Post-Construction
+          - Spring Cleaning
+          - Office Cleaning
+          - Other
+        required: true
+      - id: 8
+        name: section_header_tasks
+        label: -- Tasks Completed --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: rooms_cleaned
+        label: Rooms Cleaned
+        hint: Select all rooms that were cleaned
+        type: select_multiple
+        options:
+          - Living Room
+          - Dining Room
+          - Kitchen
+          - Master Bedroom
+          - Bedroom 2
+          - Bedroom 3
+          - Additional Bedrooms
+          - Master Bathroom
+          - Bathroom 2
+          - Additional Bathrooms
+          - Hallways
+          - Stairs
+          - Basement
+          - Garage
+          - Office
+          - Laundry Room
+          - Other Rooms
+        required: true
+      - id: 10
+        name: tasks_completed
+        label: Tasks Completed
+        hint: Select all tasks that were completed
+        type: select_multiple
+        options:
+          - Dusting All Surfaces
+          - Vacuuming Carpets
+          - Sweeping Floors
+          - Mopping Hard Floors
+          - Cleaning Bathrooms
+          - Cleaning Kitchen
+          - Wiping Countertops
+          - Cleaning Appliances
+          - Emptying Trash
+          - Making Beds
+          - Changing Linens
+          - Washing Dishes
+          - Cleaning Windows
+          - Wiping Baseboards
+          - Cleaning Light Fixtures
+          - Organizing Areas
+          - Other Tasks
+        required: true
+      - id: 11
+        name: section_header_supplies
+        label: -- Supplies and Products --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: supplies_used
+        label: Cleaning Supplies Used
+        hint: List supplies or products used
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: supplies_depleted
+        label: Supplies Running Low
+        hint: List any supplies that need restocking
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: client_supplies_used
+        label: Client Supplies Used
+        hint: Did you use client-provided supplies
+        type: select_one
+        options:
+          - Yes - Used client supplies
+          - No - Used company supplies
+          - Partially - Used both
+        required: true
+      - id: 15
+        name: section_header_notes
+        label: -- Service Notes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: areas_of_focus
+        label: Areas Requiring Extra Attention
+        hint: Which areas needed special focus
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: issues_encountered
+        label: Issues Encountered
+        hint: Any problems or challenges during cleaning
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: damage_reported
+        label: Damage Reported
+        hint: Any damage discovered or caused
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: items_not_cleaned
+        label: Items or Areas Not Cleaned
+        hint: List anything that was not cleaned and why
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: client_requests
+        label: Special Client Requests Completed
+        hint: Any special requests fulfilled
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: section_header_follow_up
+        label: -- Follow-Up Recommendations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: areas_needing_attention
+        label: Areas Needing Attention Next Visit
+        hint: What should be focused on next time
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: recommended_services
+        label: Recommended Additional Services
+        hint: Any services you recommend for next time
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: next_visit_notes
+        label: Notes for Next Visit
+        hint: Important information for the next cleaner
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: section_header_client_feedback
+        label: -- Client Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: client_satisfaction
+        label: Client Satisfaction Level
+        hint: How satisfied was the client
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: false
+      - id: 27
+        name: client_comments
+        label: Client Comments or Feedback
+        hint: Any feedback from the client
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: follow_up_requested
+        label: Client Requested Follow-Up
+        hint: Did the client request any follow-up
+        type: select_one
+        options:
+          - Yes - Call or email needed
+          - Yes - Additional service requested
+          - No - No follow-up needed
+        required: false
+      - id: 29
+        name: report_submitted_by
+        label: Report Submitted By
+        hint: Name of person submitting this report
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: report_date
+        label: Report Date
+        hint: Date this report is submitted
+        type: date
+        options: []
+        required: true

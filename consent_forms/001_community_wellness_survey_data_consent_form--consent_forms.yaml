@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Wellness Survey Data Consent Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: We will send a copy of this consent to your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_age_group
+      label: Age Group
+      hint: Select your current age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-34
+      - 35-50
+      - 51-65
+      - Over 65
+      required: true
+    - id: 5
+      name: section_consent_details
+      label: -- Research and Data Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: purpose_acknowledgment
+      label: Purpose of the Study
+      hint: I acknowledge that I have been informed that the data collected will be
+        used to improve community health programs.
+      type: select_one
+      options:
+      - I understand and agree
+      - Other
+      required: true
+    - id: 7
+      name: data_handling_consent
+      label: Data Confidentiality and Storage
+      hint: I understand that my data will be stored securely and will not be shared
+        with third parties without my explicit permission.
+      type: select_one
+      options:
+      - I agree to the data handling terms
+      - Other
+      required: true
+    - id: 8
+      name: voluntary_participation
+      label: Voluntary Participation
+      hint: I understand that my participation is completely voluntary and I can withdraw
+        at any time.
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 9
+      name: right_to_withdraw
+      label: Right to Withdraw
+      hint: I am aware that I may contact the organizers at any time to have my data
+        removed.
+      type: select_one
+      options:
+      - I understand my rights
+      - Other
+      required: true
+    - id: 10
+      name: consent_date
+      label: Date of Consent
+      hint: Select today's date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: final_acknowledgment
+      label: Final Acknowledgment
+      hint: By submitting this form, you are providing your digital signature.
+      type: note
+      options: []
+      required: false

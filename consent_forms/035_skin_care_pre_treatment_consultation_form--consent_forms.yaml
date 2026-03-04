@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Pre Treatment Consultation Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: skin_condition
+      label: Skin Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Aging
+      - Eczema
+      - Hyper-pigmentation
+      - Rosacea
+      - Scars
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: treatment_goal
+      label: Treatment Goal
+      hint: null
+      type: select_multiple
+      options:
+      - Improve skin appearance
+      - Reduce skin sensitivity
+      - Prevent skin irritation
+      required: false
+    - id: 6
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      required: false
+    - id: 7
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - Pale
+      - Fair
+      - Medium
+      - Tan
+      - Dark
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Fragrances
+      - Dye
+      - Medications
+      required: false
+    - id: 9
+      name: skincare_products
+      label: Skincare Products
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      - Cleanser
+      - Moisturizer
+      - Sunscreen
+      - Exfoliator
+      required: false
+    - id: 10
+      name: sun_protection
+      label: Sun Protection
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Daily
+      - Occasional
+      - Always
+      required: false
+    - id: 11
+      name: smoking_habits
+      label: Smoking Habits
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Socially
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 12
+      name: sun_protection_methods
+      label: Sun Protection Methods
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Clothing
+      - Sunscreen
+      - Hat
+      - Sunglasses
+      required: false
+    - id: 13
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Blonde
+      - Brown
+      - Red
+      - Black
+      - Gray
+      - White
+      - Other
+      required: false
+    - id: 14
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Curly
+      - Wavy
+      - Straight
+      - Other
+      required: false
+    - id: 15
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Gray
+      - Amber
+      - Other
+      required: false
+    - id: 16
+      name: skin_protection
+      label: Skin Protection
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Daily
+      - Occasional
+      - Always
+      required: false
+    - id: 17
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 18
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 19
+      name: medical_history_other
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Short-term
+      - Medium-term
+      - Long-term
+      required: false
+    - id: 23
+      name: treatment_outcome
+      label: Treatment Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Not Satisfied at all
+      required: false
+    - id: 24
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

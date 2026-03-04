@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: jv_harmless
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_service
+      label: Time Of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Exam
+      - Treatment
+      - Test
+      - Test Result
+      required: false
+    - id: 5
+      name: patient_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: false

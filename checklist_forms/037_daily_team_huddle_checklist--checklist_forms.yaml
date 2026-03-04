@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Daily Team Huddle Checklist
+    pages:
+    - id: 1
+      name: team_member
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Attended'', ''value'': ''Attended''}'
+      - '{''label'': ''Absent'', ''value'': ''Absent''}'
+      - '{''label'': ''Late'', ''value'': ''Late''}'
+      - '{''label'': ''On Vacation'', ''value'': ''On Vacation''}'
+      - '{''label'': ''Working Remotely'', ''value'': ''Working Remotely''}'
+      required: false
+    - id: 3
+      name: notes
+      label: Stand-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: blockers
+      label: Blockers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Technical Blocker'', ''value'': ''Technical Blocker''}'
+      - '{''label'': ''Non-Technical Blocker'', ''value'': ''Non-Technical Blocker''}'
+      required: false
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: blockers_details
+      label: Blocker Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: progress_updates
+      label: Progress Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User 1'', ''value'': ''User 1''}'
+      - '{''label'': ''User 2'', ''value'': ''User 2''}'
+      - '{''label'': ''User 3'', ''value'': ''User 3''}'
+      required: false

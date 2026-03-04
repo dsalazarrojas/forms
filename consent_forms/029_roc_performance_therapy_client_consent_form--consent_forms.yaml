@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: ROC Performance Therapy Client Consent Form
+    pages:
+    - id: 1
+      name: client_information
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship_note
+      label: emergency_contact_relationship_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_details
+      label: medical_history_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: Please check all that apply. Please check all that apply.
+      type: select_multiple
+      options:
+      - Please consent to receive remote therapy services.
+      - Please consent to share my contact information with my emergency contact and
+        the therapy team.
+      - Please consent to share my medical history with my emergency contact.
+      required: false
+    - id: 10
+      name: emergency_contact_relationship_status
+      label: emergency_contact_relationship_status
+      hint: null
+      type: select_one
+      options:
+      - Emergency contact will be notified
+      - Emergency contact will not be notified
+      required: false

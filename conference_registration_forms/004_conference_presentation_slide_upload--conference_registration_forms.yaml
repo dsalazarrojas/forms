@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Presentation Slide Upload
+    pages:
+    - id: 1
+      name: presenter_name
+      label: Presenter Full Name
+      hint: Name of the person presenting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email for presentation communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number for day-of-event issues
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Institution
+      hint: Your affiliated organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presentation_title
+      label: Presentation Title
+      hint: Exact title of your presentation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_track
+      label: Session Track
+      hint: Which track is your presentation part of
+      type: select_one
+      options:
+      - Keynote Session
+      - Research Track A
+      - Research Track B
+      - Workshop Session
+      - Panel Discussion
+      - Lightning Talks
+      - Poster Session
+      required: true
+    - id: 7
+      name: presentation_date
+      label: Presentation Date
+      hint: Scheduled date of your presentation
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: presentation_time
+      label: Presentation Time Slot
+      hint: Your assigned time slot
+      type: select_one
+      options:
+      - Morning Session 9 AM to 12 PM
+      - Afternoon Session 1 PM to 5 PM
+      - Evening Session 6 PM to 8 PM
+      - To Be Announced
+      required: true
+    - id: 9
+      name: slide_format
+      label: Slide Deck Format
+      hint: What format is your presentation
+      type: select_one
+      options:
+      - PowerPoint PPTX
+      - PowerPoint PPT
+      - PDF
+      - Keynote
+      - Google Slides Link
+      - Other
+      required: true
+    - id: 10
+      name: slide_file
+      label: Upload Slide Deck
+      hint: Upload your presentation file max 50MB
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: slide_version
+      label: Slide Deck Version
+      hint: Is this the final version
+      type: select_one
+      options:
+      - Final Version Ready for Presentation
+      - Draft Version Will Update
+      - Placeholder Will Upload Later
+      required: true
+    - id: 12
+      name: embedded_media
+      label: Does your presentation contain embedded media
+      hint: Videos audio or animations
+      type: select_one
+      options:
+      - No Embedded Media
+      - Yes Contains Video
+      - Yes Contains Audio
+      - Yes Contains Animations
+      - Yes Contains Multiple Media Types
+      required: true
+    - id: 13
+      name: aspect_ratio
+      label: Slide Aspect Ratio
+      hint: What is your slide dimensions
+      type: select_one
+      options:
+      - 16:9 Widescreen
+      - 4:3 Standard
+      - Not Sure
+      required: true
+    - id: 14
+      name: font_embedding
+      label: Are fonts embedded in the presentation
+      hint: Ensures fonts display correctly
+      type: select_one
+      options:
+      - Yes Fonts Are Embedded
+      - No Using Standard Fonts Only
+      - Not Sure
+      required: false
+    - id: 15
+      name: special_requirements
+      label: Special Technical Requirements
+      hint: Any special setup needs for your presentation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: backup_needed
+      label: Do you need a backup copy on USB
+      hint: We can provide a backup copy
+      type: select_one
+      options:
+      - Yes Please Provide USB Backup
+      - No Cloud Backup Is Sufficient
+      - No Backup Needed
+      required: true
+    - id: 17
+      name: presenter_laptop
+      label: Will you use your own laptop
+      hint: Using your own laptop
+      type: select_one
+      options:
+      - Yes Using My Laptop
+      - No Use Conference Computer
+      - Not Sure Yet
+      required: true
+    - id: 18
+      name: laptop_type
+      label: Laptop Type
+      hint: What type of computer will you use
+      type: select_one
+      options:
+      - Windows PC
+      - Mac
+      - Linux
+      - Not Applicable
+      required: false
+    - id: 19
+      name: wireless_clicker
+      label: Wireless Presentation Clicker Needed
+      hint: Do you need a presentation remote
+      type: select_one
+      options:
+      - Yes Please Provide
+      - No I Have My Own
+      - No Not Needed
+      required: true
+    - id: 20
+      name: recording_consent
+      label: Consent to Recording
+      hint: May we record your presentation for archives
+      type: select_one
+      options:
+      - Yes May Be Recorded
+      - Audio Only
+      - No Recording Please
+      required: true
+    - id: 21
+      name: upload_confirmation
+      label: I confirm this upload is complete and accurate
+      hint: Verify your submission
+      type: select_one
+      options:
+      - I Confirm
+      - Need to Make Changes
+      required: true

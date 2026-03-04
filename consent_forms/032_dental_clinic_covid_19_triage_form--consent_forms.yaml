@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Clinic COVID 19 Triage Form
+    pages:
+    - id: 1
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 2
+      name: patient_info_form
+      label: Patient Info Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_form
+      label: Contact Form
+      hint: Please contact us if you have any questions
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history_form
+      label: Medical History Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history_form
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - asthma
+      - cancer
+      - heart disease
+      required: false
+    - id: 6
+      name: travel_history_form
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - usa
+      - other
+      required: false
+    - id: 7
+      name: exposure_form
+      label: Exposure History
+      hint: null
+      type: select_multiple
+      options:
+      - close_contact
+      - close_contact_travel
+      - close_contact_other
+      required: false
+    - id: 8
+      name: symptoms_form
+      label: Symptom Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: temperature_form
+      label: Temperature Check
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: medical_clinic_triage_form
+      label: Medical Clinic Triage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: patient_signature_form
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - I agree to the consent form
+      - I decline the consent form
+      required: false
+    - id: 12
+      name: healthcare_professional_signature_form
+      label: Healthcare Professional Signature
+      hint: null
+      type: select_one
+      options:
+      - I agree to the consent form
+      - I decline the consent form
+      required: false

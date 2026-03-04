@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Against Medical Advice Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient full name
+      hint: Legal name as on record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical record number
+      hint: Hospital or clinic ID if available
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_release
+      label: Reason for leaving against medical advice
+      hint: Patient explanation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: risks_understood
+      label: Has the patient been informed of risks
+      hint: Confirm patient received explanation of risks
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 7
+      name: alternatives_offered
+      label: Were alternatives offered
+      hint: Document alternatives discussed
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 8
+      name: witness_name
+      label: Witness name
+      hint: Staff or family member witness
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_signed
+      label: Date signed
+      hint: Date patient signed the form
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_signature_name
+      label: Patient signature name
+      hint: Type full name to attest to signature
+      type: text
+      options: []
+      required: true

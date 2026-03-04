@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Program Selection Form
+    pages:
+    - id: 1
+      name: program_selection
+      label: program_selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainer_selection
+      label: trainer_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: gym_selection
+      label: gym_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: trainer_name
+      label: trainer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: trainer_email
+      label: trainer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: trainer_phone
+      label: trainer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: review_notes_2
+      label: review_notes_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: review_notes_3
+      label: review_notes_3
+      hint: null
+      type: note
+      options: []
+      required: false

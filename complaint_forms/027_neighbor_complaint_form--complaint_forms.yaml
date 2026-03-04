@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neighbor Complaint Form
+    pages:
+    - id: 1
+      name: main
+      label: Neighbor Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complainant_name
+      label: Complainant's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complainant_contact_info
+      label: Complainant's Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Phone number
+      - Email address
+      required: false
+    - id: 4
+      name: neighbor_name
+      label: Neighbor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description of the Problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: witness_info
+      label: Witness Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: police_report_num
+      label: Police Report Number
+      hint: Enter police report number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_complained
+      label: Date Complained
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_resolved
+      label: Date Resolved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: officer_contact
+      label: Officer's Contact
+      hint: null
+      type: select_one
+      options:
+      - Officer's name
+      - Officer's badge number
+      required: false
+    - id: 12
+      name: officer_name
+      label: Officer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: officer_phone
+      label: Officer's Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: police_dept
+      label: Police Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: case_number
+      label: Case Number
+      hint: Enter case number
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

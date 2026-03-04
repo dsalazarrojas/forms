@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Release Consent Form
+    pages:
+    - id: 1
+      name: photo_release_consent_form_photo_owner
+      label: Photo Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_release_consent_form_acquiring_party
+      label: Acquiring Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_release_consent_form_purpose_of_use
+      label: Purpose of Use
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Any other purpose which the acquiring party may desire
+      required: false
+    - id: 4
+      name: photo_release_consent_form_signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: photo_release_consent_form_signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: photo_release_consent_form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_release_consent_form_photo_number
+      label: Photo Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: photo_release_consent_form_photos_taken_at
+      label: Photos Taken At
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - At the Photo Release Consent event
+      - At some other time
+      required: false

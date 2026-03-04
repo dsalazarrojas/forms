@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Rule Violation Report Form
+    pages:
+    - id: 1
+      name: reporter_info
+      label: Reporter Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: anonymous
+      label: Do You Want to Remain Anonymous
+      hint: Your identity will be protected
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: violation_info
+      label: Violation Information
+      hint: Details about the incident
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: violation_type
+      label: Type of Violation
+      hint: Select the category
+      type: select_one
+      options:
+      - Noise Violation
+      - Parking Violation
+      - Property Damage
+      - Pet Violation
+      - Littering
+      - Harassment
+      - Trespassing
+      - Vandalism
+      - Safety Violation
+      - Community Guidelines
+      - Other
+      required: true
+    - id: 9
+      name: violation_description
+      label: Detailed Description
+      hint: Explain what happened
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: involved_parties
+      label: Involved Parties Information
+      hint: About the violator
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: violator_description
+      label: Description of Violator
+      hint: Physical description or details
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: violator_name
+      label: Name of Violator
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: violator_address
+      label: Address of Violator
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: witnesses
+      label: Were There Witnesses
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: witness_info
+      label: Witness Information
+      hint: Names and contact details
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: evidence
+      label: Evidence
+      hint: Supporting materials
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: photos_available
+      label: Do You Have Photos
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: videos_available
+      label: Do You Have Video Evidence
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: documents_available
+      label: Do You Have Other Documentation
+      hint: Emails, letters, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: previous_incidents
+      label: Has This Happened Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: previous_details
+      label: Previous Incident Details
+      hint: Describe prior incidents
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: impact
+      label: How Did This Violation Impact You
+      hint: Describe the effect
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: desired_resolution
+      label: What Resolution Do You Seek
+      hint: What outcome do you want
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: urgency
+      label: Urgency Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Emergency - Immediate Action
+      - High - Within 24 Hours
+      - Medium - Within 1 Week
+      - Low - When Possible
+      required: true
+    - id: 28
+      name: police_report
+      label: Have You Filed a Police Report
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 29
+      name: police_report_number
+      label: Police Report Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

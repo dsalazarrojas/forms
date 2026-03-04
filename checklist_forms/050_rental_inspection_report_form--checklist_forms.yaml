@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Inspection Report Form
+    pages:
+    - id: 1
+      name: property_inspection
+      label: Property Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: repair_requests
+      label: Repair Requests
+      hint: List repair requests to return the property to its original state
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: photos_evidence
+      label: Photos and Evidence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

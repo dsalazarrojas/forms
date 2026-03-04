@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surveillance Tour Checklist
+    pages:
+    - id: 1
+      name: patrol_details
+      label: Patrol Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patrol_id
+      label: Patrol ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patrol_date
+      label: Patrol Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incidents
+      label: Incidents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: checkpoints
+      label: Checkpoints
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false

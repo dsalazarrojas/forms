@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Subscription Form
+    pages:
+    - id: 1
+      name: section_subscriber_info
+      label: -- Subscriber Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_subscription_type
+      label: -- Subscription Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: subscription_plan
+      label: Select Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic Monthly
+      - Premium Monthly
+      - Deluxe Monthly
+      - 3-Month Plan
+      - 6-Month Plan
+      - Annual Plan
+      required: true
+    - id: 8
+      name: plan_details
+      label: Plan Details
+      hint: Describe the selected plan
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: monthly_cost
+      label: Monthly Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_personal_goals
+      label: -- Personal Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coaching_goals
+      label: What are your coaching goals?
+      hint: Describe your objectives
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: focus_areas
+      label: Focus Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fitness improvement
+      - Weight management
+      - Performance enhancement
+      - Stress reduction
+      - Confidence building
+      - Leadership development
+      - Career advancement
+      - Other
+      required: true
+    - id: 14
+      name: section_coaching_preferences
+      label: -- Coaching Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_coach_gender
+      label: Preferred Coach Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - No preference
+      required: false
+    - id: 16
+      name: coaching_format
+      label: Preferred Coaching Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual - Video
+      - Virtual - Phone
+      - Mixed
+      required: true
+    - id: 17
+      name: session_frequency
+      label: Preferred Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Flexible
+      required: true
+    - id: 18
+      name: preferred_times
+      label: Preferred Meeting Times
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Check
+      required: true
+    - id: 21
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 22
+      name: section_agreement
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: terms_agreement
+      label: I agree to the subscription terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 24
+      name: cancellation_policy_acknowledgment
+      label: I understand the cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 25
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: true

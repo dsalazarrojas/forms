@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Medical Discharge Pension Eligibility Questionnaire
+    pages:
+    - id: 1
+      name: military_medical_discharge_pension_eligibility
+      label: military_medical_discharge_pension_eligibility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: military_service
+      label: military_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: military_branch
+      label: military_branch
+      hint: null
+      type: select_multiple
+      options:
+      - Army
+      - Marine
+      - Navy
+      - Air Force
+      - Coast Guard
+      required: false
+    - id: 4
+      name: service_period
+      label: military_service_period
+      hint: null
+      type: select_multiple
+      options:
+      - World War 2
+      - Korean War
+      - Vietnam War
+      - Gulf War
+      - Iraq War
+      - Afghanistan War
+      required: false
+    - id: 5
+      name: discharge_status
+      label: discharge_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: pension_eligibility
+      label: pension_eligibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pension_type
+      label: pension_type
+      hint: null
+      type: select_one
+      options:
+      - Military Pension
+      - VA Pension
+      - Social Security Disability Insurance (SSDI)
+      - Compensation and Pension
+      required: false
+    - id: 8
+      name: military_medical_history
+      label: military_medical_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: dependent_status
+      label: dependent_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: dependent_relationships
+      label: dependent_relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: service_connection
+      label: service_connection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: veteran_status
+      label: veteran_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: military_discharge
+      label: military_discharge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_cause
+      label: medical_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: disability_determination
+      label: disability_determination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: service_connected_disability
+      label: service_connected_disability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: veteran_service_disability
+      label: veteran_service_disability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: medical_discharge_certification
+      label: medical_discharge_certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: veteran_status_verification
+      label: veteran_status_verification
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: medical_certification_verification
+      label: medical_certification_verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: claimant_declaration
+      label: claimant_declaration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: claimant_signature
+      label: claimant_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: claimant_date
+      label: claimant_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: claimant_time
+      label: claimant_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: claimant_relationship
+      label: claimant_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

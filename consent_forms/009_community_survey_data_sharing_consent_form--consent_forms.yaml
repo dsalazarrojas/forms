@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Survey Data Sharing Consent Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older to consent
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: survey_name
+      label: Which survey did you participate in?
+      hint: Name of the survey
+      type: select_one
+      options:
+      - Community Health Survey 2025
+      - Neighborhood Safety Survey
+      - Quality of Life Survey
+      - Housing Needs Assessment
+      - Transportation Survey
+      - Education Needs Survey
+      - Environmental Concerns Survey
+      - Economic Development Survey
+      - Other
+      required: true
+    - id: 6
+      name: survey_date
+      label: When did you complete the survey?
+      hint: Approximate date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_purpose
+      label: -- Purpose of Data Sharing --
+      hint: Please read the following information carefully
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: understand_purpose
+      label: I understand that my survey responses may be shared for research purposes
+      hint: Data may be used for community improvement
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 9
+      name: data_usage_understanding
+      label: I understand my data may be used for
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Academic research
+      - Policy development
+      - Community planning
+      - Grant applications
+      - Program evaluation
+      - Public reports
+      - Statistical analysis
+      required: true
+    - id: 10
+      name: section_privacy
+      label: -- Privacy and Confidentiality --
+      hint: Your privacy is protected
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: understand_anonymization
+      label: I understand that my personal information will be removed from shared
+        data
+      hint: Data will be anonymized
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 12
+      name: understand_aggregation
+      label: I understand that my responses will be combined with others in reports
+      hint: Individual responses not identified
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 13
+      name: consent_level
+      label: What level of data sharing do you consent to?
+      hint: Choose your comfort level
+      type: select_one
+      options:
+      - Full consent - May share all anonymized responses
+      - Limited consent - May share only basic demographics
+      - Minimal consent - May share only aggregated statistics
+      - No consent - Do not share my responses
+      required: true
+    - id: 14
+      name: consent_researchers
+      label: I consent to sharing my data with academic researchers
+      hint: University and research institutions
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 15
+      name: consent_government
+      label: I consent to sharing my data with government agencies
+      hint: Local, state, federal agencies
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 16
+      name: consent_nonprofit
+      label: I consent to sharing my data with nonprofit organizations
+      hint: Community organizations and nonprofits
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 17
+      name: consent_public
+      label: I consent to including my data in public reports
+      hint: Published reports and presentations
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 18
+      name: section_rights
+      label: -- Your Rights --
+      hint: You have control over your data
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: understand_voluntary
+      label: I understand that participation is voluntary
+      hint: You can withdraw at any time
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 20
+      name: understand_withdrawal
+      label: I understand that I can withdraw consent at any time
+      hint: Contact us to withdraw
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 21
+      name: understand_no_compensation
+      label: I understand that I will not be compensated for data sharing
+      hint: No payment for participation
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 22
+      name: questions_contact
+      label: Do you have any questions about data sharing?
+      hint: We're here to help
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: received_explanation
+      label: Did someone explain this form to you?
+      hint: Was the consent process explained?
+      type: select_one
+      options:
+      - Yes, thoroughly explained
+      - Yes, but I have questions
+      - No, I read it myself
+      required: true
+    - id: 24
+      name: consent_signature
+      label: By signing, I confirm I have read and understand this consent form
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: witness_name
+      label: Witness Name (if applicable)
+      hint: Person who witnessed consent
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: consent_time
+      label: Time of Consent
+      hint: Current time
+      type: time
+      options: []
+      required: false

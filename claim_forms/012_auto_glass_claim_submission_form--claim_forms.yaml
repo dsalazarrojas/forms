@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Glass Claim Submission Form
+    pages:
+    - id: 1
+      name: claimant_info_header
+      label: -- Claimant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_name
+      label: Policyholder Name
+      hint: Full name on the insurance policy
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: Your auto insurance policy ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: For claim updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_damage_header
+      label: -- Vehicle and Damage Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make_model_year
+      label: Vehicle Make, Model, and Year
+      hint: e.g. 2020 Honda Accord
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vin_number
+      label: VIN Number
+      hint: 17-character vehicle ID
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_incident
+      label: Date of Incident
+      hint: When did the damage occur?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: type_of_damage
+      label: Type of Damage
+      hint: Select the primary glass affected
+      type: select_one
+      options:
+      - Windshield Chip
+      - Windshield Crack
+      - Side Window
+      - Rear Window
+      - Sunroof
+      required: true
+    - id: 11
+      name: cause_of_damage
+      label: Cause of Damage
+      hint: Brief explanation of how it happened
+      type: select_one
+      options:
+      - Road Debris
+      - Vandalism
+      - Accident
+      - Weather Event
+      - Unknown
+      required: true
+    - id: 12
+      name: service_authorization_header
+      label: -- Service and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_repair_provider
+      label: Preferred Repair Provider
+      hint: Select your choice of service
+      type: select_one
+      options:
+      - Network Provider
+      - Independent Shop
+      - Mobile Service
+      required: true
+    - id: 14
+      name: location_of_damage_on_glass
+      label: Location of Damage on Glass
+      hint: e.g. lower passenger side
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: authorize_direct_billing
+      label: Authorize Direct Billing
+      hint: I authorize direct payment to the repair provider
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

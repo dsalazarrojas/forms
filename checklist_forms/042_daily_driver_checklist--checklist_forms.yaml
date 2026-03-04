@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_driver_checklist
+    pages:
+    - id: 1
+      name: daily_driver_form_1
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_license_number
+      label: vehicle_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: odometer_reading
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fuel_level
+      label: fuel_level
+      hint: null
+      type: select_one
+      options:
+      - '{''Fuel Level'': ''Low''}'
+      - '{''Fuel Level'': ''Medium''}'
+      - '{''Fuel Level'': ''High''}'
+      required: false
+    - id: 8
+      name: daily_driver_comments
+      label: daily_driver_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_multiple
+      options:
+      - Vehicle Available
+      - Vehicle Not Available
+      - Vehicle In Maintenance
+      - Vehicle In Repair
+      - Vehicle In Transit
+      required: false
+    - id: 10
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: driver_name
+      label: driver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: driver_phone
+      label: driver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: driver_email
+      label: driver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_last_maintenance
+      label: vehicle_last_maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_last_service
+      label: vehicle_last_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_last_inspection
+      label: vehicle_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_next_maintenance
+      label: vehicle_next_maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_next_service
+      label: vehicle_next_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_last_warranty
+      label: vehicle_last_warranty
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_last_warranty_expires
+      label: vehicle_last_warranty_expires
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_last_registration
+      label: vehicle_last_registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_last_rego
+      label: vehicle_last_rego
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_next_registration
+      label: vehicle_next_registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_last_inspection_cost
+      label: vehicle_last_inspection_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_last_service_cost
+      label: vehicle_last_service_cost
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Permission Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: tenant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_name
+      label: pet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_type
+      label: pet type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_breed
+      label: pet breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_size
+      label: pet size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_diet
+      label: pet diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pet_shed
+      label: pet shed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pet_lease
+      label: pet lease
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 9
+      name: pet_fees
+      label: pet fees
+      hint: Pet fees are per month
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pet_fees_duration
+      label: pet fees duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: additional_requests
+      label: additional requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_request
+      label: date of request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: landlord_permission
+      label: landlord permission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: tenant_signature
+      label: tenant signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: landlord_signature
+      label: landlord signature
+      hint: null
+      type: text
+      options: []
+      required: true

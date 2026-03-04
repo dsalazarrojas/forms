@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appraisal Parameter Form
+    pages:
+    - id: 1
+      name: appraiser_info
+      label: Appraiser Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: appraiser_name
+      label: Appraiser Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appraiser_license
+      label: Appraiser License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_parameters
+      label: Property Parameters
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Subject Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lot_size
+      label: Lot Size Square Feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: building_size
+      label: Building Size Square Feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: num_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: num_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: zoning
+      label: Zoning Classification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: utilities
+      label: Utilities Available
+      hint: null
+      type: select_multiple
+      options:
+      - Electric
+      - Gas
+      - Water
+      - Sewer
+      - Internet
+      required: false
+    - id: 14
+      name: special_features
+      label: Special Features or Improvements
+      hint: null
+      type: text
+      options: []
+      required: false

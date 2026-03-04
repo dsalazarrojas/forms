@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Pool Inspection Form
+    pages:
+    - id: 1
+      name: pool_location
+      label: Pool Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pool_address
+      label: Pool Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pool_type
+      label: Pool Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Public
+      required: false
+    - id: 4
+      name: pool_depth
+      label: Pool Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pool_surface
+      label: Pool Surface
+      hint: null
+      type: select_multiple
+      options:
+      - Concrete
+      - Vinyl
+      - Fiberglass
+      - Fiberglass/Polymer
+      required: false
+    - id: 6
+      name: pool_size
+      label: Pool Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pool_condition
+      label: Pool Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_features
+      label: Safety Features
+      hint: null
+      type: select_multiple
+      options:
+      - Fencing
+      - Gate
+      - Locks
+      required: false
+    - id: 9
+      name: pool_equipment
+      label: Pool Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Pumps
+      - Filters
+      - Heaters
+      - Cleaners
+      required: false
+    - id: 10
+      name: pool_status
+      label: Pool Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Under Maintenance
+      required: false

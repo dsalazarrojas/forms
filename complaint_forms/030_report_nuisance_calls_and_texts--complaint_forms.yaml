@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Nuisance Calls And Texts
+    pages:
+    - id: 1
+      name: report_nuisance_calls_and_texts_form
+      label: Report Nuisance Calls And Texts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_and_time
+      label: Date And Time Of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_evidence
+      label: Supporting Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nuisance_cause
+      label: Nuisance Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nuisance_type
+      label: Nuisance Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_user
+      label: Follow Up User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: report_nuisance_calls_and_texts_report
+      label: Report Nuisance Calls And Texts Report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

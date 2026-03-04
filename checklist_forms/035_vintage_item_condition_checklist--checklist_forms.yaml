@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vintage Item Condition Checklist
+    pages:
+    - id: 1
+      name: item_details
+      label: Item Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - item_a
+      - item_b
+      - item_c
+      - item_d
+      required: false
+    - id: 3
+      name: material
+      label: Material
+      hint: null
+      type: select_one
+      options:
+      - item_e
+      - item_f
+      - item_g
+      - item_h
+      required: false
+    - id: 4
+      name: rarity
+      label: Rarity
+      hint: null
+      type: select_multiple
+      options:
+      - item_i
+      - item_j
+      - item_k
+      required: false
+    - id: 5
+      name: damage
+      label: Damage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - item_l
+      - item_m
+      - item_n
+      - item_o
+      required: false
+    - id: 7
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - item_p
+      - item_q
+      required: false

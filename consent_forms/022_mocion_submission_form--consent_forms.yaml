@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mocion Submission Form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: motion_submission_date
+      label: Motion Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: motion_submission_time
+      label: Motion Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: motion_status
+      label: Motion Status
+      hint: null
+      type: select_one
+      options:
+      - Motion Status
+      - Draft
+      - Approved
+      - Rejected
+      - Withdrawn
+      required: true
+    - id: 5
+      name: meeting_outcome
+      label: Meeting Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: discussion_points
+      label: Discussion Points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: motion_submission_form
+      label: Motion Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: motion_submission_form_version
+      label: Motion Submission Form Version
+      hint: null
+      type: select_one
+      options:
+      - Form 1
+      - Form 2
+      - Form 3
+      required: true
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_role
+      label: Submitter Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: meeting_attendees
+      label: Meeting Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false

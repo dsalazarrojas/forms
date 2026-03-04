@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Cost Tracker
+    pages:
+    - id: 1
+      name: claim_info
+      label: Claim Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant
+      label: Claimant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 8
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Dental
+      - Vision
+      required: false
+    - id: 9
+      name: claim_notes
+      label: Claim Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

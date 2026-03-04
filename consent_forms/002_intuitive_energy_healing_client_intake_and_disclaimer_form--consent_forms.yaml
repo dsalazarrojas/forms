@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intuitive Energy Healing Client Intake And Disclaimer Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: disclaimer_agreement
+      label: Disclaimer Agreement
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge that I am 18 years or older and of sound mind.
+      - I do not agree to the disclamer.
+      required: true
+    - id: 5
+      name: healing_services
+      label: Healing Services
+      hint: null
+      type: select_multiple
+      options:
+      - Intuitive
+      - Reiki
+      - Energy Healing
+      - Meditation
+      - Chakra Balancing
+      - Aromatherapy
+      - Sound Healing
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: intake_form_completed
+      label: Intake Form Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false

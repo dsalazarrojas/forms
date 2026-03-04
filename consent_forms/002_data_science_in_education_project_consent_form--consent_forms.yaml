@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Science In Education Project Consent Form
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_lead_info
+      label: Project Lead Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_consent
+      label: Participant Consent
+      hint: This project involves data collection and analysis for educational and
+        research purposes.
+      type: select_multiple
+      options:
+      - I am at least 18 years old.
+      - I am 17 years old or younger.
+      - I am not sure.
+      - I am unable to consent.
+      - Other (please provide explanation)
+      required: false
+    - id: 5
+      name: participant_contact
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - Email Address
+      - Cell Phone Number
+      - Address
+      required: false
+    - id: 6
+      name: participant_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_cellphone
+      label: Cell Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

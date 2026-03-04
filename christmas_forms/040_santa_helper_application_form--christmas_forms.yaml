@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Santa Helper Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Santa Helpers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: available_days
+      label: Available Days
+      hint: List of days of the week you are available
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 5
+      name: available_hours
+      label: Available Hours
+      hint: 24-hour time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: preferred_location
+      label: Preferred Location
+      hint: Where would you be available to help
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_skills
+      label: Special Skills
+      hint: List any special skills you possess that would be useful as a Santa Helper
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: experience
+      label: Experience
+      hint: How many years of experience do you have?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: availability
+      label: Availability
+      hint: Are you available for a week-long deployment?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: scheduling_concerns
+      label: Scheduling Concerns
+      hint: If you have any scheduling concerns, please specify
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: switchgear_inspection_form
+    pages:
+    - id: 1
+      name: switchgear_inspection
+      label: switchgear_inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: switchgear_item
+      label: switchgear_item
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: switch_report
+      label: switchreport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: switchgear_inspection_result
+      label: switchgear_inspection_result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: switchgear_comments
+      label: switchgear_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: switchgear_inspection_notes
+      label: switchgear_inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: switchgear_inspection_date
+      label: switchgear_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: switchgear_inspection_time
+      label: switchgear_inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: switchgear_inspection_user
+      label: switchgear_inspection_user
+      hint: null
+      type: text
+      options: []
+      required: false

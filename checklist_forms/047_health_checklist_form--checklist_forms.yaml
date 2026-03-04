@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_checklist_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: test_results_comments
+      label: Test Results Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_history_comments
+      label: Medical History Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: allergies_comments
+      label: Allergies Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions_comments
+      label: Medical Conditions Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: risk_factors_comments
+      label: Risk Factors Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: patient_info_comments
+      label: Patient Info Comments
+      hint: null
+      type: note
+      options: []
+      required: false

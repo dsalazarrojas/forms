@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Permission Slip Form
+    pages:
+    - id: 1
+      name: social_media_permission_slip_form_page_1
+      label: Social Media Permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_permission
+      label: User Permission
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Business
+      required: true
+    - id: 3
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_multiple
+      options:
+      - Photo
+      - Video
+      - Text
+      - Audio
+      - Other
+      required: true
+    - id: 4
+      name: permission_granted
+      label: Permission Granted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: share_permission
+      label: Share Permission
+      hint: null
+      type: text
+      options: []
+      required: false

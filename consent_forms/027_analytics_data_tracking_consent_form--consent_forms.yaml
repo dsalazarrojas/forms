@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Analytics Data Tracking Consent Form
+    pages:
+    - id: 1
+      name: section_consent_header
+      label: -- Analytics Data Tracking Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_full_name
+      label: User Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: User Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_data_info
+      label: -- Data Collection Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: privacy_notice
+      label: We collect data to improve our services and understand user behavior. Your privacy is important to us.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: types_of_data_collected
+      label: Types of Data Collected
+      hint: Select the data types you agree to share
+      type: select_multiple
+      options:
+      - Page Views
+      - Device Information
+      - Geographic Location
+      - Referral Source
+      required: true
+    - id: 7
+      name: purpose_of_tracking
+      label: Primary Purpose of Tracking
+      hint: null
+      type: select_one
+      options:
+      - Product Improvement
+      - Marketing Personalization
+      - Security Monitoring
+      - Research
+      required: true
+    - id: 8
+      name: section_consent_preferences
+      label: -- Consent and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: allow_third_party_cookies
+      label: Do you allow third-party tracking cookies?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: allow_personal_data_collection
+      label: I consent to the collection and processing of my personal data for the purposes stated above.
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 11
+      name: opt_out_of_marketing_analytics
+      label: Opt-out of marketing-specific analytics?
+      hint: You will still receive general service analytics tracking
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 12
+      name: consent_given_on
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: digital_signature_or_confirmation_code
+      label: Digital Signature or Confirmation Code
+      hint: Type your full name to confirm
+      type: text
+      options: []
+      required: true

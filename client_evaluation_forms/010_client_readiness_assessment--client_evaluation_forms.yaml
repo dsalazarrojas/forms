@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Readiness Assessment
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_type
+      label: Type of Project or Engagement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: clear_objectives
+      label: Do you have clearly defined objectives?
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Not defined
+      required: true
+    - id: 6
+      name: stakeholder_alignment
+      label: Are all key stakeholders aligned on the project?
+      hint: null
+      type: select_one
+      options:
+      - Strongly aligned
+      - Aligned
+      - Mostly aligned
+      - Misaligned
+      - Very misaligned
+      required: true
+    - id: 7
+      name: resource_availability
+      label: Do you have necessary resources committed?
+      hint: Budget, personnel, technology, etc.
+      type: select_one
+      options:
+      - Fully committed
+      - Mostly committed
+      - Partially committed
+      - Limited commitment
+      - No commitment
+      required: true
+    - id: 8
+      name: budget_approved
+      label: Is the project budget approved and allocated?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully approved
+      - Mostly approved
+      - Partially approved
+      - Pending approval
+      - Not approved
+      required: true
+    - id: 9
+      name: timeline_realistic
+      label: Is your timeline realistic and achievable?
+      hint: null
+      type: select_one
+      options:
+      - Very realistic
+      - Realistic
+      - Somewhat realistic
+      - Unrealistic
+      - Very unrealistic
+      required: true
+    - id: 10
+      name: leadership_buy_in
+      label: Do you have strong executive/leadership buy-in?
+      hint: null
+      type: select_one
+      options:
+      - Strong support
+      - Good support
+      - Moderate support
+      - Weak support
+      - No support
+      required: true
+    - id: 11
+      name: change_management
+      label: Do you have a change management plan?
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive plan
+      - Basic plan
+      - In development
+      - No plan yet
+      - Not applicable
+      required: false
+    - id: 12
+      name: team_capability
+      label: Assessment of team capability to execute
+      hint: null
+      type: select_one
+      options:
+      - Highly capable
+      - Capable
+      - Reasonably capable
+      - Limited capability
+      - Insufficient capability
+      required: true
+    - id: 13
+      name: technical_readiness
+      label: Technical readiness level
+      hint: Systems, infrastructure, tools
+      type: select_one
+      options:
+      - Fully ready
+      - Mostly ready
+      - Partially ready
+      - Not ready
+      - Unknown
+      required: false
+    - id: 14
+      name: potential_obstacles
+      label: What are potential obstacles or risks?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: success_factors
+      label: What are your key success factors?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_experience
+      label: Experience with similar initiatives
+      hint: null
+      type: select_one
+      options:
+      - Extensive experience
+      - Moderate experience
+      - Some experience
+      - Limited experience
+      - No experience
+      required: false
+    - id: 17
+      name: readiness_recommendation
+      label: Overall readiness to proceed
+      hint: null
+      type: select_one
+      options:
+      - Highly recommended
+      - Recommended
+      - Conditionally recommended
+      - Not recommended at this time
+      - Requires significant preparation
+      required: true

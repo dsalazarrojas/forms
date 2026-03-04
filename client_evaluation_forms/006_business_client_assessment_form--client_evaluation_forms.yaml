@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Client Assessment Form
+    pages:
+    - id: 1
+      name: client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full business or individual name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Business contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Client's organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry Type
+      hint: Select client industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Other
+      required: true
+    - id: 7
+      name: business_assessment
+      label: -- Business Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (250+)
+      required: true
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under 100k
+      - 100k - 500k
+      - 500k - 1M
+      - 1M - 5M
+      - 5M+
+      - Prefer Not to Say
+      required: false
+    - id: 10
+      name: years_in_business
+      label: Years in Business
+      hint: How long established?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: business_strengths
+      label: Key Business Strengths
+      hint: What are you good at?
+      type: select_multiple
+      options:
+      - Customer Service
+      - Product Quality
+      - Innovation
+      - Team Expertise
+      - Market Position
+      - Brand Reputation
+      required: false
+    - id: 12
+      name: growth_challenges
+      label: Growth Challenges
+      hint: What are your main challenges?
+      type: select_multiple
+      options:
+      - Market Competition
+      - Limited Budget
+      - Staffing Issues
+      - Operations Efficiency
+      - Customer Acquisition
+      - Technology Integration
+      required: true
+    - id: 13
+      name: business_goals
+      label: Primary Business Goals
+      hint: What do you want to achieve?
+      type: select_multiple
+      options:
+      - Revenue Growth
+      - Market Expansion
+      - Product Development
+      - Customer Retention
+      - Cost Reduction
+      - Team Development
+      required: true
+    - id: 14
+      name: service_fit
+      label: -- Service Fit Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: service_interest
+      label: Services of Interest
+      hint: Select relevant services
+      type: select_multiple
+      options:
+      - Strategy Consulting
+      - Operations Improvement
+      - Financial Planning
+      - Marketing Strategy
+      - Technology Solutions
+      - Training Programs
+      required: true
+    - id: 16
+      name: timeline
+      label: Implementation Timeline
+      hint: When do you want to start?
+      type: select_one
+      options:
+      - Immediate
+      - 1-3 Months
+      - 3-6 Months
+      - 6+ Months
+      required: true
+    - id: 17
+      name: budget_range
+      label: Estimated Budget Range
+      hint: Investment capability
+      type: select_one
+      options:
+      - Under 10k
+      - 10k - 25k
+      - 25k - 50k
+      - 50k+
+      - To be determined
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

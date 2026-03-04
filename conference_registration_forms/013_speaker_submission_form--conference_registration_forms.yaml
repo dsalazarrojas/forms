@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Submission Form
+    pages:
+    - id: 1
+      name: conference_type
+      label: Conference Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Hybrid
+      required: true
+    - id: 2
+      name: conference_name
+      label: Conference Name
+      hint: Enter the name of the conference
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_name
+      label: Speaker Name
+      hint: Enter the speaker's name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact E-mail
+      hint: Enter the speaker's contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: speaker_bio
+      label: Speaker Bio
+      hint: Enter a brief bio of the speaker
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Talk
+      - Workshop
+      - Panel
+      - Tutorial
+      required: true
+    - id: 7
+      name: submission_title
+      label: Submission Title
+      hint: Enter the title of the speaker's submission
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submission_abstract
+      label: Submission Abstract
+      hint: Enter a short abstract of the speaker's submission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_keywords
+      label: Submission Keywords
+      hint: Enter submission keywords
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: speaker_image
+      label: Speaker Image
+      hint: Upload a speaker image
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitters
+      label: Submitter
+      hint: Enter the name of the submitter
+      type: text
+      options: []
+      required: true

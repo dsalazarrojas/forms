@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Access Teaching Resource Publication Consent Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Instructor
+      - Department Member
+      - Department Chair
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: permission_granted
+      label: Permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Conditional
+      required: false
+    - id: 7
+      name: conditional_details
+      label: Conditional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: resource_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resource_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Course Pack
+      - Syllabus
+      - Lecture Notes
+      - Other
+      - Presentation
+      - Dataset
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: resource_version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: publication_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Published
+      - In Review
+      - Under Review
+      - In Progress
+      - Other
+      - Not Applicable
+      required: false
+    - id: 14
+      name: resource_url
+      label: Resource URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resource_license
+      label: Resource License
+      hint: null
+      type: select_one
+      options:
+      - CC BY
+      - CC BY-NC
+      - CC BY-ND
+      - CC BY-ND-NC
+      - CC BY-SA
+      - CC BY-ND-SA
+      - CC0
+      - Public Domain
+      - Other
+      - None
+      required: false
+    - id: 16
+      name: resource_license_note
+      label: License Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: copyright_holders
+      label: Copyright Holders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: copyright_years
+      label: Years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: copyright_note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sharing_agreement
+      label: Sharing Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

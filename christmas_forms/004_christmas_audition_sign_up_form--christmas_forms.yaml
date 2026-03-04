@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Audition Sign Up Form
+    pages:
+    - id: 1
+      name: auditionee_info
+      label: -- Auditionee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 50+
+      required: true
+    - id: 7
+      name: experience_section
+      label: -- Performance Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: experience_level
+      label: Performance Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Advanced amateur
+      - Intermediate
+      - Beginner
+      - No prior experience
+      required: true
+    - id: 9
+      name: talent_type
+      label: What type of talent are you auditioning for?
+      hint: null
+      type: select_one
+      options:
+      - Singing
+      - Acting
+      - Dancing
+      - Instrumental music
+      - Comedy
+      - Other
+      required: true
+    - id: 10
+      name: previous_roles
+      label: Previous Performances or Roles
+      hint: List any previous performances related to this talent
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: audition_details
+      label: -- Audition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_audition_date
+      label: Preferred Audition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: preferred_audition_time
+      label: Preferred Audition Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: audition_song
+      label: Song or Piece to Perform
+      hint: Provide title and artist
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: accompaniment_needed
+      label: Do you need accompaniment?
+      hint: null
+      type: select_one
+      options:
+      - Yes, instrumental only
+      - Yes, with backing track
+      - No, I will provide my own
+      - No, not needed
+      required: true
+    - id: 16
+      name: special_requirements
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_accommodations
+      label: Any special accommodations needed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

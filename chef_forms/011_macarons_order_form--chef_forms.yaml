@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: macarons_order_form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: macaron_type
+      label: macaron-type
+      hint: null
+      type: select_one
+      options:
+      - macaron_type1
+      - macaron_type2
+      - macaron_type3
+      required: true
+    - id: 4
+      name: macarons_count
+      label: macarons-count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: order_notes
+      label: order-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_notes_2
+      label: order-notes-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: macaron_count_2
+      label: macaron-count-2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: macaron_cost_2
+      label: macaron-cost-2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: macaron_cost_total
+      label: macaron-cost-total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: macaron_total
+      label: macaron-total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: order_date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: order_time
+      label: order-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: order_note
+      label: order-note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_date
+      label: delivery-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: delivery_time
+      label: delivery-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: delivery_note
+      label: delivery-note
+      hint: null
+      type: text
+      options: []
+      required: false

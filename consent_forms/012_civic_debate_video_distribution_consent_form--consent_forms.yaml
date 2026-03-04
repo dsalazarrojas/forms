@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Debate Video Distribution Consent Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_confirmation
+      label: I confirm I am 18 years or older
+      hint: null
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am under 18
+      required: true
+    - id: 6
+      name: recording_header
+      label: -- Video Recording Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recording_consent
+      label: Do you consent to being recorded during the debate
+      hint: Audio and video recording
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 8
+      name: recording_purpose
+      label: Purpose of Recording
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: distribution_header
+      label: -- Video Distribution Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: distribution_consent
+      label: Do you consent to distribution of the video
+      hint: Online platforms, social media, etc.
+      type: select_one
+      options:
+      - Yes, unrestricted
+      - Yes, limited distribution only
+      - No, do not distribute
+      required: true
+    - id: 11
+      name: distribution_platforms
+      label: Acceptable Distribution Platforms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - YouTube
+      - Facebook
+      - Twitter/X
+      - Instagram
+      - TikTok
+      - LinkedIn
+      - Website or blog
+      - Educational institutions
+      - Other
+      required: false
+    - id: 12
+      name: geographic_distribution
+      label: Geographic Distribution Limitations
+      hint: null
+      type: select_one
+      options:
+      - No restrictions - global distribution
+      - Local - city/region only
+      - National only
+      - Educational use only
+      - Restricted - contact for permission
+      required: false
+    - id: 13
+      name: duration_header
+      label: -- Distribution Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: distribution_duration
+      label: How long may the video be distributed
+      hint: null
+      type: select_one
+      options:
+      - Permanently
+      - 1 year
+      - 2 years
+      - 5 years
+      - Until I withdraw consent
+      required: false
+    - id: 15
+      name: withdrawal_rights
+      label: I understand I can withdraw this consent in writing at any time
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 16
+      name: privacy_header
+      label: -- Privacy and Attribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: anonymity_option
+      label: Do you wish to remain anonymous in the video
+      hint: Your name may be removed or edited
+      type: select_one
+      options:
+      - Yes, keep me anonymous
+      - No, use my name
+      - No preference
+      required: false
+    - id: 18
+      name: attribution_consent
+      label: Consent to use your name for attribution if not anonymous
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: false
+    - id: 19
+      name: acknowledgment_header
+      label: -- Final Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: full_acknowledgment
+      label: I have read and understand all terms and consent to them
+      hint: null
+      type: select_one
+      options:
+      - Yes, I fully consent
+      - No, I do not consent
+      required: true
+    - id: 21
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: legal_guardian_required
+      label: Is legal guardian consent required
+      hint: Only if you answered no to age confirmation
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false

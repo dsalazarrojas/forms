@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Intake Form
+    pages:
+    - id: 1
+      name: client_company_name
+      label: Client Company Name
+      hint: Full legal name of the client company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Name of the main point of contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address for primary contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Direct phone number for primary contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Full website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_industry
+      label: Company Industry
+      hint: Primary industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Education
+      - Hospitality
+      - Professional services
+      - Government
+      - Non-profit
+      - Other
+      required: true
+    - id: 8
+      name: years_in_business
+      label: Years in Business
+      hint: How long has the company been operating
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: employee_count
+      label: Number of Employees
+      hint: Total number of employees
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Select approximate annual revenue
+      type: select_one
+      options:
+      - Under $100K
+      - $100K - $500K
+      - $500K - $1M
+      - $1M - $5M
+      - $5M - $10M
+      - $10M - $50M
+      - $50M - $100M
+      - Over $100M
+      required: true
+    - id: 11
+      name: business_locations
+      label: Number of Business Locations
+      hint: How many locations does the business operate
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: target_market
+      label: Target Market
+      hint: Primary customer demographic
+      type: select_one
+      options:
+      - Consumers (B2C)
+      - Businesses (B2B)
+      - Government agencies
+      - Non-profits
+      - Mixed
+      required: true
+    - id: 13
+      name: current_challenges
+      label: Current Business Challenges
+      hint: Select all challenges currently faced
+      type: select_multiple
+      options:
+      - Revenue growth
+      - Cost management
+      - Employee retention
+      - Market competition
+      - Technology adoption
+      - Regulatory compliance
+      - Customer acquisition
+      - Cash flow
+      - Supply chain
+      - Other
+      required: true
+    - id: 14
+      name: improvement_goals
+      label: Primary Improvement Goals
+      hint: What areas need improvement most urgently
+      type: select_multiple
+      options:
+      - Operations efficiency
+      - Sales and marketing
+      - Customer service
+      - Financial management
+      - Human resources
+      - Technology infrastructure
+      - Product development
+      - Strategic planning
+      required: true
+    - id: 15
+      name: previous_consulting_experience
+      label: Previous Consulting Experience
+      hint: Have you worked with business consultants before
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once
+      - No - first time
+      required: true
+    - id: 16
+      name: budget_range
+      label: Budget Range for Improvement Initiatives
+      hint: Available budget for business improvement projects
+      type: select_one
+      options:
+      - Under $10K
+      - $10K - $25K
+      - $25K - $50K
+      - $50K - $100K
+      - $100K - $250K
+      - Over $250K
+      required: false
+    - id: 17
+      name: timeline_expectations
+      label: Expected Timeline for Results
+      hint: When do you expect to see improvements
+      type: select_one
+      options:
+      - Immediate (within 1 month)
+      - Short-term (1-3 months)
+      - Medium-term (3-6 months)
+      - Long-term (6-12 months)
+      - Ongoing (12+ months)
+      required: true
+    - id: 18
+      name: key_stakeholders
+      label: Key Stakeholders Involved
+      hint: List key decision makers who will be involved
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: competitors
+      label: Main Competitors
+      hint: Who are your primary competitors
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: unique_value_proposition
+      label: Unique Value Proposition
+      hint: What makes your business unique in the market
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: Any other information that would be helpful to know
+      type: text
+      options: []
+      required: false

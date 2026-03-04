@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_policy_complaint_form
+    pages:
+    - id: 1
+      name: insurance_policy_form_complaint_form_1
+      label: form-complaints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_number
+      label: policy-number
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_provider
+      label: policy-provider
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_description
+      label: complaint-description
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_type
+      label: complaint-type
+      hint: 'null'
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: complaint_status
+      label: complaint-status
+      hint: 'null'
+      type: select_one
+      options:
+      - active
+      - in-active
+      - resolved
+      - closed
+      required: false

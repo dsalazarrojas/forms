@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Criminal Booking Process Checklist Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: criminal_booking_process_checklist_form
+      label: Criminal Booking Process Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: officer_signature
+      label: officerSignature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: officer_id
+      label: officerId
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: case_number
+      label: caseNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: officer_comments
+      label: officerComments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_status
+      label: caseStatus
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 9
+      name: case_status_reason
+      label: caseStatusReason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: officer_name
+      label: officerName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_booked
+      label: dateBooked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_booked
+      label: timeBooked
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Implementation Planning Checklist
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_owner
+      label: Project Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: kickoff_date
+      label: Kickoff Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: implementation_start_date
+      label: Implementation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: implementation_end_date
+      label: Implementation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - On Hold
+      required: false
+    - id: 9
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Project
+      - Rollout
+      required: false
+    - id: 10
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_addresses
+      label: Email Addresses
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false

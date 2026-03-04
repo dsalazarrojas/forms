@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recipe Submission Form
+    pages:
+    - id: 1
+      name: recipe_submission_form
+      label: Recipe Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: Choose a category for your recipe
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snack
+      required: false
+    - id: 3
+      name: cuisine
+      label: Cuisine
+      hint: What type of cuisine does your recipe fall under?
+      type: select_multiple
+      options:
+      - Italian
+      - Chinese
+      - Indian
+      - Thai
+      required: false
+    - id: 4
+      name: ingredients
+      label: Ingredients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cooking_method
+      label: Cooking Method
+      hint: Describe the steps to make your recipe
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cooking_time
+      label: Cooking Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: serving_size
+      label: Serving Size
+      hint: How many people will this recipe serve?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: serving_size_units
+      label: Serving Size Units
+      hint: null
+      type: select_one
+      options:
+      - Person
+      - Cup
+      - Tablespoon
+      - Teaspoon
+      required: false
+    - id: 9
+      name: recipe_image
+      label: Recipe Image
+      hint: null
+      type: text
+      options: []
+      required: false

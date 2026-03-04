@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel-agency-template-cruise-packing-list-generator
+    pages:
+    - id: 1
+      name: cruise_guest_name
+      label: Cruise Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cruise_guest_email
+      label: Cruise Guest Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: cruise_guest_phone
+      label: Cruise Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cruise_guest_passport_photo
+      label: Cruise Guest Passport Photo
+      hint: Upload a scanned passport photo
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cruise_shore_excursions
+      label: Shore Excursions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: cruise_cabin_number
+      label: Cabin Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cruise_cabin_number_confirmed
+      label: Cabin Number Confirmed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cruise_travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: cruise_duration_of_cruise
+      label: Duration of Cruise
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cruise_port_of_call
+      label: Port of Call
+      hint: null
+      type: select_one
+      options:
+      - Miami
+      - New York
+      - San Juan
+      - Santos
+      - San Juan
+      - San Juan
+      - San Juan
+      - Miami
+      - New York
+      - Santos
+      required: false
+    - id: 11
+      name: cruise_shore_excursion_preferred
+      label: Shore Excursion Preferred
+      hint: Select a preferred shore excursion
+      type: select_one
+      options:
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      required: false
+    - id: 12
+      name: cruise_shore_excursion_secondary
+      label: Shore Excursion Secondary
+      hint: null
+      type: select_multiple
+      options:
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      - Snorkeling
+      required: false
+    - id: 13
+      name: cruise_special_requirements
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cruise_ship_arrived
+      label: Ship Arrived
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: cruise_boarding_pass
+      label: Boarding Pass
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cruise_cabin_confirmation
+      label: Cabin Confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: cruise_sailing_date
+      label: Sailing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: cruise_disembarkation_date
+      label: Disembarkation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: cruise_boarding_time
+      label: Boarding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: cruise_disembarkation_time
+      label: Disembarkation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: cruise_cruise_docs
+      label: Cruise Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: cruise_guest_arrival_time
+      label: Guest Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: cruise_shore_excursion_duration
+      label: Shore Excursion Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: cruise_shore_excursion_time
+      label: Shore Excursion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: cruise_guest_arrival_date
+      label: Guest Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false

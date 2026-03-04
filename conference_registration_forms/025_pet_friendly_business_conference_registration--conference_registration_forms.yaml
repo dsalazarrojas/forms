@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Friendly Business Conference Registration
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_page
+      label: Pet Information
+      hint: Please provide pet information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_page
+      label: Session Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_page
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_type
+      label: Type of Pet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pet_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: pet_owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pet_owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: pet_owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attendee_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sessions
+      label: Sessions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Session 1''}'
+      - '{''id'': 2, ''name'': ''Session 2''}'
+      - '{''id'': 3, ''name'': ''Session 3''}'
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attendee_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Care Assistance Consent Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address1
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_multiple
+      options:
+      - Senior Care Provider
+      - Home Health Agency
+      - Other
+      required: true
+    - id: 11
+      name: service_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: service_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: service_hours
+      label: Hours of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: caregiver_relationship
+      label: Caregiver Relationship
+      hint: null
+      type: select_one
+      options:
+      - Family Member
+      - Family Friend
+      - Other
+      required: true
+    - id: 15
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: provider_contact
+      label: Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Not Approved
+      - Approved
+      required: true
+    - id: 23
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: approval_note
+      label: Approval Note
+      hint: null
+      type: note
+      options: []
+      required: false

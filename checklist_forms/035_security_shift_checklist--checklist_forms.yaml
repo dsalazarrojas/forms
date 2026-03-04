@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Shift Checklist
+    pages:
+    - id: 1
+      name: shift_leader_name
+      label: Shift Leader Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shift_number
+      label: shift_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_shift_started
+      label: date_shift_started
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_shift_started
+      label: time_shift_started
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_security_lead
+      label: Security Lead Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

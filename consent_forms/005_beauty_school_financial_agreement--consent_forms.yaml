@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty School Financial Agreement
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: Legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_phone
+      label: Student Phone
+      hint: Best number to reach student
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_address
+      label: Student Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_dob
+      label: Date of Birth
+      hint: Student date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: program_selection
+      label: Program of Study
+      hint: Select the program you are enrolling in
+      type: select_one
+      options:
+      - Cosmetology (1500 hours)
+      - Esthetics (600 hours)
+      - Nail Technology (400 hours)
+      - Barbering (1000 hours)
+      - Makeup Artistry (300 hours)
+      - Electrology (600 hours)
+      - Master Esthetician (1200 hours)
+      required: true
+    - id: 7
+      name: program_start_date
+      label: Program Start Date
+      hint: When will you begin your program
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Required if student is under 18
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email for guardian
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone for guardian
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tuition_amount
+      label: Total Tuition Amount
+      hint: Total program tuition as shown in enrollment agreement
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: registration_fee
+      label: Registration Fee
+      hint: Non-refundable registration fee
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: kit_fee
+      label: Student Kit Fee
+      hint: Cost of required student kit and supplies
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How will you be paying
+      type: select_one
+      options:
+      - Cash or Check
+      - Credit Card
+      - Debit Card
+      - Federal Financial Aid (FAFSA)
+      - Private Student Loans
+      - Payment Plan
+      - GI Bill Benefits
+      - Sponsor or Employer
+      - Combination
+      required: true
+    - id: 15
+      name: payment_plan_selection
+      label: Payment Plan Option
+      hint: Select payment plan if applicable
+      type: select_one
+      options:
+      - Not Applicable
+      - Monthly Installments (12 months)
+      - Monthly Installments (24 months)
+      - Monthly Installments (36 months)
+      - Deferred Payment Plan
+      required: false
+    - id: 16
+      name: financial_aid_applied
+      label: Have You Applied for Financial Aid
+      hint: Have you submitted FAFSA or other aid applications
+      type: select_one
+      options:
+      - Yes already submitted
+      - Yes planning to submit
+      - No not applying
+      - Unsure
+      required: true
+    - id: 17
+      name: refund_policy_acknowledgment
+      label: Refund Policy Acknowledgment
+      hint: I have read and understand the refund policy
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: payment_schedule_understanding
+      label: Payment Schedule Understanding
+      hint: I understand the payment schedule and due dates
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: late_fee_policy
+      label: Late Fee Policy Agreement
+      hint: I understand late payments incur additional fees
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 20
+      name: withdrawal_policy
+      label: Withdrawal Policy Understanding
+      hint: I understand the policy for withdrawing from the program
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 21
+      name: collection_policy
+      label: Collection Policy Agreement
+      hint: I understand unpaid balances may go to collections
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: additional_fees
+      label: Additional Fees Acknowledgment
+      hint: I understand there may be additional fees for licensing exams and materials
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 23
+      name: signature_student
+      label: Student Signature Agreement
+      hint: By selecting yes I agree to all terms
+      type: select_one
+      options:
+      - I agree to all terms and conditions
+      - I do not agree
+      required: true
+    - id: 24
+      name: signature_guardian
+      label: Guardian Signature Agreement
+      hint: Required if student is under 18
+      type: select_one
+      options:
+      - I agree as parent or guardian
+      - Not Applicable
+      - I do not agree
+      required: false
+    - id: 25
+      name: agreement_date
+      label: Date of Agreement
+      hint: Today date
+      type: date
+      options: []
+      required: true

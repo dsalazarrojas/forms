@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Inspection Checklist
+    pages:
+    - id: 1
+      name: warehouse_location
+      label: warehouse location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_areas
+      label: storage areas
+      hint: null
+      type: select_multiple
+      options:
+      - Racking system
+      - Shelves
+      - Floor space
+      required: false
+    - id: 3
+      name: aisle_width
+      label: aisle width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fire_suppressors
+      label: fire suppression systems
+      hint: null
+      type: select_one
+      options:
+      - Clean Agent
+      - Water Mist
+      - Gaseous
+      required: false
+    - id: 5
+      name: emergency_exits
+      label: emergency exits
+      hint: null
+      type: select_multiple
+      options:
+      - .reported
+      - Functional
+      - Not reported
+      required: false
+    - id: 6
+      name: fire_prophets
+      label: fire prophets
+      hint: null
+      type: select_one
+      options:
+      - Fire alarm system
+      - Sprinkler system
+      - No system
+      required: false
+    - id: 7
+      name: storage_conditions
+      label: storage conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Dusty
+      - Clean
+      - Cluttered
+      required: false
+    - id: 8
+      name: safety_equipment
+      label: safety equipment
+      hint: null
+      type: select_multiple
+      options:
+      - First aid kit
+      - Safety glasses
+      - Fire extinguishers
+      required: false
+    - id: 9
+      name: electrical_system
+      label: electrical system
+      hint: null
+      type: select_one
+      options:
+      - Grounded
+      - Bonded
+      - 'No'
+      required: false
+    - id: 10
+      name: emergency_procedures
+      label: emergency procedures
+      hint: null
+      type: select_one
+      options:
+      - Written
+      - Oral
+      - None
+      required: false

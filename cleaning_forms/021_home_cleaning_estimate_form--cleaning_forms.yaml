@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Cleaning Estimate Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services_needed
+      label: Services Needed
+      hint: List all services
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 5
+      name: estimated_hours
+      label: Estimated Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false

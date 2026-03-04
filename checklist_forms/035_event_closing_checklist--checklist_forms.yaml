@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_closing_checklist
+    pages:
+    - id: 1
+      name: event_closing_item_1
+      label: Event Closing Checklist Item 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_staff_present
+      label: Staff Present
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 3
+      name: event_fees_paid
+      label: Event Fees Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_sponsors
+      label: Sponsors
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Drink
+      - Other
+      required: false
+    - id: 5
+      name: event_sponsors_other
+      label: Other Sponsor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_speaker
+      label: Speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_speaker_other
+      label: Other Speaker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event
+      label: Event Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: event_vendor
+      label: Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - Audio-Visual
+      - Food and Beverage
+      - Other
+      required: false

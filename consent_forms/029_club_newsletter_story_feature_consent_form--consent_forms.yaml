@@ -1,0 +1,150 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Club Newsletter Story Feature Consent Form
+    pages:
+    - id: 1
+      name: feature_recipient_name
+      label: Feature Recipient Name
+      hint: Person being featured
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feature_recipient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: feature_topic
+      label: Story or Feature Topic
+      hint: What is the story about
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: story_overview
+      label: Brief Story Overview
+      hint: Summary of the feature
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: publication_medium
+      label: Publication Medium
+      hint: Where will this appear
+      type: select_multiple
+      options:
+      - Newsletter
+      - Website
+      - Social Media
+      - Print
+      - Email
+      - All Platforms
+      required: true
+    - id: 7
+      name: photo_permission
+      label: Permission to Use Photos
+      hint: Can we include photos
+      type: select_one
+      options:
+      - Yes, Any Photos
+      - Yes, Only Provided Photos
+      - No Photos
+      required: true
+    - id: 8
+      name: photo_upload
+      label: Provide Your Photo
+      hint: Upload a photo if approved above
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quote_permission
+      label: Permission to Use Direct Quotes
+      hint: Can we quote you
+      type: select_one
+      options:
+      - Yes, Direct Quotes
+      - Yes, Paraphrased Only
+      - No Quotes
+      required: true
+    - id: 10
+      name: name_display
+      label: Name Display Preference
+      hint: How should we credit you
+      type: select_one
+      options:
+      - Full Name
+      - First Name Only
+      - Anonymous
+      - No Preference
+      required: true
+    - id: 11
+      name: review_draft
+      label: Want to Review Draft Before Publication
+      hint: null
+      type: select_one
+      options:
+      - Yes, Please
+      - No, Trust Your Discretion
+      required: true
+    - id: 12
+      name: publication_timeline
+      label: Acceptable Publication Timeline
+      hint: When should this appear
+      type: select_one
+      options:
+      - Next Issue
+      - Within 2-3 Weeks
+      - Within 1 Month
+      - Flexible
+      required: false
+    - id: 13
+      name: removal_period
+      label: Right to Request Removal
+      hint: How long should it remain published
+      type: select_one
+      options:
+      - Indefinite
+      - One Year
+      - One Issue Only
+      - Other
+      required: true
+    - id: 14
+      name: social_media_sharing
+      label: Permission for Third-Party Social Sharing
+      hint: Can followers share our post
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Ask First
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Additional Notes or Restrictions
+      hint: Any other terms
+      type: text
+      options: []
+      required: false

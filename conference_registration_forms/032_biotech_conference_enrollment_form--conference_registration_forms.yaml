@@ -1,0 +1,318 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Conference Enrollment Form
+    pages:
+    - id: 1
+      name: attendee_information
+      label: Attendee Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: professional_title
+      label: Professional Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Professional email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_information
+      label: Organization Information
+      hint: Enter your organization details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Biotechnology Company
+      - Pharmaceutical Company
+      - Academic Institution
+      - Research Institute
+      - Hospital or Medical Center
+      - Government Agency
+      - Venture Capital or Investment Firm
+      - Consulting Firm
+      - Other
+      required: true
+    - id: 10
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: false
+    - id: 11
+      name: conference_details
+      label: Conference Details
+      hint: Select your enrollment options
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: enrollment_type
+      label: Enrollment Type
+      hint: Type of conference enrollment
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Virtual Attendance
+      - Student Pass
+      - Industry Professional
+      - Exhibitor
+      - Sponsor Representative
+      required: true
+    - id: 13
+      name: conference_days
+      label: Conference Days
+      hint: Which days will you attend
+      type: select_multiple
+      options:
+      - Day 1 - Keynotes and Opening
+      - Day 2 - Scientific Sessions
+      - Day 3 - Industry Panel
+      - Day 4 - Workshops and Networking
+      - All Days
+      required: true
+    - id: 14
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose your preferred workshops
+      type: select_multiple
+      options:
+      - Gene Therapy Development
+      - CRISPR Applications
+      - Biomanufacturing Scale-Up
+      - Regulatory Affairs
+      - Clinical Trial Design
+      - IP and Licensing
+      - Funding and Investment
+      - None
+      required: false
+    - id: 15
+      name: networking_events
+      label: Networking Events
+      hint: Which events will you attend
+      type: select_multiple
+      options:
+      - Welcome Reception
+      - Poster Session
+      - Industry Roundtable
+      - Speed Networking
+      - Gala Dinner
+      - Closing Reception
+      - None
+      required: false
+    - id: 16
+      name: professional_background
+      label: Professional Background
+      hint: Tell us about your background
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: area_of_expertise
+      label: Area of Expertise
+      hint: Your primary area of expertise
+      type: select_one
+      options:
+      - Drug Discovery
+      - Clinical Development
+      - Manufacturing
+      - Regulatory Affairs
+      - Quality Assurance
+      - Business Development
+      - Research and Development
+      - Marketing
+      - Other
+      required: true
+    - id: 18
+      name: years_experience
+      label: Years of Experience
+      hint: In biotech or related field
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - 20+ years
+      required: true
+    - id: 19
+      name: conference_goals
+      label: Conference Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Learn About Latest Research
+      - Network with Peers
+      - Find Investment Opportunities
+      - Explore Partnerships
+      - Recruit Talent
+      - Showcase Products
+      - Earn Continuing Education Credits
+      - General Interest
+      required: true
+    - id: 20
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 21
+      name: accommodation_needs
+      label: Accommodation Needs
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hotel_booking
+      label: Hotel Booking Interest
+      hint: Do you need hotel accommodation
+      type: select_one
+      options:
+      - Yes - Please Reserve
+      - No - Making Own Arrangements
+      - Maybe - Need More Information
+      required: true
+    - id: 23
+      name: payment_information
+      label: Payment Information
+      hint: How will you pay
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: Select payment type
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Wire Transfer
+      - Company Invoice
+      - Check
+      required: true
+    - id: 25
+      name: promo_code
+      label: Promo Code
+      hint: Discount code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: group_registration
+      label: Group Registration
+      hint: Are you registering as a group
+      type: select_one
+      options:
+      - No - Individual Registration
+      - Yes - 2-5 Attendees
+      - Yes - 6-10 Attendees
+      - Yes - 10+ Attendees
+      required: true
+    - id: 27
+      name: group_size
+      label: Group Size
+      hint: Number of attendees in your group
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: marketing_preferences
+      label: Marketing Preferences
+      hint: How did you hear about this conference
+      type: select_one
+      options:
+      - Email Newsletter
+      - Professional Association
+      - Colleague Referral
+      - Social Media
+      - Website Search
+      - Advertisement
+      - Previous Attendee
+      - Exhibitor Invitation
+      required: false
+    - id: 29
+      name: continuing_education
+      label: Continuing Education
+      hint: Do you need CE credits
+      type: select_one
+      options:
+      - Yes - CME Credits
+      - Yes - CEU Credits
+      - Yes - PACE Credits
+      - No Credits Needed
+      required: true
+    - id: 30
+      name: special_interests
+      label: Areas of Special Interest
+      hint: Topics you want to learn about
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Agree to conference policies
+      type: select_one
+      options:
+      - I agree to all terms and conditions
+      - I understand the cancellation policy
+      required: true

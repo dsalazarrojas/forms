@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breastfeeding Latch Coaching Intake Form
+    pages:
+    - id: 1
+      name: mother_name
+      label: Mother's Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coaching_date
+      label: Preferred Coaching Date
+      hint: When would you like to schedule
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: infant_name
+      label: Baby's Name
+      hint: Name of the infant
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: infant_age
+      label: Baby's Age
+      hint: Age of the infant
+      type: select_one
+      options:
+      - Newborn - 0 to 1 week
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      required: true
+    - id: 7
+      name: latch_concern
+      label: Primary Latch Concern
+      hint: Main latch issue
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: latch_problems
+      label: Latch Problems Experienced
+      hint: Select all applicable issues
+      type: select_multiple
+      options:
+      - Difficulty attaching to breast
+      - Shallow latch
+      - Baby slipping off breast
+      - Popping on and off
+      - Clicking sounds during nursing
+      - Sucking without milk transfer
+      - Confusion between breast and bottle
+      - Other
+      required: true
+    - id: 9
+      name: feeding_frequency
+      label: Current Feeding Frequency
+      hint: How often is baby feeding
+      type: select_one
+      options:
+      - Every 1-2 hours
+      - Every 2-3 hours
+      - Every 3-4 hours
+      - Every 4-5 hours
+      - Irregular
+      required: false
+    - id: 10
+      name: breast_pain
+      label: Breast or Nipple Pain During Feeding
+      hint: Rate the pain level
+      type: select_one
+      options:
+      - No pain
+      - Mild discomfort
+      - Moderate pain
+      - Severe pain
+      required: true
+    - id: 11
+      name: pain_location
+      label: Pain Location
+      hint: Where does it hurt
+      type: select_multiple
+      options:
+      - Nipple
+      - Areola
+      - Entire breast
+      - Radiating pain
+      required: false
+    - id: 12
+      name: nipple_condition
+      label: Nipple Condition
+      hint: Describe current nipple condition
+      type: select_multiple
+      options:
+      - Cracked or damaged
+      - Blistered
+      - Bleeding
+      - Flat or inverted
+      - Normal
+      required: false
+    - id: 13
+      name: milk_production
+      label: Milk Production Concerns
+      hint: Any supply issues
+      type: select_one
+      options:
+      - No concerns
+      - Low supply
+      - Oversupply
+      - Unsure
+      required: false
+    - id: 14
+      name: feeding_cues
+      label: Baby's Feeding Cues Recognition
+      hint: Can you recognize hunger cues
+      type: select_one
+      options:
+      - Easily recognize cues
+      - Sometimes recognize cues
+      - Difficulty recognizing cues
+      - Unsure about cues
+      required: false
+    - id: 15
+      name: bottle_introduction
+      label: Has Baby Been Introduced to Bottle
+      hint: Bottle feeding experience
+      type: select_one
+      options:
+      - No bottles yet
+      - Occasional bottle
+      - Regular bottle feeding
+      - Exclusively bottled breastmilk
+      required: false
+    - id: 16
+      name: birth_delivery
+      label: Birth and Delivery Method
+      hint: How was baby born
+      type: select_one
+      options:
+      - Vaginal delivery
+      - Cesarean section
+      - Assisted delivery - vacuum or forceps
+      - Other
+      required: false
+    - id: 17
+      name: birth_complications
+      label: Any Birth Complications
+      hint: Complications during birth
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_coaching
+      label: Previous Coaching or Support
+      hint: Have you received lactation support before
+      type: select_one
+      options:
+      - No previous support
+      - Hospital lactation consultant
+      - Private lactation consultant
+      - La Leche League or similar group
+      - Other support
+      required: false
+    - id: 19
+      name: goals_for_session
+      label: Your Goals for This Session
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: questions
+      label: Questions or Concerns
+      hint: Any specific questions to address
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Cleaning Staff Evaluation
+    pages:
+    - id: 1
+      name: performance_rating
+      label: Overall Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: teamwork_rating
+      label: Teamwork Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: communication_rating
+      label: Communication Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: attitude_rating
+      label: Attitude Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: work_ethics_rating
+      label: Work Ethics Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: recommended_training
+      label: Recommended Training
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: true
+    - id: 10
+      name: recommended_improvement
+      label: Recommended Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: false
+    - id: 11
+      name: recommended_resources
+      label: Recommended Resources
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: false
+    - id: 12
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: true

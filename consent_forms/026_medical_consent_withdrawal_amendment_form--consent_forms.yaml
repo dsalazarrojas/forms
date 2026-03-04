@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_consent_withdrawal_amendment_form
+    pages:
+    - id: 1
+      name: user_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: withdrawal_reason
+      label: Withdrawal Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_statement
+      label: Patient Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_comments
+      label: Healthcare Provider Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: false

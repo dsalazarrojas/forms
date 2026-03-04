@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appraisal Timing Waiver Form
+    pages:
+    - id: 1
+      name: borrower_info
+      label: Borrower Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_number
+      label: Loan Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: waiver_section
+      label: Appraisal Waiver Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: desired_waiver_date
+      label: Desired Waiver Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: waiver_reason
+      label: Reason for Timing Waiver
+      hint: null
+      type: select_one
+      options:
+      - Refinance Timing
+      - Purchase Timing
+      - Market Conditions
+      - Other
+      required: true
+    - id: 10
+      name: explanation
+      label: Detailed Explanation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: agree_to_terms
+      label: I agree to the terms of this waiver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: date_signed
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

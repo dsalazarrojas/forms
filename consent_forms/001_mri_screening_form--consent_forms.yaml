@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: mri_screening_form
+    pages:
+    - id: 1
+      name: form_title
+      label: MRI Screening Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: allergy_question
+      label: Do you have any allergies?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: med_conditions
+      label: Medications/Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_condition_history
+      label: Medical Condition History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: surgical_procedures
+      label: Surgical Procedures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: allergies_list
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: medications_list
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: medical_devices
+      label: Medical Devices
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: surgical_procedure
+      label: Surgical Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_mri_screening
+      label: Date of MRI Screening
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: mri_type
+      label: Type of MRI Screening
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: time_mri_screening
+      label: Time of MRI Screening
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: medical_history_other
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_medical_history
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_devices_other
+      label: Other Medical Devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_med_device
+      label: Other Med Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_medications
+      label: Other Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_medications_list
+      label: Other Medications List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: other_allergies
+      label: Other Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: other_procedure
+      label: Other Procedure
+      hint: null
+      type: text
+      options: []
+      required: false

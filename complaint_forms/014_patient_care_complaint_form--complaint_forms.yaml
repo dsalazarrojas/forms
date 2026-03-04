@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_care_complaint_form
+    pages:
+    - id: 1
+      name: form_start
+      label: form_start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Medical'', ''value'': ''medical''}'
+      - '{''id'': 2, ''label'': ''Non-Medical'', ''value'': ''non_medical''}'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: Please provide as much detail as you can
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: complaint
+      label: complaint
+      hint: Please be as specific as you can with your complaint
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_end
+      label: form_end
+      hint: null
+      type: note
+      options: []
+      required: false

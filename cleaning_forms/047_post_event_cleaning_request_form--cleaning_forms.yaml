@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Event Cleaning Request Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - 8am-10am
+      - 10am-12pm
+      - 12pm-2pm
+      required: false
+    - id: 3
+      name: service_needs
+      label: Service Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Clean
+      - Full Cleaning
+      - Deep Clean
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

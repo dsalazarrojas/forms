@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Settlement Refund Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claim_number
+      label: Claim number
+      hint: Reference ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: refund_amount_requested
+      label: Refund amount requested
+      hint: Enter numeric amount
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_refund
+      label: Reason for refund
+      hint: Brief explanation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_refund_method
+      label: Preferred refund method
+      hint: Select method
+      type: select_one
+      options:
+      - Bank transfer
+      - Check
+      - Credit card reversal
+      required: true
+    - id: 6
+      name: bank_details_note
+      label: Bank details instructions
+      hint: Provide banking info via secure channel
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents note
+      hint: Upload receipts or proof of payment
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: claim_status
+      label: Current claim status
+      hint: Pending approved denied
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 9
+      name: declaration
+      label: Declaration of truthfulness
+      hint: Confirm the provided information is accurate
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

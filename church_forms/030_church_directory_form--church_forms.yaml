@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Directory Form
+    pages:
+    - id: 1
+      name: header_family_basics
+      label: -- Family Directory Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Family Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: adult_1_name
+      label: Adult 1 Name
+      hint: First and Last if different from above
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: adult_2_name
+      label: Adult 2 Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Include City, State, and Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_phone
+      label: Primary Household Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_email
+      label: Primary Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: header_family_members
+      label: -- Family Members and Photos --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: family_member_names
+      label: All Family Members (including children)
+      hint: List names and birth months/days (optional)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: photo_submission_note
+      label: Please upload a family photo (Portrait orientation preferred)
+      hint: Max 10MB file
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: header_ministry_listing
+      label: -- Ministry and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_interests
+      label: Areas where our family currently serves or is interested in serving
+      hint: null
+      type: select_multiple
+      options:
+      - Hospitality
+      - Kids Ministry
+      - Youth Ministry
+      - Music
+      - Tech/AV
+      - Gardening
+      - Cleaning
+      - Missions
+      required: false
+    - id: 13
+      name: header_privacy
+      label: -- Directory Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: publish_consent
+      label: I consent to my family information being published in the church directory
+      hint: Directory is for internal church use only
+      type: select_one
+      options:
+      - Yes - Full Listing
+      - Yes - No Address
+      - Yes - No Phone
+      - No - Do not publish
+      required: true
+    - id: 15
+      name: directory_format_pref
+      label: Preferred directory format
+      hint: null
+      type: select_one
+      options:
+      - Digital/App only
+      - Printed Copy
+      - Both Digital and Printed
+      required: true
+    - id: 16
+      name: signature_confirmation
+      label: Submitted by (Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

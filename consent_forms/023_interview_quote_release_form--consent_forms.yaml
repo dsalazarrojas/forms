@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interview Quote Release Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: publication_details
+      label: Publication Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: media_location
+      label: Media Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Participant's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_interview
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: researcher_info
+      label: Researcher's Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: researcher_signature
+      label: Researcher's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: media_release
+      label: Media Release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone Number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: social_media
+      label: Social Media Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false

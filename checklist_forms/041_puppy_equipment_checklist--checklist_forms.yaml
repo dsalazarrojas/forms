@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Equipment Checklist
+    pages:
+    - id: 1
+      name: puppy_equip_needed
+      label: Puppy Equipment Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collars_leashes
+      label: Collars and Leashes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: crates_cages
+      label: Crates and Cages
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: food_water_bowl
+      label: Food and Water Bowl
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: food_water_measurement
+      label: Food and Water Measurement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: grooming_supplies
+      label: Grooming Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: health_supplies
+      label: Health Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: identification_tags
+      label: Identification Tags
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: identification_records
+      label: Identification Records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: microchip_recorder
+      label: Microchip Recorder
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: microchip_reader
+      label: Microchip Reader
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_supplies
+      label: Medical Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: microchip_registration
+      label: Microchip Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: microchip_owners
+      label: Microchip Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: other_equipment
+      label: Other Equipment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Reflection Podcast Consent Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Reflection Podcast Consent Form --
+      hint: Please review and complete this form to provide your consent for participation
+        in an academic reflection podcast.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Researcher
+      - Guest Speaker
+      - Staff
+      - Other
+      required: true
+    - id: 6
+      name: institution_affiliation
+      label: Institution or organization affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: podcast_title
+      label: Title of the podcast episode or series
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recording_date
+      label: Date of recording
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: consent_section
+      label: -- Consent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_audio_recording
+      label: I consent to having my voice recorded for this academic podcast
+      hint: null
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 11
+      name: consent_publication
+      label: I consent to the publication and distribution of the podcast on the following
+        platforms (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Institutional website
+      - Spotify
+      - Apple Podcasts
+      - YouTube
+      - Other streaming platforms
+      - Internal use only
+      required: true
+    - id: 12
+      name: consent_name_disclosure
+      label: I consent to my name being disclosed in connection with the podcast
+      hint: null
+      type: select_one
+      options:
+      - Yes - use my full name
+      - Yes - use first name only
+      - No - keep me anonymous
+      required: true
+    - id: 13
+      name: consent_editing
+      label: I understand that the recording may be edited for clarity and length
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand and agree
+      - No - I require final approval before editing
+      required: true
+    - id: 14
+      name: withdrawal_acknowledgment
+      label: I understand I may withdraw my consent at any time before publication
+        by contacting the project coordinator
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand
+      - Other
+      required: true
+    - id: 15
+      name: consent_date
+      label: Date of consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_conditions
+      label: Any additional conditions or requests regarding your participation
+      hint: null
+      type: text
+      options: []
+      required: false

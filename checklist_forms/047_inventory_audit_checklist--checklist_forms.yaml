@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Audit Checklist
+    pages:
+    - id: 1
+      name: inventory_audit_checklist_page_1
+      label: Inventory Audit Checklist 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: Enter date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inventory_audit_checklist_item_1
+      label: Item 1
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: true
+    - id: 4
+      name: inventory_audit_checklist_item_2
+      label: Item 2
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 5
+      name: inventory_audit_checklist_item_3
+      label: Item 3
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 6
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inventory_audit_checklist_1
+      label: Inventory Audit Checklist 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: inventory_audit_checklist_2
+      label: Inventory Audit Checklist 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

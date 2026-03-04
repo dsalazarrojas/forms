@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_academic_panel_participation_consent_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: purpose_of_event
+      label: Purpose of the Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: format_of_event
+      label: Format of the Event
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Presentation Slot Request Form
+    pages:
+    - id: 1
+      name: session_title
+      label: session_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_description
+      label: session_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_name
+      label: speaker_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: presentation_type
+      label: presentation_type
+      hint: null
+      type: select_one
+      options:
+      - Presentation
+      - Workshop
+      - Panel Discussion
+      - Other
+      required: true
+    - id: 5
+      name: presentation_start_time
+      label: presentation_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: presentation_duration
+      label: presentation_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sponsor_presentation_slot_request_form_additional_information
+      label: sponsor_presentation_slot_request_form_additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sponsor_presentation_slot_request_form_files
+      label: sponsor_presentation_slot_request_form_files
+      hint: null
+      type: select_multiple
+      options:
+      - Presentation
+      - Handouts
+      - Supporting materials
+      - Other
+      required: false
+    - id: 9
+      name: sponsor_presentation_slot_request_form_email
+      label: sponsor_presentation_slot_request_form_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: sponsor_presentation_slot_request_form_phone
+      label: sponsor_presentation_slot_request_form_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sponsor_presentation_slot_request_form_additional_comments
+      label: sponsor_presentation_slot_request_form_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

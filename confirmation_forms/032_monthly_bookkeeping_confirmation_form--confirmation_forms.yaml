@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Bookkeeping Confirmation Form
+    pages:
+    - id: 1
+      name: confirm_monthly_bookkeeping
+      label: Confirm Monthly Bookkeeping
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: month_end_tasks_confirmed
+      label: Month End Tasks Confirmed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: follow_ups
+      label: Follow-ups
+      hint: List any follow-ups
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recurring_data_collection
+      label: Recurring Data Collection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: data_confirmed
+      label: Data Confirmed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false

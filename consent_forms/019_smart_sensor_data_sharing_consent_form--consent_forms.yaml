@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Sensor Data Sharing Consent Form
+    pages:
+    - id: 1
+      name: form_data_sharing_consent
+      label: Form Data Sharing Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_data_sharing_organizations
+      label: Organizations
+      hint: List the organizations that will share data with
+      type: select_multiple
+      options:
+      - Example Organization
+      - Another Example Organization
+      required: false
+    - id: 3
+      name: form_data_sharing_purpose
+      label: Purpose Of Data Sharing
+      hint: Specify the purpose for which the data will be shared
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_data_sharing_duration
+      label: Duration Of Data Sharing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_data_sharing_frequency
+      label: Frequency Of Data Sharing
+      hint: Specify the frequency of data sharing
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_data_sharing_method
+      label: Method Of Data Sharing
+      hint: Specify the method of data sharing (e.g. email, post, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_data_sharing_data_types
+      label: Types Of Data To Be Shared
+      hint: Specify the types of data to be shared
+      type: select_multiple
+      options:
+      - Example Type 1
+      - Example Type 2
+      required: false
+    - id: 8
+      name: form_data_sharing_consent_date
+      label: Date Of Consent
+      hint: Enter date of consent
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_data_sharing_consent_time
+      label: Time Of Consent
+      hint: Enter time of consent
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: form_data_sharing_consent_note
+      label: Note Of Consent
+      hint: Enter any additional notes related to consent
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_data_sharing_consent_email
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: form_data_sharing_consent_phone
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_data_sharing_consent_agreement
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 14
+      name: form_data_sharing_consent_additional_notes
+      label: Additional Notes
+      hint: Enter any additional notes
+      type: text
+      options: []
+      required: false

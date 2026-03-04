@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydraulic Press Operation Checklist
+    pages:
+    - id: 1
+      name: press_type
+      label: Press Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: safety_protocols
+      label: Safety Protocols
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: operational_procedures
+      label: Operational Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

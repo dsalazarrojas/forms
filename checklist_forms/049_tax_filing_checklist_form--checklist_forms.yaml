@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Checklist Form
+    pages:
+    - id: 1
+      name: tax_filing_date
+      label: Tax Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: business_entity
+      label: business_entity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_return_type
+      label: tax_return_type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Business
+      - Partnership
+      required: false
+    - id: 4
+      name: filing_status
+      label: filing_status
+      hint: null
+      type: select_one
+      options:
+      - Filed
+      - Unfiled
+      - Pending
+      required: false
+    - id: 5
+      name: income_type
+      label: income_type
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Self-Employed
+      - Investment
+      required: false
+    - id: 6
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_filing_due_date
+      label: tax_filing_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Donation Giving Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For donation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: preset_amount
+      label: Or Select a Preset Amount
+      hint: Quick select donation amount
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1000
+      - Other amount
+      required: false
+    - id: 6
+      name: donation_type
+      label: Type of Donation
+      hint: null
+      type: select_one
+      options:
+      - Tithe
+      - Offering
+      - Building Fund
+      - Mission Fund
+      - Emergency Relief
+      - General Donation
+      required: true
+    - id: 7
+      name: frequency
+      label: How Often Would You Like to Give
+      hint: null
+      type: select_one
+      options:
+      - This is a one-time gift
+      - Weekly
+      - Every two weeks
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 8
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Account (ACH)
+      - PayPal
+      required: true
+    - id: 9
+      name: card_info
+      label: Card Information
+      hint: Enter your card details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with payment method
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: anonymous_gift
+      label: Make This an Anonymous Gift
+      hint: Your name will not be published
+      type: select_one
+      options:
+      - No, you can acknowledge my gift
+      - Yes, keep it anonymous
+      required: true
+    - id: 12
+      name: processing_fee
+      label: Cover the Processing Fee
+      hint: Help us save on transaction costs
+      type: select_one
+      options:
+      - Yes, I will cover the fee
+      - No, deduct from donation
+      required: true
+    - id: 13
+      name: dedication
+      label: Gift Dedication
+      hint: In honor or memory of someone
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Additional Comments
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

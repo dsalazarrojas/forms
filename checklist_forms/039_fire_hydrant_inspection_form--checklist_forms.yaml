@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Hydrant Inspection Form
+    pages:
+    - id: 1
+      name: firehydrant_name
+      label: Fire Hydrant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hydrant_type
+      label: Hydrant Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Hydrant Type'': ''Fire Hydrant''}'
+      - '{''Hydrant Type'': ''Standpipe''}'
+      required: true
+    - id: 3
+      name: firehydrant_status
+      label: Hydrant Status
+      hint: null
+      type: select_one
+      options:
+      - '{''Hydrant Status'': ''Normal''}'
+      - '{''Hydrant Status'': ''Partially Defective''}'
+      - '{''Hydrant Status'': ''Defective''}'
+      required: true
+    - id: 4
+      name: firehydrant_date_installed
+      label: Date Installed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: firehydrant_last_inspected
+      label: Last Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: firehydrant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: firehydrant_inspection_comments
+      label: Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: firehydrant_inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: firehydrant_inspector_title
+      label: Inspector Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: firehydrant_inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: firehydrant_inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false

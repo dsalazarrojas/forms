@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Key Integration Consent Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: Enter your user name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: user_phone
+      label: User Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_note
+      label: Note
+      hint: Any additional comments or notes
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: key_name
+      label: Key Name
+      hint: Enter your key name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: key_type
+      label: Key Type
+      hint: Select key type
+      type: select_one
+      options:
+      - Key 1
+      - Key 2
+      - Key 3
+      required: false
+    - id: 7
+      name: key_details
+      label: Key Details
+      hint: Enter key details
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: key_date
+      label: Key Date
+      hint: Enter key date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: smart_name
+      label: Smart Name
+      hint: Enter your smart name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: smart_type
+      label: Smart Type
+      hint: Select smart type
+      type: select_one
+      options:
+      - Smart 1
+      - Smart 2
+      - Smart 3
+      required: false
+    - id: 11
+      name: smart_note
+      label: Smart Note
+      hint: Any additional comments or notes
+      type: note
+      options: []
+      required: false

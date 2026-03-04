@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Test Footage Release Consent Form
+    pages:
+    - id: 1
+      name: contributor_header
+      label: -- Contributor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For correspondence and records
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: role_info_header
+      label: -- Role and Contribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contributor_role
+      label: Your Role in the Project
+      hint: What was your role
+      type: select_one
+      options:
+      - Animator
+      - Voice Actor
+      - Motion Capture Performer
+      - Character Designer
+      - Background Artist
+      - Effects Artist
+      - Director
+      - Producer
+      - Storyboard Artist
+      - Other
+      required: true
+    - id: 8
+      name: specific_role_description
+      label: Specific Responsibility Description
+      hint: Describe what you did
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_dates
+      label: Dates of Work on Project
+      hint: When did you contribute
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: footage_info_header
+      label: -- Test Footage Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_name
+      label: Project Name
+      hint: Name of animation project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: footage_type
+      label: Type of Test Footage
+      hint: What kind of footage
+      type: select_one
+      options:
+      - Animation Test Sequence
+      - Performance Capture
+      - Voice Acting Session
+      - Character Animation
+      - Visual Effects Test
+      - Storyboard Animatic
+      - Rough Animation
+      - Final Animation
+      required: true
+    - id: 13
+      name: footage_description
+      label: Brief Description of Footage
+      hint: What does the footage show
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: appearance_description
+      label: Your Appearance in Footage
+      hint: Describe how you appear
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consent_header
+      label: -- Release and Consent Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: footage_release
+      label: I grant release of this test footage
+      hint: Permission to release footage
+      type: select_one
+      options:
+      - Yes, I grant full release
+      - Yes, with limitations
+      - Conditional - require approval per use
+      - No, do not release
+      required: true
+    - id: 17
+      name: publicity_permission
+      label: Permission to use for publicity
+      hint: Can footage be shared publicly
+      type: select_one
+      options:
+      - Yes, for public use
+      - Yes, for studio use only
+      - Yes, with credits
+      - No public use
+      required: true
+    - id: 18
+      name: social_media_permission
+      label: Permission to share on social media
+      hint: Can clips be posted online
+      type: select_one
+      options:
+      - Yes, share freely
+      - Yes, ask permission first
+      - Yes, with attribution only
+      - No, do not share
+      required: true
+    - id: 19
+      name: educational_use_permission
+      label: Permission for educational use
+      hint: Can this be used in teaching
+      type: select_one
+      options:
+      - Yes, for education
+      - Yes, with restrictions
+      - No educational use
+      required: true
+    - id: 20
+      name: archive_permission
+      label: Permission to archive footage
+      hint: Can this be stored and reused
+      type: select_one
+      options:
+      - Yes, archive indefinitely
+      - Yes, for limited time
+      - Yes, with approval for reuse
+      - No archival
+      required: true
+    - id: 21
+      name: credits_header
+      label: -- Credits and Attribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: credit_preference
+      label: Credit Preference
+      hint: How should you be credited
+      type: select_one
+      options:
+      - Use my full name
+      - Use first name only
+      - Use pseudonym
+      - No credit required
+      - Anonymous only
+      required: true
+    - id: 23
+      name: credit_name
+      label: Name or Pseudonym for Credits
+      hint: What name to use if not your real name
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_compensation_header
+      label: -- Payment and Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: compensation_agreement
+      label: I understand compensation terms as discussed
+      hint: You agree to compensation arrangements
+      type: select_one
+      options:
+      - Yes, I agree to compensation terms
+      - No payment discussed
+      - To be negotiated
+      required: true

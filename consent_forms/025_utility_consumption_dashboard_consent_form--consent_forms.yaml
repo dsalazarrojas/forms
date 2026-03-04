@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: utility_consumption_dashboard_consent_form
+    pages:
+    - id: 1
+      name: resident_permission
+      label: Resident Permission
+      hint: null
+      type: select_one
+      options:
+      - Utility Consumption Dashboard
+      - No Access
+      required: false
+    - id: 2
+      name: display_and_analyze_utility_usage_data
+      label: Display and Analyze Utility Usage Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: A valid email is required
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: A valid phone number is required
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: energy_programs
+      label: Energy Programs
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Comcast XOOM
+      - ComEd
+      required: false

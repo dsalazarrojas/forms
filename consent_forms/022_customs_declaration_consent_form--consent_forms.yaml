@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customs Declaration Consent Form
+    pages:
+    - id: 1
+      name: traveler_type
+      label: Traveler Type
+      hint: null
+      type: select_one
+      options:
+      - traveler_type
+      - Other
+      required: false
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: goods_category
+      label: Goods Category
+      hint: null
+      type: select_multiple
+      options:
+      - goods_category
+      - Other
+      required: false
+    - id: 4
+      name: goods_weight
+      label: Goods Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: goods_description
+      label: Goods Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customs_officer
+      label: Customs Officer
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authority For Salary Sacrifice Deduction Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: Your employee identification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_email
+      label: Employee Email
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department_name
+      label: Department Name
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Direct Manager Name
+      hint: Your supervisor's name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: salary_frequency
+      label: Salary Payment Frequency
+      hint: How often you are paid
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Annual
+      required: true
+    - id: 8
+      name: current_salary
+      label: Current Annual Salary
+      hint: Your annual salary amount
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: scheme_type
+      label: Salary Sacrifice Scheme Type
+      hint: What type of scheme
+      type: select_one
+      options:
+      - Childcare Vouchers
+      - Cycle Scheme
+      - Car Lease
+      - Tech Scheme
+      - Mobile Phone
+      - Gym Membership
+      - Custom Scheme
+      - Other
+      required: true
+    - id: 10
+      name: scheme_name
+      label: Specific Scheme Name
+      hint: Name of the salary sacrifice scheme
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sacrifice_amount
+      label: Monthly Sacrifice Amount
+      hint: How much per month to deduct
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sacrifice_percentage
+      label: Sacrifice as Percentage of Salary
+      hint: Approximate percentage of salary
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: start_date
+      label: Scheme Start Date
+      hint: When should deductions begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: scheme_duration
+      label: Scheme Duration
+      hint: How long the arrangement is for
+      type: select_one
+      options:
+      - Fixed - 12 Months
+      - Fixed - 24 Months
+      - Ongoing - Until Cancelled
+      - Other - Specify
+      required: true
+    - id: 15
+      name: end_date
+      label: Scheme End Date (if fixed)
+      hint: When does it end if fixed term
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: tax_benefit_confirmation
+      label: Understand Tax Benefits
+      hint: Do you understand the tax implications
+      type: select_one
+      options:
+      - Yes - I Understand
+      - Somewhat Understand
+      - Need More Information
+      - Would Like Advice
+      required: true
+    - id: 17
+      name: ni_contribution_impact
+      label: National Insurance Impact Understood
+      hint: Impact on NI contributions acknowledged
+      type: select_one
+      options:
+      - Yes - I Understand
+      - Somewhat
+      - Need Clarification
+      required: true
+    - id: 18
+      name: pension_impact
+      label: Impact on Pension Contributions
+      hint: How does this affect pension
+      type: select_one
+      options:
+      - No Impact
+      - May Reduce Benefits
+      - Salary Replacement May Vary
+      - Unclear - Need Advice
+      required: true
+    - id: 19
+      name: termination_process
+      label: Understand Termination Process
+      hint: Can you stop the arrangement
+      type: select_one
+      options:
+      - Yes - I Can Cancel Anytime
+      - Yes - With Notice Period
+      - Only at Year End
+      - Unclear
+      required: true
+    - id: 20
+      name: notice_period
+      label: Cancellation Notice Period Required
+      hint: How much notice to stop
+      type: select_one
+      options:
+      - No Notice Required
+      - 1 Month Notice
+      - 3 Months Notice
+      - Other Period
+      required: false
+    - id: 21
+      name: alternative_benefits
+      label: Alternative Arrangements Considered
+      hint: Have you considered other options
+      type: select_one
+      options:
+      - Yes - Fully Considered
+      - Somewhat Considered
+      - No - Not Considered
+      required: true
+    - id: 22
+      name: financial_advice
+      label: Financial Advice Received
+      hint: Have you received professional advice
+      type: select_one
+      options:
+      - Yes - From Accountant
+      - Yes - From Tax Advisor
+      - No - Not Sought
+      - Company Provided Info Only
+      required: false
+    - id: 23
+      name: authorization_declaration
+      label: Authorization and Declaration
+      hint: I authorize this salary sacrifice arrangement
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true
+    - id: 24
+      name: information_accuracy
+      label: Information Accuracy Confirmation
+      hint: Information provided is accurate
+      type: select_one
+      options:
+      - Yes - All Information Accurate
+      - No - Some Information Incorrect
+      - Need to Verify
+      required: true

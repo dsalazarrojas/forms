@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: golf_performance_training_agreement
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info_address
+      label: client address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coach_info
+      label: coach information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: coach_license
+      label: coach license
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: coaching_services
+      label: coaching services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: services_offered
+      label: services offered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: program_start_date
+      label: program start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: program_end_date
+      label: program end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: program_duration
+      label: program duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: program_fees
+      label: program fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_plan
+      label: payment plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: terms_of_service
+      label: terms of service
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: agreements_signed
+      label: agreements signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: client_signature
+      label: client signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: coach_signature
+      label: coach signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: date_of_signing
+      label: date of signing
+      hint: null
+      type: date
+      options: []
+      required: false

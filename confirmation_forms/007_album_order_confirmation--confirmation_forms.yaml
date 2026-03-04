@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Album Order Confirmation
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: Your order reference number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date the order was placed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Full name of the customer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email for order updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: album_style
+      label: Album Style
+      hint: Select the album style ordered
+      type: select_one
+      options:
+      - Classic Leather
+      - Modern Linen
+      - Luxury Velvet
+      - Rustic Wood
+      - Minimalist White
+      - Premium Metal
+      required: true
+    - id: 7
+      name: album_size
+      label: Album Size
+      hint: Dimensions of the album
+      type: select_one
+      options:
+      - 8x8 inches
+      - 10x10 inches
+      - 12x12 inches
+      - 10x8 inches
+      - 12x9 inches
+      required: true
+    - id: 8
+      name: album_color
+      label: Album Color
+      hint: Color of the album cover
+      type: select_one
+      options:
+      - Black
+      - White
+      - Brown
+      - Navy Blue
+      - Burgundy
+      - Gray
+      - Custom
+      required: true
+    - id: 9
+      name: number_of_pages
+      label: Number of Pages
+      hint: Total pages in the album
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: page_layout
+      label: Page Layout
+      hint: Layout style for photos
+      type: select_one
+      options:
+      - Single image per page
+      - 2 images per page
+      - 4 images per page
+      - Collage style
+      - Custom layout
+      required: true
+    - id: 11
+      name: cover_text
+      label: Cover Text
+      hint: Text to be embossed on cover
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: page_1_approval
+      label: Page 1 Approval Status
+      hint: Review and approve first page design
+      type: select_one
+      options:
+      - Approved
+      - Request Changes
+      - Needs Review
+      required: true
+    - id: 13
+      name: page_1_comments
+      label: Page 1 Comments
+      hint: Any feedback for page 1
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: page_2_approval
+      label: Page 2 Approval Status
+      hint: Review and approve second page design
+      type: select_one
+      options:
+      - Approved
+      - Request Changes
+      - Needs Review
+      required: true
+    - id: 15
+      name: page_2_comments
+      label: Page 2 Comments
+      hint: Any feedback for page 2
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: page_3_approval
+      label: Page 3 Approval Status
+      hint: Review and approve third page design
+      type: select_one
+      options:
+      - Approved
+      - Request Changes
+      - Needs Review
+      required: true
+    - id: 17
+      name: page_3_comments
+      label: Page 3 Comments
+      hint: Any feedback for page 3
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: overall_approval
+      label: Overall Order Approval
+      hint: Do you approve this order for production?
+      type: select_one
+      options:
+      - Yes, proceed with production
+      - No, changes needed
+      required: true
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_signature
+      label: Customer Confirmation
+      hint: Confirm your approval
+      type: select_one
+      options:
+      - I confirm and approve this order
+      - I need to make changes
+      required: true

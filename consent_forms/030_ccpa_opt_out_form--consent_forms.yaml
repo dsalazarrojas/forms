@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: CCPA/CPRA Consumer Privacy Request Form
+    pages:
+    - id: 1
+      name: ccpa_header_section
+      label: -- Do Not Sell or Share My Personal Information --
+      hint: Use this form to exercise your privacy rights under California law.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_type_selection
+      label: Type of Request
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Do Not Sell My Personal Information
+      - Do Not Share My Personal Information
+      - Request to Access (Right to Know)
+      - Request to Delete
+      - Request to Correct
+      required: true
+    - id: 3
+      name: consumer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consumer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consumer_email_request
+      label: Email Address
+      hint: Used for verification and communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: consumer_residency_status
+      label: Are you a California resident?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: physical_address_for_verification
+      label: Street Address
+      hint: Needed to verify residency
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city_verification
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_verification
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: relationship_to_business
+      label: Your current relationship to our business
+      hint: null
+      type: select_one
+      options:
+      - Current Customer
+      - Former Customer
+      - Prospective Customer
+      - Employee/Job Applicant
+      - Other
+      required: true
+    - id: 11
+      name: identity_verification_method
+      label: How would you like to verify your identity?
+      hint: We may require additional documentation
+      type: select_one
+      options:
+      - Verification Link via Email
+      - Security Question Confirmation
+      - Identity Document Upload (Secure Link)
+      required: true
+    - id: 12
+      name: acting_as_authorized_agent
+      label: Are you an authorized agent acting on behalf of a consumer?
+      hint: null
+      type: select_one
+      options:
+      - No, I am the consumer
+      - Yes, I am an authorized agent
+      required: true
+    - id: 13
+      name: agent_documentation_notice
+      label: Notice for Authorized Agents
+      hint: Agents must provide written permission signed by the consumer.
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: declaration_of_authority_ccpa
+      label: I declare under penalty of perjury that I am the consumer whose information
+        is the subject of this request
+      hint: null
+      type: select_one
+      options:
+      - I Declare
+      - Other
+      required: true
+    - id: 15
+      name: request_submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: feedback_opt_out_notice
+      label: Opt-out Confirmation
+      hint: We will process your request within 15 business days.
+      type: note
+      options: []
+      required: false

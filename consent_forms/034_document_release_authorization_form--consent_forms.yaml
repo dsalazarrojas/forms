@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Release Authorization Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Employee
+      required: false
+    - id: 3
+      name: document_category
+      label: Document Category
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Personal
+      required: false
+    - id: 4
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: organization_name_2
+      label: Organization Name (if other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_type_2
+      label: Document Type (if other)
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Other
+      required: false
+    - id: 14
+      name: document_category_2
+      label: Document Category (if other)
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Other
+      required: false
+    - id: 15
+      name: release_date_2
+      label: Release Date (if other)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: review_status_2
+      label: Review Status (if other)
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Other
+      required: false
+    - id: 17
+      name: comments_2
+      label: Comments (if other)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email_2
+      label: Email (if other)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_2
+      label: Phone (if other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_user_2
+      label: Assigned User (if other)
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Other
+      required: false
+    - id: 21
+      name: submitted_on_2
+      label: Submitted On (if other)
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: updated_on_2
+      label: Updated On (if other)
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: document_id
+      label: Document ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

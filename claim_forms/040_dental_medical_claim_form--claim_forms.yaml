@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Medical Claim Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dental_information
+      label: Dental Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Dentist''}'
+      - '{''id'': 2, ''name'': ''Orthodontist''}'
+      - '{''id'': 3, ''name'': ''Pediatrician''}'
+      required: false
+    - id: 3
+      name: claimant
+      label: Claimant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''Rejected''}'
+      required: false
+    - id: 6
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: claim_time
+      label: Claim Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: claim_address
+      label: Claim Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claim_phone
+      label: Claim Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_email
+      label: Claim Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false

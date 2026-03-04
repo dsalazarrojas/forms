@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Tryout Release Form
+    pages:
+      - id: 1
+        name: section_header_1
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: phone
+        label: Phone number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 6
+        name: section_header_2
+        label: -- Parent/Guardian Information (if under 18) --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: parent_name
+        label: Parent/Guardian full name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: parent_relationship
+        label: Relationship to participant
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: parent_email
+        label: Parent/Guardian email
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 10
+        name: parent_phone
+        label: Parent/Guardian phone
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 11
+        name: section_header_3
+        label: -- Emergency Contact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: emergency_contact_name
+        label: Emergency contact name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: emergency_relationship
+        label: Relationship to participant
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: emergency_phone
+        label: Emergency contact phone
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 15
+        name: section_header_4
+        label: -- Health Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: medical_conditions
+        label: Do you have any medical conditions?
+        hint: null
+        type: select_one
+        options: [No, Yes - Please Describe]
+        required: true
+      - id: 17
+        name: condition_description
+        label: If yes, describe the condition
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: medications
+        label: Are you currently taking medications?
+        hint: null
+        type: select_one
+        options: [No, Yes - Please Describe]
+        required: true
+      - id: 19
+        name: medication_description
+        label: If yes, describe medications
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: section_header_5
+        label: -- Release and Waiver Agreement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: risk_acknowledgment
+        label: I acknowledge that baseball involves risks including injuries from thrown balls, collisions, and impacts
+        hint: null
+        type: select_one
+        options: [I Acknowledge, I Do Not Acknowledge]
+        required: true
+      - id: 22
+        name: release_liability
+        label: I release the team and organization from liability for injuries during tryouts
+        hint: null
+        type: select_one
+        options: [I Agree, I Do Not Agree]
+        required: true
+      - id: 23
+        name: assumption_risk
+        label: I assume all risks associated with participation in these tryouts
+        hint: null
+        type: select_one
+        options: [I Assume Risk, I Decline]
+        required: true
+      - id: 24
+        name: medical_clearance
+        label: I confirm I have medical clearance to participate
+        hint: null
+        type: select_one
+        options: [I Confirm, I Am Unsure]
+        required: true
+      - id: 25
+        name: parent_acknowledgment
+        label: "Parent/Guardian: I consent to participant's involvement and acknowledge all terms"
+        hint: null
+        type: select_one
+        options: [I Consent, Not Applicable, I Need More Time]
+        required: true

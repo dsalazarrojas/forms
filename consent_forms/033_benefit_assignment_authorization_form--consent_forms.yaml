@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Benefit Assignment Authorization Form
+    pages:
+    - id: 1
+      name: section_patient
+      label: -- Patient/Beneficiary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_insurance
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: insurance_company
+      label: Insurance Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: group_number
+      label: Group Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: coverage_type
+      label: Type of Coverage
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Group
+      - Medicare
+      - Medicaid
+      - Other
+      required: true
+    - id: 12
+      name: section_assignment
+      label: -- Benefit Assignment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assignment_type
+      label: Type of Benefit Assignment
+      hint: null
+      type: select_one
+      options:
+      - Insurance Benefits
+      - Medical Claims Payment
+      - Refund Checks
+      - Direct Deposit
+      - Other
+      required: true
+    - id: 14
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Where benefits will be assigned
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: provider_npi
+      label: Provider NPI Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Direct Deposit
+      - Electronic Funds Transfer
+      - Credit Card
+      - Other
+      required: true
+    - id: 18
+      name: section_authorization
+      label: -- Authorization and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: authorize_assignment
+      label: I Authorize Benefit Assignment
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: authorize_payment
+      label: I Authorize Direct Payment to Provider
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: acknowledge_terms
+      label: I Acknowledge Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: effective_date
+      label: Effective Date of Assignment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: form_date
+      label: Date of Form
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI And Law Conference Registration
+    pages:
+    - id: 1
+      name: event_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name as it should appear on badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Affiliation or employer
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Registration confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: ticket_type
+      label: Ticket type
+      hint: Select your registration level
+      type: select_one
+      options:
+      - Standard
+      - Student
+      - Speaker
+      - Sponsor
+      required: true
+    - id: 6
+      name: sessions_interested
+      label: Sessions or tracks of interest
+      hint: Choose sessions you plan to attend
+      type: select_multiple
+      options:
+      - Policy and Regulation
+      - Liability and Risk
+      - Ethics and Governance
+      - AI in Practice
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: For catering purposes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Let us know if you need accommodations
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact phone number
+      hint: Provide name and phone
+      type: text
+      options: []
+      required: true

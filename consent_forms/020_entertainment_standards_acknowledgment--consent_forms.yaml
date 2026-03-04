@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Standards Acknowledgment
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entertainment_standards
+      label: entertainment_standards
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 3
+      name: roles
+      label: roles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Director''}'
+      - '{''value'': ''Cast''}'
+      - '{''value'': ''Crew''}'
+      required: false
+    - id: 4
+      name: dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signatures
+      label: Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Director''}'
+      - '{''value'': ''Cast''}'
+      - '{''value'': ''Crew''}'
+      required: false
+    - id: 6
+      name: cast
+      label: Cast
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Bob''}'
+      required: false
+    - id: 7
+      name: crew
+      label: Crew
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Bob''}'
+      required: false
+    - id: 8
+      name: partners
+      label: Partners
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Bob''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false

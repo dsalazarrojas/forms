@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Turf Cleaning Service Request
+    pages:
+    - id: 1
+      name: turf_cleaning_service_request
+      label: turf_cleaning_service_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: schedule_appointment
+      label: schedule_appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_date
+      label: preferred_date
+      hint: null
+      type: select_multiple
+      options:
+      - Tuesday
+      - Thursday
+      required: false
+    - id: 7
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 8
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: turf_cleaning_service_request_details
+      label: turf_cleaning_service_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

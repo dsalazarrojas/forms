@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Planning Complaint Form
+    pages:
+    - id: 1
+      name: complaint_intro_note
+      label: -- Submit Your Community Planning Concerns --
+      hint: We value resident feedback to improve community development.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_name
+      label: Resident Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_address
+      label: Resident Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resident_email
+      label: Resident Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: resident_phone
+      label: Resident Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: complaint_category
+      label: Complaint Category
+      hint: Select the most appropriate category.
+      type: select_one
+      options:
+      - Zoning and Land Use
+      - Infrastructure and Roads
+      - Parks and Recreation
+      - Public Safety
+      - Environmental Concerns
+      - Other
+      required: true
+    - id: 7
+      name: other_category_specify
+      label: If Other - Please Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_date
+      label: Date the Issue Occurred or Was Observed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: issue_location
+      label: Precise Location of the Planning Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: complaint_description
+      label: Detailed Description of Complaint
+      hint: Please be as specific as possible.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: desired_resolution
+      label: What is your desired resolution?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_contact_check
+      label: Have you contacted anyone else about this issue?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: previous_contact_who
+      label: If yes - who did you contact?
+      hint: e.g. City Council - Planning Commission.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_intent
+      label: Would you like to be contacted regarding this complaint?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: privacy_statement_note
+      label: -- Privacy Statement --
+      hint: All submissions are kept confidential - but may be shared with relevant
+        city departments.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: complaint_submission_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

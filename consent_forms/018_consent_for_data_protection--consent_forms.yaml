@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent For Data Protection
+    pages:
+    - id: 1
+      name: section_ident
+      label: -- Identity Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: data_subject_name
+      label: Full Name of Data Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: identification_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_data_usage
+      label: -- Data Processing Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: data_categories
+      label: Which types of data do you consent for us to process?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Contact Details (Email, Phone)
+      - Identity Information (Name, DOB)
+      - Behavioral/Usage Data
+      - Financial/Transaction History
+      - Marketing Preferences
+      required: true
+    - id: 6
+      name: processing_purposes
+      label: Purpose of Data Processing
+      hint: null
+      type: select_multiple
+      options:
+      - Service Provision and Management
+      - Customer Support and Communication
+      - Direct Marketing and Newsletters
+      - Statistical Analysis
+      - Legal and Regulatory Compliance
+      required: true
+    - id: 7
+      name: storage_duration_awareness
+      label: I understand my data will be stored as per the Data Retention Policy
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 8
+      name: third_party_disclosure
+      label: I consent to my data being shared with necessary third-party partners
+      hint: e.g., Cloud storage providers, Payment processors
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 9
+      name: section_rights
+      label: -- Your Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: withdrawal_right_awareness
+      label: I am aware of my right to withdraw consent at any time
+      hint: null
+      type: select_one
+      options:
+      - I am aware
+      - Other
+      required: true
+    - id: 11
+      name: access_request_awareness
+      label: I am aware of my right to access and rectify my personal data
+      hint: null
+      type: select_one
+      options:
+      - I am aware
+      - Other
+      required: true
+    - id: 12
+      name: section_final
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: explicit_consent_check
+      label: Do you provide explicit consent for processing sensitive data?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I provide explicit consent
+      - No, I do not provide consent
+      required: true
+    - id: 14
+      name: digital_signature
+      label: Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

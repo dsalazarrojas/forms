@@ -1,0 +1,310 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Checklist
+    pages:
+      - id: 1
+        name: section_header_service
+        label: -- Service Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: service_date
+        label: Service Date
+        hint: Date cleaning service was provided
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: service_address
+        label: Property Address
+        hint: Address of the property cleaned
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: client_name
+        label: Client Name
+        hint: Name of the property owner
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: crew_leader
+        label: Cleaning Crew Leader
+        hint: Name of the supervisor
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: crew_members
+        label: Crew Members
+        hint: Names of all staff members
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_header_tasks
+        label: -- Task Completion Checklist --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: task_vacuuming
+        label: Vacuuming and sweeping
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 9
+        name: task_mopping
+        label: Mopping and floor cleaning
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 10
+        name: task_dusting
+        label: Dusting surfaces and furniture
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 11
+        name: task_bathroom
+        label: Bathroom cleaning and sanitizing
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 12
+        name: task_kitchen
+        label: Kitchen cleaning and sanitizing
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 13
+        name: task_windows
+        label: Window and glass cleaning
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 14
+        name: task_mirrors
+        label: Mirror cleaning
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 15
+        name: task_trash
+        label: Trash removal and replacement
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 16
+        name: task_bedrooms
+        label: Bedroom cleaning
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 17
+        name: task_living_areas
+        label: Living area and common space cleaning
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 18
+        name: task_supplies
+        label: Restocking supplies
+        hint: Paper products, soaps, etc.
+        type: select_one
+        options:
+          - Complete
+          - Partial
+          - Not Done
+        required: true
+      - id: 19
+        name: section_header_special
+        label: -- Special Tasks --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: special_task_1
+        label: Special Task 1
+        hint: Specific task requested by client
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: special_task_1_completed
+        label: Special Task 1 - Completed?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - Partial
+          - No
+          - Not Applicable
+        required: false
+      - id: 22
+        name: special_task_2
+        label: Special Task 2
+        hint: Another specific task requested
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: special_task_2_completed
+        label: Special Task 2 - Completed?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - Partial
+          - No
+          - Not Applicable
+        required: false
+      - id: 24
+        name: section_header_quality
+        label: -- Quality Assurance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: overall_quality
+        label: Overall Quality of Work
+        hint: How well was the work completed?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 26
+        name: inspection_notes
+        label: Quality Inspection Notes
+        hint: Any areas needing improvement?
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: section_header_client
+        label: -- Client Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: client_satisfied
+        label: Is the client satisfied with the service?
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 29
+        name: client_feedback
+        label: Client Feedback or Complaints
+        hint: Any comments from the client?
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: client_signature_received
+        label: Client Signature/Approval Received
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 31
+        name: section_header_completion
+        label: -- Completion --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: issues_or_damages
+        label: Any Issues or Damages Reported
+        hint: Problems encountered during service
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: follow_up_required
+        label: Follow-up Visit Required
+        hint: null
+        type: select_one
+        options:
+          - No
+          - Yes - Minor Follow-up
+          - Yes - Major Follow-up
+        required: true
+      - id: 34
+        name: completion_time
+        label: Service Completion Time
+        hint: Time the service was completed
+        type: time
+        options: []
+        required: true

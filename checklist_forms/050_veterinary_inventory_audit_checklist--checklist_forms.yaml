@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Inventory Audit Checklist
+    pages:
+    - id: 1
+      name: stock_check
+      label: Stock Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_check
+      label: Equipment Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_observations
+      label: Safety Observations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: clinic_stock
+      label: Clinic Stock
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stock_value
+      label: Stock Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Maintenance
+      - Out of Order
+      - Out of Service
+      - Pending
+      - Replaced
+      - Replaced with
+      - Spare
+      - Unknown
+      required: false
+    - id: 7
+      name: equipment_last_checked
+      label: Equipment Last Checked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: equipment_next_check_due
+      label: Equipment Next Check Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: safety_notes
+      label: Safety Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: safety_risk
+      label: Safety Risk
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

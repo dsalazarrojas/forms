@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Protein Research Participation Survey
+    pages:
+    - id: 1
+      name: researcher_background
+      label: Researchers Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_interest
+      label: Collaboration Interest
+      hint: null
+      type: select_one
+      options:
+      - Collaboration
+      - Not Interested
+      - Depends on the project
+      required: false
+    - id: 3
+      name: lab_name
+      label: lab name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: researcher_name
+      label: researcher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_area
+      label: research area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: background_info
+      label: background information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: lab_address
+      label: lab address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lab_location
+      label: lab location
+      hint: null
+      type: select_one
+      options:
+      - North
+      - East
+      - West
+      - South
+      required: false
+    - id: 11
+      name: collaboration_method
+      label: collaboration method
+      hint: null
+      type: select_multiple
+      options:
+      - Collaboration 1
+      - Collaboration 2
+      - Collaboration 3
+      required: false
+    - id: 12
+      name: follow_up_contact
+      label: follow up contact
+      hint: null
+      type: select_multiple
+      options:
+      - Follow Up 1
+      - Follow Up 2
+      - Follow Up 3
+      required: false
+    - id: 13
+      name: collaboration_frequency
+      label: collaboration frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Twice
+      - Thrice
+      required: false
+    - id: 14
+      name: collaboration_duration
+      label: collaboration duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - More than 1 year
+      - Not Applicable
+      required: false
+    - id: 15
+      name: collaboration_type
+      label: collaboration type
+      hint: null
+      type: text
+      options: []
+      required: false

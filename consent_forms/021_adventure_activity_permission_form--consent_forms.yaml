@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Activity Permission Form
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Full name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_age
+      label: Participant Age
+      hint: Age of the participant
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: Full name of parent or guardian (if under 18)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_guardian_contact
+      label: Parent/Guardian Contact
+      hint: Phone number of parent or guardian
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: activity_information_section
+      label: -- Activity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: activity_name
+      label: Activity Name
+      hint: Name of the adventure activity
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: activity_date
+      label: Activity Date
+      hint: Date of the adventure activity
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: activity_location
+      label: Activity Location
+      hint: Location where the activity will take place
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: activity_risks_acknowledgment
+      label: Activity Risks Acknowledgment
+      hint: Do you acknowledge the inherent risks of this activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: medical_conditions_section
+      label: -- Medical Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions that may affect participation
+      type: select_multiple
+      options:
+      - Heart condition
+      - Asthma
+      - Seizures
+      - Joint problems
+      - Medication use
+      - Pregnancy
+      - None
+      - Other
+      required: true
+    - id: 14
+      name: medications_currently_taking
+      label: Medications Currently Taking
+      hint: List any medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: List any allergies you have
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_information_section
+      label: -- Emergency Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to the participant
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: permission_consent
+      label: Permission and Consent
+      hint: Do you give permission for the participant to engage in this activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Security Fraud Report Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reported_time
+      label: Reported Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reported_time_ending
+      label: Reported Time Ending
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submit_time_ending
+      label: Submit Time Ending
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: reported_location
+      label: Reported Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reported_address
+      label: Reported Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_location
+      label: Submit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_address
+      label: Submit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reported_person_name
+      label: Reported Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit_person_name
+      label: Submit Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reported_person_title
+      label: Reported Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit_person_title
+      label: Submit Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: report_type_other
+      label: Report Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reported_person_other_title
+      label: Reported Person Other Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submit_other_person_title
+      label: Submit Other Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reported_person_id
+      label: Reported Person ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit_person_id
+      label: Submit Person ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_comments
+      label: Submit Comments
+      hint: null
+      type: text
+      options: []
+      required: false

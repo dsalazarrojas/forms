@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: gingerbread_house_contest_voting
+    pages:
+    - id: 1
+      name: contest_rating
+      label: Contest Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 3
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: rating_4
+      label: Rating 4
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: rating_5
+      label: Rating 5
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: rating_6
+      label: Rating 6
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: rating_7
+      label: Rating 7
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: rating_8
+      label: Rating 8
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: single_vote
+      label: Single Vote
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

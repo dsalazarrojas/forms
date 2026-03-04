@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mentoring Session Attendance Confirmation Form
+    pages:
+    - id: 1
+      name: mentoring_session_id
+      label: session id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mentee_details
+      label: mentee details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mentoring_agreement
+      label: agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Mentor's Terms
+      - Mentee's Terms
+      required: true
+    - id: 4
+      name: mentor_attendance
+      label: mentor attendance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: mentee_attendance
+      label: mentee attendance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: session_start_date
+      label: session_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: session_start_time
+      label: session_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: session_end_date
+      label: session_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: session_end_time
+      label: session_end_time
+      hint: null
+      type: time
+      options: []
+      required: true

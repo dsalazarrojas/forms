@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Records Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: healthcare_provider_name
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider_name
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_requesting_records
+      label: reason_for_requesting_records
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: date_of_request
+      label: date_of_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_group
+      label: medical_group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: medical_group_label
+      label: medical_group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_specialty
+      label: doctor_specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_id
+      label: doctor_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: patient_sex
+      label: patient_sex
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: patient_race
+      label: patient_race
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: medical_record_id
+      label: medical_record_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: patient_medical_record
+      label: patient_medical_record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_provider_medical_record
+      label: medical_provider_medical_record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_medical_record
+      label: patient_medical_record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_medical_record
+      label: doctor_medical_record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_medical_record_2
+      label: patient_medical_record_2
+      hint: null
+      type: text
+      options: []
+      required: false

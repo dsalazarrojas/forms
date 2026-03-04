@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Personality Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Do you prefer eggnog or hot cocoa?
+      hint: null
+      type: select_one
+      options:
+      - eggnog
+      - hot cocoa
+      required: true
+    - id: 3
+      name: rating_sugar
+      label: how-sweet-sugar
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: favorite_holiday_movie
+      label: favorite-holiday-movie
+      hint: null
+      type: select_one
+      options:
+      - Elf
+      - Home Alone
+      - A Christmas Story
+      - Love Actually
+      required: true
+    - id: 5
+      name: favorite_holiday_song
+      label: favorite-holiday-song
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: favorite_cooking_method
+      label: favorite-cooking-method
+      hint: null
+      type: select_one
+      options:
+      - baked
+      - fried
+      - grilled
+      - poached
+      required: true
+    - id: 7
+      name: how_important_is_holiday_turkey
+      label: how-important-is-holiday-turkey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: favorite_holiday_tradition
+      label: favorite-holiday-tradition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: what_to_do_holiday
+      label: what-to-do-holiday
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: rating_holiday_activities
+      label: rating-holiday-activities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: favorite_holiday_memory
+      label: favorite-holiday-memory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: best_holiday_present
+      label: best-holiday-present
+      hint: null
+      type: select_one
+      options:
+      - something-material
+      - experience
+      - time-with-family
+      required: true
+    - id: 13
+      name: rating_holiday_present
+      label: rating-holiday-present
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: holiday_activities_preference
+      label: holiday-activities-preference
+      hint: null
+      type: select_one
+      options:
+      - indoors
+      - outdoors
+      required: false
+    - id: 15
+      name: what_to_do_holiday_outdoors
+      label: what-to-do-holiday-outdoors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: favorite_holiday_place
+      label: favorite-holiday-place
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: favorite_holiday_activity
+      label: favorite-holiday-activity
+      hint: null
+      type: select_one
+      options:
+      - skiing
+      - ice-skating
+      - sledding
+      - sleigh-ride
+      required: true
+    - id: 18
+      name: rating_holiday_activity
+      label: rating-holiday-activity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: favorite_holiday_recipe
+      label: favorite-holiday-recipe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: holiday_schedule
+      label: holiday-schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: favorite_holiday_activity_group
+      label: favorite-holiday-activity-group
+      hint: null
+      type: select_one
+      options:
+      - family
+      - friends
+      - alone
+      required: true
+    - id: 22
+      name: rating_holiday_spend
+      label: rating-holiday-spend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: best_holiday_activity_location
+      label: best-holiday-activity-location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: favorite_holiday_spend
+      label: favorite-holiday-spend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: rating_holiday_satisfaction
+      label: rating-holiday-satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true

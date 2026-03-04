@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harassment Reporting Monitoring Form
+    pages:
+    - id: 1
+      name: reporting_form
+      label: Harassment Reporting Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: Select incident type
+      type: select_one
+      options:
+      - Harassment
+      - Bullying
+      - Other
+      required: false
+    - id: 3
+      name: date_incident_occurred
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_incident_occurred
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_incident
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporter_id
+      label: Reporter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporter_email
+      label: Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: reporter_phone
+      label: Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_id
+      label: Witness ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reported_to
+      label: Incident Reported To
+      hint: null
+      type: select_one
+      options:
+      - Supervisor
+      - HR
+      - Security
+      required: false
+    - id: 16
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: select_multiple
+      options:
+      - Reporting Officer 1
+      - Reporting Officer 2
+      - Reporting Officer 3
+      - Reporting Officer 4
+      - Reporting Officer 5
+      - Reporting Officer 6
+      - Reporting Officer 7
+      - Reporting Officer 8
+      - Reporting Officer 9
+      - Reporting Officer 10
+      - Reporting Officer 11
+      - Reporting Officer 12
+      - Reporting Officer 13
+      - Reporting Officer 14
+      - Reporting Officer 15
+      - Reporting Officer 16
+      - Reporting Officer 17
+      - Reporting Officer 18
+      - Reporting Officer 19
+      - Reporting Officer 20
+      - Reporting Officer 21
+      - Reporting Officer 22
+      - Reporting Officer 23
+      - Reporting Officer 24
+      required: false
+    - id: 17
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time_reported
+      label: Time Reported
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - Reporting Officer 1
+      - Reporting Officer 2
+      - Reporting Officer 3
+      - Reporting Officer 4
+      - Reporting Officer 5
+      - Reporting Officer 6
+      - Reporting Officer 7
+      - Reporting Officer 8
+      - Reporting Officer 9
+      - Reporting Officer 10
+      - Reporting Officer 11
+      - Reporting Officer 12
+      - Reporting Officer 13
+      - Reporting Officer 14
+      - Reporting Officer 15
+      - Reporting Officer 16
+      - Reporting Officer 17
+      - Reporting Officer 18
+      - Reporting Officer 19
+      - Reporting Officer 20
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reporting_form_completed
+      label: Reporting Form Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      - Reopened
+      required: false
+    - id: 25
+      name: submission_status_comments
+      label: Submission Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: C.R.O.W.N. Summit Registration Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: Your school or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grade_level
+      label: Grade Level
+      hint: Your current grade
+      type: select_one
+      options:
+      - Middle School - Grade 6
+      - Middle School - Grade 7
+      - Middle School - Grade 8
+      - High School - Grade 9
+      - High School - Grade 10
+      - High School - Grade 11
+      - High School - Grade 12
+      required: true
+    - id: 8
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Responsible adult name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Adult contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Adult contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: Select your size
+      type: select_one
+      options:
+      - Extra Small
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: true
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_interests
+      label: Workshop Interests
+      hint: Select workshop topics you want
+      type: select_multiple
+      options:
+      - Leadership
+      - Entrepreneurship
+      - Technology
+      - Health and Wellness
+      - Arts and Culture
+      - Community Service
+      - STEM
+      required: false
+    - id: 15
+      name: previous_attendance
+      label: Previous Summit Attendance
+      hint: Have you attended before
+      type: select_one
+      options:
+      - Yes, first time
+      - Yes, I have attended before
+      - No, new participant
+      required: true
+    - id: 16
+      name: parental_consent
+      label: Parent Consent for Participation
+      hint: Parent agrees to participation
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 17
+      name: waiver_agreement
+      label: I Agree to Event Waiver and Policies
+      hint: Accept terms to participate
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true

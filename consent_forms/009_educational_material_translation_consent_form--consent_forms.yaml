@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational-material-translation-consent-form
+    pages:
+    - id: 1
+      name: form_header
+      label: Educational Material Translation Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_translation_consent
+      label: Participant Translation Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: translator_info
+      label: Translator Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: translator_translation_consent
+      label: Translator Translation Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: translation_date
+      label: Translation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: translation_time
+      label: Translation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

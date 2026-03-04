@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Conference Registration Form
+    pages:
+    - id: 1
+      name: attendee_information
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Valid business email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: conference_details
+      label: -- Conference Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: Select registration category
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - VIP Pass
+      - Student Pass
+      - Speaker Pass
+      - Exhibitor Pass
+      required: true
+    - id: 10
+      name: preferred_day
+      label: Preferred Attendance Day
+      hint: Which day(s) will you attend
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - Day 4
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs for meals
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Kosher
+      - Halal
+      - No Restrictions
+      required: false
+    - id: 12
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any accessibility accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_interests
+      label: -- Session Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: track_preference
+      label: Preferred Track
+      hint: Select primary track interest
+      type: select_one
+      options:
+      - Technology Innovation
+      - Sales and Marketing
+      - Leadership
+      - Finance and Operations
+      - Digital Transformation
+      - Sustainability
+      - Human Resources
+      required: true
+    - id: 15
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose workshops to attend
+      type: select_multiple
+      options:
+      - Advanced Digital Marketing
+      - AI and Machine Learning
+      - Data Analytics Mastery
+      - Agile Transformation
+      - Customer Experience Design
+      - Cloud Strategy
+      - Change Management
+      required: false
+    - id: 16
+      name: networking
+      label: Networking Interest
+      hint: Are you interested in networking events
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 17
+      name: payment_information
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: registration_fee
+      label: Registration Fee
+      hint: Conference fee amount
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Wire Transfer
+      - PayPal
+      required: true
+    - id: 20
+      name: billing_address
+      label: Billing Address
+      hint: Address for billing
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: terms_acceptance
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: terms_conditions
+      label: Accept Terms and Conditions
+      hint: I agree to conference terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: privacy_consent
+      label: Privacy Policy Consent
+      hint: I consent to privacy policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: marketing_consent
+      label: Marketing Communications
+      hint: I agree to receive marketing communications
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

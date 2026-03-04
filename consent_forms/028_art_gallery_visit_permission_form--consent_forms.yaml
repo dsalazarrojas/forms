@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Visit Permission Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of permission form
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_grade
+      label: Student Grade
+      hint: Grade level
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: Student identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_guardian_name
+      label: Parent Guardian Name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_email
+      label: Parent Guardian Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_phone
+      label: Parent Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_phone
+      label: Home Phone
+      hint: Alternative contact number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to student
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: gallery_name
+      label: Gallery Name
+      hint: Name of gallery to visit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: gallery_address
+      label: Gallery Address
+      hint: Address of gallery
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: visit_date
+      label: Visit Date
+      hint: Date of planned visit
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: visit_purpose
+      label: Visit Purpose
+      hint: Educational purpose of visit
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: departure_time
+      label: Departure Time
+      hint: Time of departure from school
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: return_time
+      label: Return Time
+      hint: Expected return time
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: transportation_method
+      label: Transportation Method
+      hint: How will students travel
+      type: select_one
+      options:
+      - School Bus
+      - Public Transit
+      - Walking
+      - Parent Drivers
+      - Chartered Bus
+      required: true
+    - id: 19
+      name: teacher_name
+      label: Teacher Name
+      hint: Name of supervising teacher
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: teacher_phone
+      label: Teacher Phone
+      hint: Teacher contact number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: chaperone_names
+      label: Chaperone Names
+      hint: Names of accompanying chaperones
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any medical conditions to note
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medications
+      label: Medications
+      hint: Any medications student is taking
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: allergies
+      label: Allergies
+      hint: Any allergies
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: permission_granted
+      label: Permission Granted
+      hint: I give permission for my child to attend
+      type: select_one
+      options:
+      - Yes - Permission Granted
+      - No - Permission Denied
+      required: true
+    - id: 27
+      name: photo_permission
+      label: Photo Permission
+      hint: I allow photos of my child for educational purposes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: medical_treatment_permission
+      label: Medical Treatment Permission
+      hint: I authorize emergency medical treatment if needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: parent_guardian_signature
+      label: Parent Guardian Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

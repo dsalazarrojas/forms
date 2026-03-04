@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Use Consent Form
+    pages:
+    - id: 1
+      name: personal_details_header
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal name.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_details_header
+      label: -- Consent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: usage_scope
+      label: Scope of Usage
+      hint: What are you consenting to?
+      type: select_multiple
+      options:
+      - Use of my name in marketing materials
+      - Use of my photo/video in social media ads
+      - Use of my testimonial on the website
+      - Use of my likeness in print advertising
+      required: true
+    - id: 7
+      name: duration
+      label: Duration of Consent
+      hint: How long can we use this material?
+      type: select_one
+      options:
+      - One-time use only
+      - 1 Year
+      - 3 Years
+      - Indefinitely (Perpetual)
+      required: true
+    - id: 8
+      name: compensation_acknowledgment
+      label: Compensation Acknowledgment
+      hint: Do you acknowledge the terms of compensation (if any)?
+      type: select_one
+      options:
+      - Yes, I understand there is no financial compensation
+      - Yes, I agree to the agreed-upon fee
+      required: true
+    - id: 9
+      name: right_to_revoke
+      label: Right to Revoke
+      hint: You understand you can revoke consent for future use in writing.
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 10
+      name: signature_confirmation
+      label: Electronic Signature
+      hint: By selecting 'I Agree', you sign this consent form.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 11
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

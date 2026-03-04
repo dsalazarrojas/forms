@@ -1,0 +1,432 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Genetic Material Consent Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: study_information
+      label: Study Information
+      hint: Details about the research study
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: study_title
+      label: Study Title
+      hint: Name of the research study
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: principal_investigator
+      label: Principal Investigator
+      hint: Name of lead researcher
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: institution
+      label: Research Institution
+      hint: Name of institution conducting research
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: study_purpose
+      label: Study Purpose
+      hint: Why is this study being conducted
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: genetic_material_details
+      label: Genetic Material Details
+      hint: Information about sample collection
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: sample_type
+      label: Type of Sample
+      hint: What type of sample will be collected
+      type: select_one
+      options:
+      - Blood Sample
+      - Saliva Sample
+      - Cheek Swab
+      - Tissue Sample
+      - Hair Sample
+      - Other Biological Sample
+      required: true
+    - id: 19
+      name: sample_collection_method
+      label: Collection Method
+      hint: How will sample be collected
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: sample_volume
+      label: Sample Volume or Amount
+      hint: How much will be collected
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: collection_frequency
+      label: Collection Frequency
+      hint: How often will samples be collected
+      type: select_one
+      options:
+      - One Time Only
+      - Multiple Times Over Study Period
+      - At Each Study Visit
+      - As Needed
+      required: true
+    - id: 22
+      name: risks_and_benefits
+      label: Risks and Benefits
+      hint: Understand potential risks and benefits
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: risks_understanding
+      label: Risks Understanding
+      hint: Do you understand the risks
+      type: select_one
+      options:
+      - Yes - I Understand All Risks
+      - Yes - With Some Concerns
+      - No - Need More Information
+      required: true
+    - id: 24
+      name: risks_description
+      label: Risks Description
+      hint: List any risks you are concerned about
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: benefits_understanding
+      label: Benefits Understanding
+      hint: Do you understand potential benefits
+      type: select_one
+      options:
+      - Yes - I Understand Benefits
+      - Yes - But Limited Personal Benefit
+      - No - Need More Information
+      required: true
+    - id: 26
+      name: data_usage
+      label: Data Usage
+      hint: How your genetic data will be used
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: data_storage
+      label: Data Storage
+      hint: How will your data be stored
+      type: select_one
+      options:
+      - Encrypted Secure Database
+      - Coded with Identifier
+      - Anonymized Completely
+      - Combination of Methods
+      required: true
+    - id: 28
+      name: data_retention
+      label: Data Retention Period
+      hint: How long will data be kept
+      type: select_one
+      options:
+      - Duration of Study Only
+      - 5 Years After Study
+      - 10 Years After Study
+      - Indefinitely for Research
+      - Until Participant Requests Deletion
+      required: true
+    - id: 29
+      name: data_sharing
+      label: Data Sharing
+      hint: Can your data be shared
+      type: select_one
+      options:
+      - Yes - With Research Partners Only
+      - Yes - In Anonymized Form for Any Research
+      - No - Study Use Only
+      - Yes - With Specific Approval
+      required: true
+    - id: 30
+      name: future_research
+      label: Future Research Use
+      hint: Can your sample be used for future research
+      type: select_one
+      options:
+      - Yes - For Any Future Research
+      - Yes - For Related Research Only
+      - No - This Study Only
+      - Yes - With Additional Consent
+      required: true
+    - id: 31
+      name: genetic_testing
+      label: Genetic Testing
+      hint: Understand genetic testing implications
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: testing_scope
+      label: Scope of Genetic Testing
+      hint: What type of testing will be done
+      type: select_one
+      options:
+      - Specific Gene Analysis
+      - Genome-Wide Association Study
+      - Whole Genome Sequencing
+      - Whole Exome Sequencing
+      - Targeted Panel Testing
+      required: true
+    - id: 33
+      name: results_return
+      label: Return of Results
+      hint: Do you want to receive results
+      type: select_one
+      options:
+      - Yes - All Results
+      - Yes - Only Clinically Significant Results
+      - No - Do Not Want Results
+      - Unsure - Decide Later
+      required: true
+    - id: 34
+      name: incidental_findings
+      label: Incidental Findings
+      hint: What if unrelated findings are discovered
+      type: select_one
+      options:
+      - Yes - Inform Me of All Findings
+      - Yes - Only Serious Health Findings
+      - No - Do Not Inform Me
+      required: true
+    - id: 35
+      name: privacy_protections
+      label: Privacy Protections
+      hint: Understand privacy safeguards
+      type: select_one
+      options:
+      - I understand privacy protections in place
+      - I understand data will be coded
+      - I understand anonymization procedures
+      required: true
+    - id: 36
+      name: participant_rights
+      label: Participant Rights
+      hint: Understand your rights as participant
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: voluntary_participation
+      label: Voluntary Participation
+      hint: Is participation voluntary
+      type: select_one
+      options:
+      - Yes - Participation Is Voluntary
+      - Yes - Can Withdraw Anytime
+      - Yes - No Penalty for Withdrawal
+      required: true
+    - id: 38
+      name: withdrawal_rights
+      label: Withdrawal Rights
+      hint: Understand right to withdraw
+      type: select_one
+      options:
+      - I understand I can withdraw at any time
+      - I understand how to withdraw
+      required: true
+    - id: 39
+      name: compensation
+      label: Compensation
+      hint: Will you be compensated
+      type: select_one
+      options:
+      - Yes - Monetary Compensation
+      - Yes - Gift Card
+      - Yes - Reimbursement for Expenses
+      - No Compensation
+      required: true
+    - id: 40
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Amount or description
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: contact_information
+      label: Contact Information
+      hint: Who to contact for questions
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: researcher_contact
+      label: Researcher Contact
+      hint: Contact for study questions
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: irb_contact
+      label: IRB Contact
+      hint: Contact for rights questions
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: consent_confirmation
+      label: Consent Confirmation
+      hint: Confirm your consent
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: questions_answered
+      label: Questions Answered
+      hint: Have all your questions been answered
+      type: select_one
+      options:
+      - Yes - All Questions Answered
+      - Mostly - Few Remain
+      - No - Need More Information
+      required: true
+    - id: 46
+      name: remaining_questions
+      label: Remaining Questions
+      hint: List any unanswered questions
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: consent_decision
+      label: Consent Decision
+      hint: Do you consent to participate
+      type: select_one
+      options:
+      - Yes - I Consent to Participate
+      - No - I Do Not Consent
+      required: true
+    - id: 48
+      name: participant_signature
+      label: Participant Signature
+      hint: Sign to confirm consent
+      type: select_one
+      options:
+      - I provide electronic signature
+      - I agree to terms stated above
+      required: true
+    - id: 49
+      name: signature_date
+      label: Date of Consent
+      hint: Date you are signing
+      type: date
+      options: []
+      required: true
+    - id: 50
+      name: witness_name
+      label: Witness Name
+      hint: Research staff witness
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness confirmation
+      type: select_one
+      options:
+      - Witnessed
+      - Not Required
+      required: false

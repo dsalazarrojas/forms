@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Wi Fi Access Program Consent Form
+    pages:
+    - id: 1
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tenant_email
+      label: Tenant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: network_name
+      label: Network Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: router_password
+      label: Router Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: connection_date
+      label: Connection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: true

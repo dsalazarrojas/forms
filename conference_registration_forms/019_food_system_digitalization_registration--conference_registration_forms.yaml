@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food System Digitalization Registration
+    pages:
+    - id: 1
+      name: registration_program
+      label: Registration Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: registration_participant_interests
+      label: Participant Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: registration_participant_details
+      label: Participant Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: registration_participant_consent
+      label: Participant Consent
+      hint: null
+      type: number
+      options: []
+      required: false

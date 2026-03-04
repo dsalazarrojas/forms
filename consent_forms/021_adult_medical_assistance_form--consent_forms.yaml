@@ -1,0 +1,123 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Medical Assistance Form
+    pages:
+    - id: 1
+      name: section_id
+      label: -- Patient Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_release
+      label: -- Release of Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: information_to_be_released
+      label: Information to be Released
+      hint: Select all categories that apply
+      type: select_multiple
+      options:
+      - Clinical Notes
+      - Lab Results
+      - Imaging Reports
+      - Prescription History
+      - All Medical Records
+      required: true
+    - id: 6
+      name: recipient_organization_or_individual
+      label: Recipient Organization or Individual
+      hint: Who is authorized to receive this data?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_photo
+      label: -- Consent to Release Photograph --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photograph_release_consent
+      label: Photograph Release Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to the release of my clinical photographs
+      - I do not consent to the release of my photographs
+      required: true
+    - id: 9
+      name: purpose_of_photograph_release
+      label: Purpose of Photograph Release
+      hint: e.g. Teaching, Research, Consultation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: authorized_signature_name
+      label: Authorized Signature Name
+      hint: Type your name as a legal signature
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_authorization
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: witness_verification
+      label: Witness Verification
+      hint: Was this signed in the presence of staff?
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 14
+      name: medical_coordinator_name
+      label: Medical Coordinator Name
+      hint: Assigned staff member
+      type: text
+      options: []
+      required: false

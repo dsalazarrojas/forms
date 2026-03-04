@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: gmp_data_integrity_monitoring_checklist
+    pages:
+    - id: 1
+      name: facility_audit
+      label: Facility Audit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: facility_audit_questions
+      label: Facility Audit Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: audit_frequency
+      label: Audit Frequency
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: quality_team_notes
+      label: Quality Team Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manufacturing_team_notes
+      label: Manufacturing Team Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_due_date
+      label: Action Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: completed_actions
+      label: Completed Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: closed_actions
+      label: Closed Actions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

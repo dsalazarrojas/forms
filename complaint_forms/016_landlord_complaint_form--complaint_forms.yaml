@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: landlord_complaint_form
+    pages:
+    - id: 1
+      name: landlord_complaint
+      label: landlord_complaint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: complaint_date
+      label: complaint_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: description_of_complaint
+      label: description_of_complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tenant_id
+      label: tenant_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: landlord_address
+      label: landlord_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unit_number
+      label: unit_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_details
+      label: issue_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tenant_signature
+      label: tenant_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: landlord_signature
+      label: landlord_signature
+      hint: null
+      type: date
+      options: []
+      required: false

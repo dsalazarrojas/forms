@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Form
+    pages:
+    - id: 1
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: provider_contact
+      label: Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claim_description
+      label: Claim Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''label'': ''Denied'', ''value'': ''denied''}'
+      required: false
+    - id: 12
+      name: claim_total
+      label: Claim Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: claim_reimbursement
+      label: Reimbursement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: claim_deductible
+      label: Deductible
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: claim_out_of_pocket
+      label: Out of Pocket
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: claim_date_last_update
+      label: Date Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false

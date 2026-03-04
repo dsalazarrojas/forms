@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prototype Inspection Checklist
+    pages:
+    - id: 1
+      name: prototype_inspection
+      label: Check Prototype Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: prototype_description
+      label: Prototype Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_outcomes
+      label: Inspection Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: prototype_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - In-Progress
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: prototype_development_team
+      label: Development Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: qa_team
+      label: QA Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: manufacturing_team
+      label: Manufacturing Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: capture_date
+      label: Capture Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: captured_by
+      label: Captured By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 11
+      name: review_outcomes
+      label: Review Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: prototype_version
+      label: Prototype Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: iteration
+      label: Iteration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: inspection_outcomes
+      label: Inspection Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: captured_at
+      label: Captured At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false

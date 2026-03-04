@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: performance_review_period
+      label: Performance Review Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Director''}'
+      - '{''value'': ''Department Head''}'
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Travel''}'
+      - '{''value'': ''Meal''}'
+      - '{''value'': ''Hotel''}'
+      required: false
+    - id: 5
+      name: receipt_attachment
+      label: Receipt Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

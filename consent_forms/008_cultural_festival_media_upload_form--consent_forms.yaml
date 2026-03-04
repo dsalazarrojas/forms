@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Festival Media Upload Form
+    pages:
+    - id: 1
+      name: festival_name
+      label: Festival Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_media
+      label: Participant Media
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: participant_photo
+      label: Participant Photo
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: participant_video
+      label: Participant Video
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: participant_audio
+      label: Participant Audio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_audio
+      label: Participant Audio
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: participant_video
+      label: Participant Video
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: upload_files
+      label: Upload Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: festival_date
+      label: Festival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: festival_time
+      label: Festival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: festival_start_time
+      label: Festival Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: festival_finish_time
+      label: Festival Finish Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: festival_organizer
+      label: Festival Organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: festival_email
+      label: Festival Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: festival_website
+      label: Festival Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: festival_description
+      label: Festival Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: festival_location
+      label: Festival Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: festival_venue
+      label: Festival Venue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

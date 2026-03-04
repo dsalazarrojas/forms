@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Higher Ed Digital Strategy Network Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: university
+      label: University
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Example University''}'
+      - '{''name'': ''Another University''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: confirm_organization
+      label: Confirm Organization
+      hint: null
+      type: text
+      options: []
+      required: false

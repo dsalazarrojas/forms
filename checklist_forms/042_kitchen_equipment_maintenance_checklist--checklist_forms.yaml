@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: kitchen_equipment_maintenance_checklist
+    pages:
+    - id: 1
+      name: kitchen_equipment_maintenance_checklist_page1
+      label: kitchen_equipment_maintenance_checklist_page1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - Annual
+      - Bi-Annual
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 3
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Maintenance Required
+      required: false
+    - id: 5
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annual
+      required: false
+    - id: 6
+      name: maintenance_cost
+      label: maintenance_cost
+      hint: null
+      type: select_one
+      options:
+      - $0- $100
+      - $101-$1000
+      - $1001-$5000
+      - $5001-$10000
+      - $10001-$20000
+      - $20001-$50000
+      - $50001-$100000
+      required: false
+    - id: 7
+      name: maintenance_date
+      label: maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_notes
+      label: maintenance_notes
+      hint: null
+      type: note
+      options: []
+      required: false

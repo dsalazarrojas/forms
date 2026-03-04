@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicare Fitness Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: medicaid_plan_id
+      label: medicaid_plan_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_name
+      label: member_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: plan_administrators_name
+      label: plan_administrators_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_service_type
+      label: medical_service_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: receipt_upload
+      label: receipt_upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_document_upload
+      label: medical_document_upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - Member
+      - Plan Administrator
+      - Both
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: fax
+      label: fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: plan_administrators_email
+      label: plan_administrators_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: plan_administrators_phone
+      label: plan_administrators_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: plan_administrators_address
+      label: plan_administrators_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_address
+      label: submitter_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: plan_admin_name
+      label: plan_admin_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: plan_id
+      label: plan_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Plan Administrator
+      - Both
+      required: true

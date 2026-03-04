@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contingency Fee Agreement
+    pages:
+    - id: 1
+      name: agreement_intro_header
+      label: -- Agreement Overview --
+      hint: Definition of parties and primary objectives
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attorney_firm_name
+      label: Attorney or Law Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: case_reference_number
+      label: Case/Matter Reference Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: case_description
+      label: Description of Legal Matter
+      hint: Briefly describe the case (e.g., Personal Injury, Contract Dispute)
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: fee_structure_header
+      label: -- Fee Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contingency_percentage
+      label: Contingency Fee Percentage (percent)
+      hint: The percentage of the gross recovery to be paid to the attorney
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: settlement_before_trial
+      label: Fee Percentage if settled before trial
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: expense_responsibility
+      label: Responsibility for Legal Expenses
+      hint: How will court costs and filing fees be handled
+      type: select_one
+      options:
+      - Client pays expenses upfront
+      - Attorney advances expenses - Client reimburses from recovery
+      - Attorney pays all expenses (Inclusive in fee)
+      required: true
+    - id: 10
+      name: termination_terms_header
+      label: -- Termination and Settlement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: settlement_authorization
+      label: Right to Accept Settlement
+      hint: null
+      type: select_one
+      options:
+      - Client has final authority to settle
+      - Client grants attorney power of attorney to settle (not recommended)
+      required: true
+    - id: 12
+      name: termination_clause
+      label: I understand the terms of termination for this agreement
+      hint: Either party may terminate with proper notice
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 13
+      name: authorization_header
+      label: -- Authorization --
+      hint: Digital signing of the fee agreement
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: client_digital_signature
+      label: Client Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: attorney_digital_signature
+      label: Attorney Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

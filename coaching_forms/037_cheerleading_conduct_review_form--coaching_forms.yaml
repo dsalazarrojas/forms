@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheerleading Conduct Review Form
+    pages:
+    - id: 1
+      name: section_review_identification
+      label: -- Review Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name_reviewed
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_coach_name
+      label: Reviewing Coach / Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: conduct_review_date
+      label: Date of Conduct Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_behavioral_eval
+      label: -- Behavioral Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: attendance_punctuality_rating
+      label: Attendance and Punctuality
+      hint: Arriving on time and ready for practice
+      type: select_one
+      options:
+      - Exemplary
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 7
+      name: practice_effort_rating
+      label: Effort and Focus during Practice
+      hint: null
+      type: select_one
+      options:
+      - High Effort
+      - Moderate Effort
+      - Lacks Focus
+      required: true
+    - id: 8
+      name: teammate_attitude_rating
+      label: Attitude towards Teammates
+      hint: Respect, support, and collaboration
+      type: select_one
+      options:
+      - Very Positive
+      - Generally Positive
+      - Occasionally Negative
+      - Disruptive
+      required: true
+    - id: 9
+      name: safety_rule_compliance
+      label: Adherence to Safety and Stunting Rules
+      hint: null
+      type: select_one
+      options:
+      - Always Compliant
+      - Mostly Compliant
+      - Safety Violations Noted
+      required: true
+    - id: 10
+      name: professionalism_in_uniform
+      label: Professionalism and Dress Code
+      hint: Correct uniform and grooming at events
+      type: select_one
+      options:
+      - Perfect Compliance
+      - Minor Issues
+      - Frequent Violations
+      required: true
+    - id: 11
+      name: section_qualitative_review
+      label: -- Qualitative Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: performance_highlights_text
+      label: Performance and Behavioral Highlights
+      hint: What is the athlete doing exceptionally well
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: behavioral_improvement_areas
+      label: Areas for Behavioral Improvement
+      hint: Specific goals for conduct changes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_standing_recommendation
+      label: -- Standing Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_standing_status
+      label: Current Team Standing
+      hint: Based on this review
+      type: select_one
+      options:
+      - Good Standing - Eligible for All Events
+      - Probationary Status - Needs Review
+      - Suspended from Next Event
+      - Recommended for Dismissal
+      required: true
+    - id: 16
+      name: required_followup_meeting
+      label: Follow-up meeting required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: coach_digital_sig_ack
+      label: Coach Digital Signature
+      hint: null
+      type: select_one
+      options:
+      - Review Completed and Documented
+      - Other
+      required: true

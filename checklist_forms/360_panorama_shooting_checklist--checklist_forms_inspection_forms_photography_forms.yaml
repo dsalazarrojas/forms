@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Panorama Shooting Checklist
+    pages:
+    - id: 1
+      name: section_header_project
+      label: '--- Project & Contact ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project or assignment name
+      hint: Enter the job or shoot title used for deliverables
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photographer_name
+      label: Photographer / primary contact name
+      hint: Full name of the on-site photographer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: Best address for delivery and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Mobile preferred for on-site coordination
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: shoot_date
+      label: Shoot date
+      hint: Scheduled date of the panorama capture
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: shoot_start_time
+      label: Shoot start time
+      hint: Local time when capture begins
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: location_description
+      label: Location / venue description
+      hint: Address, room name, or landmark (include floor/location)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: gps_latitude
+      label: GPS latitude
+      hint: Decimal degrees (e.g., 37.7749) — optional but helpful
+      type: decimal
+      options: []
+      required: false
+    - id: 10
+      name: gps_longitude
+      label: GPS longitude
+      hint: Decimal degrees (e.g., -122.4194) — optional but helpful
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: section_header_equipment
+      label: '--- Equipment & Settings ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: camera_model
+      label: Camera model
+      hint: Include body and firmware version if relevant
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lens_used
+      label: Lens used / focal length
+      hint: e.g., 8mm fisheye, 24mm rectilinear
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tripod_used
+      label: Tripod / head used and stability confirmed
+      hint: Select if stable tripod and pano head are in use
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 15
+      name: panorama_mode
+      label: Panorama capture mode
+      hint: Choose the capture projection or workflow used
+      type: select_one
+      options:
+      - Spherical (360)
+      - Equirectangular
+      - Cubemap
+      - Cylindrical
+      required: true
+    - id: 16
+      name: bracketing_and_hdr
+      label: Bracketing / HDR approach
+      hint: Leave blank if no bracketing used
+      type: select_one
+      options:
+      - None
+      - Exposure bracketing (EV)
+      - Focus bracketing
+      - Exposure + focus
+      required: false
+    - id: 17
+      name: exposure_settings
+      label: Exposure settings
+      hint: Aperture, shutter, ISO, and bracket EV (e.g., f/8, 1/125s, ISO100, ±2EV)
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: number_of_shots
+      label: Total number of frames captured for panorama
+      hint: Count of exposures across the full nodal sweep
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: file_format
+      label: Primary file format captured
+      hint: 'Best practice: capture RAW when possible'
+      type: select_one
+      options:
+      - RAW
+      - JPEG
+      - RAW + JPEG
+      required: true
+    - id: 20
+      name: backup_method
+      label: On-site backup method
+      hint: How images are protected immediately after capture
+      type: select_one
+      options:
+      - Redundant SD cards
+      - On-site backup drive
+      - Cloud upload (cell/wifi)
+      - No backup
+      required: true
+    - id: 21
+      name: overlap_percentage
+      label: Recommended overlap percentage
+      hint: Typical overlap 20-50% depending on lens and scene
+      type: integer
+      options: []
+      required: true
+    - id: 22
+      name: environmental_conditions
+      label: Weather / environmental conditions
+      hint: Note wind, precipitation, or lighting challenges
+      type: select_one
+      options:
+      - Clear / calm
+      - Partly cloudy
+      - Overcast
+      - Rain / wet
+      - Windy
+      - Night / low light
+      required: false
+    - id: 23
+      name: site_permissions_and_power
+      label: Site permissions and power availability
+      hint: Select all that apply for logistics
+      type: select_multiple
+      options:
+      - Location permit obtained
+      - Client on-site / authorized
+      - Power outlet available
+      - Restricted public access
+      - No special permissions required
+      required: false
+    - id: 24
+      name: pre_shoot_checks_completed
+      label: Pre-shoot checklist completed
+      hint: Confirm essential on-site checks (level, pano head, focus, white balance)
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 25
+      name: post_processing_notes
+      label: Post-processing instructions and notes
+      hint: Open field for stitching notes, color-matching, delivery format, or special
+        requests
+      type: text
+      options: []
+      required: false

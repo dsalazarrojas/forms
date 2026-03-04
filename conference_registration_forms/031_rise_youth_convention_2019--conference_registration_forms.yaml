@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Rise Youth Convention 2019
+    pages:
+    - id: 1
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full Conference'', ''value'': ''full_conference''}'
+      - '{''label'': ''Saturday only'', ''value'': ''saturday_only''}'
+      required: true
+    - id: 2
+      name: registration_price_id
+      label: Registration Price
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 30, ''value'': 30}'
+      - '{''label'': 60, ''value'': 60}'
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Small'', ''value'': ''small''}'
+      - '{''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''label'': ''Large'', ''value'': ''large''}'
+      required: true
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: church_leader_email
+      label: Church Leader Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: tshirt_order
+      label: T-Shirt Order
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 8
+      name: parental_consent
+      label: Parental Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes, I grant permission'', ''value'': ''yes_grant''}'
+      - '{''label'': ''No, I do not grant permission'', ''value'': ''no_deny''}'
+      required: true

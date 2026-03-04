@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lighting Control Preferences
+    pages:
+    - id: 1
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lighting_control_needs
+      label: Lighting Control Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Needs Assessment
+      - Commissioning
+      - Training
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: automation_preferences
+      label: Automation Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: automation_level
+      label: Automation Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: automation_type
+      label: Automation Type
+      hint: null
+      type: select_one
+      options:
+      - Smart
+      - Wireless
+      - Wired
+      required: false
+    - id: 8
+      name: lighting_control_system
+      label: Lighting Control System
+      hint: null
+      type: select_one
+      options:
+      - Philips
+      - Osram
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: lighting_control_system_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_equipment
+      label: Facility Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Lighting Panels
+      - Dimmers
+      - Ballasts
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: facility_equipment_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: control_system_integration
+      label: Control System Integration
+      hint: null
+      type: select_multiple
+      options:
+      - Lighting Control System
+      - Automation System
+      - Other (please specify)
+      required: false
+    - id: 13
+      name: control_system_integration_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: automation_scheduling
+      label: Automation Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - Realtime
+      - Timed
+      - Scheduled
+      - Other (please specify)
+      required: false
+    - id: 15
+      name: automation_scheduling_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

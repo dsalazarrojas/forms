@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: tanker_inspection
+      label: Tanker Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_inspection
+      label: Driver Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: tanker_equipment
+      label: Tanker Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Tanker
+      - Trailer
+      - Pump
+      - Valves
+      - Hoses
+      required: false
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - Fire Suppression System
+      - First Aid Kit
+      - Reflective Safety Vest
+      - Safety Harness
+      - Emergency Kit
+      required: false
+    - id: 5
+      name: fuel_tank
+      label: Fuel Tank
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: storage_tank
+      label: Storage Tank
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: safety_regulations
+      label: Safety Regulations
+      hint: null
+      type: select_one
+      options:
+      - Hazardous Materials
+      - Hazardous Waste
+      - Fuel Tank
+      - Equipment
+      - Fire Suppression System
+      required: false
+    - id: 8
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: select_multiple
+      options:
+      - Pass
+      - Fail
+      - N/A
+      required: false
+    - id: 9
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Corrective Action Required
+      - No Action Required
+      - Deferred Action Required
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Approved By
+      - Disapproved By
+      - Comments
+      required: false
+    - id: 11
+      name: tanker_operator
+      label: Tanker Operator
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Driver
+      - Mechanic
+      - Technician
+      required: false
+    - id: 12
+      name: driver_operator
+      label: Driver Operator
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Driver
+      - Mechanic
+      - Technician
+      required: false
+    - id: 13
+      name: tanker_inspection_frequency
+      label: Tanker Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 14
+      name: safety_equipment_frequency
+      label: Safety Equipment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 15
+      name: fuel_tank_capacity
+      label: Fuel Tank Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: storage_tank_capacity
+      label: Storage Tank Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: hazardous_waste
+      label: Hazardous Waste
+      hint: null
+      type: select_one
+      options:
+      - Hazardous Materials
+      - Hazardous Waste
+      - Not Applicable
+      required: false
+    - id: 18
+      name: fire_suppression_system
+      label: Fire Suppression System
+      hint: null
+      type: select_one
+      options:
+      - Fire Suppression System
+      - Not Applicable
+      required: false
+    - id: 19
+      name: first_aid_kit
+      label: First Aid Kit
+      hint: null
+      type: select_one
+      options:
+      - First Aid Kit
+      - Not Applicable
+      required: false
+    - id: 20
+      name: safety_harness
+      label: Safety Harness
+      hint: null
+      type: select_one
+      options:
+      - Safety Harness
+      - Not Applicable
+      required: false
+    - id: 21
+      name: emergency_kit
+      label: Emergency Kit
+      hint: null
+      type: select_one
+      options:
+      - Emergency Kit
+      - Not Applicable
+      required: false
+    - id: 22
+      name: reflective_vest
+      label: Reflective Vest
+      hint: null
+      type: select_one
+      options:
+      - Reflective Vest
+      - Not Applicable
+      required: false
+    - id: 23
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Not Applicable
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Aid Declaration Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: postcode
+      label: Postcode
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: charity_name
+      label: Charity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: gift_aid_number
+      label: Gift Aid Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: charity_number
+      label: Charity Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: declaration_date_start_date
+      label: Start Date (DD)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: declaration_date_start_month
+      label: Start Month
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 16
+      name: declaration_date_start_year
+      label: Start Year
+      hint: null
+      type: select_multiple
+      options:
+      - '1990'
+      - '1991'
+      - '1992'
+      - '1993'
+      - '1994'
+      - '1995'
+      - '1996'
+      - '1997'
+      - '1998'
+      - '1999'
+      - '2000'
+      - '2001'
+      - '2002'
+      - '2003'
+      - '2004'
+      - '2005'
+      - '2006'
+      - '2007'
+      - '2008'
+      - '2009'
+      - '2010'
+      - '2011'
+      - '2012'
+      - '2013'
+      - '2014'
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      required: true
+    - id: 17
+      name: prophets_pledge
+      label: Pledges
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: giftaid_declaration_date
+      label: Gift Aid Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: donor_number
+      label: Donor Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: giftaid_number
+      label: Gift Aid Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: declaration_date_end_date
+      label: End Date (DD)
+      hint: null
+      type: date
+      options: []
+      required: true

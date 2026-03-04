@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_session_contract_form
+    pages:
+    - id: 1
+      name: user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date Of Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time
+      label: Time Of Session
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assistant
+      label: Assistant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: terms
+      label: Terms And Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contract_type
+      label: Type Of Contract
+      hint: null
+      type: select_one
+      options:
+      - contract_type_option1
+      - contract_type_option2
+      - contract_type_option3
+      required: true
+    - id: 11
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: contract_price
+      label: Contract Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: contract_payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contract_terms_agreed
+      label: I Have Read And Agreed To The Terms
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contract_signed
+      label: Contract Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: contract_signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contract_signed_on
+      label: Signed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: contract_signed_at
+      label: Signed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: contract_signed_ip_address
+      label: Signed Via IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contract_ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contract_version
+      label: Contract Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_image
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

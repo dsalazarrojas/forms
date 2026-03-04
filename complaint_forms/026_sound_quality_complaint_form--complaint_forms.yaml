@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sound Quality Complaint Form
+    pages:
+    - id: 1
+      name: sound_quality_complaint_form
+      label: Sound Quality Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sound_problem_type
+      label: Sound Problem Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sound_problem_details
+      label: Sound Problem Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_occurred
+      label: Date Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_occurred
+      label: Time Occurred
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false

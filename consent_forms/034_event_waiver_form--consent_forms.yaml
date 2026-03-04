@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Waiver Form
+    pages:
+    - id: 1
+      name: event_waiver_form_part_1
+      label: Event Waiver Form Part 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_part_1
+      label: Participant
+      hint: null
+      type: select_one
+      options:
+      - Participant 1
+      - Participant 2
+      required: false
+    - id: 3
+      name: event_waiver_form_part_2
+      label: Event Waiver Form Part 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_part_2
+      label: Participant
+      hint: null
+      type: select_multiple
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 5
+      name: risk_description_part_1
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_description_part_2
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature_part_1
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Participant 1
+      - Participant 2
+      required: false
+    - id: 8
+      name: signature_part_2
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: signature_part_3
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

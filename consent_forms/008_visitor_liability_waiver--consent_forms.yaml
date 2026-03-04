@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Liability Waiver
+    pages:
+    - id: 1
+      name: visitor_liability_waiver_form
+      label: Visitor Liability Waiver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visitor_name
+      label: visitor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: visitor_contact_information
+      label: visitor_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: visitor_signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Other
+      required: true

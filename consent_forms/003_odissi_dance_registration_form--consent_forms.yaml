@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Odissi Dance Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: example@jotform.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Parent/Guardian
+      - Other
+      required: true
+    - id: 9
+      name: emergency_contact_relationship_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: classes
+      label: Classes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: classes_other
+      label: Other Classes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: classes_workshops
+      label: Workshops
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: classes_workshops_other
+      label: Other Workshops
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ongoing_programs
+      label: Ongoing Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: ongoing_programs_other
+      label: Other Ongoing Programs
+      hint: null
+      type: text
+      options: []
+      required: false

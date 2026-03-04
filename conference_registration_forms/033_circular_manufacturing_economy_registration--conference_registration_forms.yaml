@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circular Manufacturing Economy Registration
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_organization
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: organization_name
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Consulting
+      - Government
+      - Non-profit
+      - Technology
+      - Education
+      - Retail
+      - Logistics
+      - Finance
+      - Other
+      required: true
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (250-1000)
+      - Enterprise (1000+)
+      required: false
+    - id: 11
+      name: section_header_manufacturing
+      label: -- Manufacturing Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: manufacturing_sector
+      label: Primary Manufacturing Sector
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Textiles
+      - Packaging
+      - Metal products
+      - Chemicals
+      - Construction materials
+      - Food and beverage
+      - Automotive
+      - Furniture
+      - Other
+      required: true
+    - id: 13
+      name: production_scale
+      label: Annual Production Volume
+      hint: null
+      type: select_one
+      options:
+      - Artisanal or small batch
+      - Small scale
+      - Medium scale
+      - Large scale
+      - Industrial scale
+      required: false
+    - id: 14
+      name: section_header_interests
+      label: -- Conference Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: interest_topics
+      label: Topics of Interest (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Circular design strategies
+      - Supply chain optimization
+      - Waste reduction and reuse
+      - Material recovery
+      - Product lifecycle management
+      - Business model innovation
+      - Policy and regulations
+      - Technology solutions
+      - Case studies and best practices
+      required: true
+    - id: 16
+      name: section_header_experience
+      label: -- Current Experience with Circular Economy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: circular_experience_level
+      label: Experience with Circular Economy Practices
+      hint: null
+      type: select_one
+      options:
+      - Just beginning
+      - Early stage implementation
+      - Intermediate level
+      - Advanced level
+      - Industry leader
+      required: true
+    - id: 18
+      name: current_practices
+      label: Current Circular Economy Practices (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Product design for durability
+      - Material recovery programs
+      - Supply chain reduction
+      - Reuse and refurbishment
+      - Energy efficiency
+      - Water conservation
+      - Waste elimination
+      - None yet
+      required: false
+    - id: 19
+      name: section_header_goals
+      label: -- Goals and Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: conference_goals
+      label: What Do You Hope to Gain from This Conference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: networking_interest
+      label: Interested in Networking with Other Participants
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not very interested
+      required: false
+    - id: 22
+      name: collaboration_opportunities
+      label: Looking for Collaboration or Partnership Opportunities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 23
+      name: collaboration_areas
+      label: Areas for Potential Collaboration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_sessions
+      label: -- Workshop or Session Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: preferred_sessions
+      label: Preferred Workshop Sessions (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Design thinking workshop
+      - Supply chain deep dive
+      - Technology showcase
+      - Regulatory compliance
+      - Business case analysis
+      - Sustainability metrics
+      - Networking sessions
+      required: false
+    - id: 26
+      name: dietary_restrictions
+      label: Dietary Restrictions for Meals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: attendance_type
+      label: Attendance Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: true

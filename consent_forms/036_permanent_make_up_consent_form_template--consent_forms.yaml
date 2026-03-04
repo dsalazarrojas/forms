@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permanent Make Up Consent Form Template
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that my signature indicates that I have read and will comply
+        with all of the following
+      - I acknowledge that all treatments and products used in my visit are not tested
+        on animals.
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelter Volunteer Health Risk Consent Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: health_risks
+      label: Health Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_info
+      label: Volunteer Information
+      hint: null
+      type: note
+      options: []
+      required: false

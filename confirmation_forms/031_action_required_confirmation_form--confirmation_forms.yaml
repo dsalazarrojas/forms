@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Action Required Confirmation Form
+    pages:
+    - id: 1
+      name: confirmee_name
+      label: Name of Person Confirming
+      hint: Full name of the person acknowledging the required action
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: confirmee_position
+      label: Position or Title
+      hint: Job title or position of the person confirming
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: confirmee_department
+      label: Department
+      hint: Department where the person works
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: action_description
+      label: Description of Required Action
+      hint: Detailed description of the action that is required
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instruction_source
+      label: Source of Instruction
+      hint: Who gave the instruction or requirement
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: due_date
+      label: Due Date for Action
+      hint: When does the required action need to be completed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this required action
+      type: select_one
+      options: ["Low", "Medium", "High", "Critical"]
+      required: true
+    - id: 8
+      name: confirmation_acknowledgment
+      label: Confirmation of Understanding
+      hint: Do you understand the required action and its importance
+      type: select_one
+      options: ["Yes, I understand completely", "Yes, I understand mostly", "No, I need clarification"]
+      required: true
+    - id: 9
+      name: commitment_to_completion
+      label: Commitment to Completion
+      hint: Do you commit to completing the required action by the due date
+      type: select_one
+      options: ["Yes, I commit to completion", "Yes, with conditions", "No, I cannot commit"]
+      required: true
+    - id: 10
+      name: resource_needs
+      label: Resources Needed
+      hint: What resources do you need to complete this action
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: potential_obstacles
+      label: Potential Obstacles
+      hint: Are there any obstacles that might prevent completion
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirmation_date
+      label: Confirmation Date
+      hint: Date when this confirmation is made
+      type: date
+      options: []
+      required: true

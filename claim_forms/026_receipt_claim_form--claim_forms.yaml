@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Receipt Claim Form
+    pages:
+    - id: 1
+      name: receipt_date
+      label: Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: receipt_time
+      label: Receipt Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Business Meal
+      - Business Trip
+      - Business Meeting
+      - Other
+      required: false
+    - id: 5
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false

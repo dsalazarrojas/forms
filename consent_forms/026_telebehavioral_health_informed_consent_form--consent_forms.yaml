@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telebehavioral Health Informed Consent Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_to_treatment
+      label: Consent to treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent_to_data_collection
+      label: Consent to data collection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider_info
+      label: Medical Provider Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_provider_npi
+      label: Medical Provider NPI
+      hint: null
+      type: text
+      options: []
+      required: false

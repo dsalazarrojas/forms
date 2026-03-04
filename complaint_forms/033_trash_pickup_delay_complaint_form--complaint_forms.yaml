@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trash Pickup Delay Complaint Form
+    pages:
+    - id: 1
+      name: trash_pickup_delay_form
+      label: Submit Your Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_description
+      label: Describe Your Situation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 4
+      name: trash_pickup_delay
+      label: Delay Duration
+      hint: How long has the trash not been collected?
+      type: select_multiple
+      options:
+      - 1-2 days
+      - 3-4 days
+      - 5-6 days
+      - More than 6 days
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

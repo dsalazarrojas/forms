@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: symposium_expression_of_interest
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: topic_of_interest
+      label: Topic Of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: conference_interest
+      label: Conference Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Conference A
+      - Conference B
+      - Conference C
+      required: false
+    - id: 5
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - Participant
+      - Delegate
+      - Sponsor
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: participant_details_1
+      label: Participant Details 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_details_2
+      label: Participant Details 2
+      hint: null
+      type: text
+      options: []
+      required: false

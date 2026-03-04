@@ -1,0 +1,386 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Development Assessment Form
+    pages:
+    - id: 1
+      name: personal_development
+      label: Personal Development
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''1''}'
+      - '{''label'': ''Option 2'', ''value'': ''2''}'
+      - '{''label'': ''Option 3'', ''value'': ''3''}'
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: skills_assessment
+      label: Skills Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''1''}'
+      - '{''label'': ''Option 2'', ''value'': ''2''}'
+      - '{''label'': ''Option 3'', ''value'': ''3''}'
+      required: false
+    - id: 4
+      name: personal_growth
+      label: Personal Growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: development_goals
+      label: Development Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: growth_level
+      label: Growth Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assessment_comments
+      label: Assessment Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coaching_plan
+      label: Coaching Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''1''}'
+      - '{''label'': ''Option 2'', ''value'': ''2''}'
+      - '{''label'': ''Option 3'', ''value'': ''3''}'
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_follow_up_time
+      label: Next Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: next_evaluation
+      label: Next Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: next_evaluation_time
+      label: Next Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: next_evaluation_notes
+      label: Next Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: final_evaluation
+      label: Final Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: final_evaluation_comments
+      label: Final Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: completed_form
+      label: Completed Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: completed_form_date
+      label: Completed Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: completed_form_time
+      label: Completed Form Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: completed_form_notes
+      label: Completed Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: assigned_to_date
+      label: Assigned to Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: assigned_to_time
+      label: Assigned to Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 30
+      name: assigned_to_notes
+      label: Assigned to Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 33
+      name: due_notes
+      label: Due Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 36
+      name: submitted_notes
+      label: Submitted Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: completed_by
+      label: Completed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: completed_by_date
+      label: Completed by Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 39
+      name: completed_by_time
+      label: Completed by Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 40
+      name: completed_by_notes
+      label: Completed by Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 42
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 43
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: created_by_date
+      label: Created by Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 45
+      name: created_by_time
+      label: Created by Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 46
+      name: created_by_notes
+      label: Created by Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: modified_date
+      label: Modified Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 48
+      name: modified_time
+      label: Modified Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 49
+      name: modified_by
+      label: Modified by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: modified_by_date
+      label: Modified by Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 51
+      name: modified_by_time
+      label: Modified by Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 52
+      name: modified_by_notes
+      label: Modified by Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elf On The Shelf Registration
+    pages:
+    - id: 1
+      name: elf_on_the_shelf_registration
+      label: Holiday Signups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: elf_details
+      label: Elf Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: elf_schedule
+      label: Elf Schedule
+      hint: null
+      type: text
+      options: []
+      required: false

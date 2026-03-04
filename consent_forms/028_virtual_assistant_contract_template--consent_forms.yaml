@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant Contract Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Bi-weekly
+      - Bi-Weekly
+      - Daily
+      required: true
+    - id: 12
+      name: assistant_hours
+      label: Assistant Hours
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 13
+      name: assistant_language
+      label: Assistant Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Italian
+      - Portuguese
+      - Other
+      required: true
+    - id: 14
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assistant_notes
+      label: Assistant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assistant_availability
+      label: Assistant Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: assistant_availability_notes
+      label: Assistant Availability Notes
+      hint: null
+      type: note
+      options: []
+      required: false

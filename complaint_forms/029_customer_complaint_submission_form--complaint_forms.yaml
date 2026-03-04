@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Complaint Submission Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: Please describe the issue in detail.
+      type: select_one
+      options:
+      - '{''option1'': ''Problem with order delivery''}'
+      - '{''option2'': ''Problem with order quality''}'
+      - '{''option3'': ''Other''}'
+      required: true
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Call''}'
+      - '{''option2'': ''Email''}'
+      - '{''option3'': ''SMS''}'
+      required: true
+    - id: 7
+      name: customer_complaint_message
+      label: Message to Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_response
+      label: Response
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voter Registration Portal Access Form
+    pages:
+    - id: 1
+      name: voter_registration_portal_access_form
+      label: voter_registration_portal_access_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: voter_registration_category
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '40064'
+      - '40065'
+      - '40066'
+      required: false
+    - id: 3
+      name: voter_registration_portal_access_form_category
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '40065'
+      - '40068'
+      - '40067'
+      required: false
+    - id: 4
+      name: voter_registration_portal_access_form_description
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: voter_registration_portal_access_form_category
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '40064'
+      - '40066'
+      required: false
+    - id: 6
+      name: voter_registration_portal_access_form_description
+      label: text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: voter_registration_portal_access_form_output_file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: provider_name
+      label: Healthcare Provider or Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: physician_name
+      label: Administering Physician or Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_info_section
+      label: -- Vaccine Information and Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: understand_vaccine_info
+      label: I have received and understood the vaccine information sheet
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - I have questions
+      required: true
+    - id: 8
+      name: understand_benefits
+      label: I understand the benefits of COVID-19 vaccination
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: understand_risks
+      label: I understand the risks and potential side effects
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: alternatives_section
+      label: -- Alternatives and Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: understand_alternatives
+      label: I understand alternative options and consequences of not vaccinating
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 12
+      name: questions_answered
+      label: All my questions have been answered to my satisfaction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - I have additional questions
+      required: true
+    - id: 13
+      name: medical_history_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: chronic_conditions
+      label: I have disclosed all chronic health conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 15
+      name: medications_disclosed
+      label: I have disclosed all medications I am taking
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: allergies_disclosed
+      label: I have disclosed all known allergies
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: pregnancy_status
+      label: I have accurately reported pregnancy status
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Not applicable
+      required: true
+    - id: 18
+      name: consent_section
+      label: -- Consent Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: voluntary_consent
+      label: I voluntarily consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 20
+      name: acknowledge_risks
+      label: I acknowledge I have been informed of potential risks
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 21
+      name: right_to_refuse
+      label: I understand I can refuse or withdraw consent at any time
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 22
+      name: authorize_vaccination
+      label: I authorize the healthcare provider to administer the vaccine
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 23
+      name: release_section
+      label: -- Release and Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: release_liability
+      label: I release the provider and facility from liability related to vaccination
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_consent
+      label: Digital Signature or Consent
+      hint: By submitting, I consent to the vaccine
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

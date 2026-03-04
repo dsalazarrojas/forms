@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: disaster_management_checklist_form
+    pages:
+    - id: 1
+      name: check_disaster_plan
+      label: Check disaster plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: check_equipment
+      label: Check equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: check_supplies
+      label: Check supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: check_water_source
+      label: Check water source
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: check_power_source
+      label: Check power source
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: check_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: check_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: check_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: check_address
+      label: Contact address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: check_vehicles
+      label: Check vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: check_tools
+      label: Check tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: check_medical
+      label: Check medical
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

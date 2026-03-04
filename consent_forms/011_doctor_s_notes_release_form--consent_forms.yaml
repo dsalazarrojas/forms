@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctor's Notes Release Form
+    pages:
+    - id: 1
+      name: patient_authorization
+      label: patient_authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: medical_records_release
+      label: medical_records_release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorized_provider
+      label: authorized_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medical_group
+      label: medical_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorized_provider_id
+      label: authorized_provider_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: doctor_signature
+      label: doctor_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_facility
+      label: medical_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: release_by
+      label: release_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: authorized_by
+      label: authorized_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: medical_staff
+      label: medical_staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: release_to
+      label: release_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_license_number
+      label: medical_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_license_state
+      label: medical_license_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_license_type
+      label: medical_license_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_license_expiration
+      label: medical_license_expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: medical_license_issue
+      label: medical_license_issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: medical_license_status
+      label: medical_license_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorized_by_signature
+      label: authorized_by_signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biometric Enrollment Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter legal given and family names
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: For notifications and enrollment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_or_affiliate_id
+      label: Organization identifier or employee id
+      hint: Provide company id or affiliation code when applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: biometric_type
+      label: Biometric data type
+      hint: Choose the biometric modality to be collected
+      type: select_one
+      options:
+      - Fingerprint
+      - Facial recognition
+      - Iris scan
+      - Voiceprint
+      - Palm vein
+      required: true
+    - id: 8
+      name: device_location
+      label: Collection location
+      hint: Where the biometric capture will take place
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: data_retention_period
+      label: Data retention period
+      hint: Specify how long biometric data will be retained
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 3 years
+      - Indefinite
+      required: true
+    - id: 10
+      name: consent_to_collect
+      label: Consent to collect biometric data
+      hint: Consent must be given before enrollment proceeds
+      type: select_one
+      options:
+      - I consent to collection and use
+      - I do not consent
+      required: true
+    - id: 11
+      name: purpose_of_collection
+      label: Purpose of collection
+      hint: Briefly describe the purpose for which data will be used
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: privacy_and_signature_acknowledgment
+      label: -- Privacy and Acknowledgment --
+      hint: By signing you confirm the accuracy of provided information
+      type: note
+      options: []
+      required: false

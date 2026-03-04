@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Coaching Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high'', ''label'': ''High''}'
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: medication_allergies
+      label: Medications and Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_phone_alternate
+      label: Alternate Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Biometric Data Consent Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: program_name
+      label: Team or Athletic Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: biometric_data_header
+      label: -- Biometric Data Collection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: data_types
+      label: Types of Data to be Collected
+      hint: Select all categories you are consenting to
+      type: select_multiple
+      options:
+      - Heart Rate and HRV
+      - Sleep Patterns and Recovery
+      - GPS and Movement Tracking
+      - Body Composition (BMI, Body Fat)
+      - Blood Markers and Nutrition
+      - Biomechanical Mechanics
+      required: true
+    - id: 7
+      name: collection_purpose
+      label: Purpose of Data Collection
+      hint: Data is used for performance optimization, injury prevention, and health
+        monitoring.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: collection_consent
+      label: I consent to the collection of the selected biometric data
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: storage_consent
+      label: I consent to the secure storage of my biometric data
+      hint: Data is stored on encrypted servers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: coaching_access
+      label: I consent to my performance data being shared with my coaches
+      hint: Coaches use this to adjust training loads
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: medical_access
+      label: I consent to my health data being shared with team medical staff
+      hint: For injury prevention and emergency care
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: research_consent
+      label: I consent to my anonymized data being used for internal research
+      hint: No personally identifying information will be included
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: retention_acknowledgement
+      label: I acknowledge that data will be retained for the duration of my membership
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: privacy_policy
+      label: I have read and agree to the Biometric Data Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 15
+      name: signature_athlete
+      label: Electronic Signature of Athlete
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_guardian
+      label: Electronic Signature of Parent or Guardian
+      hint: Required if athlete is under 18
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_signed
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

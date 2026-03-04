@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Accessories Event Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_email
+      label: attendee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: segment_interests
+      label: segment interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sign_up
+      label: sign up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: attendee_name_2
+      label: attendee name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_number
+      label: attendee number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false

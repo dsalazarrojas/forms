@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeless Outreach Data Protection Consent Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: User Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_contact_details
+      label: Preferred Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: data_use
+      label: Data Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

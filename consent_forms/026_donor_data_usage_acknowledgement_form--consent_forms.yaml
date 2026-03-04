@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Data Usage Acknowledgement Form
+    pages:
+    - id: 1
+      name: donor_data_usage_1
+      label: Donor Data Usage Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_consent_2
+      label: I consent to the usage of my data
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': True}'
+      - '{''id'': 1, ''label'': False}'
+      required: true
+    - id: 3
+      name: contact_3
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address_4
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_5
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_data_usage_6
+      label: Data Usage Explanation
+      hint: null
+      type: note
+      options: []
+      required: false

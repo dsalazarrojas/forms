@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psa Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parents Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: assessment_level
+      label: Current Assessment Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: media_declaration
+      label: Media Declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: parent_contact_info
+      label: Parent Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_parents
+      label: Additional Parents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: additional_contact_info
+      label: Additional Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_parent_media_declaration
+      label: Additional Parent Media Declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_terms_and_conditions
+      label: Additional Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: additional_submit
+      label: Additional Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

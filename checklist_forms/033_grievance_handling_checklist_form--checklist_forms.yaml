@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: grievance_handling_checklist_form
+    pages:
+    - id: 1
+      name: grievance_type
+      label: grievance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Grievance Type'', ''label'': ''grievance_type''}'
+      - '{''value'': ''grievance_description'', ''label'': ''grievance_description''}'
+      required: false
+    - id: 2
+      name: reporting_unit
+      label: reporting_unit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: grievance_date_reported
+      label: grievance_date_reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: grievance_status
+      label: grievance_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''new'', ''label'': ''new''}'
+      - '{''value'': ''ongoing'', ''label'': ''ongoing''}'
+      - '{''value'': ''closed'', ''label'': ''closed''}'
+      required: false
+    - id: 5
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: grievance_category
+      label: grievance_category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Category 1'', ''label'': ''Category 1''}'
+      - '{''value'': ''Category 2'', ''label'': ''Category 2''}'
+      - '{''value'': ''Category 3'', ''label'': ''Category 3''}'
+      required: false
+    - id: 7
+      name: grievance_description
+      label: grievance_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: grievance_outcome
+      label: grievance_outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''resolved'', ''label'': ''resolved''}'
+      - '{''value'': ''unresolved'', ''label'': ''unresolved''}'
+      - '{''value'': ''pending'', ''label'': ''pending''}'
+      required: false
+    - id: 9
+      name: grievance_satisfied
+      label: grievance_satisfied
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 10
+      name: grievance_satisfied_reason
+      label: grievance_satisfied_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: grievance_follow_up
+      label: grievance_follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: grievance_next_steps
+      label: grievance_next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: grievance_reviewed_by
+      label: grievance_reviewed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: grievance_reviewed_by_date
+      label: grievance_reviewed_by_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: grievance_completed
+      label: grievance_completed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false

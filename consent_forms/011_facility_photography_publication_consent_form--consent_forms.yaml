@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Photography Publication Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Facility Photography Publication Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: photo_taken_by
+      label: photo_taken_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: photographer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_date
+      label: photo_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: photo_location
+      label: photo_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_purpose
+      label: photo_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_release
+      label: photo_release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: photo_sharing
+      label: photo_sharing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: facility_sharing
+      label: facility_sharing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

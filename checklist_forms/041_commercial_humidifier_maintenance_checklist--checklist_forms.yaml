@@ -1,0 +1,331 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Humidifier Maintenance Checklist
+    pages:
+      - id: 1
+        name: technician_name
+        label: Technician Name
+        hint: Name of service technician
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: service_date
+        label: Service Date
+        hint: Date of maintenance
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: facility_name
+        label: Facility Name
+        hint: Building or facility name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: facility_address
+        label: Facility Address
+        hint: Complete address
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: humidifier_location
+        label: Humidifier Location
+        hint: Specific location in facility
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: humidifier_model
+        label: Humidifier Model
+        hint: Model number
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: humidifier_serial
+        label: Humidifier Serial Number
+        hint: Serial number
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: section_header_visual_inspection
+        label: -- Visual Inspection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: exterior_condition
+        label: Exterior Condition
+        hint: Rate exterior condition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: leaks_detected
+        label: Leaks Detected
+        hint: Any water leaks
+        type: select_one
+        options:
+          - None
+          - Minor
+          - Moderate
+          - Severe
+        required: true
+      - id: 11
+        name: corrosion_check
+        label: Corrosion Check
+        hint: Signs of corrosion
+        type: select_one
+        options:
+          - None
+          - Minor
+          - Moderate
+          - Severe
+        required: true
+      - id: 12
+        name: section_header_water_system
+        label: -- Water System --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: water_filter_status
+        label: Water Filter Status
+        hint: Filter condition
+        type: select_one
+        options:
+          - Clean
+          - Slightly Dirty
+          - Needs Replacement
+          - Replaced Today
+        required: true
+      - id: 14
+        name: water_level_check
+        label: Water Level Check
+        hint: Is water level correct
+        type: select_one
+        options:
+          - Correct
+          - Low
+          - High
+        required: true
+      - id: 15
+        name: drain_line_clear
+        label: Drain Line Clear
+        hint: Is drain line unobstructed
+        type: select_one
+        options:
+          - Yes Clear
+          - Partially Blocked
+          - Blocked
+          - Cleaned Today
+        required: true
+      - id: 16
+        name: water_quality
+        label: Water Quality
+        hint: Rate water quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: section_header_electrical
+        label: -- Electrical Components --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: electrical_connections
+        label: Electrical Connections
+        hint: Check connections
+        type: select_one
+        options:
+          - Secure
+          - Loose
+          - Corroded
+          - Repaired Today
+        required: true
+      - id: 19
+        name: control_panel
+        label: Control Panel
+        hint: Panel condition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: sensors_functional
+        label: Sensors Functional
+        hint: Are sensors working
+        type: select_one
+        options:
+          - All Working
+          - Some Issues
+          - Not Working
+          - Calibrated Today
+        required: true
+      - id: 21
+        name: section_header_mechanical
+        label: -- Mechanical Components --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: fan_motor
+        label: Fan Motor
+        hint: Motor condition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 23
+        name: belt_condition
+        label: Belt Condition
+        hint: Drive belt status
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Worn
+          - Replaced Today
+          - Not Applicable
+        required: true
+      - id: 24
+        name: bearings
+        label: Bearings
+        hint: Bearing condition
+        type: select_one
+        options:
+          - Good
+          - Fair
+          - Worn
+          - Lubricated Today
+        required: true
+      - id: 25
+        name: section_header_performance
+        label: -- Performance Check --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: humidity_output
+        label: Humidity Output
+        hint: Is output adequate
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Below Average
+          - Poor
+        required: true
+      - id: 27
+        name: noise_level
+        label: Noise Level
+        hint: Operating noise
+        type: select_one
+        options:
+          - Normal
+          - Slightly Loud
+          - Loud
+          - Abnormal
+        required: true
+      - id: 28
+        name: energy_consumption
+        label: Energy Consumption
+        hint: Power usage
+        type: select_one
+        options:
+          - Normal
+          - Elevated
+          - High
+          - Not Measured
+        required: true
+      - id: 29
+        name: section_header_maintenance_performed
+        label: -- Maintenance Performed --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: filter_replaced
+        label: Filter Replaced
+        hint: Was filter replaced
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 31
+        name: system_cleaned
+        label: System Cleaned
+        hint: Was system cleaned
+        type: select_one
+        options:
+          - Yes Full Clean
+          - Yes Partial Clean
+          - No
+        required: true
+      - id: 32
+        name: parts_replaced
+        label: Parts Replaced
+        hint: List any parts replaced
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: next_service_date
+        label: Next Service Date
+        hint: When is next maintenance due
+        type: date
+        options: []
+        required: true
+      - id: 34
+        name: technician_notes
+        label: Technician Notes
+        hint: Additional observations
+        type: text
+        options: []
+        required: false
+      - id: 35
+        name: technician_signature
+        label: Technician Signature
+        hint: Signature
+        type: text
+        options: []
+        required: true

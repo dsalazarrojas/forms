@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Morning Setup Checklist
+    pages:
+    - id: 1
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: morning_task_list
+      label: Morning Task List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: morning_task_status
+      label: Morning Task Status
+      hint: null
+      type: select_one
+      options:
+      - Morning Ready
+      - Not Ready
+      - Late
+      required: false
+    - id: 4
+      name: issue_or_goal
+      label: Issue or Goal
+      hint: Describe any issues or goals for the day
+      type: note
+      options: []
+      required: false

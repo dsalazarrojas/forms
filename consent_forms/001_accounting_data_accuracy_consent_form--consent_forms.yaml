@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Accuracy Consent Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: Please provide your basic contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Name of the entity being represented
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_consent_statement
+      label: -- Financial Data Accuracy Statement --
+      hint: Please read the following carefully
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: accuracy_agreement_text
+      label: Agreement Statement - I hereby certify that the financial information
+        provided for processing is accurate, complete, and representative of the actual
+        financial standing of the business.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirmation_of_accuracy
+      label: Do you confirm the accuracy of the provided data?
+      hint: null
+      type: select_one
+      options:
+      - I confirm all data is accurate
+      - I confirm data is accurate with minor discrepancies noted
+      required: true
+    - id: 9
+      name: discrepancies_description
+      label: Description of Discrepancies
+      hint: Only if not fully confirmed above
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_consent
+      label: Date of Consent
+      hint: Today - s date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: digital_signature
+      label: Digital Signature
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true

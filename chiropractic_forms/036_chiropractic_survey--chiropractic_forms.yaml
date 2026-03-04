@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_as_patient
+      label: How long have you been a patient
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-3 years
+      - 3+ years
+      required: true
+    - id: 6
+      name: treatment_satisfaction
+      label: -- Treatment Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: treatment_effectiveness
+      label: How effective has your treatment been
+      hint: Rate 1 (not effective) to 5 (very effective)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pain_improvement
+      label: Improvement in pain or symptoms
+      hint: Rate 1 (no improvement) to 5 (significant improvement)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: mobility_improvement
+      label: Improvement in mobility or flexibility
+      hint: Rate 1 (no improvement) to 5 (significant improvement)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: quality_of_life
+      label: Improvement in overall quality of life
+      hint: Rate 1 (no improvement) to 5 (significant improvement)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: treatment_frequency
+      label: Current Treatment Frequency
+      hint: How often do you visit
+      type: select_one
+      options:
+      - Once per week
+      - Twice per week
+      - Once per month
+      - As needed
+      - Other
+      required: false
+    - id: 12
+      name: clinical_experience
+      label: -- Clinical Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: clinician_professionalism
+      label: Chiropractor Professionalism
+      hint: Rate 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: communication_quality
+      label: Communication and Explanation Quality
+      hint: Rate 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: attentiveness
+      label: Attentiveness to Your Concerns
+      hint: Rate 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: time_spent
+      label: Time Spent During Appointments
+      hint: Rate 1 (too little) to 5 (appropriate)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: facility_experience
+      label: -- Facility and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: wait_time
+      label: Reasonable Wait Time
+      hint: Rate 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: staff_friendliness
+      label: Staff Friendliness and Professionalism
+      hint: Rate 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: overall_satisfaction
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: satisfaction_rating
+      label: Overall Satisfaction
+      hint: Rate 1 (very unsatisfied) to 5 (very satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: would_recommend
+      label: Would you recommend this practice
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - 'Yes'
+      - Neutral
+      - 'No'
+      - No, definitely not
+      required: true
+    - id: 24
+      name: improvements_needed
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false

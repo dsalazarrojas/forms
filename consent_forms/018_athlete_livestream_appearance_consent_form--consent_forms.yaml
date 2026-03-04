@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Livestream Appearance Consent Form
+    pages:
+    - id: 1
+      name: production_details_header
+      label: -- Production and Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_title
+      label: Production or Event Title
+      hint: e.g. Regional Finals Livestream, Season Opener Showcase
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: livestream_date
+      label: Scheduled Livestream Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: production_org
+      label: Production Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: athlete_info_header
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: athlete_team
+      label: Team or Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: appearance_consent_header
+      label: -- Appearance Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: livestream_consent
+      label: I consent to my appearance in the scheduled livestream
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 12
+      name: image_name_consent
+      label: I consent to the use of my name, image, and likeness
+      hint: Includes graphics, overlays, and commentary
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 13
+      name: interview_consent
+      label: I consent to participate in live in-game or post-game interviews
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: archival_consent
+      label: I consent to the use of recorded footage for replays and archives
+      hint: On-demand viewing after the live event
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: terms_header
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: compensation_waiver
+      label: I agree that I will receive no financial compensation for this appearance
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 17
+      name: rights_ownership
+      label: I acknowledge that the Organization owns all rights to the production
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 18
+      name: privacy_agreement
+      label: I have read and agree to the Production Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 19
+      name: sign_off_header
+      label: -- Signature and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: athlete_signature
+      label: Athlete Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required for athletes under 18
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signing_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

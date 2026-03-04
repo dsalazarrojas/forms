@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Service Termination Consent Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: select_service
+      hint: null
+      type: select_multiple
+      options:
+      - Electric
+      - Gas
+      - Water
+      - Sewer
+      required: false
+    - id: 3
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_details
+      label: account_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: account_manager
+      label: account_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: account_manager_signature
+      label: account_manager_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: utility_service_terminated
+      label: utility_service_terminated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

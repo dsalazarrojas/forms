@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Drive Thru Sign Up Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participation_details
+      label: -- Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participation_type
+      label: Type of Participation
+      hint: null
+      type: select_one
+      options:
+      - As a participant/visitor
+      - As a volunteer
+      - Both participant and volunteer
+      required: true
+    - id: 8
+      name: vehicle_info
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - SUV
+      - Truck
+      - Motorcycle
+      - Van
+      - Other
+      required: true
+    - id: 10
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_license
+      label: License Plate Number
+      hint: Optional for organization purposes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: passenger_info
+      label: -- Passenger Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: children_count
+      label: Number of Children in Vehicle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: elderly_or_disabled
+      label: Any elderly or disabled passengers
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_timeslot
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12 PM - 3 PM)
+      - Evening (3 PM - 6 PM)
+      - Late evening (6 PM+)
+      - No preference
+      required: true
+    - id: 19
+      name: what_to_expect
+      label: What would you like to receive?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Holiday gifts
+      - Food items
+      - Gift cards
+      - Entertainment
+      - Holiday greetings
+      - All available items
+      required: false
+    - id: 20
+      name: volunteer_roles
+      label: Volunteer Roles (if applicable)
+      hint: Select all roles you are interested in
+      type: select_multiple
+      options:
+      - Distribution
+      - Traffic direction
+      - Registration
+      - Greeting visitors
+      - Setup/cleanup
+      - Other
+      required: false
+    - id: 21
+      name: availability
+      label: Available Volunteer Hours
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning shift
+      - Afternoon shift
+      - Evening shift
+      - Full day
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

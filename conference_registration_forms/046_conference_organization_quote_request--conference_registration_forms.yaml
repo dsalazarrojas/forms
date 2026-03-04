@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Organization Quote Request
+    pages:
+    - id: 1
+      name: quote_header
+      label: Quote Request Form
+      hint: Request a quote for conference services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_reference
+      label: Request Reference
+      hint: Internal tracking
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_title
+      label: Contact Title
+      hint: Job position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organization_address
+      label: Organization Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: conference_details
+      label: Conference Details
+      hint: Event information
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: conference_name
+      label: Conference Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: conference_type
+      label: Conference Type
+      hint: Category of event
+      type: select_one
+      options:
+      - Corporate Meeting
+      - Academic Conference
+      - Trade Show
+      - Workshop Series
+      - Annual Summit
+      - Product Launch
+      - Other
+      required: true
+    - id: 14
+      name: expected_attendees
+      label: Expected Attendees
+      hint: Number of participants
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: event_dates
+      label: Event Dates
+      hint: When held
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_duration
+      label: Event Duration
+      hint: Number of days
+      type: select_one
+      options:
+      - 1 Day
+      - 2 Days
+      - 3 Days
+      - 4 to 5 Days
+      - More than 5 Days
+      required: true
+    - id: 17
+      name: event_location
+      label: Event Location
+      hint: City or venue
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: services_needed
+      label: Services Needed
+      hint: Select required services
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: venue_services
+      label: Venue Services
+      hint: Location related
+      type: select_multiple
+      options:
+      - Venue Rental
+      - Room Setup
+      - Audio Visual Equipment
+      - Lighting
+      - Stage Setup
+      - Backdrop and Signage
+      required: false
+    - id: 20
+      name: catering_services
+      label: Catering Services
+      hint: Food and beverage
+      type: select_multiple
+      options:
+      - Breakfast
+      - Morning Coffee Break
+      - Lunch
+      - Afternoon Coffee Break
+      - Dinner
+      - Cocktail Reception
+      required: false
+    - id: 21
+      name: technical_services
+      label: Technical Services
+      hint: AV and IT
+      type: select_multiple
+      options:
+      - Live Streaming
+      - Recording Services
+      - Simultaneous Translation
+      - Mobile App
+      - Registration System
+      - Badge Printing
+      required: false
+    - id: 22
+      name: additional_services
+      label: Additional Services
+      hint: Extras
+      type: select_multiple
+      options:
+      - Event Staff
+      - Security
+      - Photography
+      - Videography
+      - Entertainment
+      - Transportation
+      - Accommodation Booking
+      required: false
+    - id: 23
+      name: budget_info
+      label: Budget Information
+      hint: Financial details
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under 10000 dollars
+      - 10000 to 25000 dollars
+      - 25000 to 50000 dollars
+      - 50000 to 100000 dollars
+      - Over 100000 dollars
+      required: false
+    - id: 25
+      name: timeline
+      label: Timeline
+      hint: When do you need quote
+      type: select_one
+      options:
+      - Within 24 Hours
+      - Within 3 Days
+      - Within 1 Week
+      - Flexible
+      required: true
+    - id: 26
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Special needs
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Social Media
+      - Advertisement
+      - Previous Client
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Disclosure And Conflict Of Interest Form
+    pages:
+    - id: 1
+      name: speaker_disclosure_and_conflict_of_interest_form
+      label: speaker_disclosure_and_conflict_of_interest_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_name
+      label: speaker_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_affiliation
+      label: speaker_affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: speaker_institution
+      label: speaker_institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: financial_relationships
+      label: financial_relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: conflict_of_interest
+      label: conflict_of_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: speaker_bio
+      label: speaker_bio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: speaker_image
+      label: speaker_image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: speaker_contact
+      label: speaker_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: presentation_type
+      label: presentation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: presentation_topic
+      label: presentation_topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: presentation_abstract
+      label: presentation_abstract
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: presentation_date
+      label: presentation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: presentation_time
+      label: presentation_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: presentation_duration
+      label: presentation_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: speaker_phone
+      label: speaker_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: speaker_email
+      label: speaker_email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: TV Series Release Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_consent_participant
+      label: release_consent_participant
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      - '{''value'': ''Undetermined'', ''label'': ''Undetermined''}'
+      required: false
+    - id: 3
+      name: release_questions
+      label: release_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: on_location_participation
+      label: on_location_participation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Cast'', ''label'': ''Cast''}'
+      - '{''value'': ''Contributor'', ''label'': ''Contributor''}'
+      - '{''value'': ''On-Location'', ''label'': ''On-Location''}'
+      required: false
+    - id: 5
+      name: media_usage
+      label: media_usage
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Film'', ''label'': ''Film''}'
+      - '{''value'': ''TV'', ''label'': ''TV''}'
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''Print'', ''label'': ''Print''}'
+      required: false
+    - id: 6
+      name: date_of_consent
+      label: date_of_consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: on_location_contact_info
+      label: on_location_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

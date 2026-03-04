@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spill Management Checklist
+    pages:
+    - id: 1
+      name: incident_id
+      label: incident_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: spill_type
+      label: spill_type
+      hint: null
+      type: select_one
+      options:
+      - IDLE_SPILL
+      - LEAK
+      - RELEASE
+      - SPILL
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_areas
+      label: affected_areas
+      hint: null
+      type: select_multiple
+      options:
+      - Grounds
+      - Offices
+      - Workstations
+      required: false
+    - id: 7
+      name: spill_volume
+      label: spill_volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: spill_duration
+      label: spill_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: response_time
+      label: response_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: response_duration
+      label: response_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: response_status
+      label: response_status
+      hint: null
+      type: select_one
+      options:
+      - COMPLETED
+      - ONGOING
+      - NOT_STARTED
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_ext_phone
+      label: contact_ext_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_ext_phone_type
+      label: contact_ext_phone_type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Work
+      - Home
+      required: false
+    - id: 18
+      name: contact_ext_phone_extension
+      label: contact_ext_phone_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_ext_phone_number
+      label: contact_ext_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_email
+      label: reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_phone
+      label: reviewer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

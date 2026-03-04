@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vision Care HSA Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Claim for Medical Expenses
+      - Claim for Prescription Eyewear
+      - Claim for Vision Care Benefits
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Resubmitted
+      required: false
+    - id: 7
+      name: claim_notes
+      label: Claim Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claimant_date_of_birth
+      label: Claimant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: claimant_relationship
+      label: Claimant Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claimant_employee_number
+      label: Claimant Employee Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claimant_department
+      label: Claimant Department
+      hint: null
+      type: text
+      options: []
+      required: false

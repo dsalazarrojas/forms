@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Complaint Form
+    pages:
+    - id: 1
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: complaint_time
+      label: Complaint Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: complaint_description
+      label: Complaint Description
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Kitchen''}'
+      - '{''id'': 2, ''label'': ''Front Desk''}'
+      - '{''id'': 3, ''label'': ''Management''}'
+      required: true
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: complaint_id
+      label: Complaint ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: staff_comment
+      label: Staff Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: date
+      options: []
+      required: false

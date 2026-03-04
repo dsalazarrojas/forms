@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recipe Sharing Form
+    pages:
+    - id: 1
+      name: recipe_sharing_form
+      label: Recipe Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ingredient_list
+      label: List of Ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: cooking_instructions
+      label: Cooking Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cooking_method
+      label: Cooking Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: prep_time
+      label: Prep Time (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cook_time
+      label: Cook Time (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: servings
+      label: Servings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: serving_size
+      label: Serving Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: tags_tags
+      label: Tags
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: tags_tags_0
+      label: Tags Tags 0
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: tags_tags_1
+      label: Tags Tags 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: tags_tags_2
+      label: Tags Tags 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: tags_tags_3
+      label: Tags Tags 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

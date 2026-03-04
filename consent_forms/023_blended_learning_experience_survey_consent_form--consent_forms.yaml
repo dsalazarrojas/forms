@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blended Learning Experience Survey Consent Form
+    pages:
+      - id: 1
+        name: consent_header
+        label: Blended Learning Experience Survey Consent Form
+        hint: Please read and provide consent to participate in this study
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: study_title
+        label: Study Title
+        hint: Blended Learning Experience Survey
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: participant_email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: participant_id
+        label: Participant ID
+        hint: If assigned
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: age_verification
+        label: Age Verification
+        hint: Are you 18 years or older
+        type: select_one
+        options:
+          - Yes I am 18 or older
+          - No I am under 18
+        required: true
+      - id: 7
+        name: study_purpose
+        label: Study Purpose Understanding
+        hint: I understand the purpose of this study
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 8
+        name: procedures_understanding
+        label: Procedures Understanding
+        hint: I understand what participation involves
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need Clarification
+        required: true
+      - id: 9
+        name: risks_understanding
+        label: Risks Understanding
+        hint: I understand any potential risks
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Have Questions
+        required: true
+      - id: 10
+        name: benefits_understanding
+        label: Benefits Understanding
+        hint: I understand potential benefits
+        type: select_one
+        options:
+          - Yes I Understand
+          - No
+        required: true
+      - id: 11
+        name: confidentiality_agreement
+        label: Confidentiality Agreement
+        hint: I understand my data will be kept confidential
+        type: select_one
+        options:
+          - Yes I Understand
+          - No
+        required: true
+      - id: 12
+        name: voluntary_participation
+        label: Voluntary Participation
+        hint: I understand participation is voluntary
+        type: select_one
+        options:
+          - Yes I Understand
+          - No
+        required: true
+      - id: 13
+        name: right_to_withdraw
+        label: Right to Withdraw
+        hint: I understand I can withdraw at any time
+        type: select_one
+        options:
+          - Yes I Understand
+          - No
+        required: true
+      - id: 14
+        name: data_usage_consent
+        label: Data Usage Consent
+        hint: I consent to my data being used for research
+        type: select_one
+        options:
+          - Yes I Consent
+          - No I Do Not Consent
+        required: true
+      - id: 15
+        name: audio_recording_consent
+        label: Audio Recording Consent
+        hint: Consent to audio recording if applicable
+        type: select_one
+        options:
+          - Yes I Consent
+          - No
+          - Not Applicable
+        required: true
+      - id: 16
+        name: publication_consent
+        label: Publication Consent
+        hint: Consent to anonymized data in publications
+        type: select_one
+        options:
+          - Yes I Consent
+          - No
+        required: true
+      - id: 17
+        name: contact_information_provided
+        label: Contact Information
+        hint: I have received researcher contact info
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 18
+        name: questions_addressed
+        label: Questions Addressed
+        hint: Have all your questions been answered
+        type: select_one
+        options:
+          - Yes All Answered
+          - I Have No Questions
+          - I Still Have Questions
+        required: true
+      - id: 19
+        name: consent_signature
+        label: Electronic Signature
+        hint: Type your name as signature
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: consent_date
+        label: Date of Consent
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 21
+        name: copy_received
+        label: Copy of Consent Form
+        hint: Have you received a copy of this form
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

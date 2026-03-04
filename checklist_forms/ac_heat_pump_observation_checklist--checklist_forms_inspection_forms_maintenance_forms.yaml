@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AC Heat Pump Observation Checklist
+    pages:
+    - id: 1
+      name: section_header_general
+      label: '--- General Inspection Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector/Auditor name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspection_time
+      label: Inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location or site inspected
+      hint: Building name, room number, or address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: unit_model_number
+      label: Heat pump model number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_performance
+      label: '--- Performance Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cooling_efficiency_rating
+      label: Cooling efficiency rating (1-10)
+      hint: 10 = optimal performance
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: heating_efficiency_rating
+      label: Heating efficiency rating (1-10)
+      hint: 10 = optimal performance
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: refrigerant_level
+      label: Refrigerant level status
+      hint: null
+      type: select_one
+      options:
+      - Optimal
+      - Low
+      - High
+      - Unknown
+      required: true
+    - id: 11
+      name: airflow_quality
+      label: Airflow quality assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: section_header_maintenance
+      label: '--- Maintenance Status ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: filter_condition
+      label: Filter condition
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Moderately dirty
+      - Very dirty
+      - Needs replacement
+      required: true
+    - id: 14
+      name: outdoor_unit_cleanliness
+      label: Outdoor unit cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Slightly dirty
+      - Moderately dirty
+      - Very dirty
+      - Blocked
+      required: true
+    - id: 15
+      name: electrical_connections
+      label: Electrical connections tightness
+      hint: null
+      type: select_one
+      options:
+      - Secure
+      - Loose
+      - Damaged
+      - Corroded
+      required: true
+    - id: 16
+      name: refrigerant_leaks
+      label: Signs of refrigerant leaks
+      hint: null
+      type: select_multiple
+      options:
+      - Oil stains
+      - Bubbling sound
+      - Reduced cooling
+      - Frost buildup
+      - None observed
+      required: true
+    - id: 17
+      name: section_header_safety
+      label: '--- Safety Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: safety_score
+      label: Safety score (1-10)
+      hint: 10 = excellent
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: safety_issues_found
+      label: Safety issues identified (select all)
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical hazard
+      - Refrigerant leak
+      - Sharp edges
+      - Inadequate ventilation
+      - Missing guards
+      - No safety issues
+      required: true
+    - id: 20
+      name: emergency_shutoff_accessible
+      label: Emergency shutoff accessible
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 21
+      name: section_header_recommendations
+      label: '--- Recommendations & Notes ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: recommended_work
+      label: Recommended maintenance work
+      hint: Describe any repairs or maintenance needed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: priority_level
+      label: Priority level for recommended work
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - High
+      - Medium
+      - Low
+      - Monitor
+      required: false
+    - id: 24
+      name: follow_up_date
+      label: Follow-up inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other observations or remarks
+      type: text
+      options: []
+      required: false

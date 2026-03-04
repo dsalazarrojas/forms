@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_coaching_training_form
+    pages:
+    - id: 1
+      name: form_participant_information
+      label: Form Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: Participant First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_last_name
+      label: Participant Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_objectives
+      label: Training Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_plan
+      label: Training Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_schedule
+      label: Training Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: training_coach
+      label: Training Coach
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I agree''}'
+      - '{''label'': ''I do not agree''}'
+      required: false
+    - id: 12
+      name: coach_agreement
+      label: Coach Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I agree''}'
+      - '{''label'': ''I do not agree''}'
+      required: false
+    - id: 13
+      name: participant_additional_comments
+      label: Participant Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: coach_additional_comments
+      label: Coach Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

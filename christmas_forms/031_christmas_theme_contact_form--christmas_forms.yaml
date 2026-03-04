@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Theme Contact Form
+    pages:
+    - id: 1
+      name: sender_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: So we can get back to you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subject
+      label: Subject
+      hint: What is your inquiry about
+      type: select_one
+      options:
+      - General Inquiry
+      - Holiday Services
+      - Christmas Events
+      - Product Information
+      - Order Status
+      - Partnership
+      - Feedback
+      - Other
+      required: true
+    - id: 5
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: holiday_plans
+      label: Your Holiday Plans
+      hint: What are your plans this season
+      type: select_one
+      options:
+      - Staying home with family
+      - Traveling to see family
+      - Vacation trip
+      - Working through holidays
+      - Hosting gatherings
+      - Attending multiple events
+      - Still deciding
+      required: true
+    - id: 7
+      name: christmas_traditions
+      label: Christmas Traditions
+      hint: What traditions do you follow
+      type: select_multiple
+      options:
+      - Decorating tree
+      - Hanging stockings
+      - Baking cookies
+      - Gift exchange
+      - Carol singing
+      - Religious services
+      - Light displays
+      - Watching holiday movies
+      - None
+      required: false
+    - id: 8
+      name: section_holiday_info
+      label: -- Holiday Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Your Message
+      hint: How can we help you
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we respond
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Any method works
+      required: true
+    - id: 11
+      name: best_time
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-8pm
+      - Any time
+      required: true
+    - id: 12
+      name: section_response
+      label: -- Response Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: newsletter_signup
+      label: Holiday Newsletter
+      hint: Receive seasonal updates
+      type: select_one
+      options:
+      - Yes subscribe me
+      - No thank you
+      required: true
+    - id: 14
+      name: how_heard
+      label: How Did You Find Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Search Engine
+      - Friend Referral
+      - Advertisement
+      - Other
+      required: true
+    - id: 15
+      name: customer_status
+      label: Customer Status
+      hint: Have you worked with us before
+      type: select_one
+      options:
+      - First time contact
+      - Previous customer
+      - Returning customer
+      - Regular customer
+      required: true
+    - id: 16
+      name: section_additional
+      label: -- Additional --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: holiday_wish
+      label: Your Holiday Wish
+      hint: Share your wish with us
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: favorite_holiday
+      label: Favorite Holiday Memory
+      hint: Share a special memory
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: privacy_agreement
+      label: Privacy Agreement
+      hint: I agree to the privacy policy
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

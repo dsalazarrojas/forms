@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Additive Manufacturing Technology Fair Registration
+    pages:
+    - id: 1
+      name: attendee_information
+      label: Attendee information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role or title
+      hint: Job title or role
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: For confirmations and updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: attendance_days
+      label: Attendance days
+      hint: Select days you will attend
+      type: select_multiple
+      options: [Day 1, Day 2, Day 3, Workshops only]
+      required: true
+    - id: 7
+      name: workshop_selection
+      label: Workshop selection
+      hint: Choose up to two workshops
+      type: select_multiple
+      options: [Design for AM, Materials and processes, Post processing, Quality control]
+      required: false
+    - id: 8
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: For catered events
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_needed
+      label: Accommodation needed
+      hint: If you require lodging assistance
+      type: select_one
+      options: [None, Yes]
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information for organizers
+      type: text
+      options: []
+      required: false

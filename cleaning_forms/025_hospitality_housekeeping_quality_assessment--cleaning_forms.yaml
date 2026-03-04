@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Housekeeping Quality Assessment
+    pages:
+    - id: 1
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: area_checked
+      label: Checked Area
+      hint: null
+      type: select_one
+      options:
+      - Common Area
+      - Room
+      - Bathroom
+      - Kitchen
+      - Balcony
+      required: true
+    - id: 3
+      name: cleanliness_rating
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: cleanliness_level
+      label: Cleanliness Level
+      hint: null
+      type: select_multiple
+      options:
+      - 0-3
+      - 4-6
+      - 7-9
+      required: true
+    - id: 5
+      name: cleanliness_score
+      label: Cleanliness Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cleanliness_note
+      label: Cleanliness Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: area_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Needs Improvement
+      - Requires Maintenance
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: next_action
+      label: Next Action
+      hint: null
+      type: select_multiple
+      options:
+      - Send Report
+      - Follow-up
+      - Schedule Maintenance
+      - Done
+      required: true
+    - id: 11
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: completed_time
+      label: Completed Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: completed_by_phone
+      label: Completed By Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: area
+      label: Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: room
+      label: Room
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: floor
+      label: Floor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: room_number_label
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: housekeeper_name
+      label: Housekeeper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: housekeeper_phone
+      label: Housekeeper Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: housekeeper_email
+      label: Housekeeper Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: comments_2
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

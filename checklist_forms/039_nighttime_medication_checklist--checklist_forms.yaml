@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nighttime Medication Checklist
+    pages:
+    - id: 1
+      name: evening_medications
+      label: evening medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: dosages
+      label: dosages
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: timing
+      label: timing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: side_effects
+      label: side effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_caregiver
+      label: assigned caregiver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: caregiver_contact
+      label: caregiver contact
+      hint: null
+      type: text
+      options: []
+      required: false

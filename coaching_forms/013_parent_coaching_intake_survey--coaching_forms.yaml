@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Coaching Intake Survey
+    pages:
+    - id: 1
+      name: parent_coaching_intake_survey_form
+      label: Parent Coaching Intake Survey
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: Please enter parent's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_members
+      label: Family Members
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''One''}'
+      - '{''id'': 11, ''label'': ''Two or more''}'
+      required: true
+    - id: 4
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: coaching_type
+      label: Coaching Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''label'': ''One on one coaching''}'
+      - '{''id'': 21, ''label'': ''Group coaching''}'
+      - '{''id'': 22, ''label'': ''Other (please specify)''}'
+      required: true
+    - id: 6
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: coaching_goals
+      label: Coaching Goals
+      hint: Write a brief description of your coaching goals
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: coaching_goals_details
+      label: Coaching Goals Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: session_frequency_notes
+      label: Session Frequency Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: parent_counselor_relationship
+      label: Parent Counselor Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 30, ''label'': ''Parent and Counselor''}'
+      - '{''id'': 31, ''label'': ''Parent and Parent''}'
+      - '{''id'': 32, ''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: session_length_notes
+      label: Session Length Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: coaching_goals_goals
+      label: Coaching Goals Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 40, ''label'': ''Goal One''}'
+      - '{''id'': 41, ''label'': ''Goal Two''}'
+      - '{''id'': 42, ''label'': ''Goal Three''}'
+      required: true
+    - id: 18
+      name: coaching_type_notes
+      label: Coaching Type Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: coaching_session_date
+      label: Coaching Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: coaching_session_time
+      label: Coaching Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: parent_goals_and_expectations
+      label: Parent Goals and Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 50, ''label'': ''Parent Expectations''}'
+      - '{''id'': 51, ''label'': ''Parent Goals''}'
+      required: true
+    - id: 23
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 60, ''label'': ''Emergency Contact''}'
+      - '{''id'': 61, ''label'': ''Family Member''}'
+      required: true
+    - id: 24
+      name: session_notes2
+      label: Session Notes 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: other_coaching_details
+      label: Other Coaching Details
+      hint: null
+      type: text
+      options: []
+      required: false

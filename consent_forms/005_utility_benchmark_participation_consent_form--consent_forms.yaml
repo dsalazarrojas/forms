@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: utility_benchmark_participation_consent_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_details_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_to_data_use
+      label: Consent to Use Data
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: consent_to_reporting
+      label: Consent to Reporting
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: participant_details_company
+      label: participant_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_details_utility
+      label: participant_utility
+      hint: null
+      type: text
+      options: []
+      required: false

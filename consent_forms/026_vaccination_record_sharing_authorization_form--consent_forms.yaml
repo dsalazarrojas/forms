@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Record Sharing Authorization Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Vaccination Record Sharing Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: institution_type
+      label: Institutional Type
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Center
+      - University
+      - Insurance Company
+      - Government Agency
+      required: false
+    - id: 3
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - View
+      - Edit
+      - Both
+      - None
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: institution_id
+      label: Institution ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: record_status
+      label: Record Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Cancelled
+      required: true
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

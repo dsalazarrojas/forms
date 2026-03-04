@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workflow Instruction Checklist
+    pages:
+    - id: 1
+      name: page_1
+      label: workflow_instruction_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: business_process_steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: process_ownership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: workflow_instruction_checklist_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: page_5
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: team_leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: completed_checklist
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: checklist_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

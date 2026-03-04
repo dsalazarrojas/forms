@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_inspection_report
+    pages:
+    - id: 1
+      name: property_inspection_report
+      label: property_inspection_report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: property_location
+      label: property_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_features
+      label: property_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: property_damage
+      label: property_damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tenant_inspection
+      label: tenant_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: agent_inspection
+      label: agent_inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: report_status
+      label: report_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: property_id
+      label: property_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tenant_id
+      label: tenant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agent_id
+      label: agent_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_completed
+      label: report_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: report_completed_by
+      label: report_completed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

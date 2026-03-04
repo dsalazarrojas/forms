@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Story Submission Form
+    pages:
+    - id: 1
+      name: section_submission
+      label: -- Story Submission --
+      hint: Submit your story anonymously to be considered for publication
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: story_title
+      label: Story title
+      hint: Short descriptive title for your story
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: story_text
+      label: Story text
+      hint: Paste or write the full story text here
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_to_publish
+      label: Consent to publish anonymously
+      hint: You may withdraw consent before publication
+      type: select_one
+      options:
+        - Yes I consent to anonymous publication
+        - No I do not consent
+      required: true
+    - id: 5
+      name: age_range
+      label: Age range of author
+      hint: Optional age bracket
+      type: select_one
+      options:
+        - Under 18
+        - 18 to 24
+        - 25 to 44
+        - 45 to 64
+        - 65 or older
+      required: false
+    - id: 6
+      name: trigger_warnings
+      label: Does your story contain trigger warnings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Violence
+        - Abuse
+        - Self harm
+        - Substance misuse
+        - None
+      required: false
+    - id: 7
+      name: additional_notes
+      label: Additional notes for editors
+      hint: Optional context or requests for editorial use
+      type: text
+      options: []
+      required: false

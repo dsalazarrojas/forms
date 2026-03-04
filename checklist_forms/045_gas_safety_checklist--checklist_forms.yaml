@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gas Safety Checklist
+    pages:
+    - id: 1
+      name: gas_appliance_installation
+      label: Gas Appliance Installation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gas_lines_connection
+      label: Gas Lines Connection
+      hint: null
+      type: select_one
+      options:
+      - Gas Line
+      - Water Line
+      required: false
+    - id: 3
+      name: gas_valves_and_fittings
+      label: Gas Valves And Fittings
+      hint: null
+      type: select_multiple
+      options:
+      - Gas Valve
+      - Fitting
+      required: false
+    - id: 4
+      name: gas_regulator_checklist
+      label: Gas Regulator Checklist
+      hint: null
+      type: select_one
+      options:
+      - Regulator
+      - Check valve
+      required: false
+    - id: 5
+      name: gas_leak_test
+      label: Gas Leak Test
+      hint: null
+      type: select_multiple
+      options:
+      - Soapy Water Test
+      - Electronic Test
+      required: false
+    - id: 6
+      name: gas_appliance_connection
+      label: Gas Appliance Connection
+      hint: null
+      type: select_one
+      options:
+      - Connection
+      - Connection And Isolation
+      required: false
+    - id: 7
+      name: gas_system_checklist
+      label: Gas System Checklist
+      hint: null
+      type: select_one
+      options:
+      - System
+      - System And Test
+      required: false
+    - id: 8
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Certification
+      - Certification And Test
+      required: false
+    - id: 9
+      name: final_checklist
+      label: Final Checklist
+      hint: null
+      type: select_one
+      options:
+      - Final Checklist
+      - Final Check
+      required: false
+    - id: 10
+      name: gas_fitter_signoff
+      label: Gas Fitter Sign Off
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

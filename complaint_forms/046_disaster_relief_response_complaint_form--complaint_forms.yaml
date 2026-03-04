@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Relief Response Complaint Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: complaint_type
+      label: what_is_your_complaint_about
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''Category 2''}'
+      - '{''id'': 3, ''name'': ''Category 3''}'
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''Person 2''}'
+      - '{''id'': 3, ''name'': ''Person 3''}'
+      required: false
+    - id: 10
+      name: submitted
+      label: submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: received
+      label: received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: resolved
+      label: resolved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

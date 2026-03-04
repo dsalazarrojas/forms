@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distributed Team Onboarding Automation Checklist
+    pages:
+    - id: 1
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: hire_time
+      label: Hire Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: remote_access
+      label: Remote Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_week_readiness
+      label: First Week Readiness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Ready'', ''value'': ''Ready''}'
+      - '{''label'': ''Not Ready'', ''value'': ''Not Ready''}'
+      required: false
+    - id: 5
+      name: onboarding_details
+      label: Onboarding Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Team Lead Introduction'', ''value'': ''Team Lead Introduction''}'
+      - '{''label'': ''Project Overview'', ''value'': ''Project Overview''}'
+      - '{''label'': ''Team Members Introduction'', ''value'': ''Team Members Introduction''}'
+      - '{''label'': ''First Week Tasks'', ''value'': ''First Week Tasks''}'
+      - '{''label'': ''Access and Setup'', ''value'': ''Access and Setup''}'
+      required: false
+    - id: 6
+      name: setup_details
+      label: Setup Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Company Email'', ''value'': ''Company Email''}'
+      - '{''label'': ''Company Phone'', ''value'': ''Company Phone''}'
+      - '{''label'': ''Team Lead'', ''value'': ''Team Lead''}'
+      - '{''label'': ''Project Manager'', ''value'': ''Project Manager''}'
+      required: false
+    - id: 7
+      name: chat_details
+      label: Chat Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Slack'', ''value'': ''Slack''}'
+      - '{''label'': ''Skype'', ''value'': ''Skype''}'
+      - '{''label'': ''Zoom'', ''value'': ''Zoom''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - '{''label'': ''Team Lead'', ''value'': ''Team Lead''}'
+      required: false
+    - id: 8
+      name: project_info
+      label: Project Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Project Description'', ''value'': ''Project Description''}'
+      - '{''label'': ''Project Goals'', ''value'': ''Project Goals''}'
+      - '{''label'': ''Team Project'', ''value'': ''Team Project''}'
+      - '{''label'': ''Project Status'', ''value'': ''Project Status''}'
+      required: false
+    - id: 9
+      name: team_info
+      label: Team Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Team Lead'', ''value'': ''Team Lead''}'
+      - '{''label'': ''Team Members'', ''value'': ''Team Members''}'
+      - '{''label'': ''Team Project Leads'', ''value'': ''Team Project Leads''}'
+      - '{''label'': ''Project Manager'', ''value'': ''Project Manager''}'
+      required: false
+    - id: 10
+      name: first_week_tasks
+      label: First Week Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Task 1'', ''value'': ''Task 1''}'
+      - '{''label'': ''Task 2'', ''value'': ''Task 2''}'
+      - '{''label'': ''Task 3'', ''value'': ''Task 3''}'
+      - '{''label'': ''Task 4'', ''value'': ''Task 4''}'
+      - '{''label'': ''Task 5'', ''value'': ''Task 5''}'
+      - '{''label'': ''Task 6'', ''value'': ''Task 6''}'
+      - '{''label'': ''Task 7'', ''value'': ''Task 7''}'
+      - '{''label'': ''Task 8'', ''value'': ''Task 8''}'
+      - '{''label'': ''Task 9'', ''value'': ''Task 9''}'
+      - '{''label'': ''Task 10'', ''value'': ''Task 10''}'
+      required: false
+    - id: 11
+      name: onboarding_completed
+      label: Onboarding Completed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Onboarding Completed'', ''value'': ''Onboarding Completed''}'
+      - '{''label'': ''Not Completed'', ''value'': ''Not Completed''}'
+      required: false
+    - id: 12
+      name: first_week_readiness_notes
+      label: First Week Readiness Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_status
+      label: Team Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: first_week_readiness_issues
+      label: First Week Readiness Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: onboarding_issues
+      label: Onboarding Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: setup_issues
+      label: Setup Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: onboarding_notes
+      label: Onboarding Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_lead_notes
+      label: Project Lead Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_manager_notes
+      label: Project Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_lead_notes
+      label: Team Lead Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: first_week_readiness_comments
+      label: First Week Readiness Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: onboarding_completed_comments
+      label: Onboarding Completed Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_status_comments
+      label: Project Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: team_status_comments
+      label: Team Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false

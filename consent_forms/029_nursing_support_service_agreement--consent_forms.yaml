@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Support Service Agreement
+    pages:
+    - id: 1
+      name: service_agreement
+      label: service_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization
+      label: prophets
+      hint: null
+      type: select_one
+      options:
+      - Nurse
+      - Other
+      required: false
+    - id: 4
+      name: care_team
+      label: care_team
+      hint: null
+      type: select_multiple
+      options:
+      - Nurse 1
+      - Nurse 2
+      - Nurse 3
+      required: false
+    - id: 5
+      name: service_details
+      label: service_details
+      hint: null
+      type: select_multiple
+      options:
+      - Home care
+      - Clinic
+      required: false

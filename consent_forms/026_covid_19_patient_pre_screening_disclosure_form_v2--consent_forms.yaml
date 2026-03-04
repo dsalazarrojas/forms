@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Pre Screening Disclosure Form V2
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_screening
+      label: -- Pre-Screening Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: covid_symptoms
+      label: Do you have COVID-19 symptoms? - Fever, cough, shortness of breath
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 9
+      name: diagnosed_last_14_days
+      label: Have you been diagnosed with COVID-19 in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Uncertain
+      required: true
+    - id: 10
+      name: close_contact_last_14_days
+      label: Have you been in close contact with a confirmed COVID-19 case in the
+        past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 11
+      name: temperature_fever
+      label: Do you have a temperature above 100.4F or feel feverish?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Do not know
+      required: true
+    - id: 12
+      name: cough
+      label: Do you have a new or persistent cough?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: shortness_of_breath
+      label: Do you have shortness of breath or difficulty breathing?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 14
+      name: section_acknowledgment
+      label: -- Acknowledgment and Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: read_instructions
+      label: I have read the pre-screening instructions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: truthful_responses
+      label: My responses are truthful and accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: understand_covid_spread
+      label: I understand COVID-19 can spread from asymptomatic individuals
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: accept_screening
+      label: I accept this pre-screening process
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: screening_date
+      label: Screening Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

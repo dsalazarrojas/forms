@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class 3 Consent Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID or Roll Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: class_section
+      label: Class and Section
+      hint: Class 3 Section A, B, etc.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: parent_info_header
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_email
+      label: Parent Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_phone
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: true
+    - id: 11
+      name: activities_header
+      label: -- Activity Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: field_trips
+      label: Permission for field trips and outings
+      hint: Local educational trips
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional
+      required: true
+    - id: 13
+      name: sports_activities
+      label: Permission for sports and physical activities
+      hint: Including competitive and recreational sports
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional
+      required: true
+    - id: 14
+      name: cultural_programs
+      label: Permission for cultural programs and performances
+      hint: School events and performances
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional
+      required: false
+    - id: 15
+      name: photography_video
+      label: Permission for photography and videography
+      hint: For school events and educational materials
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional
+      required: true
+    - id: 16
+      name: media_usage
+      label: Permission to use images in school materials
+      hint: Website, newsletters, displays
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional
+      required: false
+    - id: 17
+      name: medical_header
+      label: -- Medical and Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: medical_emergency
+      label: Permission to seek emergency medical treatment if needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 19
+      name: medical_conditions
+      label: Any medical conditions or allergies we should know about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medications
+      label: Medications or special care needed at school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: general_consent_header
+      label: -- General Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: school_rules_agreement
+      label: I agree my child will follow school rules and regulations
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 23
+      name: final_consent
+      label: I give consent for my child to participate in Class 3 activities
+      hint: null
+      type: select_one
+      options:
+      - Yes, I fully consent
+      - No, I do not consent
+      required: true
+    - id: 24
+      name: parent_signature_consent
+      label: I certify that I am the parent or legal guardian
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

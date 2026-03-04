@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Union Grievance Intake Form
+    pages:
+    - id: 1
+      name: grievance_type
+      label: grievance_type
+      hint: null
+      type: select_one
+      options:
+      - Union Matter
+      - Personal Matter
+      - Other
+      required: false
+    - id: 2
+      name: grievant_name
+      label: grievant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grievant_email
+      label: grievant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: grievant_phone
+      label: grievant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grievance_details
+      label: grievance_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: grievant_worksite
+      label: grievant_worksite
+      hint: null
+      type: select_one
+      options:
+      - Site A
+      - Site B
+      - Site C
+      required: false
+    - id: 7
+      name: grievant_supervisor
+      label: grievant_supervisor
+      hint: null
+      type: select_one
+      options:
+      - Supervisor A
+      - Supervisor B
+      - Supervisor C
+      required: false
+    - id: 8
+      name: grievance_date
+      label: grievance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: grievant_time
+      label: grievant_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: grievant_location
+      label: grievant_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: grievant_description
+      label: grievant_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: grievant_resolution
+      label: grievant_resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: grievance_attachment
+      label: grievance_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: grievant_suggestion
+      label: grievant_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: grievant_comments
+      label: grievant_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: grievant_signature
+      label: grievant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: grievant_date_signed
+      label: grievant_date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: grievant_time_signed
+      label: grievant_time_signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: grievant_agreed
+      label: grievant_agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: grievant_remarks
+      label: grievant_remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: grievant_other_comments
+      label: grievant_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: grievant_other_comments_2
+      label: grievant_other_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: grievant_other_comments_3
+      label: grievant_other_comments_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: grievant_other_comments_4
+      label: grievant_other_comments_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: grievant_other_comments_5
+      label: grievant_other_comments_5
+      hint: null
+      type: text
+      options: []
+      required: false

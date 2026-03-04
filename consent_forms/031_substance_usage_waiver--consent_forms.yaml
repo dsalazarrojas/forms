@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substance Usage Waiver
+    pages:
+    - id: 1
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: release_of_liability
+      label: release_of_liability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_medical_treatment
+      label: emergency_medical_treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_provider_signature
+      label: medical_provider_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Makeup Consent Form
+    pages:
+    - id: 1
+      name: bride_name
+      label: Bride Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: wedding_date
+      label: Wedding Date
+      hint: Date of your wedding
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: makeup_artist_name
+      label: Makeup Artist Name
+      hint: Name of your makeup artist
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_date
+      label: Makeup Service Date
+      hint: Date of the makeup appointment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_time
+      label: Service Start Time
+      hint: What time will service begin
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: service_location
+      label: Service Location
+      hint: Where will makeup be applied
+      type: select_one
+      options:
+      - Makeup artist salon
+      - Your home
+      - Wedding venue
+      - Hotel
+      - Other location
+      required: true
+    - id: 9
+      name: makeup_party_size
+      label: Number of People in Bridal Party
+      hint: Total people getting makeup
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: makeup_style_preference
+      label: Makeup Style Preference
+      hint: Describe your desired look
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: inspiration_references
+      label: Inspiration or Reference Images
+      hint: Any photos to show the artist
+      type: select_one
+      options:
+      - Yes, bringing references
+      - No references
+      - Will discuss with artist
+      required: false
+    - id: 12
+      name: skin_type
+      label: Your Skin Type
+      hint: Select your skin type
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Acne-prone
+      required: false
+    - id: 13
+      name: skin_concerns
+      label: Skin Concerns or Conditions
+      hint: Any skin issues to be aware of
+      type: select_multiple
+      options:
+      - Sensitive skin
+      - Acne or breakouts
+      - Rosacea
+      - Eczema
+      - Dermatitis
+      - Allergy prone
+      - None
+      required: false
+    - id: 14
+      name: product_allergies
+      label: Product Allergies or Sensitivities
+      hint: Any product allergies
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_brands
+      label: Preferred Makeup Brands
+      hint: Any brand preferences
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coverage_preference
+      label: Makeup Coverage Preference
+      hint: Level of coverage desired
+      type: select_one
+      options:
+      - Light and natural
+      - Medium coverage
+      - Full coverage
+      - Very heavy coverage
+      required: false
+    - id: 17
+      name: trial_session
+      label: Will You Have a Trial Session
+      hint: Practice run before wedding
+      type: select_one
+      options:
+      - Yes, scheduled
+      - Yes, to be scheduled
+      - No trial needed
+      - Unsure
+      required: false
+    - id: 18
+      name: touchup_service
+      label: Touchup Service During Event
+      hint: Will artist provide touchups
+      type: select_one
+      options:
+      - Yes, included
+      - Yes, additional fee
+      - No touchups needed
+      required: false
+    - id: 19
+      name: service_package
+      label: Service Package Selected
+      hint: Type of service
+      type: select_one
+      options:
+      - Bride makeup only
+      - Bride and bridal party
+      - Full day coverage
+      - Custom package
+      required: true
+    - id: 20
+      name: total_cost
+      label: Total Service Cost
+      hint: Amount agreed upon
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: When payment is due
+      type: select_one
+      options:
+      - Full payment upfront
+      - 50% deposit, 50% day of
+      - Payment due day of service
+      - Other arrangement
+      required: true
+    - id: 22
+      name: cancellation_policy
+      label: I understand the cancellation policy
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - Yes, I understand
+      - Need clarification
+      required: true
+    - id: 23
+      name: photography_consent
+      label: Consent to Photography
+      hint: Artist may photograph for portfolio
+      type: select_one
+      options:
+      - Yes, you may photograph
+      - No photography
+      - Ask before using
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_agreement
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: consent_confirmation
+      label: I consent to the makeup services as described above
+      hint: Confirm your consent
+      type: select_one
+      options:
+      - Yes, I consent
+      - I do not consent
+      required: true

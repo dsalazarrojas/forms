@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Product Innovation Testing Consent Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Animal Feed or Nutrition
+      - Health Supplement
+      - Grooming and Hygiene
+      - Housing and Bedding
+      - Toys and Enrichment
+      required: true
+    - id: 4
+      name: innovation_description
+      label: Description of Innovation Being Tested
+      hint: Summarize the product being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participation_duration
+      label: Expected Duration of Participation
+      hint: e.g. 2 weeks, 3 months
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: confidentiality_agreement
+      label: Acknowledgment of Confidentiality
+      hint: I agree to maintain the confidentiality of the product and testing protocols
+      type: select_one
+      options:
+      - I agree to maintain confidentiality
+      - Other
+      required: true
+    - id: 7
+      name: informed_consent_statement
+      label: Informed Consent for Testing
+      hint: I voluntarily agree to participate and allow my animal to be part of this
+        test
+      type: select_one
+      options:
+      - I voluntarily agree to participate
+      - Other
+      required: true
+    - id: 8
+      name: withdrawal_rights
+      label: Acknowledgment of Right to Withdraw
+      hint: I understand I can withdraw from the study at any time without penalty
+      type: select_one
+      options:
+      - I understand I can withdraw at any time
+      - Other
+      required: true
+    - id: 9
+      name: animal_emergency_contact
+      label: Emergency Contact for Animal
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

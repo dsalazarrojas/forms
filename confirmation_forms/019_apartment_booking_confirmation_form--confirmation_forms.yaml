@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Booking Confirmation Form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: booking_reference
+      label: Booking reference number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tenant_name
+      label: Tenant or guest full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tenant_email
+      label: Tenant email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: tenant_phone
+      label: Tenant phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: apartment_address
+      label: Apartment address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: apartment_unit
+      label: Unit or apartment number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zipcode
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: check_in_date
+      label: Check-in date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: check_out_date
+      label: Check-out date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: number_of_nights
+      label: Number of nights
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: occupancy_type
+      label: Type of occupancy
+      hint: null
+      type: select_one
+      options:
+      - Short-term rental
+      - Lease agreement
+      - Furnished sublet
+      - Room rental
+      required: true
+    - id: 15
+      name: number_of_occupants
+      label: Number of occupants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: pets_allowed
+      label: Pets in the apartment
+      hint: null
+      type: select_one
+      options:
+      - No pets
+      - Dogs only
+      - Cats only
+      - Dogs and cats
+      - Other pets
+      required: true
+    - id: 17
+      name: monthly_rent
+      label: Monthly rent amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: security_deposit
+      label: Security deposit amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: utilities_included
+      label: Utilities included in rent
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Water
+      - Electricity
+      - Gas
+      - Garbage
+      - Internet
+      - None included
+      - Other
+      required: true
+    - id: 20
+      name: parking_available
+      label: Parking available
+      hint: null
+      type: select_one
+      options:
+      - Yes, included
+      - Yes, additional fee
+      - Street parking only
+      - No parking available
+      required: true
+    - id: 21
+      name: move_in_condition
+      label: Apartment condition at move-in
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs repair
+      required: true
+    - id: 22
+      name: lease_term
+      label: Lease term length
+      hint: In months
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: confirmation_agreement
+      label: I confirm the booking details above are accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 24
+      name: tenant_signature_date
+      label: Signature date
+      hint: null
+      type: date
+      options: []
+      required: true

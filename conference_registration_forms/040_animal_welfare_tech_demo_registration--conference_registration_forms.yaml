@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Tech Demo Registration
+    pages:
+    - id: 1
+      name: attendee_name_full
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name_employer
+      label: Organization or Employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title_position
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tech_category_interests
+      label: Technology Categories of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Shelter Management Software
+      - Wildlife Tracking and GPS Devices
+      - Veterinary Diagnostic and Lab Tools
+      - AI for Animal Behavior Analysis
+      - Fundraising and Donor Engagement Tech
+      required: true
+    - id: 7
+      name: session_preference_choice
+      label: Demo Session Preference
+      hint: null
+      type: select_one
+      options:
+      - Morning Session - 9am to 12pm
+      - Afternoon Session - 1pm to 4pm
+      - Full Day VIP Pass
+      required: true
+    - id: 8
+      name: team_attendee_count
+      label: Number of Additional Team Members Attending
+      hint: Enter 0 if attending alone
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: accessibility_needs_req
+      label: Special Accessibility Requirements
+      hint: Mobility, visual, or hearing support
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lead_source_discovery
+      label: How did you hear about this demo?
+      hint: null
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Colleague Recommendation
+      - Official Website
+      - Industry Event
+      required: true
+    - id: 11
+      name: registration_confirmation_note
+      label: -- Confirmation will be sent to your email --
+      hint: Thank you for registering for the tech demo
+      type: note
+      options: []
+      required: false

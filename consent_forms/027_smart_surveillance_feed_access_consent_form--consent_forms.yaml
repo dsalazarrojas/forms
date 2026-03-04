@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Surveillance Feed Access Consent Form
+    pages:
+    - id: 1
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surveillance_type
+      label: What type of surveillance feeds do you want to access?
+      hint: null
+      type: select_one
+      options:
+      - Surveillance feed 1
+      - Surveillance feed 2
+      - Surveillance feed 3
+      required: false
+    - id: 3
+      name: video_feed
+      label: What video feed do you want to access?
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 4
+      name: access_time
+      label: How long would you like to access the surveillance feed for?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date_access
+      label: Date of Access
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

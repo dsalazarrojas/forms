@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: dealer_meeting_travel_plan
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: meeting_name
+      label: Meeting Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_method
+      label: Travel Method
+      hint: null
+      type: select_multiple
+      options:
+      - Drive
+      - Fly
+      - Train
+      - Other
+      required: false
+    - id: 5
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: meeting_start_time
+      label: Meeting Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: meeting_end_time
+      label: Meeting End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: travel_cost_currency
+      label: Travel Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 15
+      name: travel_cost_other_currency
+      label: Travel Cost Other Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hotel_name
+      label: Hotel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hotel_location
+      label: Hotel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: room_service
+      label: Room Service
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'Yes'
+      required: false
+    - id: 19
+      name: meal_inclusion
+      label: Meal Inclusion
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 20
+      name: parking_info
+      label: Parking Info
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Valet
+      - Self Park
+      - Public Parking
+      required: false
+    - id: 21
+      name: meeting_floor
+      label: Meeting Floor
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - First
+      - Second
+      - Other
+      required: false
+    - id: 22
+      name: meeting_floor_other
+      label: Meeting Floor Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: room_service_info
+      label: Room Service Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

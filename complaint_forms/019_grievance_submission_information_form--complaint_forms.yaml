@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: grievance_submission_information_form
+    pages:
+    - id: 1
+      name: submitter_data
+      label: submitter_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - Physical Complaint
+      - Non-Physical Complaint
+      - Service
+      - Other
+      required: false
+    - id: 3
+      name: grievance_date
+      label: grievance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: grievance_time
+      label: grievance_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: grievance_details
+      label: grievance_details
+      hint: Provide detailed description of the grievance.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grievance_image
+      label: grievance_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_address
+      label: submitter_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false

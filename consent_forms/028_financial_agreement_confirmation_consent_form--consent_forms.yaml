@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: financial-agreement-confirmation-consent-form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_details
+      label: Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Term 1
+      - Term 2
+      - Term 3
+      required: true
+    - id: 6
+      name: advisor_acceptance
+      label: Advisor Acceptance
+      hint: null
+      type: text
+      options: []
+      required: false

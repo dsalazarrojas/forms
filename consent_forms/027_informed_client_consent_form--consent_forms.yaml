@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: informed-client-consent-form
+    pages:
+    - id: 1
+      name: client_consent_form
+      label: Client Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: informed_consent
+      label: Informed Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_practitioner_rights
+      label: Client Practitioner Rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_privacy_notice
+      label: Client Privacy Notice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Client allergies
+      - Client medical conditions
+      - Client medication allergies
+      - Client medical history
+      - Client surgical history
+      required: false
+    - id: 6
+      name: medical_conditions_2
+      label: Medical Conditions 2
+      hint: null
+      type: select_one
+      options:
+      - Client allergies
+      - Client medical conditions
+      - Client medication allergies
+      - Client medical history
+      - Client surgical history
+      required: false
+    - id: 7
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition_treatment
+      label: Medical Condition Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Medication allergies
+      - Medical treatment
+      - Medical history
+      - Surgical history
+      required: false
+    - id: 9
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: consent_time
+      label: Consent Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false

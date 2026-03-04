@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Camp Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Participant Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select option
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: Legal guardian name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: For camp communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related to participant
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: camp_session
+      label: Camp Session
+      hint: Which session is participant attending
+      type: select_one
+      options:
+      - Week 1 - June 15 to 19
+      - Week 2 - June 22 to 26
+      - Week 3 - June 29 to July 3
+      - Week 4 - July 6 to 10
+      - Week 5 - July 13 to 17
+      - Full camp - all weeks
+      required: true
+    - id: 12
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_policy_number
+      label: Policy Number
+      hint: Insurance policy number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Any conditions camp should know about
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List any medications participant takes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physical_limitations
+      label: Physical Limitations
+      hint: Any restrictions on activity
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physician_name
+      label: Primary Care Physician Name
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor phone number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I understand baseball involves physical activity and risk of injury
+      type: select_one
+      options:
+      - I understand and accept the risks
+      - I do not accept
+      required: true
+    - id: 20
+      name: liability_release
+      label: Liability Release
+      hint: I release the camp from liability for ordinary negligence
+      type: select_one
+      options:
+      - I agree to release liability
+      - I do not agree
+      required: true
+    - id: 21
+      name: medical_authorization
+      label: Medical Treatment Authorization
+      hint: I authorize emergency medical treatment for my child
+      type: select_one
+      options:
+      - I authorize medical treatment
+      - I do not authorize
+      required: true
+    - id: 22
+      name: photo_video_consent
+      label: Photo and Video Consent
+      hint: May camp use photos or videos of participant
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 23
+      name: pickup_authorization
+      label: Authorized for Pickup
+      hint: Who can pick up participant from camp
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: transportation_permission
+      label: Transportation Permission
+      hint: May camp transport participant if needed
+      type: select_one
+      options:
+      - Yes, I give permission
+      - false
+      required: true
+    - id: 25
+      name: code_of_conduct
+      label: Code of Conduct Agreement
+      hint: Participant will follow camp rules
+      type: select_one
+      options:
+      - I agree to follow all rules
+      - I do not agree
+      required: true
+    - id: 26
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

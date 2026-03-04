@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Gift Claim Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Claim Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gift_info
+      label: Gift Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: gift_value
+      label: Gift Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: gift_image
+      label: Gift Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: gift_claim_status
+      label: Gift Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: shipping_status
+      label: Shipping Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: claimer_note
+      label: Claimer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: gift_claimer
+      label: Gift Claimer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: claimer_info
+      label: Claimer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: event_id_2
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: gift_name
+      label: Gift Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: gift_type
+      label: Gift Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: shipping_type
+      label: Shipping Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: gift_status
+      label: Gift Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: gift_claimed
+      label: Gift Claimed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: note
+      options: []
+      required: false

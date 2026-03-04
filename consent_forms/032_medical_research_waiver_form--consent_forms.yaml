@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Research Waiver Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: informed_consent
+      label: informed_consent
+      hint: This is a legal document.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risks_involledged
+      label: risks_involledged
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: waiver
+      label: waiver
+      hint: Please read and sign this waiver carefully.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_contact
+      label: participant_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: research_institution
+      label: research_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: principal_investigator
+      label: principal_investigator
+      hint: Dr. John Doe
+      type: text
+      options: []
+      required: false

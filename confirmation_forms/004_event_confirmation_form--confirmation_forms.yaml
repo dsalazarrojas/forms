@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_confirmation_form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_end_time
+      label: event_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_venue
+      label: event_venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_time_zone
+      label: event_time_zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pacific'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Mountain'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Central'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Eastern'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Other'', ''value'': 5}'
+      required: false
+    - id: 9
+      name: event_status
+      label: event_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Confirmed'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Cancelled'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''In Progress'', ''value'': 3}'
+      required: false
+    - id: 10
+      name: confirm_attendance
+      label: confirm_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: confirm_attendance_count
+      label: confirm_attendance_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: confirm_attendance_count_2
+      label: confirm_attendance_count_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: confirm_attendance_count_3
+      label: confirm_attendance_count_3
+      hint: null
+      type: number
+      options: []
+      required: false

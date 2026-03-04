@@ -1,0 +1,196 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Ethics Licensing Form
+    pages:
+    - id: 1
+      name: licensing_entities_header
+      label: --- Licensee Information ---
+      hint: Details of the entity requesting the license.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: licensee_full_name
+      label: Licensee / Authorized Representative
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization / Entity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - label: For-Profit Corporation
+        value: for_profit
+      - label: Non-Profit / NGO
+        value: non_profit
+      - label: Academic / Research Institution
+        value: academic
+      - label: Individual Developer
+        value: individual
+      - label: Government Agency
+        value: government
+      required: true
+    - id: 5
+      name: ai_project_details_header
+      label: --- AI Project and Model Details ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ai_model_name
+      label: AI Product / Model Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: intended_use_case
+      label: Detailed Description of Intended Use
+      hint: How and where will this AI technology be deployed?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_type_requested
+      label: License Type Requested
+      hint: null
+      type: select_one
+      options:
+      - label: Commercial Enterprise License
+        value: commercial
+      - label: Research and Development License
+        value: research
+      - label: Educational / Non-Commercial License
+        value: educational
+      - label: Evaluation / Trial License
+        value: evaluation
+      required: true
+    - id: 9
+      name: ethical_constraints_header
+      label: --- Ethical Compliance and Constraints ---
+      hint: Mandatory adherence to ethical use policies.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: restricted_use_acknowledgment
+      label: Restricted Use Acknowledgment
+      hint: Check all categories you agree NOT to use the AI for.
+      type: select_multiple
+      options:
+      - label: Lethal Autonomous Weapons Systems
+        value: weapons
+      - label: Mass Surveillance or Social Scoring
+        value: surveillance
+      - label: Generating Misinformation / Deepfakes without Disclosure
+        value: misinformation
+      - label: Discrimination in Hiring, Credit, or Healthcare
+        value: discrimination
+      - label: Exploitation of Vulnerable Groups
+        value: exploitation
+      required: true
+    - id: 11
+      name: data_privacy_compliance
+      label: Data Privacy Standards Compliance
+      hint: Which standards does your implementation adhere to?
+      type: select_multiple
+      options:
+      - label: GDPR (EU)
+        value: gdpr
+      - label: CCPA/CPRA (California)
+        value: ccpa
+      - label: HIPAA (Healthcare US)
+        value: hipaa
+      - label: SOC 2 Type II
+        value: soc2
+      - label: Local Privacy Laws Only
+        value: local
+      required: true
+    - id: 12
+      name: model_transparency_level
+      label: Model Transparency Level
+      hint: null
+      type: select_one
+      options:
+      - label: Fully Transparent (Open Weights/Source)
+        value: open
+      - label: Partially Transparent (API access + Documentation)
+        value: partial
+      - label: Proprietary / Black Box
+        value: proprietary
+      required: true
+    - id: 13
+      name: legal_logistics_header
+      label: --- Legal and Administrative ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: license_effective_date
+      label: Requested License Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: monitoring_frequency
+      label: Preferred Audit / Monitoring Frequency
+      hint: null
+      type: select_one
+      options:
+      - label: Quarterly Self-Assessment
+        value: quarterly
+      - label: Annual External Audit
+        value: annual
+      - label: Continuous Monitoring (API logs)
+        value: continuous
+      required: true
+    - id: 16
+      name: compliance_contact_email
+      label: Compliance Officer Email
+      hint: For ethics and licensing follow-up.
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: jurisdiction_governing_law
+      label: Governing Law Jurisdiction
+      hint: e.g., State of Delaware, UK, Germany
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: liability_waiver_agreement
+      label: I accept the liability and indemnification terms of this license.
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, I accept
+        value: yes
+      - label: No, I do not accept
+        value: no
+      required: true

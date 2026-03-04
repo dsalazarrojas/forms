@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Coaching Admission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: height_in_cm
+      label: Height in cm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight_in_kg
+      label: Weight in kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_training_days
+      label: Preferred Training Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 10
+      name: preferred_training_time
+      label: Preferred Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

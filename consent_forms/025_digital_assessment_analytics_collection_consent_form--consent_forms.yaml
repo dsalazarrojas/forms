@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Assessment Analytics Collection Consent Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_question
+      label: What is your consent level?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 3
+      name: consent
+      label: Do you grant consent?
+      hint: Check to grant consent
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

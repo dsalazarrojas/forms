@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: operational_compliance_inspection_checklist
+    pages:
+    - id: 1
+      name: title
+      label: operational_compliance_inspection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: compliance_inspection_checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time_of_inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: findings
+      label: findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 12
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

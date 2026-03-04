@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Maintenance Checklist
+    pages:
+    - id: 1
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: maintenance_schedule
+      label: maintenance_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: hotel_maintenance_item
+      label: hotel_maintenance_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_due_date
+      label: maintenance_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: maintenance_description
+      label: maintenance_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_item_status
+      label: maintenance_item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: maintenance_item_priority
+      label: maintenance_item_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: maintenance_item_status_history
+      label: maintenance_item_status_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_due
+      label: maintenance_due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_start
+      label: maintenance_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_end
+      label: maintenance_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: tool_status
+      label: tool_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: tool_last_updated
+      label: tool_last_updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: tool_last_updated_by
+      label: tool_last_updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tool_last_updated_at
+      label: tool_last_updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: tool_last_updated_by_name
+      label: tool_last_updated_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tool_last_updated_by_email
+      label: tool_last_updated_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: tool_last_updated_by_phone
+      label: tool_last_updated_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_item_note
+      label: maintenance_item_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_item_note_readonly
+      label: maintenance_item_note_readonly
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_item_note_last_updated
+      label: maintenance_item_note_last_updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_item_note_last_updated_by
+      label: maintenance_item_note_last_updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: maintenance_item_note_last_updated_by_name
+      label: maintenance_item_note_last_updated_by_name
+      hint: null
+      type: text
+      options: []
+      required: false

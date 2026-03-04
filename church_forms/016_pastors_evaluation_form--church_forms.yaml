@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pastors Evaluation Form
+    pages:
+    - id: 1
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_1
+      label: Is the pastor a leader?
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 4
+      name: question_2
+      label: How would you rate the pastors communication skills?
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: question_3
+      label: What are some of the pastors strengths?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: What are some of the pastors areas for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: What are some of the pastoral teams strengths?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_6
+      label: What are some of the pastoral teams areas for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_questions_2
+      label: Form Questions 2
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 10
+      name: questions_2
+      label: Questions 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

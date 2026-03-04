@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Disclosure And Conflict Of Interest Form
+    pages:
+    - id: 1
+      name: speaker_disclosure_and_conflict_of_interest_form
+      label: Speaker Disclosure And Conflict Of Interest Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_details
+      label: Speaker Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: speaker_affiliations
+      label: Speaker Affiliations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: speaker_financial_interests
+      label: Speaker Financial Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: speaker_conflicts_of_interest
+      label: Speaker Conflicts Of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: speaker_financial_relationships
+      label: Speaker Financial Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: conflict_of_interest_details
+      label: Conflict Of Interest Details
+      hint: null
+      type: text
+      options: []
+      required: false

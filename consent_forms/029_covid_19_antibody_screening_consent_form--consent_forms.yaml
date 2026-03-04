@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Antibody Screening Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For results
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: test_date
+      label: Test Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: ordering_provider
+      label: Ordering Provider
+      hint: Physician name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: test_explanation
+      label: Test Explanation
+      hint: Antibody test information
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: understand_purpose
+      label: I Understand Test Purpose
+      hint: Detects past infection
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 15
+      name: understand_limitations
+      label: I Understand Test Limitations
+      hint: Does not diagnose current infection
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 16
+      name: understand_results
+      label: I Understand Results Meaning
+      hint: Positive negative implications
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 17
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: I consent voluntarily
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 18
+      name: blood_draw_consent
+      label: Blood Draw Consent
+      hint: I allow blood sample collection
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 19
+      name: risks_understood
+      label: Risks Understood
+      hint: Discomfort bruising etc
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 20
+      name: results_delivery
+      label: How to Receive Results
+      hint: Preferred method
+      type: select_one
+      options:
+      - Patient Portal
+      - Email
+      - Phone Call
+      - Mail
+      - Pick Up In Person
+      required: true
+    - id: 21
+      name: results_timing
+      label: Results Timing Acknowledgment
+      hint: 1-3 business days
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 22
+      name: data_sharing
+      label: Data Sharing Consent
+      hint: Share with health department
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 23
+      name: research_use
+      label: Research Use Consent
+      hint: Anonymous data for research
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: false
+    - id: 24
+      name: insurance_billing
+      label: Insurance Billing Authorization
+      hint: Bill my insurance
+      type: select_one
+      options:
+      - Yes Authorize
+      - No - Self Pay
+      required: true
+    - id: 25
+      name: follow_up_needed
+      label: Follow-up Discussion Needed
+      hint: With provider about results
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: questions_answered
+      label: Were Your Questions Answered
+      hint: By healthcare provider
+      type: select_one
+      options:
+      - Yes - All answered
+      - Yes - Most answered
+      - No - Still have questions
+      required: true
+    - id: 27
+      name: patient_questions
+      label: Patient Questions
+      hint: Any remaining questions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: If patient is minor
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: witness_name
+      label: Witness Name
+      hint: Healthcare witness
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: provider_signature
+      label: Provider Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false

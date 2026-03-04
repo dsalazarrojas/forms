@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Service Evaluation Checklist
+    pages:
+    - id: 1
+      name: location_visited
+      label: Location Visited
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Overall Rating
+      hint: Select a rating (1-5)
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: food_quality
+      label: Food Quality
+      hint: How would you rate the quality of food?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_quality
+      label: Service Quality
+      hint: How would you rate the quality of service?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cleanliness
+      label: Cleanliness
+      hint: How would you rate the cleanliness of the location?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: atmosphere
+      label: Atmosphere
+      hint: How would you rate the atmosphere?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: value_added
+      label: Value Added
+      hint: Did the location add any value to your visit?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: Is there anything else you would like to tell us?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Tool
+      hint: null
+      type: text
+      options: []
+      required: false

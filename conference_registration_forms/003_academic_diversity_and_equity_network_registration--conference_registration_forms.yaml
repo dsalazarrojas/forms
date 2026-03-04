@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Diversity And Equity Network Registration
+    pages:
+    - id: 1
+      name: network_intro
+      label: Welcome to Academic Diversity and Equity Network
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: Professional email for network communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_institution
+      label: Institution or Organization
+      hint: Name of your university, college, or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_role
+      label: Role or Position
+      hint: Your current position or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_department
+      label: Department or Division
+      hint: Your academic department or administrative division
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: diversity_focus_areas
+      label: Areas of Interest in Diversity and Equity
+      hint: Select areas you are most interested in (select all that apply)
+      type: select_multiple
+      options:
+      - Racial equity
+      - Gender inclusion
+      - LGBTQ+ rights
+      - Disability access
+      - Socioeconomic diversity
+      - International perspectives
+      - Religious accommodation
+      - First-generation student support
+      required: false
+    - id: 9
+      name: professional_experience_years
+      label: Years of Experience in DEI Work
+      hint: How many years have you worked in diversity, equity, and inclusion?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: network_goals
+      label: Goals for Joining the Network
+      hint: What do you hope to achieve by joining this network?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: collaboration_interest
+      label: Collaboration Interests
+      hint: Are you interested in collaborative research or initiatives?
+      type: select_one
+      options:
+      - Yes, actively seeking collaborations
+      - Open to opportunities
+      - Not currently seeking
+      - Just networking
+      required: false
+    - id: 12
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility requirements for participation?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: How would you prefer to receive network updates?
+      type: select_one
+      options:
+      - Email
+      - Newsletter
+      - Webinars
+      - In-person events
+      - Online forums
+      - All of the above
+      required: false
+    - id: 14
+      name: geographic_region
+      label: Geographic Region
+      hint: What region do you primarily work in?
+      type: select_one
+      options:
+      - Local
+      - State/Province
+      - National
+      - International
+      required: false
+    - id: 15
+      name: previous_network_membership
+      label: Previous DEI Network Membership
+      hint: Have you been part of similar networks before?
+      type: select_one
+      options:
+      - Yes, currently active
+      - Yes, previously active
+      - No, this is my first
+      - Not sure
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Technology Device Use Agreement Form
+    pages:
+    - id: 1
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: purpose
+      label: Purpose of Device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: usage_guidelines
+      label: Usage Guidelines
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: student_agreement
+      label: Student Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: institution_agreement
+      label: Institution Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parental_signature
+      label: Parent/Guardian Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

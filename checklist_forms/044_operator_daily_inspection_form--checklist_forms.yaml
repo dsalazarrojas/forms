@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operator Daily Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      required: false
+    - id: 5
+      name: inspection_report
+      label: Inspection Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_operator
+      label: Assigned Operator
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_multiple
+      options:
+      - Operational
+      - Non-Operational
+      required: false
+    - id: 8
+      name: operator_comments
+      label: Operator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Toyota
+      - Ford
+      required: false
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - '2010'
+      - '2015'
+      required: false
+    - id: 13
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      required: false
+    - id: 14
+      name: vehicle_engine
+      label: Vehicle Engine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_transmission
+      label: Vehicle Transmission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: operator_signature
+      label: Operator Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_serial_number
+      label: Vehicle Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_vin
+      label: Vehicle Vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_odometer
+      label: Vehicle Odometer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      required: false
+    - id: 23
+      name: vehicle_status_history
+      label: Vehicle Status History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_defect
+      label: Vehicle Defect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_remarks
+      label: Vehicle Remaks
+      hint: null
+      type: text
+      options: []
+      required: false

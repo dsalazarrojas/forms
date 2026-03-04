@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: excavator_attachment_inspection_checklist
+    pages:
+    - id: 1
+      name: inspection_frequency
+      label: What is the inspection frequency of this excavator
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 2
+      name: inspection_item
+      label: What items are included in this inspection
+      hint: null
+      type: select_multiple
+      options:
+      - Boom
+      - Bucket
+      - Winch
+      - Hydraulic system
+      - Tracks
+      required: false
+    - id: 3
+      name: inspection_item_other
+      label: Specify other items included in this inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_last_inspected
+      label: When was the last inspection
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_last_inspected
+      label: What time was the last inspection
+      hint: "HH:MM:SS AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_notification
+      label: Will you require email notification on completion of this inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_notification
+      label: Will you require phone notification on completion of this inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Are there any comments on this inspection
+      hint: Comments
+      type: select_multiple
+      options:
+      - Approved
+      - Disapproved
+      - Not Required
+      required: false
+    - id: 10
+      name: comments_other
+      label: Specify other comments on this inspection
+      hint: null
+      type: text
+      options: []
+      required: false

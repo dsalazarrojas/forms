@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Consent Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tattoo_details
+      label: Tattoo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tattoo_placement
+      label: Tattoo Placement
+      hint: null
+      type: select_one
+      options:
+      - Front of the body
+      - Back of the body
+      - Left side of the body
+      - Right side of the body
+      required: false
+    - id: 7
+      name: tattoo_size
+      label: Tattoo Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: blood_types
+      label: Blood Types
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: note
+      options: []
+      required: false

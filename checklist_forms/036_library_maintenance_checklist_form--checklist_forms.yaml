@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: librarians_document_maintenance_tasks
+      label: Librarians document maintenance tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: track_repairs
+      label: Track repairs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ensure_optimal_library_conditions
+      label: Ensure optimal library conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: library_equipment
+      label: Library Equipment
+      hint: List the library equipment that needs maintenance
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: repair_frequency
+      label: Repair Frequency
+      hint: How often do you perform repairs?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cost_of_repairs
+      label: Cost of Repairs
+      hint: What's the average cost of repairs?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: next_scheduled_maintenance
+      label: Next Scheduled Maintenance
+      hint: Enter date of next scheduled maintenance
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_scheduled_maintenance_time
+      label: Next Scheduled Maintenance Time
+      hint: Enter time of next scheduled maintenance
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Any other notes about the maintenance
+      type: note
+      options: []
+      required: false

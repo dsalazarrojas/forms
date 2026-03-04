@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AV Equipment Inspection Checklist
+    pages:
+    - id: 1
+      name: equipment_identification_section
+      label: Equipment Identification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: Unique identifier for the AV equipment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: Type of AV equipment being inspected
+      type: select_one
+      options: ["Projector", "Display Monitor", "Audio Mixer", "Microphone", "Speaker", "Camera", "Streaming Device", "Cables/Connectors", "Other"]
+      required: true
+    - id: 4
+      name: manufacturer
+      label: Manufacturer
+      hint: Brand or manufacturer of the equipment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: model_number
+      label: Model Number
+      hint: Specific model number of the equipment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: serial_number
+      label: Serial Number
+      hint: Serial number of the equipment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: Date when the inspection is performed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of the person performing the inspection
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: Where is the equipment currently located
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: physical_condition
+      label: Physical Condition Assessment
+      hint: Overall physical condition of the equipment
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Requires Repair"]
+      required: true
+    - id: 11
+      name: power_cord_condition
+      label: Power Cord Condition
+      hint: Is the power cord in good condition with no fraying or damage?
+      type: select_one
+      options: ["Pass", "Fail", "N/A"]
+      required: true
+    - id: 12
+      name: cable_connections
+      label: Cable Connections
+      hint: Are all cable connections secure and undamaged?
+      type: select_one
+      options: ["Pass", "Fail", "N/A"]
+      required: true
+    - id: 13
+      name: audio_quality_test
+      label: Audio Quality Test
+      hint: For audio equipment, is the sound quality acceptable?
+      type: select_one
+      options: ["Pass", "Fail", "N/A"]
+      required: true
+    - id: 14
+      name: video_quality_test
+      label: Video Quality Test
+      hint: For video equipment, is the picture quality acceptable?
+      type: select_one
+      options: ["Pass", "Fail", "N/A"]
+      required: true
+    - id: 15
+      name: remote_control_functionality
+      label: Remote Control Functionality
+      hint: Does the remote control operate correctly (if applicable)?
+      type: select_one
+      options: ["Pass", "Fail", "N/A"]
+      required: true
+    - id: 16
+      name: mounting_security
+      label: Mounting Security
+      hint: Is the equipment securely mounted (if applicable)?
+      type: select_one
+      options: ["Pass", "Fail", "N/A"]
+      required: true
+    - id: 17
+      name: ventilation_clearance
+      label: Ventilation Clearance
+      hint: Is there adequate ventilation around the equipment?
+      type: select_one
+      options: ["Pass", "Fail", "N/A"]
+      required: true
+    - id: 18
+      name: firmware_update_needed
+      label: Firmware Update Needed
+      hint: Does the equipment require a firmware update?
+      type: select_one
+      options: ["Yes", "No", "Not Applicable"]
+      required: true
+    - id: 19
+      name: maintenance_required
+      label: Maintenance Required
+      hint: Does the equipment require maintenance or repair?
+      type: select_one
+      options: ["No Maintenance Needed", "Routine Maintenance", "Repairs Needed", "Replacement Required"]
+      required: true
+    - id: 20
+      name: next_inspection_date
+      label: Recommended Next Inspection Date
+      hint: When should this equipment be inspected again?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: inspector_notes
+      label: Inspector Notes
+      hint: Any additional observations or comments about the equipment
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspection_approved
+      label: Inspection Approved
+      hint: Does the equipment pass inspection and is it approved for use?
+      type: select_one
+      options: ["Approved", "Conditionally Approved", "Rejected"]
+      required: true

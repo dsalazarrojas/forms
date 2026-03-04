@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Chef Service Inquiry
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: chef_name
+      label: Chef Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: chef_service_type
+      label: Chef Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: message_to_client
+      label: Message To Client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: message_from_chef
+      label: Message From Chef
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: message_to_chef
+      label: Message To Chef
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: message_from_client
+      label: Message From Client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: assigned_status
+      label: Assigned Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: assigned_user_status
+      label: Assigned User Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

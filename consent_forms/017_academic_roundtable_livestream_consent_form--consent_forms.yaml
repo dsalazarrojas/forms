@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Roundtable Livestream Consent Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Roundtable Livestream Consent Form --
+      hint: Please complete this form to provide consent for recording and livestreaming
+        your participation in the academic roundtable.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_role
+      label: Your role in the roundtable
+      hint: null
+      type: select_one
+      options:
+      - Panelist or Speaker
+      - Moderator
+      - Discussant
+      - Audience Member
+      - Organizer
+      required: true
+    - id: 6
+      name: institution_affiliation
+      label: Institutional affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_title
+      label: Title of the roundtable event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Date of the event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: consent_section
+      label: -- Livestream and Recording Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_livestream
+      label: I consent to the live streaming of this roundtable event
+      hint: null
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 11
+      name: consent_recording
+      label: I consent to the event being recorded for future use
+      hint: null
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 12
+      name: distribution_platforms
+      label: I consent to the recording being shared on the following platforms (select
+        all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Institutional website
+      - YouTube
+      - Social media
+      - Academic repositories
+      - Internal use only
+      required: true
+    - id: 13
+      name: consent_name_title
+      label: I consent to my name and title being displayed during the livestream
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: right_to_withdraw
+      label: I understand I may request removal of my portion from the recording within
+        30 days of the event
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand
+      - Other
+      required: true
+    - id: 15
+      name: consent_date
+      label: Date of consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_conditions
+      label: Any additional conditions or restrictions
+      hint: null
+      type: text
+      options: []
+      required: false

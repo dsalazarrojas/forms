@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blogger Symposium Signup Form
+    pages:
+    - id: 1
+      name: symposium_header
+      label: Blogger Symposium Registration
+      hint: Register for the annual blogger symposium
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: As it should appear on badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: blog_name
+      label: Blog Name
+      hint: Name of your blog
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: blog_url
+      label: Blog URL
+      hint: Website address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization
+      label: Organization or Company
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your role
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: Select your pass
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Virtual Attendance
+      - Workshop Only
+      - VIP Pass
+      required: true
+    - id: 10
+      name: attendance_days
+      label: Days Attending
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Day 1 - Keynotes and Panels
+      - Day 2 - Workshops
+      - Day 3 - Networking Events
+      - All Days
+      required: true
+    - id: 11
+      name: session_tracks
+      label: Session Tracks of Interest
+      hint: What topics interest you
+      type: select_multiple
+      options:
+      - Content Creation
+      - Monetization Strategies
+      - Social Media Marketing
+      - SEO and Analytics
+      - Brand Partnerships
+      - Legal and Business
+      - Photography and Design
+      required: true
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For catering purposes
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 13
+      name: accommodation_needed
+      label: Accommodation Assistance
+      hint: Need hotel recommendations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For conference swag
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: false
+    - id: 15
+      name: networking_goals
+      label: Networking Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: presentation_interest
+      label: Interested in Presenting
+      hint: Would you like to speak
+      type: select_one
+      options:
+      - Yes Interested
+      - Maybe
+      - No Thanks
+      required: true
+    - id: 17
+      name: presentation_topic
+      label: Proposed Topic
+      hint: If presenting what topic
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About Symposium
+      hint: Source of information
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Fellow Blogger
+      - Website
+      - Previous Attendee
+      - Other
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Invoice Request
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Testing Site Discharge Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_involvement
+      label: testing_site_involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_results
+      label: test_results
+      hint: null
+      type: select_one
+      options:
+      - Test Result 1
+      - Test Result 2
+      - Test Result 3
+      required: true
+    - id: 4
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: testing_site_staff_signature
+      label: Testing Site Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: facility
+      label: Facility
+      hint: Hospital or Clinic
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: testing_site_contact
+      label: Testing Site Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_result_comments
+      label: Test Result Comments
+      hint: null
+      type: text
+      options: []
+      required: false

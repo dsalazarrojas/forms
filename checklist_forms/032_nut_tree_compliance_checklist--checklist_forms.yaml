@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nut Tree Compliance Checklist
+    pages:
+    - id: 1
+      name: nut_tree_compliance_checklist_form
+      label: nut_tree_compliance_checklist_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: species
+      label: species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: species_name
+      label: species_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: species_specific_compliance_check
+      label: species_specific_compliance_check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: orchard_management
+      label: orchard_management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: contact_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assignee_name
+      label: assignee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assignee_phone
+      label: assignee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assignee_email
+      label: assignee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: assignee_designation
+      label: assignee_designation
+      hint: null
+      type: text
+      options: []
+      required: false

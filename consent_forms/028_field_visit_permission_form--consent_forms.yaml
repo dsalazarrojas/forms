@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Visit Permission Form
+    pages:
+    - id: 1
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: field_trip_date
+      label: field_trip_date
+      hint: The date of the field trip
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trip_name
+      label: trip_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_consent
+      label: parent_consent
+      hint: Please provide your signature below to give your consent for your child
+        to participate in this field trip
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: guardian_consent
+      label: guardian_consent
+      hint: Please provide your signature below to give your consent for your child
+        to participate in this field trip
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: student_consent
+      label: student_consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

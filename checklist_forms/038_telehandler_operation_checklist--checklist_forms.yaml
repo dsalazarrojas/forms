@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehandler Operation Checklist
+    pages:
+    - id: 1
+      name: construction_site_name
+      label: Construction Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: telehandler_type
+      label: Telehandler Type
+      hint: null
+      type: select_one
+      options:
+      - Boom Lift
+      - Articulated Digger
+      - Telehandler
+      required: false
+    - id: 3
+      name: operation_date
+      label: Operation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: operation_start_time
+      label: Operation Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: operation_end_time
+      label: Operation End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: site_area
+      label: Site Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_operators
+      label: Number of Operators
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_observers
+      label: Number of Observers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: operation_status
+      label: Operation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

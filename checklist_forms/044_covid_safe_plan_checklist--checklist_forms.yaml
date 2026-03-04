@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Safe Plan Checklist
+    pages:
+    - id: 1
+      name: checklist_facility_header
+      label: -- Facility Information --
+      hint: Details about your facility
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: checklist_facility_name
+      label: Facility Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: checklist_facility_type
+      Label: Facility Type
+      hint: Type of organization
+      type: select_one
+      options:
+        - Office
+        - Healthcare facility
+        - School
+        - Community center
+        - Retail
+        - Restaurant
+        - Manufacturing
+        - Other
+      required: true
+    - id: 4
+      name: checklist_inspector_name
+      label: Inspector or Manager Name
+      hint: Person completing checklist
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: checklist_inspection_date
+      Label: Inspection Date
+      hint: Date checklist completed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: checklist_policies_header
+      label: -- COVID-19 Safety Policies --
+      hint: Check implementation status
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: checklist_policy_documented
+      Label: Written COVID-19 Safety Policy
+      hint: Documented safety policy exists
+      type: select_one
+      options:
+        - In place and implemented
+        - In place but not implemented
+        - Not in place
+        - Needs updating
+      required: true
+    - id: 8
+      name: checklist_employees_trained
+      label: Employees Trained on Safety Protocol
+      hint: Staff training completed
+      type: select_one
+      options:
+        - All trained
+        - Most trained
+        - Some trained
+        - Not trained
+      required: true
+    - id: 9
+      name: checklist_screening_protocol_header
+      Label: -- Health Screening --
+      hint: Check screening procedures
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: checklist_daily_screening
+      label: Daily Health Screening Implemented
+      hint: Daily health screening in place
+      type: select_one
+      options:
+        - Yes, fully implemented
+        - Partially implemented
+        - Planned
+        - Not implemented
+      required: true
+    - id: 11
+      name: checklist_symptom_reporting
+      Label: Symptom Reporting Procedure
+      hint: Process for reporting symptoms
+      type: select_one
+      options:
+        - Clear procedure in place
+        - Procedure partially in place
+        - Procedure needed
+        - Not addressed
+      required: true
+    - id: 12
+      name: checklist_isolation_area_header
+      label: -- Isolation and Quarantine --
+      hint: Check isolation facilities
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: checklist_isolation_area
+      Label: Designated Isolation Area
+      hint: Isolated space for sick individuals
+      type: select_one
+      options:
+        - Yes, designated area exists
+        - Area exists but not clearly marked
+        - Area needed
+        - Not applicable
+      required: true
+    - id: 14
+      name: checklist_quarantine_protocol
+      label: Quarantine Protocol
+      hint: Procedure for quarantine if needed
+      type: select_one
+      options:
+        - Clear protocol in place
+        - Protocol partially in place
+        - Protocol needed
+        - Not addressed
+      required: true
+    - id: 15
+      name: checklist_cleaning_header
+      Label: -- Cleaning and Sanitization --
+      hint: Check cleaning procedures
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: checklist_regular_cleaning
+      label: Regular Facility Cleaning Schedule
+      hint: Daily or frequent cleaning
+      type: select_one
+      options:
+        - Daily schedule in place
+        - Multiple times weekly
+        - Weekly schedule
+        - As needed only
+        - Not scheduled
+      required: true
+    - id: 17
+      name: checklist_disinfection_supplies
+      Label: Adequate Disinfection Supplies
+      hint: Sufficient cleaning and disinfection supplies
+      type: select_one
+      options:
+        - Well stocked
+        - Adequately stocked
+        - Low supply
+        - Out of stock
+      required: true
+    - id: 18
+      name: checklist_high_touch_surfaces
+      label: High-Touch Surface Disinfection
+      hint: Frequent disinfection of doorknobs, etc
+      type: select_one
+      options:
+        - Multiple times daily
+        - Daily
+        - Periodic
+        - Not addressed
+      required: true
+    - id: 19
+      name: checklist_ppe_header
+      Label: -- Personal Protective Equipment --
+      hint: Check PPE availability
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: checklist_masks_available
+      label: Masks Available for Staff and Visitors
+      hint: Supply of masks
+      type: select_one
+      options:
+        - Abundant supply
+        - Adequate supply
+        - Limited supply
+        - No supply
+      required: true
+    - id: 21
+      name: checklist_gloves_available
+      Label: Gloves Available
+      hint: Supply of protective gloves
+      type: select_one
+      options:
+        - Abundant supply
+        - Adequate supply
+        - Limited supply
+        - No supply
+      required: true
+    - id: 22
+      name: checklist_social_distancing_header
+      label: -- Social Distancing --
+      hint: Check distancing measures
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: checklist_distancing_implemented
+      Label: Social Distancing Measures Implemented
+      hint: 6-foot distance protocols
+      type: select_one
+      options:
+        - Fully implemented
+        - Partially implemented
+        - Planned
+        - Not implemented
+      required: true
+    - id: 24
+      name: checklist_overall_compliance
+      label: Overall COVID-19 Safety Compliance
+      hint: Overall facility compliance rating
+      type: select_one
+      options:
+        - Full compliance
+        - Good compliance with minor gaps
+        - Partial compliance
+        - Poor compliance
+        - Non-compliant
+      required: true
+    - id: 25
+      name: checklist_follow_up_date
+      Label: Follow-Up Inspection Scheduled
+      hint: Date for next inspection
+      type: date
+      options: []
+      required: false

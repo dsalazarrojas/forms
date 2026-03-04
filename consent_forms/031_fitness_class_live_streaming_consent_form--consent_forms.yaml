@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Live Streaming Consent Form
+    pages:
+    - id: 1
+      name: fitness_class_consent
+      label: Fitness Class Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: email_confirmed
+      label: Email Confirmed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emergency_address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_notes
+      label: Emergency Notes
+      hint: null
+      type: note
+      options: []
+      required: false

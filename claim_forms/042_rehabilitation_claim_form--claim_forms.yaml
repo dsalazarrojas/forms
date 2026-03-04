@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehabilitation Claim Form
+    pages:
+    - id: 1
+      name: rehabilitation_claim_form
+      label: Rehabilitation Claim Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rehabilitative_service_benefits
+      label: Rehabilitative Service Benefits
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: provider_license_number
+      label: Provider License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

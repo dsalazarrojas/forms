@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drainage Inspection Form
+    pages:
+    - id: 1
+      name: drainage_inspection_form_checklist
+      label: Drainage Inspection Form Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: drainage_inspection_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: drainage_system_status
+      label: Drainage System Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: system_description
+      label: System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: system_location
+      label: System Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: system_type
+      label: System Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: system_size
+      label: System Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pipe_inspections
+      label: Pipe Inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspector_notes
+      label: Inspector Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photos_taken
+      label: Photos Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: videos_taken
+      label: Videos Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

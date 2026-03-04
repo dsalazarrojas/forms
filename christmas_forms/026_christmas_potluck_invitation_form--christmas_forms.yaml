@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Potluck Invitation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For day-of contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rsvp_status
+      label: RSVP Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes I will attend
+      - No I cannot attend
+      - Maybe still deciding
+      required: true
+    - id: 5
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: number_attending
+      label: Number Attending
+      hint: How many people total
+      type: select_one
+      options:
+      - Just me
+      - 2 people
+      - 3-4 people
+      - 5 or more people
+      required: true
+    - id: 7
+      name: bringing_children
+      label: Bringing Children
+      hint: Will children attend
+      type: select_one
+      options:
+      - No adults only
+      - Yes 1 child
+      - Yes 2 children
+      - Yes 3 or more
+      required: true
+    - id: 8
+      name: children_ages
+      label: Children Ages
+      hint: List ages of children
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_family
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dish_category
+      label: Dish Category
+      hint: What will you bring
+      type: select_one
+      options:
+      - Appetizer
+      - Main Dish
+      - Side Dish
+      - Salad
+      - Dessert
+      - Beverages
+      - Still deciding
+      - Cannot bring anything
+      required: true
+    - id: 11
+      name: dish_name
+      label: Dish Name
+      hint: What dish will you prepare
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dish_description
+      label: Dish Description
+      hint: Brief description of your dish
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: serving_size
+      label: Serving Size
+      hint: How many will your dish serve
+      type: select_one
+      options:
+      - 4-6 servings
+      - 7-10 servings
+      - 11-15 servings
+      - 16 plus servings
+      required: true
+    - id: 14
+      name: section_dish_details
+      label: -- Dish Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: dietary_info
+      label: Dietary Information
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Contains meat
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Contains nuts
+      - Contains seafood
+      - Kid friendly
+      required: true
+    - id: 16
+      name: ingredients_list
+      label: Ingredients List
+      hint: List main ingredients for allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: serving_equipment
+      label: Serving Equipment
+      hint: What do you need provided
+      type: select_one
+      options:
+      - I will bring everything
+      - Need serving spoon
+      - Need warming tray
+      - Need refrigerator space
+      - Need microwave access
+      required: true
+    - id: 18
+      name: section_dietary
+      label: -- Dietary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: setup_help
+      label: Can You Help Setup
+      hint: Arrive early to help
+      type: select_one
+      options:
+      - Yes I can help setup
+      - No I cannot arrive early
+      - Maybe depends on schedule
+      required: true
+    - id: 20
+      name: cleanup_help
+      label: Can You Help Cleanup
+      hint: Stay late to help clean
+      type: select_one
+      options:
+      - Yes I can help cleanup
+      - No I cannot stay late
+      - Maybe depends on schedule
+      required: true
+    - id: 21
+      name: bringing_extras
+      label: Bringing Extras
+      hint: Plates, utensils, napkins
+      type: select_one
+      options:
+      - Yes I will bring extras
+      - No I cannot bring extras
+      required: true
+    - id: 22
+      name: section_volunteer
+      label: -- Volunteer Help --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: beverage_preference
+      label: Beverage Preference
+      hint: What do you like to drink
+      type: select_multiple
+      options:
+      - Wine
+      - Beer
+      - Soft Drinks
+      - Juice
+      - Water
+      - Hot Beverages
+      - Non-alcoholic options
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any questions or needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: message_to_host
+      label: Message to Host
+      hint: Any message or comment
+      type: text
+      options: []
+      required: false

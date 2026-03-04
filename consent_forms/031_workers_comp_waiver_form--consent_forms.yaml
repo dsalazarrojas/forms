@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workers Comp Waiver Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_1
+      label: Work Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_incurred
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: description_injury
+      label: Description of Injury
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: employee_sign
+      label: Employee Signature
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree to the terms of this workers comp waiver form.
+      - I do not understand or disagree with the terms of this workers comp waiver
+        form.
+      required: false
+    - id: 13
+      name: employer_sign
+      label: Employer Signature
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the terms of this workers comp waiver form.
+      - I have not read or do not understand the terms of this workers comp waiver
+        form.
+      required: false
+    - id: 14
+      name: supervisor_sign
+      label: Supervisor's Signature
+      hint: null
+      type: select_one
+      options:
+      - I have witnessed the employee sign the waiver.
+      - I have not witnessed the employee sign the waiver.
+      required: false
+    - id: 15
+      name: manager_sign
+      label: Manager's Signature
+      hint: null
+      type: select_one
+      options:
+      - I have witnessed the employee and supervisor sign the waiver.
+      - I have not witnessed the employee and supervisor sign the waiver.
+      required: false
+    - id: 16
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

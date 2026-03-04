@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Deep Cleaning Checklist
+    pages:
+    - id: 1
+      name: seasonal_cleaning_form
+      label: Seasonal Cleaning Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tasks_completed
+      label: Tasks Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: seasonal_cleaning_form_feedback
+      label: Seasonal Cleaning Form Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: spring_deep_cleaning_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: spring_deep_cleaning_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: season
+      label: Season
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spring_deep_cleaning_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: season_cleaning_form_completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Not Complete
+      - In Progress
+      required: false
+    - id: 10
+      name: season_cleaning_form_completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

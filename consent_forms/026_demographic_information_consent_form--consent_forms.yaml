@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Demographic Information & Consent Form
+    pages:
+    - id: 1
+      name: demographic_information
+      label: demographic_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - Native American
+      - White
+      - Other
+      required: false
+    - id: 8
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - Some High School
+      - High School Graduate
+      - Some College
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree
+      - Other
+      required: false
+    - id: 9
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Other
+      required: false
+    - id: 10
+      name: language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: false
+    - id: 11
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: survey_consent
+      label: survey_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_consent_date
+      label: survey_consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: survey_consent_time
+      label: survey_consent_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: survey_consent_location
+      label: survey_consent_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: survey_consent_note
+      label: survey_consent_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: survey_consent_other_consent
+      label: survey_consent_other_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: survey_consent_other_consent_note
+      label: survey_consent_other_consent_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_signature_date
+      label: participant_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: participant_signature_location
+      label: participant_signature_location
+      hint: null
+      type: text
+      options: []
+      required: false

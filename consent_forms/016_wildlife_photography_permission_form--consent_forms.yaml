@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Photography Permission Form
+    pages:
+    - id: 1
+      name: individual_or_organization
+      label: individual or organization
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: 'Format: name@domain.com'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: permission_type
+      label: permission type
+      hint: null
+      type: select_one
+      options:
+      - General Permission
+      - Specific Permission
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: restrictions
+      label: restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

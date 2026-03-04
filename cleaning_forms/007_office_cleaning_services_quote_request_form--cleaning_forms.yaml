@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_cleaning_services_quote_request_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Cleaning
+      - Janitorial
+      - Carpet Cleaning
+      - Window Cleaning
+      - Floor Cleaning
+      - Tile & Grout Cleaning
+      - Upholstery Cleaning
+      - Construction Cleaning
+      - Move in/Move out
+      required: false
+    - id: 6
+      name: service_area
+      label: Service Area
+      hint: null
+      type: select_multiple
+      options:
+      - All Floors
+      - Kitchen
+      - Office
+      - Bathroom
+      - Bedroom
+      - Living Room
+      - Other
+      required: false
+    - id: 7
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - On Demand
+      required: false
+    - id: 8
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_submission_type
+      label: Form Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Quote
+      - Service Request
+      required: false
+    - id: 14
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: form_submission_comment
+      label: Form Submission Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_submission_email
+      label: Form Submission E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: form_submission_phone
+      label: Form Submission Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      - Canceled
+      - Rescheduled
+      required: false

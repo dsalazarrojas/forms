@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Aftercare Guidelines Acknowledgment
+    pages:
+    - id: 1
+      name: tattoo_aftercare_guidelines_acknowledgment
+      label: i_accept_to_follow_tattoo_aftercare_guidelines
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Artist
+      - Parent/ Guardian
+      required: true
+    - id: 2
+      name: i_understand_tattoo_aftercare_guidelines
+      label: do_you_understand_tattoo_aftercare_guidelines
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
+      name: i_agree_to_follow_tattoo_aftercare_guidelines
+      label: i_agree_to_follow_tattoo_aftercare_guidelines
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: i_agree_to_be_responsible_for_tattoo_care
+      label: i_agree_to_be_responsible_for_tattoo_care
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: tattoo_care_info_source
+      label: how_did_you_receieve_tattoo_care_info
+      hint: If not from an artist, please let us know how you received this information
+      type: select_multiple
+      options:
+      - Artist
+      - Online
+      - Parent
+      - Other
+      required: false
+    - id: 6
+      name: tattoo_type
+      label: tattoo_type
+      hint: null
+      type: select_multiple
+      options:
+      - Hand-Drawn Tattoo
+      - Machine-Artwork
+      - Combination
+      required: false
+    - id: 7
+      name: tattoo_session_id
+      label: session_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tattoo_session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: tattoo_session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: client_id
+      label: client_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: artist_id
+      label: artist_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: parent_id
+      label: parent_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tattoo_location
+      label: tattoo_location
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Arms
+      - Legs
+      - Back
+      required: true
+    - id: 14
+      name: tattoo_size
+      label: tattoo_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 15
+      name: tattoo_orientation
+      label: tattoo_orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Horizontal
+      - Vertical
+      - Rotating
+      required: false
+    - id: 16
+      name: tattoo_color
+      label: tattoo_color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 17
+      name: tattoo_design
+      label: tattoo_design
+      hint: null
+      type: select_multiple
+      options:
+      - Realistic
+      - Abstract
+      - Geometric
+      required: false
+    - id: 18
+      name: tattoo_theme
+      label: tattoo_theme
+      hint: null
+      type: select_multiple
+      options:
+      - Black and White
+      - Color
+      - Neon
+      required: false
+    - id: 19
+      name: tattoo_style
+      label: tattoo_style
+      hint: null
+      type: select_multiple
+      options:
+      - Line Art
+      - Dot work
+      - Color Fill
+      required: false
+    - id: 20
+      name: tattoo_session_number
+      label: session_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: tattoo_session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: tattoo_session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: tattoo_session_duration
+      label: session_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: tattoo_session_notes
+      label: session_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: tattoo_aftercare_instructions
+      label: aftercare_instructions
+      hint: null
+      type: note
+      options: []
+      required: false

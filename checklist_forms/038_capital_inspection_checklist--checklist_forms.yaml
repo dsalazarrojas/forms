@@ -1,0 +1,339 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capital Inspection Checklist
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Asset Inspection Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Complete this checklist to document the condition of capital assets and
+        identify maintenance needs.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: inspection_info_header
+      label: -- Inspection Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspector_name
+      label: Inspector Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspector_role
+      label: Inspector Role/Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization_name
+      label: Organization or Facility
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location or Site
+      hint: Facility location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_info_header
+      label: -- Asset Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: asset_id
+      label: Asset ID or Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: asset_type
+      label: Asset Type
+      hint: Select one
+      type: select_one
+      options:
+      - Building/Structure
+      - Equipment
+      - Vehicle
+      - Technology/IT
+      - Infrastructure
+      - Furniture
+      - Other
+      required: true
+    - id: 12
+      name: asset_description
+      label: Asset Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: acquisition_date
+      label: Acquisition/Installation Date
+      hint: When was it purchased
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: asset_value
+      label: Asset Original Value
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: warranty_status
+      label: Warranty Status
+      hint: Select one
+      type: select_one
+      options:
+      - Under warranty
+      - Warranty expired
+      - No warranty
+      - Unknown
+      required: false
+    - id: 16
+      name: condition_header
+      label: -- Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: overall_condition
+      label: Overall Condition
+      hint: Rate condition
+      type: select_one
+      options:
+      - Excellent - Like new
+      - Good - Well maintained
+      - Fair - Minor wear
+      - Poor - Significant damage
+      - Critical - Unusable
+      required: true
+    - id: 18
+      name: functionality
+      label: Functionality Status
+      hint: Select one
+      type: select_one
+      options:
+      - Fully operational
+      - Operational with limitations
+      - Partially operational
+      - Non-operational
+      required: true
+    - id: 19
+      name: safety_concerns
+      label: Any Safety Concerns?
+      hint: Select one
+      type: select_one
+      options:
+      - No concerns
+      - Minor concerns
+      - Moderate concerns
+      - Critical safety issues
+      required: true
+    - id: 20
+      name: safety_details
+      label: Safety Concerns Details
+      hint: If concerns identified
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: appearance_header
+      label: -- Appearance and Cleanliness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: cleanliness
+      label: Cleanliness Level
+      hint: Select one
+      type: select_one
+      options:
+      - Excellent - Very clean
+      - Good - Clean
+      - Fair - Some dirt
+      - Poor - Dirty
+      required: true
+    - id: 23
+      name: cosmetic_damage
+      label: Cosmetic Damage
+      hint: Select one
+      type: select_one
+      options:
+      - None
+      - Minor damage
+      - Moderate damage
+      - Significant damage
+      required: true
+    - id: 24
+      name: damage_description
+      label: Damage Description
+      hint: Describe visible damage
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: structural_header
+      label: -- Structural Integrity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: structural_integrity
+      label: Structural Integrity
+      hint: Select one
+      type: select_one
+      options:
+      - Sound - No issues
+      - Good - Minor issues
+      - Fair - Some concerns
+      - Poor - Significant issues
+      required: true
+    - id: 27
+      name: wear_and_tear
+      label: Wear and Tear Assessment
+      hint: Select one
+      type: select_one
+      options:
+      - Minimal - Light wear
+      - Moderate - Normal wear
+      - Significant - Heavy use
+      - Severe - Excessive wear
+      required: true
+    - id: 28
+      name: maintenance_header
+      label: -- Maintenance Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: maintenance_needed
+      label: Is Maintenance Needed?
+      hint: Select one
+      type: select_one
+      options:
+      - No maintenance needed
+      - Routine maintenance needed
+      - Significant maintenance needed
+      - Immediate repairs required
+      - Replacement recommended
+      required: true
+    - id: 30
+      name: maintenance_details
+      label: Maintenance Details
+      hint: Describe what is needed
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: estimated_repair_cost
+      label: Estimated Repair/Maintenance Cost
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: recommended_action_header
+      label: -- Recommended Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: recommended_actions
+      label: Recommended Actions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Continue in service
+      - Monitor condition
+      - Schedule maintenance
+      - Urgent repairs needed
+      - Replacement planned
+      - Disposal/Salvage
+      required: true
+    - id: 34
+      name: priority_level
+      label: Priority Level for Action
+      hint: Select one
+      type: select_one
+      options:
+      - Routine
+      - Medium
+      - High
+      - Critical
+      - No action needed
+      required: true
+    - id: 35
+      name: timeline_for_action
+      label: Timeline for Recommended Action
+      hint: Select one
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - No urgent timeline
+      required: false
+    - id: 36
+      name: inspector_comments
+      label: Inspector Comments
+      hint: Additional observations
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: photos_attached
+      label: Photos Attached?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 38
+      name: followup_required
+      label: Follow-up Inspection Required?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - To be determined
+      required: false

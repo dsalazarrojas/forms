@@ -1,0 +1,346 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Billing Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Patient details for billing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Patient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: Patient Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: insurance_information
+      label: Insurance Information
+      hint: Primary insurance details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: has_insurance
+      label: Do you have health insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: insurance_company
+      label: Insurance Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: If different from patient
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_holder_dob
+      label: Policy Holder Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: policy_number
+      label: Policy Number
+      hint: Member or ID number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: group_number
+      label: Group Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_phone
+      label: Insurance Company Phone
+      hint: Claims department
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claim_number
+      label: Claim Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referral_required
+      label: Was a referral required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 19
+      name: referral_source
+      label: Referring Physician Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accident_information
+      label: Accident Information
+      hint: If treatment is accident-related
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: is_accident_related
+      label: Is this visit related to an accident
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: accident_date
+      label: Date of Accident
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: accident_type
+      label: Type of Accident
+      hint: null
+      type: select_one
+      options:
+      - Auto accident
+      - Work injury
+      - Personal injury
+      - Sports injury
+      - Other
+      - Not applicable
+      required: false
+    - id: 24
+      name: auto_insurance
+      label: Auto Insurance Company
+      hint: If auto accident
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: auto_policy_number
+      label: Auto Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: workers_comp_claim
+      label: Workers Compensation Claim Number
+      hint: If work injury
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: services_rendered
+      label: Services Rendered
+      hint: Procedures performed
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: service_codes
+      label: CPT Codes
+      hint: Procedure codes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: diagnosis_codes
+      label: Diagnosis Codes
+      hint: ICD-10 codes
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: services_description
+      label: Description of Services
+      hint: List procedures performed
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: total_charges
+      label: Total Charges
+      hint: Total amount billed
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: payment_information
+      label: Payment Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: copay_amount
+      label: Copay Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: copay_paid
+      label: Has Copay Been Paid
+      hint: null
+      type: select_one
+      options:
+      - Yes, paid in full
+      - Partially paid
+      - Not yet paid
+      - Not applicable
+      required: false
+    - id: 35
+      name: deductible_amount
+      label: Deductible Amount
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: deductible_met
+      label: Has Deductible Been Met
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully met
+      - Partially met
+      - Not met
+      - Not sure
+      required: false
+    - id: 37
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit card
+      - Debit card
+      - Check
+      - HSA card
+      - FSA card
+      - Payment plan
+      - Insurance only
+      required: false
+    - id: 38
+      name: amount_paid_today
+      label: Amount Paid Today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: balance_due
+      label: Balance Due
+      hint: Remaining amount
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: billing_notes
+      label: Billing Notes
+      hint: Additional billing information
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: patient_responsibility
+      label: Patient Responsibility Acknowledgment
+      hint: I understand I am responsible for charges not covered by insurance
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 42
+      name: assignment_benefits
+      label: Assignment of Benefits
+      hint: I authorize payment directly to provider
+      type: select_one
+      options:
+      - Yes, I assign benefits
+      - No, I do not assign
+      required: true
+    - id: 43
+      name: patient_signature
+      label: Patient Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

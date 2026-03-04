@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resident Rules Acknowledgment Form
+    pages:
+    - id: 1
+      name: resident_rules_acknowledgment_form
+      label: Resident Rules Acknowledgment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_rules_acknowledgment_form_2
+      label: Resident Rules Acknowledgment Form 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resident_rules_acknowledgment_form_3
+      label: Resident Rules Acknowledgment Form 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: resident_rules_acknowledgment_form_4
+      label: Resident Rules Acknowledgment Form 4
+      hint: null
+      type: date
+      options: []
+      required: false

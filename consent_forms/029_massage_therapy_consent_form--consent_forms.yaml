@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Therapy Consent Form
+    pages:
+    - id: 1
+      name: massage_therapy_consent_form
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: client_info
+      hint: null
+      type: select_multiple
+      options:
+      - Client Name
+      - Date of Birth
+      - Contact Info
+      required: false
+    - id: 3
+      name: massage_info
+      label: massage_info
+      hint: null
+      type: select_one
+      options:
+      - Type
+      - Area of focus
+      - Technique
+      required: false
+    - id: 4
+      name: client_consent
+      label: client_consent
+      hint: Please provide your informed consent before the massage session
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 5
+      name: massage_consent
+      label: massage_consent
+      hint: Please provide your informed consent before the massage session
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 6
+      name: massage_session_info
+      label: massage_session_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: emergency_contact
+      hint: List at least 2 emergency contacts, e.g. name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: therapist_info
+      label: therapist_info
+      hint: null
+      type: select_one
+      options:
+      - Name
+      - Role
+      - Contact Info
+      required: false
+    - id: 9
+      name: therapist_consent
+      label: therapist_consent
+      hint: Please provide your informed consent before the massage session
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 10
+      name: massage_session_notes
+      label: massage_session_notes
+      hint: Any additional comments or concerns about the massage session
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: massage_session_details
+      label: massage_session_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_signature
+      label: client_signature
+      hint: Signature of the Client
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 13
+      name: therapist_signature
+      label: therapist_signature
+      hint: Signature of the Therapist
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 14
+      name: massage_session_notes_for_therapist
+      label: massage_session_notes_for_therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: therapist_signature_date
+      label: therapist_signature_date
+      hint: Date
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: client_signature_date
+      label: client_signature_date
+      hint: Date
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: massage_session_duration
+      label: massage_session_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: massage_session_rate
+      label: massage_session_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Insurance
+      required: false
+    - id: 20
+      name: payment_info
+      label: payment_info
+      hint: Any payment info, e.g. amount paid, payment method
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_review
+      label: client_review
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 22
+      name: massage_session_feedback
+      label: massage_session_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: therapist_review
+      label: therapist_review
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 24
+      name: client_signature_date_time
+      label: client_signature_date_time
+      hint: Client signature date and time
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: therapist_signature_date_time
+      label: therapist_signature_date_time
+      hint: Therapist signature date and time
+      type: date
+      options: []
+      required: false

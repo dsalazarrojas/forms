@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Coaching Training Form
+    pages:
+    - id: 1
+      name: coach_athlete_header
+      label: -- Training Program Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_plan_title
+      label: Training Plan or Program Name
+      hint: e.g. Pre-Season Strength, Marathon Prep
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: program_end_date
+      label: Program End Date
+      hint: Expected completion date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: baseline_assessment_header
+      label: -- Baseline Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_fitness_level
+      label: Current Fitness Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite / Professional
+      required: true
+    - id: 9
+      name: previous_volume
+      label: Average Previous Training Volume - Hours per Week
+      hint: Over the last 4 weeks
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: recent_metrics
+      label: Recent Performance Metrics
+      hint: e.g. Last race time, Max lift, VO2 Max
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: primary_goal
+      label: Primary Athletic Goal for this Program
+      hint: What is the number one objective?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: schedule_logistics_header
+      label: -- Training Schedule and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: available_days
+      label: Available Training Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 14
+      name: preferred_time
+      label: Preferred Training Time of Day
+      hint: null
+      type: select_one
+      options:
+      - Early Morning
+      - Late Morning / Noon
+      - Afternoon
+      - Evening
+      required: true
+    - id: 15
+      name: training_facility
+      label: Primary Training Facility or Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: health_considerations_header
+      label: -- Physical and Health Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_injuries_notes
+      label: Current Injuries or Persistent Niggles
+      hint: List any issues being managed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_clearance_status
+      label: Health and Medical Clearance Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Cleared for High Intensity
+      - Conditional Clearance - with restrictions
+      - Pending Clearance
+      required: true
+    - id: 19
+      name: feedback_preferences_header
+      label: -- Coaching and Feedback Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: communication_channel
+      label: Preferred Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - Training App Messaging
+      - Email
+      - Text / WhatsApp
+      - Phone Call
+      - In-person Meeting
+      required: true
+    - id: 21
+      name: feedback_frequency
+      label: Desired Frequency of Coaching Feedback
+      hint: How often do you want reviews?
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times per week
+      - Weekly
+      - Bi-weekly
+      required: true
+    - id: 22
+      name: athlete_motivators
+      label: What are your key motivators?
+      hint: e.g. Data and metrics, Verbal encouragement, Competition
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: commitment_signoff_header
+      label: -- Commitment and Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: plan_commitment
+      label: I am fully committed to following the prescribed training plan
+      hint: null
+      type: select_one
+      options:
+      - I am committed
+      - Other
+      required: true
+    - id: 25
+      name: athlete_signature
+      label: Athlete Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signing_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

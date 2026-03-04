@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Donation Transaction Data Consent Form
+    pages:
+    - id: 1
+      name: transaction_data
+      label: Transaction Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: data_usage
+      label: How will we use your transaction data?
+      hint: null
+      type: select_multiple
+      options:
+      - Donor Name
+      - Donor Address
+      - Donor Email
+      - Transaction Amount
+      - Transaction Date
+      - Transaction Time
+      - Donation Type
+      - Transaction ID
+      required: false
+    - id: 3
+      name: consent
+      label: Do you consent to the collection and usage of your transaction data?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: communication_preferences
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Yes, only through email
+      - Yes, only through phone
+      - Yes, only through mail
+      - No, I prefer not to be contacted
+      required: true
+    - id: 5
+      name: contact_info
+      label: What is your preferred contact method?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: true
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_date
+      label: On what date do you consent to the collection and usage of your transaction
+        data?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: consent_time
+      label: On what time do you consent to the collection and usage of your transaction
+        data?
+      hint: null
+      type: time
+      options: []
+      required: false

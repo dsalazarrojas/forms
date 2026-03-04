@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trauma Bag Checklist
+    pages:
+    - id: 1
+      name: trauma_bag_checklist_form
+      label: trauma_bag_checklist_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trauma_bags
+      label: trauma_bags
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trauma_bags_location
+      label: trauma_bags_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trauma_bags_contents
+      label: trauma_bags_contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trauma_bags_condition
+      label: trauma_bags_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trauma_bags_missing_items
+      label: trauma_bags_missing_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_supplies
+      label: emergency_supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_supplies_location
+      label: emergency_supplies_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_supplies_contents
+      label: emergency_supplies_contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_supplies_condition
+      label: emergency_supplies_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trauma_bags_certification
+      label: trauma_bags_certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: trauma_bags_last_inspection
+      label: trauma_bags_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: trauma_bags_next_due_date
+      label: trauma_bags_next_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: traumas_bags_last_inspected_by
+      label: traumas_bags_last_inspected_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: traumas_bags_last_certified_by
+      label: traumas_bags_last_certified_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Incident Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Your Name
+      hint: Name of person reporting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_role
+      label: Your Role
+      hint: Are you coach client or witness
+      type: select_one
+      options:
+      - Coach
+      - Client
+      - Witness
+      - Staff Member
+      - Other
+      required: true
+    - id: 3
+      name: reporter_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reporter_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Date of Incident
+      hint: When did it happen
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_time
+      label: Time of Incident
+      hint: What time did it occur
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: session_type
+      label: Type of Session
+      hint: What kind of session was it
+      type: select_one
+      options:
+      - Individual Coaching
+      - Group Coaching
+      - Team Coaching
+      - Workshop
+      - Assessment
+      - Other
+      required: true
+    - id: 9
+      name: coach_name
+      label: Coach Name
+      hint: Name of coach involved
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: clients_involved
+      label: Clients Involved
+      hint: Names of clients involved
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_type
+      label: Type of Incident
+      hint: What category best describes this
+      type: select_one
+      options:
+      - Physical Injury
+      - Emotional Distress
+      - Property Damage
+      - Safety Violation
+      - Policy Violation
+      - Conflict Between Participants
+      - Medical Emergency
+      - Harassment or Discrimination
+      - Other
+      required: true
+    - id: 12
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: Describe exactly what happened
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_cause
+      label: What Led to This Incident
+      hint: Describe contributing factors
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witnesses_present
+      label: Were There Witnesses
+      hint: Did others see this
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: witness_names
+      label: Witness Names
+      hint: List witness names
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_contact
+      label: Witness Contact Information
+      hint: How to reach witnesses
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: injuries_sustained
+      label: Were There Any Injuries
+      hint: Describe any injuries
+      type: select_one
+      options:
+      - No Injuries
+      - Minor Injury
+      - Moderate Injury
+      - Serious Injury
+      required: true
+    - id: 18
+      name: injury_details
+      label: Injury Details
+      hint: Describe injuries if any
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: immediate_action_taken
+      label: Immediate Action Taken
+      hint: What was done right away
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_attention
+      label: Was Medical Attention Required
+      hint: Did anyone need medical care
+      type: select_one
+      options:
+      - false
+      - Yes First Aid Only
+      - Yes Professional Medical Care
+      - Yes Emergency Services Called
+      required: true
+    - id: 21
+      name: medical_attention_details
+      label: Medical Attention Details
+      hint: Describe medical care provided
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notifications_made
+      label: Who Was Notified
+      hint: List who was informed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_required
+      label: Is Follow-Up Required
+      hint: Does this need further action
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 24
+      name: follow_up_actions
+      label: Recommended Follow-Up Actions
+      hint: What should happen next
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: preventability
+      label: Could This Have Been Prevented
+      hint: Was this preventable
+      type: select_one
+      options:
+      - Yes Definitely
+      - Probably
+      - Not Sure
+      - Probably Not
+      - false
+      required: false
+    - id: 26
+      name: prevention_suggestions
+      label: Suggestions for Prevention
+      hint: How could this be prevented
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: previous_similar_incidents
+      label: Have There Been Similar Incidents
+      hint: Is this a pattern
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 28
+      name: report_date
+      label: Date of Report
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: signature
+      label: I Confirm This Report Is Accurate
+      hint: You confirm information is true
+      type: select_one
+      options:
+      - Yes I Confirm
+      - false
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

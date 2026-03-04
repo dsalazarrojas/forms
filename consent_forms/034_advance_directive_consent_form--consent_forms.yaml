@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance Directive Consent Form
+    pages:
+    - id: 1
+      name: section_principal
+      label: -- Principal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_proxy
+      label: -- Healthcare Proxy or Agent --
+      hint: person authorized to make decisions for you
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: proxy_name
+      label: Proxy Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proxy_relationship_to_principal
+      label: Proxy Relationship to Principal
+      hint: e.g. Spouse, Child, Friend
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proxy_contact_phone
+      label: Proxy Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_prefs
+      label: -- Treatment Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: life_sustaining_treatment_choice
+      label: Life Sustaining Treatment Choice
+      hint: null
+      type: select_one
+      options:
+      - I want all available treatments
+      - I want treatments only if likely to improve condition
+      - I want no life-sustaining treatments
+      required: true
+    - id: 11
+      name: artificial_nutrition_and_hydration
+      label: Artificial Nutrition and Hydration
+      hint: Tube feeding
+      type: select_one
+      options:
+      - I want it indefinitely
+      - I want it temporarily
+      - I do not want it
+      required: true
+    - id: 12
+      name: specific_instructions_for_pain_management
+      label: Specific Instructions for Pain Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_organ
+      label: -- Organ Donation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: organ_donation_preference
+      label: Organ Donation Preference
+      hint: null
+      type: select_one
+      options:
+      - I wish to donate any needed organs
+      - I wish to donate only specific organs
+      - I do not wish to donate
+      required: true
+    - id: 15
+      name: section_legal
+      label: -- Legal Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: witness_1_name
+      label: Witness 1 Name
+      hint: Must not be the designated proxy
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: witness_2_name
+      label: Witness 2 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: principal_signature
+      label: Principal Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date_of_execution
+      label: Date of Execution
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mediation Session Discharge Form
+    pages:
+    - id: 1
+      name: session_outcomes
+      label: Session Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sign_off
+      label: Sign-Off
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: mediator_comments
+      label: Mediator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false

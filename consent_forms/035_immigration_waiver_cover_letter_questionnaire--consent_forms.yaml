@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Waiver Cover Letter Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attorney_name
+      label: Attorney Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attorney_email
+      label: Attorney Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Application for Waiver
+      - Application for Waiver and Consent
+      - Other
+      required: true
+    - id: 7
+      name: document_id
+      label: Document ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Proof of Identity
+      - Proof of Income
+      - Proof of Residency
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_contact
+      label: Submitter Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_city
+      label: Submitter City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_province
+      label: Submitter Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_postal_code
+      label: Submitter Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_date_of_birth
+      label: Submitter Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: document_note
+      label: Document Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: waiver
+      label: Waiver
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: submitter_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Accident Claim Assessment
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Car Accident Claim Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Conduct a thorough assessment of the accident claim. Complete all sections
+        for proper evaluation.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: adjuster_info_header
+      label: -- Claims Adjuster Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: adjuster_name
+      label: Adjuster Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: adjuster_id
+      label: Adjuster ID
+      hint: Employee ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Insurance Company Name
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: claim_number
+      label: Claim Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: claimant_info_header
+      label: -- Claimant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: claimant_name
+      label: Claimant Name
+      hint: Insured's name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: claim_type
+      label: Claim Type
+      hint: Select one
+      type: select_one
+      options:
+      - First party
+      - Third party
+      - Uninsured motorist
+      - Underinsured motorist
+      - Other
+      required: true
+    - id: 13
+      name: accident_summary_header
+      label: -- Accident Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: accident_date
+      label: Date of Accident
+      hint: When accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: accident_location
+      label: Location of Accident
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Select one
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rainy
+      - Snowy
+      - Icy
+      - Foggy
+      - Other
+      required: true
+    - id: 17
+      name: road_conditions
+      label: Road Conditions
+      hint: Select one
+      type: select_one
+      options:
+      - Dry
+      - Wet
+      - Icy
+      - Pothole
+      - Poor maintenance
+      - Other
+      required: true
+    - id: 18
+      name: liability_assessment_header
+      label: -- Liability Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: fault_determination
+      label: Fault Determination
+      hint: Select one
+      type: select_one
+      options:
+      - Claimant at fault
+      - Third party at fault
+      - Shared fault
+      - Unable to determine
+      - Pending investigation
+      required: true
+    - id: 20
+      name: fault_percentage
+      label: Claimant Fault Percentage
+      hint: 0-100
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: negligence_factors
+      label: Contributing Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Speeding
+      - Distracted driving
+      - Impaired driving
+      - Reckless driving
+      - Failure to yield
+      - Following too closely
+      - Poor visibility
+      - Vehicle defect
+      required: false
+    - id: 22
+      name: damage_assessment_header
+      label: -- Damage Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_damage_rating
+      label: Vehicle Damage Rating
+      hint: Select one
+      type: select_one
+      options:
+      - Minimal
+      - Minor
+      - Moderate
+      - Major
+      - Total loss
+      required: true
+    - id: 24
+      name: repair_estimate
+      label: Repair Estimate (if available)
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_loss_determination
+      label: Total Loss Determination (if applicable)
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, total loss
+      - No, not total loss
+      - Pending evaluation
+      required: false
+    - id: 26
+      name: injury_assessment_header
+      label: -- Injury Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: injuries_reported
+      label: Injuries Reported?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unclear
+      required: true
+    - id: 28
+      name: injury_severity
+      label: Injury Severity Assessment
+      hint: Select one
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      - Critical
+      - Not applicable
+      required: false
+    - id: 29
+      name: medical_treatment
+      label: Medical Treatment Received?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: false
+    - id: 30
+      name: documentation_header
+      label: -- Documentation Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: documents_received
+      label: Documents Received
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Police report
+      - Witness statements
+      - Photos
+      - Medical reports
+      - Repair estimates
+      - Proof of loss
+      - Other
+      required: false
+    - id: 32
+      name: pending_documentation
+      label: Outstanding Documentation Needed
+      hint: List items
+      type: text
+      options: []
+      required: false

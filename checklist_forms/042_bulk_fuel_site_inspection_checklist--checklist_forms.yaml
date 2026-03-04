@@ -1,0 +1,260 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bulk Fuel Site Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: site_location
+      label: Site Location
+      hint: Address of fuel site
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_id
+      label: Site ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_id
+      label: Inspector ID or Certification
+      hint: Professional credentials
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_manager
+      label: Site Manager or Operator
+      hint: Facility operator name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tank_condition
+      label: Tank Condition
+      hint: Physical state of tanks
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Critical
+      required: true
+    - id: 8
+      name: tank_corrosion
+      label: Signs of Corrosion or Rust
+      hint: Visible deterioration
+      type: select_one
+      options:
+        - None Visible
+        - Minor Spots
+        - Moderate Corrosion
+        - Significant Corrosion
+      required: true
+    - id: 9
+      name: tank_leaks
+      label: Evidence of Leaks
+      hint: Visible fuel leaks
+      type: select_one
+      options:
+        - No Leaks
+        - Minor Seepage
+        - Active Leak
+        - Severe Leak
+      required: true
+    - id: 10
+      name: secondary_containment
+      label: Secondary Containment System
+      hint: Spill containment in place
+      type: select_one
+      options:
+        - Present and Functional
+        - Present but Damaged
+        - Absent or Non-Functional
+        - Not Applicable
+      required: true
+    - id: 11
+      name: containment_inspection
+      label: Containment Area Inspection
+      hint: Integrity of containment
+      type: select_one
+      options:
+        - Excellent Condition
+        - Good Condition
+        - Fair Condition
+        - Poor Condition
+        - Critical Issues
+      required: true
+    - id: 12
+      name: piping_condition
+      label: Piping Condition
+      hint: Fuel transfer piping
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Failing
+      required: true
+    - id: 13
+      name: piping_leaks
+      label: Piping Leaks or Damage
+      hint: Any leaks in pipes
+      type: select_one
+      options:
+        - No Issues
+        - Minor Leaks
+        - Moderate Damage
+        - Severe Damage
+      required: true
+    - id: 14
+      name: valve_operation
+      label: Valve Operation and Seals
+      hint: Are valves functioning
+      type: select_one
+      options:
+        - All Operational
+        - Some Issues
+        - Multiple Issues
+        - Needs Repair
+      required: true
+    - id: 15
+      name: gauge_accuracy
+      label: Fuel Level Gauge Accuracy
+      hint: Tank level indicator working
+      type: select_one
+      options:
+        - Accurate
+        - Slight Variation
+        - Unreliable
+        - Not Functional
+      required: true
+    - id: 16
+      name: pump_condition
+      label: Fuel Pump Condition
+      hint: Dispensing equipment
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Non-Functional
+      required: true
+    - id: 17
+      name: spill_kit
+      label: Spill Kit Present and Accessible
+      hint: Emergency supplies available
+      type: select_one
+      options:
+        - Present and Accessible
+        - Present but Blocked
+        - Missing
+        - Expired
+      required: true
+    - id: 18
+      name: safety_signage
+      label: Safety Signage in Place
+      hint: Warning signs visible
+      type: select_one
+      options:
+        - Complete and Visible
+        - Incomplete
+        - Damaged
+        - Missing
+      required: true
+    - id: 19
+      name: lighting_inspection
+      label: Lighting Adequate and Functional
+      hint: Area lighting working
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Not Functional
+      required: true
+    - id: 20
+      name: grounds_condition
+      label: Grounds and Drainage Condition
+      hint: Area maintenance
+      type: select_one
+      options:
+        - Well Maintained
+        - Acceptable
+        - Needs Cleaning
+        - Poor Condition
+      required: true
+    - id: 21
+      name: fuel_quality
+      label: Fuel Quality Check
+      hint: Any visible contamination
+      type: select_one
+      options:
+        - Clear and Good
+        - Slight Discoloration
+        - Visibly Contaminated
+        - Unknown
+      required: true
+    - id: 22
+      name: deficiencies
+      label: Identified Deficiencies
+      hint: List all issues found
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: What needs to be fixed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: compliance_status
+      label: Overall Compliance Status
+      hint: Meets regulations
+      type: select_one
+      options:
+        - Fully Compliant
+        - Substantially Compliant
+        - Non-Compliant
+        - Critical Issues
+      required: true
+    - id: 25
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: Scheduled follow-up
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Consent Form
+    pages:
+    - id: 1
+      name: game_consent_form_title
+      label: Game Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_consent_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: game_consent_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: game_consent_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: game_consent_form_topics_to_talk_to_gm
+      label: Topics to Talk to GM About
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: game_consent_form_topics
+      label: Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Topic 1
+      - Topic 2
+      - Topic 3
+      required: false
+    - id: 7
+      name: game_consent_form_consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Abstain
+      required: false
+    - id: 8
+      name: game_consent_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: game_consent_form_edit_here
+      label: Edit Here
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Record Audit Form
+    pages:
+    - id: 1
+      name: medical_record_review
+      label: Review Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clinical_data_entry
+      label: Clinical Data Entry
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: medication_history
+      label: Medication History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_errors
+      label: Medical Errors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_compliance
+      label: Medical Compliance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: audit_completion_date
+      label: Audit Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: auditor_title
+      label: Auditor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medical_record_date
+      label: Medical Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: auditor_comments
+      label: Auditor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: auditor_contact
+      label: Auditor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: auditor_signature
+      label: Auditor Signature
+      hint: null
+      type: date
+      options: []
+      required: false

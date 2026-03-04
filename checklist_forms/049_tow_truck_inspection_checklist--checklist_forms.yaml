@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tow Truck Inspection Checklist
+    pages:
+    - id: 1
+      name: truck_details
+      label: Truck Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_info
+      label: Driver Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beneficiary Policy Acknowledgment Form
+    pages:
+    - id: 1
+      name: acknowledgment_date
+      label: Date of Acknowledgment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: beneficiary_name
+      label: Beneficiary Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: beneficiary_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: beneficiary_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: policy_type
+      label: Type of Policy
+      hint: null
+      type: select_one
+      options:
+      - Life Insurance
+      - Health Insurance
+      - Disability Insurance
+      - Annuity
+      - Other
+      required: true
+    - id: 7
+      name: policyholder_name
+      label: Policyholder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: relationship_to_holder
+      label: Relationship to Policyholder
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Other Family
+      - Trustee
+      - Other
+      required: true
+    - id: 9
+      name: benefit_amount
+      label: Designated Benefit Amount
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: benefit_type
+      label: Type of Benefit
+      hint: null
+      type: select_one
+      options:
+      - Lump Sum
+      - Monthly Payments
+      - Annual Payments
+      - Other
+      required: true
+    - id: 11
+      name: acknowledge_benefit
+      label: I acknowledge receipt of benefit designation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: understand_responsibilities
+      label: I understand my responsibilities as beneficiary
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: acknowledge_policy_terms
+      label: I acknowledge the policy terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: acknowledge_payment_method
+      label: I understand how and when payments will be made
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: acknowledge_taxes
+      label: I understand potential tax implications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: confirm_contact_info
+      label: My contact information is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: request_copy
+      label: I Request a Copy of This Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

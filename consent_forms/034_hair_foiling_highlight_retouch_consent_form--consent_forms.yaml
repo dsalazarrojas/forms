@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Foiling Highlight Retouch Consent Form
+    pages:
+    - id: 1
+      name: client_approvals
+      label: Client Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hair_history
+      label: Hair History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risks
+      label: Risks
+      hint: List any known risks or complications
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_approvals_2
+      label: Client Approvals 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,338 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractor Contact Information Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Your basic details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_initial
+      label: Middle Initial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_name
+      label: Preferred Name
+      hint: If different from first name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: How to reach you
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_type
+      label: Primary Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Home
+      - Work
+      required: true
+    - id: 11
+      name: secondary_phone
+      label: Secondary Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: secondary_phone_type
+      label: Secondary Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Home
+      - Work
+      required: false
+    - id: 13
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Voicemail
+      required: true
+    - id: 15
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Any time
+      required: true
+    - id: 16
+      name: address_information
+      label: Address Information
+      hint: Your location
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: address_line_2
+      label: Address Line 2
+      hint: Apartment, suite, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: county
+      label: County
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Someone we can call
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_contacts
+      label: Additional Contacts
+      hint: Other important contacts
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: secondary_contact_name
+      label: Secondary Contact Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: secondary_contact_phone
+      label: Secondary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: communication_preferences
+      label: Communication Preferences
+      hint: Your preferences
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: appointment_reminders
+      label: How would you like to receive appointment reminders
+      hint: null
+      type: select_one
+      options:
+      - Text message
+      - Phone call
+      - Email
+      - No reminders
+      required: true
+    - id: 32
+      name: health_updates
+      label: Would you like to receive health and wellness updates
+      hint: null
+      type: select_one
+      options:
+      - Yes, by email
+      - Yes, by text
+      - Yes, by mail
+      - No, thank you
+      required: true
+    - id: 33
+      name: promotional_offers
+      label: Would you like to receive promotional offers
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: additional_information
+      label: Additional Information
+      hint: Anything else
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Internet search
+      - Social media
+      - Advertisement
+      - Previous patient
+      - Other
+      required: false
+    - id: 36
+      name: referred_by
+      label: Referred By
+      hint: Name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: additional_notes
+      label: Additional Notes
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: consent_agreement
+      label: Consent Agreement
+      hint: Your acknowledgment
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: consent_contact
+      label: I consent to being contacted by this office
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 40
+      name: information_accurate
+      label: I certify that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true
+    - id: 41
+      name: patient_signature
+      label: Patient Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

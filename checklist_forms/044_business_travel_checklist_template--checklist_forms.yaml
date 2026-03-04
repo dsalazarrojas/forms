@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Travel Checklist Template
+    pages:
+    - id: 1
+      name: traveler_name
+      label: Traveler Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: traveler_id
+      label: Employee ID
+      hint: Your employee ID number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_purpose
+      label: Trip Purpose
+      hint: Why are you traveling
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: trip_start_date
+      label: Trip Start Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: trip_end_date
+      label: Trip End Date
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: destination_city
+      label: Destination City
+      hint: Where you're traveling to
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: destination_country
+      label: Destination Country
+      hint: Country of travel
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: passport_valid
+      label: Passport Valid and Current
+      hint: Is your passport current
+      type: select_one
+      options:
+      - Yes, Valid
+      - Expires Soon
+      - Expired
+      - Not Applicable
+      required: false
+    - id: 9
+      name: visa_required
+      label: Visa Required
+      hint: Do you need a visa
+      type: select_one
+      options:
+      - Yes, Already Have
+      - Yes, Need to Apply
+      - No, Not Required
+      - Unsure
+      required: false
+    - id: 10
+      name: travel_insurance
+      label: Travel Insurance Arranged
+      hint: Do you have travel insurance
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Needed
+      required: true
+    - id: 11
+      name: vaccinations
+      label: Required Vaccinations Completed
+      hint: Are you vaccinated as needed
+      type: select_one
+      options:
+      - Completed
+      - Completed, No Requirements
+      - Not Completed
+      - In Progress
+      required: true
+    - id: 12
+      name: flight_booked
+      label: Flight Booked
+      hint: Have you booked flights
+      type: select_one
+      options:
+      - Booked
+      - Pending Booking
+      - Not Needed
+      required: true
+    - id: 13
+      name: hotel_booked
+      label: Hotel Accommodation Booked
+      hint: Is hotel reserved
+      type: select_one
+      options:
+      - Booked
+      - Pending Booking
+      - Not Needed
+      required: true
+    - id: 14
+      name: ground_transportation
+      label: Ground Transportation Arranged
+      hint: Car rental, taxi, etc
+      type: select_one
+      options:
+      - Arranged
+      - Pending Arrangement
+      - Not Needed
+      required: true
+    - id: 15
+      name: expense_report_setup
+      label: Expense Report Setup
+      hint: Have you set up expense tracking
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 16
+      name: company_card
+      label: Company Credit Card
+      hint: Do you have a company card
+      type: select_one
+      options:
+      - Yes, Have Card
+      - Yes, Need to Request
+      - No
+      - Using Personal Card
+      required: true
+    - id: 17
+      name: itinerary_submitted
+      label: Itinerary Submitted to Manager
+      hint: Has your manager received itinerary
+      type: select_one
+      options:
+      - Completed
+      - Pending Submission
+      - Not Required
+      required: true
+    - id: 18
+      name: emergency_contacts
+      label: Emergency Contact Information
+      hint: Emergency contacts noted
+      type: select_one
+      options:
+      - Completed
+      - Need to Prepare
+      required: true
+    - id: 19
+      name: packing_completed
+      label: Packing Completed
+      hint: Have you packed
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 20
+      name: checklist_date
+      label: Checklist Completion Date
+      hint: When you completed this
+      type: date
+      options: []
+      required: true

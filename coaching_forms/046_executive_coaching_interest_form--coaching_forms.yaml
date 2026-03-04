@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: executive_coaching_interest_form
+    pages:
+    - id: 1
+      name: potential_coaching_participants
+      label: Potential Coaching Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: coaching_topics
+      label: Coaching Topics
+      hint: null
+      type: select_one
+      options:
+      - Coaching on Communication Skills
+      - Executive Development
+      - Leadership Development
+      - Team Development
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: coaching_location
+      label: Coaching Location
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Phone
+      - Video conference
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: coaching_frequency
+      label: Coaching Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: coaching_durations
+      label: Coaching Durations
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: coaching_start_date
+      label: Coaching Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: coaching_end_date
+      label: Coaching End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: coaching_frequency_2
+      label: Coaching Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 1 time
+      - 2 times
+      - 3 times
+      - 4 times
+      - 5 times
+      required: true
+    - id: 9
+      name: coaching_durations_2
+      label: Coaching Durations 2
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - 5 hours
+      required: true
+    - id: 10
+      name: coaching_topics_2
+      label: Coaching Topics 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: coaching_location_2
+      label: Coaching Location 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: coaching_start_date_2
+      label: Coaching Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: coaching_end_date_2
+      label: Coaching End Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: coaching_goal
+      label: Coaching Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coaching_participant_name
+      label: Coaching Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: coaching_participant_job_title
+      label: Coaching Participant Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: coaching_participant_email
+      label: Coaching Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: coaching_participant_phone
+      label: Coaching Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_form_version
+      label: Assigned Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

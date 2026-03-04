@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Satisfaction Survey Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: Date of Service or Purchase
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: consent_intro
+      label: -- Consent and Privacy Information --
+      hint: Please review the following information
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: survey_purpose_acknowledge
+      label: I understand this survey is to gather feedback on my experience
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 7
+      name: voluntary_participation
+      label: I understand my participation is voluntary
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 8
+      name: data_confidentiality
+      label: I understand my data will be kept confidential
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: data_usage_consent
+      label: I consent to my data being used for service improvement
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 10
+      name: anonymity_option
+      label: I would prefer my response to be anonymous
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: contact_permission
+      label: May we contact you for follow-up questions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: marketing_permission
+      label: May we contact you with relevant updates or offers?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: privacy_policy_agreement
+      label: I have read and agree to the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 14
+      name: terms_agreement
+      label: I have read and agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 15
+      name: final_consent
+      label: I provide full consent to participate in this survey
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 16
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Author Excerpt Usage Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of this consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: Full name of copyright holder
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_email
+      label: Author Email
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: author_phone
+      label: Author Phone
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: original_work_title
+      label: Original Work Title
+      hint: Title of the book or publication
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: publication_date
+      label: Original Publication Date
+      hint: When was it originally published
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: work_type
+      label: Type of Original Work
+      hint: What type of work
+      type: select_one
+      options:
+      - Book
+      - Article
+      - Blog Post
+      - Poetry
+      - Script
+      - Research Paper
+      - Whitepaper
+      - Other
+      required: true
+    - id: 8
+      name: excerpts_to_use
+      label: Excerpt Details to Be Used
+      hint: Describe the portions to be used
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: excerpt_length
+      label: Approximate Length of Excerpts
+      hint: Pages, words, or percentage
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: requestor_name
+      label: Name of Person Requesting Permission
+      hint: Who is requesting to use the excerpt
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: requestor_email
+      label: Requestor Email
+      hint: Contact email for requestor
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: requestor_organization
+      label: Requestor Organization
+      hint: Organization or company
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: intended_use
+      label: Intended Use of Excerpt
+      hint: How will the excerpt be used
+      type: select_one
+      options:
+      - Educational Material
+      - Marketing/Promotional
+      - Publishing
+      - Website/Blog
+      - Academic Research
+      - Training Material
+      - Anthology
+      - Other
+      required: true
+    - id: 14
+      name: use_description
+      label: Detailed Description of Use
+      hint: Provide context for the use
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: distribution_method
+      label: How Will It Be Distributed
+      hint: Publication method
+      type: select_one
+      options:
+      - Print Only
+      - Digital Only
+      - Print and Digital
+      - Website
+      - Social Media
+      - Internal Use Only
+      - Other
+      required: true
+    - id: 16
+      name: territory
+      label: Geographic Territory
+      hint: Where will it be distributed
+      type: select_one
+      options:
+      - Worldwide
+      - United States Only
+      - Specific Country
+      - Online Only
+      - Limited Territory
+      required: true
+    - id: 17
+      name: duration_of_use
+      label: Duration of Use Permission
+      hint: How long can it be used
+      type: select_one
+      options:
+      - Permanent
+      - 1 Year
+      - 2 Years
+      - 5 Years
+      - Specific End Date
+      - Limited Duration
+      required: true
+    - id: 18
+      name: credit_required
+      label: Credit/Attribution Required
+      hint: Will you provide attribution
+      type: select_one
+      options:
+      - Yes - Full Attribution Required
+      - Yes - Source Citation Required
+      - No - No Attribution Needed
+      required: true
+    - id: 19
+      name: exclusivity
+      label: Exclusive vs Non-Exclusive Use
+      hint: Is this exclusive permission
+      type: select_one
+      options:
+      - Exclusive - No Others Can Use
+      - Non-Exclusive - Others May Use
+      - Limited Exclusivity
+      required: true
+    - id: 20
+      name: compensation
+      label: Compensation or Royalties
+      hint: Will there be payment
+      type: select_one
+      options:
+      - No Compensation
+      - One-Time Payment
+      - Royalty/Per-Use
+      - TBD - To Be Negotiated
+      required: true
+    - id: 21
+      name: compensation_amount
+      label: Agreed Compensation Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: approval_status
+      label: Author Approval
+      hint: Do you approve this use
+      type: select_one
+      options:
+      - Approved
+      - Approved with Modifications
+      - Denied
+      - Need More Information
+      required: true
+    - id: 23
+      name: approval_conditions
+      label: Conditions or Requirements
+      hint: Any special conditions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: legal_authority
+      label: Legal Authority to Consent
+      hint: Do you have rights to grant permission
+      type: select_one
+      options:
+      - Yes - I Own the Copyright
+      - Yes - I Have License to Grant
+      - Uncertain - Shared Rights
+      - No - Need to Verify
+      required: true

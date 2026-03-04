@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: morning_cleaning_checklist
+    pages:
+    - id: 1
+      name: morning_cleaning_task
+      label: morning_cleaning_task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cleaning_status
+      label: Is the floor cleaned?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Not Yet''}'
+      required: false
+    - id: 3
+      name: clean_rooms
+      label: Which rooms are cleaned today?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Kitchen''}'
+      - '{''value'': ''Bedroom''}'
+      - '{''value'': ''Living Room''}'
+      - '{''value'': ''Bathroom''}'
+      - '{''value'': ''Hallway''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Jim''}'
+      required: false
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Session Chair Registration Form
+    pages:
+    - id: 1
+      name: chair_name
+      label: Session Chair Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: title
+      label: Professional Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: institution
+      label: Institution or Organization
+      hint: Your affiliation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Asia
+      - Other
+      required: true
+    - id: 12
+      name: expertise_areas
+      label: Areas of Expertise
+      hint: Your field
+      type: select_multiple
+      options:
+      - Technology
+      - Healthcare
+      - Business
+      - Education
+      - Engineering
+      - Sciences
+      - Humanities
+      - Social Sciences
+      - Other
+      required: true
+    - id: 13
+      name: chairing_experience
+      label: Previous Chairing Experience
+      hint: Have you chaired before
+      type: select_one
+      options:
+      - Yes Multiple Conferences
+      - Yes One or Two
+      - No First Time
+      required: true
+    - id: 14
+      name: experience_details
+      label: Experience Details
+      hint: Describe your experience
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_sessions
+      label: Preferred Session Types
+      hint: What you would like to chair
+      type: select_multiple
+      options:
+      - Keynote Sessions
+      - Panel Discussions
+      - Research Presentations
+      - Workshop Sessions
+      - Lightning Talks
+      - Poster Sessions
+      - Any Session
+      required: true
+    - id: 16
+      name: topic_preferences
+      label: Topic Preferences
+      hint: Specific topics of interest
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: availability
+      label: Availability
+      hint: Which days
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - Day 4
+      - All Days
+      required: true
+    - id: 18
+      name: time_preferences
+      label: Time Preferences
+      hint: Preferred times
+      type: select_multiple
+      options:
+      - Morning Sessions
+      - Afternoon Sessions
+      - Evening Sessions
+      - No Preference
+      required: false
+    - id: 19
+      name: session_length
+      label: Preferred Session Length
+      hint: Duration
+      type: select_one
+      options:
+      - 60 Minutes
+      - 90 Minutes
+      - 120 Minutes
+      - Half Day
+      - No Preference
+      required: false
+    - id: 20
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: biography
+      label: Brief Biography
+      hint: For program listing
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: photo_upload
+      label: Photo Upload
+      hint: Link to your photo
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_support
+      label: Travel Support Needed
+      hint: Do you need funding
+      type: select_one
+      options:
+      - Yes Need Support
+      - No Self-Funded
+      - No Institution Funding
+      required: true
+    - id: 24
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Hotel required
+      type: select_one
+      options:
+      - Yes Need Hotel
+      - No Already Booked
+      - No Not Required
+      required: true
+    - id: 25
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For meals
+      type: select_one
+      options:
+      - No Restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 26
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Specify requirements
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: cv_attached
+      label: CV or Resume
+      hint: Link or note about CV
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: references
+      label: Professional References
+      hint: Names and contacts
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: commitment_confirmation
+      label: I Confirm My Commitment to Chair
+      hint: Verify availability
+      type: select_one
+      options:
+      - I Confirm
+      - Cannot Commit
+      required: true

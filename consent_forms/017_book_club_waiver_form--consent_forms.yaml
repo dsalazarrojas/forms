@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Club Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: book_club_name
+      label: Book Club Name
+      hint: Name of the book club you are joining
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: membership_start_date
+      label: Membership Start Date
+      hint: When are you starting
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: code_of_conduct
+      label: Code of Conduct Agreement
+      hint: I agree to respect all members and participate constructively
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 12
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: I agree to keep personal discussions confidential
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 13
+      name: attendance_expectation
+      label: Attendance Expectation Understanding
+      hint: I understand regular attendance is encouraged
+      type: select_one
+      options:
+      - Yes I understand
+      - No I do not understand
+      required: true
+    - id: 14
+      name: book_purchase_responsibility
+      label: Book Purchase Responsibility
+      hint: I understand I am responsible for obtaining books
+      type: select_one
+      options:
+      - Yes I understand
+      - No I do not understand
+      required: true
+    - id: 15
+      name: photo_release
+      label: Photo and Video Release
+      hint: Permission to use photos for promotional purposes
+      type: select_one
+      options:
+      - Yes I grant permission
+      - No I do not grant permission
+      required: true
+    - id: 16
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I release the book club and organizers from liability
+      type: select_one
+      options:
+      - Yes I waive liability
+      - No I do not waive liability
+      required: true
+    - id: 17
+      name: medical_emergency_consent
+      label: Medical Emergency Consent
+      hint: Permission to seek medical help in case of emergency
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_conditions
+      label: Relevant Medical Conditions or Allergies
+      hint: List any conditions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: data_privacy_consent
+      label: Data Privacy Consent
+      hint: I consent to my information being stored securely
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 23
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: witness_signature
+      label: Witness Signature
+      hint: Type witness full name as signature
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review Complaint Form
+    pages:
+    - id: 1
+      name: performance_review_complaint_form
+      label: Performance Review Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Complaint Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - other_tool
+      required: false
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

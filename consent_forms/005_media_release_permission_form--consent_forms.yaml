@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: media_release_permission_form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''participant_name''}'
+      - '{''id'': 2, ''name'': ''participant_email''}'
+      - '{''id'': 3, ''name'': ''participant_phone''}'
+      required: true
+    - id: 3
+      name: media_details
+      label: Media Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''image''}'
+      - '{''id'': 2, ''name'': ''video''}'
+      required: true
+    - id: 4
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''on_location''}'
+      - '{''id'': 2, ''name'': ''off_location''}'
+      required: false
+    - id: 6
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: media_release
+      label: Media Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: media_owner
+      label: Media Owner
+      hint: null
+      type: text
+      options: []
+      required: false

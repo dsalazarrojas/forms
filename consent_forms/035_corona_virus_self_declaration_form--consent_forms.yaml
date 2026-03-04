@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corona Virus Self Declaration Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: symptoms
+      label: symptoms
+      hint: If you have experienced any of the following symptoms over the past 14
+        days, please select all that apply.
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Chest pain or pressure
+      required: false
+    - id: 4
+      name: travel_history
+      label: travel history
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_location
+      label: travel location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Class Waiver Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Arthritis
+      - Back Pain
+      - Diabetes
+      - High Blood Pressure
+      - High Cholesterol
+      - Knee Pain
+      - Other
+      - Severe Allergies
+      - Severe Anemia
+      - Severe Asthma
+      - Severe COPD
+      - Severe Epilepsy
+      - Severe Heart Condition
+      - Severe Mental Health Condition
+      - Severe Osteoporosis
+      - Severe Vision Loss
+      - Severe Vision Problem
+      required: true
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_phone
+      label: Emergency Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: instructor
+      label: Instructor
+      hint: null
+      type: select_one
+      options:
+      - Amy
+      - Jimmy
+      - Sarah
+      - Tom
+      - John
+      - Emily
+      - Mike
+      - Daisy
+      required: false
+    - id: 14
+      name: class_start_time
+      label: Class Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: class_end_time
+      label: Class End Time
+      hint: null
+      type: time
+      options: []
+      required: false

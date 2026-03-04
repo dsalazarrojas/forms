@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Chat Speaking Permission Request
+    pages:
+    - id: 1
+      name: form_1
+      label: Voice Chat Speaking Permission Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: What is your role in the community?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_3
+      label: How long do you plan to use Voice Chat speaking permissions for?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: form_4
+      label: Select the duration of time for your Voice Chat speaking access
+      hint: null
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: true
+    - id: 5
+      name: form_5
+      label: What is your expected time of usage for Voice Chat speaking permissions?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: form_6
+      label: What time of day would you like to be granted Voice Chat speaking permissions?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: form_7
+      label: Select the time of day for your Voice Chat speaking access
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 8
+      name: form_8
+      label: Select the frequency of usage for your Voice Chat speaking access
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Irregular
+      - No answer
+      required: true
+    - id: 9
+      name: form_9
+      label: Select any additional information for Voice Chat speaking access
+      hint: null
+      type: select_multiple
+      options:
+      - I need Voice Chat speaking access for work purposes
+      - I need Voice Chat speaking access for personal reasons
+      - Other
+      required: false
+    - id: 10
+      name: form_10
+      label: Additional comments or concerns about Voice Chat speaking permissions
+      hint: null
+      type: note
+      options: []
+      required: false

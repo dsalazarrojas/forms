@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Release Form
+    pages:
+    - id: 1
+      name: vehicle_owner
+      label: vehicle_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_registration_number
+      label: vehicle_registration_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - Ford
+      - Toyota
+      - Honda
+      - Nissan
+      - Other
+      required: false
+    - id: 5
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: buyer_full_name
+      label: buyer_full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: buyer_address
+      label: buyer_address
+      hint: null
+      type: text
+      options: []
+      required: false

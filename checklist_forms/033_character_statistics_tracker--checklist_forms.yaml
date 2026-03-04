@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Statistics Tracker
+    pages:
+    - id: 1
+      name: section_session_info
+      label: -- Session and Character Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: campaign_title_or_story
+      label: Campaign Title or Story Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_full_name_identity
+      label: Player Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: character_full_name_identity
+      label: Character Full Name
+      hint: Enter the character's name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_ongoing_stats
+      label: -- Ongoing Stats and Levels --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_character_level_log
+      label: Current Character Level
+      hint: Enter the character's level as of this session
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_experience_points_xp
+      label: Total Experience Points (XP)
+      hint: Cumulative XP earned
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: xp_earned_this_session
+      label: XP Earned This Session
+      hint: Amount gained since last update
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: maximum_health_hit_points
+      label: Maximum Health (Hit Points)
+      hint: Your character's total health
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_health_hit_points
+      label: Current Health (Hit Points)
+      hint: Health remaining at end of session
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_combat_achievements
+      label: -- Combat and Achievements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: enemies_defeated_this_session
+      label: Enemies Defeated This Session
+      hint: Total count of defeated foes
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: significant_achievement_milestone
+      label: Significant Achievement or Milestone
+      hint: Describe one major success from this session
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_inventory_updates
+      label: -- Inventory and Wealth Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: new_items_acquired_this_session
+      label: New Items Acquired This Session
+      hint: List 2-3 significant items
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: items_lost_or_consumed_this_session
+      label: Items Lost or Consumed This Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gold_currency_total_update
+      label: Gold and Currency Total Update
+      hint: Cumulative wealth
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_session_finalization
+      label: -- Session Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accuracy_confirmation_stats_tracker
+      label: Confirmation of Stats Update
+      hint: I confirm that these stats accurately reflect the session's progress
+      type: select_one
+      options:
+      - I Confirm and Log Session Stats
+      - Other
+      required: true
+    - id: 20
+      name: date_of_stats_log_submission
+      label: Date of Session Log
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_session_notes_log
+      label: Additional Session Notes
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: interest_in_follow_up_campaign
+      label: Would you like to be notified of the next session?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please notify me
+      - No, thank you
+      required: false

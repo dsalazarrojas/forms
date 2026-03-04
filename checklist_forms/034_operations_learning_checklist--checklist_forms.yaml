@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: operations_learning_checklist
+    pages:
+    - id: 1
+      name: checklist_progress
+      label: Checklist Progress
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: team_leadership
+      label: Team Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_feedback
+      label: Supervisor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false

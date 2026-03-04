@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Semi Truck Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: truck_number
+      label: Truck Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: truck_type
+      label: Truck Type
+      hint: null
+      type: select_one
+      options:
+      - Semi Truck
+      - Tractor
+      - Tanker
+      - Reefer
+      - Dry Van
+      - Flatbed
+      - Doubles
+      - Other
+      required: false
+    - id: 5
+      name: engine_number
+      label: Engine Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tire_pressure
+      label: Tire Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: brakes_condition
+      label: Brake Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: steering_condition
+      label: Steering Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: suspension_condition
+      label: Suspension Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: wheel_condition
+      label: Wheel Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: tire_condition
+      label: Tire Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: brake_light
+      label: Brake Light
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: turn_signal
+      label: Turn Signal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: speedometer
+      label: Speedometer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: mirrors
+      label: Mirrors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: seatbelts
+      label: Seatbelts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: parking_brakes
+      label: Parking Brakes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: hazard_light
+      label: Hazard Light
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: trailer_connected
+      label: Trailer Connected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: trailer_brakes
+      label: Trailer Brakes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: trailer_suspension
+      label: Trailer Suspension
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

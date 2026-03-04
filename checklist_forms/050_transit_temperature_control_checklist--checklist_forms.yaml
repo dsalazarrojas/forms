@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transit Temperature Control Checklist
+    pages:
+    - id: 1
+      name: in_transit_checks
+      label: In-transit Checks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: document_inspections
+      label: Document Inspections
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: corrective_action_taken
+      label: Corrective Action Taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: inspected_by
+      label: Inspected By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: temperature_recorded
+      label: Temperature Recorded
+      hint: Record temperature reading from unit or device
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_check_in
+      label: Next Check In
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: next_check_out
+      label: Next Check Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: temperature_device_id
+      label: Temperature Device ID
+      hint: Enter temperature device ID or serial number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: temperature_device_model
+      label: Temperature Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: temperature_device_type
+      label: Temperature Device Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: unit_type
+      label: Unit Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: unit_size
+      label: Unit Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: unit_weight
+      label: Unit Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: unit_content
+      label: Unit Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: unit_shipper
+      label: Unit Shipper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: unit_receiver
+      label: Unit Receiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: max_storage_duration
+      label: Max Storage Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: min_storage_temperature
+      label: Min Storage Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: max_storage_temp
+      label: Max Storage Temp
+      hint: null
+      type: number
+      options: []
+      required: false

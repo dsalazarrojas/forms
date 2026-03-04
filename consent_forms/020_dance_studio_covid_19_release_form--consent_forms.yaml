@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Studio COVID 19 Release Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: I consent to the following terms and conditions
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that COVID-19 is a highly contagious and potentially deadly virus
+        and that it is possible to contract it through human interaction
+      - I will take all necessary precautions to reduce the risk of infection
+      - I will be on time for my scheduled classes
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_phone
+      label: Emergency Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: waiver
+      label: Waiver
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: declaration
+      label: Declaration
+      hint: null
+      type: select_one
+      options:
+      - I am aware of and agree to the terms and conditions
+      - I am not aware of and do not agree to the terms and conditions
+      required: true

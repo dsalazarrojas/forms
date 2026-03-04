@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Coaching Session Preparation Form
+    pages:
+    - id: 1
+      name: section_session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Date of Coaching Session
+      hint: Select the scheduled date for your next session
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: current_role
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_session_focus
+      label: -- Session Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_goals
+      label: Primary Goals for Today
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Resume Review
+      - Interview Prep
+      - Career Transition
+      - Leadership Skills
+      - Salary Negotiation
+      - Work-Life Balance
+      required: true
+    - id: 8
+      name: current_challenges
+      label: Top 3 Professional Challenges
+      hint: List the main obstacles you are currently facing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recent_wins
+      label: Any recent achievements or wins?
+      hint: What have you been proud of lately?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_preparation_questions
+      label: -- Preparation Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: coach_questions
+      label: Specific Questions for your Coach
+      hint: What specific advice or feedback are you seeking?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resume_status
+      label: Is your resume up to date?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 13
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Provide the link to your professional profile
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_outcomes_satisfaction
+      label: -- Outcomes and Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: target_outcome
+      label: Most valuable outcome from this session
+      hint: What does success look like for this hour?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: satisfaction_level
+      label: Current Career Satisfaction (1 to 10)
+      hint: 1 being very unsatisfied, 10 being very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: session_frequency
+      label: Desired frequency of future sessions
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Home Complaint Form
+    pages:
+    - id: 1
+      name: nursing_home
+      label: Nursing Home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: complainant
+      label: Complainant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resident_info
+      label: Resident Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nursing_home_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_complaint
+      label: Date of Complaint
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: nature_of_complaint
+      label: Nature of Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: long_text
+      label: Complaint
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true

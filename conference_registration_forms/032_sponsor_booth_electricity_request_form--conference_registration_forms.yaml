@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Booth Electricity Request Form
+    pages:
+    - id: 1
+      name: sponsor_booth_electricity_request
+      label: Sponsor Booth Electricity Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: installation_schedule
+      label: Installation Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: power_requirements
+      label: Power Requirements
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: power_consumption
+      label: Power Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_booth_size
+      label: Total Booth Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_of_outlets
+      label: Number of Outlets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: voltage_requirement
+      label: Voltage Requirement
+      hint: null
+      type: select_one
+      options:
+      - '110'
+      - '220'
+      - '380'
+      required: false
+    - id: 8
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - Administrator
+      - Manager
+      - Sponsor
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Please provide any comments about your booth.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: installation_status
+      label: Installation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Installed
+      - Pending
+      - Cancelled
+      required: true
+    - id: 16
+      name: comments_status
+      label: Comments Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 17
+      name: electricity_service_type
+      label: Electricity Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - On-site Generator
+      - Off-site Generator
+      - City Power
+      required: true
+    - id: 18
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Service Provider 1
+      - Service Provider 2
+      - Service Provider 3
+      required: true
+    - id: 19
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: comments_service_provider
+      label: Comments Service Provider
+      hint: Please provide any comments about the service provider.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: total_installation_cost
+      label: Total Installation Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: comments_installation_cost
+      label: Comments Installation Cost
+      hint: Please provide any comments about the installation cost.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: electricity_rate
+      label: Electricity Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: comments_electricity_rate
+      label: Comments Electricity Rate
+      hint: Please provide any comments about the electricity rate.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments_other
+      label: Comments Other
+      hint: Please provide any other comments.
+      type: text
+      options: []
+      required: false

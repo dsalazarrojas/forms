@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broker Of Record Form
+    pages:
+    - id: 1
+      name: policyholder_information_header
+      label: -- Policyholder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_name
+      label: Policyholder Full Name
+      hint: Full legal name of the policyholder
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policyholder_date_of_birth
+      label: Policyholder Date of Birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policy_type
+      label: Policy Type
+      hint: Type of insurance policy
+      type: select_one
+      options:
+      - Life Insurance
+      - Health Insurance
+      - Auto Insurance
+      - Home Insurance
+      - Business Insurance
+      - Disability Insurance
+      - Other
+      required: true
+    - id: 6
+      name: current_broker_header
+      label: -- Current Broker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_broker_name
+      label: Current Broker Name
+      hint: Name of current broker if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_broker_company
+      label: Current Broker Company
+      hint: Company of current broker
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_broker_phone
+      label: Current Broker Phone
+      hint: Phone number of current broker
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_broker_information_header
+      label: -- New Broker of Record Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: new_broker_name
+      label: New Broker Full Name
+      hint: Full name of the new broker of record
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_broker_license_number
+      label: New Broker License Number
+      hint: License number of the new broker
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_broker_company
+      label: New Broker Company
+      hint: Company name of the new broker
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: new_broker_address
+      label: New Broker Business Address
+      hint: Business address of new broker
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: new_broker_phone
+      label: New Broker Phone
+      hint: Phone number of new broker
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: new_broker_email
+      label: New Broker Email
+      hint: Email address of new broker
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: authorization_header
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: authorization_statement
+      label: Authorization Statement
+      hint: I authorize the change of broker of record
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: effective_date
+      label: Effective Date
+      hint: Date the change should take effect
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why you are changing brokers
+      type: select_one
+      options:
+      - Relocation
+      - Better Service
+      - Cost Reduction
+      - Referral
+      - Broker Retirement
+      - Dissatisfaction
+      - Other
+      required: false
+    - id: 21
+      name: reason_description
+      label: Reason Description
+      hint: Provide additional details if desired
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: consent_header
+      label: -- Consent and Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: consent_to_release
+      label: I consent to release information to new broker
+      hint: Check to authorize information release
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 24
+      name: consent_to_cancel
+      label: I consent to cancel any existing broker agreement
+      hint: Check if applicable
+      type: select_one
+      options:
+      - I Consent
+      - Not Applicable
+      required: true
+    - id: 25
+      name: understanding_statement
+      label: I understand this authorizes the new broker
+      hint: Check to acknowledge understanding
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 26
+      name: signature_header
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: policyholder_signature
+      label: Policyholder Signature
+      hint: Type full legal name to sign
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Date Signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: witness_information_header
+      label: -- Witness Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if required
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness signature if applicable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: notary_header
+      label: -- Notary Section --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: notary_name
+      label: Notary Public Name
+      hint: Name of notary if required
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: notary_commission_expiration
+      label: Notary Commission Expiration
+      hint: Expiration date of notary commission
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: notary_signature
+      label: Notary Signature
+      hint: Notary signature and seal
+      type: text
+      options: []
+      required: false

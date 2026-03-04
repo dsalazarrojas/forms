@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Inspection Report Release Form
+    pages:
+    - id: 1
+      name: home_inspection_report_release_form
+      label: Home Inspection Report Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_report
+      label: Inspection Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_report_release_form
+      label: Inspection Report Release Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: homeowner_permission_to_share
+      label: Homeowner Permission to Share
+      hint: null
+      type: select_one
+      options:
+      - Homeowner grants permission to share inspection report with real estate professionals
+      - Homeowner does not grant permission to share inspection report with real estate
+        professionals
+      required: true
+    - id: 5
+      name: real_estate_professional
+      label: Real Estate Professional
+      hint: null
+      type: select_one
+      options:
+      - Broker
+      - Lender
+      - Appraiser
+      required: true
+    - id: 6
+      name: real_estate_professional_relationship
+      label: Relationship with Real Estate Professional
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: real_estate_professional_address
+      label: Address of Real Estate Professional
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: real_estate_professional_email
+      label: Email of Real Estate Professional
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: real_estate_professional_phone
+      label: Phone of Real Estate Professional
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: real_estate_professional_fax
+      label: Fax of Real Estate Professional
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: real_estate_professional_message
+      label: Message to Real Estate Professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: real_estate_agent
+      label: Real Estate Agent
+      hint: null
+      type: select_one
+      options:
+      - Real Estate Agent 1
+      - Real Estate Agent 2
+      - Real Estate Agent 3
+      required: true
+    - id: 17
+      name: real_estate_agent_relationship
+      label: Relationship with Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: real_estate_agent_address
+      label: Address of Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: real_estate_agent_email
+      label: Email of Real Estate Agent
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: real_estate_agent_phone
+      label: Phone of Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: real_estate_agent_fax
+      label: Fax of Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: real_estate_agent_message
+      label: Message to Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_real_estate_agent
+      label: Other Real Estate Agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: other_real_estate_agent_relationship
+      label: Relationship with Other Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_real_estate_agent_address
+      label: Address of Other Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: false

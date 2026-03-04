@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: uber_inspection_form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - Toyota
+      - Honda
+      - Ford
+      - Other
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: select_multiple
+      options:
+      - Camry
+      - Civic
+      - Focus
+      - Other
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: license_plate
+      label: license_plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: odometer_reading
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: engine_condition
+      label: engine_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: transmission_condition
+      label: transmission_condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - DoesntWork
+      required: false
+    - id: 9
+      name: brake_system
+      label: brake_system
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - NotWorking
+      - Unknown
+      required: false
+    - id: 10
+      name: suspension_system
+      label: suspension_system
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - DoesntWork
+      required: false
+    - id: 11
+      name: tire_condition
+      label: tire_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: steering_system
+      label: steering_system
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - NotWorking
+      - Unknown
+      required: false
+    - id: 13
+      name: frame_and_body
+      label: frame_and_body
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: false
+    - id: 14
+      name: exhaust_system
+      label: exhaust_system
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - NotWorking
+      required: false
+    - id: 15
+      name: battery
+      label: battery
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - NotCharged
+      required: false
+    - id: 16
+      name: lights_and_signals
+      label: lights_and_signals
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: wheels_and_tires
+      label: wheels_and_tires
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Worn
+      required: false
+    - id: 18
+      name: body_and_paint
+      label: body_and_paint
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: false
+    - id: 19
+      name: interior
+      label: interior
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: false
+    - id: 20
+      name: electrical_systems
+      label: electrical_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - NotWorking
+      required: false
+    - id: 21
+      name: glass_and_mirrors
+      label: glass_and_mirrors
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 22
+      name: other_damage
+      label: other_damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - NotInspected
+      required: false
+    - id: 25
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - NotInspected
+      required: false

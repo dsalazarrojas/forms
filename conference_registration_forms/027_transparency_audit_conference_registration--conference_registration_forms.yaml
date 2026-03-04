@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transparency Audit Conference Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendance_mode
+      label: Attendance Mode
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Remote
+      - Hybrid
+      required: false
+    - id: 3
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 4
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_organization
+      label: Attendee Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_position
+      label: Attendee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_comments
+      label: Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false

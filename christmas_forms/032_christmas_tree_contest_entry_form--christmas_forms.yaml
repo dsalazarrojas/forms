@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Tree Contest Entry Form
+    pages:
+    - id: 1
+      name: contestant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For contest updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For winner notification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address_line1
+      label: Street Address
+      hint: Full address for tree pickup
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_contestant_info
+      label: -- Contestant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tree_type
+      label: Tree Type
+      hint: What type of tree do you have
+      type: select_one
+      options:
+      - Natural Evergreen
+      - Artificial Tree
+      - Potted Living Tree
+      - Creative Alternative
+      - Tabletop Tree
+      - Outdoor Tree
+      required: true
+    - id: 9
+      name: tree_height
+      label: Tree Height
+      hint: Approximate height in feet
+      type: select_one
+      options:
+      - Under 3 feet
+      - 3-5 feet
+      - 5-7 feet
+      - 7-9 feet
+      - 9-12 feet
+      - Over 12 feet
+      required: true
+    - id: 10
+      name: tree_age
+      label: Tree Age
+      hint: How long have you had this tree
+      type: select_one
+      options:
+      - First year
+      - 1-3 years
+      - 4-6 years
+      - 7-10 years
+      - Over 10 years
+      - Family heirloom
+      required: true
+    - id: 11
+      name: section_tree_details
+      label: -- Tree Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: theme_name
+      label: Theme Name
+      hint: What is your decorating theme
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: theme_description
+      label: Theme Description
+      hint: Describe your theme and inspiration
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: color_scheme
+      label: Color Scheme
+      hint: Primary colors used
+      type: select_one
+      options:
+      - Traditional Red and Green
+      - Blue and Silver
+      - Gold and White
+      - Multicolor
+      - Rustic Natural
+      - Pink and Purple
+      - Black and White
+      - Other
+      required: true
+    - id: 15
+      name: decoration_style
+      label: Decoration Style
+      hint: What is your decorating style
+      type: select_one
+      options:
+      - Traditional Classic
+      - Modern Minimalist
+      - Extravagant Over-the-top
+      - Rustic Country
+      - Elegant Sophisticated
+      - Whimsical Fun
+      - Vintage Nostalgic
+      - DIY Handmade
+      required: true
+    - id: 16
+      name: section_theme
+      label: -- Theme and Style --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_features
+      label: Special Features
+      hint: What makes your tree unique
+      type: select_multiple
+      options:
+      - Handmade ornaments
+      - Family heirlooms
+      - LED lighting
+      - Themed ornaments
+      - Tree topper feature
+      - Garland variety
+      - Musical element
+      - Scented elements
+      - Photo ornaments
+      - Travel souvenirs
+      required: true
+    - id: 18
+      name: time_spent
+      label: Time Spent Decorating
+      hint: Approximate hours
+      type: select_one
+      options:
+      - Under 1 hour
+      - 1-3 hours
+      - 3-6 hours
+      - 6-12 hours
+      - Over 12 hours
+      - Multiple days
+      required: true
+    - id: 19
+      name: family_involvement
+      label: Family Involvement
+      hint: Who helped decorate
+      type: select_one
+      options:
+      - Just me
+      - My immediate family
+      - Extended family
+      - Friends helped
+      - Community effort
+      required: true
+    - id: 20
+      name: section_decoration_process
+      label: -- Decoration Process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: photo_submission
+      label: Photo Submission
+      hint: Do you have photos to share
+      type: select_one
+      options:
+      - Yes I will submit photos
+      - Yes photos attached
+      - No photos available
+      required: true
+    - id: 22
+      name: photo_description
+      label: Photo Description
+      hint: Describe your submitted photos
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_contests
+      label: Previous Contest Participation
+      hint: Have you entered before
+      type: select_one
+      options:
+      - First time entering
+      - Yes once before
+      - Yes multiple times
+      - Yes I have won before
+      required: true
+    - id: 24
+      name: how_heard
+      label: How Did You Hear About Contest
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend or Family
+      - Newspaper
+      - Radio
+      - Flyer
+      - Other
+      required: true
+    - id: 25
+      name: agree_rules
+      label: Agree to Contest Rules
+      hint: I agree to all contest rules
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 26
+      name: publicity_consent
+      label: Publicity Consent
+      hint: Allow use of photos if winner
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 27
+      name: tree_story
+      label: Your Tree Story
+      hint: Share what makes your tree special
+      type: text
+      options: []
+      required: false

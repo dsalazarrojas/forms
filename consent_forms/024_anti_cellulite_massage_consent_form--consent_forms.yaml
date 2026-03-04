@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Cellulite Massage Consent Form
+    pages:
+    - id: 1
+      name: client_details_header
+      label: -- Client Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: medical_history_header
+      label: -- Medical History and Screen --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pregnancy_status
+      label: Are you currently pregnant or breastfeeding?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: skin_conditions
+      label: Do you have any skin allergies or conditions?
+      hint: e.g. Eczema, bruising easily
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: circulatory_issues
+      label: Do you have any circulatory or heart conditions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: recent_surgeries
+      label: Recent surgeries or medical procedures
+      hint: Within the last 6 months
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_understanding
+      label: I understand the risks and benefits of Anti-Cellulite Massage
+      hint: Possible bruising or redness may occur
+      type: select_multiple
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 11
+      name: aftercare_awareness
+      label: I agree to follow the provided post-treatment care instructions
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 12
+      name: cancellation_policy
+      label: I acknowledge the 24-hour cancellation policy
+      hint: null
+      type: select_multiple
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 13
+      name: consent_signature
+      label: Digital Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_of_consent
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

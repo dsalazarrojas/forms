@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_development_records_release_form
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: developer_name
+      label: developer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sensitive_records
+      label: sensitive_records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_details
+      label: release_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: release_contact_name
+      label: release_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_contact_phone
+      label: release_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: release_contact_phone_alt
+      label: release_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: release_contact_email_alt
+      label: release_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: consents_given
+      label: consents_given
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: consents_signed
+      label: consents_signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

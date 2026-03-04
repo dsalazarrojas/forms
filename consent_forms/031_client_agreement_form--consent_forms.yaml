@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Agreement Form
+    pages:
+    - id: 1
+      name: agreement_intro
+      label: -- Development Services Agreement --
+      hint: This agreement covers website and/or mobile application development services.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name/Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: developer_name
+      label: Developer/Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_type
+      label: Type of Project
+      hint: null
+      type: select_one
+      options:
+      - Website Development
+      - Mobile App (iOS/Android)
+      - Full Stack Web App
+      - API Development
+      - UI/UX Design Only
+      required: true
+    - id: 5
+      name: project_scope_header
+      label: -- Scope of Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: scope_summary
+      label: Brief Summary of Deliverables
+      hint: e.g. 5-page WordPress site, E-commerce features
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: estimated_completion_date
+      label: Target Completion Date
+      hint: Estimated timeline
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_project_cost
+      label: Agreed Total Project Cost ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: deposit_required
+      label: Upfront Deposit Amount (%)
+      hint: Typically 25-50%
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: legal_clauses_header
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: intellectual_property_ack
+      label: I agree that intellectual property transfer occurs upon full payment
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 12
+      name: revisions_policy_ack
+      label: I acknowledge the policy of 2 rounds of minor revisions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 13
+      name: maintenance_ack
+      label: I understand that ongoing maintenance is a separate service
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 14
+      name: confidentiality_ack
+      label: I agree to the mutual non-disclosure agreement (NDA)
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 15
+      name: electronic_signature
+      label: Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: agreement_footer
+      label: -- Thank you for your business --
+      hint: A copy of this agreement will be sent to your email.
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Automation System Consent Form
+    pages:
+    - id: 1
+      name: property_owner
+      label: Property Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_title
+      label: Owner Title
+      hint: Position if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: If commercial property
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: property_name
+      label: Property Name
+      hint: Name of property
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: Classification
+      type: select_one
+      options:
+      - Residential Single Family
+      - Residential Multi Family
+      - Commercial Office
+      - Retail
+      - Industrial
+      - Mixed Use
+      - Institutional
+      required: true
+    - id: 10
+      name: building_size
+      label: Building Size
+      hint: Square footage
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: automation_provider
+      label: Automation Provider
+      hint: Company providing system
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: system_type
+      label: System Type
+      hint: Type of automation system
+      type: select_one
+      options:
+      - HVAC Control
+      - Lighting Control
+      - Security System
+      - Access Control
+      - Energy Management
+      - Integrated Building Management
+      - Smart Home System
+      - Other
+      required: true
+    - id: 13
+      name: consent_scope
+      label: Scope of Consent
+      hint: What is being authorized
+      type: select_multiple
+      options:
+      - System Installation
+      - System Configuration
+      - Remote Monitoring
+      - Data Collection
+      - System Maintenance
+      - Software Updates
+      - Third Party Access
+      - Cloud Connectivity
+      required: true
+    - id: 14
+      name: installation_start
+      label: Installation Start Date
+      hint: When work begins
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: installation_duration
+      label: Expected Duration
+      hint: How long will installation take
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: data_collection_consent
+      label: Data Collection Consent
+      hint: Consent to collect building data
+      type: select_one
+      options:
+      - Yes - Full Data Collection
+      - Yes - Limited Data
+      - No - No Data Collection
+      required: true
+    - id: 17
+      name: data_types
+      label: Data Types Collected
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Energy Usage
+      - Temperature Data
+      - Occupancy Patterns
+      - Equipment Performance
+      - Security Events
+      - Access Logs
+      - Environmental Data
+      - None
+      required: false
+    - id: 18
+      name: remote_access
+      label: Remote Access Authorization
+      hint: Allow remote system access
+      type: select_one
+      options:
+      - Yes - Full Remote Access
+      - Yes - Limited Remote Access
+      - No - On-site Only
+      required: true
+    - id: 19
+      name: third_party_sharing
+      label: Third Party Data Sharing
+      hint: Share data with partners
+      type: select_one
+      options:
+      - Yes - With Service Providers
+      - Yes - With All Partners
+      - No - No Sharing
+      required: true
+    - id: 20
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: How often to monitor
+      type: select_one
+      options:
+      - Continuous
+      - Hourly
+      - Daily
+      - Weekly
+      - On Demand Only
+      required: true
+    - id: 21
+      name: notification_preferences
+      label: Notification Preferences
+      hint: How to receive alerts
+      type: select_multiple
+      options:
+      - Email Alerts
+      - SMS Notifications
+      - Mobile App Push
+      - Phone Calls
+      - No Notifications
+      required: true
+    - id: 22
+      name: emergency_override
+      label: Emergency Override Authorization
+      hint: Allow emergency system control
+      type: select_one
+      options:
+      - Yes - Full Override
+      - Yes - With Notification
+      - No - No Override
+      required: true
+    - id: 23
+      name: consent_duration
+      label: Consent Duration
+      hint: How long consent is valid
+      type: select_one
+      options:
+      - One Year
+      - Two Years
+      - Five Years
+      - Indefinite
+      - Until Revoked
+      required: true
+    - id: 24
+      name: revocation_terms
+      label: Revocation Terms
+      hint: Understand consent can be revoked
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - Need Clarification
+      required: true
+    - id: 25
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept all terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - No - I Do Not Accept
+      required: true
+    - id: 26
+      name: signature_acknowledgment
+      label: Signature Acknowledgment
+      hint: I authorize this consent
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - false
+      required: true

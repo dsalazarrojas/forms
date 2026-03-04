@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thermal Scanning Participation Consent Form
+    pages:
+    - id: 1
+      name: thermal_scanning_participation_consent_form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_participation
+      label: Date of Participation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_participation
+      label: Time of Participation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: Please sign here
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: By signing this form, you confirm that you have given your consent for
+        temperature checks
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Undecided''}'
+      required: true
+    - id: 12
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: text
+      options: []
+      required: false

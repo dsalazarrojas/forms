@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Data Ethics Roundtable Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: topic_interest_1
+      label: topic of interest 1
+      hint: null
+      type: select_one
+      options:
+      - Data Sharing
+      - Data Protection
+      - Data Use
+      - Data Ethics
+      - Other
+      required: false
+    - id: 6
+      name: topic_interest_2
+      label: topic of interest 2
+      hint: null
+      type: select_one
+      options:
+      - Data Sharing
+      - Data Protection
+      - Data Use
+      - Data Ethics
+      - Other
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: accessibility needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: accessibility_needs_other
+      label: other accessibility needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dietary_requirements
+      label: dietary requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other
+      - None
+      required: false
+    - id: 10
+      name: dietary_requirements_other
+      label: other dietary requirements
+      hint: null
+      type: text
+      options: []
+      required: false

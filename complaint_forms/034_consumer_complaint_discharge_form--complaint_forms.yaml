@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Complaint Discharge Form
+    pages:
+    - id: 1
+      name: complaint_id
+      label: Complaint ID
+      hint: Reference number for complaint
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complaint_date
+      label: Original Complaint Date
+      hint: When was complaint filed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_first_name
+      label: Customer First Name
+      hint: First name of complainant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_last_name
+      label: Customer Last Name
+      hint: Last name of complainant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_address
+      label: Customer Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_service
+      label: Product or Service
+      hint: What was the complaint about
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: complaint_category
+      label: Complaint Category
+      hint: Select category
+      type: select_one
+      options:
+      - Product Quality
+      - Product Defect
+      - Service Issue
+      - Delivery Problem
+      - Billing Issue
+      - Customer Service
+      - Website Issue
+      - Other
+      required: true
+    - id: 10
+      name: original_complaint
+      label: Original Complaint Summary
+      hint: Brief summary of the complaint
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: investigation_summary
+      label: Investigation Summary
+      hint: What was found during investigation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: resolution_offered
+      label: Resolution Offered
+      hint: What solution was provided
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: resolution_type
+      label: Resolution Type
+      hint: Select type of resolution
+      type: select_one
+      options:
+      - Refund Issued
+      - Replacement Provided
+      - Repair Completed
+      - Service Credit
+      - Apology Provided
+      - Policy Change
+      - No Action Required
+      - Other
+      required: true
+    - id: 14
+      name: resolution_amount
+      label: Resolution Amount
+      hint: Dollar amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: resolution_date
+      label: Resolution Date
+      hint: When was resolution provided
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: customer_satisfaction
+      label: Customer Satisfaction with Resolution
+      hint: Rate customer satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Yet Responded
+      required: true
+    - id: 17
+      name: customer_feedback
+      label: Customer Feedback
+      hint: Any feedback from customer
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issue_resolved
+      label: Is Issue Fully Resolved
+      hint: Select if complaint is closed
+      type: select_one
+      options:
+      - Yes, Fully Resolved
+      - Partially Resolved
+      - No, Still Open
+      - Escalated
+      required: true
+    - id: 19
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional follow-up needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Scheduled follow-up date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: handled_by
+      label: Complaint Handled By
+      hint: Name of representative
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: handler_title
+      label: Handler Title
+      hint: Job title
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: discharge_date
+      label: Discharge Date
+      hint: Date complaint is being closed
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: customer_acknowledgment
+      label: Customer Acknowledgment
+      hint: Customer acknowledges resolution
+      type: select_one
+      options:
+      - Yes, Acknowledged
+      - No, Pending
+      - Unable to Reach
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

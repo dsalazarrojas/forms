@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Clinic Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_clinic_time
+      label: preferred_clinic_time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      required: false
+    - id: 3
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - I am 18 or older
+      - I am under 18
+      required: true
+    - id: 4
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_city
+      label: participant_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_state
+      label: participant_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_postal
+      label: participant_postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_program_interest
+      label: participant_program_interest
+      hint: null
+      type: select_one
+      options:
+      - Sports
+      - Dance
+      - Music
+      - Theater
+      required: false
+    - id: 12
+      name: participant_clinics_1
+      label: participant_clinics_1
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic 1
+      - Clinic 2
+      - Clinic 3
+      - Clinic 4
+      - Clinic 5
+      required: false
+    - id: 13
+      name: participant_clinics_2
+      label: participant_clinics_2
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic 6
+      - Clinic 7
+      - Clinic 8
+      - Clinic 9
+      required: false

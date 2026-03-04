@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bespoke Interpretation Survey
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Enter your full name or organization name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: client_email
+        label: Email Address
+        hint: We will send survey confirmation here
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization or Company
+        hint: Name of your organization if applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: service_date
+        label: Date of Interpretation Service
+        hint: When did you receive interpretation services
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: service_type
+        label: Type of Interpretation Service
+        hint: What type of interpretation was provided
+        type: select_one
+        options:
+          - Simultaneous Interpretation
+          - Consecutive Interpretation
+          - Whispered Interpretation
+          - Written Translation
+          - Remote Video Interpretation
+          - Telephone Interpretation
+          - On-site Interpretation
+        required: true
+      - id: 6
+        name: language_pair
+        label: Language Pair
+        hint: Which languages were interpreted
+        type: select_one
+        options:
+          - English to Spanish
+          - English to French
+          - English to German
+          - English to Mandarin
+          - English to Arabic
+          - English to Russian
+          - English to Portuguese
+          - English to Japanese
+          - Other
+        required: true
+      - id: 7
+        name: interpreter_rating
+        label: Interpreter Performance Rating
+        hint: How would you rate the interpreter overall
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: accuracy_rating
+        label: Accuracy of Interpretation
+        hint: How accurate was the interpretation
+        type: select_one
+        options:
+          - Very Accurate
+          - Mostly Accurate
+          - Somewhat Accurate
+          - Not Very Accurate
+          - Inaccurate
+        required: true
+      - id: 9
+        name: professionalism_rating
+        label: Professionalism Rating
+        hint: Rate the interpreter professionalism
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: punctuality_rating
+        label: Punctuality Rating
+        hint: Was the interpreter on time
+        type: select_one
+        options:
+          - Very Punctual
+          - Mostly Punctual
+          - Somewhat Late
+          - Very Late
+          - Did Not Show
+        required: true
+      - id: 11
+        name: communication_quality
+        label: Communication Quality
+        hint: How clear and effective was the communication
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: cultural_sensitivity
+        label: Cultural Sensitivity
+        hint: Did the interpreter demonstrate cultural awareness
+        type: select_one
+        options:
+          - Very Culturally Sensitive
+          - Mostly Sensitive
+          - Somewhat Sensitive
+          - Not Very Sensitive
+          - Insensitive
+        required: true
+      - id: 13
+        name: service_expectations
+        label: Did Service Meet Expectations
+        hint: Overall, did the service meet your expectations
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Met Expectations
+          - Below Expectations
+          - Far Below Expectations
+        required: true
+      - id: 14
+        name: would_recommend
+        label: Would You Recommend Our Services
+        hint: Would you recommend us to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 15
+        name: future_service_interest
+        label: Interest in Future Services
+        hint: Would you use our interpretation services again
+        type: select_one
+        options:
+          - Definitely Will Use Again
+          - Likely to Use Again
+          - Might Use Again
+          - Unlikely to Use Again
+          - Will Not Use Again
+        required: true
+      - id: 16
+        name: strongest_aspect
+        label: Strongest Aspect of Service
+        hint: What was the best part of our service
+        type: select_one
+        options:
+          - Interpreter Quality
+          - Booking Process
+          - Customer Service
+          - Value for Money
+          - Technology Platform
+          - Flexibility
+          - Other
+        required: false
+      - id: 17
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could we do better
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Additional Comments or Feedback
+        hint: Any other thoughts you would like to share
+        type: text
+        options: []
+        required: false

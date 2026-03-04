@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Travel Expense Reimbursement Form
+    pages:
+    - id: 1
+      name: medical_travel_employer_information
+      label: Medical Travel Expense Reimbursement Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_travel_expense_type
+      label: Medical Travel Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Non-Medical
+      - Other
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_travel_start_date
+      label: Medical Travel Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: medical_travel_end_date
+      label: Medical Travel End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: medical_travel_purpose
+      label: Medical Travel Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_travel_destination
+      label: Medical Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_expense_amount
+      label: Medical Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: medical_expense_claimant_name
+      label: Medical Expense Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_expense_claimant_employee_id
+      label: Medical Expense Claimant Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_travel_receipts
+      label: Medical Travel Receipts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_expense_receipts_uploaded
+      label: Medical Expense Receipts Uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - Uploaded
+      - Not Uploaded
+      required: false
+    - id: 15
+      name: uploaded_medical_receipts
+      label: Uploaded Medical Receipts
+      hint: null
+      type: select_multiple
+      options:
+      - Uploaded
+      - Not Uploaded
+      required: false
+    - id: 16
+      name: uploaded_receipts
+      label: Uploaded Receipts
+      hint: null
+      type: select_multiple
+      options:
+      - Uploaded
+      - Not Uploaded
+      required: false
+    - id: 17
+      name: uploaded_receipts_uploaded
+      label: Uploaded Receipts Uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - Uploaded
+      - Not Uploaded
+      required: false
+    - id: 18
+      name: uploaded_medical_receipts
+      label: Uploaded Medical Receipts
+      hint: null
+      type: select_multiple
+      options:
+      - Uploaded
+      - Not Uploaded
+      required: false
+    - id: 19
+      name: uploaded_medical_receipts_uploaded
+      label: Uploaded Medical Receipts Uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - Uploaded
+      - Not Uploaded
+      required: false
+    - id: 20
+      name: medical_travel_expense_items
+      label: Medical Travel Expense Items
+      hint: null
+      type: select_multiple
+      options:
+      - Transportation
+      - Lodging
+      - Meals
+      - Parking
+      - Other
+      required: true
+    - id: 21
+      name: medical_expense_item_amount
+      label: Medical Expense Item Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: medical_expense_item_quantity
+      label: Medical Expense Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: medical_expense_item_description
+      label: Medical Expense Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medical_expense_item_subtotal
+      label: Medical Expense Item Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

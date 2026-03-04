@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coach And Captain Feedback Form
+    pages:
+      - id: 1
+        name: section_eval
+        label: -- Performance Evaluation --
+        hint: Provide honest feedback to help us improve
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: athlete_name
+        label: Athlete Name
+        hint: Optional - Leave blank for anonymous feedback
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: team_name
+        label: Team Name
+        hint: Name of the sports team or club
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: coach_name
+        label: Coach Name
+        hint: Name of the coach you are evaluating
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: coach_rating
+        label: Coaching Style Rating
+        hint: Rate the coach's effectiveness (1-5)
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 6
+        name: communication_rating
+        label: Communication Effectiveness
+        hint: How clear and timely is the coach's communication?
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 7
+        name: captain_name
+        label: Captain Name
+        hint: Name of the team captain
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: captain_rating
+        label: Captain Leadership Rating
+        hint: Rate the captain's leadership (1-5)
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 9
+        name: team_dynamic_satisfaction
+        label: Team Dynamic Satisfaction
+        hint: Overall satisfaction with team atmosphere
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 10
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What could be done better?
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: success_highlights
+        label: What went well this season
+        hint: Share positive highlights
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts?
+        type: text
+        options: []
+        required: false

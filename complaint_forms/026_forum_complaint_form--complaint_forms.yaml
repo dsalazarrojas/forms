@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Forum Complaint Form
+    pages:
+    - id: 1
+      name: complaint_details
+      label: Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complainant_details
+      label: Complainant Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: moderators_notes
+      label: Moderators Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: complaint_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: false
+    - id: 5
+      name: resolved_date
+      label: Resolved Date
+      hint: null
+      type: date
+      options: []
+      required: false

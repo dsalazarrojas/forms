@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Cookie Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cookie_order
+      label: cookie_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_order
+      label: confirm_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: cookie_type
+      label: cookie type
+      hint: null
+      type: select_one
+      options:
+      - Chocolate Chip
+      - Peanut Butter
+      - Oatmeal Raisin
+      - Snickerdoodle
+      - Sugar
+      - Shortbread
+      - Gingerbread
+      - Lemon
+      required: true
+    - id: 14
+      name: cookie_quantity
+      label: cookie quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: order_total
+      label: order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Cash
+      required: true
+    - id: 17
+      name: payment_info
+      label: payment info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_city
+      label: delivery city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_state
+      label: delivery state
+      hint: null
+      type: select_multiple
+      options:
+      - California
+      - Texas
+      - New York
+      - Florida
+      - Other
+      required: true
+    - id: 21
+      name: delivery_zip
+      label: delivery zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_note
+      label: delivery note
+      hint: null
+      type: text
+      options: []
+      required: false

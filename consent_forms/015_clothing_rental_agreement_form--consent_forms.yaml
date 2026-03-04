@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Rental Agreement Form
+    pages:
+    - id: 1
+      name: section_renter
+      label: -- Renter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renter_name
+      label: Renter Full Name
+      hint: Person renting the clothing
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: renter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_address
+      label: Current Address
+      hint: Full residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: renter_id
+      label: ID Type - Number
+      hint: Driver license, passport, etc
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_rental
+      label: -- Rental Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rental_item_description
+      label: Item Description
+      hint: Type and details of clothing being rented
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_color
+      label: Item Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_size
+      label: Item Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rental_start_date
+      label: Rental Start Date
+      hint: When will you pick up the item?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: rental_end_date
+      label: Rental End Date
+      hint: When must it be returned?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: rental_duration_days
+      label: Rental Duration - Days
+      hint: Total number of rental days
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_terms
+      label: -- Rental Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: rental_rate
+      label: Daily Rental Rate - USD
+      hint: Cost per day
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_rental_cost
+      label: Total Rental Cost - USD
+      hint: Duration x Daily Rate
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: security_deposit
+      label: Security Deposit - USD
+      hint: Amount held for damages
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: late_return_policy
+      label: Late Return Fee - USD per Day
+      hint: Cost for returning after end date
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: damage_liability
+      label: Renter acknowledges responsibility for damage
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: cleaning_responsibility
+      label: Item must be returned clean
+      hint: null
+      type: select_one
+      options:
+      - Yes, understood
+      - 'No'
+      required: true
+    - id: 21
+      name: section_signature
+      label: -- Agreement Acceptance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: terms_read_understood
+      label: I have read and understand the rental agreement
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 23
+      name: signature_acknowledgment
+      label: I agree to the terms and accept responsibility
+      hint: By proceeding, you digitally sign this agreement
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 24
+      name: agreement_date
+      label: Date of Agreement
+      hint: Today is date
+      type: date
+      options: []
+      required: true

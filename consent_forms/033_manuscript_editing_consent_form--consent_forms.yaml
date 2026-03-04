@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manuscript Editing Consent Form
+    pages:
+    - id: 1
+      name: author_name
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: author_email
+      label: Author Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: author_phone
+      label: Author Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      - '{3: ''Option 3''}'
+      required: false
+    - id: 5
+      name: manuscript_type
+      label: Manuscript Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Type 1''}'
+      - '{2: ''Type 2''}'
+      - '{3: ''Type 3''}'
+      required: false
+    - id: 6
+      name: manuscript_title
+      label: Manuscript Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manuscript_date
+      label: Manuscript Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: manuscript_status
+      label: Manuscript Status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Status 1''}'
+      - '{2: ''Status 2''}'
+      - '{3: ''Status 3''}'
+      required: false
+    - id: 9
+      name: manuscript_comments
+      label: Manuscript Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: author_consent
+      label: Author Consent
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      - '{3: ''Option 3''}'
+      required: false

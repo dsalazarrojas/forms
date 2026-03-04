@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_prescription_claim_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_info
+      label: claim_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_info
+      label: provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_info
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: claim_frequency
+      label: claim_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: prophets_info
+      label: providers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_number
+      label: claim_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claim_type
+      label: claim_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: claim_start_date
+      label: claim_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: claim_end_date
+      label: claim_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: claim_submitting_provider
+      label: submitting_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: claim_submitting_facility
+      label: submitting_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claim_npi
+      label: claim_n prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claim_dob
+      label: claim_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: claim_claimant_id
+      label: claim_claimant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: claim_claimant_name
+      label: claim_claimant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: claim_claimant_dob
+      label: claim_claimant_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: claim_claimant_address
+      label: claim_claimant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claim_npi
+      label: claim_npi
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claim_claimant_phone
+      label: claim_claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claim_claimant_email
+      label: claim_claimant_email
+      hint: null
+      type: email
+      options: []
+      required: false

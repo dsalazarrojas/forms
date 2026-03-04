@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Business Mentorship Registration Form
+    pages:
+    - id: 1
+      name: applicant_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Business Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_header
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Salon
+      - Spa
+      - Esthetics Studio
+      - Freelance Artist
+      - Online Store
+      - Coaching Service
+      - Other
+      required: true
+    - id: 10
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: annual_revenue
+      label: Approximate Annual Revenue
+      hint: null
+      type: select_one
+      options:
+      - Under 50k
+      - 50k-100k
+      - 100k-250k
+      - 250k-500k
+      - 500k+
+      required: true
+    - id: 12
+      name: employees_count
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: mentorship_header
+      label: -- Mentorship Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: mentorship_goals
+      label: Primary Mentorship Goals
+      hint: Business growth, marketing, financial management, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: focus_areas
+      label: Areas Needing Most Help
+      hint: null
+      type: select_multiple
+      options:
+      - Business Strategy
+      - Marketing
+      - Financial Management
+      - Staff Management
+      - Product Development
+      - Customer Service
+      required: true
+    - id: 16
+      name: main_challenge
+      label: Main Challenge Currently Facing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: experience_header
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: industry_experience
+      label: Years in Beauty Industry
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: certifications
+      label: Professional Certifications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: previous_mentorship
+      label: Previous Mentorship or Coaching Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: mentorship_format_header
+      label: -- Mentorship Format Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: mentorship_format
+      label: Preferred Mentorship Format
+      hint: null
+      type: select_one
+      options:
+      - One-on-One
+      - Group
+      - Hybrid
+      - Online
+      - In-Person
+      required: true
+    - id: 23
+      name: meeting_frequency
+      label: Preferred Meeting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 24
+      name: commitment_header
+      label: -- Commitment and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: time_commitment
+      label: Hours per Week Available for Mentorship
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: mentorship_duration
+      label: Desired Mentorship Duration
+      hint: null
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - Ongoing
+      required: true
+    - id: 27
+      name: budget
+      label: Mentorship Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: terms_accepted
+      label: I agree to the mentorship program terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

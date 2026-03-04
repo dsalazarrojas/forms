@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Staff Feedback Request Form
+    pages:
+    - id: 1
+      name: section_header_service
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_date
+      label: Service Date
+      hint: Date of the cleaning service
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: Address where service was provided
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: Type of Cleaning Service
+      hint: null
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Move-In/Move-Out
+      - Window Cleaning
+      - Carpet Cleaning
+      - Post-Construction
+      - Other
+      required: true
+    - id: 5
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: evaluator_name
+      label: Your Name
+      hint: Name of person providing feedback
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evaluator_email
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: evaluator_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role
+      label: Your Role
+      hint: Property owner, manager, supervisor, etc.
+      type: select_one
+      options:
+      - Property Owner
+      - Property Manager
+      - Facility Manager
+      - Building Supervisor
+      - Other
+      required: true
+    - id: 10
+      name: section_header_staff
+      label: -- Cleaning Staff Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: crew_leader_name
+      label: Crew Leader/Supervisor Name
+      hint: Name of person in charge
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: crew_members_count
+      label: Number of Crew Members
+      hint: How many people were on the team?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: How professional was the team?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: staff_courtesy
+      label: Staff Courtesy and Respect
+      hint: Were they courteous to you?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: communication_skills
+      label: Communication Skills
+      hint: Did they communicate clearly?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: work_ethic
+      label: Work Ethic and Diligence
+      hint: How hard did they work?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: attention_to_detail
+      label: Attention to Detail
+      hint: Did they notice and address details?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: time_management
+      label: Time Management
+      hint: Did they work efficiently?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: section_header_work_quality
+      label: -- Work Quality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: cleanliness_achieved
+      label: Cleanliness Quality Achieved
+      hint: How clean is the property?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: areas_satisfaction
+      label: Satisfaction with Specific Areas
+      hint: How satisfied are you with each area?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: safety_compliance
+      label: Safety and Compliance
+      hint: Did they follow safety protocols?
+      type: select_one
+      options:
+      - Yes, Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Non-Compliant
+      required: false
+    - id: 23
+      name: section_header_issues
+      label: -- Issues and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: any_issues
+      label: Were There Any Problems?
+      hint: null
+      type: select_one
+      options:
+      - No Issues
+      - Minor Issues
+      - Major Issues
+      required: true
+    - id: 25
+      name: issues_description
+      label: Describe the Issues
+      hint: What went wrong?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: property_damage
+      label: Any Property Damage?
+      hint: Was anything damaged?
+      type: select_one
+      options:
+      - No Damage
+      - Minor Damage
+      - Major Damage
+      required: true
+    - id: 27
+      name: damage_description
+      label: Damage Description
+      hint: Details of any damage
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_header_feedback
+      label: -- Feedback and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: staff_strengths
+      label: Cleaning Staff Strengths
+      hint: What did they do particularly well?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: would_request_same_crew
+      label: Would You Request the Same Crew Again?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Probably Yes
+      - Not Sure
+      - Probably Not
+      - false
+      required: true
+    - id: 32
+      name: overall_satisfaction
+      label: Overall Satisfaction with Cleaning Staff
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or suggestions
+      type: text
+      options: []
+      required: false

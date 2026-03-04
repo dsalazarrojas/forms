@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Screening Checklist
+    pages:
+    - id: 1
+      name: new_employee
+      label: New Employee
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Not Active''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Full-time''}'
+      - '{''id'': 2, ''name'': ''Part-time''}'
+      - '{''id'': 3, ''name'': ''Temporary''}'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Resigned''}'
+      - '{''id'': 3, ''name'': ''Terminated''}'
+      required: false
+    - id: 10
+      name: job_title_2
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employment_type_2
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: date_of_birth_2
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: hire_date_2
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: termination_date_2
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: employee_status_2
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: job_title_3
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

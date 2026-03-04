@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Sponsorship Claim Form
+    pages:
+    - id: 1
+      name: event_sponsorship_claim_form
+      label: Submit Event Sponsorship Claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_sponsorship_details
+      label: Event Sponsorship Details
+      hint: Please provide the following information about your event sponsorship
+        claim.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_start_date
+      label: Event Start Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_end_date
+      label: Event End Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_sponsorship_description
+      label: Event Sponsorship Description
+      hint: Tell us about your event sponsorship.
+      type: note
+      options: []
+      required: false

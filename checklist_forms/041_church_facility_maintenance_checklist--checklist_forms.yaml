@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Church Facility Maintenance Checklist
+    pages:
+      - id: 1
+        name: inspector_name_facility
+        label: Inspector Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: inspection_date_facility
+        label: Inspection Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: building_area_inspected
+        label: Building/Area Inspected
+        hint: null
+        type: select_one
+        options: [Main Sanctuary, Fellowship Hall, Classrooms/Offices, Exterior/Parking Lot, Kitchen/Pantry, Restrooms]
+        required: true
+      - id: 4
+        name: header_interior_checks
+        label: -- Interior Maintenance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: lighting_check
+        label: Interior Lighting Status
+        hint: Check for burnt out bulbs
+        type: select_one
+        options: [All Operational, Bulbs Need Replacement, Fixture Repair Needed]
+        required: true
+      - id: 6
+        name: hvac_filter_check
+        label: HVAC Filters Inspected
+        hint: null
+        type: select_one
+        options: [Clean, Replaced, Needs Replacement, Professional Service Required]
+        required: true
+      - id: 7
+        name: plumbing_fixtures_check
+        label: Plumbing Fixtures Status
+        hint: Check for leaks or running toilets
+        type: select_one
+        options: [No Issues, Minor Leak, Repair Required]
+        required: true
+      - id: 8
+        name: smoke_detectors_check
+        label: Smoke/Carbon Monoxide Detectors
+        hint: Test batteries/functionality
+        type: select_one
+        options: [Tested and Working, Battery Replaced, Faulty - Replace Immediately]
+        required: true
+      - id: 9
+        name: header_exterior_checks
+        label: -- Exterior and Grounds --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: roofing_gutters_check
+        label: Roof and Gutters
+        hint: Check for debris or damage
+        type: select_one
+        options: [Clear and Intact, Needs Cleaning, Repair Needed]
+        required: true
+      - id: 11
+        name: walkway_safety_check
+        label: Walkway and Parking Lot Safety
+        hint: Trip hazards, ice, or excessive cracks
+        type: select_one
+        options: [Safe, Minor Issues, Immediate Attention Needed]
+        required: true
+      - id: 12
+        name: landscaping_irrigation_check
+        label: Landscaping and Irrigation
+        hint: null
+        type: select_one
+        options: [Satisfactory, Needs Attention, System Leak Detected]
+        required: true
+      - id: 13
+        name: header_maintenance_summary
+        label: -- Maintenance Summary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: maintenance_priority_level
+        label: Overall Priority Level of Repairs
+        hint: null
+        type: select_one
+        options: [Low (Routine), Medium (Soon), High (Urgent/Safety)]
+        required: true
+      - id: 15
+        name: detailed_findings_notes
+        label: Detailed Findings and Work Needed
+        hint: Provide specific locations and descriptions
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: materials_needed
+        label: Estimated Materials or Parts Needed
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: follow_up_required
+        label: Is a professional contractor required?
+        hint: null
+        type: select_one
+        options: [No - Volunteer/Staff can handle, Yes - Licensed professional needed]
+        required: true
+      - id: 18
+        name: signature_inspector
+        label: Inspector Signature (Type Name)
+        hint: null
+        type: text
+        options: []
+        required: true

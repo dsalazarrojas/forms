@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraudulent Transaction Report Form
+    pages:
+    - id: 1
+      name: suspicious_activity_name
+      label: Enter suspicious activity name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_date
+      label: Transaction date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: transaction_amount
+      label: Transaction amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: account_number
+      label: Account number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: card_number
+      label: Card number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporting_officer
+      label: Reporting officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_date
+      label: Report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reporting_time
+      label: Report time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: fraud_amount
+      label: Total fraud amount
+      hint: null
+      type: number
+      options: []
+      required: false

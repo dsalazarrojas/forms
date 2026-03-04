@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anesthesia Consent Form
+    pages:
+    - id: 1
+      name: section_patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: procedure_description
+      label: Procedure description
+      hint: Brief description of planned procedure
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risks_explained
+      label: Risks explained to patient
+      hint: Confirm discussion of risks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: allergies
+      label: Known allergies
+      hint: List allergies or adverse reactions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_signature
+      label: Signature printed name
+      hint: Type full name to signify consent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date signed
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for perioperative contact
+      type: text
+      options: []
+      required: false

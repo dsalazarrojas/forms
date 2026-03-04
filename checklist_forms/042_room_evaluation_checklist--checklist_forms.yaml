@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Room Evaluation Checklist
+    pages:
+    - id: 1
+      name: general_condition
+      label: General Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amenities
+      label: Amenities
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Clean'', ''label'': ''Clean''}'
+      - '{''id'': 2, ''value'': ''Not Clean'', ''label'': ''Not Clean''}'
+      - '{''id'': 3, ''value'': ''Partially Clean'', ''label'': ''Partially Clean''}'
+      required: false
+    - id: 3
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: room_condition
+      label: Room Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: maintenance
+      label: Maintenance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Required'', ''label'': ''Required''}'
+      - '{''id'': 2, ''value'': ''Not Required'', ''label'': ''Not Required''}'
+      required: false
+    - id: 6
+      name: housekeeping
+      label: Housekeeping
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 2, ''value'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 3, ''value'': ''Poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: safety
+      label: Safety
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: furniture_and_fixtures
+      label: Furniture and Fixtures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 10
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: general_rating
+      label: General Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

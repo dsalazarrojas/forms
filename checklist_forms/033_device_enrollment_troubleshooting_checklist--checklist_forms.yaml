@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Enrollment Troubleshooting Checklist
+    pages:
+    - id: 1
+      name: device_enrollment_troubleshooting
+      label: Device Enrollment Troubleshooting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_model
+      label: Device Model
+      hint: null
+      type: select_one
+      options:
+      - Device A
+      - Device B
+      - Device C
+      required: true
+    - id: 3
+      name: device_serial_number
+      label: Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Enrolled
+      - Not Enrolled
+      required: true
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      required: true
+    - id: 8
+      name: troubleshooting_steps
+      label: Troubleshooting Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Follow-up Sent
+      - Not Sent
+      required: true
+    - id: 15
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: closed
+      label: Closed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Solved
+      - Not Solved
+      required: true
+    - id: 18
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Walk-in
+      required: true
+    - id: 22
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Walk-in
+      required: true
+    - id: 23
+      name: resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: closed_status
+      label: Closed Status
+      hint: null
+      type: select_one
+      options:
+      - Closed
+      - Not Closed
+      required: false

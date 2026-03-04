@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Vaccination Checklist For COVID 19 Vaccines
+    pages:
+    - id: 1
+      name: first_visit_date
+      label: First Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: vaccination_type
+      label: Vaccination Type
+      hint: null
+      type: select_multiple
+      options:
+      - COVID-19 Pfizer
+      - COVID-19 Moderna
+      - COVID-19 Janssen
+      - COVID-19 AstraZeneca
+      required: false
+    - id: 3
+      name: dose_number
+      label: Dose Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_site
+      label: Vaccination Site
+      hint: null
+      type: select_one
+      options:
+      - Clinic
+      - Outpatient
+      - Inpatient
+      - Other
+      required: false
+    - id: 5
+      name: patient_id_number
+      label: Patient ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_vaccination
+      label: Date of Last Vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Undisclosed
+      required: false
+    - id: 10
+      name: allergy_history
+      label: Allergy History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_device
+      label: Medical Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_device_model
+      label: Medical Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_device_serial_number
+      label: Medical Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_device_lot_number
+      label: Medical Device Lot Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_device_expiry_date
+      label: Medical Device Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: medical_device_manufacturer
+      label: Medical Device Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_device_warranty_start_date
+      label: Medical Device Warranty Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_device_warranty_end_date
+      label: Medical Device Warranty End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: medical_device_warranty_status
+      label: Medical Device Warranty Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_device_serialized_warranty
+      label: Medical Device Serialized Warranty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

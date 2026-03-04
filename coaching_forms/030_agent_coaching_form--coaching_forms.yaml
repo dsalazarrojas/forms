@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Coaching Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Service Agent Coaching Session --
+      hint: track professional development and performance coaching
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Supervisor or Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_name
+      label: Agent being coached
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coaching_date
+      label: Coaching Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: focus_header
+      label: -- Session Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: coaching_area
+      label: Primary Coaching Area - Tone of Voice, Technical Accuracy, Efficiency
+      hint: select the main theme of today's session
+      type: select_one
+      options:
+      - Tone of Voice and Empathy
+      - Technical Knowledge and Accuracy
+      - Efficiency and Handling Time
+      - Process Compliance
+      - Sales and Upselling Techniques
+      required: true
+    - id: 7
+      name: interaction_reviewed
+      label: Specific interaction or ticket number reviewed
+      hint: e.g., Case #12345
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: session_rating
+      label: Performance Rating for this session
+      hint: null
+      type: select_one
+      options:
+      - Exceptional Performance
+      - Meeting Expectations
+      - Needs Development
+      - Below Standard
+      required: true
+    - id: 9
+      name: positive_highlights
+      label: Positive highlights and strengths
+      hint: what did the agent do well
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: development_opportunities
+      label: Opportunities for development and improvement
+      hint: specific areas for growth
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: action_items
+      label: Action items for the agent
+      hint: select tasks for the next period
+      type: select_multiple
+      options:
+      - Complete training module
+      - Shadow senior agent
+      - Review process documentation
+      - Practise active listening
+      - Improve typing speed
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: Follow-up Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: agent_comments
+      label: Agent's comments on the session
+      hint: feedback from the employee
+      type: text
+      options: []
+      required: false

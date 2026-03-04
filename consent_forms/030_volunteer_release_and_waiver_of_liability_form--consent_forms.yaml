@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteer_release_and_waiver_of_liability_form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_start_date
+      label: Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: volunteer_end_date
+      label: Volunteer End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: organization_awareness_agreement
+      label: Organization's Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: waiver_of_liability
+      label: Waiver of Liability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: volunteer_acknowledgement
+      label: Volunteer Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: emergency_contact_person
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_signature
+      label: Volunteer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: organization_signature
+      label: Organization's Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_ip_address
+      label: Volunteer's IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_ip
+      label: Emergency Contact IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: organization_ip
+      label: Organization's IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: organization_notes
+      label: Organization's Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_notes
+      label: Volunteer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_notes
+      label: Emergency Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: organization_comments
+      label: Organization Comments
+      hint: null
+      type: text
+      options: []
+      required: false

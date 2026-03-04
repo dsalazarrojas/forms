@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Sustainability Study Filming Consent Form
+    pages:
+    - id: 1
+      name: introduction_header
+      label: -- Filming Consent and Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_description
+      label: This study examines campus sustainability practices and student engagement.
+        With your consent, we may film interviews and activities for documentation
+        and research purposes.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: participant_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: full_name
+      label: Full Name
+      hint: Please provide your complete name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your campus or personal email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID or Employee ID
+      hint: Optional identifier
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required to confirm you are 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: filming_section
+      label: -- Filming Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_video
+      label: I consent to being filmed for this study
+      hint: Select your choice
+      type: select_one
+      options:
+      - Yes, I consent to being filmed
+      - No, I do not consent to being filmed
+      - Yes, but audio only (no video)
+      required: true
+    - id: 11
+      name: consent_photography
+      label: I consent to still photography during interviews
+      hint: Select your choice
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: usage_section
+      label: -- Permitted Uses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: permitted_uses
+      label: I consent to the filming being used for
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Academic research and publication
+      - Educational presentations
+      - Documentary screening
+      - Social media sharing
+      - Campus broadcast
+      - Conference presentations
+      - Training materials
+      required: true
+    - id: 14
+      name: anonymity_preference
+      label: How would you like to be identified in the footage?
+      hint: Select your preference
+      type: select_one
+      options:
+      - Full name and identification
+      - First name only
+      - Anonymous/No identification
+      required: true
+    - id: 15
+      name: release_section
+      label: -- Rights and Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: intellectual_property
+      label: I assign all intellectual property rights of my interview to the research
+        team
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 17
+      name: compensation
+      label: Will you accept compensation for this study?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Yes, if available
+      required: false
+    - id: 18
+      name: right_to_withdraw
+      label: I understand I can withdraw from this study at any time
+      hint: Confirmation required
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 19
+      name: privacy_confirmation
+      label: I have read and understand the privacy policy
+      hint: Select to confirm
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I need more information
+      required: true
+    - id: 20
+      name: contact_section
+      label: -- Researcher Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: researcher_contact
+      label: Do you want contact information for the research team?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, email me contact details
+      - No, I have all information I need
+      required: false
+    - id: 22
+      name: consent_acknowledgment
+      label: I certify that I have read and fully understand this consent form and
+        voluntarily agree to participate
+      hint: Required to proceed
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 23
+      name: signature_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Coaching Program Admission Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_background
+      label: -- Business Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_owned
+      label: Do You Currently Own a Business
+      hint: Are you a current business owner
+      type: select_one
+      options:
+      - true
+      - false
+      - In Planning Stages
+      required: true
+    - id: 9
+      name: business_name
+      label: Business Name
+      hint: Your business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_stage
+      label: Business Stage
+      hint: Current stage of business
+      type: select_one
+      options:
+      - Startup (0-1 year)
+      - Early Stage (1-3 years)
+      - Growth (3-5 years)
+      - Established (5+ years)
+      - Scaling
+      - Pre-launch
+      required: true
+    - id: 11
+      name: industry
+      label: Industry or Niche
+      hint: Your business industry
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Current or projected annual revenue
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: years_experience
+      label: Years of Business Experience
+      hint: Total business experience
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: program_selection
+      label: -- Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: program_track
+      label: Coaching Program Track
+      hint: Select program level
+      type: select_one
+      options:
+      - Startup Accelerator
+      - Growth Intensive
+      - Leadership Development
+      - Sales Mastery
+      - Marketing Excellence
+      - Operations Optimization
+      required: true
+    - id: 16
+      name: program_duration
+      label: Preferred Program Duration
+      hint: How long do you want the program
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - Custom
+      required: true
+    - id: 17
+      name: coaching_goals
+      label: -- Coaching Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_goal
+      label: Primary Goal for This Program
+      hint: What do you want to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: secondary_goals
+      label: Secondary Goals
+      hint: Any other objectives
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: current_struggles
+      label: Current Business Struggles
+      hint: What challenges are you facing
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: previous_coaching
+      label: Previous Coaching Experience
+      hint: Have you worked with a coach before
+      type: select_one
+      options:
+      - true
+      - false
+      - Limited Experience
+      required: true
+    - id: 22
+      name: commitment_level
+      label: Commitment Level
+      hint: How committed are you to the program
+      type: select_one
+      options:
+      - Fully Committed
+      - Very Committed
+      - Committed
+      - Somewhat Committed
+      - Unsure
+      required: true
+    - id: 23
+      name: availability
+      label: Time Availability
+      hint: Hours per week you can dedicate
+      type: select_one
+      options:
+      - 5+ hours
+      - 3-5 hours
+      - 1-3 hours
+      - Less than 1 hour
+      - Flexible
+      required: true
+    - id: 24
+      name: budget
+      label: Program Budget
+      hint: Your budget range for coaching
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-5000
+      - 5000-10000
+      - 10000-20000
+      - 20000+
+      - Flexible
+      required: true

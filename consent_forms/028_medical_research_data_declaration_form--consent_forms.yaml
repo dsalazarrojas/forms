@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Research Data Declaration Form
+    pages:
+    - id: 1
+      name: medical_research_project
+      label: Medical Research Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_research_location
+      label: Medical Research Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_team
+      label: Research Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_research_start_date
+      label: Medical Research Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_research_end_date
+      label: Medical Research End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_informed_consent
+      label: Participant Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Yes''}'
+      - '{''option'': ''No''}'
+      required: false
+    - id: 8
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_contact_information
+      label: Patient Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_research_declaration
+      label: Medical Research Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_research_declaration_notes
+      label: Medical Research Declaration Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Accountability And Growth Agreement
+    pages:
+    - id: 1
+      name: agreement_header
+      label: -- Accountability and Growth Agreement --
+      hint: Establishing the foundation for our coaching relationship.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach/Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agreement_start_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: goals_header
+      label: -- Primary Goals and Focus Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_goal_1
+      label: Primary Goal
+      hint: What is the most important outcome for you?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_goal_2
+      label: Primary Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: growth_metrics
+      label: How will we measure your growth and success?
+      hint: Define specific, measurable indicators
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: commitment_header
+      label: -- Client Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: time_commitment
+      label: Weekly time commitment for growth activities (Hours)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: check_in_frequency
+      label: Preferred Check-in Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily (Text/App)
+      - Weekly (Call/Meeting)
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 12
+      name: accountability_preference
+      label: Accountability Style
+      hint: How do you best respond to accountability?
+      type: select_one
+      options:
+      - High Support / Gentle Nudges
+      - Direct and Firm / No Excuses
+      - Data-driven / Result focused
+      - Collaborative / Brainstorming
+      required: true
+    - id: 13
+      name: barriers_to_growth
+      label: Potential barriers or distractions we should be aware of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: coaching_terms_header
+      label: -- Terms of Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confidentiality_agreement
+      label: I understand that all coaching sessions are confidential
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 16
+      name: ownership_of_results
+      label: I acknowledge that I am solely responsible for my actions and results
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - Other
+      required: true
+    - id: 17
+      name: reschedule_policy
+      label: I agree to provide 24 hours notice for any session rescheduling
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 18
+      name: electronic_signature
+      label: Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: agreement_footer
+      label: -- Let's achieve your goals together! --
+      hint: null
+      type: note
+      options: []
+      required: false

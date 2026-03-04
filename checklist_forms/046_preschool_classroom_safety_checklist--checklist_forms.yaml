@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Classroom Safety Checklist
+    pages:
+    - id: 1
+      name: classroom_safety_checklist_page_1
+      label: Classroom Safety Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: emergency_contact_info_1
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_info_2
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fire_safety_info_1
+      label: Fire Safety
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: emergency_exit_strategy_1
+      label: Emergency Exit Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: emergency_equipment_1
+      label: Emergency Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: first_aid_kit_info_1
+      label: First Aid Kit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: electrical_safety_info_1
+      label: Electrical Safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: water_safety_info_1
+      label: Water Safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: natural_disaster_info_1
+      label: Natural Disaster
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

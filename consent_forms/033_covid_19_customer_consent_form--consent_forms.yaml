@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Customer Consent Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_date
+      label: Service Date
+      hint: Date you are receiving services
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Type of Service
+      hint: Medical, fitness, salon, etc.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: covid_risk_acknowledgment
+      label: I acknowledge that COVID-19 is a serious respiratory illness
+      hint: Check to confirm understanding
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 8
+      name: transmission_risk_understanding
+      label: I understand that COVID-19 can spread through close contact
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 9
+      name: risk_acceptance
+      label: I understand that I may be exposed to COVID-19
+      hint: Despite precautions taken by the facility
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 10
+      name: precautions_understood
+      label: I understand the safety precautions in place
+      hint: Masking, distancing, cleaning, testing
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 11
+      name: responsibility_acknowledgment
+      label: I understand the facility is not responsible for COVID-19 exposure
+      hint: Provided they followed recommended guidelines
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      - Have questions
+      required: true
+    - id: 12
+      name: symptom_attestation
+      label: I attest that I am not experiencing COVID-19 symptoms
+      hint: Fever, cough, shortness of breath, loss of taste/smell
+      type: select_one
+      options:
+      - I attest
+      - I have symptoms
+      - Not sure
+      required: true
+    - id: 13
+      name: exposure_declaration
+      label: I have not been exposed to COVID-19 in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I may have been exposed
+      - Not sure
+      required: true
+    - id: 14
+      name: quarantine_declaration
+      label: I am not currently under quarantine or isolation
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I am under quarantine
+      - Not sure
+      required: true
+    - id: 15
+      name: test_positive_declaration
+      label: I have not tested positive for COVID-19 in the past 10 days
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I tested positive
+      - Prefer not to answer
+      required: true
+    - id: 16
+      name: vaccination_acknowledgment
+      label: I acknowledge the importance of COVID-19 vaccination
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      - Prefer not to answer
+      required: false
+    - id: 17
+      name: waiver_understanding
+      label: I understand and accept the health and safety protocols
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 18
+      name: release_liability
+      label: I release the facility from liability related to COVID-19
+      hint: To the extent permitted by law
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 19
+      name: facility_cooperation
+      label: I agree to follow all facility guidelines and protocols
+      hint: Including masking, distancing, and testing requirements
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 20
+      name: information_accuracy
+      label: The information I have provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Information is not accurate
+      - Uncertain
+      required: true
+    - id: 21
+      name: consent_signature_date
+      label: Consent Date
+      hint: Date of your consent
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: consent_confirmation
+      label: I consent to receive services at this facility during COVID-19
+      hint: By confirming, you accept all terms and conditions
+      type: select_one
+      options:
+      - I fully consent
+      - I do not consent
+      - I need more time to decide
+      required: true

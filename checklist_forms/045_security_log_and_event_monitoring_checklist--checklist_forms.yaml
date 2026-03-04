@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Log And Event Monitoring Checklist
+    pages:
+    - id: 1
+      name: security_log_review
+      label: Review Logs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_activity
+      label: Monitor Activity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: findings
+      label: Track Findings
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: follow_up_actions
+      label: Record Follow-up Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: security_log_and_event_monitoring_checklist_form_description
+      label: Form Description
+      hint: null
+      type: note
+      options: []
+      required: false

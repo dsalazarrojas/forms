@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Coverage Registration
+    pages:
+    - id: 1
+      name: event_coverage_registration
+      label: Event Coverage Registration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_team
+      label: Event Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

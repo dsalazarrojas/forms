@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Checklist Tracker
+    pages:
+    - id: 1
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: inspector
+      label: Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Unknown
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Operational
+      - Not Operational
+      required: false
+    - id: 12
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Critical
+      required: false
+    - id: 13
+      name: asset_priority
+      label: Asset Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: asset_manager
+      label: Asset Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: asset_make
+      label: Asset Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: asset_model
+      label: Asset Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: asset_serial
+      label: Asset Serial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: asset_sno
+      label: Asset Sno
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 23
+      name: inspection_frequency_interval
+      label: Inspection Frequency Interval
+      hint: null
+      type: select_one
+      options:
+      - 1 Day
+      - 1 Week
+      - 1 Month
+      required: false
+    - id: 24
+      name: inspection_frequency_last
+      label: Inspection Frequency Last
+      hint: null
+      type: select_one
+      options:
+      - Yesterday
+      - Today
+      - Last 1 Day
+      required: false
+    - id: 25
+      name: inspection_frequency_next
+      label: Inspection Frequency Next
+      hint: null
+      type: select_one
+      options:
+      - Tomorrow
+      - Next 1 Day
+      - Unknown
+      required: false

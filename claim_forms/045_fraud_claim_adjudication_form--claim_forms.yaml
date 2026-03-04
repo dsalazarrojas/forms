@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraud Claim Adjudication Form
+    pages:
+    - id: 1
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_loss
+      label: Date of Loss
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: fraud_claim_adjudication_form_decision
+      label: Adjudication Decision
+      hint: null
+      type: select_multiple
+      options:
+      - Adjudicate
+      - Do Not Adjudicate
+      - Adjudicate with Further Review
+      - No Further Review Required
+      required: false
+    - id: 5
+      name: fraud_claim_evidence
+      label: Fraud Claim Evidence
+      hint: null
+      type: select_multiple
+      options:
+      - Evidence Type 1
+      - Evidence Type 2
+      - Evidence Type 3
+      - Evidence Type 4
+      - Evidence Type 5
+      required: false
+    - id: 6
+      name: fraud_claim_evidence_attachment
+      label: Attach Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fraud_claim_adjudication_form_comments
+      label: Adjudication Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fraud_claim_adjudication_form_reviewer
+      label: Adjudicator's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fraud_claim_adjudication_form_date
+      label: Adjudication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: fraud_claim_adjudication_form_time
+      label: Adjudication Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: fraud_claim_status
+      label: Claim Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fraud_claim_adjudication_form_status
+      label: Adjudicator's Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 13
+      name: fraud_claim_adjudication_form_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fraud_claim_adjudication_form_reviewer_comments
+      label: Reviewer's Comments
+      hint: null
+      type: text
+      options: []
+      required: false

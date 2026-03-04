@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doula Networking Event Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_details
+      label: Event details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attending_with
+      label: Attending with
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_date
+      label: Payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: start_location
+      label: Start location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: start_address
+      label: Start address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: end_location
+      label: End location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: end_address
+      label: End address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: organizer_contact
+      label: Organizer contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: organizer_phone
+      label: Organizer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: organizer_email
+      label: Organizer email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: organizer_website
+      label: Organizer website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

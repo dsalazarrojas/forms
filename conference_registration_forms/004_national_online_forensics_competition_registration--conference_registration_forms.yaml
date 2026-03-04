@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Online Forensics Competition Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_school
+      label: Participant School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_id_1
+      label: Event 1
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: event_id_2
+      label: Event 2
+      hint: null
+      type: select_one
+      options:
+      - D
+      - E
+      - F
+      required: false
+    - id: 6
+      name: event_id_3
+      label: Event 3
+      hint: null
+      type: select_one
+      options:
+      - G
+      - H
+      - I
+      required: false
+    - id: 7
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coach_school
+      label: Coach School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: coach_phone
+      label: Coach Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: coach_experience
+      label: Coach Experience
+      hint: null
+      type: note
+      options: []
+      required: false

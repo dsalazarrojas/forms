@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_coaching_leave_form
+    pages:
+    - id: 1
+      name: sports_coaching_leave_form
+      label: sports_coaching_leave_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: leave_start_date
+      label: leave_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: leave_end_date
+      label: leave_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

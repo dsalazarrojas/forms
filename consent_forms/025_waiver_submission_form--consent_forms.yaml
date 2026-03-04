@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: waiver_submission_form
+    pages:
+    - id: 1
+      name: activity_name
+      label: Activity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_activity
+      label: Date Of Activity
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: risk_acknowledgement
+      label: Risk Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Acknowledge risks and understand the activity rules'', ''value'':
+        ''I acknowledge and understand the activity rules, including the risks involved.''}'
+      - '{''label'': ''Do not acknowledge risks'', ''value'': ''I do not acknowledge
+        and accept the risks involved''}'
+      required: false
+    - id: 8
+      name: waiver_signed
+      label: Waiver Signed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

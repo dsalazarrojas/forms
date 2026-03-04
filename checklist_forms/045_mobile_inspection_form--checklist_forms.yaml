@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Inspection Form
+    pages:
+    - id: 1
+      name: general
+      label: General
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle
+      label: Vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: exterior
+      label: Exterior
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 4
+      name: interior
+      label: Interior
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 5
+      name: engine
+      label: Engine
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Running''}'
+      - '{''label'': ''Not Running''}'
+      required: true
+    - id: 6
+      name: brakes
+      label: Brakes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 7
+      name: suspension
+      label: Suspension
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 8
+      name: steering
+      label: Steering
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 9
+      name: exhaust
+      label: Exhaust
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 10
+      name: battery
+      label: Battery
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 11
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 12
+      name: cooling_systems
+      label: Cooling Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 13
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 14
+      name: drive_train
+      label: Drive Train
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 15
+      name: tires
+      label: Tires
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 16
+      name: frame_and_body
+      label: Frame and Body
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad minimalist''}'
+      required: true
+    - id: 17
+      name: glass_and_mirrors
+      label: Glass and Mirrors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 18
+      name: lights_and_signalling_systems
+      label: Lights and Signalling Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 19
+      name: seats_prophets_of
+      label: Seats Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 20
+      name: seatbelts
+      label: Seatbelts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 21
+      name: fire_protection_system
+      label: Fire Protection System
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 22
+      name: safety_belt_restraints
+      label: Safety Belt Restraints
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 23
+      name: horn
+      label: Horn
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 24
+      name: turn_signals
+      label: Turn Signals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Badประก''}'
+      required: true
+    - id: 25
+      name: wipers
+      label: Wipers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true

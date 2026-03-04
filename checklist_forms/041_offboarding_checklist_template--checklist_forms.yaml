@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: offboarding_checklist_template
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_offboarding
+      label: Reason for Offboarding
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_last_login
+      label: Date of Last Login
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: last_day_of_work
+      label: Last Day of Work
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_assets
+      label: Company Assets
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Smartphone
+      - Other
+      required: false
+    - id: 8
+      name: asset_return_date
+      label: Asset Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: asset_return_status
+      label: Asset Return Status
+      hint: null
+      type: select_one
+      options:
+      - Not Returned
+      - Returned
+      required: true
+    - id: 10
+      name: asset_return_condition
+      label: Asset Return Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: offboarding_form_status
+      label: Offboarding Form Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Incomplete
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_info
+      label: Manager Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_info
+      label: Team Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - In Use
+      - In Warehouse
+      - Missing
+      required: true
+    - id: 20
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 21
+      name: asset_return_method
+      label: Asset Return Method
+      hint: null
+      type: select_one
+      options:
+      - Mail
+      - Courier
+      - Other
+      required: false
+    - id: 22
+      name: asset_return_details
+      label: Asset Return Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: asset_returned
+      label: Asset Returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: asset_return_date_details
+      label: Asset Return Date Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: offboarding_date
+      label: Offboarding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: reason_for_offboarding_details
+      label: Reason for Offboarding Details
+      hint: null
+      type: text
+      options: []
+      required: true

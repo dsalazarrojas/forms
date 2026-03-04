@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garage Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - car
+      - truck
+      - trailer
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: vehicle model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - Oil Change
+      - Tire Rotation
+      - Tire Replacement
+      - Fluid Check
+      required: false
+    - id: 5
+      name: maintenance_due_date
+      label: Maintenance Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 7
+      name: next_maintenance_date
+      label: Next Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_contact
+      label: Assigned Contact
+      hint: null
+      type: text
+      options: []
+      required: false

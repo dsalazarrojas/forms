@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shower Door Damage Insurance Claim Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Shower Door Damage Insurance Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: claimant_phone
+      label: Claimant Phone
+      hint: XXX-XXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: 123 Main St
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description_of_damage
+      label: Description of Damage
+      hint: Please provide a detailed description of the damage to the shower door.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_incident
+      label: Time of Incident
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: damage_cause
+      label: Damage Cause
+      hint: null
+      type: select_one
+      options:
+      - Accident
+      - Wear and Tear
+      - Natural Disaster
+      - Vandalism
+      - Other
+      required: false
+    - id: 10
+      name: witness_statements
+      label: Witness Statements
+      hint: Is there a witness?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: witness_details
+      label: Witness Details
+      hint: Name of Witness
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claim_value
+      label: Claim Value
+      hint: Amount of Claim
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: claim_images
+      label: Claim Images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: claim_notes
+      label: Claim Notes
+      hint: null
+      type: note
+      options: []
+      required: false

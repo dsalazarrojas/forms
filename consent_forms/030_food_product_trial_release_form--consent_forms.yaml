@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Product Trial Release Form
+    pages:
+    - id: 1
+      name: participant_identification
+      label: Participant Identification
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: allergy_disclosure
+      label: Allergy Disclosure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: food_product_name
+      label: Food Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_preferences
+      label: Follow-up Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_trial
+      label: Date of Trial
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_trial
+      label: Time of Trial
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: trial_location
+      label: Trial Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_reminders
+      label: Follow-up Reminders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_researcher
+      label: Assigned Researcher
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_consent_2
+      label: Participant Consent 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: participant_consent_3
+      label: Participant Consent 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: participant_consent_4
+      label: Participant Consent 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: follow_up_reminder_1
+      label: Follow-up Reminder 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_reminder_2
+      label: Follow-up Reminder 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_reminder_3
+      label: Follow-up Reminder 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_reminder_4
+      label: Follow-up Reminder 4
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Consent Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Consent Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_identifier
+      label: Study or project identifier
+      hint: Optional study code or name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_given
+      label: I give my anonymous consent to participate
+      hint: Required to proceed with the survey or activity
+      type: select_one
+      options:
+        - Yes I consent
+        - No I do not consent
+      required: true
+    - id: 4
+      name: age_range
+      label: Age range
+      hint: Select the range that applies
+      type: select_one
+      options:
+        - Under 18
+        - 18 to 24
+        - 25 to 44
+        - 45 to 64
+        - 65 or older
+      required: false
+    - id: 5
+      name: understand_purpose
+      label: I understand the purpose of this study
+      hint: Confirm understanding before consenting
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 6
+      name: voluntary_participation
+      label: Acknowledge voluntary participation
+      hint: Participation is voluntary and can be withdrawn
+      type: select_one
+      options:
+        - Acknowledged
+        - Not acknowledged
+      required: true
+    - id: 7
+      name: concerns_or_comments
+      label: Concerns or comments
+      hint: Optional feedback about consent or procedures
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_signed
+      label: Date of consent
+      hint: Optional for record keeping
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childrens Ministry Consent Form
+    pages:
+    - id: 1
+      name: section_parent_info
+      label: -- Parent/Guardian Information --
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_full_name
+      label: Parent or Guardian Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_email
+      label: Email Address
+      hint: We will use this for session invitations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_child_info
+      label: -- Child Information --
+      hint: Details of the participating child
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_age
+      label: Child Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_consent
+      label: -- Participation Consents --
+      hint: Please review and provide consent for each activity
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: zoom_session_consent
+      label: Online Session Consent
+      hint: I consent to my child participating in the online CCN Kids Zoom sessions
+      type: select_one
+      options:
+      - I give my consent
+      - I do not give my consent
+      required: true
+    - id: 10
+      name: video_content_consent
+      label: Video Contribution Consent
+      hint: I consent to my child contributing content to pre-recorded videos
+      type: select_one
+      options:
+      - I give my consent
+      - I do not give my consent
+      required: true
+    - id: 11
+      name: media_release_notes
+      label: Media Release Terms
+      hint: These videos may be shared on the ministry's private portal or public
+        channels
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: digital_signature
+      label: Digital Signature
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: haccp_cleaning_submission_form
+    pages:
+    - id: 1
+      name: cleaning_date
+      label: Cleaning Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: cleaning_frequency
+      label: Cleaning Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 3
+      name: cleaning_schedule
+      label: Cleaning Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: false
+    - id: 4
+      name: cleaned_by
+      label: Cleaned By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employee1''}'
+      - '{''label'': ''Employee2''}'
+      - '{''label'': ''Employee3''}'
+      required: false
+    - id: 5
+      name: cleaning_verification_details
+      label: Cleaning Verification Details
+      hint: Enter verification details
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_verification
+      label: Supervisor Verification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Verified''}'
+      - '{''label'': ''Not Verified''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Theater Performance Release Form
+    pages:
+    - id: 1
+      name: performer_full_name
+      label: Full Name
+      hint: As it appears on legal documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: performer_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: performer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent/Guardian Name (if under 18)
+      hint: Full legal name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_guardian_signature
+      label: Parent/Guardian Signature (if under 18)
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_name
+      label: Production Name
+      hint: Title of the show
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: performance_dates
+      label: Performance Dates
+      hint: Dates you will perform
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: role_character
+      label: Your Role/Character
+      hint: Name of character or position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_release
+      label: -- Performance Release Agreement --
+      hint: Please read carefully before signing
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: grant_performance_rights
+      label: I grant the theater the right to use my performance
+      hint: Including live and recorded performances
+      type: select_one
+      options:
+      - Yes, I Grant These Rights
+      - No, I Do Not Grant These Rights
+      required: true
+    - id: 12
+      name: grant_recording_rights
+      label: I grant the theater the right to record my performance
+      hint: For archival and promotional purposes
+      type: select_one
+      options:
+      - Yes, I Grant These Rights
+      - No, I Do Not Grant These Rights
+      required: true
+    - id: 13
+      name: grant_broadcast_rights
+      label: I grant the theater the right to broadcast or stream my performance
+      hint: Online streaming, television, etc.
+      type: select_one
+      options:
+      - Yes, I Grant These Rights
+      - No, I Do Not Grant These Rights
+      required: true
+    - id: 14
+      name: section_likeness
+      label: -- Likeness and Image Release --
+      hint: Use of your image and name
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: release_photographs
+      label: I release the theater from liability regarding use of my photograph
+      hint: Photos taken during rehearsals and performances
+      type: select_one
+      options:
+      - Yes, I Release
+      - No, I Do Not Release
+      required: true
+    - id: 16
+      name: release_video
+      label: I release the theater from liability regarding use of my video likeness
+      hint: Video recordings and footage
+      type: select_one
+      options:
+      - Yes, I Release
+      - No, I Do Not Release
+      required: true
+    - id: 17
+      name: release_name_biography
+      label: I release the theater from liability regarding use of my name and biography
+      hint: In programs, websites, and promotional materials
+      type: select_one
+      options:
+      - Yes, I Release
+      - No, I Do Not Release
+      required: true
+    - id: 18
+      name: section_compensation
+      label: -- Compensation Agreement --
+      hint: Understanding of payment terms
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: understand_no_compensation
+      label: I understand this is a volunteer position with no monetary compensation
+      hint: Unless otherwise specified in contract
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 20
+      name: understand_expense_responsibility
+      label: I understand I am responsible for my own expenses unless pre-approved
+      hint: Costumes, transportation, etc.
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 21
+      name: section_exclusivity
+      label: -- Exclusivity and Commitment --
+      hint: Performance commitments
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: agree_attendance_policy
+      label: I agree to attend all scheduled rehearsals and performances
+      hint: Attendance is mandatory unless excused
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 23
+      name: agree_no_other_commitments
+      label: I agree not to schedule conflicting commitments during production period
+      hint: Priority to this production
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 24
+      name: understand_dismissal_policy
+      label: I understand that excessive absences may result in dismissal
+      hint: Without refund or compensation
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 25
+      name: section_conduct
+      label: -- Professional Conduct --
+      hint: Behavioral expectations
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: agree_professional_behavior
+      label: I agree to maintain professional behavior at all theater functions
+      hint: Respectful and collaborative
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 27
+      name: agree_confidentiality
+      label: I agree not to share script, music, or production details publicly
+      hint: Before official release
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 28
+      name: section_general
+      label: -- General Provisions --
+      hint: Additional terms
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: understand_injury_risk
+      label: I understand that theater activities may involve physical activity and
+        risk of injury
+      hint: Assume responsibility for personal safety
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 30
+      name: agree_follow_directives
+      label: I agree to follow all director and stage manager directives
+      hint: During rehearsals and performances
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 31
+      name: release_duration
+      label: I understand this release is effective indefinitely
+      hint: Unless otherwise specified
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 32
+      name: additional_permissions
+      label: Any additional permissions or restrictions?
+      hint: Special considerations
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: agreement_date
+      label: Date of Agreement
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: witness_name
+      label: Witness Name (optional)
+      hint: If applicable
+      type: text
+      options: []
+      required: false

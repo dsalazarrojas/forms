@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Workout Checklist
+    pages:
+    - id: 1
+      name: morning_workout
+      label: Morning Workout
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: exercise_type
+      label: Exercise Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: exercise_duration
+      label: Exercise Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: exercise_intensity
+      label: Exercise Intensity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workout_date
+      label: Workout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: workout_time
+      label: Workout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

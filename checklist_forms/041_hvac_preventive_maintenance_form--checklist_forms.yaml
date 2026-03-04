@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac_preventive_maintenance_form
+    pages:
+    - id: 1
+      name: system_name
+      label: system_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_interval
+      label: maintenance_interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_list
+      label: equipment_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - Planned
+      - Preventive
+      - Corrective
+      required: false
+    - id: 5
+      name: next_maintenance_date
+      label: next_maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: system_status
+      label: system_status
+      hint: null
+      type: select_one
+      options:
+      - Operating
+      - Shut_down
+      - Under_maintenance
+      - Off_line
+      - Out_of_order
+      - Other
+      required: false
+    - id: 10
+      name: temperature_reading
+      label: temperature_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: humidity_reading
+      label: humidity_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: voltage_reading
+      label: voltage_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: amperage_reading
+      label: amperage_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pressure_reading
+      label: pressure_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: water_level_reading
+      label: water_level_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: other_reading
+      label: other_reading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_notes
+      label: equipment_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: temperature_reading2
+      label: temperature_reading2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: humidity_reading2
+      label: humidity_reading2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool2
+      label: assigned_tool2
+      hint: null
+      type: text
+      options: []
+      required: false

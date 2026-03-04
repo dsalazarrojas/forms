@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Service Guidelines Form
+    pages:
+    - id: 1
+      name: section_coach_info
+      label: -- Coach Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: coach_phone
+      label: Coach Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Coaching Business Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: session_length
+      label: Standard Session Length
+      hint: In minutes
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: session_format
+      label: Session Format
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Phone
+      - Video call
+      - Email
+      required: true
+    - id: 9
+      name: session_frequency_options
+      label: Available Session Frequency Options
+      hint: Select all available frequencies
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Custom schedule
+      required: true
+    - id: 10
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Describe your cancellation terms
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_pricing
+      label: -- Pricing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: session_rate
+      label: Session Rate
+      hint: Per hour or per session
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: package_pricing
+      label: Package Pricing Options
+      hint: Describe available packages
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_methods
+      label: Payment Methods Accepted
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      - PayPal
+      - Cash
+      - Other
+      required: true
+    - id: 15
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - Per session
+      - Monthly
+      - Upfront for package
+      - Flexible
+      required: true
+    - id: 16
+      name: section_qualifications
+      label: -- Qualifications and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: certifications
+      label: Relevant Certifications
+      hint: List certifications you hold
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: years_experience
+      label: Years of Coaching Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: specializations
+      label: Coaching Specializations
+      hint: List areas of expertise
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_policies
+      label: -- Policies and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: client_expectations
+      label: Client Expectations
+      hint: What do you expect from clients?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: confidentiality_notice
+      label: Confidentiality and Privacy Notice
+      hint: Describe your approach to client privacy
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: form_date
+      label: Guidelines Date
+      hint: null
+      type: date
+      options: []
+      required: true

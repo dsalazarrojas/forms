@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bounce House Permission Slip
+    pages:
+    - id: 1
+      name: event_info_header
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: host_event_name
+      label: Event Name / Host
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_event
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_header
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: child_full_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_age_val
+      label: Child Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: guardian_consent_header
+      label: -- Parent / Guardian Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guardian_full_name
+      label: Parent / Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone_no
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: safety_waiver_header
+      label: -- Safety and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: health_status
+      label: My child is in good health and has no physical conditions that would
+        restrict use
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: medical_info
+      label: Any allergies or medical conditions we should be aware of?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consent_statement
+      label: I hereby give permission for my child to participate in activities involving
+        the bounce house
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: liability_agree
+      label: I agree to waive all liability for any injuries that may occur
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: guardian_sign
+      label: Parent / Guardian Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sign_dt
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

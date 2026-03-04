@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bylaw Complaint Form
+    pages:
+      - id: 1
+        name: section_reporter_information
+        label: -- Reporter Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporter_name
+        label: Reporter Name
+        hint: Provide your full name or indicate Anonymous
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporter_contact
+        label: Reporter Contact
+        hint: Phone or email for follow up
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: address_or_location
+        label: Address or Location of Issue
+        hint: Street address or nearest intersection
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: bylaw_category
+        label: Bylaw Category
+        hint: Select the category that applies
+        type: select_one
+        options: [Noise, Property Maintenance, Zoning, Parking, Animal Control, Other]
+        required: true
+      - id: 6
+        name: description_of_issue
+        label: Description of Issue
+        hint: Detailed description including dates and times
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: date_observed
+        label: Date Observed
+        hint: When the issue was first noticed
+        type: date
+        options: []
+        required: false
+      - id: 8
+        name: photos_attached
+        label: Photos Attached
+        hint: Indicate whether photographic evidence is available
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 9
+        name: desired_outcome
+        label: Desired Outcome
+        hint: What resolution would you prefer
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: allow_follow_up
+        label: Allow Follow up Contact
+        hint: Permission to contact reporter for more information
+        type: select_one
+        options: [Yes, No]
+        required: true

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Consent Form
+    pages:
+    - id: 1
+      name: applicant_details_header
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: application_id
+      label: Application Reference ID
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_title
+      label: Position or Program Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_terms_header
+      label: -- Consent and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: background_check_consent
+      label: Consent for Background Check
+      hint: I authorize the company to perform a background check including employment
+        and education verification.
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 8
+      name: reference_check_consent
+      label: Consent for Reference Checks
+      hint: I authorize the company to contact my previous employers and personal
+        references.
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 9
+      name: data_processing_consent
+      label: Consent for Personal Data Processing
+      hint: I agree to the collection and processing of my personal data for recruitment
+        purposes as per the Privacy Policy.
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 10
+      name: marketing_communications_opt_in
+      label: Future Opportunities Notification
+      hint: Would you like to be notified about future job openings?
+      type: select_one
+      options:
+      - Yes - Opt-in
+      - No - Opt-out
+      required: false
+    - id: 11
+      name: declaration_header
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: accuracy_confirmation
+      label: Accuracy of Information
+      hint: I certify that all information provided in my application is true and
+        complete to the best of my knowledge.
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 13
+      name: electronic_signature_name
+      label: Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Journal Checklists
+    pages:
+    - id: 1
+      name: tasks_completed
+      label: Tasks Completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: focus_time
+      label: Focus Time
+      hint: Record your focus time in minutes
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: breaks_taken
+      label: Breaks Taken
+      hint: Record number of breaks taken
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: water_intake
+      label: Water Intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: exercise_done
+      label: Exercise Done
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: time_wasted
+      label: Time Wasted
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: self_care
+      label: Self Care
+      hint: null
+      type: select_multiple
+      options:
+      - Meditation
+      - Journaling
+      - Sleep
+      - Exercise
+      - Socializing
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

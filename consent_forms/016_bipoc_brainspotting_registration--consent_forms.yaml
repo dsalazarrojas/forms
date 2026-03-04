@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: BIPOC Brainspotting Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: racial_ethnic_identity
+      label: Racial or Ethnic Identity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: previous_brainspotting
+      label: Have you experienced brainspotting before?
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - No, this is my first time
+      - Unsure
+      required: true
+    - id: 6
+      name: session_preference
+      label: Preferred Session Time
+      hint: When do you prefer to attend?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - No preference
+      - Weekend preferred
+      required: true
+    - id: 7
+      name: session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: specific_focus_area
+      label: Specific Area You Want to Work On
+      hint: Trauma, anxiety, grief, relationship issues, etc.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Physical, sensory, dietary, or other needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: health_conditions
+      label: Any Health Conditions We Should Know About?
+      hint: To ensure safe participation
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_health_support
+      label: Currently working with a therapist or counselor?
+      hint: null
+      type: select_one
+      options:
+      - Yes, actively
+      - Yes, but not currently
+      - false
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: consent_participate
+      label: I consent to participate in brainspotting sessions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 13
+      name: consent_confidentiality
+      label: I understand and accept confidentiality policies
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: consent_liability
+      label: I acknowledge potential emotional intensity of sessions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 15
+      name: referral_source
+      label: How did you hear about this program?
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friend or colleague
+      - Organization website
+      - Search engine
+      - Other
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional Information or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

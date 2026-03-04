@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accent Coaching Agreement Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name of Client
+      hint: Legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: For scheduling and materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_program
+      label: -- Coaching Program Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_type
+      label: Selected Coaching Program
+      hint: Select the focus area of your coaching
+      type: select_one
+      options:
+      - Standard Accent Modification
+      - Business Communication
+      - Presentation Skills
+      - Narrative and Dialect
+      required: true
+    - id: 7
+      name: session_format
+      label: Session Format
+      hint: How will sessions be conducted?
+      type: select_one
+      options:
+      - Online (Zoom or Teams)
+      - In-person
+      - Hybrid
+      required: true
+    - id: 8
+      name: number_of_sessions
+      label: Total Number of Sessions
+      hint: Enter total sessions in the package
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: frequency_of_sessions
+      label: Frequency
+      hint: How often will we meet?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Twice Weekly
+      required: true
+    - id: 10
+      name: section_financial
+      label: -- Financial Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_investment
+      label: Total Program Investment in USD
+      hint: Agreed total fee
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_plan
+      label: Payment Plan
+      hint: Select preferred payment schedule
+      type: select_one
+      options:
+      - Full Payment Upfront
+      - Monthly Installments
+      - Pay-per-session
+      required: true
+    - id: 13
+      name: section_terms
+      label: -- Terms and Policies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: cancellation_policy
+      label: I agree to provide at least 24 hours notice for cancellations
+      hint: Standard policy acknowledgement
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: confidentiality_agreement
+      label: I understand that all sessions and materials are confidential
+      hint: Privacy agreement
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: digital_signature
+      label: Client Digital Signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signing_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true

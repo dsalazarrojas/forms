@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Complaint Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: catering_company
+      label: Catering Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Funeral Reception
+      - Conference
+      - Other
+      required: true
+    - id: 10
+      name: section_complaint_details
+      label: -- Complaint Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: complaint_category
+      label: Complaint Category
+      hint: null
+      type: select_one
+      options:
+      - Food Quality
+      - Food Safety
+      - Service Quality
+      - Staff Behavior
+      - Cleanliness
+      - Timeliness
+      - Billing Issue
+      - Other
+      required: true
+    - id: 12
+      name: complaint_severity
+      label: Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Minor Inconvenience
+      - Moderate Issue
+      - Serious Problem
+      - Health and Safety Concern
+      required: true
+    - id: 13
+      name: complaint_description
+      label: Detailed Description of Complaint
+      hint: Please provide specific details about what happened
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: specific_issues
+      label: Specific Issues Encountered
+      hint: Food taste, portion size, temperature, service, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_impact
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: event_impact
+      label: How did this affect your event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: guest_feedback
+      label: Did guests mention the issue?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some guests mentioned it
+      required: false
+    - id: 18
+      name: section_resolution
+      label: -- Desired Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: desired_resolution
+      label: What would resolve this issue?
+      hint: Refund, replacement service, discount, apology, etc.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: compensation_amount
+      label: Compensation Amount Requested
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_documentation
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: evidence_available
+      label: Do you have photographic evidence or receipts?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: witness_names
+      label: Witness Names (if applicable)
+      hint: Other guests or staff who can confirm the issue
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_complaints
+      label: Have you complained to this company before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      - In Person
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lottery Claim Form
+    pages:
+    - id: 1
+      name: claimant_details
+      label: claimant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: claimant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_email
+      label: claimant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: claimant_phone
+      label: claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_numbers
+      label: ticket_numbers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirm_ticket_numbers
+      label: confirm_ticket_numbers
+      hint: null
+      type: select_one
+      options:
+      - TICKET NUMBER 1
+      - TICKET NUMBER 2
+      - TICKET NUMBER 3
+      required: false
+    - id: 8
+      name: confirm_claimant_name
+      label: confirm_claimant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claimant_declaration
+      label: claimant_declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_claimant_declaration
+      label: confirm_claimant_declaration
+      hint: null
+      type: select_one
+      options:
+      - I understand the terms and conditions of this form.
+      - I do not understand the terms and conditions of this form.
+      required: false

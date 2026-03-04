@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Operational Safety Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Operational Safety Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''General Safety Equipment''}'
+      - '{''value'': 2, ''label'': ''Specialized Equipment''}'
+      - '{''value'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: safety_equipment
+      label: Safety Equipment
+      hint: List all safety equipment available
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_area
+      label: Work Area
+      hint: List work area or zone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: In hours and minutes
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members Involved
+      hint: List names and roles of team members
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional Comments
+      hint: Add any additional comments regarding this submission
+      type: text
+      options: []
+      required: false

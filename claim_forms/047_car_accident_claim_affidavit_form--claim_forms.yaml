@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Accident Claim Affidavit Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Car Accident Claim Affidavit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: File a car accident claim affidavit. Provide accurate details of the
+        incident and declaration under oath.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: claimant_info_header
+      label: -- Claimant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birthday
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: drivers_license
+      label: Driver's License Number
+      hint: License number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_state
+      label: License State/Province
+      hint: Issuing state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: insurance_info
+      label: Insurance Company Name
+      hint: Insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_number
+      label: Insurance Policy Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year manufactured
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Brand
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: VIN
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: license_plate
+      label: License Plate Number
+      hint: Plate
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: accident_details_header
+      label: -- Accident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: accident_date
+      label: Date of Accident
+      hint: When accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: accident_time
+      label: Time of Accident
+      hint: Approximate time
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: accident_location
+      label: Location of Accident
+      hint: Street address or description
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: accident_type
+      label: Type of Accident
+      hint: Select one
+      type: select_one
+      options:
+      - Collision with vehicle
+      - Collision with object
+      - Hit and run
+      - Multi-vehicle
+      - Property damage only
+      - Other
+      required: true
+    - id: 26
+      name: accident_description
+      label: Detailed Description of Accident
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: other_vehicle_header
+      label: -- Other Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: other_vehicle_involved
+      label: Other Vehicle Involved?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: other_driver_name
+      label: Other Driver Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: other_vehicle_info
+      label: Other Vehicle Make, Model, Year
+      hint: Description
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: other_license_plate
+      label: Other Vehicle License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: damage_header
+      label: -- Damage and Injuries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: vehicle_damage
+      label: Vehicle Damage Description
+      hint: Describe damage
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: injuries
+      label: Any Injuries to Persons?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 35
+      name: injury_details
+      label: Injury Details
+      hint: Describe injuries
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: police_report
+      label: Police Report Filed?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In progress
+      required: true
+    - id: 37
+      name: police_report_number
+      label: Police Report Number (if filed)
+      hint: Report number
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: affidavit_declaration
+      label: I declare under oath that the information provided is true and accurate
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I declare
+      - 'No'
+      required: true

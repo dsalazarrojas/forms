@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethanol Effects Assessment
+    pages:
+    - id: 1
+      name: participant_identifier
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_identifier
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - M
+      - F
+      required: true
+    - id: 5
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - American Indian or Alaskan Native
+      - Asian
+      - Black or African American
+      - White
+      - Other
+      required: false
+    - id: 6
+      name: alcohol_use
+      label: How much alcohol
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: alcohol_frequency
+      label: How often
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Most days
+      - Some days
+      - Rarely
+      required: true
+    - id: 8
+      name: drink_alcohol
+      label: Have you ever drunk alcohol
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: smoke_tobacco
+      label: Have you ever smoked tobacco
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: smoke_frequency
+      label: How often smoke
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Most days
+      - Some days
+      - Rarely
+      required: false
+    - id: 11
+      name: smoke_amount
+      label: Daily amount smoked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: drug_use
+      label: Have you ever used drugs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: drug_frequency
+      label: How often use drugs
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Most days
+      - Some days
+      - Rarely
+      required: false
+    - id: 14
+      name: drug_amount
+      label: Daily amount use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: have_you_been_screened
+      label: Have you been screened for alcohol or drug use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: screened_date
+      label: Date screened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: screened_by
+      label: Screened by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: screening_frequency
+      label: How often screened
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple times
+      required: false
+    - id: 19
+      name: have_your_parents
+      label: Have you ever told your parents about your drug or alcohol use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: parent_knowledge
+      label: Do your parents know about your drug or alcohol use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: parent_knowledge_frequency
+      label: How often your parents know
+      hint: null
+      type: select_one
+      options:
+      - Every time
+      - Rarely
+      required: true
+    - id: 22
+      name: have_your_friends
+      label: Have you ever told your friends about your drug or alcohol use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: friend_knowledge
+      label: Do your friends know about your drug or alcohol use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: friend_knowledge_frequency
+      label: How often do your friends know
+      hint: null
+      type: select_one
+      options:
+      - Every time
+      - Rarely
+      required: true
+    - id: 25
+      name: have_your_partners
+      label: Have you ever told your partner about your drug or alcohol use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 26
+      name: partner_knowledge
+      label: Do your partner know about your drug or alcohol use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 27
+      name: partner_knowledge_frequency
+      label: How often your partner know
+      hint: null
+      type: select_one
+      options:
+      - Every time
+      - Rarely
+      required: true

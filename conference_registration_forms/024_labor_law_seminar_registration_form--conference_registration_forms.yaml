@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor Law Seminar Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_attendance
+      label: Will you attend the seminar?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: confirm_attendance_other
+      label: If not attending, why not?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_needs
+      label: Attendee needs
+      hint: null
+      type: select_multiple
+      options:
+      - Accommodation
+      - Food
+      - Transportation
+      - Other
+      required: false
+    - id: 8
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: registration_time
+      label: Registration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: association_name
+      label: Association Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - 'No'
+      required: false
+    - id: 14
+      name: registration_status_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

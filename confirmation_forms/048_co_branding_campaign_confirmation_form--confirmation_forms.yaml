@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Branding Campaign Confirmation Form
+    pages:
+    - id: 1
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: primary_brand_contact
+      label: Primary Brand Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_brand_email
+      label: Primary Brand Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: primary_brand_phone
+      label: Primary Brand Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_brand_name
+      label: Primary Brand or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: partner_brand_name
+      label: Partner Brand or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: partner_contact_name
+      label: Partner Brand Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: partner_contact_email
+      label: Partner Brand Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: campaign_name
+      label: Campaign Name
+      hint: Official campaign title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: campaign_objective
+      label: Campaign Objective
+      hint: What are you trying to achieve
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: campaign_channels
+      label: Campaign Channels
+      hint: Select all platforms
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Print
+      - Digital Ads
+      - Events
+      - PR
+      - Partnership Sites
+      required: true
+    - id: 14
+      name: target_audience_description
+      label: Target Audience Description
+      hint: Who are you targeting
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: budget_allocation
+      label: Budget Allocation
+      hint: How will budget be split
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: approval_status
+      label: Campaign Approved by Both Parties
+      hint: null
+      type: select_one
+      options:
+      - Yes, Both Parties Approve
+      - Pending Approval
+      - Requires Revision
+      required: true

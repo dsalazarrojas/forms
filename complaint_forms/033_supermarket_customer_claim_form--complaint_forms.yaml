@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supermarket Customer Claim Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: Enter a detailed description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supermarket_name
+      label: Supermarket Name
+      hint: Enter the supermarket name where you made the purchase
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: Date of purchase
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: purchase_time
+      label: Purchase Time
+      hint: Time of purchase
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: amount_paid
+      label: Amount Paid
+      hint: Amount paid for the purchase
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: select_complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 11
+      name: select_multiple_complaint_type
+      label: Select Multiple Complaint Types
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 12
+      name: select_complaint_details
+      label: Select Complaint Details
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 13
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Not Resolved
+      - Pending
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true

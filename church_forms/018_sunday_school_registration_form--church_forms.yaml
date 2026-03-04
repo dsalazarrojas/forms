@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sunday School Registration Form
+    pages:
+    - id: 1
+      name: new_member
+      label: new_member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent
+      label: parent
+      hint: The parent of the new member
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: contact
+      hint: Enter contact information for the new member
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: Email of the new member
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: Phone number of the new member
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_year
+      label: school_year
+      hint: What school year the new member is attending
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: class
+      label: class
+      hint: Which class the new member is attending
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: name
+      label: name
+      hint: Name of the new member
+      type: text
+      options: []
+      required: false

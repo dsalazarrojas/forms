@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Informed Consent For Research Declaration Form
+    pages:
+    - id: 1
+      name: participant_identification
+      label: participant_identification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: research_objectives
+      label: research_objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: informed_consent
+      label: informed_consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_rights
+      label: participant_rights
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_declaration
+      label: research_declaration
+      hint: null
+      type: select_one
+      options:
+      - Research
+      - Non-Research
+      required: true
+    - id: 6
+      name: research_declaration_agreement
+      label: research_declaration_agreement
+      hint: null
+      type: select_one
+      options:
+      - I
+      - II
+      - III
+      required: true
+    - id: 7
+      name: research_declaration_agreement_date
+      label: research_declaration_agreement_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: research_declaration_agreement_time
+      label: research_declaration_agreement_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: research_declaration_agreement_location
+      label: research_declaration_agreement_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: research_declaration_agreement_duration
+      label: research_declaration_agreement_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: research_declaration_agreement_other
+      label: research_declaration_agreement_other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_information_alternate
+      label: contact_information_alternate
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: informed_consent_form_date
+      label: informed_consent_form_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 18
+      name: researcher_signature
+      label: researcher_signature
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 19
+      name: witness_signature
+      label: witness_signature
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 20
+      name: participant_declaration
+      label: participant_declaration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: participant_declaration_time
+      label: participant_declaration_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: participant_declaration_location
+      label: participant_declaration_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: participant_declaration_duration
+      label: participant_declaration_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: participant_declaration_other
+      label: participant_declaration_other
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Game Developers Roundtable Registration
+    pages:
+    - id: 1
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Game Developer
+      - Organizer
+      - Speaker
+      - Moderator
+      - Attendee
+      required: false
+    - id: 3
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: session_interests
+      label: Session Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Educational Game Development
+      - Game Design
+      - Game Development Tools
+      - Game Testing
+      - Game Art
+      - Game Audio
+      - Game Story
+      - Game Mechanics
+      required: false
+    - id: 5
+      name: discussion_topics
+      label: Discussion Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Game Development Best Practices
+      - Emerging Technologies
+      - Industry Trends
+      - Game Design Process
+      - Game Development Tools
+      - Game Testing
+      - Game Art
+      - Game Audio
+      - Game Story
+      - Game Mechanics
+      - User Experience
+      - Project Management
+      - Time Management
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjim
+      - chatjimmy123
+      - chatjimmy2
+      - chatjimmy3
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

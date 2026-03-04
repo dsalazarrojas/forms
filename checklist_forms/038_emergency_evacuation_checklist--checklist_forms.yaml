@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Evacuation Checklist
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: emergency_evacuation_plan
+      label: Emergency Evacuation Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evacuation_routes
+      label: Evacuation Routes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assembly_points
+      label: Assembly Points
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_info_page
+      label: Emergency Contact Info Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_list
+      label: Emergency Contact List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

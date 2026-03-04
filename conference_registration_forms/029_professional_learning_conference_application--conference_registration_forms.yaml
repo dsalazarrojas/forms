@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Learning Conference Application
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_district
+      label: School District
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_interests
+      label: Session Interests
+      hint: List the conference sessions you are interested in
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: Is there something else we should know about you?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_interests_attendeed
+      label: Session Interests Attendee
+      hint: Select all sessions that you are interested in attending.
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: true
+    - id: 10
+      name: conference_details
+      label: Conference Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: conference_session
+      label: Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: true
+    - id: 12
+      name: attendee_details_conference
+      label: Conference
+      hint: null
+      type: select_one
+      options:
+      - School District
+      - Training Organization
+      required: true
+    - id: 13
+      name: attendee_details_school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendee_details_district
+      label: District
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendee_details_org
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false

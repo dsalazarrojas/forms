@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Rebate Receipt Upload Form
+    pages:
+    - id: 1
+      name: retail_rebate_receipt_upload_form
+      label: upload_receipt
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: receipt_details
+      label: receipt_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rebate_amount
+      label: rebate_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: retail_rebate_program
+      label: retail_rebate_program
+      hint: null
+      type: select_one
+      options:
+      - Program A
+      - Program B
+      required: true

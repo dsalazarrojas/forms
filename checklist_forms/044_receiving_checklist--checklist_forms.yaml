@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Receiving CheckList
+    pages:
+    - id: 1
+      name: job_number
+      label: Job Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: delivery_company
+      label: Delivery Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Truck''}'
+      - '{''id'': 2, ''name'': ''Car''}'
+      - '{''id'': 3, ''name'': ''Motorcycle''}'
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: side_lights
+      label: Side Lights
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Working''}'
+      - '{''id'': 2, ''name'': ''Not Working''}'
+      required: false
+    - id: 6
+      name: fog_lights
+      label: Fog Lights
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Working''}'
+      - '{''id'': 2, ''name'': ''Not Working''}'
+      required: false
+    - id: 7
+      name: main_beam
+      label: Main Beam
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Working''}'
+      - '{''id'': 2, ''name'': ''Not Working''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: job_number
+      label: Job Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: delivery_company
+      label: Delivery Company
+      hint: null
+      type: text
+      options: []
+      required: false

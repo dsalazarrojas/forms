@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Coach Evaluation Survey
+    pages:
+    - id: 1
+      name: coaching_form_1
+      label: How often do you coach
+      hint: null
+      type: select_one
+      options:
+      - Coaching 1-5 years
+      - Less than 1 year
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 2
+      name: coaching_form_2
+      label: What sport do you coach
+      hint: null
+      type: select_multiple
+      options:
+      - Football
+      - Soccer
+      - Basketball
+      - Baseball
+      - Softball
+      - Volleyball
+      - Hockey
+      - Track and field
+      - Lacrosse
+      - Tennis
+      - Golf
+      required: false
+    - id: 3
+      name: coaching_form_3
+      label: How many teams do you coach
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: coaching_form_4
+      label: How many players you coach
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: coaching_form_5
+      label: Coaching Philosophy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coaching_form_6
+      label: What is most important to you in coaching
+      hint: null
+      type: select_one
+      options:
+      - Building character
+      - Developing skills
+      - Winning games
+      - Personal growth
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: coaching_form_7
+      label: How important is it to you that players have fun
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: false
+    - id: 8
+      name: coaching_form_8
+      label: How would you rate your coaching experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: coaching_form_9
+      label: How would you rate your experience with youth sports programs
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: coaching_form_10
+      label: What can improve youth sports programs
+      hint: null
+      type: select_multiple
+      options:
+      - Better communication
+      - More resources
+      - Better facilities
+      - More qualified coaches
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: coaching_form_11
+      label: How can we improve this survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: coaching_form_12
+      label: How often do you take time to review and adjust your coaching strategies
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 13
+      name: coaching_form_13
+      label: How often do you communicate with athletes and parents
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - A few times a month
+      - Never
+      required: false
+    - id: 14
+      name: coaching_form_14
+      label: How often do you provide feedback to athletes
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - A few times a month
+      - Never
+      required: false
+    - id: 15
+      name: coaching_form_15
+      label: How do you handle conflicts between athletes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coaching_form_16
+      label: How do you motivate athletes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coaching_form_17
+      label: What is the biggest challenge facing youth sports programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: coaching_form_18
+      label: How can we support you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coaching_form_19
+      label: Do you have any other comments
+      hint: null
+      type: text
+      options: []
+      required: false

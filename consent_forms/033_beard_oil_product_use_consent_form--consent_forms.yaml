@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Oil Product Use Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Client first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Client last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client DOB
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: grooming_professional
+      label: Grooming Professional Name
+      hint: Service provider
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: oil_brand
+      label: Beard Oil Brand
+      hint: Product name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: oil_ingredients
+      label: Key Ingredients
+      hint: Main ingredients
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nut_allergies
+      label: Nut Allergies
+      hint: Many oils contain nuts
+      type: select_one
+      options:
+      - Yes - Tree Nut Allergy
+      - Yes - Peanut Allergy
+      - No Known Nut Allergies
+      - Not Sure
+      required: true
+    - id: 11
+      name: skin_allergies
+      label: Skin Allergies
+      hint: Any skin allergies
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sensitive_skin
+      label: Do You Have Sensitive Skin
+      hint: Skin sensitivity
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 13
+      name: previous_reactions
+      label: Previous Reactions to Oils
+      hint: Any bad reactions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_tested
+      label: Product Patch Tested
+      hint: Was patch test done
+      type: select_one
+      options:
+      - Yes - No Reaction
+      - Yes - Reaction Occurred
+      - No - Not Tested
+      required: true
+    - id: 15
+      name: usage_instructions
+      label: Usage Instructions Understood
+      hint: Do you understand how to use
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: potential_reactions
+      label: Potential Reactions Explained
+      hint: Were side effects explained
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: consent_to_use
+      label: I Consent to Use This Product
+      hint: Do you consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: take_home_product
+      label: Purchasing Take Home Product
+      hint: Buying product
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: client_signature
+      label: Client Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

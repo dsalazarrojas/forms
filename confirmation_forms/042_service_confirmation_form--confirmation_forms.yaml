@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Confirmation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Service Confirmation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      - In Progress
+      required: false
+    - id: 4
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_note
+      label: Service Note
+      hint: null
+      type: note
+      options: []
+      required: false

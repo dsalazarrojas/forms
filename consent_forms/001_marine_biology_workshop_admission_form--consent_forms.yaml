@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Biology Workshop Admission Form
+    pages:
+    - id: 1
+      name: workshop_application
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course
+      label: Course Interested
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Marine Science
+      - Conservation Biology
+      required: true
+    - id: 6
+      name: bio_details
+      label: Biological Details
+      hint: Provide any relevant biological details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: workshop_location
+      label: Workshop Location
+      hint: Select your preferred workshop location
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: workshop_agreement
+      label: Workshop Agreement
+      hint: null
+      type: note
+      options: []
+      required: true

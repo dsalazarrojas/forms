@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_coaching_program
+      label: -- Coaching Program --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: Coaching Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: coaching_level
+      label: Coaching Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 10
+      name: start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: select_one
+      options:
+      - 4 weeks
+      - 8 weeks
+      - 12 weeks
+      - 16 weeks
+      - 6 months
+      - 1 year
+      required: true
+    - id: 12
+      name: section_experience
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: prior_coaching_experience
+      label: Prior Coaching Experience
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Some experience
+      - Moderate experience
+      - Extensive experience
+      required: true
+    - id: 14
+      name: sports_experience
+      label: Sports or Fitness Background
+      hint: Describe any relevant background
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_fitness_health
+      label: -- Fitness and Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: current_fitness_level
+      label: Current Fitness Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Light activity
+      - Moderate activity
+      - Very active
+      required: true
+    - id: 17
+      name: health_conditions
+      label: Any Health Conditions or Injuries
+      hint: Please disclose relevant information
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_clearance
+      label: Do you have physician clearance for exercise?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 19
+      name: section_goals
+      label: -- Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: coaching_goals
+      label: What are your coaching goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: primary_focus
+      label: Primary Focus Area
+      hint: null
+      type: select_one
+      options:
+      - Fitness improvement
+      - Weight loss
+      - Performance enhancement
+      - Skill development
+      - General wellness
+      - Other
+      required: true
+    - id: 22
+      name: section_agreement
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: agree_terms
+      label: I agree to the coaching program terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

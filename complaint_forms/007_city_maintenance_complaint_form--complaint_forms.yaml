@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: City Maintenance Complaint Form
+    pages:
+      - id: 1
+        name: complaint_header
+        label: -- Report a Maintenance Issue --
+        hint: Help us keep our city in great shape
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporter_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporter_email
+        label: Your Email Address
+        hint: For follow-up updates
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: issue_type
+        label: Type of Maintenance Issue
+        hint: null
+        type: select_one
+        options:
+          - Pothole or Road Damage
+          - Broken Streetlight
+          - Damaged Sidewalk
+          - Graffiti
+          - Overgrown Vegetation
+          - Water Leak or Main Break
+          - Trash or Litter Issue
+        required: true
+      - id: 5
+        name: issue_location
+        label: Location of Issue
+        hint: Provide street address or nearest intersection
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: issue_description
+        label: Detailed Description
+        hint: Please provide as much detail as possible
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: photo_evidence_note
+        label: Please note - Photo evidence can be emailed separately to maintenance-city.gov
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: urgency_level
+        label: Perceived Urgency
+        hint: null
+        type: select_one
+        options:
+          - Emergency - Threat to Public Safety
+          - High - Needs attention within 48 hours
+          - Medium - Routine repair
+          - Low - Aesthetic improvement
+        required: true
+      - id: 9
+        name: first_reported_date
+        label: When did you first notice this issue?
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: contact_consent
+        label: May we contact you for more information?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: tracking_number_note
+        label: A tracking number will be sent to your email after submission
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: report_timestamp
+        label: Report Date
+        hint: null
+        type: date
+        options: []
+        required: true

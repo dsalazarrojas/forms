@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Employee Survey
+    pages:
+    - id: 1
+      name: section_employee_details
+      label: -- Employee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_covid_concerns
+      label: -- COVID-19 Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_concern
+      label: What is your primary concern about COVID-19 in the workplace?
+      hint: null
+      type: select_one
+      options:
+      - Safety of work environment
+      - Adequate protective equipment
+      - Health benefits coverage
+      - Job security
+      - Work schedule changes
+      - Other
+      required: true
+    - id: 10
+      name: concern_description
+      label: Please describe your concern in detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_pandemic_measures
+      label: -- Pandemic Response Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: workplace_safety_measures
+      label: How safe do you feel about current workplace safety measures?
+      hint: null
+      type: select_one
+      options:
+      - Very safe
+      - Somewhat safe
+      - Neutral
+      - Somewhat unsafe
+      - Very unsafe
+      required: true
+    - id: 13
+      name: remote_work_preference
+      label: Would you prefer to work remotely?
+      hint: null
+      type: select_one
+      options:
+      - Yes, full remote
+      - Hybrid preferred
+      - On-site preferred
+      - No preference
+      required: true
+    - id: 14
+      name: section_consent_agreement
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: agree_safety_protocols
+      label: I agree to follow all workplace safety protocols and procedures
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 16
+      name: agree_health_screening
+      label: I consent to health screening procedures as implemented by the company
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 17
+      name: agree_vaccination
+      label: I understand vaccination recommendations from public health authorities
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 18
+      name: acknowledge_information
+      label: I acknowledge receiving and understanding COVID-19 workplace information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: section_additional_feedback
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: suggestions
+      label: Any suggestions for improving workplace safety?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

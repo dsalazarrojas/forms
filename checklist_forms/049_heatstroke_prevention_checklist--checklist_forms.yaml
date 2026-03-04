@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heatstroke Prevention Checklist
+    pages:
+    - id: 1
+      name: conditions
+      label: heat_stroke_conditions
+      hint: null
+      type: select_one
+      options:
+      - Heat exhaustion
+      - Dehydration
+      - Heatstroke
+      required: false
+    - id: 2
+      name: prevention_steps
+      label: prevention_steps
+      hint: null
+      type: select_multiple
+      options:
+      - Drinking water regularly
+      - Taking regular breaks
+      - Wearing lightweight clothing
+      - Wearing a hat and sunglasses
+      - Staying in the shade
+      required: false
+    - id: 3
+      name: symptoms
+      label: heat_stroke_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - High or low blood pressure
+      - Other
+      required: false
+    - id: 4
+      name: prevention_steps_other
+      label: other_prevention_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prevention_steps_employer
+      label: prevention_steps_employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prevention_steps_coach
+      label: prevention_steps_coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prevention_steps_organizers
+      label: prevention_steps_organizers
+      hint: null
+      type: text
+      options: []
+      required: false

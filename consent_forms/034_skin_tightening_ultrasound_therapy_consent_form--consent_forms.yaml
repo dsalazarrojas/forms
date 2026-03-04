@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: skin_tightening_ultrasound_therapy_consent_form
+    pages:
+    - id: 1
+      name: client_health_details
+      label: Client Health Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_tightening_procedure
+      label: Skin Tightening Procedure
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Skin Tightening''}'
+      - '{''label'': ''Skin Reshaping''}'
+      required: true
+    - id: 3
+      name: treatment_acknowledgments
+      label: Treatment Acknowledgments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

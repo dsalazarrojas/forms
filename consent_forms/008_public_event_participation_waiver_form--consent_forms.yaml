@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Event Participation Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participants Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waiver_type
+      label: Waiver Type
+      hint: null
+      type: select_one
+      options:
+      - Choice 1
+      - Choice 2
+      - Choice 3
+      required: true
+    - id: 5
+      name: waiver_signed
+      label: Waiver Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: waiver_date_signed
+      label: Waiver Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participant_address
+      label: Participants Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: waiver_version
+      label: Waiver Version
+      hint: null
+      type: text
+      options: []
+      required: false

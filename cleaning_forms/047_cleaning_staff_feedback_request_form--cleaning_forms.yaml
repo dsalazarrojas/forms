@@ -1,0 +1,333 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Staff Feedback Request Form
+    pages:
+      - id: 1
+        name: staff_name
+        label: Staff Name
+        hint: Name of the staff member
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: staff_id
+        label: Staff ID Number
+        hint: Employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: position
+        label: Position or Job Title
+        hint: Your current position
+        type: select_one
+        options:
+          - Residential Cleaner
+          - Commercial Cleaner
+          - Janitorial Staff
+          - Floor Care Specialist
+          - Window Cleaner
+          - Carpet Technician
+          - Team Leader
+          - Supervisor
+          - Other
+        required: true
+      - id: 4
+        name: location
+        label: Work Location
+        hint: Your primary work location
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of this feedback request
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: supervisor_name
+        label: Supervisor Name
+        hint: Name of your supervisor
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: feedback_type
+        label: Type of Feedback
+        hint: What type of feedback is this
+        type: select_one
+        options:
+          - Positive Feedback or Recognition
+          - Suggestion for Improvement
+          - Concern or Complaint
+          - Request for Resources
+          - Safety Concern
+          - Equipment Issue
+          - Training Request
+          - Other
+        required: true
+      - id: 8
+        name: section_header_feedback
+        label: -- Feedback Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: feedback_subject
+        label: Feedback Subject
+        hint: Brief summary of feedback
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: feedback_description
+        label: Detailed Feedback Description
+        hint: Please describe in detail
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: date_of_incident
+        label: Date of Incident or Observation
+        hint: When did this occur
+        type: date
+        options: []
+        required: false
+      - id: 12
+        name: location_of_incident
+        label: Location of Incident
+        hint: Where did this occur
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: people_involved
+        label: People Involved
+        hint: Who was involved
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: section_header_category
+        label: -- Feedback Category --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: feedback_category
+        label: Feedback Category
+        hint: What area does this relate to
+        type: select_one
+        options:
+          - Work Performance
+          - Customer Service
+          - Equipment or Supplies
+          - Safety or Security
+          - Training or Development
+          - Communication
+          - Scheduling
+          - Compensation or Benefits
+          - Workplace Environment
+          - Management or Supervision
+          - Other
+        required: true
+      - id: 16
+        name: priority_level
+        label: Priority Level
+        hint: How urgent is this feedback
+        type: select_one
+        options:
+          - Low - Can Wait
+          - Medium - Within One Week
+          - High - Within 48 Hours
+          - Urgent - Immediate Attention
+        required: true
+      - id: 17
+        name: section_header_impact
+        label: -- Impact Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: impact_on_work
+        label: Impact on Work Performance
+        hint: How does this affect your work
+        type: select_one
+        options:
+          - No Impact
+          - Minor Impact
+          - Moderate Impact
+          - Significant Impact
+          - Severe Impact
+        required: true
+      - id: 19
+        name: impact_on_customers
+        label: Impact on Customers or Clients
+        hint: How does this affect customers
+        type: select_one
+        options:
+          - No Impact
+          - Minor Impact
+          - Moderate Impact
+          - Significant Impact
+          - Severe Impact
+          - Not Applicable
+        required: true
+      - id: 20
+        name: frequency_of_issue
+        label: Frequency of Issue
+        hint: How often does this occur
+        type: select_one
+        options:
+          - One-Time Occurrence
+          - Rarely
+          - Occasionally
+          - Frequently
+          - Constantly
+          - Not Applicable
+        required: true
+      - id: 21
+        name: section_header_resolution
+        label: -- Suggested Resolution --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: suggested_solution
+        label: Suggested Solution or Resolution
+        hint: How do you think this should be resolved
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: resources_needed
+        label: Resources or Support Needed
+        hint: What do you need to resolve this
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: timeline_for_resolution
+        label: Expected Timeline for Resolution
+        hint: When should this be resolved
+        type: select_one
+        options:
+          - Within 24 Hours
+          - Within 3 Days
+          - Within 1 Week
+          - Within 2 Weeks
+          - Within 1 Month
+          - No Rush
+        required: false
+      - id: 25
+        name: section_header_followup
+        label: -- Follow-Up Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: follow_up_requested
+        label: Follow-Up Requested
+        hint: Do you want a follow-up response
+        type: select_one
+        options:
+          - Yes - Please Respond
+          - Yes - Schedule Meeting
+          - No - For Information Only
+        required: true
+      - id: 27
+        name: preferred_contact_method
+        label: Preferred Contact Method
+        hint: How should we contact you
+        type: select_one
+        options:
+          - Email
+          - Phone Call
+          - Text Message
+          - In-Person Meeting
+          - No Contact Needed
+        required: true
+      - id: 28
+        name: confidentiality_request
+        label: Confidentiality Request
+        hint: Should this feedback be kept confidential
+        type: select_one
+        options:
+          - Yes - Keep Confidential
+          - No - Can Be Shared
+          - Partially - Share with Management Only
+        required: true
+      - id: 29
+        name: section_header_additional
+        label: -- Additional Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: previous_feedback
+        label: Have You Submitted Similar Feedback Before
+        hint: Is this a recurring issue
+        type: select_one
+        options:
+          - No - First Time
+          - Yes - Once Before
+          - Yes - Multiple Times
+        required: true
+      - id: 31
+        name: previous_feedback_outcome
+        label: Outcome of Previous Feedback
+        hint: Was previous feedback addressed
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: supporting_documentation
+        label: Supporting Documentation
+        hint: Do you have any documents or photos
+        type: select_one
+        options:
+          - Yes - Will Provide Separately
+          - Yes - Attached
+          - No - None Available
+        required: false
+      - id: 33
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else you would like to add
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: staff_signature
+        label: Staff Signature (Type Full Name)
+        hint: Your electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 35
+        name: submission_date
+        label: Submission Date
+        hint: Date of submission
+        type: date
+        options: []
+        required: true

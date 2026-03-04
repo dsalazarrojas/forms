@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Passenger Assistance Admission Form
+    pages:
+    - id: 1
+      name: section_passenger_details
+      label: -- Passenger Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: passenger_full_name
+      label: Passenger Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: booking_reference
+      label: Booking Reference (PNR)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_date
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_assistance_needs
+      label: -- Assistance Needs --
+      hint: Select all that apply
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: wheelchair_assistance
+      label: Wheelchair Assistance Required?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - To the aircraft door
+      - To the seat
+      - Full assistance
+      required: true
+    - id: 11
+      name: own_wheelchair
+      label: Traveling with your own wheelchair?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - Manual
+      - Yes - Electric
+      required: true
+    - id: 12
+      name: oxygen_required
+      label: In-flight Oxygen Required?
+      hint: Note - Doctor certificate may be required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: visual_hearing_assistance
+      label: Visual or Hearing Assistance Required?
+      hint: null
+      type: select_multiple
+      options:
+      - Visual impairment assistance
+      - Hearing impairment assistance
+      - Sign language interpreter
+      required: false
+    - id: 14
+      name: specific_assistance_details
+      label: Specific Assistance Details
+      hint: Describe any other special needs or details for our team
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: consent_agreement
+      label: I consent to the airline sharing this data with relevant airport staff
+        for coordination
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true

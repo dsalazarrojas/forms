@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Proposal Form
+    pages:
+    - id: 1
+      name: proposal_overview
+      label: -- Proposal Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Company or institution submitting the proposal
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary contact person
+      hint: Person responsible for proposal communication
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email address
+      hint: Email for proposal follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: proposal_title
+      label: Proposal title
+      hint: Short descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: proposal_description
+      label: Proposal description
+      hint: 300 to 500 words describing goals and scope
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expected_audience
+      label: Expected audience size
+      hint: Numeric estimate of attendees
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_dates
+      label: Preferred dates for the session
+      hint: List one or two preferred dates
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget_requirements
+      label: Budget or sponsorship requested
+      hint: Provide an estimated budget if applicable
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: supporting_materials
+      label: Supporting materials provided
+      hint: Links or attachments can be included after submission
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement_terms
+      label: Agreement to event terms
+      hint: Acceptance required for proposal consideration
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: true

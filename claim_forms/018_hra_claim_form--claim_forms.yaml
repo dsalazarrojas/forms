@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: HRA Claim Form
+    pages:
+    - id: 1
+      name: hra_claim_form
+      label: Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Health Reimbursement Account
+      - Dollars-off Claim
+      - Other Claim
+      required: false
+    - id: 7
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_notes
+      label: Approval Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_user
+      label: Submission User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_user
+      label: Reviewer User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_user
+      label: Approver User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: short_story_contest_release_form
+    pages:
+    - id: 1
+      name: entry_information
+      label: Entry Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: permission
+      label: permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guardian_information
+      label: guardian_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guardian_permission
+      label: guardian_permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: entry_signature
+      label: entry_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

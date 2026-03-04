@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_maintenance_checklist_form
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: maintenance_tasks
+      label: Maintenance Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: maintenance_tasks_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: maintenance_time
+      label: Maintenance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_maintenance_status
+      label: Vehicle Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

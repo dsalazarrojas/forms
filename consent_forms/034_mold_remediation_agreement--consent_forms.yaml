@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: mold_remediation_agreement
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: remediation_type
+      label: Remediation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: remediation_date
+      label: Remediation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: remediation_time
+      label: Remediation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: remediation_status
+      label: Remediation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_at
+      label: Created At
+      hint: null
+      type: text
+      options: []
+      required: false

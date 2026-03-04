@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fertility Clinic Discharge Form
+    pages:
+    - id: 1
+      name: page1
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_info
+      label: Medication Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: consent
+      label: Patient Consent
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: follow_up_info
+      label: Follow Up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false

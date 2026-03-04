@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workstation Cleaning Checklist
+    pages:
+    - id: 1
+      name: workstation_cleaning_checklist
+      label: Cleaning Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: area_to_be_cleaned
+      label: Area to be Cleaned
+      hint: null
+      type: select_one
+      options:
+      - Floor
+      - Work Surface
+      - Equipment
+      required: false
+    - id: 3
+      name: cleaning_frequency
+      label: How often
+      hint: Select how often the workstation is cleaned
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 4
+      name: cleaning_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Hand Sanitizer
+      - Disinfectant
+      - Cleaning Solution
+      required: false
+    - id: 5
+      name: trash_can_location
+      label: Where is the trash can located
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cleaning_supplies
+      label: Cleaning Supplies Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Hand Sanitizer
+      - Disinfectant
+      - Cleaning Solution
+      required: false
+    - id: 7
+      name: clean_area_around_equip
+      label: Area Around Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: clean_area_under_equipment
+      label: Area Under Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: clean_area_behind_equipment
+      label: Area Behind Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: clean_area_in_front_of_equipment
+      label: Area In Front of Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: area_to_be_dusted
+      label: Area to be Dusted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: dusting_frequency
+      label: How Often
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 13
+      name: dusting_method
+      label: Dusting Method
+      hint: null
+      type: select_multiple
+      options:
+      - Dusting Cloth
+      - Damp Cloth
+      required: false
+    - id: 14
+      name: clean_workstation_frequency
+      label: How often
+      hint: null
+      type: select_one
+      options:
+      - Before each shift
+      - At the end of shift
+      - Daily
+      required: false
+    - id: 15
+      name: clean_workstation_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaning Solution
+      - Water
+      required: false
+    - id: 16
+      name: clean_workstation_area
+      label: Area to be Cleaned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: clean_workstation_frequency_2
+      label: How often
+      hint: null
+      type: select_one
+      options:
+      - Every 2 hours
+      - Every 4 hours
+      - Every 6 hours
+      required: false
+    - id: 18
+      name: clean_workstation_frequency_3
+      label: How often
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 19
+      name: work_surface_cleaning_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaning Solution
+      - Water
+      required: false
+    - id: 20
+      name: floor_cleaning_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaning Solution
+      - Sweeping
+      required: false
+    - id: 21
+      name: equipment_cleaning_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Hand Sanitizer
+      - Disinfectant
+      required: false
+    - id: 22
+      name: area_around_equipment_cleaning_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Hand Sanitizer
+      - Disinfectant
+      required: false
+    - id: 23
+      name: area_under_equipment_cleaning_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Hand Sanitizer
+      - Disinfectant
+      required: false
+    - id: 24
+      name: area_behind_equipment_cleaning_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Hand Sanitizer
+      - Disinfectant
+      required: false
+    - id: 25
+      name: area_in_front_equipment_cleaning_method
+      label: Cleaning Method
+      hint: null
+      type: select_multiple
+      options:
+      - Hand Sanitizer
+      - Disinfectant
+      required: false

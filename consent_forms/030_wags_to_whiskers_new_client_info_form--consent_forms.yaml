@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wags To Whiskers New Client Info Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: client_type
+      label: Client type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual'', ''value'': ''individual''}'
+      - '{''label'': ''Business'', ''value'': ''business''}'
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_size
+      label: Company size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-10'', ''value'': ''1-10''}'
+      - '{''label'': ''11-50'', ''value'': ''11-50''}'
+      - '{''label'': ''51-100'', ''value'': ''51-100''}'
+      - '{''label'': ''101-200'', ''value'': ''101-200''}'
+      - '{''label'': ''200+'', ''value'': ''200+''}'
+      required: false
+    - id: 10
+      name: date_of_visit
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_visit
+      label: Time of visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: client_number
+      label: Client number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

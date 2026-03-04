@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_robotics_showcase_registration
+    pages:
+    - id: 1
+      name: exhibitor_info
+      label: Exhibitor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: registration_info
+      label: Registration Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participation_type
+      label: Participation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Robotics
+      - Technology
+      - Networking
+      - Education
+      required: false
+    - id: 5
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Robotics
+      - Technology
+      - Networking
+      - Education
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

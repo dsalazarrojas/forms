@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Information Release Form
+    pages:
+    - id: 1
+      name: account_holder_header
+      label: -- Account Holder Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_holder_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ss_number
+      label: Social Security Number (Full or Last 4)
+      hint: Required for account verification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_number_list
+      label: Account Number(s) to be Released
+      hint: List all accounts you authorize for disclosure
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: authorization_recipient_header
+      label: -- Information Recipient (Third Party) --
+      hint: Person or organization authorized to receive your information
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: recipient_organization
+      label: Organization Name
+      hint: e.g., Mortgage Lender, Accounting Firm, Law Office
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recipient_contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recipient_email
+      label: Recipient Email Address
+      hint: Where should the information be sent?
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: recipient_phone
+      label: Recipient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scope_of_disclosure_header
+      label: -- Scope of Information to be Released --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: disclosure_scope
+      label: Information to be Shared
+      hint: Select the level of detail authorized
+      type: select_multiple
+      options:
+      - Current Balance Only
+      - Average Balance (Last 12 Months)
+      - Full Transaction History (Specified Range)
+      - Loan Status and Payment History
+      - Account Opening Date and Standing
+      required: true
+    - id: 12
+      name: date_range_start
+      label: Disclosure Date Range - Start
+      hint: If history is requested
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_range_end
+      label: Disclosure Date Range - End
+      hint: If history is requested
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: release_purpose
+      label: Purpose of Release
+      hint: e.g., Loan Application, Audit, Legal Proceedings
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: legal_consent_header
+      label: -- Legal Authorization and Expiration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: expiration_duration
+      label: Duration of Authorization
+      hint: null
+      type: select_one
+      options:
+      - Valid for 30 Days
+      - Valid for 90 Days
+      - Valid for One-Time Disclosure Only
+      - Continuous Until Revoked
+      required: true
+    - id: 17
+      name: consent_agreement
+      label: I authorize my bank to release the information described above
+      hint: I release the bank from any liability resulting from this disclosure
+      type: select_one
+      options:
+      - I Consent and Authorize
+      - Other
+      required: true
+    - id: 18
+      name: authorization_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Card Design Contest Form
+    pages:
+    - id: 1
+      name: contestant_info
+      label: -- Contestant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: artist_bio
+      label: Brief Artist Biography
+      hint: Tell us about yourself as a designer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience_section
+      label: -- Design Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: professional_status
+      label: Professional Status
+      hint: null
+      type: select_one
+      options:
+      - Professional designer
+      - Design student
+      - Amateur artist
+      - Hobbyist
+      - First-time designer
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Design Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: design_tools
+      label: Design Tools You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Adobe Creative Suite
+      - CorelDRAW
+      - Canva
+      - Traditional art
+      - Procreate
+      - Other digital tools
+      required: true
+    - id: 11
+      name: design_submission
+      label: -- Design Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: design_title
+      label: Design Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: design_description
+      label: Design Description and Inspiration
+      hint: Explain your design concept and creative vision
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: design_dimensions
+      label: Design Dimensions
+      hint: Width x Height in inches
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: color_scheme
+      label: Primary Color Scheme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_format
+      label: Submission File Format
+      hint: null
+      type: select_one
+      options:
+      - JPEG
+      - PNG
+      - PDF
+      - PSD
+      - EPS
+      - Other
+      required: true
+    - id: 17
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Greeting card
+      - Holiday card
+      - Business card
+      - Postcard
+      - Custom size
+      required: true
+    - id: 18
+      name: eligibility
+      label: -- Eligibility & Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: original_work
+      label: This is my original, unpublished work
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify this is original
+      - false
+      required: true
+    - id: 20
+      name: usage_rights
+      label: If selected, the organization may use my design for commercial purposes
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true

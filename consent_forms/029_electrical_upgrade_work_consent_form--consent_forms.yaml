@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: electrical_upgrade_work_consent_form
+    pages:
+    - id: 1
+      name: scope_of_work
+      label: Scope of Work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: upgrade_details
+      label: Upgrade Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: approval
+      label: Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: time
+      options: []
+      required: false

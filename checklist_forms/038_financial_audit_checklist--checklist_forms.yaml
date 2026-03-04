@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Audit Checklist
+    pages:
+    - id: 1
+      name: financial_audit_checklist
+      label: Financial Audit Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audit_procedures
+      label: Audit Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: financial_statements
+      label: Financial Statements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: financial_statements_review
+      label: Financial Statements Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: review_dates
+      label: Review Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: audit_finding
+      label: Audit Finding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: financial_statements_review_notes
+      label: Financial Statements Review Notes
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

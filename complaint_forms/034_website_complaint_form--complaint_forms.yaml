@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Complaint Form
+    pages:
+    - id: 1
+      name: complaint_form_1
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_form_2
+      label: contact-information
+      hint: null
+      type: select_one
+      options:
+      - 123 Main St
+      - 456 Elm St
+      - 789 Oak St
+      required: false
+    - id: 3
+      name: complaint_form_3
+      label: contact-telephone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_form_4
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: complaint_form_5
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_form_6
+      label: submit-form
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: submit_form_7
+      label: submit-form-2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit_form_8
+      label: submit-form-3
+      hint: null
+      type: date
+      options: []
+      required: false

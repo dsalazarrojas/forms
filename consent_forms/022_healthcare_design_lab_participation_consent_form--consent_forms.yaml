@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Design Lab Participation Consent Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 3
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      - '{''id'': 3, ''name'': ''Mail''}'
+      - '{''id'': 4, ''name'': ''In-person''}'
+      required: false
+    - id: 5
+      name: study_details
+      label: Study Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_goals
+      label: Research Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: study_duration
+      label: Study Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: study_name
+      label: Study Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

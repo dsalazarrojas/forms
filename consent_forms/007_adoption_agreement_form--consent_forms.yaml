@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Agreement Form
+    pages:
+    - id: 1
+      name: section_terms
+      label: -- Adoption Terms and Conditions --
+      hint: Please read each term carefully
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: term_1
+      label: I agree to provide adequate food, water, and shelter.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: term_2
+      label: I agree to keep the animal as a household pet.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: term_3
+      label: I agree to provide regular veterinary care.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: term_4
+      label: I agree the animal will not be used for research or fighting.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: term_5
+      label: I agree to return the animal to the shelter if I can no longer care for it.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: acceptance_of_terms
+      label: Acceptance of Terms
+      hint: By selecting I agree, you are legally bound to these terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 8
+      name: adopter_signature_name
+      label: Adopter Signature Name
+      hint: Type your full name as an electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: animal_id_or_name
+      label: Animal ID or Name
+      hint: The identifier of the pet you are adopting
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: status of the adoption fee
+      type: select_one
+      options:
+      - Paid in full
+      - Payment plan
+      - Fee waived
+      required: true

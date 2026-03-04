@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Achievement Ceremony Registration
+    pages:
+    - id: 1
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: rsvp_guests
+      label: Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_names
+      label: Guest Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_relation
+      label: Relation
+      hint: null
+      type: select_one
+      options:
+      - spouse
+      - colleague
+      - manager
+      - other
+      required: false
+    - id: 5
+      name: rsvp_message
+      label: RSVP Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false

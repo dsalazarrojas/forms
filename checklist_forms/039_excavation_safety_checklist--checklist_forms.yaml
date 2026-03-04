@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excavation safety checklist
+    pages:
+    - id: 1
+      name: excavation_safety_concerns
+      label: excavation safety concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: personal_protection_equipment
+      label: personal protection equipment
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: site_boundary
+      label: site boundary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hazard_identification
+      label: hazard identification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: emergency_procedure
+      label: emergency procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: safety_training
+      label: safety training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_incident
+      label: reporting incident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: equipment_checklist
+      label: equipment checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

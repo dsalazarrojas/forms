@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Education (CE) Event Registration
+    pages:
+    - id: 1
+      name: registration_header_ce
+      label: -- Professional Development - June CE Event --
+      hint: Secure your spot for the upcoming Continuing Education conference.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name_ce
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email_ce
+      label: Professional Email Address
+      hint: Your certificate will be sent here.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employer_org_name
+      label: Employer or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: professional_designation_ce
+      label: Professional Designation
+      hint: null
+      type: select_one
+      options:
+      - Registered Nurse (RN)
+      - Medical Doctor (MD/DO)
+      - Physician Assistant (PA)
+      - Nurse Practitioner (NP)
+      - Licensed Counselor
+      - Other
+      required: true
+    - id: 6
+      name: license_number_ce
+      label: State License Number
+      hint: Needed for CE credit reporting
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sessions_selection_ce
+      label: Select Your Breakout Sessions
+      hint: Pick one for each time slot
+      type: select_multiple
+      options:
+      - Session A - Ethics in Modern Practice
+      - Session B - Advanced Clinical Techniques
+      - Session C - Healthcare Technology Trends
+      - Session D - Leadership and Management
+      required: true
+    - id: 8
+      name: dietary_requirements_ce
+      label: Dietary Requirements
+      hint: For the provided lunch session
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      required: true
+    - id: 9
+      name: accessibility_needs_ce
+      label: Do you require any specific accessibility accommodations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ce_credit_hours_requested
+      label: How many CE credits are you seeking?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: registration_type_ce
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Early Bird (Before May 1st)
+      - General Admission
+      - Student/Resident
+      - Group Discount (5 plus)
+      required: true
+    - id: 12
+      name: payment_preference_ce
+      label: Payment Method
+      hint: Payment link will be emailed upon form submission.
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - Institutional Purchase Order
+      required: true
+    - id: 13
+      name: networking_consent_ce
+      label: I agree to have my contact info shared with other attendees
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: cancellation_policy_ce_ack
+      label: I acknowledge the 7-day cancellation and refund policy
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 15
+      name: submission_timestamp_ce
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Distance Declaration
+    pages:
+    - id: 1
+      name: insurance_claim_distance_declaration
+      label: Claim Distance Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claimant_details
+      label: Claimant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: distance_km
+      label: Distance in Kms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: distance_miles
+      label: Distance in miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - car
+      - flight
+      - train
+      - other
+      required: true
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: true

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dormitory Inspection Checklist
+    pages:
+    - id: 1
+      name: room_number
+      label: room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: room_status
+      label: room_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''maintenance_required''}'
+      - '{''id'': 3, ''name'': ''not_visited''}'
+      - '{''id'': 4, ''name'': ''not_checked''}'
+      required: false
+    - id: 3
+      name: room_condition
+      label: room_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_visited
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: false

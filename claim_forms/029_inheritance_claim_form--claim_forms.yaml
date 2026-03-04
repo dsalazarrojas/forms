@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inheritance Claim Form
+    pages:
+    - id: 1
+      name: claim_form
+      label: Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Inheritance
+      - Other
+      required: false
+    - id: 5
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 7
+      name: claim_notes
+      label: Claim Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claimant_information
+      label: Claimant Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: executor_information
+      label: Executor Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: attorney_information
+      label: Attorney Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: witness_information
+      label: Witness Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: executor_signature
+      label: Executor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attorney_signature
+      label: Attorney Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save and Continue
+      required: false
+    - id: 20
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Other
+      required: false
+    - id: 21
+      name: claimant_date_of_birth
+      label: Claimant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: claimant_place_of_birth
+      label: Claimant Place of Birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claimant_gender
+      label: Claimant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 24
+      name: claimant_marital_status
+      label: Claimant Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 25
+      name: claimant_employment_status
+      label: Claimant Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Other
+      required: false

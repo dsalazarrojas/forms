@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_vehicle_inspection_report
+    pages:
+    - id: 1
+      name: vehicle_registration
+      label: vehicle_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: odometer_reading
+      label: odometer_reading
+      hint: Odometer reading
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: engine_oil_level
+      label: engine_oil_level
+      hint: null
+      type: select_one
+      options:
+      - oil_low
+      - oil_medium
+      - good
+      required: true
+    - id: 4
+      name: brake_pad_condition
+      label: brake_pad_condition
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 5
+      name: suspension_system
+      label: suspension_system
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: steering_system
+      label: steering_system
+      hint: null
+      type: select_one
+      options:
+      - steering_well
+      - not_steering
+      - unsure
+      required: false
+    - id: 7
+      name: transmission_system
+      label: transmission_system
+      hint: null
+      type: select_multiple
+      options:
+      - working_fine
+      - not_working
+      - not_applicable
+      required: false
+    - id: 8
+      name: tire_condition
+      label: tire_condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - poor
+      - not_applicable
+      required: true
+    - id: 9
+      name: exterior_condition
+      label: exterior_condition
+      hint: null
+      type: select_multiple
+      options:
+      - clean
+      - dirty
+      - not_applicable
+      required: false
+    - id: 10
+      name: wheel_tire_pressure
+      label: wheel_tire_pressure
+      hint: null
+      type: select_one
+      options:
+      - correct
+      - under_inflated
+      - not_specified
+      required: false
+    - id: 11
+      name: brake_pads_worn
+      label: brake_pads_worn
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: air_leak_in_system
+      label: air_leak_in_system
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: transmission_fluid_condition
+      label: transmission_fluid_condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - poor
+      - not_applicable
+      required: true
+    - id: 14
+      name: engine_performance
+      label: engine_performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: exhaust_condition
+      label: exhaust_condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 16
+      name: battery_condition
+      label: battery_condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - not_good
+      - not_specified
+      required: false
+    - id: 17
+      name: brake_system
+      label: brake_system
+      hint: null
+      type: select_multiple
+      options:
+      - working
+      - not_working
+      required: true
+    - id: 18
+      name: suspension_condition
+      label: suspension_condition
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - poor
+      - not_applicable
+      required: false
+    - id: 19
+      name: tire_tread
+      label: tire_tread
+      hint: null
+      type: select_one
+      options:
+      - good
+      - poor
+      - not_applicable
+      required: false
+    - id: 20
+      name: wheel_tire_type
+      label: wheel_tire_type
+      hint: null
+      type: select_one
+      options:
+      - radial
+      - non-radial
+      - not_specified
+      required: false
+    - id: 21
+      name: wheel_tire_size
+      label: wheel_tire_size
+      hint: null
+      type: select_one
+      options:
+      - correct
+      - not_specified
+      required: false
+    - id: 22
+      name: wheel_tire_depth
+      label: wheel_tire_depth
+      hint: null
+      type: select_one
+      options:
+      - correct
+      - not_specified
+      required: false
+    - id: 23
+      name: engine_condition
+      label: engine_condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - poor
+      - not_applicable
+      required: true
+    - id: 24
+      name: transmission_condition
+      label: transmission_condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - poor
+      - not_applicable
+      required: true
+    - id: 25
+      name: overall_condition
+      label: overall_condition
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - fair
+      - poor
+      required: true

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Volume Refill Session Consent Form
+    pages:
+    - id: 1
+      name: user_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Client Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lash_technician
+      label: Lash Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lash_technician_signature
+      label: Lash Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false

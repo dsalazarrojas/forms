@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: wildlife_rehabilitation_intake_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mammal'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Bird'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Reptile'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: injury_description
+      label: Injury Description
+      hint: Briefly describe the injury or condition of the patient
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_goal
+      label: Treatment Goal
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Rehabilitation'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Release'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: release_plan
+      label: Release Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: veterinary_services
+      label: Veterinary Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Unknown'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact EMail
+      hint: null
+      type: email
+      options: []
+      required: false

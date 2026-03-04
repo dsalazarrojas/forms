@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soft Play Rental Agreement Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rental_hours
+      label: Rental Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rental_terms_accepted
+      label: Rental Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Terms and Conditions
+      - Cancellation Policy
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 8
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

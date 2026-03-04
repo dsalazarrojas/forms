@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Complaint Resolution Survey
+    pages:
+    - id: 1
+      name: tenant_complaint_resolution_survey_form
+      label: Tenant Complaint Resolution Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_complaint_form_questions
+      label: Tenant Complaint Form Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - Housing Rent
+      - Maintenance and Repairs
+      - Noise and Nuisance
+      - Lease and Agreement
+      - Security and Safety
+      required: false
+    - id: 4
+      name: complaint_description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: report_type
+      label: complaint_report_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: tenant_comments
+      label: tenant_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_manager_comments
+      label: property_manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: resolution_date
+      label: resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: select_one
+      options:
+      - Send email to Tenant
+      - Send text to Tenant
+      - No Follow-up
+      required: false

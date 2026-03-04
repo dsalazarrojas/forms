@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: water_safety_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: safety_knowledge
+      label: Safety Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_2
+      label: Emergency Contact 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 5
+      name: lifeguard_knowledge
+      label: Lifeguard Knowledge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 6
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rescue_techniques
+      label: Rescue Techniques
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''swimming''}'
+      - '{''value'': ''diving''}'
+      - '{''value'': ''treading water''}'
+      required: false
+    - id: 8
+      name: first_aid
+      label: First Aid
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: water_safety_practices
+      label: Water Safety Practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: other_safety_practices
+      label: Other Safety Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_safety_practices_2
+      label: Other Safety Practices 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_completed
+      label: Survey Completed
+      hint: null
+      type: date
+      options: []
+      required: false

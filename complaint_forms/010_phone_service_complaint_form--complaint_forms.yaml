@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone Service Complaint Form
+    pages:
+    - id: 1
+      name: phone_service_complaint_form
+      label: Phone Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider
+      label: Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''provider1''}'
+      - '{''option'': ''provider2''}'
+      - '{''option'': ''provider3''}'
+      required: false
+    - id: 3
+      name: complaint
+      label: Complaint
+      hint: Please describe your complaint
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_complaint
+      label: Date of Complaint
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_complaint
+      label: Time of Complaint
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

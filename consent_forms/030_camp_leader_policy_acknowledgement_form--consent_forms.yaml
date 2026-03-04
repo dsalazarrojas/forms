@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Leader Policy Acknowledgement Form
+    pages:
+    - id: 1
+      name: staff_policy_header
+      label: -- Camp Leader Policy Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: leader_full_name
+      label: Staff Member Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: leader_position_title
+      label: Position - Role at Camp
+      hint: e.g., Senior Counselor, Activity Lead
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: camp_session_assignment
+      label: Assigned Camp Session(s)
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Camp Training
+      - Session 1
+      - Session 2
+      - Session 3
+      - Post-Camp Wrap-up
+      required: true
+    - id: 5
+      name: policy_acknowledgement_header
+      label: -- Policy Sections and Agreements --
+      hint: I have read and agree to comply with the following policies
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name_policy_child_safety: null
+      label: Child Safety and Protection Policy
+      hint: I agree to uphold all safety protocols and reporting requirements
+      type: select_one
+      options:
+      - I Have Read and Agree
+      - Other
+      required: true
+    - id: 7
+      name: policy_code_of_conduct
+      label: Staff Code of Conduct
+      hint: I agree to maintain professional standards and behavior
+      type: select_one
+      options:
+      - I Have Read and Agree
+      - Other
+      required: true
+    - id: 8
+      name: policy_social_media
+      label: Social Media and Communication Policy
+      hint: I understand the restrictions on communicating with campers online
+      type: select_one
+      options:
+      - I Have Read and Agree
+      - Other
+      required: true
+    - id: 9
+      name: policy_health_safety
+      label: Workplace Health and Safety Policy
+      hint: I agree to follow all safety guidelines for activities and facilities
+      type: select_one
+      options:
+      - I Have Read and Agree
+      - Other
+      required: true
+    - id: 10
+      name: policy_emergency_procedures
+      label: Emergency Response Procedures
+      hint: I have reviewed the emergency manual and protocols
+      type: select_one
+      options:
+      - I Have Read and Agree
+      - Other
+      required: true
+    - id: 11
+      name: policy_confidentiality
+      label: Confidentiality and Privacy Policy
+      hint: I agree to protect the private information of campers and families
+      type: select_one
+      options:
+      - I Have Read and Agree
+      - Other
+      required: true
+    - id: 12
+      name: leader_policy_signature
+      label: Staff Electronic Signature
+      hint: Please type your full name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: leader_signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: supervisor_witness_name
+      label: Supervisor - Witness Name
+      hint: Person who reviewed this form with the leader
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: leader_final_acknowledgment
+      label: Final Acknowledgment
+      hint: I understand that failure to follow these policies may result in termination
+      type: select_one
+      options:
+      - I Understand and Acknowledge
+      - Other
+      required: true

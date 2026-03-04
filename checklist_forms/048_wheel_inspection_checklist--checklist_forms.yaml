@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheel Inspection Checklist
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: wheel_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: wheel_inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Repair
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: wheel_rotation_status
+      label: Wheel Rotation Status
+      hint: null
+      type: select_one
+      options:
+      - Right
+      - Left
+      required: false
+    - id: 9
+      name: wheel_pressure
+      label: Wheel Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: wheel_temperature
+      label: Wheel Temperature
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Normal
+      required: false
+    - id: 11
+      name: wheel_alignment
+      label: Wheel Alignment
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      required: false
+    - id: 12
+      name: wheel_braking
+      label: Wheel Braking
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: wheel_tires
+      label: Wheel Tires
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: wheel_lamp
+      label: Wheel Lamp
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: false
+    - id: 15
+      name: wheel_condition
+      label: Wheel Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Dormant
+      - Decommissioned
+      required: false
+    - id: 24
+      name: wheel_type
+      label: Wheel Type
+      hint: null
+      type: select_one
+      options:
+      - Aluminum
+      - Steel
+      - Composite
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

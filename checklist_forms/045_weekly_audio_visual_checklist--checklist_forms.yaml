@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Audio Visual Checklist
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_auditorium
+      label: section-auditorium
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_auditorium_equipment
+      label: section-auditorium-equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_sound_systems
+      label: section-sound-systems
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_lighting_and_power
+      label: section-lighting-and-power
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_accessories
+      label: section-accessories
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_curtains
+      label: section-curtains
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_signs
+      label: section-signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_communication
+      label: section-communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_sign_off
+      label: section-sign-off
+      hint: null
+      type: select_multiple
+      options:
+      - Not Done
+      - Done
+      - In Progress
+      required: true
+    - id: 11
+      name: issue_log
+      label: issue-log
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_evidence
+      label: photo-evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save and Continue Later
+      required: true
+    - id: 15
+      name: cancel
+      label: cancel
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Other
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: section_photos
+      label: section-photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_video_equipment
+      label: section-video-equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_technology
+      label: section-technology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_technical
+      label: section-technical
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_audio_visual
+      label: section-audio-visual
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_av_status
+      label: section-av-status
+      hint: null
+      type: select_one
+      options:
+      - Not Done
+      - Done
+      required: true

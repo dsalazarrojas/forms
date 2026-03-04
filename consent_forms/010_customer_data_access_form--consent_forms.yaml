@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Data Access Form
+    pages:
+    - id: 1
+      name: customer_data_request
+      label: customer_data_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: data_request_type
+      label: data_request_type
+      hint: null
+      type: select_one
+      options:
+      - Request personal data
+      - Request data held on our systems
+      - Request data held by third party
+      required: false
+    - id: 6
+      name: data_request_frequency
+      label: data_request_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_request
+      label: customer_service_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_signature
+      label: business_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: data_access_request
+      label: data_access_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: data_access_approval
+      label: data_access_approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: data_access_rejection
+      label: data_access_rejection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: date_access
+      label: date_access
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_access
+      label: time_access
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: customer_data_access_agreement
+      label: customer_data_access_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_response
+      label: business_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_acknowledgement
+      label: customer_acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_acknowledgement
+      label: business_acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: data_access_request_notes
+      label: data_access_request_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: customer_signature_image
+      label: customer_signature_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: business_signature_image
+      label: business_signature_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_data_access_date
+      label: customer_data_access_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: customer_data_access_time
+      label: customer_data_access_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: customer_data_access_agreement_date
+      label: customer_data_access_agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false

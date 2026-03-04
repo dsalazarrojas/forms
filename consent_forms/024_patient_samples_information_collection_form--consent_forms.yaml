@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Samples Information Collection Form
+    pages:
+    - id: 1
+      name: patient_samples_information_collection_form_page_1
+      label: Patient Samples Information Collection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: specimen_type
+      label: Specimen Type
+      hint: null
+      type: select_multiple
+      options:
+      - Blood
+      - Tissue
+      - Other
+      required: false
+    - id: 3
+      name: specimen_id
+      label: Specimen Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: specimen_date_received
+      label: Specimen Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: collection_method
+      label: Collection Method
+      hint: null
+      type: select_one
+      options:
+      - Blood Collection
+      - Urine Collection
+      - Fingerprint Collection
+      - Tissue Sample Collection
+      - Other
+      required: false
+    - id: 8
+      name: collection_method_other
+      label: Collection Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: storage_conditions
+      label: Storage Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: specimen_condition
+      label: Specimen Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: condition_other
+      label: Specimen Condition Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

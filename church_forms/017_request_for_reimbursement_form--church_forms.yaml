@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: request_for_reimbursement_form
+    pages:
+    - id: 1
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_range
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expense_info
+      label: Expense Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: expense_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: expense_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expense_receipt
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expense_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      - category4
+      - category5
+      - category6
+      - category7
+      required: false
+    - id: 11
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_receipt
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Coaching Intake Form
+    pages:
+    - id: 1
+      name: client_details
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_background
+      label: -- Business Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: years_experience
+      label: Years of Business Experience
+      hint: How many years?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: business_stage
+      label: Current Business Stage
+      hint: Where are you?
+      type: select_one
+      options:
+      - Planning Stage
+      - Just Starting
+      - Scaling Up
+      - Established
+      - Changing Direction
+      required: true
+    - id: 11
+      name: current_revenue
+      label: Current Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under 50k
+      - 50k - 250k
+      - 250k - 1M
+      - 1M - 5M
+      - 5M+
+      required: false
+    - id: 12
+      name: coaching_goals
+      label: -- Coaching Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: main_goals
+      label: Main Coaching Goals
+      hint: What do you want to achieve?
+      type: select_multiple
+      options:
+      - Business Growth
+      - Leadership Development
+      - Profitability
+      - Team Management
+      - Work-Life Balance
+      - Strategic Planning
+      - Sales Growth
+      required: true
+    - id: 14
+      name: biggest_challenge
+      label: Biggest Current Challenge
+      hint: What is your top challenge?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: obstacles
+      label: Major Obstacles
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Time Management
+      - Financial Constraints
+      - Team Issues
+      - Market Competition
+      - Limited Resources
+      - Lack of Direction
+      required: false
+    - id: 16
+      name: success_metrics
+      label: What Success Looks Like
+      hint: How will you know you succeeded?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: coaching_expectations
+      label: -- Coaching Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: coaching_frequency
+      label: Preferred Coaching Frequency
+      hint: How often would you like sessions?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - As Needed
+      required: true
+    - id: 19
+      name: commitment_level
+      label: Commitment Level
+      hint: How committed are you?
+      type: select_one
+      options:
+      - Highly Committed
+      - Very Committed
+      - Moderately Committed
+      - Need More Info
+      required: true
+    - id: 20
+      name: budget
+      label: Budget for Coaching
+      hint: What are you willing to invest?
+      type: select_one
+      options:
+      - Under 5k
+      - 5k - 15k
+      - 15k - 30k
+      - 30k+
+      - Flexible
+      required: false
+    - id: 21
+      name: timeline
+      label: Expected Timeline
+      hint: How long do you want to work together?
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - Ongoing
+      required: true

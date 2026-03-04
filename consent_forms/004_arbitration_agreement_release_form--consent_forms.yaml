@@ -1,0 +1,137 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arbitration Agreement Release Form
+    pages:
+    - id: 1
+      name: section_party_identification
+      label: -- Party Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: releasing_party_name
+      label: Releasing Party Full Name
+      hint: Individual or entity name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: releasing_party_address
+      label: Releasing Party Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: other_party_name
+      label: Other Party Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_dispute_details
+      label: -- Dispute Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: dispute_nature
+      label: Nature of Dispute
+      hint: Type or category of dispute
+      type: select_one
+      options:
+      - Contract dispute
+      - Employment dispute
+      - Property dispute
+      - Personal injury
+      - Commercial dispute
+      - Other
+      required: true
+    - id: 7
+      name: dispute_description
+      label: Dispute Description
+      hint: Detailed explanation of the dispute
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: dispute_date
+      label: Date Dispute Arose
+      hint: When did the dispute begin?
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: section_release_terms
+      label: -- Release Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: arbitration_agreement
+      label: I agree to binding arbitration
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Conditional
+      required: true
+    - id: 11
+      name: release_confidentiality
+      label: Confidentiality clause agreed
+      hint: All proceedings will remain confidential
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 12
+      name: appeal_waiver
+      label: Waive right to appeal arbitration decision
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 13
+      name: release_date
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: witness_signature_name
+      label: Witness Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: legal_counsel_attestation
+      label: Legal counsel has reviewed this release
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not Applicable
+      required: false

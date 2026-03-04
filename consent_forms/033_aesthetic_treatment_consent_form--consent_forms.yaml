@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetic Treatment Consent Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: treatment_selection_header
+      label: -- Treatment Selection --
+      hint: Select the treatment you are consenting to.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Botox / Dysport
+      - Dermal Fillers
+      - Chemical Peel
+      - Laser Hair Removal
+      - IPL Photofacial
+      - Microneedling
+      required: true
+    - id: 6
+      name: risks_acknowledgment_header
+      label: -- Risks and Complications --
+      hint: Please read carefully.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: risks_acceptance
+      label: Understanding of Risks
+      hint: I understand the potential risks (swelling, bruising, infection, etc.)
+        discussed with my provider.
+      type: select_one
+      options:
+      - I Understand and Accept Risks
+      - Other
+      required: true
+    - id: 8
+      name: no_guarantee
+      label: No Guarantee of Results
+      hint: I understand that results vary and no specific outcome is guaranteed.
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 9
+      name: post_care_agreement
+      label: Post-Care Compliance
+      hint: I agree to follow all post-treatment instructions provided.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 10
+      name: pregnancy_check
+      label: Pregnancy/Nursing Confirmation
+      hint: I confirm I am not pregnant or breastfeeding (if applicable).
+      type: select_one
+      options:
+      - Confirmed
+      - N/A
+      required: true
+    - id: 11
+      name: photo_consent
+      label: Photography Consent
+      hint: Do you consent to before/after photos?
+      type: select_one
+      options:
+      - Yes, for medical record only
+      - Yes, for medical record and marketing
+      - No photos
+      required: true
+    - id: 12
+      name: signature_header
+      label: -- Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: Patient Signature
+      hint: By signing, I consent to the treatment.
+      type: select_one
+      options:
+      - Signed
+      - Other
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

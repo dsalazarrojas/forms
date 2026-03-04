@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Recall Support Request Form
+    pages:
+    - id: 1
+      name: pet_product_recall_support_request_form_1
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_information
+      label: pet_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_recall_details
+      label: product_recall
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: recall_status
+      label: recall_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Complete''}'
+      required: true
+    - id: 5
+      name: recall_category
+      label: recall_category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Toy''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: recall_description
+      label: recall_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_images
+      label: product_images
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: recall_case_details
+      label: recall_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: veterinary_care
+      label: veterinary_care
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: pet_product_recalls_submitted
+      label: recalls_submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 0, ''value'': 0}'
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      required: true
+    - id: 11
+      name: veterinary_clinic_info
+      label: veterinary_clinic
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pet Hospital''}'
+      - '{''label'': ''Animal Center''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cat''}'
+      - '{''label'': ''Dog''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 13
+      name: recall_case_number
+      label: recall_case
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: recall_status_date
+      label: recall_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: recall_status_time
+      label: recall_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: recall_status_note
+      label: recall_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: veterinary_clinician
+      label: veterinarian
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_name
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: contact_street
+      label: contact_street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_city
+      label: contact_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_region
+      label: contact_region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_country
+      label: contact_country
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USA''}'
+      - '{''label'': ''Canada''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 25
+      name: contact_note
+      label: contact_note
+      hint: null
+      type: note
+      options: []
+      required: false

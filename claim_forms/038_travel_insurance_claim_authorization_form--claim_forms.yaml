@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_insurance_claim_authorization_form
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: insurance_company
+      label: insurance_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: Please provide a clear description of the incident, including any supporting
+        documentation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_description
+      label: Claim Description
+      hint: Describe the claim you are submitting
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_number
+      label: policy_number
+      hint: Enter policy number
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: incident_type
+      label: Incident Type
+      hint: Please select the type of incident that occurred
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: Please provide your contact information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: claim_amount
+      label: Claim Amount
+      hint: Enter the total claim amount
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Please upload any supporting documents for the claim
+      type: note
+      options: []
+      required: false

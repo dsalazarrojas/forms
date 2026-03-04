@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Grading Pilot Participation Consent Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Pilot Participation Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Student or instructor name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role in pilot
+      hint: Student Instructor Researcher Other
+      type: select_one
+      options: [Student,Instructor,Researcher,Other]
+      required: true
+    - id: 4
+      name: consent_choice
+      label: Consent to participate
+      hint: Confirm consent for pilot grading
+      type: select_one
+      options: [Agree,Decline]
+      required: true
+    - id: 5
+      name: data_shared
+      label: Types of data shared
+      hint: Which data will be used for grading
+      type: select_multiple
+      options: [Assignment submissions,Metadata,Grades,Feedback]
+      required: true
+    - id: 6
+      name: expected_benefits
+      label: Expected benefits
+      hint: What participants may gain from the pilot
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: withdrawal_process
+      label: Withdrawal process
+      hint: How participants can withdraw from the pilot
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email for questions
+      hint: Provide an email for pilot inquiries
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: consent_date
+      label: Date of consent
+      hint: Use YYYY-MM-DD
+      type: date
+      options: []
+      required: true

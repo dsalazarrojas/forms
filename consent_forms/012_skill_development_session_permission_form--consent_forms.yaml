@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Development Session Permission Form
+    pages:
+    - id: 1
+      name: participant_information_form
+      label: Participant Information Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_details_form
+      label: Participant Details Form
+      hint: Please enter participant details
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_details_form
+      label: Session Details Form
+      hint: Please enter session details
+      type: text
+      options: []
+      required: false

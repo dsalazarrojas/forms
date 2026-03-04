@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chargeback Refund Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Chargeback Refund Request --
+      hint: Capture details for disputed transactions and refunds
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: requester name
+      hint: name of person requesting refund
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact email
+      hint: email for case updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: transaction_id
+      label: transaction id
+      hint: original transaction reference
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: transaction_date
+      label: transaction date
+      hint: date of the original transaction
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: amount_disputed
+      label: amount disputed
+      hint: total amount to refund
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_dispute
+      label: reason for dispute
+      hint: explain why the charge should be refunded
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supporting_documents
+      label: supporting documents
+      hint: references to receipts or evidence
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_resolution
+      label: preferred resolution
+      hint: how you would like this resolved
+      type: select_one
+      options:
+      - Full refund
+      - Partial refund
+      - Credit
+      - Other
+      required: true
+    - id: 10
+      name: declaration_signature
+      label: declaration signature
+      hint: typed name confirms accuracy of information
+      type: text
+      options: []
+      required: true

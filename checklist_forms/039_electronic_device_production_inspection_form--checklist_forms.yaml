@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Device Production Inspection Form
+    pages:
+    - id: 1
+      name: production_details
+      label: Production Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Passed'', ''value'': ''passed''}'
+      - '{''label'': ''Failed'', ''value'': ''failed''}'
+      required: true
+    - id: 3
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: production_line
+      label: Production Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Passed'', ''value'': ''passed''}'
+      - '{''label'': ''Failed'', ''value'': ''failed''}'
+      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      required: true
+    - id: 8
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: production_bottlenecks
+      label: Production Bottlenecks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Material'', ''value'': ''material''}'
+      - '{''label'': ''Equipment'', ''value'': ''equipment''}'
+      - '{''label'': ''Labor'', ''value'': ''labor''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 10
+      name: quality_issues
+      label: Quality Issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Defective'', ''value'': ''defective''}'
+      - '{''label'': ''Non-Defective'', ''value'': ''non_defective''}'
+      - '{''label'': ''Cosmetic'', ''value'': ''cosmetic''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 11
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Human Error'', ''value'': ''human_error''}'
+      - '{''label'': ''Equipment Failure'', ''value'': ''equipment_failure''}'
+      - '{''label'': ''Material Defect'', ''value'': ''material_defect''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 12
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Repair'', ''value'': ''repair''}'
+      - '{''label'': ''Replace'', ''value'': ''replace''}'
+      - '{''label'': ''Re-process'', ''value'': ''reprocess''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 13
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

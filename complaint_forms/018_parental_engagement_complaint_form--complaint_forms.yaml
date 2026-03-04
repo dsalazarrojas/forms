@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Engagement Complaint Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Parental Engagement Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint
+      label: complaint
+      hint: Describe your concern in as much detail as possible
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attachments
+      label: attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,311 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Chiropractic Intake Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: intake_intro
+      label: Animal Chiropractic Care Intake Form
+      hint: This form collects information for chiropractic evaluation and treatment
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: referral_source
+      label: Were You Referred by a Veterinarian
+      hint: Referral status
+      type: select_one
+      options:
+      - Yes - veterinarian referral
+      - Yes - other practitioner
+      - No - self-referred
+      required: true
+    - id: 7
+      name: veterinarian_name
+      label: Primary Veterinarian Name
+      hint: Vet name and clinic
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: Clinic phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pet_information
+      label: Pet Information
+      hint: Patient details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: pet_name
+      label: Pet's Name
+      hint: What do you call your pet
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Other
+      required: true
+    - id: 12
+      name: pet_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: pet_age
+      label: Age
+      hint: Years and months
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: pet_sex
+      label: Sex
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 15
+      name: pet_weight
+      label: Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reason_for_visit
+      label: Primary Reason for Seeking Chiropractic Care
+      hint: Main complaint
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: symptom_history
+      label: How Long Has This Been an Issue
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - More than 6 months
+      - Chronic
+      required: true
+    - id: 18
+      name: symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lameness
+      - Stiffness
+      - Decreased activity
+      - Pain when touched
+      - Behavioral changes
+      - Performance issues
+      - Posture problems
+      - Gait abnormalities
+      - Muscle spasms
+      - None visible
+      required: true
+    - id: 19
+      name: symptom_severity
+      label: How Severe Are the Symptoms
+      hint: Severity level
+      type: select_one
+      options:
+      - Mild - barely noticeable
+      - Moderate - affects activity
+      - Severe - significant limitation
+      - Very severe - constant discomfort
+      required: true
+    - id: 20
+      name: symptom_triggers
+      label: What Makes the Symptoms Worse
+      hint: Aggravating factors
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: symptom_relief
+      label: What Provides Relief
+      hint: Alleviating factors
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_history
+      label: Relevant Medical History
+      hint: Past injuries, surgeries, conditions
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: current_medications
+      label: Current Medications or Supplements
+      hint: List all
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_chiropractic
+      label: Has Your Pet Received Chiropractic Care Before
+      hint: Previous care
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once or twice
+      - No - first time
+      required: true
+    - id: 25
+      name: previous_response
+      label: How Did Your Pet Respond to Previous Care
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: activity_level
+      label: Current Activity Level
+      hint: Exercise routine
+      type: select_one
+      options:
+      - Very active - working or competing
+      - Active - regular exercise
+      - Moderately active
+      - Sedentary
+      required: true
+    - id: 27
+      name: activity_type
+      label: Type of Activities
+      hint: Sports, work, etc.
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: living_environment
+      label: Living Environment
+      hint: Home setup
+      type: select_one
+      options:
+      - House with yard
+      - House without yard
+      - Apartment
+      - Barn or stable
+      - Other
+      required: false
+    - id: 29
+      name: flooring_type
+      label: Primary Flooring in Home
+      hint: Surface types
+      type: select_multiple
+      options:
+      - Carpet
+      - Hardwood
+      - Tile
+      - Laminate
+      - Concrete
+      - Grass or dirt
+      required: false
+    - id: 30
+      name: consent_treatment
+      label: I Consent to Chiropractic Evaluation and Treatment
+      hint: Consent
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 31
+      name: risks_understood
+      label: I Understand There Are Risks Associated with Chiropractic Care
+      hint: Risk acknowledgment
+      type: select_one
+      options:
+      - Yes - I understand
+      - false
+      required: true
+    - id: 32
+      name: vet_authorization
+      label: I Authorize Communication with My Veterinarian
+      hint: Release of information
+      type: select_one
+      options:
+      - Yes - full authorization
+      - Yes - for specific issues only
+      - false
+      required: true
+    - id: 33
+      name: goals
+      label: What Are Your Goals for Chiropractic Care
+      hint: Expected outcomes
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: court-declaration-form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{0: ''Tool 1''}'
+      - '{1: ''Tool 2''}'
+      - '{2: ''Tool 3''}'
+      required: false
+    - id: 3
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Consent Forms''}'
+      - '{1: ''Declaration Forms''}'
+      required: true
+    - id: 7
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

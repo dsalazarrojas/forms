@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: DLP Incident Response Checklist
+    pages:
+    - id: 1
+      name: incident_description
+      label: What happened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_classification
+      label: Classification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      - '{''label'': ''C''}'
+      required: false
+    - id: 3
+      name: incident_classification_other
+      label: If other please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      - '{''label'': ''C''}'
+      required: false
+    - id: 5
+      name: incident_type_other
+      label: If other please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_description_details
+      label: Incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 11
+      name: incident_impact_other
+      label: If other please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_severity
+      label: Severity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 13
+      name: incident_severity_other
+      label: If other please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_responder
+      label: Responder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_responder
+      label: Responder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_responder_email
+      label: Responder email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: incident_responder_phone
+      label: Responder phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_responder_note
+      label: Responder notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: incident_responder_note
+      label: Responder notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_responder_note_2
+      label: Responder notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: incident_responder_note_2
+      label: Responder notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_responder_note_3
+      label: Responder notes 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: incident_responder_note_3
+      label: Responder notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false

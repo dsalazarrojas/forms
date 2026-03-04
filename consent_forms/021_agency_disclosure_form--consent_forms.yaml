@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agency Disclosure Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Real Estate Agency Disclosure --
+      hint: Disclosure of agency relationships in real estate transactions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: licensee_name
+      label: Licensee Name
+      hint: Name of the real estate professional
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: brokerage_name
+      label: Real Estate Brokerage Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship_header
+      label: -- Disclosure of Relationship --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: brokerage_role
+      label: Brokerage Role - Seller's Agent, Buyer's Agent, Dual Agent, etc.
+      hint: select the capacity in which the broker is acting
+      type: select_one
+      options:
+      - Seller Agency
+      - Buyer Agency
+      - Dual Agency (with informed consent)
+      - Designated Agency
+      - Transaction Coordinator (Non-Agency)
+      required: true
+    - id: 7
+      name: duties_statement
+      label: The licensee must perform their duties with honesty, fair dealing, and reasonable care.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: acknowledged_duties
+      label: Acknowledged statutory duties - Loyalty, Confidentiality, Disclosure
+      hint: select the duties that were explained to you
+      type: select_multiple
+      options:
+      - Loyalty and Obedience
+      - Confidentiality
+      - Disclosure of Material Facts
+      - Accounting for Funds
+      - Reasonable Skill and Care
+      required: true
+    - id: 9
+      name: signature_acknowledgment
+      label: By signing, I acknowledge that I have received a copy of this disclosure.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: disclosure_date
+      label: Date of Disclosure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: property_address
+      label: Property Address - if applicable
+      hint: null
+      type: text
+      options: []
+      required: false

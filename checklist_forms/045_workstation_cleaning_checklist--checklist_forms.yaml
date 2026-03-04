@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workstation Cleaning Checklist
+    pages:
+    - id: 1
+      name: workstation_cleaning_checklist
+      label: Cleaning Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: workstation_cleaning_checklist_task_1
+      label: Wipe down all surfaces
+      hint: Wipe down all surfaces with a disinfectant solution.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workstation_cleaning_checklist_task_2
+      label: Sweep and mop floors
+      hint: Sweep and mop all floors to remove dirt and dust.
+      type: select_one
+      options:
+      - Fridges and countertops
+      - Floors
+      - Trash cans
+      required: false
+    - id: 4
+      name: workstation_cleaning_checklist_dust_boards
+      label: Clean dust from all boards
+      hint: Clean dust from all boards, including computer monitors, keyboards, and
+        other electronic devices.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workstation_cleaning_checklist_disinfectant
+      label: Disinfect all high-touch areas
+      hint: Disinfect all high-touch areas with a disinfectant solution.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: workstation_cleaning_checklist_dust_containers
+      label: Dust containers
+      hint: Dust containers, including drawers, cabinets, and shelves.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workstation_cleaning_checklist_cleaner
+      label: Use a cleaning solution
+      hint: Use the recommended cleaning solution for the specific area being cleaned.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: workstation_cleaning_checklist_cleaned
+      label: Is the area clean?
+      hint: Enter 'yes'
+      type: text
+      options: []
+      required: false

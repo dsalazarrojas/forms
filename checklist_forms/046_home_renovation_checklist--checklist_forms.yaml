@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Renovation Checklist
+    pages:
+    - id: 1
+      name: contractor_info
+      label: Contractor information
+      hint: null
+      type: select_multiple
+      options:
+      - Contractor A
+      - Contractor B
+      - Contractor C
+      required: false
+    - id: 2
+      name: project_details
+      label: Project details
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: renovation_plan
+      label: Renovation plan
+      hint: Include the renovation plan and timeline.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: budget_info
+      label: Budget
+      hint: Enter your budget details.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_numbers
+      label: Phone numbers
+      hint: Enter multiple phone numbers separated by commas.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start date
+      hint: Enter the start date of the project.
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contractor_notes
+      label: Contractor notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: Review status
+      hint: null
+      type: select_one
+      options:
+      - In review
+      - Approved
+      - Rejected
+      required: false
+    - id: 12
+      name: review_comments
+      label: Review comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: architect_info
+      label: Architect info
+      hint: Enter your architect's contact info.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_manager_info
+      label: Project manager info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_info
+      label: Client info
+      hint: Enter client's contact info.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_status
+      label: Project status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: false
+    - id: 17
+      name: project_notes
+      label: Project notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contractor_status
+      label: Contractor status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Not Started
+      required: false
+    - id: 19
+      name: contract_notes
+      label: Contract notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional notes
+      hint: Enter any additional notes.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contractor_additional_notes
+      label: Contractor additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_info
+      label: Reviewer info
+      hint: Enter reviewer's contact info.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_date
+      label: Review date
+      hint: Enter the review date.
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reviewed_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_comments
+      label: Review comments
+      hint: Enter your review comments.
+      type: text
+      options: []
+      required: false

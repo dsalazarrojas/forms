@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Mastermind Agreement Renewal
+    pages:
+    - id: 1
+      name: participant_confirmations
+      label: participant_confirmations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: term_preferences
+      label: term_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: e_signature
+      label: e_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_confirmations_2
+      label: participant_confirmations_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: term_preferences_2
+      label: term_preferences_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

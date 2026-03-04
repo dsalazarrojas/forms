@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Service Theme Selection
+    pages:
+    - id: 1
+      name: service_selection
+      label: Home Service Theme Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_preferences
+      label: Service Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_service
+      label: Preferred Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: home_style
+      label: Home Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

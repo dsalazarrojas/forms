@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Education Policy Workshop Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_choices
+      label: Session Choices
+      hint: Select multiple sessions you are interested in
+      type: select_multiple
+      options:
+      - Session A
+      - Session B
+      - Session C
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: false
+    - id: 4
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Faculty Member
+      - Student
+      required: false

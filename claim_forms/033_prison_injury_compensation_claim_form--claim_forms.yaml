@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prison Injury Compensation Claim Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: injury_details
+      label: Injury Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_information
+      label: Follow Up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claimant
+      label: Claimant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claimant_contact
+      label: Claimant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claimant_relationship
+      label: Relationship to Claimant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporter_signature
+      label: Incident Reporter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reporter_name
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reporter_title
+      label: Incident Reporter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reporter_contact
+      label: Incident Reporter Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_reporter_relationship
+      label: Relationship to Claimant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_reporter_supervisor
+      label: Incident Reporter Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_reporter_supervisor_title
+      label: Incident Reporter Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_reporter_supervisor_contact
+      label: Incident Reporter Supervisor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_reporter_supervisor_relationship
+      label: Relationship to Claimant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_reporter_notes
+      label: Incident Reporter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claimant_injuries
+      label: Claimant Injuries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Minor Injuries'', ''value'': ''minor_injuries''}'
+      - '{''label'': ''Serious Injuries'', ''value'': ''serious_injuries''}'
+      - '{''label'': ''Both Minor and Serious Injuries'', ''value'': ''both_injuries''}'
+      required: false
+    - id: 25
+      name: claimant_injuries_other
+      label: Claimant Injuries Other
+      hint: null
+      type: text
+      options: []
+      required: false

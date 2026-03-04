@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_digital_resources_agreement
+    pages:
+    - id: 1
+      name: company
+      label: Company Name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Alpha Group''}'
+      - '{''label'': ''Beta Group''}'
+      required: true
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Software Developer''}'
+      - '{''label'': ''IT Manager''}'
+      - '{''label'': ''HR Coordinator''}'
+      required: true
+    - id: 3
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Laptop''}'
+      - '{''label'': ''Smartphone''}'
+      - '{''label'': ''Tablet''}'
+      required: false
+    - id: 4
+      name: device_id
+      label: Device ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assigned_resource
+      label: Assigned Resource
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: resource_uses_prophets
+      label: Resource Uses Prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''HQ''}'
+      - '{''label'': ''Branch Office''}'
+      required: false
+    - id: 10
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Alpha Team''}'
+      - '{''label'': ''Beta Team''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager_phone
+      label: Manager's Phone
+      hint: null
+      type: text
+      options: []
+      required: false

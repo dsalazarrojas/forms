@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disinfection Task Log
+    pages:
+    - id: 1
+      name: disinfection_task_log_form
+      label: Disinfection Task Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: disinfection_type
+      label: Disinfection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: chemicals_used
+      label: Chemicals Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: staff_details
+      label: Staff Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signatures
+      label: Signatures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: staff_position
+      label: Staff Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location_map
+      label: Location Map
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_2
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_2
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

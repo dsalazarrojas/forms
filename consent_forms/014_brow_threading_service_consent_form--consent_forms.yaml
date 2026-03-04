@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Threading Service Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Brow Threading Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: threading_experience
+      label: Have you had threading before
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, first time
+      required: true
+    - id: 8
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 9
+      name: skin_conditions
+      label: Current skin conditions
+      hint: Rash, acne, sunburn, open wounds, etc
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_allergies
+      label: Known product or chemical allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pain_sensitivity
+      label: Pain Sensitivity Level
+      hint: How do you typically respond to minor discomfort
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      required: true
+    - id: 12
+      name: medications
+      label: Any medications affecting skin
+      hint: Especially blood thinners or antibiotics
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recent_treatments
+      label: Recent facial treatments or procedures
+      hint: Last 2 weeks
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pregnancy
+      label: Are you currently pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, nursing
+      - false
+      required: true
+    - id: 15
+      name: desired_shape
+      label: Your desired brow shape
+      hint: Description or preference
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent
+      label: I consent to the brow threading service
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 17
+      name: waiver
+      label: I understand and accept all risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

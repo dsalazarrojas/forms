@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smoke Detector Inspection Form
+    pages:
+    - id: 1
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: number_of_floors
+      label: Number of Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fire_safety_manager
+      label: Fire Safety Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: smoke_detector_type
+      label: Smoke Detector Type
+      hint: null
+      type: select_one
+      options:
+      - Fire Alarm
+      - Heat Detector
+      - Photoelectric
+      required: false
+    - id: 5
+      name: is_smoke_detector_present
+      label: Is Smoke Detector Present
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: smoke_detector_testing_date
+      label: Smoke Detector Testing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: smoke_detector_status
+      label: Smoke Detector Status
+      hint: null
+      type: select_one
+      options:
+      - Functioning
+      - Faulty
+      - Missing
+      required: false
+    - id: 8
+      name: maintenance_record
+      label: Maintenance Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

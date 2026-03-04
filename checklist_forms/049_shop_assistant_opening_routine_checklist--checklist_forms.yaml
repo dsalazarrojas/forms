@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shop Assistant Opening Routine Checklist
+    pages:
+    - id: 1
+      name: pre_opening_tasks
+      label: Pre-opening_tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storefront_cleaning
+      label: storefront_cleaning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: display_setup
+      label: display_setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inventory_verification
+      label: inventory_verification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff_scheduling
+      label: staff_scheduling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: stockroom_organization
+      label: stockroom_organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: equipment_checking
+      label: equipment_checking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: security_checking
+      label: security_checking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_safety
+      label: customer_safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: shop_financials
+      label: shop_financials
+      hint: null
+      type: note
+      options: []
+      required: false

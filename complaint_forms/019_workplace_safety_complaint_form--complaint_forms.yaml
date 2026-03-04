@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety Complaint Form
+    pages:
+    - id: 1
+      name: workplace_safety_complaint_form
+      label: Workplace Safety Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: complaint_description
+      label: Description of Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 6
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: workplace_location
+      label: Workplace Location
+      hint: null
+      type: select_multiple
+      options:
+      - Head Office
+      - Branch Office
+      - Home Office
+      required: true
+    - id: 8
+      name: complaint_category
+      label: Category of Complaint
+      hint: null
+      type: select_one
+      options:
+      - General Concerns
+      - Near Miss
+      - Incident Report
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitted_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      required: true
+    - id: 14
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: resolved_by
+      label: Resolved By
+      hint: null
+      type: select_one
+      options:
+      - John Smith
+      - Jane Doe
+      required: false
+    - id: 16
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Not Resolved
+      - Resolved
+      required: true
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: complaint_type
+      label: Type of Complaint
+      hint: null
+      type: select_one
+      options:
+      - Safety Issue
+      - Security Issue
+      - Other
+      required: true
+    - id: 24
+      name: reported_by_department
+      label: Reported By Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Operations
+      - Other
+      required: true
+    - id: 25
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - No Follow-up Required
+      - Follow-up Required
+      required: true

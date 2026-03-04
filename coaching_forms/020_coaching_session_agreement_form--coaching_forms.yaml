@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Session Agreement Form
+    pages:
+    - id: 1
+      name: section_parties
+      label: -- Parties Involved --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_session_terms
+      label: -- Session Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_frequency
+      label: Session Frequency
+      hint: How often will sessions occur?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Custom schedule
+      required: true
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: Length of each session in minutes
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: session_format
+      label: Session Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone
+      - Video call
+      - Flexible
+      required: true
+    - id: 11
+      name: total_sessions
+      label: Total Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_objectives
+      label: -- Coaching Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: coaching_objectives
+      label: Coaching Objectives
+      hint: What will be accomplished?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: primary_focus_areas
+      label: Primary Focus Areas
+      hint: Key areas to address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What results do you expect?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_financial
+      label: -- Financial Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: coaching_fee
+      label: Coaching Fee
+      hint: Per session or total package
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: When and how payment is due
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_policies
+      label: -- Policies and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: cancellation_notice
+      label: Cancellation Notice Required
+      hint: Hours notice needed
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: refund_policy
+      label: Refund Policy
+      hint: Describe refund terms if applicable
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: confidentiality_agreement
+      label: I agree to maintain client confidentiality
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: client_commitment
+      label: I commit to active participation in coaching
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 24
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reception Area Security Checklist
+    pages:
+    - id: 1
+      name: reception_area_security_checklist_form
+      label: Security Checklist
+      hint: Please answer the questions below
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reception_area_security_checklist_form_security_assessment
+      label: Security Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reception_area_security_checklist_form_risk_level
+      label: Risk Level
+      hint: Select the level of risk for this assessment
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: reception_area_security_checklist_form_risk_level_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reception_area_security_checklist_form_risk_level_description_2
+      label: Risk Description
+      hint: Provide a detailed description of the risk
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reception_area_security_checklist_form_risk_level_description_3
+      label: Risk Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reception_area_security_checklist_form_risk_level_description_4
+      label: Risk Description 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reception_area_security_checklist_form_security_risk_level_id
+      label: Security Risk ID
+      hint: Enter the security risk ID if applicable
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reception_area_security_checklist_form_security_risk_id
+      label: Security Risk ID
+      hint: Enter the security risk ID if applicable
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reception_area_security_checklist_form_comments
+      label: Comments
+      hint: Any additional comments about this assessment
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reception_area_security_checklist_form_comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reception_area_security_checklist_form_comments_3
+      label: Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reception_area_security_checklist_form_comments_4
+      label: Comments 4
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: nursing certification audit checklist
+    pages:
+    - id: 1
+      name: credential_audit
+      label: Credential Audit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: nurse_id
+      label: Nurse ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cert_status
+      label: Cert Status
+      hint: Active/Inactive
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: cert_type
+      label: Cert Type
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Life Support
+      - Advanced Cardiovascular Life Support
+      - Advanced Cardiac Life Support
+      required: true
+    - id: 5
+      name: cert_date_issue
+      label: Cert Date Issue
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: cert_date_expiry
+      label: Cert Date Expiry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: cert_number
+      label: Cert Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cert_source
+      label: Cert Source
+      hint: null
+      type: select_one
+      options:
+      - State Nursing Board
+      - American Heart Association
+      - American Medical Association
+      required: false
+    - id: 9
+      name: cert_action
+      label: Cert Action
+      hint: null
+      type: select_one
+      options:
+      - Verify
+      - Update
+      - Cancel
+      required: false
+    - id: 10
+      name: cert_followup
+      label: Cert Follow-up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: nurse_name
+      label: Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cert_type_other
+      label: Other Cert Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cert_date_issue_note
+      label: Cert Date Issue Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: cert_date_expiry_note
+      label: Cert Date Expiry Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: cert_other_note
+      label: Other Note
+      hint: null
+      type: note
+      options: []
+      required: true

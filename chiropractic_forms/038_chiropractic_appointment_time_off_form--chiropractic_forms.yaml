@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Appointment Time Off Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient requesting time off
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_email
+      label: Patient Email
+      hint: For appointment confirmation and messages
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: Date of scheduled appointment to reschedule or cancel
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_off_reason
+      label: Reason for Time Off
+      hint: Brief explanation for cancellation or reschedule
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prefer_reschedule
+      label: Prefer Reschedule or Cancel
+      hint: Choose preferred action
+      type: select_one
+      options:
+      - Reschedule
+      - Cancel
+      required: true
+    - id: 6
+      name: preferred_new_date
+      label: Preferred New Date
+      hint: If rescheduling, provide preferred dates
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Number for clinic to call regarding changes
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for the clinic
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multi Family Housing Summit Registration Form
+    pages:
+    - id: 1
+      name: conference_registration_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conference_dates
+      label: Conference Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 09/01/2023
+      - 09/02/2023
+      - 09/03/2023
+      required: false
+    - id: 6
+      name: conference_attending_reason
+      label: Reason for Attending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: conference_registration_form_8
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Website
+      - Other
+      required: false
+    - id: 9
+      name: conference_registration_form_9
+      label: How will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-Person
+      - Both
+      required: false
+    - id: 10
+      name: conference_registration_form_10
+      label: Which format will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Hybrid
+      - Online
+      required: false
+    - id: 11
+      name: conference_registration_form_11
+      label: How many guests will be attending?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: conference_registration_form_12
+      label: What is your job title?
+      hint: null
+      type: text
+      options: []
+      required: false

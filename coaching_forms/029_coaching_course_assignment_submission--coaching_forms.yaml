@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Course Assignment Submission
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: Your student identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: Name of the coaching course
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_code
+      label: Course Code
+      hint: Course identifier code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: instructor_name
+      label: Instructor or Coach Name
+      hint: Name of your instructor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_title
+      label: Assignment Title
+      hint: Name or title of the assignment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_number
+      label: Assignment Number
+      hint: Which assignment is this
+      type: select_one
+      options:
+      - Assignment 1
+      - Assignment 2
+      - Assignment 3
+      - Assignment 4
+      - Assignment 5
+      - Final Project
+      - Other
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: Date you are submitting
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: due_date
+      label: Assignment Due Date
+      hint: When was it due
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submission_status
+      label: Submission Status
+      hint: Is this on time
+      type: select_one
+      options:
+      - On Time
+      - Late
+      - Extended Deadline
+      required: true
+    - id: 13
+      name: word_count
+      label: Word Count
+      hint: Total words in assignment
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assignment_description
+      label: Assignment Description
+      hint: Brief summary of your submission
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: learning_objectives
+      label: Learning Objectives Addressed
+      hint: What did you learn from this
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What difficulties did you encounter
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: key_takeaways
+      label: Key Takeaways
+      hint: What are your main learnings
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: self_rating
+      label: Self-Rating of Work
+      hint: How would you rate your work
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 19
+      name: time_spent
+      label: Time Spent on Assignment
+      hint: How many hours did you spend
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-5 hours
+      - 5-10 hours
+      - 10-15 hours
+      - Over 15 hours
+      required: false
+    - id: 20
+      name: resources_used
+      label: Resources Used
+      hint: What resources helped you
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: collaboration
+      label: Did You Collaborate With Others
+      hint: Did you work with classmates
+      type: select_one
+      options:
+      - No Individual Work
+      - Yes Discussed Ideas
+      - Yes Worked Together
+      required: true
+    - id: 22
+      name: collaboration_details
+      label: Collaboration Details
+      hint: Describe collaboration if applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: original_work
+      label: I Confirm This Is My Original Work
+      hint: You confirm work is your own
+      type: select_one
+      options:
+      - Yes I Confirm
+      - false
+      required: true
+    - id: 24
+      name: citations_complete
+      label: All Citations Are Complete
+      hint: You have properly cited sources
+      type: select_one
+      options:
+      - Yes Complete
+      - Not Applicable
+      required: true
+    - id: 25
+      name: file_format
+      label: File Format Submitted
+      hint: What format is your file
+      type: select_one
+      options:
+      - PDF
+      - Word Document
+      - Google Doc
+      - Text File
+      - Other
+      required: true
+    - id: 26
+      name: file_name
+      label: File Name
+      hint: Name of your submitted file
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments for Instructor
+      hint: Any notes for your coach
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: feedback_preference
+      label: Feedback Preference
+      hint: How do you want feedback
+      type: select_one
+      options:
+      - Written Comments
+      - Video Feedback
+      - Phone Call
+      - In Person Review
+      required: false

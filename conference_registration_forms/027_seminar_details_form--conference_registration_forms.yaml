@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Details Form
+    pages:
+    - id: 1
+      name: seminar_details_form
+      label: Seminar Title
+      hint: Title of the seminar
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seminar_start_date
+      label: Seminar Start Date
+      hint: Start date of the seminar
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: seminar_end_date
+      label: Seminar End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: seminar_location
+      label: Seminar Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seminar_description
+      label: Seminar Description
+      hint: Description of the seminar
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seminar_capacity
+      label: Seminar Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: seminar_capacity_max
+      label: Maximum Capacity
+      hint: Maximum capacity of the seminar
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: seminar_capacity_min
+      label: Minimum Capacity
+      hint: Minimum capacity of the seminar
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: seminar_capacity_step
+      label: Seminar Capacity Step
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: seminar_capacity_increment
+      label: Seminar Capacity Increment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: seminar_price
+      label: Seminar Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: seminar_price_max
+      label: Maximum Price
+      hint: Maximum price of the seminar
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: seminar_price_min
+      label: Minimum Price
+      hint: Minimum price of the seminar
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: seminar_price_step
+      label: Seminar Price Step
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: seminar_price_increment
+      label: Seminar Price Increment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: seminar_status
+      label: Seminar Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Cancelled
+      required: true
+    - id: 17
+      name: seminar_status_reason
+      label: Seminar Status Reason
+      hint: Reason for seminar status
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: seminar_start_time
+      label: Seminar Start Time
+      hint: Start time of the seminar
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: seminar_end_time
+      label: Seminar End Time
+      hint: End time of the seminar
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: seminar_organizer
+      label: Seminar Organizer
+      hint: Organizer of the seminar
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: seminar_organizer_email
+      label: Seminar Organizer Email
+      hint: Email of the seminar organizer
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: seminar_organizer_phone
+      label: Seminar Organizer Phone
+      hint: Phone number of the seminar organizer
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: seminar_participants
+      label: Seminar Participants
+      hint: Participants of the seminar
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: seminar_notes
+      label: Seminar Notes
+      hint: Notes for the seminar
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: seminar_file
+      label: Seminar File
+      hint: File uploaded for the seminar
+      type: text
+      options: []
+      required: false

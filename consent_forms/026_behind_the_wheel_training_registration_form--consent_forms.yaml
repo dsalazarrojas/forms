@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behind The Wheel Training Registration Form
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_license
+      label: -- Driver's License Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: license_status
+      label: Current Driver's License Status
+      hint: null
+      type: select_one
+      options:
+      - Learner's Permit
+      - No License
+      - Suspended
+      - Other
+      required: true
+    - id: 13
+      name: permit_number
+      label: Permit/License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_experience
+      label: -- Driving Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: prior_instruction
+      label: Prior Driving Instruction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: hours_experience
+      label: Estimated Hours of Driving Experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1-10 hours
+      - 10-50 hours
+      - 50-100 hours
+      - More than 100 hours
+      required: false
+    - id: 17
+      name: vehicle_type
+      label: Preferred Vehicle Type for Training
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - Either
+      required: true
+    - id: 18
+      name: section_training
+      label: -- Training Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: training_date
+      label: Preferred Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: training_time
+      label: Preferred Training Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (6 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 9 PM)
+      - Flexible
+      required: true
+    - id: 21
+      name: num_sessions
+      label: Number of Sessions Needed
+      hint: null
+      type: select_one
+      options:
+      - 1 Session
+      - 2 Sessions
+      - 3 Sessions
+      - 4 Sessions
+      - 5+ Sessions
+      required: true
+    - id: 22
+      name: session_length
+      label: Preferred Session Length
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      required: true
+    - id: 23
+      name: section_consent
+      label: -- Consent and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: rules_understand
+      label: I understand and accept the training rules
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: liability_consent
+      label: I understand liability and safety requirements
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 26
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

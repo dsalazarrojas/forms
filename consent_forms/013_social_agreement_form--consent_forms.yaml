@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Agreement Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participants
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event
+      hint: The event name and date must be filled.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agreements
+      label: Agreements
+      hint: List all agreements and expectations below
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: expectations
+      label: Expectations
+      hint: List all expectations below
+      type: select_multiple
+      options:
+      - Expectation 1
+      - Expectation 2
+      - Expectation 3
+      required: true
+    - id: 5
+      name: communication_channels
+      label: Communication Channels
+      hint: How would you like to be contacted?
+      type: select_one
+      options:
+      - SMS
+      - Email
+      - Phone
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter the name of a contact person.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_phone
+      label: Phone
+      hint: Enter the contact person's phone number.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: emergency_address
+      label: Address
+      hint: Enter the address of the contact person.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_comments
+      label: Event Comments
+      hint: null
+      type: note
+      options: []
+      required: false

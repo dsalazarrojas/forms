@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_insurance_claim_records_release_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_access
+      label: Medical Record Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 8
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_access
+      label: Reason For Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_facility_name
+      label: Medical Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: authorization_time
+      label: Authorization Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: authorization_signature
+      label: Authorized Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_record_release_type
+      label: Medical Record Release Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''full'', ''label'': ''Full''}'
+      - '{''value'': ''partial'', ''label'': ''Partial''}'
+      required: true
+    - id: 23
+      name: medical_record_release_date
+      label: Medical Record Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: medical_record_release_time
+      label: Medical Record Release Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

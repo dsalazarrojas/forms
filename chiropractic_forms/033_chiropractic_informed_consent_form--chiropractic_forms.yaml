@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Informed Consent Form
+    pages:
+      - id: 1
+        name: patient_acknowledgment
+        label: -- Patient Acknowledgment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: patient_date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: form_date
+        label: Form Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: chiropractor_name
+        label: Chiropractor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: treatment_understanding
+        label: -- Understanding of Treatment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: understand_treatment
+        label: I understand the treatment plan
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Somewhat"
+        required: true
+      - id: 8
+        name: risks_benefits_discussion
+        label: Risks and Benefits Were Discussed
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 9
+        name: risks_understood
+        label: I understand the potential risks
+        hint: Soreness, inflammation, injury
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 10
+        name: benefits_understood
+        label: I understand the potential benefits
+        hint: Pain relief, improved mobility
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 11
+        name: consent_acknowledgment
+        label: -- Consent Acknowledgment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: voluntary_participation
+        label: I voluntarily agree to treatment
+        hint: No one is forcing me
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 13
+        name: alternative_options
+        label: Alternative treatments were explained
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 14
+        name: questions_answered
+        label: All my questions were answered
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "No questions to ask"
+        required: true
+      - id: 15
+        name: risk_acknowledgment
+        label: -- Risk Acknowledgment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: stroke_risk
+        label: I understand the very rare risk of stroke
+        hint: With cervical manipulation
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "N/A"
+        required: false
+      - id: 17
+        name: nerve_damage_risk
+        label: I understand potential nerve damage risk
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "N/A"
+        required: false
+      - id: 18
+        name: muscle_soreness_risk
+        label: I understand I may experience muscle soreness
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 19
+        name: medical_conditions
+        label: -- Medical Conditions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: disclosed_conditions
+        label: I have disclosed all relevant medical conditions
+        hint: Pregnancy, osteoporosis, etc.
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 21
+        name: medications_disclosed
+        label: I have disclosed all current medications
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 22
+        name: release_and_waiver
+        label: -- Release and Waiver --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: release_agreement
+        label: I release the chiropractor from liability
+        hint: For inherent risks of treatment
+        type: select_one
+        options:
+          - "I agree"
+          - "I do not agree"
+        required: true
+      - id: 24
+        name: signature_consent
+        label: By signing, I confirm my informed consent
+        hint: null
+        type: select_one
+        options:
+          - "I consent"
+          - "I do not consent"
+        required: true
+      - id: 25
+        name: additional_notes
+        label: Additional Notes or Questions
+        hint: null
+        type: text
+        options: []
+        required: false

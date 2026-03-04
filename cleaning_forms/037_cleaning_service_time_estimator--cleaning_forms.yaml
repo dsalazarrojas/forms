@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Time Estimator
+    pages:
+    - id: 1
+      name: section_header_property
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: What type of property?
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condo
+      - Office
+      - Commercial Space
+      - Medical Facility
+      - Other
+      required: true
+    - id: 3
+      name: square_footage
+      label: Property Square Footage
+      hint: Approximate total square feet
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: number_bedrooms
+      label: Number of Bedrooms
+      hint: For residential properties
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: number_bathrooms
+      label: Number of Bathrooms
+      hint: For residential properties
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_stories
+      label: Number of Stories/Levels
+      hint: Single story, multi-story, etc.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: section_header_service
+      label: -- Service Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Type of Cleaning Service
+      hint: What service is needed?
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Move-In/Move-Out
+      - Window Cleaning Only
+      - Carpet Cleaning Only
+      - Post-Construction
+      - Combined Services
+      required: true
+    - id: 9
+      name: section_header_conditions
+      label: -- Current Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_condition
+      label: Current Condition of Property
+      hint: How dirty is it currently?
+      type: select_one
+      options:
+      - Clean - Light tidying only
+      - Moderately Clean
+      - Dirty - Needs thorough cleaning
+      - Very Dirty - Extensive work needed
+      required: true
+    - id: 11
+      name: time_since_last_clean
+      label: Time Since Last Professional Cleaning
+      hint: null
+      type: select_one
+      options:
+      - Never been professionally cleaned
+      - Less than 1 month ago
+      - 1-3 months ago
+      - 3-6 months ago
+      - 6+ months ago
+      required: true
+    - id: 12
+      name: section_header_areas
+      label: -- Areas to be Cleaned --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: kitchen_cleaning
+      label: Kitchen Cleaning Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes - Full
+      - Yes - Partial
+      - false
+      required: true
+    - id: 14
+      name: bathroom_cleaning
+      label: Bathroom Cleaning Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes - Full
+      - Yes - Partial
+      - false
+      required: true
+    - id: 15
+      name: floor_cleaning
+      label: Floor Cleaning Needed
+      hint: Vacuuming, mopping, etc.
+      type: select_one
+      options:
+      - Yes - Full
+      - Yes - Partial
+      - false
+      required: true
+    - id: 16
+      name: carpet_cleaning
+      label: Carpet/Rug Cleaning
+      hint: null
+      type: select_one
+      options:
+      - Yes - Full
+      - Yes - Partial
+      - false
+      required: true
+    - id: 17
+      name: window_cleaning
+      label: Window Cleaning Needed
+      hint: Interior, exterior, or both
+      type: select_one
+      options:
+      - Yes - Interior Only
+      - Yes - Exterior Only
+      - Yes - Both
+      - false
+      required: true
+    - id: 18
+      name: dusting_required
+      label: Dusting and Surface Cleaning
+      hint: null
+      type: select_one
+      options:
+      - Yes - Full
+      - Yes - Partial
+      - false
+      required: true
+    - id: 19
+      name: section_header_factors
+      label: -- Additional Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: pets_present
+      label: Pets in the Property
+      hint: null
+      type: select_one
+      options:
+      - No Pets
+      - Dogs
+      - Cats
+      - Multiple Pets
+      required: true
+    - id: 21
+      name: clutter_level
+      label: Level of Clutter
+      hint: Amount of items to work around
+      type: select_one
+      options:
+      - Minimal Clutter
+      - Moderate Clutter
+      - Heavy Clutter
+      - Extreme Clutter
+      required: true
+    - id: 22
+      name: accessibility
+      label: Accessibility Issues
+      hint: Stairs, long hallways, tight spaces, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requirements
+      label: Special Cleaning Requirements
+      hint: Delicate items, hard-to-reach areas, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_estimate
+      label: -- Time Estimate Calculation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: base_time_estimate
+      label: Base Time Estimate
+      hint: Hours needed for basic cleaning
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: adjustment_factors
+      label: Time Adjustment Factors
+      hint: Extra time needed for special circumstances
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: total_time_estimate
+      label: Total Estimated Time (hours)
+      hint: Complete time to finish the job
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: crew_size_recommended
+      label: Recommended Crew Size
+      hint: Number of cleaners needed
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: scheduling_notes
+      label: Scheduling Notes
+      hint: Special scheduling considerations
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: estimate_date
+      label: Estimate Date
+      hint: Date this estimate was created
+      type: date
+      options: []
+      required: true

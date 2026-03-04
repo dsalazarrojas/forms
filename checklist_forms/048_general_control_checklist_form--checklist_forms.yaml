@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Control Checklist Form
+    pages:
+    - id: 1
+      name: general_checklist_form
+      label: General Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manufacturing''}'
+      - '{''value'': ''Warehouse''}'
+      - '{''value'': ''Office''}'
+      required: false
+    - id: 5
+      name: control_type
+      label: control_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mechanical''}'
+      - '{''value'': ''Electrical''}'
+      - '{''value'': ''Pneumatic''}'
+      required: false
+    - id: 6
+      name: control_status
+      label: control_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_note
+      label: follow_up_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false

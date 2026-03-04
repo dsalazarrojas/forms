@@ -1,0 +1,50 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Speed Networking With Experts Registration
+    pages:
+    - id: 1
+      name: speed_networking_with_experts_registration
+      label: Speed Networking With Experts Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''name'': ''attendee_name'', ''label'': ''attendee_name''}'
+      - '{''id'': 22, ''name'': ''attendee_email'', ''label'': ''attendee_email''}'
+      - '{''id'': 23, ''name'': ''attendee_company'', ''label'': ''attendee_company''}'
+      required: false
+    - id: 3
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_times
+      label: preferred_times
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 41, ''name'': ''morning'', ''label'': ''morning''}'
+      - '{''id'': 42, ''name'': ''afternoon'', ''label'': ''afternoon''}'
+      - '{''id'': 43, ''name'': ''evening'', ''label'': ''evening''}'
+      required: false

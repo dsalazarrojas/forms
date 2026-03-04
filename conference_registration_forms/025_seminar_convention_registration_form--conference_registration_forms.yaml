@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: seminar_convention_registration_form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Other
+      required: false
+    - id: 5
+      name: attending_with
+      label: Attending with
+      hint: null
+      type: select_multiple
+      options:
+      - Accompanied by
+      - Not Attending with
+      required: false
+    - id: 6
+      name: accompanying_person_name
+      label: Person Accompanying Attendee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accompanying_person_phone
+      label: Person Accompanying Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accompanying_person_email
+      label: Person Accompanying Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: attending_convention
+      label: Attending Convention
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: convention_fee
+      label: Convention Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: fee_total
+      label: Fee Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: registration_fee_paid
+      label: Registration Fee Paid
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: attendee_notes
+      label: Attendee Notes
+      hint: null
+      type: note
+      options: []
+      required: false

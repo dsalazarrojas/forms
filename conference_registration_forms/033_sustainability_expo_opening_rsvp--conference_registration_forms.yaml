@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: sustainability_expo_opening_rsvp
+    pages:
+    - id: 1
+      name: event_attendance
+      label: event_attendance
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 2
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false

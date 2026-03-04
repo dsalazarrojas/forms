@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Frizz Control Treatment Consent Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_info
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_1
+      label: I am aware of and understand the risks associated with the chemical frizz-control
+        treatment.
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: consent_2
+      label: I am willing to participate in the chemical frizz-control treatment program.
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: signed_consent
+      label: Signed Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_allergies
+      label: Medical Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_name_other_doctor
+      label: Other Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false

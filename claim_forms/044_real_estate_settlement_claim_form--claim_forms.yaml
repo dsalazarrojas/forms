@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Settlement Claim Form
+    pages:
+    - id: 1
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: seller_info
+      label: seller
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_info
+      label: buyer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: closing_details
+      label: Closing Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: signatures
+      label: Signatures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: broker_signature
+      label: Broker Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: settlement_company_signature
+      label: Settlement Company Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: property_manager_signature
+      label: Property Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: other_party
+      label: Other Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Real Estate Settlement
+      - Other
+      required: true
+    - id: 18
+      name: claim_description
+      label: Claim Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: loan_number
+      label: Loan Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: loan_date
+      label: Loan Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: other_party_info
+      label: Other Party Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Closed
+      - Denied
+      required: true
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supporting_document_type
+      label: Supporting Document
+      hint: null
+      type: select_multiple
+      options:
+      - Proof of Loss
+      - Proof of Damage
+      - Proof of Repair
+      required: true

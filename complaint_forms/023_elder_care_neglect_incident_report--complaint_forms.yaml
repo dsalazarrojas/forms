@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elder Care Neglect Incident Report
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resident_info
+      label: Resident Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporter_info
+      label: Reporter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: number
+      options: []
+      required: false

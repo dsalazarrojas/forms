@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: donation_pickup_gps_tracking_consent
+    pages:
+    - id: 1
+      name: donation_pickup_gps_tracking_consent_page
+      label: Donor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: street_number
+      label: Street Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason
+      label: Reason for pickup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consent
+      label: Consent to GPS tracking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: tracking_data
+      label: GPS Data
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

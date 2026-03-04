@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unconditional Release Form
+    pages:
+    - id: 1
+      name: general_contractor
+      label: General Contractor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_description
+      label: Work Description
+      hint: A brief description of the work being proposed.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: work_status
+      label: Work Status
+      hint: Accept or decline work.
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 7
+      name: work_details
+      label: Work Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: subcontractor_name
+      label: Subcontractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: subcontractor_email
+      label: Subcontractor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: subcontractor_phone
+      label: Subcontractor Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Participation Release Form
+    pages:
+    - id: 1
+      name: seminar_participation_release_form_participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seminar_participation_release_form_seminar_info
+      label: Seminar Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seminar_participation_release_form_consent
+      label: Consent
+      hint: Provide your consent for participation in this seminar.
+      type: select_multiple
+      options:
+      - Yes, I consent to participating in this seminar.
+      - No, I do not consent to participating in this seminar.
+      required: false
+    - id: 4
+      name: seminar_participation_release_form_additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: seminar_participation_release_form_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge that I have read and understand the terms and conditions of
+        this seminar.
+      - I do not acknowledge the terms and conditions of this seminar.
+      required: false
+    - id: 6
+      name: seminar_participation_release_form_organizer_info
+      label: Organizer Information
+      hint: null
+      type: text
+      options: []
+      required: false

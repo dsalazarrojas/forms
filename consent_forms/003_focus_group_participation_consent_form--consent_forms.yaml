@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Focus Group Participation Consent Form
+    pages:
+    - id: 1
+      name: focus_group_participation_consent_form
+      label: focus_group_participation_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: focus_group_participation_form_id
+      label: focus_group_participation_form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: focus_group_participant_consent
+      label: focus_group_participant_consent
+      hint: null
+      type: select_one
+      options:
+      - Participant agrees to participate in the focus group
+      - Participant does not agree to participate in the focus group
+      required: true
+    - id: 4
+      name: focus_group_participation_duration
+      label: focus_group_participation_duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: focus_group_participation_time
+      label: focus_group_participation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: focus_group_participation_date
+      label: focus_group_participation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false

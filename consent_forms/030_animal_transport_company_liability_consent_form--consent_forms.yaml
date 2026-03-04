@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Transport Company Liability Consent Form
+    pages:
+    - id: 1
+      name: client_legal_name
+      label: Client Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_transport_details
+      label: Animal Name and Species
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pickup_location_address
+      label: Pick-up Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dropoff_location_address
+      label: Drop-off Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: scheduled_transport_date
+      label: Scheduled Transport Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: risk_acknowledgment_status
+      label: Acknowledgment of Inherent Risks
+      hint: I understand the risks associated with animal transport
+      type: select_one
+      options:
+      - I understand and accept the risks
+      - Other
+      required: true
+    - id: 7
+      name: accident_liability_release
+      label: Liability Release for Accidents
+      hint: Release for issues beyond the company's control
+      type: select_one
+      options:
+      - I release the company from liability
+      - Other
+      required: true
+    - id: 8
+      name: emergency_med_auth
+      label: Emergency Medical Authorization
+      hint: I authorize emergency veterinary care if required during transport
+      type: select_one
+      options:
+      - I authorize emergency care
+      - Other
+      required: true
+    - id: 9
+      name: max_vet_expenditure_limit
+      label: Maximum Veterinary Expenditure Limit
+      hint: Maximum USD amount to spend before contact
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: health_cert_confirmation
+      label: Health Certificate Confirmation
+      hint: Is a valid health certificate provided?
+      type: select_one
+      options:
+      - Yes - Certificate provided
+      - No - Pending or not required
+      required: true
+    - id: 11
+      name: emergency_contact_phone_primary
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_signature_acknowledgment
+      label: Client Digital Signature
+      hint: Enter full name
+      type: text
+      options: []
+      required: true

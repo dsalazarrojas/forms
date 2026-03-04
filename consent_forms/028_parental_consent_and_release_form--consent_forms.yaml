@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent And Release Form
+    pages:
+    - id: 1
+      name: child_participation
+      label: Child Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_participation
+      label: Program Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mom or Dad''}'
+      - '{''value'': ''Child''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: guardian_permission
+      label: Guardian Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 5
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Parent/Guardian Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Position Expression Of Interest Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_location
+      label: Current Location
+      hint: City and State
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_position_interest
+      label: -- Position Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: position_title
+      label: Coaching Position Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_name
+      label: Organization or Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sport_or_field
+      label: Sport or Field of Coaching
+      hint: null
+      type: select_one
+      options:
+      - Baseball
+      - Basketball
+      - Football
+      - Soccer
+      - Volleyball
+      - Tennis
+      - Swimming
+      - Track and Field
+      - Gymnastics
+      - Other
+      required: true
+    - id: 11
+      name: experience_level
+      label: Years of Relevant Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_qualifications
+      label: -- Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: certifications
+      label: Relevant Certifications
+      hint: List any coaching certifications you hold
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctoral Degree
+      required: true
+    - id: 15
+      name: first_aid_cpr
+      label: First Aid and CPR Certified
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: section_motivation
+      label: -- Motivation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: interest_reason
+      label: Why are you interested in this position?
+      hint: Explain your motivation
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: coaching_goals
+      label: What are your coaching goals?
+      hint: Short and long-term goals
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: availability
+      label: Availability to Start
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible
+      required: true
+    - id: 20
+      name: section_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reference_name
+      label: Reference Name
+      hint: Professional reference
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reference_contact
+      label: Reference Contact Information
+      hint: Email or phone
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

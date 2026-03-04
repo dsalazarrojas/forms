@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Transition Coaching Registration
+    pages:
+    - id: 1
+      name: client_name
+      label: Your Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_position
+      label: Current Position or Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_industry
+      label: Current Industry or Field
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed - actively seeking
+      - Unemployed - not seeking
+      - On leave or sabbatical
+      - Retired
+      required: true
+    - id: 8
+      name: transition_reason
+      label: Reason for Career Transition
+      hint: Why are you making this change?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: transition_motivation
+      label: What Is Motivating Your Transition?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Seeking higher salary
+      - Better work-life balance
+      - More meaningful work
+      - Career advancement blocked
+      - Industry decline or job loss
+      - Health or personal reasons
+      - Pursuing passion or interest
+      - Geographic relocation
+      - Educational opportunity
+      - Entrepreneurship interest
+      required: true
+    - id: 10
+      name: target_career
+      label: Target Career or Industry
+      hint: What do you want to move to?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: target_position
+      label: Target Position or Job Title
+      hint: Specific role you are targeting
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transition_timeline
+      label: Desired Transition Timeline
+      hint: When do you want to make the change?
+      type: select_one
+      options:
+      - Immediately or soon - within 3 months
+      - Short-term - 3 to 6 months
+      - Medium-term - 6 months to 1 year
+      - Long-term - 1 to 2 years
+      - Very long-term - 2+ years
+      required: true
+    - id: 13
+      name: key_challenges
+      label: Key Challenges to Transition
+      hint: What obstacles do you face?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: concerns
+      label: Main Concerns About Transition
+      hint: What worries you?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: skill_gaps
+      label: Skills or Credentials Needed
+      hint: What do you need to develop?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education_plans
+      label: Education or Training Plans
+      hint: Degrees, certifications, courses?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transferable_skills
+      label: Transferable Skills from Current Role
+      hint: What skills can you bring to new career?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: strengths
+      label: Your Key Strengths
+      hint: What are you good at?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: work_style_preference
+      label: Preferred Work Environment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Office-based
+      - Remote or work-from-home
+      - Outdoor
+      - Laboratory or research
+      - Client-facing
+      - Team-based
+      - Independent work
+      - Flexible schedule
+      - Stable and predictable
+      - Dynamic and fast-paced
+      required: false
+    - id: 20
+      name: salary_expectations
+      label: Salary Expectations in New Career
+      hint: Target annual salary
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coaching_focus
+      label: Coaching Focus Areas
+      hint: Select your top priorities
+      type: select_multiple
+      options:
+      - Career exploration and clarity
+      - Skills assessment and gap analysis
+      - Resume and job search strategy
+      - Interview preparation
+      - Networking development
+      - Financial planning for transition
+      - Managing career change anxiety
+      - Building new industry connections
+      - Creating action plan
+      - Accountability and motivation
+      required: true
+    - id: 22
+      name: previous_coaching
+      label: Have You Had Career Coaching Before?
+      hint: null
+      type: select_one
+      options:
+      - Yes - with same coach
+      - Yes - with different coach
+      - No - first time
+      required: false
+    - id: 23
+      name: expectations
+      label: Your Expectations from Coaching
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: commitment_level
+      label: Your Commitment Level to Transition
+      hint: How committed are you?
+      type: select_one
+      options:
+      - Fully committed - will make change happen
+      - Very committed - determined
+      - Committed - but may face obstacles
+      - Somewhat committed - exploring options
+      - Undecided - still thinking
+      required: true
+    - id: 25
+      name: support_system
+      label: Do You Have Support for Transition?
+      hint: Family, friends, financial support?
+      type: select_one
+      options:
+      - Strong support system
+      - Adequate support
+      - Limited support
+      - No support
+      - Facing resistance
+      required: false
+    - id: 26
+      name: coaching_frequency
+      label: Preferred Coaching Frequency
+      hint: How often should we meet?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      - Flexible
+      required: true
+    - id: 27
+      name: coaching_format
+      label: Preferred Coaching Format
+      hint: null
+      type: select_one
+      options:
+      - One-on-one in-person
+      - Phone or video call
+      - Mix of both
+      - Email or messaging
+      - Group coaching
+      required: true
+    - id: 28
+      name: consent_agreement
+      label: I Agree to the Coaching Program Terms
+      hint: Required to proceed
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

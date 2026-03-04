@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_policy_research_records_release_form
+    pages:
+    - id: 1
+      name: researcher
+      label: Researcher
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''John Doe''}'
+      - '{''option2'': ''Jane Doe''}'
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_project
+      label: Research Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_start_date
+      label: Research Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: research_end_date
+      label: Research End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Internal Review''}'
+      - '{''option2'': ''External Review''}'
+      - '{''option3'': ''Public Release''}'
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Yes''}'
+      - '{''option2'': ''No''}'
+      required: false

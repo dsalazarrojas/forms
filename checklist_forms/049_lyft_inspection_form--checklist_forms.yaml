@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: lyft_inspection_form_checklist_forms
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: vehicle make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle year
+      hint: Enter a four digit year
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: vehicle model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_vin
+      label: vehicle vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_color
+      label: vehicle color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: engine_number
+      label: engine number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: engine_type
+      label: engine type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: transmission
+      label: transmission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fuel_type
+      label: fuel type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vehicle_condition
+      label: vehicle condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: inspection_result
+      label: inspection result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspector_name
+      label: inspector name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_title
+      label: inspector title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: inspection_time
+      label: inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: mileage
+      label: mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_id
+      label: vehicle id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_status
+      label: vehicle status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_status_reason
+      label: vehicle status reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_status_comment
+      label: vehicle status comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_status_notes
+      label: vehicle status notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_status_image
+      label: vehicle status image
+      hint: null
+      type: text
+      options: []
+      required: false

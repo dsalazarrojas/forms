@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refrigerated Trailer Scheduled Maintenance Checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: general-info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trailer_info
+      label: trailer-info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Trailer''}'
+      - '{''value'': 2, ''label'': ''Tractor''}'
+      - '{''value'': 3, ''label'': ''Generator''}'
+      required: false
+    - id: 3
+      name: engine_oil
+      label: engine-oil
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''5k''}'
+      - '{''value'': 2, ''label'': ''10k''}'
+      - '{''value'': 3, ''label'': ''20k''}'
+      required: true
+    - id: 4
+      name: air_filter
+      label: air-filter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Clean''}'
+      - '{''value'': 2, ''label'': ''Dirty''}'
+      - '{''value'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 5
+      name: coolant_temperature
+      label: coolant-temperature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''50-60''}'
+      - '{''value'': 2, ''label'': ''40-50''}'
+      - '{''value'': 3, ''label'': ''Below 40''}'
+      required: true
+    - id: 6
+      name: brake_temp
+      label: brake-temp
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Good''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: suspension
+      label: suspension
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Good''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Poor''}'
+      required: true
+    - id: 8
+      name: tire
+      label: tire
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Good''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Poor''}'
+      required: true
+    - id: 9
+      name: wheel
+      label: wheel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Good''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Poor''}'
+      required: true
+    - id: 10
+      name: electrical
+      label: electrical
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Good''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Poor''}'
+      required: true
+    - id: 11
+      name: lights
+      label: lights
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Good''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 12
+      name: safety_certif
+      label: safety-certif
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Expired''}'
+      - '{''value'': 2, ''label'': ''Renewed''}'
+      - '{''value'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 13
+      name: maintenance_date
+      label: maintenance-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: next_scheduled_maintenance
+      label: next-scheduled-maintenance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: technician_signature
+      label: technician-signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Technician Name''}'
+      - '{''value'': 2, ''label'': ''Technician Name''}'
+      - '{''value'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 17
+      name: supervisor_signature
+      label: supervisor-signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Supervisor Name''}'
+      - '{''value'': 2, ''label'': ''Supervisor Name''}'
+      - '{''value'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 18
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Location 1''}'
+      - '{''value'': 2, ''label'': ''Location 2''}'
+      - '{''value'': 3, ''label'': ''Location 3''}'
+      required: true
+    - id: 21
+      name: trailer_number
+      label: trailer-number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: odometer_readings
+      label: odometer-readings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: engine_hours
+      label: engine-hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: engine_oil_level
+      label: engine-oil-level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''1/4''}'
+      - '{''value'': 2, ''label'': ''1/2''}'
+      - '{''value'': 3, ''label'': ''3/4''}'
+      - '{''value'': 4, ''label'': ''Full''}'
+      required: true
+    - id: 25
+      name: fuel_level
+      label: fuel-level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Good''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Poor''}'
+      required: true

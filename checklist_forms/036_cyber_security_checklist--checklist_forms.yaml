@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: cyber_security_checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assess_risk
+      label: Assess Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: review_policies
+      label: Review Policies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: implement_controls
+      label: Implement Controls
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: monitor_systems
+      label: Monitor Systems
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: test_defenses
+      label: Test Defenses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: maintain_records
+      label: Maintain Records
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: respond_incidents
+      label: Respond Incidents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: review_procedures
+      label: Review Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: update_policies
+      label: Update Policies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

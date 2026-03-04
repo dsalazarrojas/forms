@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Coach Interview Form
+    pages:
+    - id: 1
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: qualifications
+      label: Qualifications
+      hint: null
+      type: select_one
+      options:
+      - Certified Coach
+      - Certified Trainer
+      - Certified Mentor
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 3 years
+      - 3-5 years
+      - More than 5 years
+      required: false
+    - id: 5
+      name: training_certification
+      label: Training Certification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: coaching_certification
+      label: Coaching Certification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coaching_experience
+      label: Coaching Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

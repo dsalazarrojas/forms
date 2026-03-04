@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_guardianship_form
+    pages:
+    - id: 1
+      name: educational_guardianship_form_1
+      label: parent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_info
+      label: guardian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship
+      label: relationship_status
+      hint: null
+      type: select_one
+      options:
+      - parent
+      - guardian
+      required: false
+    - id: 4
+      name: relationship_other
+      label: other_relationship
+      hint: Please enter the relationship that best describes the relationship between
+        the individual and their guardian.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: guardian_consent
+      hint: I hereby consent to this arrangement and understand that I am the educational
+        guardian of this individual.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: consent_education
+      label: educational_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: consent_health
+      label: health_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: consent_medical
+      label: medical_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: Please provide a contact number and email address for the guardian.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: guardian_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false

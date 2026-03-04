@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake Form For Facial Treatments
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: section_assessment
+      label: -- Skin Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: skin_concerns
+      label: What are your primary skin concerns?
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Fine Lines
+      - Dark Spots
+      - Redness
+      - Dryness
+      - Large Pores
+      required: true
+    - id: 5
+      name: current_skincare
+      label: List the skincare products you currently use at home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sunscreen_use
+      label: Do you wear sunscreen daily?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: water_intake
+      label: Average daily water intake
+      hint: null
+      type: select_one
+      options:
+      - 0-2 glasses
+      - 3-5 glasses
+      - 6 or more glasses
+      required: false
+    - id: 8
+      name: section_medical
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: cold_sores
+      label: Do you have a history of cold sores?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: previous_reactions
+      label: Have you ever had a reaction to a skincare product or treatment?
+      hint: Please describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pregnancy_status
+      label: Are you currently pregnant or trying to conceive?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: section_consent
+      label: -- Treatment Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: extraction_acknowledgment
+      label: I understand that minor discomfort may occur during manual extractions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I understand
+      required: true
+    - id: 14
+      name: signature
+      label: Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

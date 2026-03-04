@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artistic Workshop Filming Consent Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: Participant First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Participant Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_name
+      label: Workshop Name or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: filming_type
+      label: Type of Filming or Photography
+      hint: null
+      type: select_multiple
+      options:
+      - Photography
+      - Video Recording
+      - Audio Recording
+      - Live Streaming
+      - Documentary Style
+      required: true
+    - id: 9
+      name: filming_location
+      label: Filming Location Within Workshop
+      hint: Full workshop, certain activities only, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: footage_usage
+      label: Intended Usage of Footage
+      hint: null
+      type: select_multiple
+      options:
+      - Educational Materials
+      - Social Media
+      - Marketing Promotion
+      - Documentary
+      - Archive
+      - Other
+      required: true
+    - id: 11
+      name: image_release_consent
+      label: I Consent to Image and Voice Recording
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: social_media_usage
+      label: Permission to Share on Social Media
+      hint: null
+      type: select_one
+      options:
+      - Yes - With Name
+      - Yes - Anonymous Only
+      - 'No'
+      required: true
+    - id: 13
+      name: commercial_usage
+      label: Permission for Commercial or Promotional Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Certain Uses Only
+      required: true
+    - id: 14
+      name: credit_preference
+      label: Preference for Credits or Attribution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: footage_copy
+      label: I May Request a Copy of Footage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: compensation
+      label: Compensation for Image Use
+      hint: null
+      type: select_one
+      options:
+      - No Compensation
+      - Complimentary Workshop
+      - Other
+      required: false
+    - id: 17
+      name: withdrawal_option
+      label: I Can Withdraw Consent at Any Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: additional_conditions
+      label: Additional Conditions or Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: parental_consent_if_minor
+      label: Parental Consent Required (if under 18)
+      hint: null
+      type: select_one
+      options:
+      - Yes - Parent Signature Provided
+      - No - Participant is 18+
+      required: true

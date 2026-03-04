@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Objectives Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coaching_date
+      label: Date of Career Coaching Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: current_position
+      label: Current Position or Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_industry
+      label: Company or Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_in_role
+      label: How Long in Current Role?
+      hint: Years or months
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: current_satisfaction
+      label: Satisfaction with Current Role
+      hint: How happy are you in your current position?
+      type: select_one
+      options:
+      - Very satisfied - love my job
+      - Satisfied - generally happy
+      - Neutral - content but not passionate
+      - Unsatisfied - want to make changes
+      - Very unsatisfied - need to leave
+      required: true
+    - id: 9
+      name: primary_objectives
+      label: What Are Your Primary Career Objectives?
+      hint: What do you want to achieve in your career?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: short_term_goals
+      label: Short-Term Goals (Next 6-12 Months)
+      hint: What do you want to accomplish?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medium_term_goals
+      label: Medium-Term Goals (1-3 Years)
+      hint: Where do you want to be in 1-3 years?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: long_term_goals
+      label: Long-Term Goals (5+ Years)
+      hint: Where do you see yourself long-term?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: goal_specificity
+      label: How Clear Are These Goals?
+      hint: How well defined are your objectives?
+      type: select_one
+      options:
+      - Very clear - specific and measurable
+      - Somewhat clear - general direction
+      - Vague - still figuring it out
+      - Unclear - need help defining goals
+      required: true
+    - id: 14
+      name: advancement_interests
+      label: Are You Interested in Career Advancement?
+      hint: null
+      type: select_one
+      options:
+      - Yes - promotion within company
+      - Yes - new role in different company
+      - Yes - different career path entirely
+      - Maybe - open to exploring options
+      - No - happy where I am
+      required: true
+    - id: 15
+      name: skill_development
+      label: Skills You Want to Develop
+      hint: What new competencies do you need?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education_plans
+      label: Plans for Further Education or Training
+      hint: Degrees, certifications, courses?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: strengths
+      label: Your Key Strengths
+      hint: What are you particularly good at?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: What skills do you need to develop?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: obstacles
+      label: Obstacles or Challenges to Your Goals
+      hint: What is preventing progress?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_style_preferences
+      label: Work Style Preferences
+      hint: Describe your ideal work environment
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: values_alignment
+      label: How Well Does Your Current Role Align with Your Values?
+      hint: Does your job match what matters to you?
+      type: select_one
+      options:
+      - Perfect alignment
+      - Good alignment
+      - Partial alignment
+      - Poor alignment
+      - Very poor alignment
+      required: false
+    - id: 22
+      name: work_life_balance
+      label: Work-Life Balance Goals
+      hint: What does balance look like for you?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: income_goals
+      label: Income or Financial Goals
+      hint: Target salary or earnings?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: action_steps
+      label: Specific Action Steps to Achieve Goals
+      hint: What concrete steps will you take?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: coaching_focus
+      label: What Coaching Support Would Help Most?
+      hint: Select your priorities
+      type: select_multiple
+      options:
+      - Career strategy and planning
+      - Skill development
+      - Interview and job search coaching
+      - Leadership development
+      - Executive coaching
+      - Work-life balance
+      - Confidence building
+      - Networking strategies
+      - Salary negotiation
+      - Career transition support
+      required: true

@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: hipaa_special_enrollment_compliance_checklist
+    pages:
+    - id: 1
+      name: section_1
+      label: section_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '10000'
+      - '10001'
+      - '10002'
+      required: false
+    - id: 5
+      name: job_classification
+      label: job_classification
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - non_admin
+      - contractor
+      - other
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_hire
+      label: date_hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_hire
+      label: date_of_hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: department_head
+      label: department_head
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_last_review
+      label: date_last_review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_next_review
+      label: date_next_review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_type
+      label: employee_type
+      hint: null
+      type: select_one
+      options:
+      - benefits_eligible
+      - non_benefits_eligible
+      required: false
+    - id: 16
+      name: special_enrollment_status
+      label: special_enrollment_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 17
+      name: special_enrollment_reason
+      label: special_enrollment_reason
+      hint: null
+      type: select_multiple
+      options:
+      - new_hire
+      - return_from_leave
+      - terminated
+      - other
+      required: false
+    - id: 18
+      name: special_enrollment_termination_reason
+      label: special_enrollment_termination_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_termination
+      label: date_termination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: date_reelection
+      label: date_reelection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: special_enrollment_reinstatement_reason
+      label: special_enrollment_reinstatement_reason
+      hint: null
+      type: text
+      options: []
+      required: false

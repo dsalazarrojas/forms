@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retaining Wall Inspection Checklist
+    pages:
+    - id: 1
+      name: wall_condition
+      label: Wall Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wall_structure
+      label: Wall Structure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: wall_materials
+      label: Wall Materials
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wall_height
+      label: Wall Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: foundation_type
+      label: Foundation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: foundation_condition
+      label: Foundation Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: drainage_system
+      label: Drainage System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: wall_height_metered
+      label: Wall Height Measured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: wall_condition_rating
+      label: Wall Condition Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: foundation_design
+      label: Foundation Design
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: inspector_note
+      label: Inspector's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: inspector_comment
+      label: Inspector's Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspector_signature
+      label: Inspector's Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: tech_note
+      label: Technician's Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false

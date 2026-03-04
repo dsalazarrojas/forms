@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Misconduct Complaint Form
+    pages:
+    - id: 1
+      name: complaint_form_input
+      label: Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reportee_details
+      label: Reportee Details
+      hint: Please provide as much information as possible about the reportee.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: misconduct_type
+      label: Misconduct Type
+      hint: null
+      type: select_one
+      options:
+      - Bullying/Coercion
+      - Bullying/Harassment
+      - Coercion/Intimidation
+      - Other
+      required: true
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: Describe the incident in as much detail as possible.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_incident
+      label: Date of Incident
+      hint: Please enter the date of the incident.
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: location_of_incident
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: complaint_status
+      label: Complaint Status
+      hint: Please select the status of your complaint.
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Closed
+      - On Hold
+      required: true

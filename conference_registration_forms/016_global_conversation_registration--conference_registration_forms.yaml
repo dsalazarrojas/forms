@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Conversation Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''EST''}'
+      - '{''value'': 2, ''label'': ''EST (EST)''}'
+      - '{''value'': 3, ''label'': ''CST''}'
+      - '{''value'': 4, ''label'': ''MST''}'
+      - '{''value'': 5, ''label'': ''PST''}'
+      required: false
+    - id: 5
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English'', ''label'': ''English''}'
+      - '{''value'': ''Mandarin'', ''label'': ''Mandarin''}'
+      - '{''value'': ''Spanish'', ''label'': ''Spanish''}'
+      - '{''value'': ''French'', ''label'': ''French''}'
+      required: false
+    - id: 6
+      name: topic
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_email
+      label: School Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_role
+      label: Participant Role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Language Exchange Group'', ''label'': ''Language Exchange Group''}'
+      - '{''value'': ''School/University'', ''label'': ''School/University''}'
+      required: false
+    - id: 11
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: non_profit
+      label: Non Profit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 14
+      name: online_community
+      label: Online Community
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 15
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Salon Client Liability Release Form
+    pages:
+    - id: 1
+      name: customer_agreement
+      label: customer_agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: accept_risk
+      label: accept_risk
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: risk_explanation
+      label: risk_explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: salutation
+      label: salutation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_signed_2
+      label: date_signed_2
+      hint: null
+      type: date
+      options: []
+      required: false

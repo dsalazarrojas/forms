@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Coaching Form
+    pages:
+    - id: 1
+      name: employee_coaching_form
+      label: employee_coaching_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: goals_description
+      label: goals_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coaching_dates
+      label: coaching_dates
+      hint: null
+      type: select_multiple
+      options:
+      - '2020-02-01'
+      - '2020-02-01'
+      - '2020-02-02'
+      required: false
+    - id: 5
+      name: coaching_time
+      label: coaching_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: coaching_location
+      label: coaching_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: coaching_method
+      label: coaching_method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - video
+      - email
+      required: false
+    - id: 8
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: employee
+      hint: null
+      type: number
+      options: []
+      required: false

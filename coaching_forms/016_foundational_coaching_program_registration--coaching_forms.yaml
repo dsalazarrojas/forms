@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: foundational_coaching_program_registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_selection
+      label: Program Selection
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Coach 2
+      - Coach 3
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_program_completion
+      label: Date of Program Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - Program A
+      - Program B
+      - Program C
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: coach_rating
+      label: Coach Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: program_rating
+      label: Program Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: program_completion_status
+      label: Program Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: false
+    - id: 16
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false

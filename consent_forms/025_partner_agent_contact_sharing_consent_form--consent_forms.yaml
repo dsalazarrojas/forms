@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Partner Agent Contact Sharing Consent Form
+    pages:
+    - id: 1
+      name: partner_agent_sharing_consent
+      label: Do you wish to share your contact information with partner agents?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: partner_agent
+      label: Which partner agent do you wish to share with?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_information
+      label: What contact information do you wish to share?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sharing_purpose
+      label: What is the sharing purpose?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consent
+      label: I hereby grant my consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shared_partners
+      label: None
+      hint: null
+      type: time
+      options: []
+      required: false

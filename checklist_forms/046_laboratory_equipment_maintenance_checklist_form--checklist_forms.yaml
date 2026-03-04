@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Equipment Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: maintenance_checklist
+      label: Maintenance Checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Balance
+      - Centrifuge
+      - Microscope
+      required: true
+    - id: 3
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_multiple
+      options:
+      - In good condition
+      - Needs repair
+      - Broken
+      - Unknown
+      required: true
+    - id: 4
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: asset_tag
+      label: Asset Tag
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 17
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Twice
+      - Three times
+      - Four times
+      - Unknown
+      required: true
+    - id: 18
+      name: maintenance_last_date
+      label: Last Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: maintenance_next_date
+      label: Next Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: maintenance_duration
+      label: Maintenance Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_last_by
+      label: Last By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_next_by
+      label: Next By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_last_miles
+      label: Last Miles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_next_miles
+      label: Next Miles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: maintenance_last_oil_level
+      label: Last Oil Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: maintenance_next_oil_level
+      label: Next Oil Level
+      hint: null
+      type: text
+      options: []
+      required: false

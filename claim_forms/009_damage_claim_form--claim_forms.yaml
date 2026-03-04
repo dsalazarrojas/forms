@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Damage Claim Form
+    pages:
+    - id: 1
+      name: claimant_info
+      label: Claimant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_contact
+      label: Claimant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: damage_type
+      label: Damage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: damage_date
+      label: Damage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: note
+      options: []
+      required: false

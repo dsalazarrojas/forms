@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: forklift_daily_inspection_checklist_form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shift_number
+      label: Shift Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: operator_name
+      label: Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_items
+      label: Inspection Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      - Item 6
+      - Item 7
+      - Item 8
+      - Item 9
+      - Item 10
+      - Item 11
+      - Item 12
+      - Item 13
+      - Item 14
+      - Item 15
+      - Item 16
+      - Item 17
+      - Item 18
+      - Item 19
+      required: false
+    - id: 7
+      name: completed_items
+      label: Completed Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      - Item 6
+      - Item 7
+      - Item 8
+      - Item 9
+      - Item 10
+      - Item 11
+      - Item 12
+      - Item 13
+      - Item 14
+      - Item 15
+      - Item 16
+      - Item 17
+      - Item 18
+      - Item 19
+      - Item 20
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

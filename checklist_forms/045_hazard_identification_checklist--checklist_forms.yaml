@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazard Identification Checklist
+    pages:
+    - id: 1
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hazard_type
+      label: hazard_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: risk_factor
+      label: risk_factor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: hazard_description
+      label: hazard_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_description
+      label: risk_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_likelyhood
+      label: risk_likelihood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: risk_impact
+      label: risk_impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preventive_measures
+      label: preventive_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_by
+      label: review_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

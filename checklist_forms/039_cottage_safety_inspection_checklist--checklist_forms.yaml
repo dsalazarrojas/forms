@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cottage Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electrical
+      label: electrical-safety-checks
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''No issues with electrical'', ''value'': ''No issues
+        with electrical''}'
+      - '{''id'': 2, ''name'': ''Some issues with electrical'', ''value'': ''Some
+        issues with electrical''}'
+      - '{''id'': 3, ''name'': ''Major electrical issues'', ''value'': ''Major electrical
+        issues''}'
+      required: false
+    - id: 3
+      name: plumbing
+      label: plumbing-safety-checks
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''No issues with plumbing'', ''value'': ''No issues
+        with plumbing''}'
+      - '{''id'': 2, ''name'': ''Some issues with plumbing'', ''value'': ''Some issues
+        with plumbing''}'
+      - '{''id'': 3, ''name'': ''Major plumbing issues'', ''value'': ''Major plumbing
+        issues''}'
+      required: false
+    - id: 4
+      name: fire_safety
+      label: Fire safety
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''No issues with fire safety'', ''value'': ''No issues
+        with fire safety''}'
+      - '{''id'': 2, ''name'': ''Some issues with fire safety'', ''value'': ''Some
+        issues with fire safety''}'
+      - '{''id'': 3, ''name'': ''Major fire safety issues'', ''value'': ''Major fire
+        safety issues''}'
+      required: false
+    - id: 5
+      name: heating_cooling
+      label: Heating/Cooling
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''No issues with heating/cooling'', ''value'': ''No
+        issues with heating/cooling''}'
+      - '{''id'': 2, ''name'': ''Some issues with heating/cooling'', ''value'': ''Some
+        issues with heating/cooling''}'
+      - '{''id'': 3, ''name'': ''Major heating/cooling issues'', ''value'': ''Major
+        heating/cooling issues''}'
+      required: false
+    - id: 6
+      name: safety_precautions
+      label: Safety Precautions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_exits
+      label: Emergency Exits
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_exits_adjacent
+      label: Emergency exits adjacent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Yes'', ''value'': ''Yes''}'
+      - '{''id'': 2, ''name'': ''No'', ''value'': ''No''}'
+      required: false
+    - id: 9
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: null
+      type: text
+      options: []
+      required: true

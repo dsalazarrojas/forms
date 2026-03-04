@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cremation Authorization Form
+    pages:
+    - id: 1
+      name: cremation_authorization_form
+      label: cremation_authorization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cremation_date
+      label: cremation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: cremation_time
+      label: cremation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: authorized_agent
+      label: authorized_agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: authorized_agent_email
+      label: authorized_agent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: authorized_agent_phone
+      label: authorized_agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cremation_fund
+      label: cremation_fund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cremation_fund_other
+      label: cremation_fund_other
+      hint: null
+      type: text
+      options: []
+      required: false

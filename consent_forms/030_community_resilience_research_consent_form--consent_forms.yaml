@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Resilience Research Consent Form
+    pages:
+    - id: 1
+      name: research_consent_intro
+      label: -- Research Participation and Informed Consent --
+      hint: Please read and complete this form before participating in our study.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: study_participant_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: study_participant_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: study_purpose_confirmation
+      label: Do you understand the purpose of this study?
+      hint: Study on Community Resilience and Disaster Preparedness.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: voluntary_participation_agreement
+      label: I understand my participation is voluntary.
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 8
+      name: confidentiality_and_privacy_agreement
+      label: I understand my information will be kept confidential.
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 9
+      name: research_data_use_permission
+      label: I grant permission for researchers to use my survey responses.
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 10
+      name: interview_recording_consent
+      label: I consent to being recorded for an interview.
+      hint: Required only if participating in an interview.
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: false
+    - id: 11
+      name: withdraw_participation_right
+      label: I understand I can withdraw from the study at any time.
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - I Do Not Understand
+      required: true
+    - id: 12
+      name: study_results_interest
+      label: Would you like to receive a copy of the final study results?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: follow_up_study_interest
+      label: Would you be willing to participate in future follow-up studies?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: participant_digital_signature
+      label: Participant Digital Signature
+      hint: Type your full name to sign.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: today_consent_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: research_footer
+      label: -- Thank You for Your Participation --
+      hint: Your contribution to this study is invaluable.
+      type: note
+      options: []
+      required: false

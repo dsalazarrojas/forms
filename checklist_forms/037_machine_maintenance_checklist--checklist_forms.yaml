@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Maintenance Checklist
+    pages:
+    - id: 1
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: type_of_maintenance
+      label: Type of maintenance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_last_maintenance
+      label: Date last maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: next_maintenance_due
+      label: Next maintenance due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_status
+      label: Maintenance status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: maintenance_type_description
+      label: Maintenance type description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_signature
+      label: Supervisor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technician_signature
+      label: Technician signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: equipment_model
+      label: Equipment model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_serial_number
+      label: Equipment serial number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_reorder_point
+      label: Equipment reorder point
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_maintenance_cost
+      label: Last maintenance cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: planned_maintenance_cost
+      label: Planned maintenance cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: actual_maintenance_cost
+      label: Actual maintenance cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: maintenance_frequency
+      label: Maintenance frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: next_maintenance_frequency
+      label: Next maintenance frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_name
+      label: Supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_title
+      label: Supervisor title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: technician_name
+      label: Technician name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: technician_title
+      label: Technician title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by
+      label: Form submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Medical Consent Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: As it appears on medical records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Date of Birth
+      hint: Select child birthday
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_guardian_auth
+      label: -- Guardian Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Primary contact for medical updates
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_consent_details
+      label: -- Consent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_consents
+      label: I consent to the following services
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Routine Check-ups and Exams
+        value: exams
+      - label: Required Vaccinations
+        value: vaccines
+      - label: Diagnostic Lab Tests
+        value: labs
+      - label: Emergency Medical Care
+        value: emergency
+      required: true
+    - id: 9
+      name: medication_allergies
+      label: List any medications the child is allergic to
+      hint: e.g., Penicillin, Ibuprofen
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_physician
+      label: -- Primary Physician --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: pediatrician_name
+      label: Pediatrician Name
+      hint: Lead doctor for the child
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: doctor_phone
+      label: Doctor Office Number
+      hint: Primary clinic line
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: signature_name
+      label: Electronic Signature - Type Full Name
+      hint: Legal acknowledgment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true

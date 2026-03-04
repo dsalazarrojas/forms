@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Train Service Complaint Form
+    pages:
+    - id: 1
+      name: passenger_id
+      label: passenger_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: train_number
+      label: train_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: train_station
+      label: train_station
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: train_type
+      label: train_type
+      hint: null
+      type: select_one
+      options:
+      - Train
+      - Bus
+      - Ferry
+      required: true
+    - id: 8
+      name: mode_of_transportation
+      label: mode_of_transportation
+      hint: null
+      type: select_multiple
+      options:
+      - Train
+      - Bus
+      - Ferry
+      required: true
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Train Delay
+      - Train Service
+      - Train Station
+      - Train Staff
+      - Train Type
+      - Train Schedule
+      - Train Cancellation
+      required: true
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Photo Newsletter Release Form
+    pages:
+    - id: 1
+      name: employee_photo_newsletter_release_form
+      label: Employee Photo Newsletter Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: i_agree_to_use_my_photo
+      label: I agree to use my photo
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 3
+      name: consent_for_printed_publications
+      label: Printed Publications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Newsletters''}'
+      - '{''label'': ''Employee Handbook''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: consent_for_online_publications
+      label: Online Publications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Website''}'
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Email''}'
+      required: false
+    - id: 5
+      name: consent_for_video_and_audio
+      label: Video and Audio
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Video''}'
+      - '{''label'': ''Audio''}'
+      required: false
+    - id: 6
+      name: photo_usage_details
+      label: Photo Usage Details
+      hint: If applicable, please specify the specific project names or event dates.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_copyright
+      label: Photo Copyright
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_copyright_holder
+      label: Copyright Holder
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Self''}'
+      - '{''label'': ''Employer''}'
+      required: false
+    - id: 9
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Mail''}'
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

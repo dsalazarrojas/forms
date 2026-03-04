@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Gift Bag Refill Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: Gift Bag Refill Request
+      hint: Request materials for conference gift bags
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: conference_info
+      label: Conference Information
+      hint: Event details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: conference_name
+      label: Conference Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: conference_dates
+      label: Conference Dates
+      hint: When held
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: conference_location
+      label: Conference Location
+      hint: Where held
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expected_attendees
+      label: Expected Attendees
+      hint: Number of participants
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: bag_details
+      label: Bag Details
+      hint: Gift bag specifications
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: bag_type
+      label: Bag Type
+      hint: Style of bag
+      type: select_one
+      options:
+      - Standard Tote Bag
+      - Premium Canvas Bag
+      - Drawstring Backpack
+      - Reusable Shopping Bag
+      - Eco-Friendly Bag
+      - Custom Branded Bag
+      required: false
+    - id: 13
+      name: bag_color
+      label: Bag Color
+      hint: Preferred color
+      type: select_one
+      options:
+      - Black
+      - Navy
+      - Red
+      - Blue
+      - Green
+      - White
+      - Custom
+      required: false
+    - id: 14
+      name: items_requested
+      label: Items Requested
+      hint: Contents for bags
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: promotional_items
+      label: Promotional Items
+      hint: Branded materials
+      type: select_multiple
+      options:
+      - Pens
+      - Notebooks
+      - Lanyards
+      - USB Drives
+      - Water Bottles
+      - T-Shirts
+      - Stickers
+      - Magnets
+      required: false
+    - id: 16
+      name: informational_materials
+      label: Informational Materials
+      hint: Printed content
+      type: select_multiple
+      options:
+      - Conference Program
+      - Brochures
+      - Flyers
+      - Business Cards
+      - Coupons
+      - Maps
+      required: false
+    - id: 17
+      name: snacks_beverages
+      label: Snacks and Beverages
+      hint: Edible items
+      type: select_multiple
+      options:
+      - Candy
+      - Mints
+      - Granola Bars
+      - Tea Bags
+      - Coffee Packets
+      - None
+      required: false
+    - id: 18
+      name: tech_items
+      label: Tech Items
+      hint: Electronic accessories
+      type: select_multiple
+      options:
+      - Phone Chargers
+      - Earbuds
+      - Screen Cleaners
+      - Cable Organizers
+      - None
+      required: false
+    - id: 19
+      name: quantity_needed
+      label: Quantity Needed
+      hint: Number of bags
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: current_stock
+      label: Current Stock Level
+      hint: What you have now
+      type: select_one
+      options:
+      - Empty Need Everything
+      - Low Need Refill
+      - Medium Partial Refill
+      - Well Stocked Top Up
+      required: true
+    - id: 21
+      name: delivery_info
+      label: Delivery Information
+      hint: Where to send
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: delivery_location
+      label: Delivery Location
+      hint: Where to deliver
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: delivery_date_needed
+      label: Delivery Date Needed
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: budget_code
+      label: Budget Code
+      hint: Cost center
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: approval_status
+      label: Approval Status
+      hint: Manager approval
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - Urgent Pre-Approved
+      required: false

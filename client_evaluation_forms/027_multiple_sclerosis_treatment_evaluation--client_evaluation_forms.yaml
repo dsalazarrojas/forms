@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Sclerosis Treatment Evaluation
+    pages:
+    - id: 1
+      name: ms_symptoms
+      label: ms Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Fatigue''}'
+      - '{''option2'': ''Spasticity''}'
+      - '{''option3'': ''Vision Problems''}'
+      - '{''option4'': ''Cognitive Impairment''}'
+      - '{''option5'': ''Mood Changes''}'
+      - '{''option6'': ''Coordination''}'
+      - '{''option7'': ''Bladder Problems''}'
+      - '{''option8'': ''Sexual Dysfunction''}'
+      required: true
+    - id: 2
+      name: ms_experience
+      label: ms Experience
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: ms_treatment_history
+      label: ms Treatment History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      - '{''option3'': ''Unknown''}'
+      required: true
+    - id: 4
+      name: ms_treatment_outcomes
+      label: ms Treatment Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Improved''}'
+      - '{''option2'': ''No Change''}'
+      - '{''option3'': ''Worse''}'
+      required: true
+    - id: 5
+      name: ms_satisfaction
+      label: ms Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ms_comments
+      label: ms Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true

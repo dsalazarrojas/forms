@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Vaccine Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number if available
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_vaccine
+      label: Primary COVID-19 Vaccine Type
+      hint: What vaccine did you initially receive?
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Other
+      - Unknown
+      required: true
+    - id: 7
+      name: primary_vaccine_date
+      label: Date of Primary Vaccine Series Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: previous_boosters
+      label: Number of Previous Booster Doses Received
+      hint: Boosters already administered
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: booster_purpose_understanding
+      label: I understand that the booster vaccine is to strengthen immunity against
+        COVID-19
+      hint: Acknowledge your understanding
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 10
+      name: vaccine_benefits_understanding
+      label: I understand the potential benefits of the booster vaccine
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 11
+      name: risks_understanding
+      label: I understand the potential risks and side effects
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 12
+      name: side_effects_info
+      label: I have been informed about common side effects
+      hint: Mild fever, arm soreness, fatigue, headache, etc.
+      type: select_one
+      options:
+      - Yes, informed
+      - No, not informed
+      - Have questions
+      required: true
+    - id: 13
+      name: serious_reactions_info
+      label: I have been informed about serious but rare reactions
+      hint: Anaphylaxis, myocarditis, etc.
+      type: select_one
+      options:
+      - Yes, informed
+      - No, not informed
+      - Have questions
+      required: true
+    - id: 14
+      name: allergies
+      label: I have reported all known allergies
+      hint: To vaccine components or other substances
+      type: select_one
+      options:
+      - Yes, no allergies
+      - Yes, have allergies
+      - Not sure
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: I have disclosed all relevant medical conditions
+      hint: Pregnancy, immunocompromised status, etc.
+      type: select_one
+      options:
+      - Yes, disclosed
+      - No conditions to disclose
+      - Have questions
+      required: true
+    - id: 16
+      name: current_medications
+      label: I have informed of all current medications
+      hint: null
+      type: select_one
+      options:
+      - Yes, informed
+      - No medications
+      - Have questions
+      required: true
+    - id: 17
+      name: alternatives_discussed
+      label: Alternative treatment options have been discussed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 18
+      name: voluntary_consent
+      label: I understand that my participation is voluntary
+      hint: I can ask questions anytime or refuse the vaccine
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 19
+      name: questions_answered
+      label: All my questions have been answered satisfactorily
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 20
+      name: consent_agreement
+      label: I voluntarily consent to receive the COVID-19 booster vaccine
+      hint: By checking this, you authorize vaccination
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 21
+      name: consent_date
+      label: Consent Date
+      hint: Date of your consent
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Person administering or obtaining consent
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: provider_signature
+      label: Provider Title
+      hint: MD, RN, PA, etc.
+      type: text
+      options: []
+      required: false

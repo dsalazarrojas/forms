@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mindfulness Program Video Participation Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: video_consent
+      label: video_consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to participate in the video recordings
+      - I do not consent to participate in the video recordings
+      required: false
+    - id: 5
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - other (specify)
+      required: false
+    - id: 6
+      name: other_contact_method
+      label: other_contact_method
+      hint: Specify other method of contact
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_comments
+      label: instructor_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Investment Disclosure Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: investor_name
+      label: investor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: investor_email
+      label: investor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: investor_phone
+      label: investor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investor_address
+      label: investor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: consent_time
+      label: consent_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: consent_form_type
+      label: consent_form_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: consent_form_type_other
+      label: other_consent_form_type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 4
+      - Option 5
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: investor_investment_type
+      label: investor_investment_type
+      hint: null
+      type: select_one
+      options:
+      - Investment Type 1
+      - Investment Type 2
+      - Investment Type 3
+      required: false
+    - id: 15
+      name: investor_investment_subtype
+      label: investor_investment_subtype
+      hint: null
+      type: select_multiple
+      options:
+      - Investment Subtype 1
+      - Investment Subtype 2
+      required: false
+    - id: 16
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: true
+    - id: 17
+      name: form_status_other
+      label: other_form_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: investor_investment_type_other
+      label: other_investor_investment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: investor_investment_subtype_other
+      label: other_investor_investment_subtype
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_note
+      label: form_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_investor_consent
+      label: form_investor_consent
+      hint: null
+      type: select_one
+      options:
+      - Investor Consent 1
+      - Investor Consent 2
+      required: true
+    - id: 23
+      name: form_investor_consent_other
+      label: other_investor_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: form_investor_consent_note
+      label: form_investor_consent_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_investor_consent_note_other
+      label: other_investor_consent_note
+      hint: null
+      type: text
+      options: []
+      required: false

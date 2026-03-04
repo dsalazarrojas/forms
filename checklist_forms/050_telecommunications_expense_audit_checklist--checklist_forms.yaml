@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunications Expense Audit Checklist
+    pages:
+    - id: 1
+      name: review_telecom_agreement
+      label: Review telecom agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: review_invoices
+      label: Review invoices
+      hint: Provide a copy of the invoice and any relevant details
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: verify_telecom_usage_patterns
+      label: Verify telecom usage patterns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: verify_rate_plans
+      label: Verify rate plans
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Basic
+      required: true
+    - id: 5
+      name: identify_unusual_patterns
+      label: Identify unusual patterns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_vendor_invoices
+      label: Review vendor invoices
+      hint: Please review the invoices from the vendor
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: identify_unusual_charges
+      label: Identify unusual charges
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: verify_invoices_match_contract
+      label: Verify invoices match contract
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: verify_usage_match_contract
+      label: Verify usage matches contract
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: identify_missing_invoices
+      label: Identify missing invoices
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: review_contract_terms_and_conditions
+      label: Review contract terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: document_findings
+      label: Document findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: verify_invoices_received_from_vendor
+      label: Verify invoices received from vendor
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

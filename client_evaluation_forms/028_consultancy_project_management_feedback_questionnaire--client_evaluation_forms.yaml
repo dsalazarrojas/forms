@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Project Management Feedback Questionnaire
+    pages:
+    - id: 1
+      name: section_client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Organization or individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project name
+      hint: Name of consultancy engagement
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: engagement_duration_months
+      label: Engagement duration months
+      hint: Length of the consulting engagement
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_with_deliverables
+      label: Satisfaction with deliverables
+      hint: Rate satisfaction with final deliverables
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 6
+      name: communication_quality
+      label: Communication quality
+      hint: Rate clarity and timeliness of communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: value_for_money
+      label: Value for money
+      hint: Rate perceived value for fees paid
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: improvement_suggestions
+      label: Improvement suggestions
+      hint: What could be improved for future projects
+      type: text
+      options: []
+      required: false

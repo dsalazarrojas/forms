@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching And Mentoring Program Admission Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_occupation
+      label: Current Occupation
+      hint: Your job or student status
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employer_or_school
+      label: Employer or School
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_interest
+      label: Program of Interest
+      hint: Which program are you applying for
+      type: select_one
+      options:
+      - Life Coaching Program
+      - Career Mentoring Program
+      - Executive Coaching Program
+      - Business Mentoring Program
+      - Leadership Development Program
+      - Personal Growth Program
+      required: true
+    - id: 9
+      name: program_level
+      label: Program Level
+      hint: What level are you seeking
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Executive
+      required: true
+    - id: 10
+      name: start_term
+      label: Preferred Start Term
+      hint: When do you want to begin
+      type: select_one
+      options:
+      - Spring Term
+      - Summer Term
+      - Fall Term
+      - Winter Term
+      - Next Available
+      required: true
+    - id: 11
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest completed education
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      required: true
+    - id: 12
+      name: field_of_study
+      label: Field of Study
+      hint: Your area of study or expertise
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: years_experience
+      label: Years of Professional Experience
+      hint: Total work experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 14
+      name: reason_for_applying
+      label: Why Do You Want to Join This Program
+      hint: Your motivation for applying
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: career_goals
+      label: Career Goals
+      hint: What are your professional objectives
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: what_do_you_hope_to_gain
+      label: What Do You Hope to Gain
+      hint: Expected outcomes from the program
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: previous_coaching_experience
+      label: Previous Coaching or Mentoring Experience
+      hint: Have you had coaching before
+      type: select_one
+      options:
+      - Yes As a Coachee
+      - Yes As a Coach or Mentor
+      - No Experience
+      required: true
+    - id: 18
+      name: previous_experience_details
+      label: Describe Previous Experience
+      hint: Provide details if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: strengths
+      label: Your Key Strengths
+      hint: What are you good at
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: areas_for_development
+      label: Areas You Want to Develop
+      hint: What do you want to improve
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: time_commitment
+      label: Can You Commit Required Time
+      hint: Are you available for the program
+      type: select_one
+      options:
+      - Yes Fully Committed
+      - Yes With Some Limitations
+      - Not Sure
+      - false
+      required: true
+    - id: 22
+      name: weekly_availability
+      label: Weekly Availability
+      hint: How many hours per week can you commit
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-15 hours
+      - 15-20 hours
+      - Over 20 hours
+      required: true
+    - id: 23
+      name: financial_aid_needed
+      label: Do You Need Financial Aid
+      hint: Are you seeking financial assistance
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 24
+      name: how_heard_about_program
+      label: How Did You Hear About This Program
+      hint: How did you find us
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral
+      - Advertisement
+      - Event
+      - Other
+      required: false
+    - id: 25
+      name: references_available
+      label: Can You Provide References
+      hint: Do you have professional references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: interview_availability
+      label: Interview Availability
+      hint: When can you interview
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      required: false
+    - id: 27
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you want us to know
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_accepted
+      label: I Accept Program Terms and Conditions
+      hint: You agree to program policies
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 29
+      name: application_date
+      label: Application Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

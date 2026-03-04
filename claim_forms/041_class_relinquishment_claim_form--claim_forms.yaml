@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Relinquishment Claim Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_info_header
+      label: -- Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: course_name
+      label: Course Name or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: course_code
+      label: Course Code or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: course_section
+      label: Course Section or Schedule
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: semester
+      label: Semester or Term
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: relinquishment_header
+      label: -- Relinquishment Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_relinquishment
+      label: Reason for Relinquishing the Class
+      hint: null
+      type: select_one
+      options:
+      - Scheduling conflict
+      - Course difficulty
+      - Personal hardship
+      - Medical or health issue
+      - Work obligations
+      - Change in academic goals
+      - Financial reasons
+      - Better course alternative
+      - Other
+      required: true
+    - id: 14
+      name: detailed_reason
+      label: Detailed Explanation
+      hint: Provide more context
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: request_date
+      label: Date of Relinquishment Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: last_attendance
+      label: Date of Last Class Attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: impact_header
+      label: -- Academic Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: grade_status
+      label: Current Grade Status in Course
+      hint: Approximate grade if known
+      type: select_one
+      options:
+      - Failing
+      - Below average
+      - Average
+      - Above average
+      - Unknown
+      required: false
+    - id: 19
+      name: progress_description
+      label: Progress Description to Date
+      hint: How much of course completed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: impact_on_degree
+      label: Impact on Degree Completion
+      hint: Will this delay graduation
+      type: select_one
+      options:
+      - No impact
+      - Minor delay
+      - Significant delay
+      - Possible impact
+      - Uncertain
+      required: false
+    - id: 21
+      name: documentation_header
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: supporting_documents
+      label: Supporting Documentation Provided
+      hint: Medical note, work letter, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: acknowledgment_header
+      label: -- Acknowledgment and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: understand_consequences
+      label: I understand the consequences of relinquishing this class
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 25
+      name: final_agreement
+      label: I request to relinquish this class effective immediately
+      hint: null
+      type: select_one
+      options:
+      - Yes, I request relinquishment
+      - No, cancel request
+      required: true

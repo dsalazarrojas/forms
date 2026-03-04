@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: COI Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_title
+      label: Professional Title
+      hint: Your current position or role
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or Institution
+      hint: Name of your employer or affiliated organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: conference_name
+      label: Conference Name
+      hint: Name of the conference you are attending or presenting at
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: presentation_topic
+      label: Presentation Topic or Session
+      hint: If applicable, describe your presentation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: financial_interest
+      label: Do you have any financial interests in organizations related to this
+        conference topic?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 9
+      name: financial_interest_details
+      label: If yes, please describe the financial interest
+      hint: Provide details of any stocks, consulting fees, grants, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: personal_relationship
+      label: Do you have a personal relationship with speakers or organizers?
+      hint: Including family, close friends, or professional partnerships
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 11
+      name: relationship_details
+      label: If yes, please describe the relationship
+      hint: Specify the nature and duration of the relationship
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employment_conflict
+      label: Are you or anyone closely associated with you employed by a competing
+        organization?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 13
+      name: employment_conflict_details
+      label: If yes, please provide details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: intellectual_property
+      label: Do you hold any patents or intellectual property related to conference
+        topics?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 15
+      name: intellectual_property_details
+      label: If yes, please describe the intellectual property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: research_funding
+      label: Have you received research funding from organizations related to this
+        topic?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 17
+      name: research_funding_details
+      label: If yes, provide details about funding sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: disclosure_statement
+      label: To your knowledge, is there any other conflict of interest not covered
+        above?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: other_conflicts
+      label: Please describe any other potential conflicts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: certification
+      label: I certify that the information provided above is accurate and complete
+        to the best of my knowledge
+      hint: You must check this box to proceed
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

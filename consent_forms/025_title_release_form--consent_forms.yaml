@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Title Release Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_a
+      label: party_a_label
+      hint: null
+      type: select_one
+      options:
+      - Party A
+      - Party B
+      required: false
+    - id: 3
+      name: party_b
+      label: party_b_label
+      hint: null
+      type: select_one
+      options:
+      - Party B
+      - Party A
+      required: false
+    - id: 4
+      name: date_signed
+      label: date_signed_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature_a
+      label: signature_a_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: signature_b
+      label: signature_b_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_title
+      label: vehicle_title_label
+      hint: null
+      type: select_one
+      options:
+      - 123-ABC-123
+      - 456-123-123
+      required: true
+    - id: 8
+      name: date_issued
+      label: date_issued_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: issuer_id_number
+      label: issuer_id_number_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: issuer_address
+      label: issuer_address_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issuer_dob
+      label: issuer_dob_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: issuer_phone
+      label: issuer_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: party_a_signature
+      label: party_a_signature_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: party_b_signature
+      label: party_b_signature_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: date_completed
+      label: date_completed_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: completed_by
+      label: completed_by_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: completed_by_phone
+      label: completed_by_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: title_number
+      label: title_number_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: plate_number
+      label: plate_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: year
+      label: year_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: make
+      label: make_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: model
+      label: model_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vin
+      label: vin_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: title_type
+      label: title_type_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: title_release_date
+      label: title_release_date_label
+      hint: null
+      type: date
+      options: []
+      required: false

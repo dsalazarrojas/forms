@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Battery Room Hydrogen Monitoring Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_metadata_header
+      label: -- Inspection Metadata --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: battery_room_id
+      label: Battery Room Identifier/Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sensor_status_header
+      label: -- Hydrogen Monitoring System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sensor_power_status
+      label: Monitoring System Power Status
+      hint: null
+      type: select_one
+      options:
+      - Online / Normal
+      - Battery Backup Mode
+      - Offline / Fault
+      required: true
+    - id: 7
+      name: sensor_calibration_date
+      label: Date of Last Sensor Calibration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: alarm_test_performed
+      label: Was a manual alarm test performed?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Successful
+      - Yes - Failed
+      - false
+      required: true
+    - id: 9
+      name: ventilation_header
+      label: -- Ventilation and Airflow --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: exhaust_fan_operation
+      label: Exhaust Fan Operational Status
+      hint: null
+      type: select_one
+      options:
+      - Running Normal
+      - Low Airflow Detected
+      - Not Operational
+      required: true
+    - id: 11
+      name: intake_louvers_clear
+      label: Are air intake louvers clear and unobstructed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: battery_visual_header
+      label: -- Battery Physical Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: visible_leakage_detected
+      label: Any evidence of electrolyte leakage or corrosion?
+      hint: null
+      type: select_one
+      options:
+      - None Detected
+      - Minor Corrosion
+      - Significant Leakage (Immediate Action)
+      required: true
+    - id: 14
+      name: overall_safety_rating
+      label: Overall Room Safety Rating
+      hint: 5 - Excellent, 1 - Dangerous
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: required_corrective_actions
+      label: Required Corrective Actions
+      hint: Describe any repairs or maintenance needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature_acknowledgment
+      label: I certify that I have inspected the room and found it to be as described.
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 17
+      name: timestamp
+      label: Inspection Completion Time
+      hint: null
+      type: time
+      options: []
+      required: true

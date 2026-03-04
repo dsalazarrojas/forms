@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Complaint Information Form
+    pages:
+    - id: 1
+      name: complaint_info
+      label: Complaint Information
+      hint: Please fill in the required information
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: complaint_details
+      label: Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Not Resolved
+      - In Progress
+      - Resolved
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_manager_relation
+      label: Employee Manager Relation
+      hint: null
+      type: select_one
+      options:
+      - Direct Report
+      - Second Report
+      - Not Applicable
+      - Other
+      required: true
+    - id: 9
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_position
+      label: Employee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: complaint_category
+      label: Complaint Category
+      hint: null
+      type: select_one
+      options:
+      - Harassment
+      - Retaliation
+      - Other
+      required: true
+    - id: 12
+      name: complaint_description
+      label: Complaint Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: complaint_outcome
+      label: Complaint Outcome
+      hint: null
+      type: select_one
+      options:
+      - Not Resolved
+      - In Progress
+      - Resolved
+      required: false
+    - id: 15
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: action_taken_by
+      label: Action Taken By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: action_taken_date
+      label: Action Taken Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - Not Done
+      - In Progress
+      - Done
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

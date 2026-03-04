@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Tattoo Release Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Digital Tattoo Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_type
+      label: Type of Digital Content
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 3
+      name: likeness_description
+      label: Description of Likeness Used
+      hint: Briefly describe the image, likeness, or voice being used.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: likeness_used
+      label: Likeness Used
+      hint: null
+      type: select_one
+      options:
+      - Image1
+      - Image2
+      - Image3
+      required: false
+    - id: 5
+      name: story_description
+      label: Description of Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: story_used
+      label: Story Used
+      hint: null
+      type: select_one
+      options:
+      - Story1
+      - Story2
+      - Story3
+      required: false
+    - id: 7
+      name: voice_description
+      label: Description of Voice
+      hint: Briefly describe the voice being used.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: voice_used
+      label: Voice Used
+      hint: null
+      type: select_one
+      options:
+      - Voice1
+      - Voice2
+      - Voice3
+      required: false
+    - id: 9
+      name: release_grant
+      label: Release of Rights
+      hint: Granting of the following rights
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_signed
+      label: Acknowledgement of Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_signed
+      label: Date Signed
+      hint: The date signed by the individual, in mm/dd/yy format, e.g. 07/20/2024.
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_signed
+      label: Time Signed
+      hint: Time in 24-hour format.
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: signed_at
+      label: Location Signed
+      hint: Location where signed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: Email of individual giving their consent
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: Signature of Individual
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: note
+      label: Additional Notes
+      hint: Additional notes on the individual
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_relationship
+      label: Relationship to Individual
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Friend
+      - Other
+      required: false
+    - id: 21
+      name: contact_role
+      label: Role of Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Spouse
+      - Friend
+      - Other
+      required: false

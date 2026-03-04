@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Permission Form
+    pages:
+    - id: 1
+      name: claim_id
+      label: claim id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: claim_type
+      label: claim type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''auto''}'
+      - '{''name'': ''manual''}'
+      required: true
+    - id: 3
+      name: permission_date
+      label: permission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: claim_amount
+      label: claim amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: insurance_id
+      label: insurance id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: claim_status
+      label: claim status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''pending''}'
+      - '{''name'': ''approved''}'
+      - '{''name'': ''denied''}'
+      required: true
+    - id: 7
+      name: claim_notes
+      label: claim notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_permission
+      label: user permission
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: form_completion
+      label: form completion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: claim_reviewed_by
+      label: claim reviewed by
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: claim_reviewed_date
+      label: claim reviewed date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: claim_reviewing_user
+      label: claim reviewing user
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: claim_reviewing_user_permission
+      label: claim reviewing user permission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: form_completion_status
+      label: form completion status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''completed''}'
+      - '{''name'': ''incomplete''}'
+      - '{''name'': ''pending''}'
+      required: true
+    - id: 15
+      name: submitter_permission
+      label: submitter permission
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: submitter
+      label: submitter
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: claimant
+      label: claimant
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: reviewee
+      label: reviewee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: submitter_status
+      label: submitter status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''approved''}'
+      - '{''name'': ''pending''}'
+      - '{''name'': ''denied''}'
+      required: true
+    - id: 21
+      name: user_id
+      label: user id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submitter_permission_note
+      label: submitter permission note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_permission_note
+      label: reviewer permission note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: claim_reviewer
+      label: claim reviewer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: user
+      label: user
+      hint: null
+      type: number
+      options: []
+      required: false

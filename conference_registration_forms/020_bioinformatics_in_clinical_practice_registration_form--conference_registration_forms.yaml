@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bioinformatics In Clinical Practice Registration Form
+    pages:
+    - id: 1
+      name: attendee_information
+      label: Attendee Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: professional_title
+      label: Professional Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Professional email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_information
+      label: Organization Information
+      hint: Enter your organization details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: Name of your institution or company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Hospital or Medical Center
+      - University or Academic Institution
+      - Research Institute
+      - Pharmaceutical Company
+      - Biotechnology Company
+      - Government Agency
+      - Clinical Laboratory
+      - Other
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization_address
+      label: Organization Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: organization_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: organization_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: organization_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: organization_country
+      label: Country
+      hint: Country
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: conference_details
+      label: Conference Details
+      hint: Select your registration options
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: registration_type
+      label: Registration Type
+      hint: Type of registration
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Virtual Attendance
+      - Student Registration
+      - Industry Professional
+      - Exhibitor Pass
+      required: true
+    - id: 18
+      name: conference_days
+      label: Conference Days
+      hint: Which days will you attend
+      type: select_multiple
+      options:
+      - Day 1 - Fundamentals
+      - Day 2 - Clinical Applications
+      - Day 3 - Advanced Topics
+      - Day 4 - Workshops
+      - All Days
+      required: true
+    - id: 19
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose your preferred workshops
+      type: select_multiple
+      options:
+      - NGS Data Analysis
+      - Clinical Variant Interpretation
+      - Pharmacogenomics Implementation
+      - Cancer Genomics
+      - Infectious Disease Sequencing
+      - None
+      required: false
+    - id: 20
+      name: continuing_education
+      label: Continuing Education
+      hint: Do you need CE credits
+      type: select_one
+      options:
+      - Yes - CME Credits
+      - Yes - CEU Credits
+      - Yes - PACE Credits
+      - No Credits Needed
+      required: true
+    - id: 21
+      name: professional_background
+      label: Professional Background
+      hint: Tell us about your background
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: specialty_area
+      label: Specialty Area
+      hint: Your area of specialization
+      type: select_one
+      options:
+      - Clinical Genetics
+      - Pathology
+      - Laboratory Medicine
+      - Bioinformatics
+      - Computational Biology
+      - Medical Oncology
+      - Pharmacology
+      - Other
+      required: true
+    - id: 23
+      name: years_experience
+      label: Years of Experience
+      hint: In your field
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 24
+      name: bioinformatics_experience
+      label: Bioinformatics Experience Level
+      hint: Your experience with bioinformatics
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 25
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 26
+      name: accommodation_needs
+      label: Accommodation Needs
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: payment_information
+      label: Payment Information
+      hint: How will you pay
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: Select payment type
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Wire Transfer
+      - Check
+      - Invoice Me Later
+      required: true
+    - id: 29
+      name: promo_code
+      label: Promo Code
+      hint: Discount code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: how_heard_about_conference
+      label: How Did You Hear About This Conference
+      hint: Help us improve outreach
+      type: select_one
+      options:
+      - Email Newsletter
+      - Professional Association
+      - Colleague Referral
+      - Social Media
+      - Website Search
+      - Advertisement
+      - Previous Attendee
+      required: false
+    - id: 31
+      name: special_interests
+      label: Areas of Special Interest
+      hint: Topics you want to learn about
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: networking_interest
+      label: Networking Interest
+      hint: Interested in networking events
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Maybe - Depends on Schedule
+      - No - Just Sessions
+      required: true
+    - id: 33
+      name: exhibitor_interest
+      label: Exhibitor Interest
+      hint: Interested in visiting exhibitors
+      type: select_one
+      options:
+      - Yes - Planning to Visit
+      - Maybe
+      - No Interest
+      required: false
+    - id: 34
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Agree to conference policies
+      type: select_one
+      options:
+      - I agree to all terms and conditions
+      - I understand the cancellation policy
+      required: true

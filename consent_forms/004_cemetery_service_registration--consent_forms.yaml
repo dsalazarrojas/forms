@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Service Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of service registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: registrant_name
+      label: Registrant Name
+      hint: Full name of person registering the service
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registrant_email
+      label: Registrant Email
+      hint: Email address for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: registrant_phone
+      label: Registrant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_deceased
+      label: Relationship to Deceased
+      hint: Your relationship to the deceased
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Grandparent
+      - Grandchild
+      - Other family member
+      - Friend
+      - Legal representative
+      - Funeral director
+      required: true
+    - id: 6
+      name: deceased_full_name
+      label: Deceased Full Name
+      hint: Complete legal name of the deceased
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: deceased_date_of_birth
+      label: Deceased Date of Birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: deceased_date_of_death
+      label: Deceased Date of Death
+      hint: Date of passing
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: burial_location
+      label: Burial Location
+      hint: Cemetery section and plot number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: Select the type of service requested
+      type: select_one
+      options:
+      - Graveside committal service
+      - Memorial service
+      - Celebration of life
+      - Military honors ceremony
+      - Religious ceremony
+      - Scattering of ashes
+      - Monument dedication
+      - Other
+      required: true
+    - id: 11
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: First choice for service date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_service_time
+      label: Preferred Service Time
+      hint: Preferred time of day
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice date if first is unavailable
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Approximate number of people attending
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: special_requirements
+      label: Special Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wheelchair accessibility
+      - Audio system needed
+      - Seating arrangement
+      - Floral arrangements
+      - Religious officiant
+      - Military honor guard
+      - Live streaming
+      - Photography permitted
+      - Reception area needed
+      required: false
+    - id: 16
+      name: consent_for_service
+      label: Consent for Service
+      hint: I authorize the cemetery to proceed with the requested service
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - Do not proceed
+      required: true
+    - id: 17
+      name: liability_acknowledgment
+      label: Liability Acknowledgment
+      hint: I understand and accept the cemetery policies and liability terms
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I do not acknowledge
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for services
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash
+      - Pre-arranged funeral plan
+      - Insurance assignment
+      required: true
+    - id: 19
+      name: additional_requests
+      label: Additional Requests or Comments
+      hint: Any special instructions or additional information
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_name
+      label: Signature Name
+      hint: Type full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

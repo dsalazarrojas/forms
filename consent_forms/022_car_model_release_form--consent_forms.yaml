@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Model Release Form
+    pages:
+    - id: 1
+      name: owner_identification_header
+      label: -- Vehicle Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_full_name_release
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email_release
+      label: Email Address
+      hint: For digital copy of the release
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone_release
+      label: Phone Number
+      hint: Primary contact for the release
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_address_release
+      label: Mailing Address
+      hint: Your home or business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_identification_header_release
+      label: -- Vehicle Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make_model_release
+      label: Car Make and Model
+      hint: Describe the car in the image
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year_release
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_vin_release
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: release_details_header
+      label: -- Release Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: image_usage_description
+      label: Description of Image Usage
+      hint: How will the image be used?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: media_outlets
+      label: Intended Media Outlets
+      hint: (e.g., Website, Social Media, Print Ads)
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Print Advertisements
+      - Television
+      - Magazine/Editorial
+      - Internal Training
+      required: true
+    - id: 13
+      name: release_duration
+      label: Duration of Release
+      hint: How long do you grant permission for?
+      type: select_one
+      options:
+      - Perpetual (Indefinite)
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      required: true
+    - id: 14
+      name: release_acknowledgement_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: release_acknowledgement
+      label: I acknowledge the car model release terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: signature_confirmation_release
+      label: Type your name for release confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: witness_full_name_release
+      label: Witness Full Name
+      hint: (If any)
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_release_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the release
+      type: text
+      options: []
+      required: false

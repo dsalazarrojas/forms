@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: digitalHealthPolicyResearchInterviewConsent
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participantinformation
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: researchteam
+      label: Research Team
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to participate
+      - I do not agree to participate
+      required: true
+    - id: 5
+      name: consentdate
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recordingpreference
+      label: Recording Preference
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: participantconsent
+      label: Participant Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participantagreement
+      label: Participant Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I will participate
+      - I will not participate
+      required: true

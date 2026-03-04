@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_appointment_checklist_form_template
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_owner_info
+      label: pet_owner_info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      required: false
+    - id: 3
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: veterinary_info
+      label: veterinary_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''Bank Draft'', ''value'': ''bank_draft''}'
+      - '{''label'': ''Check'', ''value'': ''check''}'
+      required: false
+    - id: 8
+      name: veterinary_notes
+      label: veterinary_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_notes
+      label: payment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''ChatJimmy'', ''value'': ''chatjimmy''}'
+      - '{''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - '{''label'': ''John Doe'', ''value'': ''john_doe''}'
+      required: false
+    - id: 11
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

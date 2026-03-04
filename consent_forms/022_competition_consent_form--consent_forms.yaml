@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competition Consent Form
+    pages:
+    - id: 1
+      name: competition_name
+      label: Competition Name
+      hint: Name of the competition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: competition_date
+      label: Competition Date
+      hint: When the competition takes place
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: competition_location
+      label: Competition Location
+      hint: Where the competition is held
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name of participant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_address
+      label: Participant Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant birth date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: age_category
+      label: Age Category
+      hint: Competition age group
+      type: select_one
+      options:
+      - Under 12
+      - 12 to 14
+      - 15 to 17
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 to 54
+      - 55 and over
+      required: true
+    - id: 10
+      name: gender
+      label: Gender
+      hint: For competition categories
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to participant
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Sibling
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medications
+      label: Current Medications
+      hint: Any regular medications
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: Food drug or environmental allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: insurance_policy
+      label: Policy Number
+      hint: Insurance policy number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: I assume all risks and waive liability
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 20
+      name: medical_treatment_consent
+      label: Medical Treatment Consent
+      hint: I consent to emergency medical treatment
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 21
+      name: photo_video_consent
+      label: Photo and Video Consent
+      hint: I consent to being photographed or filmed
+      type: select_one
+      options:
+      - Yes I consent for any use
+      - Yes for event promotion only
+      - No I do not consent
+      required: true
+    - id: 22
+      name: data_privacy
+      label: Data Privacy Agreement
+      hint: I agree to data processing terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 23
+      name: rules_agreement
+      label: Rules and Regulations Agreement
+      hint: I agree to follow all competition rules
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 24
+      name: code_of_conduct
+      label: Code of Conduct Agreement
+      hint: I agree to uphold the code of conduct
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 25
+      name: travel_arrangements
+      label: Travel Arrangements
+      hint: Who is responsible for travel
+      type: select_one
+      options:
+      - Self-arranged
+      - Organization arranged
+      - Not applicable
+      required: false
+    - id: 26
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: guardian_signature
+      label: Guardian Signature
+      hint: Required if under 18
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: guardian_relationship
+      label: Guardian Relationship
+      hint: Relationship to participant
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Transportation Form
+    pages:
+    - id: 1
+      name: pick_up_location
+      label: Pick up location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drop_off_location
+      label: Drop off location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transportation_method
+      label: Transportation method
+      hint: null
+      type: select_multiple
+      options:
+      - Taxi
+      - Bus
+      - Train
+      - Other
+      required: false
+    - id: 4
+      name: transportation_time
+      label: Pick up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: pick_up_parent
+      label: Pick up parent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false

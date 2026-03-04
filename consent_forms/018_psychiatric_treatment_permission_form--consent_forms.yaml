@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychiatric Treatment Permission Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_goal
+      label: Treatment Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Medication
+      - Therapy
+      - Hospitalization
+      required: false
+    - id: 6
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once a day
+      - Twice a day
+      - Three times a day
+      required: false
+    - id: 8
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false

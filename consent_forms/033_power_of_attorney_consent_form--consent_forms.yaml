@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Power Of Attorney Consent Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grantor
+      label: Grantor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Self''}'
+      - '{''id'': 2, ''label'': ''Spouse''}'
+      - '{''id'': 3, ''label'': ''Family Member''}'
+      - '{''id'': 4, ''label'': ''Friend''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: grantee
+      label: Grantee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Parent/Child''}'
+      - '{''id'': 2, ''label'': ''Spouse''}'
+      - '{''id'': 3, ''label'': ''Sibling''}'
+      - '{''id'': 4, ''label'': ''Family Friend''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Financial''}'
+      - '{''id'': 2, ''label'': ''Real Estate''}'
+      - '{''id'': 3, ''label'': ''Health Care''}'
+      - '{''id'': 4, ''label'': ''Business''}'
+      required: false
+    - id: 6
+      name: date_effective
+      label: Date Effective
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signed
+      label: Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signature_drawing
+      label: Draw Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: notary_public
+      label: Notary Public
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false

@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Event Photography Authorization Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_role
+      label: Participant Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Guest''}'
+      - '{''id'': 2, ''label'': ''Performer''}'
+      - '{''id'': 3, ''label'': ''Sponsor''}'
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_usage
+      label: Photo Usage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''For marketing purposes''}'
+      - '{''id'': 2, ''label'': ''For event promotion''}'
+      - '{''id'': 3, ''label'': ''For social media''}'
+      required: true

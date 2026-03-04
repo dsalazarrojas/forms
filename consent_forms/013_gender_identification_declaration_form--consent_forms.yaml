@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gender Identification Declaration Form
+    pages:
+    - id: 1
+      name: gender_identity
+      label: What is your gender identity?
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Genderqueer
+      - Agender
+      - Androgyne
+      - Bigender
+      - Genderfluid
+      - Gender Non-Binary
+      - Gender variant
+      - Neutrois
+      - Other (please specify)
+      - Transgender
+      - Transsexual
+      - Trans man
+      - Trans woman
+      - Two-Spirit
+      - Woman
+      - Woman-in-the-Middle
+      - Womanboy
+      - Agender
+      required: true
+    - id: 2
+      name: pronouns
+      label: What pronouns do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - they
+      - he
+      - she
+      required: true
+    - id: 3
+      name: name
+      label: What is your preferred name?
+      hint: Please use your preferred name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender_non_binary_description
+      label: If non-binary, what does that mean to you?
+      hint: Please provide a description
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: other_gender_identity
+      label: Other gender identity
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: additional_information
+      label: Additional information
+      hint: Please use this field to provide any additional information
+      type: text
+      options: []
+      required: false

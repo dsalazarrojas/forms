@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: whitewater_rafting_waiver_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_authorization
+      label: medical authorization
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 6
+      name: rafting_experience
+      label: rafting experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rafting_location
+      label: rafting location
+      hint: null
+      type: select_multiple
+      options:
+      - location 1
+      - location 2
+      - location 3
+      required: true
+    - id: 8
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition_aware
+      label: medical condition aware
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 10
+      name: medical_condition_description
+      label: medical condition description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_signature
+      label: participant signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: witness_signature
+      label: witness signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: rafting_organization
+      label: rafting organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rafting_location_aware
+      label: rafting location aware
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 16
+      name: rafting_location_description
+      label: rafting location description
+      hint: null
+      type: text
+      options: []
+      required: false

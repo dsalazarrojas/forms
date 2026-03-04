@@ -1,0 +1,416 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Service Scheduling Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automated Service Scheduling Consent Form
+      hint: Please read and provide your consent for automated service scheduling
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: Provide your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_info
+      label: Service Information
+      hint: Details about the service
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_type
+      label: Type of Service
+      hint: What service will be scheduled
+      type: select_one
+      options:
+      - Home Maintenance
+      - HVAC Service
+      - Plumbing
+      - Electrical
+      - Landscaping
+      - Cleaning Service
+      - Pest Control
+      - Pool Service
+      - Other
+      required: true
+    - id: 13
+      name: service_provider
+      label: Service Provider Name
+      hint: Company providing service
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: account_number
+      label: Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: automation_consent
+      label: Automated Scheduling Consent
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: understand_automation
+      label: Understanding of Automated Scheduling
+      hint: Do you understand how it works
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Info
+      required: true
+    - id: 17
+      name: consent_to_automate
+      label: Consent to Automated Scheduling
+      hint: Do you consent to automated booking
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 18
+      name: automation_features
+      label: Automated Features You Are Consenting To
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Automatic Appointment Booking
+      - Automatic Reminders
+      - Automatic Rescheduling
+      - Automatic Confirmations
+      - Service Notifications
+      - Payment Reminders
+      required: true
+    - id: 19
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: Your preferences for automation
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_days
+      label: Preferred Days of Week
+      hint: Which days work best
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 21
+      name: preferred_times
+      label: Preferred Time Windows
+      hint: What times work best
+      type: select_multiple
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-8pm
+      - Any Time
+      required: false
+    - id: 22
+      name: advance_notice
+      label: Minimum Advance Notice
+      hint: How much notice do you need
+      type: select_one
+      options:
+      - Same Day OK
+      - 24 Hours
+      - 48 Hours
+      - 1 Week
+      - 2 Weeks
+      required: false
+    - id: 23
+      name: blackout_dates
+      label: Blackout Dates
+      hint: Dates to avoid
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How should we contact you
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: Best way to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mobile App Notification
+      - Any Method
+      required: true
+    - id: 26
+      name: reminder_frequency
+      label: Reminder Frequency
+      hint: How often to send reminders
+      type: select_one
+      options:
+      - Day Before Only
+      - Day Of Only
+      - Both Day Before and Day Of
+      - Week Before and Day Before
+      - No Reminders
+      required: true
+    - id: 27
+      name: confirmation_required
+      label: Confirmation Required
+      hint: Do you need to confirm
+      type: select_one
+      options:
+      - Yes I Must Confirm
+      - No Auto-Confirm is Fine
+      - Confirm Unless I Cancel
+      required: true
+    - id: 28
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Understanding of cancellation terms
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: understand_cancellation
+      label: Understand Cancellation Policy
+      hint: Do you understand the policy
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need More Info
+      required: true
+    - id: 30
+      name: cancellation_method
+      label: How Can You Cancel
+      hint: Methods available
+      type: select_one
+      options:
+      - Online Portal
+      - Phone Call
+      - Text Message
+      - Email
+      - Any Method
+      required: false
+    - id: 31
+      name: cancellation_fee
+      label: Cancellation Fee Acknowledgment
+      hint: Late cancellations may incur fees
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 32
+      name: data_privacy
+      label: Data Privacy
+      hint: How your data is used
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: data_usage_consent
+      label: Data Usage Consent
+      hint: Consent to use data for scheduling
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 34
+      name: data_sharing
+      label: Data Sharing Consent
+      hint: Sharing with service providers
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 35
+      name: privacy_policy
+      label: Privacy Policy Acknowledgment
+      hint: Have you read the privacy policy
+      type: select_one
+      options:
+      - Yes I Have Read
+      - No I Have Not Read
+      required: true
+    - id: 36
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: Additional terms
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: terms_acceptance
+      label: Terms Acceptance
+      hint: Do you accept the terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 38
+      name: service_level
+      label: Service Level Agreement
+      hint: Do you understand SLA
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not
+      required: false
+    - id: 39
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Understanding of liability terms
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: false
+    - id: 40
+      name: modification_rights
+      label: Modification Rights
+      hint: Company may modify schedule
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 41
+      name: emergency_contact
+      label: Emergency Contact
+      hint: For urgent scheduling changes
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: Who to contact
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Their phone number
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: additional_authorizations
+      label: Additional Authorizations
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 46
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 47
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false

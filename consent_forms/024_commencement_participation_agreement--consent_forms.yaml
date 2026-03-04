@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commencement Participation Agreement
+    pages:
+    - id: 1
+      name: graduate_name
+      label: Graduate Full Name
+      hint: Legal name as it will appear on diploma
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: University student identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number for ceremony updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identification purposes
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_academic_info
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: degree_program
+      label: Degree Program
+      hint: Your program of study
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: major
+      label: Major
+      hint: Primary field of study
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: minor
+      label: Minor
+      hint: Secondary field of study if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: graduation_term
+      label: Graduation Term
+      hint: Term of graduation
+      type: select_one
+      options:
+      - Spring 2026
+      - Summer 2026
+      - Fall 2026
+      - Spring 2027
+      required: true
+    - id: 11
+      name: honors_designation
+      label: Honors Designation
+      hint: Academic honors if applicable
+      type: select_one
+      options:
+      - None
+      - Cum Laude
+      - Magna Cum Laude
+      - Summa Cum Laude
+      required: true
+    - id: 12
+      name: section_header_ceremony_details
+      label: -- Ceremony Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ceremony_attendance
+      label: Will You Attend Ceremony
+      hint: Confirm your participation
+      type: select_one
+      options:
+      - Yes I Will Attend
+      - No I Will Not Attend
+      required: true
+    - id: 14
+      name: ceremony_date
+      label: Ceremony Date
+      hint: Selected ceremony date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: ceremony_location
+      label: Ceremony Location
+      hint: Venue for the ceremony
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cap_gown_size
+      label: Cap and Gown Size
+      hint: Size for regalia
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 17
+      name: section_header_guests
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many guests will attend
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: guest_tickets_needed
+      label: Guest Tickets Needed
+      hint: Number of tickets required
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Needs for Guests
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_agreements
+      label: -- Agreements and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: participation_agreement
+      label: Participation Agreement
+      hint: I agree to participate in the ceremony
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 23
+      name: conduct_agreement
+      label: Conduct Agreement
+      hint: I agree to follow ceremony conduct guidelines
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 24
+      name: photo_release
+      label: Photo and Video Release
+      hint: Allow photos and videos of the ceremony
+      type: select_one
+      options:
+      - Yes Allowed
+      - No Not Allowed
+      required: true
+    - id: 25
+      name: name Pronunciation
+      label: Name Pronunciation Guide
+      hint: How should your name be pronounced
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_header_contact_person
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: Relationship to graduate
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Spouse
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 30
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any special needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

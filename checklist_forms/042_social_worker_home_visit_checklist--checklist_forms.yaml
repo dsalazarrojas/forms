@@ -1,0 +1,127 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Social Worker Home Visit Checklist
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment
+      label: Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Safe''}'
+      - '{''id'': 2, ''name'': ''Not Safe''}'
+      - '{''id'': 3, ''name'': ''Unable to Determine''}'
+      required: false
+    - id: 3
+      name: home_safety
+      label: Home Safety
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Safe''}'
+      - '{''id'': 2, ''name'': ''Not Safe''}'
+      - '{''id'': 3, ''name'': ''Unable to Determine''}'
+      required: false
+    - id: 4
+      name: client_support_systems
+      label: Client Support Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Safe''}'
+      - '{''id'': 2, ''name'': ''Not Safe''}'
+      - '{''id'': 3, ''name'': ''Unable to Determine''}'
+      required: false
+    - id: 5
+      name: client_resources
+      label: Client Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Safe''}'
+      - '{''id'': 2, ''name'': ''Not Safe''}'
+      - '{''id'': 3, ''name'': ''Unable to Determine''}'
+      required: false
+    - id: 6
+      name: client_environment
+      label: Client Environment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Safe''}'
+      - '{''id'': 2, ''name'': ''Not Safe''}'
+      - '{''id'': 3, ''name'': ''Unable to Determine''}'
+      required: false
+    - id: 7
+      name: client_culture
+      label: Client Culture
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Safe''}'
+      - '{''id'': 2, ''name'': ''Not Safe''}'
+      - '{''id'': 3, ''name'': ''Unable to Determine''}'
+      required: false
+    - id: 8
+      name: home_visit_notes
+      label: Home Visit Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: home_visit_photos
+      label: Home Visit Photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Unable to Determine''}'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_recommendations
+      label: Follow Up Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Unable to Determine''}'
+      required: false
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Review Needed''}'
+      - '{''id'': 2, ''name'': ''Completed''}'
+      - '{''id'': 3, ''name'': ''Not Started''}'
+      required: false

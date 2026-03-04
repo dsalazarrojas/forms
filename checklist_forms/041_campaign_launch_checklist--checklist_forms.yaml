@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Launch Checklist
+    pages:
+      - id: 1
+        name: campaign_name
+        label: Campaign Name
+        hint: Name of campaign being launched
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: launch_date
+        label: Launch Date
+        hint: Scheduled date for campaign launch
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: checklist_item
+        label: Checklist Item
+        hint: Task to be completed before launch
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assigned_to
+        label: Assigned To
+        hint: Person responsible for the task
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: due_date
+        label: Due Date for Task
+        hint: When the task must be completed
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: status
+        label: Status
+        hint: Current status of the task
+        type: select_one
+        options: [Not Started, In Progress, Completed]
+        required: true
+      - id: 7
+        name: dependencies
+        label: Dependencies
+        hint: Other tasks that must be completed first
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: verification
+        label: Verification
+        hint: Person verifying completion
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: notes
+        label: Notes
+        hint: Any relevant remarks about the task
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: readiness_for_launch
+        label: Readiness For Launch
+        hint: Overall readiness assessment
+        type: select_one
+        options: [Ready, Not Ready, Partial]
+        required: true

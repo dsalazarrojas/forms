@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Consent Form
+    pages:
+    - id: 1
+      name: party_consent
+      label: Party Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_consent
+      label: Attendee Consent
+      hint: null
+      type: select_one
+      options:
+      - Consent
+      - No Consent
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions_other
+      label: Special Instructions Other
+      hint: null
+      type: text
+      options: []
+      required: false

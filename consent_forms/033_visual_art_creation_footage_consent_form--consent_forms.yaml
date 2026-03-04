@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: visual_art_creation_footage_consent_form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: footage_description
+      label: Footage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: footage_capture_method
+      label: Footage Capture Method
+      hint: null
+      type: select_one
+      options:
+      - Photo
+      - Video
+      - Drawings/Sketches
+      - 3D Model
+      - Other
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Photo
+      - Video
+      - Drawings/Sketches
+      - 3D Model
+      - Other
+      required: false
+    - id: 8
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

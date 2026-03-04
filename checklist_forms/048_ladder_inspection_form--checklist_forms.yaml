@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ladder Inspection Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Ladder Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ladder_type
+      label: Ladder Type
+      hint: null
+      type: select_one
+      options:
+      - Ladder A
+      - Ladder B
+      - Ladder C
+      required: false
+    - id: 3
+      name: ladder_height
+      label: Ladder Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ladder_width
+      label: Ladder Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ladder_material
+      label: Ladder Material
+      hint: null
+      type: select_multiple
+      options:
+      - Metal
+      - Wood
+      - Plastic
+      required: false
+    - id: 6
+      name: ladder_angle
+      label: Ladder Angle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_page_2
+      label: First Page 2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,379 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Comparison Checklist
+    pages:
+    - id: 1
+      name: searcher_name
+      label: Your Name
+      hint: Person searching for apartment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: search_date
+      label: Search Start Date
+      hint: When did you start looking
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: budget_min
+      label: Minimum Monthly Budget
+      hint: Lowest amount willing to pay
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: budget_max
+      label: Maximum Monthly Budget
+      hint: Highest amount willing to pay
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: desired_bedrooms
+      label: Desired Bedrooms
+      hint: Number of bedrooms needed
+      type: select_one
+      options:
+      - Studio
+      - 1 bedroom
+      - 2 bedrooms
+      - 3 bedrooms
+      - 4 or more bedrooms
+      required: true
+    - id: 6
+      name: desired_bathrooms
+      label: Desired Bathrooms
+      hint: Number of bathrooms needed
+      type: select_one
+      options:
+      - 1 bathroom
+      - 1.5 bathrooms
+      - 2 bathrooms
+      - 2.5 or more bathrooms
+      required: true
+    - id: 7
+      name: preferred_location
+      label: Preferred Location or Neighborhood
+      hint: Where do you want to live
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: commute_requirement
+      label: Maximum Commute Time
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: apartment_1_name
+      label: Apartment 1 Name
+      hint: Property name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: apartment_1_address
+      label: Apartment 1 Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: apartment_1_rent
+      label: Apartment 1 Monthly Rent
+      hint: Base rent amount
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: apartment_1_deposit
+      label: Apartment 1 Security Deposit
+      hint: Deposit required
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: apartment_1_bedrooms
+      label: Apartment 1 Bedrooms
+      hint: Number of bedrooms
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: apartment_1_bathrooms
+      label: Apartment 1 Bathrooms
+      hint: Number of bathrooms
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: apartment_1_square_feet
+      label: Apartment 1 Square Feet
+      hint: Total area
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: apartment_1_amenities
+      label: Apartment 1 Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - In-unit laundry
+      - Dishwasher
+      - Air conditioning
+      - Heating
+      - Balcony or patio
+      - Walk-in closet
+      - Hardwood floors
+      - Updated kitchen
+      - Fireplace
+      - None
+      required: true
+    - id: 17
+      name: apartment_1_building_amenities
+      label: Apartment 1 Building Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fitness center
+      - Pool
+      - Parking included
+      - Elevator
+      - Doorman or security
+      - Package receiving
+      - Pet friendly
+      - Storage unit
+      - Bike storage
+      - None
+      required: true
+    - id: 18
+      name: apartment_1_utilities_included
+      label: Apartment 1 Utilities Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Water
+      - Sewer
+      - Trash
+      - Electricity
+      - Gas
+      - Internet
+      - Cable
+      required: true
+    - id: 19
+      name: apartment_1_pet_policy
+      label: Apartment 1 Pet Policy
+      hint: Are pets allowed
+      type: select_one
+      options:
+      - Pets allowed
+      - Cats only
+      - Dogs only
+      - No pets
+      - Case by case
+      required: true
+    - id: 20
+      name: apartment_1_lease_term
+      label: Apartment 1 Lease Term
+      hint: Length of lease
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: apartment_1_availability
+      label: Apartment 1 Availability Date
+      hint: When can you move in
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: apartment_1_condition_rating
+      label: Apartment 1 Condition Rating
+      hint: Rate the condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: apartment_1_notes
+      label: Apartment 1 Notes
+      hint: Additional observations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: apartment_2_name
+      label: Apartment 2 Name
+      hint: Property name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: apartment_2_address
+      label: Apartment 2 Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: apartment_2_rent
+      label: Apartment 2 Monthly Rent
+      hint: Base rent amount
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: apartment_2_deposit
+      label: Apartment 2 Security Deposit
+      hint: Deposit required
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: apartment_2_bedrooms
+      label: Apartment 2 Bedrooms
+      hint: Number of bedrooms
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: apartment_2_bathrooms
+      label: Apartment 2 Bathrooms
+      hint: Number of bathrooms
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: apartment_2_square_feet
+      label: Apartment 2 Square Feet
+      hint: Total area
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: apartment_2_amenities
+      label: Apartment 2 Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - In-unit laundry
+      - Dishwasher
+      - Air conditioning
+      - Heating
+      - Balcony or patio
+      - Walk-in closet
+      - Hardwood floors
+      - Updated kitchen
+      - Fireplace
+      - None
+      required: true
+    - id: 32
+      name: apartment_2_building_amenities
+      label: Apartment 2 Building Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fitness center
+      - Pool
+      - Parking included
+      - Elevator
+      - Doorman or security
+      - Package receiving
+      - Pet friendly
+      - Storage unit
+      - Bike storage
+      - None
+      required: true
+    - id: 33
+      name: apartment_2_utilities_included
+      label: Apartment 2 Utilities Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Water
+      - Sewer
+      - Trash
+      - Electricity
+      - Gas
+      - Internet
+      - Cable
+      required: true
+    - id: 34
+      name: apartment_2_pet_policy
+      label: Apartment 2 Pet Policy
+      hint: Are pets allowed
+      type: select_one
+      options:
+      - Pets allowed
+      - Cats only
+      - Dogs only
+      - No pets
+      - Case by case
+      required: true
+    - id: 35
+      name: apartment_2_lease_term
+      label: Apartment 2 Lease Term
+      hint: Length of lease
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: apartment_2_availability
+      label: Apartment 2 Availability Date
+      hint: When can you move in
+      type: date
+      options: []
+      required: true
+    - id: 37
+      name: apartment_2_condition_rating
+      label: Apartment 2 Condition Rating
+      hint: Rate the condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 38
+      name: apartment_2_notes
+      label: Apartment 2 Notes
+      hint: Additional observations
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: comparison_notes
+      label: Overall Comparison Notes
+      hint: Your thoughts on each option
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: preferred_choice
+      label: Preferred Choice
+      hint: Which apartment do you prefer
+      type: select_one
+      options:
+      - Apartment 1
+      - Apartment 2
+      - Need to see more
+      - Undecided
+      required: true
+    - id: 41
+      name: decision_factors
+      label: Key Decision Factors
+      hint: What matters most in your decision
+      type: text
+      options: []
+      required: false

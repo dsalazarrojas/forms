@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CMTW Remote Music Therapy Services Agreement
+    pages:
+      - id: 1
+        name: header
+        label: -- Service Agreement --
+        hint: Remote teletherapy consent and agreement
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client name
+        hint: Full name of client or guardian
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: therapist_name
+        label: Therapist name
+        hint: Name of assigned music therapist
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: session_frequency
+        label: Session frequency
+        hint: Typical number of sessions per week or month
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: session_consent
+        label: Consent to remote sessions
+        hint: Client agreement to teletherapy modality
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 6
+        name: confidentiality_acknowledgement
+        label: Confidentiality acknowledgement
+        hint: Understanding of privacy and limits to confidentiality
+        type: select_one
+        options:
+          - Acknowledged
+          - Not acknowledged
+        required: true
+      - id: 7
+        name: emergency_contact
+        label: Emergency contact name and phone
+        hint: Who to contact in case of emergency
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: technology_requirements
+        label: Technology requirements
+        hint: Device, internet, and software needed for sessions
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: fees_and_cancellation
+        label: Fees and cancellation policy
+        hint: Summary of fee structure and cancellation terms
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: client_signature
+        label: Client signature name
+        hint: Type full name to serve as electronic signature
+        type: text
+        options: []
+        required: true

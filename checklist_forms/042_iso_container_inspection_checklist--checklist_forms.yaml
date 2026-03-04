@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: iso_container_inspection_checklist
+    pages:
+    - id: 1
+      name: shipping_company
+      label: Shipping Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: iso_standards
+      label: Iso Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_issue
+      label: Date Of Issue
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: condition
+      label: Condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_completion
+      label: Date Of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Land
+      - Sea
+      required: false
+    - id: 8
+      name: ship_from
+      label: Ship From
+      hint: null
+      type: select_multiple
+      options:
+      - Warehouse 1
+      - Warehouse 2
+      - Warehouse 3
+      required: true
+    - id: 9
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: select_multiple
+      options:
+      - Warehouse 1
+      - Warehouse 2
+      - Warehouse 3
+      required: true
+    - id: 10
+      name: date_of_arrival
+      label: Date Of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_of_return
+      label: Date Of Return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: remarks_2
+      label: Remarks 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: ship_to_address
+      label: Ship To Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ship_from_address
+      label: Ship From Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: ship_to_contact
+      label: Ship To Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ship_from_contact
+      label: Ship From Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: ship_from_email
+      label: Ship From Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: ship_from_phone
+      label: Ship From Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ship_from_website
+      label: Ship From Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: ship_from_other
+      label: Ship From Other
+      hint: null
+      type: text
+      options: []
+      required: false

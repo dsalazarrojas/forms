@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: hockey_equipment_checklist
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: game_date
+      label: Game Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: equipment_needed
+      label: Equipment Needed
+      hint: null
+      type: select_multiple
+      options:
+      - helmet
+      - shin guards
+      - gloves
+      - stick
+      - skates
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter a family member or emergency contact person and their phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Enter the phone number of the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional comments about the player
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: game_time
+      label: Game Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: game_location
+      label: Game Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: player_position
+      label: Player Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: player_number
+      label: Player Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: team_color
+      label: Team Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: referee_phone
+      label: Referee Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: game_officials
+      label: Game Officials
+      hint: null
+      type: select_multiple
+      options:
+      - Linesman 1
+      - Linesman 2
+      - Linesman 3
+      - Linesman 4
+      - Referee
+      required: true
+    - id: 18
+      name: game_officials_other
+      label: Other Game Officials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: player_height
+      label: Player Height
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: player_weight
+      label: Player Weight
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: equipment_provided
+      label: Equipment Provided
+      hint: null
+      type: select_multiple
+      options:
+      - Helmet
+      - Shin guards
+      - Gloves
+      - Stick
+      - Skates
+      required: true
+    - id: 25
+      name: game_status
+      label: Game Status
+      hint: null
+      type: select_one
+      options:
+      - On Ice
+      - On Grass
+      - Canceled
+      - Postponed
+      - Started
+      required: true
+    - id: 26
+      name: notes2
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

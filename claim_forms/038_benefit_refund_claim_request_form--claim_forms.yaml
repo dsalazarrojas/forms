@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Benefit Refund Claim Request Form
+    pages:
+    - id: 1
+      name: section_claimant
+      label: -- Claimant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_claim
+      label: -- Claim Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: claim_date
+      label: Date of Claim Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: claim_type
+      label: Type of Refund Claim
+      hint: null
+      type: select_one
+      options:
+      - Overpayment Refund
+      - Premium Refund
+      - Deductible Refund
+      - Co-pay Refund
+      - Administrative Error
+      - Termination Refund
+      - Other
+      required: true
+    - id: 10
+      name: incident_date
+      label: Date of Original Transaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: claim_amount
+      label: Refund Amount Requested
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: claim_reason
+      label: Reason for Refund
+      hint: Detailed explanation
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_documentation
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: documentation_list
+      label: Documentation Provided
+      hint: Receipt, invoice, statement, etc.
+      type: select_multiple
+      options:
+      - Original Receipt
+      - Invoice
+      - Bank Statement
+      - Proof of Payment
+      - Correspondence
+      - Medical Records
+      - Insurance Explanation
+      - Other
+      required: true
+    - id: 15
+      name: documentation_description
+      label: Description of Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_refund
+      label: -- Refund Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: refund_method
+      label: Preferred Refund Method
+      hint: null
+      type: select_one
+      options:
+      - Original Payment Method
+      - Direct Deposit
+      - Check
+      - Credit Back to Account
+      - Other
+      required: true
+    - id: 18
+      name: bank_account_info
+      label: Bank Account Information
+      hint: If direct deposit is selected
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_authorization
+      label: -- Authorization and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: verify_accuracy
+      label: I Verify All Information Is Accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: authorize_claim
+      label: I Authorize Processing of This Claim
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: claim_deadline
+      label: This Claim Is Within the Deadline
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

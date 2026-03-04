@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_participation_waiver_form
+    pages:
+    - id: 1
+      name: sports_participation_waiver_form
+      label: Sports Participation Waiver Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and consent'', ''value'': 1}'
+      - '{''label'': ''Do not understand and do not consent'', ''value'': 2}'
+      required: true
+    - id: 6
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Panel Inspection Checklist
+    pages:
+    - id: 1
+      name: panel_name
+      label: electrical_panel_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: panel_status
+      label: panel_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: ground_faults
+      label: ground_faults
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: electrical_panels
+      label: electrical_panels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: electrical_panel_type
+      label: electrical_panel_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: amp_rating
+      label: amp_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: circuit_breakers
+      label: circuit_breakers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: fuses
+      label: fuses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fire_suppression
+      label: fire_suppression
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: arc_flares
+      label: arc_flares
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: panel_condition
+      label: panel_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: inspection_date_completed
+      label: inspection_date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: inspector_notes
+      label: inspector_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: electrical_panel_inspection_certificate
+      label: electrical_panel_inspection_certificate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

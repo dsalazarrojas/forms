@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Therapy Study Participation Consent Form
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_study
+      label: -- Study Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: investigator_contact
+      label: Investigator Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: institution_name
+      label: Institution/Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: study_duration
+      label: Expected Study Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 12
+      name: section_purpose
+      label: -- Purpose and Procedures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: study_purpose
+      label: Purpose of the Study
+      hint: What is the study investigating
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: participation_procedures
+      label: What Will Participation Involve
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: time_commitment
+      label: Time Commitment Per Session
+      hint: Hours per week or session
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-3 hours
+      - 3-4 hours
+      - More than 4 hours
+      required: true
+    - id: 16
+      name: number_sessions
+      label: Number of Sessions Expected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_risks
+      label: -- Risks and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: risks_understand
+      label: I understand potential risks of participation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: risks_description
+      label: Description of Potential Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: benefits_understand
+      label: I understand potential benefits
+      hint: There may be no direct benefit
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: section_consent
+      label: -- Consent Statements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: voluntary_participation
+      label: I understand participation is voluntary
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: withdrawal_right
+      label: I may withdraw at any time without penalty
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 24
+      name: confidentiality_consent
+      label: My information will be kept confidential
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: data_usage_consent
+      label: My data may be used in research publications
+      hint: All identifying information will be removed
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: false
+    - id: 26
+      name: final_consent
+      label: I Consent to Participate in This Study
+      hint: Required to proceed
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 27
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

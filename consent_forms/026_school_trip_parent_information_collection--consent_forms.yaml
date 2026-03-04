@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Trip Parent Information Collection
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_relationship
+      label: Parent Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Friend
+      required: false
+    - id: 8
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email_address
+      label: Emergency Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: other_emergency_contact
+      label: Other Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_for_medical_treatment
+      label: Consent for Medical Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: consent_for_medical_treatment_hospitalization
+      label: Consent for Medical Treatment and Hospitalization
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: consent_for_medical_treatment_surgery
+      label: Consent for Medical Treatment and Surgery
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: consent_for_medical_treatment_anesthesia
+      label: Consent for Medical Treatment and Anesthesia
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: consent_for_medical_treatment_other
+      label: Consent for Medical Treatment prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_for_medical_treatment_details
+      label: Medical Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: school_trip_name
+      label: School Trip Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_trip_date
+      label: School Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: school_trip_location
+      label: School Trip Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_trip_details
+      label: School Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: school_trip_teacher
+      label: School Trip Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_trip_coordinator
+      label: School Trip Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_emergency_contacts
+      label: Other Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Friend
+      required: false
+    - id: 25
+      name: other_emergency_contacts_phone_numbers
+      label: Other Emergency Contacts Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false

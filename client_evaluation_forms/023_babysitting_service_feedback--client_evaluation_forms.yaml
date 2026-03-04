@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitting Service Feedback
+    pages:
+    - id: 1
+      name: feedback_intro
+      label: -- Babysitting Service Quality Survey --
+      hint: Your feedback helps us maintain the highest standards of care
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name_feedback
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_service
+      label: Date of Babysitting Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: babysitter_name_feedback
+      label: Name of Babysitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: punctuality_rating
+      label: Was the babysitter on time?
+      hint: null
+      type: select_one
+      options:
+      - Yes, exactly on time
+      - Arrived early
+      - Slightly late (less than 10 mins)
+      - Late
+      required: true
+    - id: 6
+      name: communication_rating
+      label: Effectiveness of communication before and during session
+      hint: 1 = Poor, 5 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: child_enjoyment_level
+      label: Did your child enjoy their time with the sitter?
+      hint: Based on child's reaction or comments
+      type: select_one
+      options:
+      - Loved it
+      - Had a good time
+      - It was okay
+      - Did not enjoy it
+      required: true
+    - id: 8
+      name: house_cleanliness_return
+      label: Was the house left in a satisfactory condition?
+      hint: Toys put away, kitchen clean, etc.
+      type: select_one
+      options:
+      - Very clean and tidy
+      - Satisfactory
+      - Messy
+      required: true
+    - id: 9
+      name: activity_engagement
+      label: Did the sitter engage the child in activities?
+      hint: e.g., Games, Reading, Playing outside
+      type: select_one
+      options:
+      - Highly engaged
+      - Somewhat engaged
+      - Mostly screen time
+      required: false
+    - id: 10
+      name: rehire_likelihood
+      label: Would you hire this babysitter again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Likely
+      - Unlikely
+      - false
+      required: true
+    - id: 11
+      name: overall_experience_rating
+      label: Overall satisfaction with the service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: constructive_feedback
+      label: Any additional comments or areas for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false

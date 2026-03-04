@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheesecake Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pickup_delivery
+      label: Pickup or Delivery
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Store pickup
+      - Home delivery
+      - Event delivery
+      required: true
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: When do you need your order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: Full delivery address if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cheesecake_flavor
+      label: Cheesecake Flavor
+      hint: Select your preferred flavor
+      type: select_one
+      options:
+      - New York Style
+      - Strawberry
+      - Blueberry
+      - Chocolate
+      - Caramel
+      - Lemon
+      - Raspberry
+      - Oreo
+      - Tiramisu
+      - Mixed berry
+      required: true
+    - id: 9
+      name: cheesecake_size
+      label: Cheesecake Size
+      hint: Size of cheesecake
+      type: select_one
+      options:
+      - 6 inch - Serves 4-6
+      - 8 inch - Serves 8-10
+      - 10 inch - Serves 12-15
+      - 12 inch - Serves 16-20
+      - Full sheet - Serves 24-30
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Number of cheesecakes to order
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: crust_type
+      label: Crust Type
+      hint: Type of crust
+      type: select_one
+      options:
+      - Graham cracker
+      - Chocolate cookie
+      - Oreo cookie
+      - Shortbread
+      - Gluten-free crust
+      required: true
+    - id: 12
+      name: toppings
+      label: Toppings
+      hint: Select desired toppings
+      type: select_multiple
+      options:
+      - Fresh strawberries
+      - Blueberry compote
+      - Chocolate drizzle
+      - Caramel drizzle
+      - Whipped cream
+      - Fresh berries mix
+      - Cherry topping
+      - No toppings
+      required: true
+    - id: 13
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Sugar-free
+      - Dairy-free
+      required: true
+    - id: 14
+      name: special_message
+      label: Special Message
+      hint: Message for cake decoration if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gift_wrapping
+      label: Gift Wrapping
+      hint: Do you need gift wrapping
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: gift_message
+      label: Gift Message
+      hint: Message for gift card if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: occasion
+      label: Occasion
+      hint: What is the occasion
+      type: select_one
+      options:
+      - Birthday
+      - Anniversary
+      - Wedding
+      - Graduation
+      - Holiday
+      - Corporate event
+      - Just because
+      - Other
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash on pickup
+      - Bank transfer
+      required: true
+    - id: 20
+      name: order_notes
+      label: Order Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

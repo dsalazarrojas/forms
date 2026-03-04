@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: hiring-procedure-checklist
+    pages:
+    - id: 1
+      name: hiring_procedure_checklist
+      label: Hiring Procedure Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_interview
+      label: Candidate Interview
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - in-person
+      required: false
+    - id: 3
+      name: background_checks
+      label: Background Checks
+      hint: Verify employment history, education, and personal references
+      type: select_multiple
+      options:
+      - Employment verification
+      - Education verification
+      - Personal reference check
+      required: false
+    - id: 4
+      name: reference_checks
+      label: Reference Checks
+      hint: null
+      type: select_multiple
+      options:
+      - Professional reference
+      - Personal reference
+      required: false
+    - id: 5
+      name: hiring_manager_approval
+      label: Hiring Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: false
+    - id: 6
+      name: candidate_offer
+      label: Candidate Offer
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 7
+      name: candidate_start_date
+      label: Candidate Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: candidate_end_date
+      label: Candidate End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: hiring_manager_comments
+      label: Hiring Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assistant_comments
+      label: Assistant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: candidate_comments
+      label: Candidate Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: hiring_decision
+      label: Hiring Decision
+      hint: null
+      type: select_one
+      options:
+      - Hire
+      - Decline
+      required: false
+    - id: 13
+      name: assistant_hiring_manager_comments
+      label: Assistant Hiring Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assistant_hiring_decision
+      label: Assistant Hiring Decision
+      hint: null
+      type: select_one
+      options:
+      - Hire
+      - Decline
+      required: false

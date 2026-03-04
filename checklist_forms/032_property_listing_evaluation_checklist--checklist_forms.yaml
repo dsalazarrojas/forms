@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Listing Evaluation Checklist
+    pages:
+    - id: 1
+      name: property_listing_evaluation
+      label: Property Listing Evaluation Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: listing_agent
+      label: Listing Agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: property_area
+      label: Property Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_age
+      label: Property Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: listing_agency
+      label: Listing Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: evaluated_by
+      label: Evaluated By
+      hint: null
+      type: text
+      options: []
+      required: false

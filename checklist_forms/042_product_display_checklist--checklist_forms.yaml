@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_display_checklist
+    pages:
+    - id: 1
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''A'', ''label'': ''A''}'
+      - '{''id'': 2, ''name'': ''B'', ''label'': ''B''}'
+      - '{''id'': 3, ''name'': ''C'', ''label'': ''C''}'
+      - '{''id'': 4, ''name'': ''D'', ''label'': ''D''}'
+      - '{''id'': 5, ''name'': ''E'', ''label'': ''E''}'
+      required: false
+    - id: 4
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: brand_name
+      label: brand_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: condition
+      label: condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''A'', ''label'': ''A''}'
+      - '{''id'': 2, ''name'': ''B'', ''label'': ''B''}'
+      - '{''id'': 3, ''name'': ''C'', ''label'': ''C''}'
+      - '{''id'': 4, ''name'': ''D'', ''label'': ''D''}'
+      - '{''id'': 5, ''name'': ''E'', ''label'': ''E''}'
+      required: false
+    - id: 8
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false

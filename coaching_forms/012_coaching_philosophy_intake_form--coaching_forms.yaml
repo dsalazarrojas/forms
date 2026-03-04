@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Philosophy Intake Form
+    pages:
+    - id: 1
+      name: section_coach_info
+      label: -- Coach Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: team_or_organization
+      label: Team or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: coaching_position
+      label: Coaching Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_coaching
+      label: Years of Coaching Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_philosophy
+      label: -- Coaching Philosophy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: coaching_philosophy
+      label: Describe Your Coaching Philosophy
+      hint: What are your core beliefs about coaching?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_coaching_style
+      label: Primary Coaching Style
+      hint: null
+      type: select_one
+      options:
+      - Authoritarian
+      - Democratic
+      - Laissez-faire
+      - Motivational
+      - Technical
+      - Adaptive
+      required: true
+    - id: 10
+      name: section_athlete_development
+      label: -- Athlete Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: athlete_focus
+      label: Athlete Development Focus
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Skill development
+      - Physical conditioning
+      - Mental toughness
+      - Teamwork
+      - Character building
+      - Leadership development
+      - Nutrition and wellness
+      required: true
+    - id: 12
+      name: winning_importance
+      label: How important is winning to your coaching?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not very important
+      required: true
+    - id: 13
+      name: section_relationships
+      label: -- Athlete Relationships --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: athlete_interaction
+      label: How do you prefer to interact with athletes?
+      hint: Describe your approach
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: discipline_approach
+      label: Discipline and Correction Approach
+      hint: How do you handle mistakes?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_expectations
+      label: -- Expectations and Standards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: athlete_expectations
+      label: What do you expect from your athletes?
+      hint: Performance, behavior, commitment levels
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: parent_communication
+      label: Parent Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      - Minimal
+      required: true
+    - id: 19
+      name: section_growth
+      label: -- Continuous Growth --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: professional_development
+      label: Professional Development Commitments
+      hint: Certifications, courses, conferences you pursue
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: true

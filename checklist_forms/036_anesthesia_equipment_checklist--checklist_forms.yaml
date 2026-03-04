@@ -1,0 +1,140 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anesthesia Equipment Checklist
+    pages:
+    - id: 1
+      name: section_checklist_header
+      label: -- Anesthesia Equipment Pre-Procedure Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector / Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: operating_room_number
+      label: Operating Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_equipment_status
+      label: -- Equipment Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: anesthesia_machine_checked
+      label: Anesthesia Machine System Check
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - N/A
+      required: true
+    - id: 7
+      name: oxygen_supply_levels
+      label: Primary Oxygen Supply Levels
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Partial
+      - Low
+      required: true
+    - id: 8
+      name: backup_ventilation_ambu_bag
+      label: Backup Ventilation (Ambu Bag)
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Missing
+      required: true
+    - id: 9
+      name: suction_operational
+      label: Suction System Operational
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: section_monitoring_supplies
+      label: -- Monitoring and Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: monitors_functional
+      label: Patient Monitors Functional
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - ECG
+      - SpO2
+      - NIBP
+      - EtCO2
+      - Temperature
+      required: true
+    - id: 12
+      name: laryngoscopes_and_blades
+      label: Laryngoscopes and Blades Status
+      hint: null
+      type: select_one
+      options:
+      - Checked and Working
+      - Needs Maintenance
+      required: true
+    - id: 13
+      name: endotracheal_tubes_assorted_sizes
+      label: Endotracheal Tubes (Assorted Sizes)
+      hint: null
+      type: select_one
+      options:
+      - In Stock
+      - Low Stock
+      required: true
+    - id: 14
+      name: technician_comments
+      label: Additional Technician Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: digital_sign_off
+      label: Digital Sign-off
+      hint: Type initials to confirm
+      type: text
+      options: []
+      required: true

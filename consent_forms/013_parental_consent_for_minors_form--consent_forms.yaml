@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent For Minors Form
+    pages:
+    - id: 1
+      name: parent_information
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: minor_participation
+      label: Minor Participation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 4
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false

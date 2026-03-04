@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Questionnaire For Clients
+    pages:
+    - id: 1
+      name: exposure_history
+      label: Has the client been exposed to COVID-19
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: symptoms_exposure
+      label: Has the client experienced COVID-19 symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_tracing
+      label: Has the client been in contact with someone with COVID-19
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_history
+      label: Has the client traveled recently
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: exposure_risk
+      label: What is the client's exposure risk
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: client_response
+      label: Client response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_response
+      label: Business response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false

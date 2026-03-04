@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Sculpting Session Consent Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Brow Sculpting Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: sculpting_type
+      label: Type of Brow Sculpting Desired
+      hint: null
+      type: select_one
+      options:
+      - Threading
+      - Waxing
+      - Microblading
+      - Combination
+      required: true
+    - id: 7
+      name: previous_experience
+      label: Have you had brow sculpting before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 8
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 9
+      name: skin_allergies
+      label: Known skin allergies or sensitivities
+      hint: Include product allergies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications
+      label: Current medications that affect skin
+      hint: Include topical medications
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skin_conditions
+      label: Current skin conditions
+      hint: Rash, acne, psoriasis, eczema, etc
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pregnancy_status
+      label: Are you currently pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, nursing
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 13
+      name: pain_sensitivity
+      label: Pain Sensitivity Level
+      hint: How do you typically respond to minor discomfort
+      type: select_one
+      options:
+      - Low sensitivity
+      - Normal sensitivity
+      - High sensitivity
+      required: true
+    - id: 14
+      name: recent_procedures
+      label: Recent facial procedures
+      hint: Botox, fillers, chemical peels, etc in last 2 weeks
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: brow_goals
+      label: Your brow sculpting goals
+      hint: What look are you trying to achieve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risks_acknowledged
+      label: I acknowledge all potential risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true
+    - id: 17
+      name: consent_given
+      label: I consent to the brow sculpting procedure
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

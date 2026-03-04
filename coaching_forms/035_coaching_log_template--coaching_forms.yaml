@@ -1,0 +1,251 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Log Template
+    pages:
+      - id: 1
+        name: coach_name
+        label: Coach Name
+        hint: Name of the coach
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: coach_email
+        label: Coach Email
+        hint: Contact email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: client_name
+        label: Client Name
+        hint: Name of the client
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: client_id
+        label: Client ID Number
+        hint: Client identifier if applicable
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: session_date
+        label: Session Date
+        hint: Date of this session
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: session_time
+        label: Session Time
+        hint: Start time of session
+        type: time
+        options: []
+        required: true
+      - id: 7
+        name: session_duration
+        label: Session Duration
+        hint: How long was the session
+        type: select_one
+        options:
+          - 30 Minutes
+          - 45 Minutes
+          - 60 Minutes
+          - 90 Minutes
+          - 120 Minutes
+        required: true
+      - id: 8
+        name: session_number
+        label: Session Number
+        hint: Which session is this
+        type: select_one
+        options:
+          - Session 1
+          - Session 2
+          - Session 3
+          - Session 4
+          - Session 5
+          - Session 6
+          - Session 7 or More
+        required: true
+      - id: 9
+        name: session_format
+        label: Session Format
+        hint: How was session conducted
+        type: select_one
+        options:
+          - In Person
+          - Video Call
+          - Phone Call
+        required: true
+      - id: 10
+        name: session_location
+        label: Session Location
+        hint: Where did session take place
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: topics_covered
+        label: Topics Covered
+        hint: What was discussed
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: goals_addressed
+        label: Goals Addressed
+        hint: Which goals were worked on
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: client_mood
+        label: Client Mood
+        hint: How was the client feeling
+        type: select_one
+        options:
+          - Very Positive
+          - Positive
+          - Neutral
+          - Negative
+          - Very Negative
+        required: true
+      - id: 14
+        name: client_engagement
+        label: Client Engagement Level
+        hint: How engaged was the client
+        type: select_one
+        options:
+          - Very Engaged
+          - Engaged
+          - Moderately Engaged
+          - Somewhat Disengaged
+          - Disengaged
+        required: true
+      - id: 15
+        name: progress_made
+        label: Progress Made This Session
+        hint: Describe progress
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: breakthroughs
+        label: Any Breakthroughs
+        hint: Note any significant insights
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: challenges_discussed
+        label: Challenges Discussed
+        hint: What obstacles were addressed
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: techniques_used
+        label: Coaching Techniques Used
+        hint: What methods did you use
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: homework_assigned
+        label: Homework or Actions Assigned
+        hint: What will client do before next session
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: client_commitments
+        label: Client Commitments
+        hint: What did client commit to
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: follow_up_needed
+        label: Is Follow-Up Needed
+        hint: Does anything need follow-up
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 22
+        name: follow_up_details
+        label: Follow-Up Details
+        hint: Describe follow-up actions
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: resources_provided
+        label: Resources Provided
+        hint: What materials did you share
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: next_session_date
+        label: Next Session Date
+        hint: When is next session
+        type: date
+        options: []
+        required: false
+      - id: 25
+        name: next_session_goals
+        label: Goals for Next Session
+        hint: What will you work on next
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: coach_notes
+        label: Coach Notes and Observations
+        hint: Your professional observations
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: risk_concerns
+        label: Any Risk or Safety Concerns
+        hint: Note any concerns
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: session_rating
+        label: Session Effectiveness Rating
+        hint: Rate this session
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 29
+        name: log_completed_date
+        label: Log Completed Date
+        hint: When did you complete this log
+        type: date
+        options: []
+        required: true

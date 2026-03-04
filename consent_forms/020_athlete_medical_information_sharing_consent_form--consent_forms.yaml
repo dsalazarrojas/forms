@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Medical Information Sharing Consent Form
+    pages:
+    - id: 1
+      name: patient_provider_header
+      label: -- Patient and Provider Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: physician_name
+      label: Primary Physician or Clinic Name
+      hint: The entity authorized to release information
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: authorized_parties_header
+      label: -- Authorized Receiving Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: receiving_organization
+      label: Organization Authorized to Receive Information
+      hint: e.g. City Sports Academy, Regional High School Athletics
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: authorized_individuals
+      label: Specific Individuals Authorized
+      hint: e.g. Head Coach, Athletic Trainer, Team Doctor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: scope_header
+      label: -- Scope of Information to be Shared --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: disclosure_scope
+      label: Information to be Disclosed
+      hint: Select all categories permitted for release
+      type: select_multiple
+      options:
+      - Physical Examination Results
+      - Sports Injury and Treatment History
+      - Diagnostic Imaging and Test Results
+      - Current Medication and Allergy List
+      - Return to Play Status and Restrictions
+      - Comprehensive Medical Record
+      required: true
+    - id: 10
+      name: disclosure_purpose
+      label: Purpose of Information Disclosure
+      hint: null
+      type: select_one
+      options:
+      - Coordination of Medical Treatment
+      - Clearance for Sports Participation
+      - Processing of Insurance Claims
+      - Academic Support and Accommodation
+      - Other
+      required: true
+    - id: 11
+      name: other_purpose_description
+      label: If Other - Please Describe Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_duration_header
+      label: -- Consent and Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_consent
+      label: I consent to the disclosure of my medical information as specified above
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: expiration_choice
+      label: When should this consent expire?
+      hint: null
+      type: select_one
+      options:
+      - End of the current athletic season
+      - One year from the date of signature
+      - Upon a specific date
+      required: true
+    - id: 15
+      name: specific_expiration_date
+      label: Specific Expiration Date
+      hint: Only if specific date selected above
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: rights_signature_header
+      label: -- Rights and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: revocation_acknowledgment
+      label: I understand my right to revoke this consent in writing at any time
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 18
+      name: redisclosure_acknowledgment
+      label: I acknowledge the potential for re-disclosure of this information by
+        the recipient
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 19
+      name: athlete_signature
+      label: Electronic Signature of Athlete
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: guardian_signature
+      label: Electronic Signature of Parent or Guardian
+      hint: Required for athletes under 18
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: guardian_relationship
+      label: Relationship to Athlete
+      hint: If signed by guardian
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

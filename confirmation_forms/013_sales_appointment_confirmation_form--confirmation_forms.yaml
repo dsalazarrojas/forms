@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Appointment Confirmation Form
+    pages:
+    - id: 1
+      name: lead_name
+      label: enter_lead_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: enter_appointment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: appointment_time
+      label: enter_appointment_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: appointment_duration
+      label: enter_appointment_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: enter_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: enter_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: enter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: enter_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: enter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: enter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: confirm_appointment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: sync_calendar
+      label: sync_with_calendar
+      hint: null
+      type: select_multiple
+      options:
+      - Zoom
+      - Google Calendar
+      - Both
+      required: false
+    - id: 13
+      name: sync_zoom
+      label: sync_with_zoom
+      hint: null
+      type: select_multiple
+      options:
+      - 'On'
+      - 'Off'
+      required: false
+    - id: 14
+      name: sync_google_calendar
+      label: sync_with_google_calendar
+      hint: null
+      type: select_multiple
+      options:
+      - 'On'
+      - 'Off'
+      required: false

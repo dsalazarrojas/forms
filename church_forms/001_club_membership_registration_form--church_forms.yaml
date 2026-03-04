@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Membership Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name as it appears in official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name as it appears in official documents
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will use this to send you club updates and newsletters
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Include area code (optional)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_membership
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_type
+      label: Membership Type
+      hint: Select the type of membership you wish to join
+      type: select_one
+      options:
+      - Basic Member
+      - Premium Member
+      - Patron
+      - Student
+      required: true
+    - id: 9
+      name: how_did_you_hear
+      label: How did you hear about our club?
+      hint: null
+      type: select_one
+      options:
+      - Word of mouth
+      - Social media
+      - Website
+      - Newspaper advertisement
+      - Friend or family member
+      - Other
+      required: true
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      required: true
+    - id: 11
+      name: section_interests
+      label: -- Areas of Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interests
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social events
+      - Educational workshops
+      - Community service
+      - Recreational activities
+      - Networking
+      - Leadership opportunities
+      required: false
+    - id: 13
+      name: section_agreement
+      label: -- Membership Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_rules
+      label: I have read and agree to the club rules and code of conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 15
+      name: allow_communication
+      label: I consent to receive communications from the club
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: membership_fee_acknowledgment
+      label: I understand there is an annual membership fee
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: registration_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

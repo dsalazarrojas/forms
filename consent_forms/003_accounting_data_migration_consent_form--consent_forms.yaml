@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Migration Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name or Company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: current_system_name
+      label: Current System Name
+      hint: e.g., QuickBooks Desktop
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: new_system_name
+      label: New System Name
+      hint: e.g., Xero Cloud
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: data_types_to_migrate
+      label: Data Types to Migrate
+      hint: Select all categories to be transferred
+      type: select_multiple
+      options:
+      - General Ledger
+      - Accounts Payable
+      - Accounts Receivable
+      - Inventory
+      - Payroll Records
+      - Historical Tax Data
+      required: true
+    - id: 5
+      name: migration_start_date
+      label: Migration Start Date
+      hint: Proposed date to begin transfer
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_authorization
+      label: -- Authorization and Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: data_integrity_acknowledgment
+      label: Data Integrity Acknowledgment
+      hint: I understand the risks associated with data migration and authorize the
+        process
+      type: select_one
+      options:
+      - Yes, I agree and authorize
+      - No, I need more information
+      required: true
+    - id: 8
+      name: emergency_contact_during_migration
+      label: Emergency Contact During Migration
+      hint: Person to contact if issues arise
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone
+      label: Emergency Phone
+      hint: Direct line
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notification_email
+      label: Notification Email
+      hint: Where to send status updates
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type name to authorize migration
+      type: text
+      options: []
+      required: true

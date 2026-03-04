@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Informed Consent For Medical Marijuana Treatment
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risks_benefits
+      label: Risks and Benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_counseling
+      label: Medical Counseling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_to_participate
+      label: Consent to Participate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: informed_consent_date
+      label: Informed Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false

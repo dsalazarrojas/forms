@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawyer Conduct Complaint Form
+    pages:
+    - id: 1
+      name: lawyer_conduct_complaint_form_1
+      label: complaint_form
+      hint: null
+      type: select_multiple
+      options:
+      - Client Name
+      - Client Contact Number
+      - Complaint Description
+      required: false
+    - id: 2
+      name: complaint_form_2
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - Unprofessionalism
+      - Conflict of Interest
+      - Breach of Duty
+      - Negligence
+      - Misrepresentation
+      - Other
+      required: false
+    - id: 3
+      name: complaint_form_3
+      label: lawyer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_form_4
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: complaint_form_6
+      label: complaint_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: complaint_form_7
+      label: complaint_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: complaint_form_8
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: complaint_form_9
+      label: evidence
+      hint: null
+      type: select_multiple
+      options:
+      - Document
+      - Evidence Video
+      - Evidence Audio
+      - Other
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Resolved
+      required: false
+    - id: 12
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_date
+      label: updated_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: closed_date
+      label: closed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: closed_by
+      label: closed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: closed_tool
+      label: closed_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_title
+      label: submitted_by_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_name
+      label: submitted_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_position
+      label: submitted_by_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_department
+      label: submitted_by_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_date
+      label: submitted_by_date
+      hint: null
+      type: date
+      options: []
+      required: false

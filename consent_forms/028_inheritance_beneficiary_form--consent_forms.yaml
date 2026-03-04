@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inheritance Beneficiary Form
+    pages:
+    - id: 1
+      name: inheritance_beneficiary_form_person_inheriting
+      label: Inheritance Beneficiary Person
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: false
+    - id: 2
+      name: asset_value
+      label: Asset Value
+      hint: Resources and assets
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: asset_description
+      label: Asset Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - child
+      - spouse
+      - parent
+      required: false
+    - id: 5
+      name: deceased_info
+      label: Deceased Info
+      hint: Deceased info
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: deceased_contact
+      label: Deceased Contact
+      hint: Deceased contact info
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: asset_type
+      label: Asset Type
+      hint: Asset type
+      type: select_multiple
+      options:
+      - real estate
+      - cash
+      - stocks
+      - bonds
+      - other
+      required: false
+    - id: 8
+      name: inheritance_date
+      label: Inheritance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inheritance_beneficiary
+      label: Inheritance Beneficiary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: asset_location
+      label: Asset Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inheritance_info
+      label: Inheritance Info
+      hint: Inheritance info
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: asset_value_other
+      label: Other Asset Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: asset_value_currency
+      label: Asset Value Currency
+      hint: null
+      type: select_one
+      options:
+      - us dollars
+      - other currency
+      required: false
+    - id: 16
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: inheritance_type
+      label: Inheritance Type
+      hint: null
+      type: select_one
+      options:
+      - will
+      - trust
+      - estate
+      required: false
+    - id: 18
+      name: asset_type_description
+      label: Asset Type Description
+      hint: Assets type description
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: asset_type_other
+      label: Other Asset Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: asset_location_other
+      label: Other Asset Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: inheritance_info_other
+      label: Other Inheritance Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contact_person_other
+      label: Other Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_contact_info
+      label: Other Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: asset_value_other
+      label: Other Asset Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: asset_value_currency_other
+      label: Other Asset Value Currency
+      hint: null
+      type: select_one
+      options:
+      - us dollars
+      - other currency
+      required: false
+    - id: 26
+      name: asset_value_other_amount
+      label: Other Asset Value Amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Networking Event Registration
+    pages:
+    - id: 1
+      name: attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Name as it should appear on the badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company or brokerage
+      hint: Organization name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: For event confirmations and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Role or title
+      hint: Job title or function
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: networking_goals
+      label: Networking goals
+      hint: What do you hope to achieve at the event
+      type: select_multiple
+      options:
+      - Find partners
+      - Learn best practices
+      - Recruit talent
+      - Promote listings
+      - Other
+      required: true
+    - id: 7
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Select any dietary restrictions
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Halal
+      - Kosher
+      - Other
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special requests
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sessions_of_interest
+      label: Sessions of interest
+      hint: Indicate preferred session tracks
+      type: select_multiple
+      options:
+      - Sales techniques
+      - Market trends
+      - Tech tools
+      - Compliance
+      - Leadership
+      required: false
+    - id: 10
+      name: agree_to_terms
+      label: Agree to event terms and code of conduct
+      hint: Required for registration
+      type: select_one
+      options:
+      - Agree
+      - Neutral
+      - Dissatisfied
+      required: true

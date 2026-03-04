@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Noise Violation Complaint Form
+    pages:
+    - id: 1
+      name: resident_information
+      label: Resident Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: noise_location
+      label: Noise Location
+      hint: Where did the noise originate?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: Briefly describe the disturbance
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: noise_level
+      label: Noise Level
+      hint: null
+      type: select_multiple
+      options:
+      - Quiet
+      - Moderate
+      - Loud
+      - Extremely Loud
+      required: false
+    - id: 7
+      name: action_taken
+      label: Action Taken
+      hint: What action has been taken so far?
+      type: select_one
+      options:
+      - None
+      - Warned the source of the noise
+      - Called the police
+      - Contacted a noise abatement officer
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: other_action_taken
+      label: Other Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Save draft
+      required: false

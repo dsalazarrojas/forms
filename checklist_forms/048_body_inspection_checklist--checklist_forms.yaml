@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Body Inspection Checklist
+    pages:
+      - id: 1
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: inspector_name
+        label: Inspector Name
+        hint: Name of inspector
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inspector_title
+        label: Inspector Title
+        hint: Professional title
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: patient_client_name
+        label: Patient/Client Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: patient_id
+        label: Patient/Client ID
+        hint: ID number
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: inspection_type
+        label: Inspection Type
+        hint: Type of inspection
+        type: select_one
+        options:
+          - Routine Health Check
+          - Sports Physical
+          - Injury Assessment
+          - Pre-Employment
+          - Insurance Examination
+          - Other
+        required: true
+      - id: 8
+        name: inspection_purpose
+        label: Inspection Purpose
+        hint: Reason for inspection
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: head_inspection
+        label: Head Inspection
+        hint: Check head and scalp
+        type: select_one
+        options:
+          - Normal
+          - Minor Issues Noted
+          - Major Issues Found
+          - Not Applicable
+        required: true
+      - id: 10
+        name: head_notes
+        label: Head Notes
+        hint: Any observations
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: neck_inspection
+        label: Neck Inspection
+        hint: Check neck area
+        type: select_one
+        options:
+          - Normal
+          - Minor Issues Noted
+          - Major Issues Found
+          - Not Applicable
+        required: true
+      - id: 12
+        name: neck_notes
+        label: Neck Notes
+        hint: Any observations
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: torso_inspection
+        label: Torso Inspection
+        hint: Check chest and back
+        type: select_one
+        options:
+          - Normal
+          - Minor Issues Noted
+          - Major Issues Found
+          - Not Applicable
+        required: true
+      - id: 14
+        name: torso_notes
+        label: Torso Notes
+        hint: Any observations
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: arms_inspection
+        label: Arms Inspection
+        hint: Check both arms
+        type: select_one
+        options:
+          - Normal
+          - Minor Issues Noted
+          - Major Issues Found
+          - Not Applicable
+        required: true
+      - id: 16
+        name: arms_notes
+        label: Arms Notes
+        hint: Any observations
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: hands_inspection
+        label: Hands Inspection
+        hint: Check both hands
+        type: select_one
+        options:
+          - Normal
+          - Minor Issues Noted
+          - Major Issues Found
+          - Not Applicable
+        required: true
+      - id: 18
+        name: hands_notes
+        label: Hands Notes
+        hint: Any observations
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: legs_inspection
+        label: Legs Inspection
+        hint: Check both legs
+        type: select_one
+        options:
+          - Normal
+          - Minor Issues Noted
+          - Major Issues Found
+          - Not Applicable
+        required: true
+      - id: 20
+        name: legs_notes
+        label: Legs Notes
+        hint: Any observations
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: feet_inspection
+        label: Feet Inspection
+        hint: Check both feet
+        type: select_one
+        options:
+          - Normal
+          - Minor Issues Noted
+          - Major Issues Found
+          - Not Applicable
+        required: true
+      - id: 22
+        name: feet_notes
+        label: Feet Notes
+        hint: Any observations
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: skin_condition
+        label: Overall Skin Condition
+        hint: General skin assessment
+        type: select_one
+        options:
+          - Normal
+          - Minor Issues
+          - Major Issues
+        required: true
+      - id: 24
+        name: abnormalities_found
+        label: Abnormalities Found
+        hint: List any abnormalities
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: photos_taken
+        label: Photos Taken
+        hint: Were photos documented?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 26
+        name: actions_required
+        label: Actions Required
+        hint: List any follow-up actions
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: referral_needed
+        label: Referral Needed
+        hint: Is specialist referral needed?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 28
+        name: overall_assessment
+        label: Overall Assessment
+        hint: Final assessment
+        type: select_one
+        options:
+          - Normal - No Issues
+          - Minor Issues - Monitor
+          - Issues Found - Action Required
+          - Urgent - Immediate Attention
+        required: true
+      - id: 29
+        name: inspector_signature
+        label: Inspector Signature
+        hint: Type name as signature
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: patient_signature
+        label: Patient/Client Signature
+        hint: Acknowledgment
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delegate Application Form
+    pages:
+    - id: 1
+      name: delegate_application_form_1
+      label: conference_registration_forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: signup_forms
+      label: signup_forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: looking_for_conference_delegates
+      label: are_you_looking_for_delegates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: conference_delegates_form_description
+      label: are_you_looking_for_delegates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delegate_application_form_6
+      label: delegate_candidates_can_easily_apply
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false

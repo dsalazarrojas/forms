@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Harassment Claim Form
+    pages:
+    - id: 1
+      name: report_incident
+      label: Report Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_incident
+      label: date_incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: describe_incident
+      label: Describe Incident
+      hint: Please provide details of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: witness_names
+      label: Witness Names
+      hint: List the names of people who witnessed the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: witness_contact_info
+      label: Witness Contact Info
+      hint: Include contact information for witnesses such as email or phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: harasser_details
+      label: Harasser Details
+      hint: Provide details about the harasser
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_harassment_stopped
+      label: Date Harassment Stopped
+      hint: The date the harassment stopped
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: resolution_outcome
+      label: resolution_outcome
+      hint: null
+      type: select_one
+      options:
+      - Successful resolution
+      - Unsuccessful resolution
+      - Ongoing resolution
+      required: false
+    - id: 10
+      name: resolution_details
+      label: resolution_details
+      hint: Provide details about the resolution
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - Investigation
+      - Discipline
+      - Counseling
+      - Training
+      - Other
+      required: false
+    - id: 12
+      name: resolution_outcome_2
+      label: resolution_outcome_2
+      hint: null
+      type: select_one
+      options:
+      - Successful resolution
+      - Unsuccessful resolution
+      - Ongoing resolution
+      required: false
+    - id: 13
+      name: resolution_outcome_3
+      label: resolution_outcome_3
+      hint: null
+      type: select_one
+      options:
+      - Successful resolution
+      - Unsuccessful resolution
+      - Ongoing resolution
+      required: false

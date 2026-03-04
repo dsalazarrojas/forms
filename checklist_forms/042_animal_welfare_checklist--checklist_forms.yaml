@@ -1,0 +1,430 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of welfare inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_agency
+      label: Inspector Agency or Organization
+      hint: Which agency you represent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: Name of facility being inspected
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_address
+      label: Facility Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_type
+      label: Facility Type
+      hint: What kind of facility
+      type: select_one
+      options:
+      - Animal Shelter
+      - Rescue Organization
+      - Breeding Facility
+      - Zoo or Sanctuary
+      - Farm
+      - Private Residence
+      - Other
+      required: true
+    - id: 7
+      name: facility_owner
+      label: Facility Owner or Manager
+      hint: Name of responsible party
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_housing
+      label: -- Housing and Environment --
+      hint: Evaluate living conditions
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: housing_cleanliness
+      label: Housing Cleanliness
+      hint: Is enclosure clean and sanitary
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: space_adequacy
+      label: Space Adequacy
+      hint: Is space sufficient for animals
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Inadequate
+      - Severely Inadequate
+      required: true
+    - id: 11
+      name: ventilation
+      label: Ventilation and Air Quality
+      hint: Proper air circulation present
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: temperature_control
+      label: Temperature Control
+      hint: Appropriate temperature maintained
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: lighting
+      label: Appropriate Lighting
+      hint: Natural and artificial light adequate
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: bedding_materials
+      label: Bedding and Nesting Materials
+      hint: Appropriate and clean bedding
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: section_nutrition
+      label: -- Nutrition and Water --
+      hint: Food and water assessment
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: food_availability
+      label: Food Availability
+      hint: Adequate food provided daily
+      type: select_one
+      options:
+      - Yes - Fresh and Adequate
+      - Yes - Adequate
+      - Borderline
+      - Insufficient
+      - Not Available
+      required: true
+    - id: 17
+      name: food_quality
+      label: Food Quality
+      hint: Food is appropriate quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Unsuitable
+      required: true
+    - id: 18
+      name: food_storage
+      label: Food Storage Conditions
+      hint: Proper storage and no contamination
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 19
+      name: water_availability
+      label: Water Availability
+      hint: Clean water constantly available
+      type: select_one
+      options:
+      - Always Available
+      - Regularly Available
+      - Sometimes Available
+      - Rarely Available
+      - Not Available
+      required: true
+    - id: 20
+      name: water_quality
+      label: Water Quality
+      hint: Water is clean and fresh
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Undrinkable
+      required: true
+    - id: 21
+      name: section_health
+      label: -- Health and Medical Care --
+      hint: Evaluate animal health status
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: animals_health_appearance
+      label: Overall Health Appearance
+      hint: Animals appear healthy
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 23
+      name: injuries_observed
+      label: Injuries or Wounds Observed
+      hint: Any visible injuries
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Severe
+      required: true
+    - id: 24
+      name: disease_signs
+      label: Signs of Illness or Disease
+      hint: Any health concerns noted
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: veterinary_care_available
+      label: Veterinary Care Available
+      hint: Access to veterinary services
+      type: select_one
+      options:
+      - Yes - On-site
+      - Yes - Regular Access
+      - Limited Access
+      - None
+      required: true
+    - id: 26
+      name: vaccination_records
+      label: Vaccination Records Available
+      hint: Proper medical documentation
+      type: select_one
+      options:
+      - Complete and Current
+      - Mostly Current
+      - Incomplete
+      - Not Available
+      required: true
+    - id: 27
+      name: parasite_prevention
+      label: Parasite Prevention Program
+      hint: Protection from parasites
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - No
+      - Not Applicable
+      required: true
+    - id: 28
+      name: section_behavior
+      label: -- Behavior and Well-being --
+      hint: Assess psychological well-being
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: animal_behavior
+      label: Animal Behavior Assessment
+      hint: Overall demeanor and behavior
+      type: select_one
+      options:
+      - Alert and Normal
+      - Mostly Normal
+      - Some Concerning Behaviors
+      - Severe Stress Indicators
+      - Aggression or Fear
+      required: true
+    - id: 30
+      name: enrichment_activities
+      label: Environmental Enrichment
+      hint: Toys, activities, stimulation provided
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Minimal
+      - None
+      required: true
+    - id: 31
+      name: social_contact
+      label: Appropriate Social Contact
+      hint: Animals have proper socialization
+      type: select_one
+      options:
+      - Yes - Excellent
+      - Yes - Adequate
+      - Limited
+      - None
+      required: true
+    - id: 32
+      name: behavioral_issues
+      label: Behavioral Issues Present
+      hint: Stereotypic or problem behaviors
+      type: select_one
+      options:
+      - None Observed
+      - Minor Issues
+      - Moderate Issues
+      - Severe Issues
+      required: true
+    - id: 33
+      name: section_safety
+      label: -- Safety and Containment --
+      hint: Assess safety measures
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: containment_security
+      label: Containment Security
+      hint: Enclosures are secure
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Unsafe
+      required: true
+    - id: 35
+      name: escape_risk
+      label: Escape Risk
+      hint: Is there risk of escape
+      type: select_one
+      options:
+      - None
+      - Low
+      - Moderate
+      - High
+      - Severe
+      required: true
+    - id: 36
+      name: hazardous_materials
+      label: Hazardous Materials Properly Stored
+      hint: Chemicals and toxins secured
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 37
+      name: section_findings
+      label: -- Inspection Findings --
+      hint: Overall assessment results
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: overall_welfare_assessment
+      label: Overall Animal Welfare Assessment
+      hint: General conclusion
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Critical
+      required: true
+    - id: 39
+      name: violations_found
+      label: Violations Found
+      hint: Any regulatory violations noted
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 40
+      name: violations_description
+      label: Description of Violations
+      hint: Details of any violations
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: corrective_actions_required
+      label: Corrective Actions Required
+      hint: What needs to be fixed
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: inspector_comments
+      label: Inspector Comments
+      hint: Additional observations
+      type: text
+      options: []
+      required: false

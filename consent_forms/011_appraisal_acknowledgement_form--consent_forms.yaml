@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appraisal Acknowledgement Form
+    pages:
+    - id: 1
+      name: property_info
+      label: Property Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Multi-Family
+      - Commercial
+      required: true
+    - id: 4
+      name: appraiser_info
+      label: Appraiser Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: appraiser_name
+      label: Appraiser Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appraiser_license
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seller_info
+      label: Seller Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: seller_signature_required
+      label: Do you acknowledge receipt of the appraisal report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: appraisal_value
+      label: Appraised Value Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: acknowledgement_date
+      label: Date of Acknowledgement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: discrepancies
+      label: Any Discrepancies or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

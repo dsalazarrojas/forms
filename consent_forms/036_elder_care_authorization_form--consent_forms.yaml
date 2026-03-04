@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elder Care Authorization Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Authorization Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship
+      label: Relationship to Patient
+      hint: null
+      type: select_one
+      options:
+      - Child
+      - Parent
+      - Spouse
+      - Other
+      required: true
+    - id: 4
+      name: legal_guardian
+      label: Do you have legal guardian rights?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: caregiver_name
+      label: Authorized Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: caregiver_phone_number
+      label: Authorized Caregiver's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: authorized_caregiver_address
+      label: Authorized Caregiver's Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: authorized_caregiver_city
+      label: Authorized Caregiver's City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorized_caregiver_state
+      label: Authorized Caregiver's State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: authorized_caregiver_zip
+      label: Authorized Caregiver's Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: note_to_authorized_caregiver
+      label: Note to Authorized Caregiver
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: authorized_caregiver_signature
+      label: Authorized Caregiver's Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: note_to_authorized_caregiver
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: authorized_caregiver_email
+      label: Authorized Caregiver's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: patient_email
+      label: Patient's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: patient_phone_number
+      label: Patient's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

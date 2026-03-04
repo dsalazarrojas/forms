@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Reflection Video Publication Consent Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Reflection Video Publication Consent Form --
+      hint: Complete this form to grant permission for the use and publication of
+        your video reflection.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Researcher
+      - Guest Speaker
+      - Staff
+      required: true
+    - id: 6
+      name: institution
+      label: Institution or department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: video_title
+      label: Title or topic of the video reflection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recording_date
+      label: Date of video recording
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: consent_section
+      label: -- Publication Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_video_recording
+      label: I consent to having my video reflection recorded
+      hint: null
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 11
+      name: consent_publication_platforms
+      label: I consent to the video being published on the following platforms (select
+        all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Institutional website
+      - YouTube
+      - Vimeo
+      - Learning management system
+      - Social media channels
+      - Internal use only
+      required: true
+    - id: 12
+      name: consent_image_use
+      label: I consent to still images from the video being used in promotional or
+        educational materials
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: consent_editing_approval
+      label: Do you require approval of the final edited video before publication
+      hint: null
+      type: select_one
+      options:
+      - Yes - I want to review before publication
+      - No - I trust the editorial team
+      required: true
+    - id: 14
+      name: consent_duration
+      label: How long should this consent remain valid
+      hint: null
+      type: select_one
+      options:
+      - Indefinitely
+      - 1 year
+      - 2 years
+      - Until I revoke consent in writing
+      required: true
+    - id: 15
+      name: withdrawal_understanding
+      label: I understand I may withdraw consent before publication by contacting
+        the project coordinator
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand
+      - Other
+      required: true
+    - id: 16
+      name: consent_date
+      label: Date of consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: special_conditions
+      label: Any special conditions or restrictions on the use of your video
+      hint: null
+      type: text
+      options: []
+      required: false

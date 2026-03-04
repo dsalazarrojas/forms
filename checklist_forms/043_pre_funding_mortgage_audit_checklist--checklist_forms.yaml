@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Funding Mortgage Audit Checklist
+    pages:
+    - id: 1
+      name: mortgage_file_review
+      label: Mortgage File Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lender_verification
+      label: Lender Verification
+      hint: Verify the lender and their contact information
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      required: true
+    - id: 3
+      name: appraisal_status
+      label: Appraisal Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Disapproved
+      - Pending
+      required: true
+    - id: 4
+      name: credit_report
+      label: Credit Report
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Needs Review
+      required: true
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: mortgage_term
+      label: Mortgage Term
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed Rate
+      - Adjustable
+      required: true
+    - id: 9
+      name: escrow_status
+      label: Escrow Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Condo
+      - Multi Unit
+      required: true
+    - id: 11
+      name: risk_status
+      label: Risk Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Moderate
+      - High
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: risk_comments
+      label: Risk Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Started
+      required: true
+    - id: 15
+      name: file_uploaded
+      label: File Uploaded
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 19
+      name: audit_notes
+      label: Audit Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: pre_funding_date
+      label: Pre Funding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false

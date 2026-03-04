@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harassment Incident Form
+    pages:
+    - id: 1
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reported_by_manager
+      label: Reported By Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Closed
+      required: true
+    - id: 10
+      name: follow_up_actions
+      label: Follow Up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Harassment
+      - Bullying
+      - Other
+      required: true
+    - id: 12
+      name: incident_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Workplace Harassment
+      - Non-Workplace Harassment
+      - Non-Workplace Harassment (Off-Duty)
+      required: true
+    - id: 13
+      name: incident_severity
+      label: Incident Severity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_closure_date
+      label: Incident Closure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: reported_to_manager
+      label: Reported To Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_date
+      label: Manager Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: reported_by_signature
+      label: Reported By Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reported_by_name
+      label: Reported By Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: reported_by_title
+      label: Reported By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reported_to_name
+      label: Reported To Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reported_to_title
+      label: Reported To Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reported_by_manager_name
+      label: Reported By Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reported_by_manager_title
+      label: Reported By Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false

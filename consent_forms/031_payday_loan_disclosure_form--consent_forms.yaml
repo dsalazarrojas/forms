@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payday Loan Disclosure Form
+    pages:
+    - id: 1
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 3
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: borrower_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: loan_rate
+      label: Loan Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_loan
+      label: Date of Loan
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_loan
+      label: Time of Loan
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: borrower_acknowledgement
+      label: Borrower Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: loan_agreement
+      label: Loan Agreement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: other_terms
+      label: Other Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: text
+      options: []
+      required: false

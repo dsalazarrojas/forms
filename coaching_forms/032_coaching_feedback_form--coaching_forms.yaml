@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Feedback Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coach_name
+      label: Coach Name
+      hint: Name of your coach
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_date
+      label: Feedback Date
+      hint: Date of this feedback
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: session_number
+      label: Session Number
+      hint: Which session is this for
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Session 5
+      - Session 6 or More
+      required: false
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: Date of the session
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: mood_before_session
+      label: Your Mood Before Session
+      hint: How did you feel before
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 9
+      name: mood_after_session
+      label: Your Mood After Session
+      hint: How do you feel after
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 10
+      name: session_helpfulness
+      label: How Helpful Was This Session
+      hint: Rate the session value
+      type: select_one
+      options:
+      - Extremely Helpful
+      - Very Helpful
+      - Somewhat Helpful
+      - Not Very Helpful
+      - Not Helpful At All
+      required: true
+    - id: 11
+      name: goals_discussed
+      label: Were Your Goals Discussed
+      hint: Did you work on your goals
+      type: select_one
+      options:
+      - Yes Extensively
+      - Yes Briefly
+      - false
+      required: true
+    - id: 12
+      name: progress_made
+      label: Do You Feel You Made Progress
+      hint: Did you move forward
+      type: select_one
+      options:
+      - Yes Significant Progress
+      - Yes Some Progress
+      - Neutral
+      - No Not Really
+      - No Not At All
+      required: true
+    - id: 13
+      name: coach_listening_rating
+      label: Coach Listening Skills
+      hint: How well did your coach listen
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: coach_questioning_rating
+      label: Coach Questioning Skills
+      hint: How effective were coach questions
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: coach_feedback_rating
+      label: Coach Feedback Quality
+      hint: How useful was the feedback
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: insights_gained
+      label: What Insights Did You Gain
+      hint: What did you learn about yourself
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: actions_committed
+      label: What Actions Are You Committed To
+      hint: What will you do before next session
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: obstacles_identified
+      label: What Obstacles Were Identified
+      hint: What might get in your way
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: support_needed
+      label: What Support Do You Need
+      hint: What would help you succeed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: session_pace
+      label: How Was the Session Pace
+      hint: Was it too fast or slow
+      type: select_one
+      options:
+      - Too Fast
+      - Just Right
+      - Too Slow
+      required: false
+    - id: 21
+      name: session_focus
+      label: How Focused Was the Session
+      hint: Did you stay on track
+      type: select_one
+      options:
+      - Very Focused
+      - Mostly Focused
+      - Somewhat Focused
+      - Not Very Focused
+      required: true
+    - id: 22
+      name: topic_for_next_session
+      label: What Should Be Discussed Next
+      hint: Topics for next session
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confidence_level
+      label: Your Confidence Level Now
+      hint: How confident do you feel
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident
+      required: true
+    - id: 24
+      name: motivation_level
+      label: Your Motivation Level Now
+      hint: How motivated are you
+      type: select_one
+      options:
+      - Very Motivated
+      - Motivated
+      - Somewhat Motivated
+      - Not Very Motivated
+      - Not Motivated
+      required: true
+    - id: 25
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

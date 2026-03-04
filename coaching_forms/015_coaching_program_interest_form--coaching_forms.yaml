@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Program Interest Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company or Organization
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_program_interest
+      label: -- Program Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: coaching_type_interested
+      label: Type of Coaching Interested In
+      hint: null
+      type: select_one
+      options:
+      - Executive Coaching
+      - Life Coaching
+      - Career Coaching
+      - Health and Wellness Coaching
+      - Business Coaching
+      - Leadership Coaching
+      - Other
+      required: true
+    - id: 10
+      name: coaching_goals
+      label: What are your coaching goals?
+      hint: Describe what you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_challenges
+      label: Current Challenges or Obstacles
+      hint: What are you struggling with?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: coaching_format
+      label: Preferred Coaching Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Phone
+      - No preference
+      required: true
+    - id: 14
+      name: availability
+      label: When are you available for coaching?
+      hint: null
+      type: select_one
+      options:
+      - Weekdays mornings
+      - Weekdays afternoons
+      - Weekdays evenings
+      - Weekends
+      - Flexible
+      required: true
+    - id: 15
+      name: coaching_frequency
+      label: Preferred Coaching Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: false
+    - id: 16
+      name: section_experience
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: previous_coaching_experience
+      label: Have you worked with a coach before?
+      hint: null
+      type: select_one
+      options:
+      - Yes, recently
+      - Yes, in the past
+      - false
+      required: true
+    - id: 18
+      name: previous_coaching_details
+      label: Details of Previous Coaching Experience
+      hint: What did you work on?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_budget
+      label: -- Budget and Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: budget_range
+      label: Budget Range (Optional)
+      hint: null
+      type: select_one
+      options:
+      - Less than 500
+      - 500-1000
+      - 1000-2500
+      - 2500-5000
+      - 5000+
+      - Not sure
+      required: false
+    - id: 21
+      name: schedule_discovery_call
+      label: Would you like to schedule a discovery call?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - Maybe later
+      - No thanks
+      required: true
+    - id: 22
+      name: preferred_contact_time
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

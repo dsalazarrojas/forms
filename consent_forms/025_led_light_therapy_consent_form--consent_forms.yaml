@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: LED Light Therapy Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: This is the introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: Please provide your medical history
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_information
+      label: Client Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      required: false
+    - id: 6
+      name: medical_history_details
+      label: Medical History Details
+      hint: Please provide any medical history details
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment
+      label: Treatment
+      hint: What type of light treatment do you wish to receive?
+      type: select_multiple
+      options:
+      - '{''label'': ''LED Light Therapy''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_treatment
+      label: Date of Last Treatment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_practitioner
+      label: Medical Practitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: consent_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Recording Consent Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal name of person being recorded
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 years of age or older?
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am a minor
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email for parent or guardian
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: recording_purpose
+      label: Recording Purpose
+      hint: What is the purpose of this recording?
+      type: select_one
+      options:
+      - Podcast
+      - Interview
+      - Voice Over
+      - Music Recording
+      - Educational Content
+      - Research Study
+      - Commercial Use
+      - Other
+      required: true
+    - id: 9
+      name: project_name
+      label: Project Name
+      hint: Name or title of the project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recording_date
+      label: Recording Date
+      hint: Date of the recording session
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: recording_location
+      label: Recording Location
+      hint: Where will the recording take place?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recording_method
+      label: Recording Method
+      hint: How will the recording be made?
+      type: select_one
+      options:
+      - In-person studio
+      - Remote recording
+      - Phone call
+      - Video call
+      - On-location
+      required: true
+    - id: 13
+      name: consent_granted
+      label: Consent Granted
+      hint: Do you consent to being recorded?
+      type: select_one
+      options:
+      - Yes, I consent fully
+      - Yes, with restrictions
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: usage_rights
+      label: Usage Rights
+      hint: How may the recording be used?
+      type: select_multiple
+      options:
+      - Public distribution
+      - Internal use only
+      - Educational purposes
+      - Commercial use
+      - Marketing and promotion
+      - Social media
+      - Broadcast
+      required: true
+    - id: 15
+      name: usage_duration
+      label: Usage Duration
+      hint: How long may the recording be used?
+      type: select_one
+      options:
+      - 1 year
+      - 3 years
+      - 5 years
+      - Perpetual
+      - One-time use only
+      required: true
+    - id: 16
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where may the recording be distributed?
+      type: select_one
+      options:
+      - Worldwide
+      - North America only
+      - United States only
+      - Specific region only
+      required: true
+    - id: 17
+      name: compensation
+      label: Compensation
+      hint: Will you receive compensation?
+      type: select_one
+      options:
+      - Yes, monetary payment
+      - Yes, non-monetary compensation
+      - No, voluntary participation
+      required: true
+    - id: 18
+      name: anonymity_request
+      label: Anonymity Request
+      hint: Do you wish to remain anonymous?
+      type: select_one
+      options:
+      - No, use my real name
+      - Yes, use pseudonym
+      - Yes, alter my voice
+      - Yes, do not identify me
+      required: true
+    - id: 19
+      name: withdrawal_rights
+      label: Withdrawal Rights
+      hint: I understand I may withdraw consent before publication
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 20
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

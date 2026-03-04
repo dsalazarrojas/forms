@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Welfare Workshop Recording Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: recording_consent
+      label: recording consent
+      hint: null
+      type: select_one
+      options:
+      - consent
+      - no_consent
+      required: false
+    - id: 5
+      name: consent_note
+      label: consent note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workshop_date
+      label: workshop date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: workshop_time
+      label: workshop time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sibling Participation Request Form
+    pages:
+    - id: 1
+      name: sibl_participation_request
+      label: Sibling Participation Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sibling_first_name
+      label: Sibling First Name
+      hint: Sibling first name please
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sibling_last_name
+      label: Sibling Last Name
+      hint: Sibling last name please
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sibling_email
+      label: Sibling Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_participant
+      label: How does the sibling's relationship to the participant fit this program/event?
+      hint: null
+      type: select_one
+      options:
+      - Parent/Guardian
+      - Sibling
+      - '{''Other (please specify)'': None}'
+      required: true
+    - id: 6
+      name: sibling_school_attendance
+      label: Has the sibling attended the same school as the participant this year?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: other_school
+      label: Other school information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: has_participated_in_programs
+      label: Has the sibling participated in any programs or events with the participant?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: sibling_program_experience
+      label: How many programs/events has the sibling participated in with the participant?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sibling_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Discharge Form
+    pages:
+    - id: 1
+      name: discharge_header_section
+      label: -- Final Resolution Discharge and Case Closure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_closure_id
+      label: Complaint Case Number
+      hint: The unique ID assigned to this complaint
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complainant_name_discharge
+      label: Complainant Name
+      hint: Person or group receiving the resolution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resolution_outcome_selection
+      label: Final Resolution Outcome
+      hint: Select the primary method of resolution
+      type: select_one
+      options:
+      - Financial Refund / Compensation
+      - Product Replacement / Repair
+      - Service Credit / Discount Voucher
+      - Formal Apology (No financial cost)
+      - Process / Policy Change
+      required: true
+    - id: 5
+      name: resolution_cost_decimal
+      label: Total Financial Cost of Resolution
+      hint: Enter amount in USD (Enter 0 if none)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: department_head_approval_status
+      label: Has this resolution been approved by the Department Head?
+      hint: Internal compliance check
+      type: select_one
+      options:
+      - Yes, approved
+      - No, approval not required for this amount
+      - Pending Approval
+      required: true
+    - id: 7
+      name: lessons_learned_reflection
+      label: Lessons Learned from this Case
+      hint: How can we prevent this issue from happening again?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: case_resolution_agreement_ack
+      label: I confirm that this case is now resolved and no further action is required
+      hint: Case closure acknowledgement
+      type: select_one
+      options:
+      - I so confirm
+      - Other
+      required: true
+    - id: 9
+      name: discharge_date_final
+      label: Date of Discharge
+      hint: Official closure date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: discharge_signature_staff
+      label: Staff Member Name (Discharging Officer)
+      hint: Person finalizing the closure
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: closure_note_final
+      label: Case Status - CLOSED
+      hint: No further entries allowed
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: green_power_subscription_consent_form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plan_selections
+      label: Plan Selections
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Plan 1''}'
+      - '{''label'': ''Plan 2''}'
+      - '{''label'': ''Plan 3''}'
+      required: false
+    - id: 3
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false

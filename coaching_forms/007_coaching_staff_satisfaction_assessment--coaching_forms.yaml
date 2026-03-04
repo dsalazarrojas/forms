@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Staff Satisfaction Assessment
+    pages:
+      - id: 1
+        name: section_respondent
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Full name of staff member
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: position
+        label: Your Position
+        hint: Job title or role
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department or Team
+        hint: Which area do you work in
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: tenure
+        label: How long have you worked here
+        hint: Length of employment
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1-2 years
+          - 2-5 years
+          - More than 5 years
+        required: true
+      - id: 6
+        name: section_coaching_quality
+        label: -- Coaching Quality and Leadership --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: coach_feedback_quality
+        label: Quality of feedback from coaching staff
+        hint: Rate from 1 - poor to 5 - excellent
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 8
+        name: coach_knowledge
+        label: Coaching staff knowledge and expertise
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 9
+        name: coach_clarity
+        label: Clarity of coaching instructions and goals
+        hint: null
+        type: select_one
+        options:
+          - "1 - Unclear"
+          - "2 - Somewhat unclear"
+          - "3 - Neutral"
+          - "4 - Clear"
+          - "5 - Very clear"
+        required: true
+      - id: 10
+        name: goal_alignment
+        label: Coaching goals align with organizational goals
+        hint: null
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 11
+        name: section_support
+        label: -- Support and Communication --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: coach_support_level
+        label: Coaching staff support and encouragement
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very unsupportive"
+          - "2 - Unsupportive"
+          - "3 - Neutral"
+          - "4 - Supportive"
+          - "5 - Very supportive"
+        required: true
+      - id: 13
+        name: communication_access
+        label: Ease of accessing coaching staff for questions
+        hint: null
+        type: select_one
+        options:
+          - "1 - Difficult"
+          - "2 - Somewhat difficult"
+          - "3 - Neutral"
+          - "4 - Easy"
+          - "5 - Very easy"
+        required: true
+      - id: 14
+        name: communication_effectiveness
+        label: Effectiveness of communication
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 15
+        name: section_impact
+        label: -- Impact and Outcomes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: performance_improvement
+        label: Coaching has improved my performance
+        hint: null
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 17
+        name: skill_development
+        label: Coaching has developed my skills
+        hint: null
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 18
+        name: confidence_improvement
+        label: Coaching has improved my confidence
+        hint: null
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 19
+        name: section_overall
+        label: -- Overall Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: overall_satisfaction
+        label: Overall satisfaction with coaching program
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very unsatisfied"
+          - "2 - Unsatisfied"
+          - "3 - Neutral"
+          - "4 - Satisfied"
+          - "5 - Very satisfied"
+        required: true
+      - id: 21
+        name: continue_coaching
+        label: Would you want to continue coaching
+        hint: null
+        type: select_one
+        options:
+          - "Yes, definitely"
+          - "Yes, probably"
+          - "Unsure"
+          - "No, probably not"
+          - "No, definitely not"
+        required: true
+      - id: 22
+        name: improvement_suggestions
+        label: Suggestions for improvement
+        hint: How can coaching be improved
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

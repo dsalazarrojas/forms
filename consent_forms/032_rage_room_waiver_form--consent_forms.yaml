@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rage Room Waiver Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: waiver
+      label: Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_information
+      label: Guardian Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: participant_height
+      label: Participant Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_weight
+      label: Participant Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_diet
+      label: Participant Diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_medical_conditions
+      label: Participant Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_allergies
+      label: Participant Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_laws
+      label: Facility Laws
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_laws_agreed
+      label: Facility Laws Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - I have read and understand the terms and conditions
+      - I am aware that I am participating at my own risk
+      - I agree to the terms and conditions
+      required: false
+    - id: 13
+      name: waiver_signed
+      label: Waiver Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guardian_signature
+      label: Guardian Signature (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_signature
+      label: Facility Signature
+      hint: null
+      type: text
+      options: []
+      required: false

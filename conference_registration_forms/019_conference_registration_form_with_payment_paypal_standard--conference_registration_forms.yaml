@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form With Payment PayPal Standard
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company or Organization
+      hint: Your affiliation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attendee_type
+      label: Attendee Type
+      hint: Select your category
+      type: select_one
+      options:
+      - Professional
+      - Academic
+      - Student
+      - Government
+      - Non-Profit
+      - Retired
+      required: true
+    - id: 8
+      name: registration_option
+      label: Registration Option
+      hint: Choose your registration
+      type: select_one
+      options:
+      - Full Conference - $495
+      - Single Day - $195
+      - Student Full - $150
+      - Virtual Access - $99
+      - Group Rate 5+ - $395 each
+      required: true
+    - id: 9
+      name: conference_days
+      label: Days Attending
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Day 1 - Opening and Keynotes
+      - Day 2 - Technical Sessions
+      - Day 3 - Workshops
+      - Day 4 - Closing
+      required: true
+    - id: 10
+      name: meal_function
+      label: Meal Functions
+      hint: Included with registration
+      type: select_multiple
+      options:
+      - Welcome Breakfast
+      - Lunch Day 1
+      - Lunch Day 2
+      - Networking Dinner
+      - Closing Brunch
+      required: false
+    - id: 11
+      name: dietary_preference
+      label: Dietary Preference
+      hint: For meal planning
+      type: select_one
+      options:
+      - Standard
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Kosher
+      - Halal
+      required: true
+    - id: 12
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Specify restrictions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: For conference swag
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      - XXX-Large
+      - Prefer Not
+      required: false
+    - id: 14
+      name: paypal_email
+      label: PayPal Email Address
+      hint: Email for PayPal payment
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: You will be redirected to PayPal
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: invoice_required
+      label: Invoice Required
+      hint: Do you need an invoice
+      type: select_one
+      options:
+      - Yes Send Invoice
+      - No Receipt is Sufficient
+      required: true
+    - id: 17
+      name: invoice_details
+      label: Invoice Details
+      hint: Company billing info
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility
+      label: Accessibility Requirements
+      hint: Special needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: marketing_opt_in
+      label: Receive Future Communications
+      hint: Marketing emails
+      type: select_one
+      options:
+      - Yes Please
+      - No Thank You
+      required: true
+    - id: 22
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Help us improve
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Colleague
+      - Website
+      - Advertisement
+      - Other
+      required: false
+    - id: 23
+      name: terms_agreement
+      label: I Agree to Terms and Cancellation Policy
+      hint: Accept policies
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

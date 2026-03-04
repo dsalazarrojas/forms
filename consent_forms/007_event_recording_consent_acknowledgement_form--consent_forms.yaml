@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Recording Consent Acknowledgement Form
+    pages:
+    - id: 1
+      name: event_organiser
+      label: Event Organiser
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: consent_audio
+      label: Audio Recording
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: consent_video
+      label: Video Recording
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organiser_signature
+      label: Organiser Signature
+      hint: null
+      type: text
+      options: []
+      required: true

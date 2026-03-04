@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Event Permission Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_information
+      label: participant_guardian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_consent
+      label: participant_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_consent_part_1
+      label: participant_consent_part_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_consent_part_2
+      label: participant_consent_part_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_consent_part_3
+      label: participant_consent_part_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guardian_consent
+      label: guardian_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false

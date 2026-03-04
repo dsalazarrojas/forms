@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Learning Session Replay Consent Form
+    pages:
+    - id: 1
+      name: hybrid_learning_session_replay_consent_form_page_1
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: session_id
+      label: session_id
+      hint: null
+      type: select_one
+      options:
+      - '123456'
+      - '123457'
+      - '123458'
+      - '123459'
+      - '123460'
+      - '123461'
+      - '123462'
+      - '123463'
+      - '123464'
+      - '123465'
+      required: false
+    - id: 4
+      name: session_title
+      label: session_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recorded_for_replay
+      label: recorded_for_replay
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reuse_with_audio
+      label: reuse_with_audio
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_notes
+      label: session_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to recording this session
+      - I do not consent to recording this session
+      - Decline
+      required: false

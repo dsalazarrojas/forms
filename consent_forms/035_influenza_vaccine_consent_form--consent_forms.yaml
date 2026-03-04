@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influenza Vaccine Consent Form
+    pages:
+    - id: 1
+      name: user_influenza_interest
+      label: influenza_vaccine_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_identification_number
+      label: patient_identification
+      hint: Your ID number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: patient_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: consent_given_by
+      label: consent_given_by
+      hint: Name of person providing consent
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_signature
+      label: consent_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_organization
+      label: medical_organization
+      hint: Name of medical organization
+      type: text
+      options: []
+      required: false

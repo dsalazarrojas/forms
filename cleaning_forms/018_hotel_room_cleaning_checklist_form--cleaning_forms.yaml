@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_room_cleaning_checklist_form
+    pages:
+    - id: 1
+      name: hotel_room_cleaning_checklist
+      label: Bathroom
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: bathroom_facilities
+      label: bathroom_facilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bathroom_sinks
+      label: sinks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: bathroom_toilets
+      label: toilets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: bathroom_shower
+      label: shower
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mirrors
+      label: mirrors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: bathroom_flooring
+      label: flooring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bathroom_walls
+      label: walls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: bathroom_ceiling
+      label: ceiling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bathroom_doors
+      label: doors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: bathroom_furniture
+      label: furniture
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

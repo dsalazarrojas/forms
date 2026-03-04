@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business License Dispute Resolution Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Dispute Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Name of business filing the dispute
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: license_number
+      label: License number
+      hint: Licensing identifier related to the dispute
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dispute_summary
+      label: Dispute summary
+      hint: Describe the nature of the dispute
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_issue
+      label: Date of issue
+      hint: Date when the dispute arose
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: desired_outcome
+      label: Desired outcome
+      hint: Resolution or remedy you are seeking
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents
+      hint: Indicate if you will provide documents
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For correspondence about the dispute
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number for urgent follow up
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

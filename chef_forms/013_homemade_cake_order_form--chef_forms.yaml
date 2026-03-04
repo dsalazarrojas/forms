@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homemade Cake Order Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: prophets
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cake_type
+      label: Cake Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: cake_size
+      label: Cake Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: cake_flavor
+      label: Cake Flavor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cake_design
+      label: Cake Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cake_special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

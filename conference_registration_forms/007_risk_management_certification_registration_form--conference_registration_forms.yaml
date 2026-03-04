@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Management Certification Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_management_certification
+      label: risk_management_certification
+      hint: null
+      type: select_one
+      options:
+      - Certified Risk Management - CPRM
+      - Certified Risk Manager - CRMP
+      - Certified Risk and Compliance Professional - CRC
+      - Certified Risk Manager - CRM
+      required: true
+    - id: 8
+      name: risk_area
+      label: risk_area
+      hint: null
+      type: select_multiple
+      options:
+      - Risk Management - RM
+      - Risk Analysis - RA
+      - Risk Assessment - RA
+      - Risk Mitigation - RM
+      required: true
+    - id: 9
+      name: certification_date
+      label: certification_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: course_or_exam
+      label: course_or_exam
+      hint: null
+      type: select_one
+      options:
+      - Risk Management Certification - RMC
+      - Risk Management Exam - RME
+      required: true
+    - id: 11
+      name: course_provider
+      label: course_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: course_location
+      label: course_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: course_duration
+      label: course_duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: course_cost
+      label: course_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: course_notes
+      label: course_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_organization
+      label: submitter_organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_title
+      label: submitter_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_date
+      label: submitter_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: submitter_time
+      label: submitter_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitter_notes
+      label: submitter_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitter_agreement
+      label: submitter_agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms of service
+      - I do not agree to the terms of service
+      required: true
+    - id: 25
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spindle Maintenance Checklist
+    pages:
+    - id: 1
+      name: machine_type
+      label: Machine Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mill''}'
+      - '{''id'': 2, ''label'': ''Lathe''}'
+      - '{''id'': 3, ''label'': ''Grinder''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: spindle_location
+      label: Spindle Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Machine Shop''}'
+      - '{''id'': 2, ''label'': ''Manufacturing Area''}'
+      - '{''id'': 3, ''label'': ''Warehouse''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      required: false
+    - id: 5
+      name: last_maintenance
+      label: Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Add any comments about this maintenance
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: technician_email
+      label: Technician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: technician_phone
+      label: Technician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: next_maintenance
+      label: Next Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false

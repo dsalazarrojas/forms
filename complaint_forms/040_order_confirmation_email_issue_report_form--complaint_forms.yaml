@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Confirmation Email Issue Report Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email_subject
+      label: Email Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_body
+      label: Email Body
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: expected_email_attachment
+      label: Expected Email Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: received_email_attachment
+      label: Received Email Attachment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Cancelled
+      - On Hold
+      - Completed
+      - Processing
+      required: true
+    - id: 9
+      name: expected_email_subject
+      label: Expected Email Subject
+      hint: null
+      type: select_one
+      options:
+      - Order Confirmation
+      - Shipping Confirmation
+      - Payment Confirmation
+      required: true
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: support_agent
+      label: Support Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: true
+    - id: 13
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: support_agent_assigned
+      label: Support Agent Assigned
+      hint: null
+      type: select_multiple
+      options:
+      - Support Agent 1
+      - Support Agent 2
+      - Support Agent 3
+      required: true
+    - id: 16
+      name: issue_resolution_notes
+      label: Issue Resolution Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: issue_resolution_status
+      label: Issue Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Resolved Partial
+      - Not Resolved
+      - Not Applicable
+      required: true

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Cast Media Consent Form
+    pages:
+    - id: 1
+      name: media_type
+      label: Select media type
+      hint: null
+      type: select_one
+      options:
+      - Photo
+      - Video
+      - Audio
+      required: false
+    - id: 2
+      name: consent_given
+      label: consent_given
+      hint: Is consent given?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: guardian_info
+      label: guardian_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performer_info
+      label: performer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_info
+      label: parent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_info
+      label: school_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_media_capture
+      label: date_of_media_capture
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_media_capture
+      label: time_of_media_capture
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: location_of_media_capture
+      label: location_of_media_capture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: description
+      hint: Describe the media captured
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: permission_to_share
+      label: permission_to_share
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

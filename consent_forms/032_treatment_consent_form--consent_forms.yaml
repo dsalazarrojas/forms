@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: treatment_consent_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_details
+      label: Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signature
+      label: Signature
+      hint: Please sign below
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Signed''}'
+      - '{''value'': ''Not Signed''}'
+      - '{''value'': ''Partially Signed''}'
+      required: false
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false

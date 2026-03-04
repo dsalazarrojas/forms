@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dot Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - Dodge
+      - Ford
+      - Honda
+      - Toyota
+      - Volkswagen
+      - Other
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_license_number
+      label: vehicle_license_number
+      hint: null
+      type: select_multiple
+      options:
+      - US
+      - CA
+      - AZ
+      - MI
+      - TX
+      - NY
+      - Other
+      required: false
+    - id: 6
+      name: mileage_miles
+      label: mileage_miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: engine_condition
+      label: engine_condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: brake_condition
+      label: brake_condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: tire_condition
+      label: tire_condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: battery_status
+      label: battery_status
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: vehicle_inspection_date
+      label: vehicle_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

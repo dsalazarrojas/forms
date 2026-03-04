@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Support Records Release Form
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: caregiver_full_name
+      label: Caregiver Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: caregiver_date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: caregiver_contact_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: caregiver_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: relationship_to_patient
+      label: Relationship to Patient
+      hint: Select your relationship
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Adult Child
+      - Sibling
+      - Extended Family
+      - Other
+      required: true
+    - id: 7
+      name: patient_information_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Enter the patient's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_medical_record_number
+      label: Medical Record Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorization_section
+      label: -- Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: records_to_release
+      label: Which records would you like to release?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medical Records
+      - Mental Health Records
+      - Prescription History
+      - Lab Results
+      - Imaging Reports
+      - Consultation Notes
+      - Treatment Plans
+      required: true
+    - id: 13
+      name: healthcare_providers_list
+      label: Healthcare Providers to Share With
+      hint: List names and specialties of providers
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: release_purpose
+      label: Purpose of Release
+      hint: What will the records be used for?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: release_date_from
+      label: Release Records From Date
+      hint: Start date for records to include
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: release_date_to
+      label: Release Records To Date
+      hint: End date for records to include
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: authorization_validity
+      label: How long should this authorization remain valid?
+      hint: Select duration
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 6 months
+      - 1 year
+      - Until revoked by caregiver
+      required: true
+    - id: 18
+      name: consent_confirmation
+      label: I confirm that I am authorized to release these records
+      hint: null
+      type: select_one
+      options:
+      - Yes, I authorize this release
+      - No, do not proceed
+      required: true
+    - id: 19
+      name: caregiver_signature_date
+      label: Date of Consent
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true

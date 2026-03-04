@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_purchase_permission_form
+    pages:
+    - id: 1
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: realtor_info
+      label: Real Estate Agent Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agent_info
+      label: Agent Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: agent_phone
+      label: Real Estate Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agent_email
+      label: Real Estate Agent E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: note
+      options: []
+      required: false

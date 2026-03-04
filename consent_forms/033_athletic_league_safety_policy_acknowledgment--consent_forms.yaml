@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic League Safety Policy Acknowledgment
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_role
+      label: Participant Role
+      hint: Your role in the league
+      type: select_one
+      options:
+      - Athlete
+      - Parent or Guardian
+      - Coach
+      - Assistant Coach
+      - Team Manager
+      - Volunteer
+      - Official or Referee
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Wrestling
+      - Other
+      required: true
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: Name of team
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: league_name
+      label: League Name
+      hint: Name of athletic league
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: season
+      label: Season
+      hint: Which season
+      type: select_one
+      options:
+      - Fall
+      - Winter
+      - Spring
+      - Summer
+      - Year-Round
+      required: true
+    - id: 8
+      name: year
+      label: Year
+      hint: Competition year
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: policy_version
+      label: Safety Policy Version
+      hint: Version being acknowledged
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: policy_review_date
+      label: Policy Review Date
+      hint: Date policy was reviewed
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: safety_topics_reviewed
+      label: Safety Topics Reviewed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Concussion Protocol
+      - Heat Illness Prevention
+      - Emergency Action Plan
+      - Equipment Safety Standards
+      - Facility Safety Requirements
+      - Injury Reporting Procedures
+      - Return to Play Guidelines
+      - Hydration Requirements
+      - Weather Safety Policies
+      - Code of Conduct
+      - Anti-Bullying Policy
+      - Substance Abuse Policy
+      required: true
+    - id: 12
+      name: concussion_acknowledgment
+      label: Concussion Protocol Acknowledgment
+      hint: I have read and understand the concussion protocol
+      type: select_one
+      options:
+      - Yes - I Acknowledge
+      - 'No'
+      required: true
+    - id: 13
+      name: heat_illness_acknowledgment
+      label: Heat Illness Prevention Acknowledgment
+      hint: I understand heat illness prevention measures
+      type: select_one
+      options:
+      - Yes - I Acknowledge
+      - 'No'
+      required: true
+    - id: 14
+      name: emergency_plan_acknowledgment
+      label: Emergency Action Plan Acknowledgment
+      hint: I understand the emergency action plan
+      type: select_one
+      options:
+      - Yes - I Acknowledge
+      - 'No'
+      required: true
+    - id: 15
+      name: equipment_safety_acknowledgment
+      label: Equipment Safety Acknowledgment
+      hint: I understand equipment safety requirements
+      type: select_one
+      options:
+      - Yes - I Acknowledge
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 16
+      name: injury_reporting_acknowledgment
+      label: Injury Reporting Acknowledgment
+      hint: I understand injury reporting procedures
+      type: select_one
+      options:
+      - Yes - I Acknowledge
+      - 'No'
+      required: true
+    - id: 17
+      name: code_of_conduct_acknowledgment
+      label: Code of Conduct Acknowledgment
+      hint: I agree to follow the code of conduct
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 18
+      name: anti_bullying_acknowledgment
+      label: Anti-Bullying Policy Acknowledgment
+      hint: I understand and support the anti-bullying policy
+      type: select_one
+      options:
+      - Yes - I Acknowledge
+      - 'No'
+      required: true
+    - id: 19
+      name: safety_commitment
+      label: Safety Commitment
+      hint: I commit to prioritizing safety in all activities
+      type: select_one
+      options:
+      - Yes - I Commit
+      - 'No'
+      required: true
+    - id: 20
+      name: questions_or_concerns
+      label: Questions or Concerns
+      hint: List any questions about safety policies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_training_needed
+      label: Additional Training Needed
+      hint: Do you need additional safety training
+      type: select_one
+      options:
+      - No - I Am Trained
+      - Yes - CPR Certification
+      - Yes - First Aid
+      - Yes - Concussion Training
+      - Yes - Other
+      required: true
+    - id: 22
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Required if participant is under 18
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature if under 18
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false

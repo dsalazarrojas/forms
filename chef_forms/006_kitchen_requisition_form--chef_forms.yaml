@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Requisition Form
+    pages:
+    - id: 1
+      name: ingredient_list
+      label: Ingredient List
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supplier_name
+      label: supplier_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quantity_ordered
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_total
+      label: item_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: tax
+      label: tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date_requisitioned
+      label: date_requisitioned
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

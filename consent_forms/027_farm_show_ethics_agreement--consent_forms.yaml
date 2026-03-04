@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Show Ethics Agreement
+    pages:
+    - id: 1
+      name: exhibitor_info
+      label: Exhibitor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_rules_agreed
+      label: Event Rules Agreed
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Not Agreed
+      required: false
+    - id: 4
+      name: animal_welfare_standards
+      label: Animal Welfare Standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: conduct_expectations
+      label: Conduct Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: signed_acknowledgment
+      label: Signed Acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

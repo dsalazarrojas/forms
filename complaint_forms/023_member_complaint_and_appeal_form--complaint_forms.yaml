@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Complaint And Appeal Form
+    pages:
+    - id: 1
+      name: member_complaint_form
+      label: Member Complaint Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: member_complaint_details
+      label: Member Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appeal_details
+      label: Appeal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: facility_issue_details
+      label: Facility Issue Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: member_name
+      label: Member's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_contact_info
+      label: Member's Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staff_employed_at
+      label: Staff Employed At
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: reporting_staff_member
+      label: Reporting Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_issue_description
+      label: Facility Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: misconduct_description
+      label: Misconduct Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_of_resolution
+      label: Date of Resolution
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: member_comments
+      label: Member Comments
+      hint: null
+      type: text
+      options: []
+      required: false

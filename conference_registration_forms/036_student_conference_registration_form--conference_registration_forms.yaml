@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Conference Registration Form
+    pages:
+    - id: 1
+      name: conference_programs
+      label: Conference Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: Enter student email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: conference_date
+      label: Conference Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: conference_time
+      label: Conference Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: conference_type
+      label: Conference Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

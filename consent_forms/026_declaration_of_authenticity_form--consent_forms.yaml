@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: declaration_of_authenticity_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: telephone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: declaration_of_authenticity
+      label: declaration of authenticity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: nationality
+      label: nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nationality_options
+      label: select nationality
+      hint: null
+      type: select_multiple
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 10
+      name: country_of_residence
+      label: country of residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: country_of_residence_options
+      label: select country of residence
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - California
+      - Florida
+      required: false

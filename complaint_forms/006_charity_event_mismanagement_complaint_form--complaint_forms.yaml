@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Mismanagement Complaint Form
+    pages:
+    - id: 1
+      name: section_complainant_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: complainant_name
+      label: Your Full Name
+      hint: Complete name of the person filing complaint
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complainant_email
+      label: Email Address
+      hint: We will contact you at this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: complainant_phone
+      label: Phone Number
+      hint: Preferred contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complainant_role
+      label: Your Role at the Event
+      hint: Attendee, Volunteer, Vendor, etc
+      type: select_one
+      options:
+      - Attendee
+      - Volunteer
+      - Vendor
+      - Staff Member
+      - Other
+      required: true
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Name of Event
+      hint: Which charity event is this complaint about
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Date of Event
+      hint: When did the event take place
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: City, venue name, or address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organizer_name
+      label: Event Organizer or Organization Name
+      hint: Who organized this event
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_complaint_details
+      label: -- Complaint Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: complaint_category
+      label: Type of Mismanagement
+      hint: What category best describes the issue
+      type: select_one
+      options:
+      - Financial Mismanagement
+      - Poor Organization
+      - Misleading Information
+      - Safety Concerns
+      - Volunteer Mistreatment
+      - Communication Failure
+      - Unauthorized Fund Usage
+      - Other
+      required: true
+    - id: 13
+      name: complaint_description
+      label: Detailed Description of the Complaint
+      hint: Please explain what happened and why you believe it was mismanagement
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: specific_incidents
+      label: Specific Incidents or Examples
+      hint: Provide concrete examples or evidence
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: financial_impact
+      label: Financial Impact to You
+      hint: Did this cost you money or result in losses
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: witnesses
+      label: Were There Witnesses
+      hint: Can anyone corroborate your complaint
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: false
+    - id: 17
+      name: witness_details
+      label: Witness Names and Contact Information
+      hint: If applicable, provide witness details
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: resolution_sought
+      label: Resolution Sought
+      hint: What outcome would satisfy this complaint
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: documents_attached
+      label: Do You Have Supporting Documents
+      hint: Photos, emails, receipts, etc
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: complaint_date
+      label: Date of This Complaint
+      hint: When are you filing this complaint
+      type: date
+      options: []
+      required: true

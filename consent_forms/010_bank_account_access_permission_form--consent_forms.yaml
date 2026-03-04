@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Access Permission Form
+    pages:
+    - id: 1
+      name: account_holder_header
+      label: -- Primary Account Holder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: holder_full_name
+      label: Account Holder Full Name
+      hint: As it appears on bank statements
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Bank Account Number
+      hint: Enter the full account number for authorization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Personal Checking
+      - Personal Savings
+      - Business Checking
+      - Business Savings
+      - Money Market
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: For verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorized_person_header
+      label: -- Authorized Representative Information --
+      hint: The person being granted access
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rep_full_name
+      label: Representative Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: rep_relationship
+      label: Relationship to Account Holder
+      hint: e.g., Spouse, Attorney, Accountant, Business Partner
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rep_id_type
+      label: Representative ID Type
+      hint: Type of identification to be presented
+      type: select_one
+      options:
+      - State Driver's License
+      - Passport
+      - Government ID
+      required: true
+    - id: 10
+      name: access_level_header
+      label: -- Level of Access Granted --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: access_type
+      label: Permitted Actions
+      hint: Select the level of authority granted
+      type: select_multiple
+      options:
+      - View Balances Only
+      - View Transaction History
+      - Make Deposits
+      - Execute Withdrawals (Limited)
+      - Execute Withdrawals (Unlimited)
+      - Open/Close Sub-Accounts
+      required: true
+    - id: 12
+      name: access_duration
+      label: Duration of Access
+      hint: null
+      type: select_one
+      options:
+      - Permanent (Until Revoked)
+      - One-Time Access
+      - Temporary - Specified Date Range
+      required: true
+    - id: 13
+      name: expiration_date
+      label: Access Expiration Date
+      hint: Only required if Temporary access is selected
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: security_acknowledgment_header
+      label: -- Security and Legal Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: liability_waiver
+      label: Liability Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - I understand that I am responsible for all actions taken by the authorized
+        representative
+      - I wish to restrict liability (requires additional legal review)
+      required: true
+    - id: 16
+      name: revocation_notice
+      label: I understand that I may revoke this access at any time in writing
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: digital_signature_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true

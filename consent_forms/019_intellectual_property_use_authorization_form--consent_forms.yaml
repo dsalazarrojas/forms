@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intellectual Property Use Authorization Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: permission_level
+      label: Permission Level
+      hint: null
+      type: select_one
+      options:
+      - Full Access
+      - Read-Only
+      - Restricted Access
+      required: false
+    - id: 3
+      name: usage_terms
+      label: Usage Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Usage by our company
+      - Usage by third-party service providers
+      - Usage by partners
+      required: false
+    - id: 4
+      name: duration
+      label: Duration of Authorization
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: ip_info
+      label: IP Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ip_agreed
+      label: I agree to use IP as described above
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

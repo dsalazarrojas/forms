@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Card List Form
+    pages:
+    - id: 1
+      name: your_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: recipient_info
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: recipient_name
+      label: Recipient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recipient_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: relationship
+      label: Relationship to Sender
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Friend
+      - Colleague
+      - Client
+      - Business associate
+      - Other
+      required: false
+    - id: 14
+      name: card_type
+      label: Preferred Card Type
+      hint: null
+      type: select_one
+      options:
+      - Holiday greeting
+      - Business holiday card
+      - Photo card
+      - Handmade card
+      - No preference
+      required: false
+    - id: 15
+      name: special_notes
+      label: Special Notes or Preferences
+      hint: Any specific interests or notes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address_verification
+      label: Please verify the address is correct
+      hint: Double-check before submitting
+      type: select_one
+      options:
+      - Yes, address is correct
+      - No, I need to make corrections
+      required: true

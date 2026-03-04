@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claims Form
+    pages:
+    - id: 1
+      name: policyholder_details
+      label: -- Policyholder Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insured_name
+      label: Name of Insured
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_phone
+      label: Primary Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: claim_information
+      label: -- Claim Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_loss
+      label: Date of Loss
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_loss
+      label: Time of Loss
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: cause_of_loss
+      label: Cause of Loss
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Water Damage
+      - Windstorm
+      - Collision
+      - Vandalism
+      - Theft
+      - Other
+      required: true
+    - id: 11
+      name: loss_description
+      label: Description of Loss
+      hint: Provide a brief summary of the damage or incident
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: loss_location
+      label: Location of Loss
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: other_insurance
+      label: Is there any other insurance covering this loss?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: repair_estimate
+      label: Estimated Cost of Repairs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: emergency_repairs_made
+      label: Have any emergency repairs been made?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: declaration
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature_confirmation
+      label: I confirm that the information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

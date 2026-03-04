@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_educator_interview_publication_consent_form
+    pages:
+    - id: 1
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Select a tool from the list
+      type: select_one
+      options:
+      - Assigned Tool 1
+      - Assigned Tool 2
+      - Assigned Tool 3
+      required: false
+    - id: 4
+      name: prophets
+      label: Prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: Select a category
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: Select the person who submitted this form
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: Select multiple statuses
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

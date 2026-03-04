@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Jar Order Form
+    pages:
+    - id: 1
+      name: customer_header
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: jar_order_header
+      label: -- Cake Jar Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: jar_flavor
+      label: Cake Flavor
+      hint: null
+      type: select_one
+      options:
+      - Chocolate
+      - Vanilla
+      - Strawberry
+      - Red Velvet
+      - Lemon
+      - Carrot
+      - Custom
+      required: true
+    - id: 7
+      name: jar_size
+      label: Jar Size
+      hint: null
+      type: select_one
+      options:
+      - Small (8 oz)
+      - Medium (12 oz)
+      - Large (16 oz)
+      - Extra Large (20 oz)
+      required: true
+    - id: 8
+      name: jar_quantity
+      label: Quantity of Jars
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: frosting_preference
+      label: Frosting Type
+      hint: null
+      type: select_one
+      options:
+      - Buttercream
+      - Cream Cheese
+      - Chocolate Ganache
+      - Whipped Cream
+      required: true
+    - id: 10
+      name: topping_options
+      label: Toppings (select all desired)
+      hint: null
+      type: select_multiple
+      options:
+      - Sprinkles
+      - Crushed cookies
+      - Nuts
+      - Fresh fruit
+      - Chocolate chips
+      - Caramel drizzle
+      - None
+      required: false
+    - id: 11
+      name: dietary_notes
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: delivery_date
+      label: Desired Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: pickup_vs_delivery
+      label: Pickup or Delivery?
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 16
+      name: delivery_address
+      label: Delivery Address (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: occasion
+      label: Occasion for Jars
+      hint: null
+      type: select_one
+      options:
+      - Gift
+      - Party favor
+      - Dessert table
+      - Personal use
+      - Other
+      required: false

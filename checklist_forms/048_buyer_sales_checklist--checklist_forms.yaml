@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Sales Checklist
+    pages:
+    - id: 1
+      name: sale_date
+      label: Sale or Transaction Date
+      hint: When is this sale occurring?
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: agent_name
+      label: Sales Agent Name
+      hint: Person managing this sale
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_contact
+      label: Buyer Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Subject property address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: Agreed sale price
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: earnest_money_received
+      label: Earnest Money Deposit Received
+      hint: null
+      type: select_one
+      options:
+      - Yes, received
+      - Pending receipt
+      - Not yet received
+      - N/A
+      required: true
+    - id: 8
+      name: earnest_money_amount
+      label: Earnest Money Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: inspection_scheduled
+      label: Home Inspection Scheduled
+      hint: null
+      type: select_one
+      options:
+      - Yes, scheduled
+      - Pending scheduling
+      - Waived
+      - N/A
+      required: true
+    - id: 10
+      name: inspection_date
+      label: Home Inspection Date
+      hint: When is it scheduled?
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: appraisal_ordered
+      label: Appraisal Ordered
+      hint: null
+      type: select_one
+      options:
+      - Yes, ordered
+      - Pending order
+      - Waived
+      - N/A
+      required: true
+    - id: 12
+      name: appraisal_value
+      label: Appraisal Value
+      hint: If available
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: title_search_ordered
+      label: Title Search Ordered
+      hint: null
+      type: select_one
+      options:
+      - Yes, ordered
+      - Pending order
+      - Completed
+      - N/A
+      required: true
+    - id: 14
+      name: financing_application
+      label: Financing Application Submitted
+      hint: null
+      type: select_one
+      options:
+      - Yes, submitted
+      - Pending submission
+      - Not applying for loan
+      - N/A
+      required: true
+    - id: 15
+      name: loan_approval_status
+      label: Loan Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pre-approved
+      - Conditional approval
+      - Pending underwriting
+      - Not applicable
+      - Denied
+      required: false
+    - id: 16
+      name: homeowners_insurance
+      label: Homeowners Insurance Quote
+      hint: null
+      type: select_one
+      options:
+      - Quotes obtained
+      - Pending quotes
+      - Not yet done
+      - N/A
+      required: true
+    - id: 17
+      name: hoa_documents
+      label: HOA Documents Reviewed (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - Received and reviewed
+      - Pending receipt
+      - Not applicable
+      required: true
+    - id: 18
+      name: final_walkthrough
+      label: Final Walkthrough Scheduled
+      hint: null
+      type: select_one
+      options:
+      - Yes, scheduled
+      - Pending scheduling
+      - Waived
+      - Not yet
+      required: true
+    - id: 19
+      name: closing_scheduled
+      label: Closing Date Scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: all_items_complete
+      label: All Items Complete and On Track
+      hint: Overall status of transaction
+      type: select_one
+      options:
+      - Yes, all on track
+      - Mostly on track
+      - Some issues
+      - Significant delays
+      - Not started
+      required: true

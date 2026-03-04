@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sunday Service Altar Checklist
+    pages:
+    - id: 1
+      name: altar_checklist
+      label: sunday_service_altar_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sacraments
+      label: sacraments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hymns
+      label: hymns
+      hint: Select a few hymns for the service
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: opening_scripture
+      label: opening_scripture
+      hint: Select a scripture for the opening prayer or reading
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: sermon
+      label: sermon
+      hint: Select a sermon or talk for the service
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: closing_scripture
+      label: closing_scripture
+      hint: Select a scripture for the closing prayer or reading
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: closing_hymn
+      label: closing_hymn
+      hint: Select a closing hymn
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: altar_arrangements
+      label: altar_arrangements
+      hint: Specify the arrangements for the altar
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: altar_decorations
+      label: altar_decorations
+      hint: Specify the altar decorations
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

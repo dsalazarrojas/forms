@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Personal Cyber Security Checklist
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: password_strength
+      label: Password Strength
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: security_question
+      label: Security Question
+      hint: null
+      type: select_one
+      options:
+      - Is your password more than 12 characters long?
+      - Do you use a password manager?
+      - Are you using a strong password?
+      required: false
+    - id: 4
+      name: two_factor
+      label: Two-Factor
+      hint: null
+      type: select_multiple
+      options:
+      - SMS/Text Message
+      - U2F (Universal 2nd Factor)
+      - Smart Card
+      - Other
+      required: false
+    - id: 5
+      name: sensitive_data
+      label: Sensitive Data
+      hint: null
+      type: select_multiple
+      options:
+      - Bank/Financial Information
+      - Personal Address
+      - Social Security Number
+      - Date of Birth
+      - Other
+      required: false
+    - id: 6
+      name: security_questions
+      label: Security Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Is a friend or family member able to access your account?
+      - Have you ever had your account compromised?
+      - Have you ever used your account for work or business purposes?
+      - Have you ever received a suspicious email related to your account?
+      - Other
+      required: false
+    - id: 7
+      name: account_activity
+      label: Account Activity
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: password_expiration
+      label: Password Expiration
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: two_factor_backup
+      label: 2 Factor Backup
+      hint: null
+      type: select_multiple
+      options:
+      - SMS/Text Message
+      - U2F (Universal 2nd Factor)
+      - Smart Card
+      - Other
+      required: false
+    - id: 10
+      name: sensitive_data_backup
+      label: Sensitive Data Backup
+      hint: null
+      type: select_multiple
+      options:
+      - Bank/Financial Information
+      - Personal Address
+      - Social Security Number
+      - Date of Birth
+      - Other
+      required: false
+    - id: 11
+      name: account_recovery
+      label: Account Recovery
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Number
+      - Password Manager
+      - Other
+      required: false
+    - id: 12
+      name: account_lockout
+      label: Account Lockout
+      hint: null
+      type: select_multiple
+      options:
+      - 1 minute
+      - 5 minutes
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      - 1 day
+      - 1 week
+      - 1 month
+      - 1 year
+      - Never
+      required: false
+    - id: 13
+      name: account_notifications
+      label: Account Notifications
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - SMS/Text Message
+      - U2F (Universal 2nd Factor)
+      - Smart Card
+      - Other
+      required: false
+    - id: 14
+      name: password_change
+      label: Password Change
+      hint: null
+      type: select_multiple
+      options:
+      - After every 1 month
+      - After every 3 months
+      - After every 6 months
+      - After every 1 year
+      - Never
+      required: false

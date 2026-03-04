@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sticker Usage Agreement Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sticker_placement
+      label: sticker_placement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shared_spaces
+      label: shared_spaces
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property
+      label: property
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sticker_type
+      label: sticker_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shared_spaces_list
+      label: shared_spaces_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: property_list
+      label: property_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sticker_placement_terms
+      label: sticker_placement_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: acceptance
+      label: acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false

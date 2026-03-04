@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: TCPA Violation Claim Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_type
+      label: Claim type
+      hint: null
+      type: select_one
+      options:
+      - Text Message
+      - Auto-dialed call
+      - Live call
+      - Robocall
+      required: false
+    - id: 6
+      name: date_and_time_of_claim
+      label: Date and time of claim
+      hint: "YYYY-MM-dd HH:mm"
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: description_of_claim
+      label: Description of claim
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supporting_document
+      label: Supporting document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_name
+      label: File name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: file_description
+      label: File description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_size
+      label: File size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: file_mime_type
+      label: Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_upload
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_name_2
+      label: File name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: report
+      label: Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: claimant_signature
+      label: Claimant signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: attorney_signature
+      label: Attorney signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: date_of_claim
+      label: Date of claim
+      hint: YYYY-MM-dd
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_of_claim
+      label: Time of claim
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: time_of_call
+      label: Time of call
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: time_zone
+      label: Time zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claimant_phone
+      label: Claimant phone
+      hint: null
+      type: text
+      options: []
+      required: false

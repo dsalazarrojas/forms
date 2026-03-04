@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_meta_header
+      label: -- Inspection Administration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shop_name
+      label: Barber Shop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspection_type
+      label: Type of Inspection
+      hint: null
+      type: select_one
+      options:
+      - Monthly Routine
+      - Quarterly Safety Audit
+      - Health Department Mock Inspection
+      - Final Pre-Opening Review
+      required: true
+    - id: 6
+      name: license_check_header
+      label: -- Professional Licensing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shop_license_valid
+      label: Is the Shop License currently displayed and valid?
+      hint: Check for expiration date
+      type: select_one
+      options:
+      - Yes - Compliant
+      - No - Corrective action needed
+      - Expired - Immediate action required
+      required: true
+    - id: 8
+      name: barber_licenses_valid
+      label: Are all barber licenses displayed and valid?
+      hint: Cross-check with current staff list
+      type: select_one
+      options:
+      - Yes - All compliant
+      - No - Missing licenses
+      - No - Expired licenses
+      required: true
+    - id: 9
+      name: sanitation_check_header
+      label: -- Sanitation and Hygiene --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: barbercide_status
+      label: Barbicide / Disinfectant Jars Properly Filled?
+      hint: Solution must be fresh and blue
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 11
+      name: tool_sterilization
+      label: All non-disposable tools properly sterilized?
+      hint: Scissors, clipper guards, combs
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 12
+      name: towel_management
+      label: Clean and dirty towels separated and stored properly?
+      hint: Dirty towels in closed bins, clean in dust-free cabinets
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 13
+      name: workplace_safety_header
+      label: -- Facility and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: floor_cleanliness
+      label: Floor free of hair and debris around stations?
+      hint: No accumulation under mats or chairs
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 15
+      name: fire_extinguisher_status
+      label: Fire extinguisher(s) present and current?
+      hint: Check pressure gauge and inspection tag
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 16
+      name: hazardous_materials_storage
+      label: Proper labeling and storage of chemicals?
+      hint: Dyes, bleaches, cleaning supplies
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 17
+      name: inspection_score
+      label: Total Inspection Score (%)
+      hint: e.g., 95
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: corrective_actions
+      label: Required Corrective Actions
+      hint: List all failures and deadlines for correction
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: overall_result
+      label: Final Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Approved - Fully Compliant
+      - Conditional Approval - Minor corrections needed
+      - Failed - Re-inspection required
+      required: true

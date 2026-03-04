@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Guardian Attestation
+    pages:
+    - id: 1
+      name: parent_guardian_name
+      label: Parent Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: covid_symptoms
+      label: Have any of the following signs of COVID-19
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fever''}'
+      - '{''label'': ''Cough''}'
+      - '{''label'': ''Shortness of Breath''}'
+      - '{''label'': ''Loss of Smell''}'
+      - '{''label'': ''Sore Throat''}'
+      - '{''label'': ''Runny Nose''}'
+      - '{''label'': ''Headache''}'
+      - '{''label'': ''Fatigue''}'
+      - '{''label'': ''Muscle Aches''}'
+      - '{''label'': ''Nausea''}'
+      - '{''label'': ''Diarrhea''}'
+      - '{''label'': ''Vomiting''}'
+      - '{''label'': ''Confusion''}'
+      - '{''label'': ''Loss of Speech''}'
+      - '{''label'': ''Loss of Appetite''}'
+      - '{''label'': ''Loss of Taste''}'
+      - '{''label'': ''Other (please describe)''}'
+      - '{''label'': ''None of the above''}'
+      - '{''label'': ''None of the above''}'
+      - '{''label'': ''None of the above''}'
+      - '{''label'': ''None of the above''}'
+      required: false
+    - id: 3
+      name: attester_name
+      label: Attesters Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attester_phone
+      label: Attesters Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attester_email
+      label: Attesters Email
+      hint: null
+      type: email
+      options: []
+      required: false

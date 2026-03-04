@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Preparation Checklist
+    pages:
+    - id: 1
+      name: exam_preparation_checklist
+      label: study_materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: exam_dates
+      label: exam_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exam_deadline
+      label: exam_deadline
+      hint: null
+      type: date
+      options: []
+      required: false

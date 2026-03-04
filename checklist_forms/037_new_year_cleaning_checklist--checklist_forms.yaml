@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_year_cleaning_checklist
+    pages:
+    - id: 1
+      name: new_year_cleaning_checklist
+      label: new_year_cleaning_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cleaning_tasks
+      label: cleaning_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: areas_to_focus_on
+      label: areas_to_focus_on
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 4
+      name: schedule_checking
+      label: schedule_checking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 8
+      name: duration
+      label: duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

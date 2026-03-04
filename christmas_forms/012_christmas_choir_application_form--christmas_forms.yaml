@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Choir Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Child (under 12)
+      - Teen (12-18)
+      - Adult (18-55)
+      - Senior (55+)
+      required: true
+    - id: 7
+      name: musical_background
+      label: -- Musical Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: singing_experience
+      label: Years of Singing Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: experience_level
+      label: Singing Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Advanced amateur
+      - Intermediate
+      - Beginner
+      - No prior experience
+      required: true
+    - id: 10
+      name: vocal_training
+      label: Formal Vocal Training
+      hint: null
+      type: select_one
+      options:
+      - Yes, extensive
+      - Yes, some
+      - No formal training
+      required: true
+    - id: 11
+      name: vocal_range
+      label: Vocal Range
+      hint: null
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      - Not sure
+      required: true
+    - id: 12
+      name: choir_section
+      label: Preferred Choir Section
+      hint: null
+      type: select_one
+      options:
+      - Any section
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      required: true
+    - id: 13
+      name: previous_choirs
+      label: Previous Choir Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: music_genres
+      label: Music Genres Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Classical
+      - Contemporary
+      - Gospel
+      - Religious
+      - Pop
+      - Musical theatre
+      - Other
+      required: false
+    - id: 15
+      name: availability_section
+      label: -- Rehearsal & Performance Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: rehearsal_commitment
+      label: Can you attend weekly rehearsals?
+      hint: null
+      type: select_one
+      options:
+      - Yes, absolutely
+      - Mostly yes
+      - Sometimes
+      - false
+      required: true
+    - id: 17
+      name: performance_dates
+      label: Can you perform at all Christmas performances?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all performances
+      - Most performances
+      - Some performances
+      - Not sure
+      required: true
+    - id: 18
+      name: schedule_conflicts
+      label: Known Schedule Conflicts
+      hint: List any dates you cannot attend
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transportation
+      label: Transportation to Rehearsals
+      hint: null
+      type: select_one
+      options:
+      - I can provide my own
+      - I need transportation
+      - Flexible
+      required: false
+    - id: 20
+      name: motivation
+      label: Why do you want to join the choir?
+      hint: null
+      type: text
+      options: []
+      required: true

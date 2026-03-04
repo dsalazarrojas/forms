@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Transcript Release Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Transcript Release Form --
+      hint: Authorize the release of your academic transcript to a specified recipient.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student full legal name
+      hint: As it appears on academic records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_address
+      label: Current mailing address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: dates_attended
+      label: Dates of attendance
+      hint: e.g. Fall 2020 - Spring 2024
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: degree_awarded
+      label: Degree awarded (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recipient_section
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recipient_name
+      label: Name of recipient (person or organization)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recipient_address
+      label: Recipient mailing address or email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: purpose_of_release
+      label: Purpose of transcript release
+      hint: null
+      type: select_one
+      options:
+      - Employment verification
+      - Graduate school application
+      - Transfer to another institution
+      - Scholarship or fellowship application
+      - Professional licensure
+      - Personal records
+      required: true
+    - id: 14
+      name: transcript_type
+      label: Type of transcript requested
+      hint: null
+      type: select_one
+      options:
+      - Official transcript
+      - Unofficial transcript
+      required: true
+    - id: 15
+      name: number_of_copies
+      label: Number of copies
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: ferpa_consent
+      label: I authorize the release of my academic transcript in compliance with
+        FERPA regulations
+      hint: null
+      type: select_one
+      options:
+      - Yes - I authorize
+      - No - I do not authorize
+      required: true
+    - id: 17
+      name: authorization_date
+      label: Date of authorization
+      hint: null
+      type: date
+      options: []
+      required: true

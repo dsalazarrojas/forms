@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Pole Inspection Form
+    pages:
+    - id: 1
+      name: inspect_power_pole
+      label: inspect power pole
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: check_condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: check_paint
+      label: paint condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: inspect_base
+      label: base condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: true
+    - id: 5
+      name: record_inspection
+      label: record inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: check_elevation
+      label: check elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: check_weather
+      label: weather condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: check_structural_integrity
+      label: structural integrity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: check_grounding
+      label: grounding
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 10
+      name: check_conduit
+      label: conduit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 11
+      name: check_grounding_wires
+      label: grounding wires
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 12
+      name: check_grounding_type
+      label: grounding type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 13
+      name: check_grounding_size
+      label: grounding size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: check_inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: check_inspection_time
+      label: inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: check_inspection_location
+      label: inspection location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: check_inspection_method
+      label: inspection method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Visual''}'
+      - '{''id'': 2, ''label'': ''Non-Visual''}'
+      required: true
+    - id: 18
+      name: check_weather_protection
+      label: weather protection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 19
+      name: check_grounding_insulation
+      label: grounding insulation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 20
+      name: check_conduit_type
+      label: conduit type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 21
+      name: check_conduit_condition
+      label: conduit condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 22
+      name: check_insulated_conduit
+      label: insulated conduit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 23
+      name: check_insulation_type
+      label: insulation type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 24
+      name: check_insulation_condition
+      label: insulation condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 25
+      name: check_other_conditions
+      label: other conditions
+      hint: null
+      type: text
+      options: []
+      required: false

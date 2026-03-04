@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekend Operations Checklist
+    pages:
+    - id: 1
+      name: site_readiness
+      label: Site Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - All Systems
+      - Critical Systems
+      - Non-Critical Systems
+      required: false
+    - id: 2
+      name: task_list
+      label: Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_status
+      label: Site Status
+      hint: null
+      type: select_one
+      options:
+      - Green
+      - Yellow
+      - Red
+      required: false
+    - id: 4
+      name: site_status_note
+      label: Site Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 6
+      name: task_notes
+      label: Task Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_contacts
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

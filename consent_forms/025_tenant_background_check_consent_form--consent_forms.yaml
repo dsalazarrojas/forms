@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: tenant_background_check_consent_form
+    pages:
+    - id: 1
+      name: tenant_background_check_consent_form
+      label: background_check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tenant_background_check_consent_form_description
+      label: background_check_description
+      hint: null
+      type: text
+      options: []
+      required: false

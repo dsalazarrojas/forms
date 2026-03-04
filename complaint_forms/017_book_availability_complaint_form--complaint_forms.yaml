@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Availability Complaint Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: book_details_header
+      label: -- Book Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: book_author
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: book_isbn
+      label: ISBN Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: complaint_info_header
+      label: -- Complaint Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: search_location
+      label: Where were you looking for this book?
+      hint: null
+      type: select_one
+      options:
+      - Physical Store / Library Branch
+      - Online Catalog
+      - Mobile App
+      required: true
+    - id: 11
+      name: branch_name
+      label: Branch or Store Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_checked
+      label: Date you checked for availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: issue_type
+      label: What was the primary issue?
+      hint: null
+      type: select_one
+      options:
+      - Out of Stock
+      - Missing from Shelf
+      - Incorrect Catalog Info
+      - Reserved but not available
+      required: true
+    - id: 14
+      name: issue_description
+      label: Detailed Description of the Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: resolution_header
+      label: -- Resolution Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: desired_outcome
+      label: How can we resolve this for you?
+      hint: null
+      type: select_one
+      options:
+      - Notify me when in stock
+      - Hold the book for me
+      - Order a new copy
+      - Speak with a manager
+      required: true

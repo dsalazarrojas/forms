@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Level Design Checklist
+    pages:
+    - id: 1
+      name: level_design_checklist_gameplay
+      label: Game Level Checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: level_design_checklist_visuals
+      label: Visuals
+      hint: null
+      type: select_multiple
+      options:
+      - Level background and assets
+      - Level lighting
+      - Level texture and material quality
+      required: true
+    - id: 3
+      name: level_design_checklist_technical_issues
+      label: Technical Issues
+      hint: null
+      type: select_one
+      options:
+      - Level physics issues
+      - Level animation issues
+      - Level collision issues
+      required: true
+    - id: 4
+      name: level_design_checklist_player_guidance
+      label: Player Guidance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: level_design_checklist_test_results
+      label: Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 6
+      name: level_design_checklist_level_completion
+      label: Level Completion
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: level_design_checklist_level_length
+      label: Level Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: level_design_checklist_tester_comments
+      label: Tester Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: game_level_design_checklist_version
+      label: Version
+      hint: Enter the current version number of the game or level
+      type: number
+      options: []
+      required: true

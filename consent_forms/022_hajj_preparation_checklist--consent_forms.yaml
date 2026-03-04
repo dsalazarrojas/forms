@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hajj Preparation Checklist
+    pages:
+    - id: 1
+      name: pilgrimage_dates
+      label: Pilgrimage Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_plans
+      label: Travel Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Hostel
+      - Family
+      - Other
+      required: false
+    - id: 4
+      name: group_details
+      label: Group Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone number of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      required: false
+    - id: 7
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Valid passport
+      - Visa
+      - ID card
+      - Other
+      required: false
+    - id: 9
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_insurance
+      label: Travel Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: travel_documents_upload
+      label: Travel Documents Upload
+      hint: Upload scanned copies of your travel documents
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: flight_arrival
+      label: Flight Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: hajj_dates
+      label: Hajj Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Before Hajj starts
+      - After Hajj starts
+      - At Hajj
+      required: false
+    - id: 15
+      name: accommodation_cost
+      label: Accommodation Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: group_leadership_structure
+      label: Group Leadership Structure
+      hint: null
+      type: select_multiple
+      options:
+      - Flat
+      - Hierarchical
+      - Other
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: Phone number of emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: group_leader_name
+      label: Group Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false

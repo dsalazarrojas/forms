@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: residential_moving_checklist
+    pages:
+    - id: 1
+      name: move_date
+      label: Move Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: move_type
+      label: Move Type
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Long-Distance
+      required: false
+    - id: 3
+      name: move_location
+      label: Move Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: moving_items
+      label: Moving Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: move_furniture
+      label: Move Furniture
+      hint: null
+      type: select_multiple
+      options:
+      - Sofa
+      - Bed
+      - Table
+      - Chairs
+      required: false
+    - id: 6
+      name: move_storage
+      label: Move Storage
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: move_electronic
+      label: Move Electronic
+      hint: null
+      type: select_multiple
+      options:
+      - TV
+      - Computer
+      - Phone
+      required: false
+    - id: 8
+      name: move_vehicle
+      label: Move Vehicle
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: move_pets
+      label: Move Pets
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: move_notes
+      label: Move Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: move_date_2
+      label: Move Date 2
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Frequency Adjustment Consent Form
+    pages:
+    - id: 1
+      name: resident_details
+      label: resident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: housekeeping_changes_requested
+      label: housekeeping_changes_requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resident_consent
+      label: resident_consent
+      hint: null
+      type: select_one
+      options:
+      - Consent to adjust the frequency of housekeeping
+      - Consent to refuse housekeeping
+      - Consent to discuss housekeeping with staff
+      required: false
+    - id: 4
+      name: date_of_consent
+      label: date_of_consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_consent
+      label: time_of_consent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: resident_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: resident_phone
+      hint: null
+      type: text
+      options: []
+      required: false

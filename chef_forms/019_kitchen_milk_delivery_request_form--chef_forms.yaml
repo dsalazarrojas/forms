@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Milk Delivery Request Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: yyyy-mm-dd
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: milk_type
+      label: Milk Type
+      hint: null
+      type: select_one
+      options:
+      - Whole Milk
+      - 2% Milk
+      - Skim Milk
+      - Almond Milk
+      - Soy Milk
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: Full name of the customer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address
+      label: Customer Address
+      hint: Address of the customer
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: Phone number of the customer
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: Email of the customer
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

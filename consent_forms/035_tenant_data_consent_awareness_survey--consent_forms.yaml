@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Data Consent Awareness Survey
+    pages:
+    - id: 1
+      name: tenant_consent
+      label: Tenant Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_feedback
+      label: Tenant Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: personal_data_use
+      label: Personal Data Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tenant_contact_info
+      label: Tenant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_retention
+      label: Data Retention
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tenant_data_sharing
+      label: Tenant Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: survey_completed
+      label: Survey Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: tenant_survey_completed
+      label: Tenant Survey Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: tenant_survey_frequency
+      label: Tenant Survey Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: data_collection_method
+      label: Data Collection Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: tenant_survey_method
+      label: Tenant Survey Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

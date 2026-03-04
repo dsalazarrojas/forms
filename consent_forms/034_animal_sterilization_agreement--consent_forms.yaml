@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Sterilization Agreement
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pet_name
+      label: Pet Name
+      hint: Name of animal
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pet_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Other
+      required: true
+    - id: 10
+      name: pet_breed
+      label: Breed
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_age
+      label: Pet Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pet_weight
+      label: Pet Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: pet_color
+      label: Color and Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: pet_sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 15
+      name: procedure_type
+      label: Procedure Type
+      hint: null
+      type: select_one
+      options:
+      - Spay - Female
+      - Neuter - Male
+      required: true
+    - id: 16
+      name: procedure_date
+      label: Scheduled Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: Performing veterinarian
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: clinic_name
+      label: Clinic or Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: pre_surgical_instructions
+      label: Pre-Surgical Instructions Acknowledgment
+      hint: Fasting and care instructions
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: fasting_confirmation
+      label: I Understand My Pet Must Fast Before Surgery
+      hint: No food after midnight before procedure
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Clarification
+      required: true
+    - id: 21
+      name: health_disclosure
+      label: Health Information Disclosure
+      hint: I have disclosed all known health conditions
+      type: select_one
+      options:
+      - Yes - All Information Disclosed
+      - No - Additional Information Needed
+      required: true
+    - id: 22
+      name: health_conditions
+      label: Known Health Conditions
+      hint: List any conditions or medications
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: risk_acknowledgment
+      label: Surgical Risk Acknowledgment
+      hint: I understand all surgical procedures carry some risk
+      type: select_one
+      options:
+      - I Understand the Risks
+      - I Need More Information
+      required: true
+    - id: 24
+      name: anesthesia_consent
+      label: Anesthesia Consent
+      hint: I consent to the use of anesthesia
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 25
+      name: complications_consent
+      label: Consent for Treatment of Complications
+      hint: Authorization for additional treatment if needed
+      type: select_one
+      options:
+      - Yes I Authorize
+      - No - Contact Me First
+      - No I Do Not Authorize
+      required: true
+    - id: 26
+      name: pain_management
+      label: Pain Management Consent
+      hint: I consent to pain medication as needed
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 27
+      name: post_op_care
+      label: Post-Operative Care Understanding
+      hint: I understand post-surgery care requirements
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Instructions
+      required: true
+    - id: 28
+      name: follow_up_appointment
+      label: Follow-Up Appointment
+      hint: null
+      type: select_one
+      options:
+      - Scheduled - Date Provided
+      - Will Schedule Later
+      - Not Required
+      required: true
+    - id: 29
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: cost_estimate
+      label: Estimated Cost
+      hint: Procedure cost estimate
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: payment_agreement
+      label: I Agree to Pay the Agreed Upon Fee
+      hint: null
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 32
+      name: liability_release
+      label: Liability Release
+      hint: I release the clinic from liability except for negligence
+      type: select_one
+      options:
+      - Yes I Release Liability
+      - No I Do Not Agree
+      required: true
+    - id: 33
+      name: owner_questions
+      label: Do You Have Any Questions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: questions_details
+      label: Please List Your Questions
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: owner_signature
+      label: Owner Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

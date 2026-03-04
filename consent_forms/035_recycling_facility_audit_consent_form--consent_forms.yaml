@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: recycling_facility_audit_consent_form
+    pages:
+    - id: 1
+      name: facility_details
+      label: facility_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_audit_dates
+      label: preferred_audit_dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: facility_contacts
+      label: facility_contacts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: facility_contacts_2
+      label: facility_contacts_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_audit_date
+      label: preferred_audit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: facility_contact
+      label: facility_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_contact_2
+      label: facility_contact_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

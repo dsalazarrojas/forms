@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Payment Not Received Dispute Form
+    pages:
+    - id: 1
+      name: merchant_id
+      label: Merchant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dispute_reason
+      label: Dispute Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dispute_amount
+      label: Dispute Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_of_dispute
+      label: Date of Dispute
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_dispute
+      label: Time of Dispute
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dispute_status
+      label: Dispute Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 11
+      name: support_agent
+      label: Support Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Horror Movie Checklist
+    pages:
+    - id: 1
+      name: watched_title
+      label: Horror Movie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: watched_director
+      label: Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: watched_genre
+      label: Genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: watched_cast
+      label: Cast
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: watched_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: watched_runtime
+      label: Runtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: watched_language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 8
+      name: watched_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: watched_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: watched_watched
+      label: Watched
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: watched_watched_date
+      label: Watched Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: watched_watched_time
+      label: Watched Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: watched_watched_language
+      label: Watched Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 14
+      name: watched_watched_notes
+      label: Watched Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: watched_rewatched
+      label: Rewatched
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 16
+      name: watched_rewatched_date
+      label: Rewatched Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: watched_rewatched_time
+      label: Rewatched Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: watched_rewatched_language
+      label: Rewatched Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 19
+      name: watched_rewatched_notes
+      label: Rewatched Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: watched_recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 21
+      name: watched_recommendation_date
+      label: Recommendation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: watched_rewatched_rewatched
+      label: Rewatched
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 23
+      name: watched_watched_rewatched_time
+      label: Watched Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: watched_rewatched_rewatched_language
+      label: Rewatched Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 25
+      name: watched_rewatched_rewatched_notes
+      label: Rewatched Notes
+      hint: null
+      type: note
+      options: []
+      required: false

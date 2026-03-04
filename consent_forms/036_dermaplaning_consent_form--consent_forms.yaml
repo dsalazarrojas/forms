@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermaplaning Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: salutation
+      label: Salutation
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      - Miss
+      - Prof
+      required: true
+    - id: 4
+      name: salon_name
+      label: Salon Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: dermaplaning_type
+      label: Dermaplaning Type
+      hint: null
+      type: select_one
+      options:
+      - Micro-needling
+      - Dermaplaning
+      - Chemical Peel
+      - Peel and Micro-needling
+      required: true
+    - id: 8
+      name: area_treated
+      label: Area Treated
+      hint: null
+      type: select_multiple
+      options:
+      - Face
+      - Neck
+      - Hands
+      required: true
+    - id: 9
+      name: number_of_sessions
+      label: Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: true

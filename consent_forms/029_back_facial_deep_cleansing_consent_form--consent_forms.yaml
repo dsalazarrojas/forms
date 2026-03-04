@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back Facial Deep Cleansing Consent Form
+    pages:
+    - id: 1
+      name: treatment_header
+      label: -- Back Facial Deep Cleansing Treatment Consent --
+      hint: Please complete this form before your treatment begins
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name_consent
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth_skincare
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_history_header
+      label: -- Health and Skin Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: skin_concerns_back
+      label: Primary Skin Concerns for your back
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acne/Breakouts
+      - Congestion/Blackheads
+      - Dryness/Flakiness
+      - Hyperpigmentation
+      - Uneven Texture
+      - Sensitivity
+      required: true
+    - id: 6
+      name: current_topical_meds
+      label: Are you currently using any of the following?
+      hint: Within the last 14 days
+      type: select_multiple
+      options:
+      - Retin-A / Tretinoin
+      - Accutane (within last 6 months)
+      - Benzoyl Peroxide
+      - Glycolic/Salicylic Acids
+      - Topical Antibiotics
+      - None of the above
+      required: true
+    - id: 7
+      name: skin_allergies_ingredients
+      label: Known Allergies to Skincare Ingredients
+      hint: e.g., Salicylic acid, Aloe, Fragrance
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_conditions_skin
+      label: Relevant Medical Conditions
+      hint: e.g., Eczema, Psoriasis, Keloid scarring
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: procedure_description
+      label: Description of Deep Cleansing Treatment
+      hint: Involves cleansing, exfoliation, extractions, and a customized mask
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: extraction_consent
+      label: Do you consent to manual extractions?
+      hint: Temporary redness or irritation may occur
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, please skip extractions
+      required: true
+    - id: 11
+      name: risk_acknowledgment_facial
+      label: I understand that outcomes can vary and some risks exist
+      hint: Risks include temporary redness, irritation, or breakouts
+      type: select_one
+      options:
+      - I understand and accept the risks
+      - Other
+      required: true
+    - id: 12
+      name: post_treatment_care_agreement
+      label: I agree to follow the provided post-treatment care instructions
+      hint: Avoid sun exposure and harsh products for 24-48 hours
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 13
+      name: client_digital_signature
+      label: Digital Signature Acknowledgment
+      hint: By selecting yes, you are legally signing this form
+      type: select_one
+      options:
+      - Yes, this is my signature
+      - Other
+      required: true
+    - id: 14
+      name: signature_date_skin
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: technician_name_witness
+      label: Technician or Witness Name
+      hint: null
+      type: text
+      options: []
+      required: true

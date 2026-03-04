@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paid Media Kickoff Requirements Checklist
+    pages:
+    - id: 1
+      name: marketing_team_details
+      label: Marketing Team Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: creative_assets
+      label: Creative Assets
+      hint: null
+      type: select_multiple
+      options:
+      - video
+      - image
+      - animation
+      - sound
+      - other
+      required: false
+    - id: 3
+      name: ad_serving_url
+      label: Ad Serving URL
+      hint: Enter ad serving URL
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ad_serving_type
+      label: Ad Serving Type
+      hint: null
+      type: select_one
+      options:
+      - google_doubleclick
+      - adobe_media
+      - demandbase
+      required: false
+    - id: 5
+      name: ad_serving_id
+      label: Ad Serving ID
+      hint: Enter Ad Serving ID
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ad_serving_username
+      label: Ad Serving Username
+      hint: Enter Ad Serving Username
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ad_serving_password
+      label: Ad Serving Password
+      hint: Enter Ad Serving Password
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ad_serving_api_key
+      label: Ad Serving API Key
+      hint: Enter Ad Serving API Key
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: campaign_details
+      label: Campaign Details
+      hint: Enter Campaign Details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: launch_time
+      label: Launch Time
+      hint: Enter Launch Time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: launch_duration
+      label: Launch Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: budget
+      label: Budget
+      hint: Enter budget
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: target_audience
+      label: Target Audience
+      hint: Enter target audience
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: target_location
+      label: Target Location
+      hint: Enter target location
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: media_channels
+      label: Media Channels
+      hint: Enter media channels
+      type: select_multiple
+      options:
+      - google_ads
+      - facebook_ads
+      - instagram_ads
+      required: false
+    - id: 17
+      name: media_spend
+      label: Media Spend
+      hint: Enter media spend
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: creative_assets_review
+      label: Creative Assets Review
+      hint: null
+      type: select_multiple
+      options:
+      - video
+      - image
+      - animation
+      - sound
+      required: false
+    - id: 19
+      name: launch_status
+      label: Launch Status
+      hint: Enter launch status
+      type: select_one
+      options:
+      - pending
+      - launched
+      - paused
+      required: false
+    - id: 20
+      name: launch_notes
+      label: Launch Notes
+      hint: Enter notes
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: budget_allocation
+      label: Budget Allocation
+      hint: Enter budget allocation
+      type: number
+      options: []
+      required: false

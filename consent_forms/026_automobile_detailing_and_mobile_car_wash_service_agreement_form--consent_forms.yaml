@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automobile Detailing And Mobile Car Wash Service Agreement Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_address
+      label: Service Address
+      hint: Where will the service be performed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: license_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Van
+      - Motorcycle
+      - Other
+      required: true
+    - id: 13
+      name: section_header_service
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Basic Wash
+      - Premium Detailing
+      - Full Interior Detail
+      - Full Exterior Detail
+      - Complete Detail Package
+      - Custom Service
+      required: true
+    - id: 15
+      name: service_date
+      label: Preferred Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: service_time
+      label: Preferred Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: service_duration
+      label: Estimated Service Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - 5+ hours
+      required: true
+    - id: 18
+      name: section_header_add_ons
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: add_on_services
+      label: Additional Services
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - Interior Vacuum
+      - Carpet Shampoo
+      - Upholstery Cleaning
+      - Window Tinting
+      - Ceramic Coating
+      - Paint Protection
+      - Odor Removal
+      - None
+      required: true
+    - id: 20
+      name: section_header_vehicle_condition
+      label: -- Vehicle Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: exterior_condition
+      label: Current Exterior Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 22
+      name: interior_condition
+      label: Current Interior Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 23
+      name: section_header_pricing
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: total_cost
+      label: Total Service Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payment_agreement
+      label: I agree to the service terms and pricing
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Sports Participation Consent Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: Please provide a valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: participant_dob
+      label: Participant's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship with Participant
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      - Mary
+      - Other
+      required: false
+    - id: 9
+      name: contact_address
+      label: Contact Address
+      hint: Please provide a valid address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_health_issues
+      label: Participant Health Issues
+      hint: If applicable, please list participant's health issues
+      type: text
+      options: []
+      required: false

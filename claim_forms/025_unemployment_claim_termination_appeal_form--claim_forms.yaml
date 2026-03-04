@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Claim Termination Appeal Form
+    pages:
+    - id: 1
+      name: claimant_info
+      label: Claimant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: claimant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_address
+      label: claimant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_phone
+      label: claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claimant_email
+      label: claimant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: claim
+      label: claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_start_date
+      label: claim_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: claim_termination_date
+      label: claim_termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_termination
+      label: reason_for_termination
+      hint: null
+      type: select_multiple
+      options:
+      - Unemployment claim terminated due to misconduct.
+      - Unemployment claim terminated due to lack of work availability.
+      - Unemployment claim terminated due to separation.
+      - Other
+      - Reason for termination (please describe)
+      required: false
+    - id: 10
+      name: reason_for_termination_other
+      label: reason_for_termination_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_number
+      label: claim_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: appeal_reason
+      label: appeal_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: appeal_date
+      label: appeal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: submittor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: submittor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_organization
+      label: submittor_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_address
+      label: submittor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_notes
+      label: submittor_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Under Review
+      - Approved
+      - Denied
+      required: false
+    - id: 21
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false

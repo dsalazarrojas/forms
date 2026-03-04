@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Task Checklist For Children
+    pages:
+    - id: 1
+      name: task_list
+      label: Task List
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: effort_level
+      label: Effort Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: challenge_list
+      label: Challenge List
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: guardian_feedback
+      label: Guardian Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

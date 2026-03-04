@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Service Release Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_disclosures
+      label: Risks Disclosures
+      hint: null
+      type: select_multiple
+      options:
+      - Risk of Injury
+      - Allergic Reactions
+      - Skin Problems
+      required: false
+    - id: 3
+      name: service_providers
+      label: Service Providers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_acknowledgement
+      label: Client Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: provider_acknowledgement
+      label: Provider Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: release_form
+      label: Release Form
+      hint: null
+      type: select_multiple
+      options:
+      - I acknowledge that I have received a copy of the risks associated with massage
+        services
+      - I acknowledge that I have read, understand, and agree to all of the above
+      - I understand that the massage provider has the right to refuse to provide
+        services
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false

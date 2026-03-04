@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Learning Reflection Story Consent Form
+    pages:
+    - id: 1
+      name: consent_form_input
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: false
+    - id: 8
+      name: permission
+      label: Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: other_permission
+      label: Other Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_signature_date
+      label: Student Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: student_signature_time
+      label: Student Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: student_signature_notary
+      label: Notary Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: parent_signature_notary
+      label: Parent Signature Notary
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

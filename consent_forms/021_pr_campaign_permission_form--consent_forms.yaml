@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: PR Campaign Permission Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - PR Representative
+      - Media Professional
+      - Influencer
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_count
+      label: Participant Count
+      hint: Enter a participant count
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: participant_count_note
+      label: Participant Count Note
+      hint: Note for participant count
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Tool used by participant
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: category
+      label: Category
+      hint: Category of the campaign
+      type: select_one
+      options:
+      - Consent Forms
+      - Campaign Forms
+      - Other Forms
+      required: true

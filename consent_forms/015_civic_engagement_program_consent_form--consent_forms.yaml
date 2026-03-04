@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Engagement Program Consent Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: is_minor
+      label: Is participant under 18 years old
+      hint: null
+      type: select_one
+      options:
+      - Yes, under 18
+      - No, 18 or older
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program_header
+      label: -- Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: select_one
+      options:
+      - Single event
+      - Weekend program
+      - Week-long program
+      - Monthly program
+      - Full semester
+      - Full year
+      - Other
+      required: true
+    - id: 10
+      name: program_description
+      label: Program Description Understood
+      hint: I understand the goals and activities of this program
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Not sure
+      required: true
+    - id: 11
+      name: consent_header
+      label: -- Consent and Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participation_consent
+      label: I consent to my participation in this civic engagement program
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 13
+      name: risk_acknowledgment
+      label: I understand and acknowledge any risks involved
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 14
+      name: emergency_contact_header
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship to Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: policies_header
+      label: -- Policy and Conduct Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: rules_agreement
+      label: I agree to follow all program rules and conduct expectations
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: liability_waiver
+      label: I release the organization from liability for injuries or damages
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree to liability waiver
+      - No, I do not agree
+      required: true
+    - id: 21
+      name: parent_consent_header
+      label: -- Parent or Guardian Consent - Only if Participant Under 18 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parent_signature_agreement
+      label: Parent or Guardian Signature Agreement
+      hint: I have read and agree to all terms on behalf of the minor participant
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      - Not applicable
+      required: false
+    - id: 24
+      name: final_agreement
+      label: Final Agreement - I certify this information is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

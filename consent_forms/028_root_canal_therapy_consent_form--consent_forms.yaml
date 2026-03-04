@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Root Canal Therapy Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: allergy
+      label: Allergy
+      hint: null
+      type: select_one
+      options:
+      - Penicillin
+      - Latex
+      required: true
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Asthma
+      required: true
+    - id: 9
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: date_of_signature
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: provider_name
+      label: Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: clinic_name
+      label: Clinic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: doctor_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_specialty
+      label: Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_school
+      label: Medical School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: graduation_date
+      label: Graduation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: expiration_date
+      label: Expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: clinic_phone
+      label: Clinic Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: clinic_email
+      label: Clinic Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: other_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clarity Reflection Worksheet
+    pages:
+    - id: 1
+      name: session_info_header
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_or_facilitator
+      label: Coach or Facilitator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_topic
+      label: Session Topic or Focus Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reflection_header
+      label: -- Reflection Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: key_insights
+      label: What key insights did you gain from this session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emotional_response
+      label: How did this session make you feel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: learning_value
+      label: What was most valuable about this experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: challenges_identified
+      label: What challenges or obstacles did you identify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: clarity_header
+      label: -- Clarity and Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: clarity_level
+      label: How much clearer are you about your situation - scale 1-10
+      hint: 1 = no clarity, 10 = completely clear
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: understanding_areas
+      label: Areas where you have gained new understanding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: remaining_questions
+      label: Remaining questions or areas of uncertainty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: action_header
+      label: -- Action Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: committed_actions
+      label: Specific actions you are committed to taking
+      hint: By when will you take these actions
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: first_action
+      label: First step you will take
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: timeline
+      label: Timeline for your action plan
+      hint: null
+      type: select_one
+      options:
+      - This week
+      - Next week
+      - Within 2 weeks
+      - Within a month
+      - Within 3 months
+      - Other
+      required: true
+    - id: 19
+      name: support_needed
+      label: What support or resources do you need
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accountability
+      label: How will you stay accountable to these actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: success_header
+      label: -- Success and Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: success_definition
+      label: How will you know you have successfully completed your actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: session_rating
+      label: Rate this session - scale 1-5
+      hint: 1 = not helpful, 5 = very helpful
+      type: number
+      options: []
+      required: true

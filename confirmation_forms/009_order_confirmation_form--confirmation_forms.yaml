@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Confirmation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Order Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_number
+      label: order number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shipping_name
+      label: shipping name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - Order Confirmed
+      - Order Cancelled
+      - Order Dispatched
+      - Order Delivered
+      - Order Returned
+      - Order Refunded
+      - Order Failed
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Workshop Publicity Consent Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of workshop attendee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required if under 18
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_header
+      label: -- Workshop Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: workshop_name
+      label: Workshop Name
+      hint: Name of the animation workshop
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: workshop_date
+      label: Workshop Date
+      hint: Date of the workshop
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: workshop_session
+      label: Workshop Session or Section
+      hint: Which session are you attending
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of the instructor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photography_header
+      label: -- Photography Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: photo_permission
+      label: I consent to being photographed during the workshop
+      hint: Can photos be taken of me
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Ask me for each photo
+      required: true
+    - id: 13
+      name: photo_usage
+      label: How may photos of me be used
+      hint: Select permitted uses
+      type: select_multiple
+      options:
+      - Organization website
+      - Social media posts
+      - Email newsletters
+      - Printed promotional materials
+      - Annual report
+      - Press releases
+      - Workshop documentation
+      - Educational materials
+      required: false
+    - id: 14
+      name: video_header
+      label: -- Video Recording Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: video_permission
+      label: I consent to being filmed or recorded
+      hint: Can video be taken of me
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Ask me for each recording
+      required: true
+    - id: 16
+      name: video_usage
+      label: How may videos of me be used
+      hint: Select permitted video uses
+      type: select_multiple
+      options:
+      - Organization YouTube channel
+      - Social media videos
+      - Email newsletters
+      - Promotional videos
+      - Documentary footage
+      - Educational training
+      - Testimonial videos
+      - Event coverage
+      required: false
+    - id: 17
+      name: social_media_header
+      label: -- Social Media Sharing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: social_media_permission
+      label: Permission to post content to social media
+      hint: Can photos and videos be posted online
+      type: select_one
+      options:
+      - Yes, post freely
+      - Yes, tag me and ask first
+      - Yes, but anonymously
+      - No, do not post
+      required: true
+    - id: 19
+      name: tagged_permission
+      label: I consent to being tagged or named in posts
+      hint: Can your name be mentioned
+      type: select_one
+      options:
+      - Yes, tag and mention me
+      - Yes, mention me without tagging
+      - No, keep me anonymous
+      - No, do not mention me
+      required: true
+    - id: 20
+      name: credit_permission
+      label: Permission to use my name for credit
+      hint: Can your name appear in credits
+      type: select_one
+      options:
+      - Yes, use my full name
+      - Yes, use first name only
+      - Use a pseudonym
+      - No credit
+      required: true
+    - id: 21
+      name: usage_header
+      label: -- General Usage Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: commercial_use
+      label: Permission for commercial use
+      hint: Can materials be used for profit
+      type: select_one
+      options:
+      - Yes, allow commercial use
+      - No, nonprofit use only
+      - No, personal use only
+      required: true
+    - id: 23
+      name: future_use
+      label: Permission for future use beyond this workshop
+      hint: Can materials be reused
+      type: select_one
+      options:
+      - Yes, unlimited future use
+      - Yes, for promotional purposes only
+      - Yes, this year only
+      - No, this event only
+      required: true
+    - id: 24
+      name: parental_consent_header
+      label: -- Parental Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: false

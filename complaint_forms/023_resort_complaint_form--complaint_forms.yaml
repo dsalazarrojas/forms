@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: resort_complaint_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Restaurant
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resort_name
+      label: Resort Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_stay
+      label: Date of Stay
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_stay
+      label: Time of Stay
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: staff_member_name
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: attachment_type
+      label: Attachment Type
+      hint: null
+      type: select_one
+      options:
+      - Document
+      - Image
+      - Audio
+      required: false
+    - id: 14
+      name: attachment_data
+      label: Attachment Data
+      hint: null
+      type: text
+      options: []
+      required: false

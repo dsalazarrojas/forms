@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Studio Behind The Scenes Consent Form
+    pages:
+    - id: 1
+      name: visitor_info_header
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required if under 18
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: visit_info_header
+      label: -- Visit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: visit_date
+      label: Date of Behind-the-Scenes Visit
+      hint: When are you visiting
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: tour_type
+      label: Type of Tour or Visit
+      hint: What will you be experiencing
+      type: select_one
+      options:
+      - Full Studio Tour
+      - Animation Department Tour
+      - Character Design Studio
+      - VFX and Rendering
+      - Voice Acting Session
+      - Recording Session
+      - Post-Production Tour
+      - Special Event
+      required: true
+    - id: 9
+      name: group_affiliation
+      label: Group or Organization
+      hint: Which group are you visiting with
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: visitor_type
+      label: Visitor Type
+      hint: What best describes you
+      type: select_one
+      options:
+      - Student
+      - Educator
+      - Media Representative
+      - Industry Professional
+      - General Public
+      - Invited Guest
+      - Other
+      required: false
+    - id: 11
+      name: media_rights_header
+      label: -- Media Rights and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: photo_permission
+      label: Permission to photograph you during the visit
+      hint: Can photos be taken of you
+      type: select_one
+      options:
+      - Yes, full permission
+      - Limited photos only
+      - No, do not photograph me
+      required: true
+    - id: 13
+      name: video_permission
+      label: Permission to film or video record you
+      hint: Can you appear in video footage
+      type: select_one
+      options:
+      - Yes, full permission
+      - Limited video only
+      - No, do not film me
+      required: true
+    - id: 14
+      name: audio_permission
+      label: Permission to record your voice or statements
+      hint: Can audio be recorded of me
+      type: select_one
+      options:
+      - Yes, full permission
+      - With approval only
+      - No, do not record
+      required: true
+    - id: 15
+      name: name_likeness_header
+      label: -- Name and Likeness Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: credit_name
+      label: I grant permission to use my name in credits
+      hint: Your name may appear in materials
+      type: select_one
+      options:
+      - Yes, credit my name
+      - No, keep me anonymous
+      - I prefer a pseudonym
+      required: true
+    - id: 17
+      name: likeness_usage
+      label: I grant permission to use my image and likeness
+      hint: Photos and videos of me can be used
+      type: select_one
+      options:
+      - Yes, use freely
+      - Yes, with limitations
+      - No, do not use my image
+      required: true
+    - id: 18
+      name: distribution_header
+      label: -- Distribution and Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: social_media_use
+      label: Permission for social media sharing
+      hint: Can content be shared on Instagram, YouTube, TikTok
+      type: select_one
+      options:
+      - Yes, share on all platforms
+      - Yes, limited platforms only
+      - Ask me before sharing
+      - No, do not share
+      required: true
+    - id: 20
+      name: promotional_use
+      label: Permission for promotional materials
+      hint: Can content be used for studio promotion
+      type: select_one
+      options:
+      - Yes, use for promotion
+      - Yes, with approval
+      - No, do not use
+      required: true
+    - id: 21
+      name: commercial_use
+      label: Permission for commercial use
+      hint: Can content be used for profit or sales
+      type: select_one
+      options:
+      - Yes, allow commercial use
+      - No, nonprofit only
+      - No, personal use only
+      required: true
+    - id: 22
+      name: derivatives_permission
+      label: Permission to edit or modify content
+      hint: Can your footage be edited or altered
+      type: select_one
+      options:
+      - Yes, edit as needed
+      - Yes, with approval
+      - No, keep original only
+      required: true
+    - id: 23
+      name: parental_consent_header
+      label: -- Parental Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: parent_consent_agreement
+      label: Parent or guardian consents to above permissions
+      hint: Guardian must sign off on all terms
+      type: select_one
+      options:
+      - Yes, parent consents
+      - No, parent does not consent
+      required: false

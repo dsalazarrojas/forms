@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: integrity-pact-agreement-for-structured-cases
+    pages:
+    - id: 1
+      name: case_name
+      label: case_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: case_date
+      label: case_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_date
+      label: project_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: case_status
+      label: case_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Closed''}'
+      required: true
+    - id: 6
+      name: agreement_type
+      label: agreement_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: Comments (if any)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: submitter_email
+      hint: submitter email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: submitter_phone
+      hint: submitter phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: submitter_name
+      hint: submitter name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_title
+      label: submitter_title
+      hint: submitter title
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_role
+      label: submitter_role
+      hint: submitter role
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_department
+      label: submitter_department
+      hint: submitter department
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_organization
+      label: submitter_organization
+      hint: submitter organization
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_location
+      label: submitter_location
+      hint: submitter location
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_job_title
+      label: submitter_job_title
+      hint: submitter job title
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_employee_id
+      label: submitter_employee_id
+      hint: submitter employee id
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agreement_signatory
+      label: agreement_signatory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yes, I have checked and understand the agreement''}'
+      - '{''label'': ''I, as the authorized representative of , have checked and signed
+        this agreement on their behalf and they have read and signed this agreement''}'
+      - '{''label'': ''I, as the authorized representative of , have checked and signed
+        this agreement on their behalf and they have read and signed this agreement''}'
+      - '{''label'': ''I have checked and signed this agreement''}'
+      - '{''label'': ''None of the above''}'
+      required: true
+    - id: 19
+      name: signatory_name
+      label: signatory_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signatory_title
+      label: signatory_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signatory_department
+      label: signatory_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signatory_organization
+      label: signatory_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signatory_location
+      label: signatory_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signatory_job_title
+      label: signatory_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signatory_employee_id
+      label: signatory_employee_id
+      hint: null
+      type: text
+      options: []
+      required: false

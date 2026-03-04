@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broodmare Reproductive Procedure Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_phone
+      label: Owner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Owner Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: mare_name
+      label: Mare Name
+      hint: Registered name or barn name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mare_registration_number
+      label: Mare Registration Number
+      hint: Breed registry number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mare_age
+      label: Mare Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: mare_breed
+      label: Mare Breed
+      hint: Select breed
+      type: select_one
+      options:
+      - Thoroughbred
+      - Quarter Horse
+      - Arabian
+      - Warmblood
+      - Draft Horse
+      - Other
+      required: true
+    - id: 8
+      name: breeding_history
+      label: Previous Breeding History
+      hint: Number of foals produced
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: last_foal_date
+      label: Date of Last Foal
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: procedure_type
+      label: Procedure Type
+      hint: What procedure is being performed
+      type: select_one
+      options:
+      - Ultrasound Examination
+      - Breeding Soundness Evaluation
+      - Embryo Transfer
+      - Artificial Insemination
+      - Other Reproductive Procedure
+      required: true
+    - id: 11
+      name: scheduled_date
+      label: Scheduled Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_location
+      label: Procedure Location
+      hint: Clinic, farm, or facility name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: estimated_cost
+      label: Estimated Procedure Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you be paying
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Bank Transfer
+      - Account Payment
+      required: true
+    - id: 16
+      name: risks_understood
+      label: I understand the risks associated with this procedure
+      hint: Acknowledge understanding
+      type: select_one
+      options:
+      - Yes, I understand
+      - I have questions
+      required: true
+    - id: 17
+      name: consent_given
+      label: I authorize this procedure and accept all risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

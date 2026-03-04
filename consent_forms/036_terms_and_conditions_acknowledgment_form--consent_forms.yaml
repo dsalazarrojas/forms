@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Terms And Conditions Acknowledgment Form
+    pages:
+    - id: 1
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: acknowledgment
+      label: Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: agreement
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

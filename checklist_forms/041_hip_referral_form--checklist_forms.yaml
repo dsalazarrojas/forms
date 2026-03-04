@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hip Referral Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_details
+      label: Referral Details
+      hint: null
+      type: select_multiple
+      options:
+      - Orthopaedic Specialist
+      - Cardiovascular Specialist
+      - Pulmonologist
+      - Rheumatologist
+      required: false
+    - id: 4
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: select_one
+      options:
+      - Hip Replacement
+      - Hip Fracture
+      - Hip Pain
+      - Other
+      required: false
+    - id: 5
+      name: hip_replacement
+      label: Hip Replacement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history_1
+      label: Medical History 1
+      hint: null
+      type: select_multiple
+      options:
+      - Allergies
+      - Medications
+      - Medical Conditions
+      required: false
+    - id: 11
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_history_3
+      label: Medical History 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_history_4
+      label: Medical History 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_history_5
+      label: Medical History 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: referral_outcome
+      label: Referral Outcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibit F 1
+    pages:
+    - id: 1
+      name: form_number
+      label: form-number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dob
+      label: date-of-birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact-number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: date-of-visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: time-of-visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_visit
+      label: reason-for-visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_number_alt
+      label: contact-number-alt
+      hint: null
+      type: text
+      options: []
+      required: false

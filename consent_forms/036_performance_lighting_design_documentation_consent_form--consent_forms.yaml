@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Lighting Design Documentation Consent Form
+    pages:
+    - id: 1
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Production
+      - Education
+      - Promotion
+      required: true
+    - id: 4
+      name: permission_to_use
+      label: Permission to use
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_rights_notes
+      label: Production Rights Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contributor_agreement
+      label: Contributor Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - Not Agreed
+      required: true
+    - id: 9
+      name: production_details
+      label: Production Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: educational_purpose
+      label: Educational Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Educational
+      - Promotional
+      - Production
+      required: true

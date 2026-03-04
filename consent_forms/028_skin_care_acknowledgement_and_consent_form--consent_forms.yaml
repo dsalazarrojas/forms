@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Acknowledgement And Consent Form
+    pages:
+    - id: 1
+      name: skin_care_acknowledgement_and_consent_form
+      label: Skin Care Acknowledgement And Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_ids
+      label: Form Ids
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 6
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: description_2
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

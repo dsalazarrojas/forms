@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Release Form For Minors
+    pages:
+    - id: 1
+      name: photo_release_form_for_minors
+      label: Photo Release Form For Minors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

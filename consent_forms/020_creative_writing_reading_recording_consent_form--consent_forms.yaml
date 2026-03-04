@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Writing Reading Recording Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: usage
+      label: usage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: usage_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recording_permission
+      label: recording_permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: storage_permission
+      label: storage_permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: usage_description
+      label: usage_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: storage_description
+      label: storage_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: recording_method
+      label: recording_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: recording_location
+      label: recording_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recording_time
+      label: recording_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: event_id
+      label: event_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: writer_info
+      label: writer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recording_agency
+      label: recording_agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: recording_agency_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recording_agency_info
+      label: recording_agency_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recording_agency_agreement
+      label: recording_agency_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recording_agency_agreement_info
+      label: recording_agency_agreement_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recording_agency_other_info
+      label: other_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recording_agency_agreement_date
+      label: recording_agency_agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false

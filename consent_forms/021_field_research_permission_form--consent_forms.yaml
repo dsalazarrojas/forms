@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: field_research_permission_form
+    pages:
+    - id: 1
+      name: researcher_details
+      label: Researchers Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participants Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_description
+      label: Study Description
+      hint: Briefly describe your study
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: study_start_date
+      label: Study Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: study_end_date
+      label: Study End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: research_team
+      label: Research Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_consent
+      label: Participant Consent
+      hint: The participant has given consent to participate in this study
+      type: select_one
+      options:
+      - I have given consent to participate in this study
+      - I have not given consent to participate in this study
+      required: true
+    - id: 8
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: research_institution_address
+      label: Research Institution Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: participant_informed_consent_document
+      label: Participant Informed Consent Document
+      hint: Upload or link to participant informed consent document
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: research_institutional_review_board
+      label: Research Institutional Review Board
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: study_institutional_review_board
+      label: Study Institutional Review Board
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: researcher_signature
+      label: Researcher Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: date
+      label: Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time
+      label: Time
+      hint: Time completed
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: research_institution_name
+      label: Research Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: research_institution_address
+      label: Research Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: research_group
+      label: Research Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_person_title
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_informed_consent
+      label: Participant Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

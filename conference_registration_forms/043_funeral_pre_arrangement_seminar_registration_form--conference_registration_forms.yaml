@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Pre Arrangement Seminar Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_address
+      label: Confirm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_city
+      label: Confirm City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_zip
+      label: Confirm Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: name_of_attendant
+      label: Name Of Attendant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: relation_to_attendant
+      label: Relation to Attendant
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Child''}'
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: will_become_attendant
+      label: Will Become Attendant
+      hint: Will the registrant become an attendant in the future?
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

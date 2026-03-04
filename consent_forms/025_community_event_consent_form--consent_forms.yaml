@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Event Consent Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: Which event are you attending?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: When is the event?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to participant
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Any conditions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: List any regular medications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: activity_risks
+      label: Acknowledgment of Activity Risks
+      hint: I understand there are risks involved
+      type: select_one
+      options:
+      - Yes, I Understand
+      - Other
+      required: true
+    - id: 16
+      name: medical_treatment_consent
+      label: Consent for Medical Treatment
+      hint: I consent to emergency medical treatment
+      type: select_one
+      options:
+      - Yes, I Consent
+      - Other
+      required: true
+    - id: 17
+      name: photo_video_consent
+      label: Photo and Video Consent
+      hint: Allow photos for promotional use
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 18
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I waive liability claims against organizers
+      type: select_one
+      options:
+      - Yes, I Waive
+      - Other
+      required: true
+    - id: 19
+      name: transportation_consent
+      label: Transportation Consent
+      hint: I understand transportation is my responsibility
+      type: select_one
+      options:
+      - Yes, I Understand
+      - Other
+      required: true
+    - id: 20
+      name: rules_agreement
+      label: Agreement to Follow Rules
+      hint: I agree to follow event rules
+      type: select_one
+      options:
+      - Yes, I Agree
+      - Other
+      required: true
+    - id: 21
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: If participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true

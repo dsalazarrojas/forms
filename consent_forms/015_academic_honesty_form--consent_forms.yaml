@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Honesty Form
+    pages:
+      - id: 1
+        name: section_statement
+        label: -- Honesty Statement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student name
+        hint: Full name of the student
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student identification number
+        hint: University or registration ID
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: course_code
+        label: Course code or title
+        hint: Course affected by this statement
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: incident_description
+        label: Incident description
+        hint: Describe the incident or acknowledgement
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: corrective_actions
+        label: Corrective actions taken or proposed
+        hint: Steps student will take to rectify issue
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: witness_or_reporter
+        label: Witness or reporter name
+        hint: If applicable provide name
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: acknowledgement
+        label: Acknowledgement of policy
+        hint: Confirm awareness of academic honesty policy
+        type: select_one
+        options:
+          - I acknowledge and accept the policy
+          - I do not acknowledge
+        required: true
+      - id: 9
+        name: signature_name
+        label: Signature name
+        hint: Type full name to sign
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: signature_date
+        label: Signature date
+        hint: Date of acknowledgement
+        type: date
+        options: []
+        required: true

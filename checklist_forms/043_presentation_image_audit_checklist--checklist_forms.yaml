@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Image Audit Checklist
+    pages:
+    - id: 1
+      name: page_one
+      label: Slide Visuals
+      hint: null
+      type: select_one
+      options:
+      - Image
+      - Design
+      required: true
+    - id: 2
+      name: slide_two
+      label: Image Content
+      hint: null
+      type: select_multiple
+      options:
+      - Informational
+      - Persuasive
+      - Persuasive/Informational
+      required: false
+    - id: 3
+      name: slide_three
+      label: Visual Flow
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: slide_four
+      label: Image Consistency
+      hint: null
+      type: select_one
+      options:
+      - Consistent
+      - Inconsistent
+      required: true
+    - id: 5
+      name: slide_five
+      label: Slide Layout
+      hint: null
+      type: select_one
+      options:
+      - Well-Organized
+      - Cluttered
+      required: true
+    - id: 6
+      name: slide_six
+      label: Image Size
+      hint: null
+      type: select_multiple
+      options:
+      - Proportionate
+      - Too Small
+      - Too Large
+      required: false
+    - id: 7
+      name: slide_seven
+      label: Slide Content
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Image
+      - Both
+      required: true

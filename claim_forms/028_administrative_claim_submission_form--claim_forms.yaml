@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Claim Submission Form
+    pages:
+    - id: 1
+      name: claim_header
+      label: -- Administrative Claim Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: Full name of the person submitting the claim
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claimant_id
+      label: Claimant ID
+      hint: Identification number of the claimant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claimant_email
+      label: Claimant Email
+      hint: Email address for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: claimant_phone
+      label: Claimant Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_date
+      label: Date of Claim Submission
+      hint: Date when the claim is submitted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_date
+      label: Date of Incident
+      hint: Date when the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_location
+      label: Location of Incident
+      hint: Where did the incident occur?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: claim_type
+      label: Type of Claim
+      hint: What type of claim is being submitted?
+      type: select_one
+      options:
+      - Property Damage
+      - Personal Injury
+      - Administrative Error
+      - Financial Loss
+      - Service Complaint
+      - Policy Violation
+      - Other
+      required: true
+    - id: 10
+      name: department_involved
+      label: Department Involved
+      hint: Which department is involved in this claim?
+      type: select_one
+      options:
+      - Administration
+      - Human Resources
+      - Finance
+      - Marketing
+      - Operations
+      - IT
+      - Sales
+      - Customer Service
+      - Executive
+      - Other
+      required: true
+    - id: 11
+      name: claim_description
+      label: Description of Claim
+      hint: Detailed description of the claim
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: damages_incurred
+      label: Damages Incurred
+      hint: What damages were incurred?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: monetary_amount
+      label: Monetary Amount Requested ($)
+      hint: Amount of money being claimed
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: witnesses
+      label: Witnesses
+      hint: Names of any witnesses to the incident
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: evidence_attached
+      label: Evidence Attached
+      hint: Description of any evidence attached to the claim
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_claims
+      label: Previous Similar Claims
+      hint: Have you filed similar claims before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: resolution_requested
+      label: Resolution Requested
+      hint: What resolution are you seeking?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: claim_priority
+      label: Claim Priority
+      hint: How urgent is this claim?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 19
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any supporting documents being submitted
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: claim_status
+      label: Current Claim Status
+      hint: Status of the claim (to be filled by administrator)
+      type: select_one
+      options:
+      - Submitted
+      - Under Review
+      - Approved
+      - Denied
+      - Additional Info Required
+      - Closed
+      required: false
+    - id: 21
+      name: assigned_reviewer
+      label: Assigned Reviewer
+      hint: Name of the person reviewing the claim (to be filled by administrator)
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claimant_signature
+      label: Claimant Signature
+      hint: Electronic signature to confirm claim submission
+      type: text
+      options: []
+      required: true

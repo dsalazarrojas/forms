@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: welcome_box_claim_request_form
+    pages:
+    - id: 1
+      name: program_id
+      label: Program ID
+      hint: Please enter your program ID.
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: Enter your contact number (including area code).
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: Select delivery date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: Select delivery time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_zip
+      label: Zip
+      hint: Enter zip code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery instructions (e.g. "leave on porch", "sign for delivery").
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_eligibility
+      label: Program Eligibility
+      hint: Is this person eligible for the program?
+      type: select_one
+      options:
+      - Eligible
+      - Not Eligible
+      required: true
+    - id: 13
+      name: delivery_preference
+      label: Delivery Preference
+      hint: How would you like to receive your welcome box?
+      type: select_multiple
+      options:
+      - Delivery at door
+      - Delivery to a different address
+      - Pickup at a local office
+      required: true

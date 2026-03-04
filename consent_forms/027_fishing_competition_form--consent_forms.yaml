@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing Competition Form
+    pages:
+    - id: 1
+      name: flight
+      label: flight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contestant
+      label: contestant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event
+      label: event
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fish_type
+      label: fish type
+      hint: null
+      type: select_one
+      options:
+      - salmon
+      - trout
+      - bass
+      required: false

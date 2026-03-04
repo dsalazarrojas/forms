@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waxing Appointment Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Bikini Wax
+      - Full Wax
+      - Trim
+      required: true
+    - id: 3
+      name: allergy_info
+      label: Allergy Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: risk_info
+      label: Risk Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true

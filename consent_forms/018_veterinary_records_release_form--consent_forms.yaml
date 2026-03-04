@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary records release form
+    pages:
+    - id: 1
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pet_details_form
+      label: pet_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_records_transfer
+      label: medical_records_transfer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: veterinary_clinics
+      label: veterinary_clinics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artificial Intelligence In Learning Forum Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title or Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - Educator
+      - Administrator
+      - Researcher
+      - Technology Provider
+      - Student
+      - Industry Professional
+      required: true
+    - id: 8
+      name: ai_experience
+      label: Experience with AI in Education
+      hint: null
+      type: select_one
+      options:
+      - No Experience
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 9
+      name: sessions_interested
+      label: Topics of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Machine Learning in Classrooms
+      - Natural Language Processing
+      - Personalized Learning
+      - Ethical AI
+      - AI Tools and Platforms
+      - Research and Innovation
+      required: false
+    - id: 10
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Virtual Attendance
+      - Student Rate
+      - Academic Rate
+      required: true
+    - id: 12
+      name: dietary_needs
+      label: Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - None
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: networking_interest
+      label: Interested in Networking Activities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: follow_up_communication
+      label: Opt-in to Follow-up Communications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: additional_information
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

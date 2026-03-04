@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_claim_complaint_form
+    pages:
+    - id: 1
+      name: complaint_details
+      label: Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - General Insurance Claim
+      - Policyholder Issue
+      - Provider Issue
+      - Other
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: uploaded_by
+      label: Uploaded by
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Policyholder
+      - Insurance Provider
+      - System
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Insurance Provider
+      - Underwriter
+      - Claimant
+      required: false
+    - id: 14
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: uploaded_on
+      label: Uploaded On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_on_phone
+      label: Submitted On Phone
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_to_phone
+      label: Submitted To Phone
+      hint: null
+      type: select_one
+      options:
+      - Policyholder
+      - Insurance Provider
+      - Other
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Resolved
+      required: false
+    - id: 20
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: resolution_by
+      label: Resolution By
+      hint: null
+      type: select_one
+      options:
+      - Policyholder
+      - Insurance Provider
+      - System
+      required: false
+    - id: 22
+      name: resolved_by
+      label: Resolved By
+      hint: null
+      type: select_one
+      options:
+      - Policyholder
+      - Insurance Provider
+      - System
+      required: false
+    - id: 23
+      name: attachment_count
+      label: Attachment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Policyholder
+      - Insurance Provider
+      - System
+      required: false
+    - id: 25
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false

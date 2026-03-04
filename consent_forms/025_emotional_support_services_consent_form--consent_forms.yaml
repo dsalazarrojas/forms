@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: emotional_support_services_consent_form
+    pages:
+    - id: 1
+      name: user_consent
+      label: User Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emotional_support_services_description
+      label: Description of Emotional Support Services
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: emotional_support_services_type
+      label: Type of Emotional Support Services
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Phone
+      - Virtual
+      - Text
+      required: false
+    - id: 5
+      name: support_frequency
+      label: Support Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Monthly
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - In Person
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Rejected
+      - Pending
+      required: false
+    - id: 13
+      name: consent_note
+      label: Consent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emotional_support_services_note
+      label: Emotional Support Services Note
+      hint: null
+      type: note
+      options: []
+      required: false

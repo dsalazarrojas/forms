@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fireplace And Furnace Cleaning Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_place_cleaning_service
+      label: fire_place_cleaning_service
+      hint: null
+      type: select_one
+      options:
+      - HVAC Company A
+      - HVAC Company B
+      - Other
+      required: false
+    - id: 3
+      name: furnace_cleaning_service
+      label: furnace_cleaning_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_representative
+      label: service_representative
+      hint: null
+      type: select_one
+      options:
+      - Service Rep 1
+      - Service Rep 2
+      - Other
+      required: false
+    - id: 11
+      name: will_book
+      label: will_book
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 12
+      name: will_recommend
+      label: will_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Management Lifecycle Checklist
+    pages:
+    - id: 1
+      name: section_event
+      label: -- Lifecycle Event --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Type of Lifecycle Event
+      hint: Select the reason for this checklist
+      type: select_one
+      options:
+      - Provisioning (New Hire)
+      - Modification (Role Change)
+      - Deprovisioning (Termination or Exit)
+      required: true
+    - id: 3
+      name: user_name
+      label: Subject Full Name
+      hint: Person whose access is being changed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: staff_id
+      label: Employee or Staff ID
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_phase1
+      label: -- Phase 1 - Request and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: approval_documented
+      label: Is the formal request and approval documented?
+      hint: Check ticketing system or email
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: approving_manager
+      label: Approving Manager Name
+      hint: Person who authorized the change
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_phase2
+      label: -- Phase 2 - Provisioning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: accounts_provisioned
+      label: Select accounts created or activated
+      hint: check all that apply
+      type: select_multiple
+      options:
+      - Active Directory
+      - ERP or Finance System
+      - CRM
+      - Email or Workspace
+      - Physical Access Badge
+      required: false
+    - id: 10
+      name: least_privilege_verified
+      label: Was the least privilege principle applied?
+      hint: Security compliance check
+      type: select_one
+      options:
+      - Yes - Verified
+      - Other
+      required: true
+    - id: 11
+      name: section_phase3
+      label: -- Phase 3 - Deprovisioning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: access_revocation_date
+      label: Date Access Revoked
+      hint: Official end of access
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: deprovisioning_steps
+      label: Select completed steps
+      hint: verify all security tasks
+      type: select_multiple
+      options:
+      - Account Disabled
+      - Password Reset
+      - Badge Collected
+      - Remote Wipe Performed
+      - Hardware Returned
+      required: false
+    - id: 14
+      name: section_audit
+      label: -- Audit and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: audit_log_check
+      label: Have the audit logs been checked for successful revocation?
+      hint: Final verification step
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: compliance_officer_initials
+      label: Compliance Officer Initials
+      hint: Person verifying the lifecycle event
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: final_signoff_date
+      label: Final Sign-off Date
+      hint: Date process was completed
+      type: date
+      options: []
+      required: true

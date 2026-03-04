@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lithium Ion Battery Warnings And Usage Waiver
+    pages:
+    - id: 1
+      name: lithium_ion_battery_warnings_and_usage_waiver_form
+      label: Lithium Ion Battery Warnings And Usage Waiver Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: have_you_ever_had_an_allergic_reaction
+      label: Have you ever had an allergic reaction to a lithium ion battery
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: have_you_had_lithium_ion_batteries
+      label: Have you had any other lithium ion batteries in the past year
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 4
+      name: do_you_have_health_insurance
+      label: Do you have any health insurance
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 5
+      name: do_you_have_medical_condition
+      label: Do you have any medical conditions or disabilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_condition_description
+      label: Medical Condition Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lithium_ion_battery_warning
+      label: Lithium Ion Battery Warning
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_allergic_reaction
+      label: Date of last allergic reaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition_treatment
+      label: Medical Condition Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition_symptoms
+      label: Medical Condition Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_device
+      label: Medical Device Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_device_description
+      label: Medical Device Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: entertainment_press_coverage_consent_form
+    pages:
+    - id: 1
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: media_type
+      label: media_type
+      hint: null
+      type: select_one
+      options:
+      - Photo
+      - Video
+      - Audio
+      - Interview
+      required: false
+    - id: 6
+      name: media_outlet
+      label: media_outlet
+      hint: null
+      type: select_one
+      options:
+      - Newspaper
+      - Magazine
+      - Online publication
+      - Television
+      - Radio
+      - Social media
+      - Other
+      required: false
+    - id: 7
+      name: publication_date
+      label: publication_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: publication_time
+      label: publication_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: publication_location
+      label: publication_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: media_contact
+      label: media_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_type
+      label: consent_type
+      hint: null
+      type: select_one
+      options:
+      - Media coverage on social media
+      - Media coverage in newspaper or magazine
+      - Media interview on television
+      - Media interview on radio
+      - Media coverage on online publication
+      - Media coverage on other media
+      required: false
+    - id: 12
+      name: consent_term
+      label: consent_term
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

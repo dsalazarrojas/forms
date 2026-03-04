@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Master Checklist Form
+    pages:
+    - id: 1
+      name: workflow
+      label: workflow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 3
+      name: progress
+      label: progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: task
+      label: task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: due_time
+      label: due_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: priority_date
+      label: priority_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: priority_time
+      label: priority_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

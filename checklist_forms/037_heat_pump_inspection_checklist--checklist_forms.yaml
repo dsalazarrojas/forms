@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Pump Inspection Checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_performance
+      label: System Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_issues
+      label: Safety Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: system_components
+      label: System Components
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Compressor''}'
+      - '{''label'': ''Fan''}'
+      - '{''label'': ''Coils''}'
+      required: false
+    - id: 5
+      name: control_panel
+      label: Control Panel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_controls
+      label: Safety Controls
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pressure-Relief Valve''}'
+      - '{''label'': ''Temperature Gauge''}'
+      - '{''label'': ''Pressure Gauge''}'
+      required: false
+    - id: 7
+      name: electrical_system
+      label: Electrical System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mechanical_system
+      label: Mechanical System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: piping_system
+      label: Piping System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insulation
+      label: Insulation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_findings
+      label: Other Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false

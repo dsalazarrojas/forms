@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecare Quality Research Consent Form
+    pages:
+    - id: 1
+      name: study_details
+      label: Study Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_involvement
+      label: Study Involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: telehealth_involvement
+      label: Telehealth Involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      required: false
+    - id: 6
+      name: data_protection
+      label: Data Protection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: study_status
+      label: Study Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 10
+      name: study_start_date
+      label: Study Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

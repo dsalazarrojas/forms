@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Medical Consent Form
+    pages:
+    - id: 1
+      name: section_patient
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_procedure
+      label: -- Procedure Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: description_of_medical_treatment_or_procedure
+      label: Description of Medical Treatment or Procedure
+      hint: As explained by your healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_risk
+      label: -- Risk Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: risk_1
+      label: I understand the risks and benefits explained to me.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: risk_2
+      label: I have had the opportunity to ask questions.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: risk_3
+      label: I understand that no results are guaranteed.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: informed_consent_agreement
+      label: Informed Consent Agreement
+      hint: null
+      type: select_one
+      options:
+      - I give my full informed consent
+      - I do not give consent
+      required: true
+    - id: 12
+      name: section_sig
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_electronic_signature
+      label: Patient Electronic Signature
+      hint: Type your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: Physician or Practitioner performing the procedure
+      type: text
+      options: []
+      required: true

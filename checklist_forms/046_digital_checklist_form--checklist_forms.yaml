@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Checklist Form
+    pages:
+    - id: 1
+      name: operation_page
+      label: Operation
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 2
+      name: operations_date
+      label: Operations Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: operations_start
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: operation_location
+      label: Operation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_page
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Other
+      required: false
+    - id: 6
+      name: facilities_date
+      label: Facilities Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: facilities_start
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_page
+      label: Teams
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Other
+      required: false
+    - id: 10
+      name: team_date
+      label: Teams Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: team_start
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: team_location
+      label: Team Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note_page
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: note_field
+      label: Note Field
+      hint: null
+      type: text
+      options: []
+      required: false

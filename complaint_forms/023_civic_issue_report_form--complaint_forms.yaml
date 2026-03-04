@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Issue Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter name
+      hint: Optional for anonymous reports
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact information
+      hint: Email or phone for updates
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_location
+      label: Issue location
+      hint: Address or description
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_category
+      label: Issue category
+      hint: Select category
+      type: select_one
+      options:
+      - Safety
+      - Noise
+      - Environmental
+      - Infrastructure
+      - Other
+      required: true
+    - id: 5
+      name: description
+      label: Description of the issue
+      hint: Provide clear details and timeframe
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: urgency
+      label: Urgency level
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: attachments_note
+      label: Attachments instructions
+      hint: How to submit photos or documents
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: desired_resolution
+      label: Desired resolution
+      hint: How would you like the issue handled
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_preference
+      label: Follow up preference
+      hint: Yes if you want updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Absent Owner Treatment Consent Form
+    pages:
+    - id: 1
+      name: section_header_owner_info
+      label: -- Pet Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_full_name
+      label: Pet owner full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone number where you can be reached
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person who can make decisions if you cannot be reached
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_pet_info
+      label: -- Pet Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pet_name
+      label: Pet name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Reptile
+      - Other
+      required: true
+    - id: 10
+      name: breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pet_age
+      label: Approximate age of pet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pet_weight
+      label: Approximate weight of pet
+      hint: In pounds or kilograms
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: known_allergies
+      label: Known allergies or medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_treatment_consent
+      label: -- Treatment Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_visit
+      label: Reason for visit or treatment needed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: consent_to_exam
+      label: I consent to a physical examination of my pet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: consent_to_diagnostics
+      label: I consent to diagnostic tests (bloodwork, X-rays, ultrasound) if deemed
+        necessary by the veterinarian
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only with prior phone approval
+      required: true
+    - id: 18
+      name: consent_to_treatment
+      label: I consent to treatment and medication as recommended by the veterinarian
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only with prior phone approval
+      required: true
+    - id: 19
+      name: consent_to_anesthesia
+      label: I consent to sedation or anesthesia if required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only with prior phone approval
+      required: true
+    - id: 20
+      name: spending_limit
+      label: Maximum spending limit for treatment without additional authorization
+      hint: Enter dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: consent_to_emergency_care
+      label: In the event of a life-threatening emergency, I authorize the veterinarian
+        to perform necessary life-saving treatment
+      hint: null
+      type: select_one
+      options:
+      - Yes, proceed with life-saving measures
+      - No, contact me first regardless
+      required: true
+    - id: 22
+      name: consent_date
+      label: Date of consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_instructions
+      label: Additional instructions or notes for the veterinary team
+      hint: null
+      type: text
+      options: []
+      required: false

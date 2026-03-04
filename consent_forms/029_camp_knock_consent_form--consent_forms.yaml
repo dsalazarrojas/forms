@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Knock Consent Form
+    pages:
+    - id: 1
+      name: parent_consent_header
+      label: -- Parent - Guardian Consent and Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_full_name_consent
+      label: Parent or Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_full_name_consent
+      label: Camper Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: camper_birth_date
+      label: Camper Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participation_consent_header
+      label: -- Participation and Medical Releases --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_emergency_release
+      label: Medical Emergency Release
+      hint: I authorize Camp Knock to seek emergency medical treatment for my child
+      type: select_one
+      options:
+      - I Consent and Agree
+      - Other
+      required: true
+    - id: 7
+      name: photo_video_release
+      label: Media - Photo and Video Release
+      hint: I grant permission for photos of my child to be used for camp promotional
+        materials
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I do not consent
+      required: true
+    - id: 8
+      name: swimming_water_release
+      label: Swimming and Waterfront Participation
+      hint: I permit my child to participate in supervised water activities
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I do not consent
+      required: true
+    - id: 9
+      name: sun_safety_consent
+      label: Sunscreen and Insect Repellent Application
+      hint: I permit staff to apply sunscreen and bug spray as needed
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I do not consent
+      required: true
+    - id: 10
+      name: transportation_trip_consent
+      label: Transportation and Off-site Trips
+      hint: I permit my child to be transported by camp vehicles for scheduled excursions
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I do not consent
+      required: true
+    - id: 11
+      name: liability_release_waiver
+      label: Release of Liability and Indemnity
+      hint: I understand the risks of camp activities and release Camp Knock from
+        liability
+      type: select_one
+      options:
+      - I Accept and Agree
+      - Other
+      required: true
+    - id: 12
+      name: secondary_emergency_contact_consent
+      label: Secondary Emergency Contact (Name and Phone)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_notes_consent
+      label: Essential Medical Notes for Staff
+      hint: e.g., Serious allergies, current medications
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_parent_consent
+      label: Parent - Guardian Signature (Typed Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_of_consent_signing
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

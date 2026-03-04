@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chromatography Event Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For urgent notifications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: Where do you work
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Academic University
+      - Research Institute
+      - Pharmaceutical Company
+      - Biotechnology Company
+      - Government Agency
+      - Hospital or Clinical
+      - Contract Research Organization
+      - Other
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: years_experience
+      label: Years of Experience
+      hint: In chromatography field
+      type: select_one
+      options:
+      - Student
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - Over 15 years
+      required: true
+    - id: 10
+      name: section_professional_info
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date Selection
+      hint: Which date will you attend
+      type: select_one
+      options:
+      - Day 1 Only
+      - Day 2 Only
+      - Both Days
+      - Virtual Attendance
+      required: true
+    - id: 12
+      name: session_tracks
+      label: Session Tracks of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - HPLC Fundamentals
+      - GC Applications
+      - LC-MS Techniques
+      - Method Development
+      - Quality Control
+      - Regulatory Compliance
+      - Troubleshooting
+      - New Technologies
+      required: true
+    - id: 13
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose your preferred workshop
+      type: select_one
+      options:
+      - No workshop
+      - Morning hands-on workshop
+      - Afternoon hands-on workshop
+      - Full day workshop
+      required: true
+    - id: 14
+      name: section_session_selection
+      label: -- Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Halal
+      - Kosher
+      - Other
+      required: true
+    - id: 16
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Please specify your needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_catering
+      label: -- Catering --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: registration_type
+      label: Registration Type
+      hint: Select your registration category
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Virtual Only
+      - Student Rate
+      - Group Rate
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Invoice to Company
+      - Check
+      - Wire Transfer
+      required: true
+    - id: 20
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: accommodation_needed
+      label: Accommodation Information
+      hint: Do you need hotel recommendations
+      type: select_one
+      options:
+      - No I have accommodation
+      - Yes send hotel list
+      - Yes book for me
+      required: true
+    - id: 23
+      name: travel_grant
+      label: Travel Grant Application
+      hint: Are you applying for travel support
+      type: select_one
+      options:
+      - No thank you
+      - Yes interested
+      - Yes already applied
+      required: false
+    - id: 24
+      name: section_travel
+      label: -- Travel --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: poster_presentation
+      label: Poster Presentation
+      hint: Will you present a poster
+      type: select_one
+      options:
+      - false
+      - Yes confirmed
+      - Maybe submitting
+      required: true
+    - id: 26
+      name: networking_interest
+      label: Networking Interest
+      hint: Interested in networking events
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe
+      - No thank you
+      required: true
+    - id: 27
+      name: exhibitor_interest
+      label: Exhibitor Interest
+      hint: Interested in visiting exhibitors
+      type: select_one
+      options:
+      - Yes very interested
+      - Somewhat interested
+      - Not interested
+      required: true
+    - id: 28
+      name: section_additional
+      label: -- Additional --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: how_heard
+      label: How Did You Hear About Event
+      hint: null
+      type: select_one
+      options:
+      - Email Newsletter
+      - Website
+      - Colleague Referral
+      - Social Media
+      - Professional Organization
+      - Advertisement
+      - Previous Event
+      required: true
+    - id: 30
+      name: special_requests
+      label: Special Requests
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: agree_terms
+      label: Agree to Terms
+      hint: I agree to event terms and conditions
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

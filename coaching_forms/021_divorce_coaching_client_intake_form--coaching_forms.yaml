@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: divorce_coaching_client_intake_form
+    pages:
+    - id: 1
+      name: intro
+      label: Divorce Coaching Client Intake Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Separated
+      - Widowed
+      required: false
+    - id: 7
+      name: divorce_type
+      label: Divorce Type
+      hint: null
+      type: select_multiple
+      options:
+      - Collaborative
+      - Mediated
+      - Litigation
+      - Hybrid
+      - Other
+      required: false
+    - id: 8
+      name: date_of_divorce
+      label: Date of Divorce
+      hint: YYYY-MM
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_separation
+      label: Date of Separation
+      hint: YYYY-MM
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: grounds_for_separation
+      label: Grounds for Separation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_separation
+      label: Reason for Separation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: children
+      label: Children
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assets
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: debts
+      label: Debts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assets_and_debts
+      label: Assets and Debts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assets_value
+      label: Assets Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: debts_value
+      label: Debts Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: income
+      label: Income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: expenses
+      label: Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assets_and_expenses
+      label: Assets and Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: financial_support
+      label: Financial Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Unstable
+      - Bankrupt
+      required: false
+    - id: 23
+      name: financial_support_type
+      label: Financial Support Type
+      hint: null
+      type: select_multiple
+      options:
+      - Alimony
+      - Spousal Support
+      - Child Support
+      - Custody Support
+      - Other
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit Card
+      - PayPal
+      - Other
+      required: false
+    - id: 25
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

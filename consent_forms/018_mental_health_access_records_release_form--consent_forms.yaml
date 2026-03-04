@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_access_records_release_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_released
+      label: Date Released
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - Medical Professional
+      - Healthcare Organization
+      - Both
+      - Other
+      required: true
+    - id: 9
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: authorized_name
+      label: Authorized Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorization_number
+      label: Authorization Number
+      hint: null
+      type: text
+      options: []
+      required: true

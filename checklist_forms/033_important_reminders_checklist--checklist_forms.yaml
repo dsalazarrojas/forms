@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Important Reminders Checklist
+    pages:
+    - id: 1
+      name: important_reminders
+      label: Reminders
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: deadlines
+      label: Deadlines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: priorities
+      label: Priorities
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 4
+      name: ownership
+      label: Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - Operations
+      - HR
+      - Project Teams
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: A brief description of the reminder.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cyber Security Audit Checklist
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_management
+      label: asset_management
+      hint: null
+      type: select_one
+      options:
+      - assets
+      - inventory
+      - access
+      - controls
+      required: false
+    - id: 3
+      name: network_security
+      label: network_security
+      hint: null
+      type: select_multiple
+      options:
+      - firewalls
+      - intrusion_detection
+      - antivirus
+      - patching
+      required: false
+    - id: 4
+      name: access_control
+      label: access_control
+      hint: null
+      type: select_one
+      options:
+      - password_policy
+      - account_management
+      - authentication
+      required: false
+    - id: 5
+      name: monitoring
+      label: monitoring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_response
+      label: incident_response
+      hint: null
+      type: select_multiple
+      options:
+      - incident_identification
+      - incident_classification
+      - containment
+      required: false
+    - id: 7
+      name: compliance_management
+      label: compliance_management
+      hint: null
+      type: select_one
+      options:
+      - regulatory_standards
+      - compliance_checklist
+      required: false
+    - id: 8
+      name: security_training
+      label: security_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patch_management
+      label: patch_management
+      hint: null
+      type: select_one
+      options:
+      - patch_scheduling
+      - patch_applicability
+      required: false

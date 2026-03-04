@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Modification Indemnity Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: modification_type
+      label: Type of Body Modification
+      hint: null
+      type: select_one
+      options:
+      - Tattoo
+      - Piercing
+      - Scarification
+      - Branding
+      - Implant
+      - Suspension
+      - Tongue Split
+      - Other Modification
+      required: true
+    - id: 7
+      name: specific_modification
+      label: Specific Modification Details
+      hint: Describe what you are having done
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: modification_location
+      label: Body Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: artist_name
+      label: Artist or Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: modification_date
+      label: Date of Modification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: procedure_understanding
+      label: I understand the procedure and its risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully understand
+      - Yes, mostly understand
+      - Partially understand
+      - Do not understand
+      required: true
+    - id: 12
+      name: risks_acknowledged
+      label: I acknowledge the risks involved
+      hint: Infection, scarring, allergic reactions, etc
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 13
+      name: infection_risks_understood
+      label: I understand infection risks
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 14
+      name: allergies_disclosed
+      label: I have disclosed all allergies
+      hint: To dyes, metals, anesthetics
+      type: select_one
+      options:
+      - Yes - Disclosed
+      - No - Have no allergies
+      - Unsure
+      required: true
+    - id: 15
+      name: medical_conditions_disclosed
+      label: I have disclosed medical conditions
+      hint: That may affect the procedure
+      type: select_one
+      options:
+      - Yes - Disclosed
+      - No - No relevant conditions
+      - Unsure
+      required: true
+    - id: 16
+      name: medications_disclosed
+      label: I have disclosed all medications
+      hint: Blood thinners, immunosuppressants, etc
+      type: select_one
+      options:
+      - Yes - Disclosed
+      - No - Taking no medications
+      - Unsure
+      required: true
+    - id: 17
+      name: pregnancy_status
+      label: I am not pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Correct - Not Pregnant
+      - I am Pregnant
+      - I am Nursing
+      - Not Applicable
+      required: true
+    - id: 18
+      name: aftercare_instructions_understood
+      label: I understand aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - Yes, clearly understood
+      - Yes, mostly understood
+      - Somewhat understood
+      - Not understood
+      required: true
+    - id: 19
+      name: pain_level_expectation
+      label: I understand potential pain levels
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 20
+      name: healing_time_understood
+      label: I understand healing timeline
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 21
+      name: voluntarily_choosing
+      label: I am voluntarily choosing this procedure
+      hint: Without coercion
+      type: select_one
+      options:
+      - Yes - Voluntary Choice
+      - No - Not Voluntary
+      required: true
+    - id: 22
+      name: consent_to_procedure
+      label: I consent to this body modification
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 23
+      name: release_and_waiver
+      label: I release and waive liability
+      hint: As outlined in this agreement
+      type: select_one
+      options:
+      - I Release and Waive
+      - I Do Not Release and Waive
+      required: true
+    - id: 24
+      name: indemnity_acknowledgment
+      label: I indemnify the artist against liability
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

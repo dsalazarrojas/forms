@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Injury Prevention Study Consent Form
+    pages:
+    - id: 1
+      name: study_info_header
+      label: -- Research Study Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: principal_investigator
+      label: Principal Investigator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_info_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: competition_level
+      label: Current Competition Level
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Semi-Professional
+      - Collegiate (NCAA/NAIA)
+      - High School / Academy
+      - Amateur / Club
+      required: true
+    - id: 11
+      name: informed_consent_header
+      label: -- Informed Consent --
+      hint: Please read each statement carefully
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: purpose_acknowledgment
+      label: I understand the purpose and objectives of this research study
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 13
+      name: procedures_acknowledgment
+      label: I understand the procedures and requirements for participation
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: risk_benefit_acknowledgment
+      label: I acknowledge the potential risks and benefits described in the study
+        brief
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 15
+      name: confidentiality_acknowledgment
+      label: I understand that my personal data will be kept strictly confidential
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 16
+      name: voluntary_acknowledgment
+      label: I understand that my participation is entirely voluntary
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 17
+      name: withdrawal_rights
+      label: I understand I have the right to withdraw from the study at any time
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 18
+      name: data_usage_consent
+      label: I consent to my anonymized data being used for academic publication
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 19
+      name: participant_signature
+      label: Participant Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required for participants under the age of legal consent
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: PR Session Attendee Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Public Relations
+      - Media Training
+      - Workshop Training
+      - Media Briefing
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_details
+      label: Training Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: media_briefing_details
+      label: Media Briefing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

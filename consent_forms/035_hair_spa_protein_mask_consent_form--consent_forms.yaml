@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Spa Protein Mask Consent Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pre_service_screening
+      label: Pre-Service Screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Client understands the treatment
+      - Client understands the risks
+      - Client understands the benefits
+      required: false
+    - id: 4
+      name: client_understands_treatment
+      label: Client Understands Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Treatement Details
+      - Pre-Screening Questions
+      - Service Details
+      required: false
+    - id: 5
+      name: client_understands_risks
+      label: Client Understands Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: client_understands_benefits
+      label: Client Understands Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: Client Name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: Client Email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: Client Phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_details
+      label: Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pre_screening_questions
+      label: Pre-Screening Questions
+      hint: null
+      type: text
+      options: []
+      required: false

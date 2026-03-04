@@ -1,0 +1,433 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Report Consent Form
+    pages:
+      - id: 1
+        name: consent_header
+        label: Case Report Consent Form
+        hint: Permission for use of information in research
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: consent_date
+        label: Consent Date
+        hint: Date of consent
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: study_info
+        label: Study Information
+        hint: Research details
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: study_title
+        label: Study or Research Title
+        hint: Project name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: principal_investigator
+        label: Principal Investigator Name
+        hint: Lead researcher
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: institution
+        label: Institution or Organization
+        hint: Research institution
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: irb_number
+        label: IRB Approval Number
+        hint: Ethics approval
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: participant_info
+        label: Participant Information
+        hint: Patient details
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: participant_name
+        label: Participant Full Name
+        hint: Legal name
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: participant_id
+        label: Participant ID or Medical Record
+        hint: Identifier
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: date_of_birth
+        label: Date of Birth
+        hint: Participant DOB
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: gender
+        label: Gender
+        hint: Gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Other
+          - Prefer not to say
+        required: false
+      - id: 13
+        name: purpose_consent
+        label: Purpose of Consent
+        hint: Why information is needed
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: consent_purpose
+        label: I Understand My Information Will Be Used For
+        hint: Purpose acknowledgment
+        type: select_multiple
+        options:
+          - Case report publication
+          - Medical research
+          - Educational purposes
+          - Quality improvement
+          - Conference presentation
+          - Training materials
+          - Database inclusion
+          - Other research studies
+        required: true
+      - id: 15
+        name: information_scope
+        label: Scope of Information
+        hint: What information is included
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: information_types
+        label: Types of Information to Be Used
+        hint: Data categories
+        type: select_multiple
+        options:
+          - Medical history
+          - Treatment records
+          - Laboratory results
+          - Imaging studies
+          - Clinical observations
+          - Photographs or images
+          - Video recordings
+          - Audio recordings
+          - Genetic information
+          - Other health data
+        required: true
+      - id: 17
+        name: identifiable_info
+        label: Identifiable Information
+        hint: Privacy considerations
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: identity_protection
+        label: How Will My Identity Be Protected
+        hint: Confidentiality explanation
+        type: select_one
+        options:
+          - Fully de-identified - no identifiers
+          - Coded - key held separately
+          - Limited identifiers used
+          - Full identifiers retained
+        required: true
+      - id: 19
+        name: identifiers_used
+        label: Which Identifiers May Be Used
+        hint: If any
+        type: select_multiple
+        options:
+          - None - fully anonymized
+          - Age only
+          - Gender only
+          - Date of service only
+          - Initials only
+          - Medical record number
+          - All necessary identifiers
+        required: false
+      - id: 20
+        name: risks_benefits
+        label: Risks and Benefits
+        hint: Understanding acknowledgment
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: risks_understood
+        label: I Understand the Potential Risks
+        hint: Risk acknowledgment
+        type: select_one
+        options:
+          - Yes - fully understood
+          - Yes - generally understood
+          - Somewhat
+          - No - not understood
+        required: true
+      - id: 22
+        name: risks_description
+        label: Potential Risks Include
+        hint: Risk summary
+        type: select_multiple
+        options:
+          - Breach of confidentiality
+          - Emotional discomfort
+          - Social stigma
+          - Insurance implications
+          - Employment implications
+          - No significant risks
+          - Other
+        required: true
+      - id: 23
+        name: benefits_understood
+        label: I Understand the Potential Benefits
+        hint: Benefit acknowledgment
+        type: select_one
+        options:
+          - Yes - fully understood
+          - Yes - generally understood
+          - Somewhat
+          - No - not understood
+        required: true
+      - id: 24
+        name: benefits_description
+        label: Potential Benefits Include
+        hint: Benefit summary
+        type: select_multiple
+        options:
+          - Advancement of medical knowledge
+          - Improved patient care
+          - Help future patients
+          - Contribution to science
+          - Personal satisfaction
+          - No direct benefits
+          - Other
+        required: true
+      - id: 25
+        name: voluntary_participation
+        label: Voluntary Participation
+        hint: Rights acknowledgment
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: participation_voluntary
+        label: I Understand My Participation Is Voluntary
+        hint: Voluntary status
+        type: select_one
+        options:
+          - Yes - I understand
+          - No - I do not understand
+        required: true
+      - id: 27
+        name: right_withdraw
+        label: I Understand I Can Withdraw at Any Time
+        hint: Withdrawal rights
+        type: select_one
+        options:
+          - Yes - I understand
+          - No - I do not understand
+        required: true
+      - id: 28
+        name: withdrawal_consequences
+        label: I Understand Withdrawal Will Not Affect My Care
+        hint: Care continuation
+        type: select_one
+        options:
+          - Yes - I understand
+          - No - I do not understand
+        required: true
+      - id: 29
+        name: data_storage
+        label: Data Storage and Access
+        hint: Information handling
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: data_retention
+        label: How Long Will My Data Be Kept
+        hint: Retention period
+        type: select_one
+        options:
+          - Until study completion
+          - 5 years after study
+          - 10 years after study
+          - Indefinitely for research
+          - Other
+        required: true
+      - id: 31
+        name: data_access
+        label: Who Will Have Access to My Data
+        hint: Access list
+        type: select_multiple
+        options:
+          - Research team only
+          - IRB members
+          - Regulatory agencies
+          - Journal reviewers
+          - Other researchers
+          - Public - if published
+        required: true
+      - id: 32
+        name: future_use
+        label: Future Use of Data
+        hint: Ongoing research
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: future_research
+        label: May My Data Be Used for Future Research
+        hint: Ongoing consent
+        type: select_one
+        options:
+          - Yes - for any research
+          - Yes - for similar research only
+          - Yes - with additional consent
+          - No - this study only
+        required: true
+      - id: 34
+        name: contact_info
+        label: Contact Information
+        hint: Questions and concerns
+        type: note
+        options: []
+        required: false
+      - id: 35
+        name: researcher_contact
+        label: I Have Contact Information for Questions
+        hint: Contact availability
+        type: select_one
+        options:
+          - Yes - received
+          - Yes - have it
+          - No - need it
+        required: true
+      - id: 36
+        name: questions_answered
+        label: Have All Your Questions Been Answered
+        hint: Understanding confirmation
+        type: select_one
+        options:
+          - Yes - all answered
+          - Yes - most answered
+          - No - some remain
+        required: true
+      - id: 37
+        name: consent_decision
+        label: Consent Decision
+        hint: Final choice
+        type: note
+        options: []
+        required: false
+      - id: 38
+        name: consent_given
+        label: Do You Consent to Participate
+        hint: Final consent
+        type: select_one
+        options:
+          - Yes - I consent
+          - No - I do not consent
+        required: true
+      - id: 39
+        name: participant_signature
+        label: Participant Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 40
+        name: witness_name
+        label: Witness Name
+        hint: Witness to consent
+        type: text
+        options: []
+        required: false
+      - id: 41
+        name: witness_signature_date
+        label: Witness Signature Date
+        hint: Date witnessed
+        type: date
+        options: []
+        required: false
+      - id: 42
+        name: researcher_signature
+        label: Researcher Signature Date
+        hint: Date obtained
+        type: date
+        options: []
+        required: true
+      - id: 43
+        name: guardian_consent
+        label: Guardian Consent
+        hint: If participant is minor
+        type: note
+        options: []
+        required: false
+      - id: 44
+        name: guardian_required
+        label: Is Guardian Consent Required
+        hint: Minor status
+        type: select_one
+        options:
+          - Yes - parent or guardian
+          - No - adult participant
+          - No - emancipated minor
+        required: true
+      - id: 45
+        name: guardian_name
+        label: Guardian Name
+        hint: Legal guardian
+        type: text
+        options: []
+        required: false
+      - id: 46
+        name: guardian_relationship
+        label: Guardian Relationship
+        hint: Relationship to participant
+        type: text
+        options: []
+        required: false
+      - id: 47
+        name: guardian_signature_date
+        label: Guardian Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: false

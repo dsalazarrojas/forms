@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Complaint Form
+    pages:
+    - id: 1
+      name: customer_complaint_form
+      label: Customer Complaint Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_details
+      label: complaint details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: complaint_date
+      label: complaint date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: complaint_time
+      label: complaint time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: complaint_category
+      label: complaint category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_message
+      label: customer message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_status
+      label: customer status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

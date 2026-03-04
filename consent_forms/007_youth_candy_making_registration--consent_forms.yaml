@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Candy Making Registration
+    pages:
+    - id: 1
+      name: parent_details
+      label: parent_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: parent_email
+      hint: .reported contact email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: child_name
+      label: child_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_range
+      label: age range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: workshop_date
+      label: workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: schedule
+      label: schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_number
+      label: emergency_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      - '{''label'': ''option3'', ''value'': ''option3''}'
+      required: false
+    - id: 13
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      - '{''label'': ''option3'', ''value'': ''option3''}'
+      required: false
+    - id: 14
+      name: medical_equipment
+      label: medical_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      - '{''label'': ''option3'', ''value'': ''option3''}'
+      required: false
+    - id: 15
+      name: food_allergies
+      label: food_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      - '{''label'': ''option3'', ''value'': ''option3''}'
+      required: false
+    - id: 16
+      name: medical_procedure
+      label: medical_procedure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      required: false
+    - id: 17
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

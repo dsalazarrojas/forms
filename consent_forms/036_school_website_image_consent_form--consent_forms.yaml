@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Website Image Consent Form
+    pages:
+    - id: 1
+      name: user_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: optional_restrictions
+      label: Optional Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      - Only with face obscured
+      - Only in certain contexts
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: school_website_publish
+      label: Publish on School Website
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: student_work
+      label: Student Work
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: publish_student_videos
+      label: Publish Student Videos
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit_to_email
+      label: Submit to Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: admin_review
+      label: Administrator Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: publish_student_names
+      label: Publish Student Names
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: form_submit_count
+      label: Form Submission Count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submit_date
+      label: Form Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_submit_time
+      label: Form Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: form_submit_user
+      label: Form Submit User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_submit_ip
+      label: Form Submit IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_submit_url
+      label: Form Submit URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_submit_user_agent
+      label: Form Submit User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submit_user_browser
+      label: Form Submit User Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_submit_user_os
+      label: Form Submit User OS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_submit_ip_location
+      label: Form Submit IP Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_submit_device_type
+      label: Form Submit Device Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_submit_user_language
+      label: Form Submit User Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_submit_user_timezone
+      label: Form Submit User Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submit_user_country
+      label: Form Submit User Country
+      hint: null
+      type: text
+      options: []
+      required: false

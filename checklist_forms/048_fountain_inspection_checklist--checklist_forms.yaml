@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fountain Inspection Checklist
+    pages:
+    - id: 1
+      name: routine_checks
+      label: Routine Checks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: safety_issues
+      label: Safety Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: maintenance_needs
+      label: Maintenance Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: routine_maintenance
+      label: Routine Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_equipment
+      label: Special Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: water_flow
+      label: Water Flow
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: basin_condition
+      label: Basin Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: surrounding_area
+      label: Surrounding Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: general_comments
+      label: General Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: special_comments
+      label: Special Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: water_flow_rate
+      label: Water Flow Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false

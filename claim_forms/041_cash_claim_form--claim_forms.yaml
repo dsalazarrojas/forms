@@ -1,0 +1,375 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Claim Form
+    pages:
+    - id: 1
+      name: claim_header
+      label: Cash Claim Form
+      hint: Request cash disbursement for authorized expenses
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claim_id
+      label: Claim ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_date
+      label: Claim Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: claimant_info
+      label: Claimant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: claimant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_id
+      label: Employee ID Number
+      hint: Employee number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: position_title
+      label: Position Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: claim_type
+      label: Type of Cash Claim
+      hint: Claim category
+      type: select_one
+      options:
+      - Expense reimbursement
+      - Petty cash replenishment
+      - Cash advance
+      - Travel expenses
+      - Emergency cash need
+      - Vendor payment
+      - Other authorized transaction
+      required: true
+    - id: 12
+      name: claim_details
+      label: Claim Details
+      hint: Specifics of request
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: claim_description
+      label: Description of Claim
+      hint: What is this for
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: claim_amount
+      label: Amount Claimed
+      hint: Total dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: currency
+      label: Currency
+      hint: Currency type
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - Other
+      required: true
+    - id: 16
+      name: expense_date
+      label: Date of Expense
+      hint: When incurred
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: expense_location
+      label: Location of Expense
+      hint: Where incurred
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_purpose
+      label: Business Purpose
+      hint: Why expense was necessary
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: expense_breakdown
+      label: Expense Breakdown
+      hint: Itemized list
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: item_1_description
+      label: Item 1 Description
+      hint: First item
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_1_amount
+      label: Item 1 Amount
+      hint: Cost
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: item_2_description
+      label: Item 2 Description
+      hint: Second item
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: item_2_amount
+      label: Item 2 Amount
+      hint: Cost
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: item_3_description
+      label: Item 3 Description
+      hint: Third item
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: item_3_amount
+      label: Item 3 Amount
+      hint: Cost
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: item_4_description
+      label: Item 4 Description
+      hint: Fourth item
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: item_4_amount
+      label: Item 4 Amount
+      hint: Cost
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Receipts and proof
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: receipts_attached
+      label: Are Receipts Attached
+      hint: Documentation status
+      type: select_one
+      options:
+      - Yes - all receipts attached
+      - Yes - partial receipts
+      - No - receipt not available
+      - No - not applicable
+      required: true
+    - id: 30
+      name: receipt_count
+      label: Number of Receipts
+      hint: Receipt count
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: missing_receipts
+      label: Explain Missing Receipts
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: previous_claims
+      label: Have You Submitted Previous Claims
+      hint: Prior history
+      type: select_one
+      options:
+      - Yes - pending approval
+      - Yes - approved recently
+      - No - first claim
+      required: false
+    - id: 33
+      name: urgency
+      label: Urgency of Payment
+      hint: How soon needed
+      type: select_one
+      options:
+      - Normal - next pay cycle
+      - Soon - within 1 week
+      - Urgent - within 3 days
+      - Emergency - within 24 hours
+      required: true
+    - id: 34
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How to receive
+      type: select_one
+      options:
+      - Cash from petty cash
+      - Check
+      - Direct deposit
+      - Added to payroll
+      - Other
+      required: true
+    - id: 35
+      name: account_code
+      label: Account Code to Charge
+      hint: Budget code
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: project_code
+      label: Project Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: authorization
+      label: Authorization
+      hint: Approvals
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Approving manager
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: supervisor_approval
+      label: Supervisor Approval Status
+      hint: Decision
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      - Not required
+      required: false
+    - id: 40
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: Notes
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: finance_approval
+      label: Finance Department Approval
+      hint: Finance decision
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending review
+      - Not yet reviewed
+      required: false
+    - id: 42
+      name: finance_comments
+      label: Finance Comments
+      hint: Notes
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: payment_status
+      label: Payment Status
+      hint: Disbursement status
+      type: select_one
+      options:
+      - Paid
+      - Processing
+      - Approved - pending payment
+      - On hold
+      - Denied
+      required: false
+    - id: 44
+      name: payment_date
+      label: Payment Date
+      hint: When paid
+      type: date
+      options: []
+      required: false
+    - id: 45
+      name: check_number
+      label: Check Number
+      hint: If paid by check
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: claimant_signature
+      label: Claimant Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 47
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

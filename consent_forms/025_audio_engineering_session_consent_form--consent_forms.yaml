@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Engineering Session Consent Form
+    pages:
+    - id: 1
+      name: section_session_info
+      label: -- Session Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performer_name
+      label: Performer/Artist Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: band_name
+      label: Band/Group Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: recording_engineer
+      label: Lead Recording Engineer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_recording_details
+      label: -- Recording Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: type_of_recording
+      label: Type of Recording
+      hint: null
+      type: select_one
+      options:
+      - Music - Full Band
+      - Music - Solo Vocalist
+      - Podcast Episode
+      - Voiceover/Commercial
+      - Audio Book
+      - Other
+      required: true
+    - id: 8
+      name: track_titles
+      label: Working Titles of Tracks/Episodes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_consent
+      label: -- Legal Consent and Releases --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: recording_release
+      label: I consent to being recorded (audio and video)
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 11
+      name: grant_of_rights
+      label: Grant of Rights for Distribution
+      hint: Authorize the studio to use excerpts for promotion
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true
+    - id: 12
+      name: credit_attribution
+      label: Preferred Name for Credits
+      hint: How should you be listed in the credits?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: minor_participant
+      label: Is the participant a minor?
+      hint: Under 18 years of age
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: guardian_name
+      label: Parent or Guardian Signature (Type Name)
+      hint: Required if participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_financial
+      label: -- Session Financials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: session_fee_agreed
+      label: Agreed Session Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: cancellation_policy
+      label: I have read and agree to the cancellation policy
+      hint: 24-hour notice required for full refund
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 18
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: artist_signature
+      label: Artist Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Publishing Permission Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: user email
+      hint: User's email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: permission_date
+      label: Permission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: website_name
+      label: Website Name
+      hint: The name of the website
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: User Consent
+      hint: I consent to have this information published
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Additional comments from the user
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: website_url
+      label: Website URL
+      hint: The URL of the website to be published
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

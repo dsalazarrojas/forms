@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diocese Of Gary Online Meeting Permission Form
+    pages:
+    - id: 1
+      name: meeting_name
+      label: Meeting Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: Purpose of Meeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - Parish Leader
+      - Parishioner
+      - Other
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: permission
+      label: Permission to Gather
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Parish Leader Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Radio Song Recording Consent Form
+    pages:
+    - id: 1
+      name: song_consent_intro_note
+      label: -- Artist Broadcast and Recording Consent --
+      hint: We are excited to feature your music on our community radio station!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_band_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact_name
+      label: Primary Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_contact_email
+      label: Artist or Band Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: artist_contact_phone
+      label: Artist or Band Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: song_title_list
+      label: Song Title(s) for Consent
+      hint: Please list each song title separated by a comma.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: album_title_info
+      label: Album or EP Title
+      hint: If applicable - otherwise leave blank.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recording_date_info
+      label: Date of Original Recording
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: copyright_ownership_check
+      label: Do you own the full copyright for this recording?
+      hint: Includes master recording and composition rights.
+      type: select_one
+      options:
+      - Yes - I am the sole owner
+      - Yes - My band owns the rights
+      - No - Someone else owns the rights
+      required: true
+    - id: 10
+      name: external_copyright_holder_name
+      label: Name of External Copyright Holder
+      hint: Required if you answered No above.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: broadcast_permission_consent
+      label: Broadcast Permission
+      hint: I grant the station permission to broadcast these songs.
+      type: select_one
+      options:
+      - I grant full permission
+      - I do not grant permission
+      required: true
+    - id: 12
+      name: recording_permission_consent
+      label: Station Recording Permission
+      hint: I grant permission for the station to record a live performance.
+      type: select_one
+      options:
+      - I grant full permission
+      - I do not grant permission
+      required: true
+    - id: 13
+      name: social_media_promo_consent
+      label: Social Media and Website Permission?
+      hint: Can we use clips on our digital platforms?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: promotional_use_consent
+      label: General Promotional Use Permission?
+      hint: Can we use your music in station promos?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: broadcast_credit_format
+      label: How should we credit you during the broadcast?
+      hint: e.g. This was - Song Name - by - Artist Name - .
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: artist_agreement_note
+      label: -- Artist Agreement Statement --
+      hint: By submitting - you certify that you have the right to grant these permissions.
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: artist_digital_signature
+      label: Artist or Authorized Representative Signature
+      hint: Type full name here.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: consent_submission_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

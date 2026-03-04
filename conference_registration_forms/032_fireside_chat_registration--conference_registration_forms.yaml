@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fireside Chat Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: talk_interests
+      label: Talk Interests
+      hint: null
+      type: select_multiple
+      options:
+      - AI/ML
+      - Data Science
+      - Computer Vision
+      required: false
+    - id: 3
+      name: engagement_preferences
+      label: Engagement Preferences
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-Person
+      required: false
+    - id: 4
+      name: topic_interest
+      label: Topic Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Speaker
+      - Attendee
+      required: false
+    - id: 6
+      name: topic_interests_details
+      label: Topic Interest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaker_details
+      label: Speaker Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

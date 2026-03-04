@@ -1,0 +1,434 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biopsychosocial Assessment Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Enter patient details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Patient's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Patient's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Transgender
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 6
+      name: marital_status
+      label: Marital Status
+      hint: Current marital status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      - Domestic Partnership
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: biological_factors
+      label: Biological Factors
+      hint: Physical health assessment
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_medical_conditions
+      label: Current Medical Conditions
+      hint: List any ongoing medical issues
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: chronic_illnesses
+      label: Chronic Illnesses
+      hint: Any chronic health conditions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications_current
+      label: Current Medications
+      hint: List all current medications
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: Describe your sleep quality and patterns
+      type: select_one
+      options:
+      - Normal - 7-8 Hours Restful Sleep
+      - Occasional Insomnia
+      - Frequent Sleep Problems
+      - Chronic Insomnia
+      - Sleep Apnea or Disorder
+      required: true
+    - id: 15
+      name: appetite_changes
+      label: Appetite Changes
+      hint: Any recent changes in appetite
+      type: select_one
+      options:
+      - No Changes
+      - Increased Appetite
+      - Decreased Appetite
+      - Fluctuating Appetite
+      required: true
+    - id: 16
+      name: energy_level
+      label: Energy Level
+      hint: Rate your typical energy
+      type: select_one
+      options:
+      - High Energy
+      - Normal Energy
+      - Low Energy
+      - Fatigued Most Days
+      - Exhausted
+      required: true
+    - id: 17
+      name: substance_use
+      label: Substance Use
+      hint: Alcohol and drug use
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: alcohol_use
+      label: Alcohol Use
+      hint: How often do you drink alcohol
+      type: select_one
+      options:
+      - Never
+      - Rarely (1-2 times per month)
+      - Occasionally (1-2 times per week)
+      - Regularly (3-4 times per week)
+      - Daily
+      required: true
+    - id: 19
+      name: tobacco_use
+      label: Tobacco Use
+      hint: Do you use tobacco products
+      type: select_one
+      options:
+      - Never Used
+      - Former User
+      - Current Occasional User
+      - Current Regular User
+      required: true
+    - id: 20
+      name: recreational_drug_use
+      label: Recreational Drug Use
+      hint: Any recreational drug use
+      type: select_one
+      options:
+      - Never
+      - Past Use Only
+      - Occasional Current Use
+      - Regular Current Use
+      - Prefer Not to Answer
+      required: true
+    - id: 21
+      name: psychological_factors
+      label: Psychological Factors
+      hint: Mental health assessment
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: current_mood
+      label: Current Mood
+      hint: How would you describe your mood
+      type: select_one
+      options:
+      - Generally Happy
+      - Mostly Stable
+      - Frequently Anxious
+      - Often Depressed
+      - Mood Swings
+      - Irritable
+      required: true
+    - id: 23
+      name: anxiety_level
+      label: Anxiety Level
+      hint: Rate your anxiety over past 2 weeks
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Overwhelming
+      required: true
+    - id: 24
+      name: depression_level
+      label: Depression Level
+      hint: Rate feelings of depression
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Overwhelming
+      required: true
+    - id: 25
+      name: stress_level
+      label: Stress Level
+      hint: Rate your current stress
+      type: select_one
+      options:
+      - Low Stress
+      - Manageable Stress
+      - Moderate Stress
+      - High Stress
+      - Overwhelming Stress
+      required: true
+    - id: 26
+      name: mental_health_diagnosis
+      label: Mental Health Diagnoses
+      hint: Any previous diagnoses
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: previous_therapy
+      label: Previous Therapy or Counseling
+      hint: Have you had therapy before
+      type: select_one
+      options:
+      - Never
+      - Yes - In the Past
+      - Currently in Therapy
+      required: true
+    - id: 28
+      name: suicidal_thoughts
+      label: Suicidal Thoughts
+      hint: Have you had thoughts of self-harm
+      type: select_one
+      options:
+      - Never
+      - In the Past
+      - Recently
+      - Currently
+      required: true
+    - id: 29
+      name: coping_mechanisms
+      label: Coping Mechanisms
+      hint: How do you typically cope with stress
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: social_factors
+      label: Social Factors
+      hint: Social and environmental assessment
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: living_situation
+      label: Living Situation
+      hint: Where do you live
+      type: select_one
+      options:
+      - Live Alone
+      - Live with Family
+      - Live with Partner
+      - Live with Roommates
+      - Assisted Living
+      - Homeless
+      required: true
+    - id: 32
+      name: employment_status
+      label: Employment Status
+      hint: Current employment
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Disabled
+      - Homemaker
+      required: true
+    - id: 33
+      name: work_satisfaction
+      label: Work Satisfaction
+      hint: How satisfied are you with work
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 34
+      name: financial_stress
+      label: Financial Stress
+      hint: Level of financial concern
+      type: select_one
+      options:
+      - No Financial Stress
+      - Minimal Concern
+      - Moderate Concern
+      - Significant Concern
+      - Severe Financial Hardship
+      required: true
+    - id: 35
+      name: social_support
+      label: Social Support System
+      hint: Do you have people you can rely on
+      type: select_one
+      options:
+      - Strong Support System
+      - Adequate Support
+      - Limited Support
+      - Minimal Support
+      - No Support System
+      required: true
+    - id: 36
+      name: relationship_quality
+      label: Quality of Relationships
+      hint: How would you describe relationships
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Strained
+      required: true
+    - id: 37
+      name: family_history
+      label: Family History
+      hint: Relevant family medical or mental health history
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: cultural_factors
+      label: Cultural or Religious Factors
+      hint: Any relevant cultural considerations
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: recent_life_changes
+      label: Recent Life Changes
+      hint: Any significant recent events
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: assessment_summary
+      label: Assessment Summary
+      hint: For clinician use
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: risk_level
+      label: Risk Level
+      hint: Overall risk assessment
+      type: select_one
+      options:
+      - Low Risk
+      - Mild Risk
+      - Moderate Risk
+      - High Risk
+      - Critical Risk
+      required: true
+    - id: 42
+      name: immediate_intervention_needed
+      label: Immediate Intervention Needed
+      hint: Is urgent care required
+      type: select_one
+      options:
+      - false
+      - Yes - Routine Follow-up
+      - Yes - Urgent
+      - Yes - Emergency
+      required: true
+    - id: 43
+      name: treatment_recommendations
+      label: Treatment Recommendations
+      hint: Suggested interventions
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: clinician_name
+      label: Clinician Name
+      hint: Name of assessing clinician
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: clinician_signature
+      label: Clinician Signature
+      hint: Signature confirmation
+      type: select_one
+      options:
+      - Assessment Completed
+      - Reviewed and Approved
+      required: true

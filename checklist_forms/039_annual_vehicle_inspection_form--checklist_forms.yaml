@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_certification
+      label: Inspector Certification Number
+      hint: Certification or license number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_owner
+      label: Vehicle Owner Name
+      hint: Owner or registered user
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_registration
+      label: Vehicle Registration Number
+      hint: License plate or registration ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_vin
+      label: Vehicle Identification Number - VIN
+      hint: 17-character VIN
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer - Honda, Ford, etc.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: previous_mileage
+      label: Previous Inspection Mileage
+      hint: Last recorded mileage
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: brake_condition
+      label: Brake System - Pads and Rotors
+      hint: null
+      type: select_one
+      options:
+      - Pass - good condition
+      - Pass - adequate condition
+      - Fail - replacement needed
+      - Fail - unsafe
+      required: true
+    - id: 13
+      name: tire_condition
+      label: Tire Condition and Tread
+      hint: Tread depth and wear
+      type: select_one
+      options:
+      - Pass - good condition
+      - Pass - adequate condition
+      - Fail - replacement needed
+      - Fail - unsafe
+      required: true
+    - id: 14
+      name: windshield_wipers
+      label: Windshield Wipers
+      hint: null
+      type: select_one
+      options:
+      - Pass - functional
+      - Pass - needs replacement soon
+      - Fail - needs replacement
+      required: true
+    - id: 15
+      name: lights_function
+      label: Lights - Headlights, Taillights, Signals
+      hint: Proper functioning of all lights
+      type: select_one
+      options:
+      - Pass - all functional
+      - Pass - minor issues
+      - Fail - repairs needed
+      required: true
+    - id: 16
+      name: horn
+      label: Horn Function
+      hint: null
+      type: select_one
+      options:
+      - Pass - functional
+      - Fail - not working
+      required: true
+    - id: 17
+      name: steering
+      label: Steering System
+      hint: Power steering and wheel condition
+      type: select_one
+      options:
+      - Pass - good condition
+      - Pass - acceptable
+      - Fail - repairs needed
+      required: true
+    - id: 18
+      name: suspension
+      label: Suspension and Shocks
+      hint: Shocks, struts, and suspension
+      type: select_one
+      options:
+      - Pass - good condition
+      - Pass - acceptable
+      - Fail - repairs needed
+      required: true
+    - id: 19
+      name: exhaust
+      label: Exhaust System
+      hint: Muffler and exhaust pipes
+      type: select_one
+      options:
+      - Pass - good condition
+      - Pass - acceptable
+      - Fail - repairs needed
+      required: true
+    - id: 20
+      name: emissions
+      label: Emissions Test
+      hint: Emissions compliance
+      type: select_one
+      options:
+      - Pass - compliant
+      - Conditional pass
+      - Fail - non-compliant
+      - Exempt
+      required: true
+    - id: 21
+      name: fuel_system
+      label: Fuel System and Tank
+      hint: Leaks and condition
+      type: select_one
+      options:
+      - Pass - no leaks
+      - Pass - acceptable
+      - Fail - repairs needed
+      required: true
+    - id: 22
+      name: seatbelts
+      label: Seatbelts and Safety Features
+      hint: Functional seatbelts and airbags
+      type: select_one
+      options:
+      - Pass - functional
+      - Pass - needs adjustment
+      - Fail - repairs needed
+      required: true
+    - id: 23
+      name: overall_safety
+      label: Overall Vehicle Safety Rating
+      hint: General safety assessment
+      type: select_one
+      options:
+      - Pass - safe to operate
+      - Conditional pass - minor repairs
+      - Fail - unsafe to operate
+      required: true
+    - id: 24
+      name: repairs_recommended
+      label: Repairs Recommended
+      hint: List of needed repairs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: next_inspection_date
+      label: Next Inspection Due Date
+      hint: When next inspection is required
+      type: date
+      options: []
+      required: true

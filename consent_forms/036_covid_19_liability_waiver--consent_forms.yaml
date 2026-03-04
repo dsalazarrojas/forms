@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Liability Waiver
+    pages:
+    - id: 1
+      name: signer_header
+      label: -- Signer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: activity_header
+      label: -- Activity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: activity_name
+      label: Activity or Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: activity_location
+      label: Activity Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: activity_provider
+      label: Activity Provider or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: health_header
+      label: -- Health Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_health
+      label: Current health status
+      hint: null
+      type: select_one
+      options:
+      - Good Health
+      - Fair Health
+      - Poor Health
+      required: true
+    - id: 14
+      name: covid_symptoms
+      label: Any COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: fever
+      label: Temperature above 100.4F in past 24 hours
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: recent_exposure
+      label: Exposed to COVID-19 in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 17
+      name: positive_test
+      label: Tested positive for COVID-19 recently
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      required: true
+    - id: 19
+      name: acknowledgment_header
+      label: -- Acknowledgment and Assumption of Risk --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: acknowledge_risks
+      label: I acknowledge the risks of COVID-19
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - No, I Do Not
+      required: true
+    - id: 21
+      name: voluntary_participation
+      label: I voluntarily participate despite these risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, Voluntary
+      - No, Not Voluntary
+      required: true
+    - id: 22
+      name: release_agreement
+      label: I release the organization from liability
+      hint: null
+      type: select_one
+      options:
+      - I Release Them
+      - I Do Not Release Them
+      required: true
+    - id: 23
+      name: indemnification
+      label: I agree to indemnify and defend the organization
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 24
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: recipe_ingredients_cost_report_form
+    pages:
+    - id: 1
+      name: recipe_title
+      label: Recipe Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ingredients
+      label: Ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Ingredient 1''}'
+      - '{''id'': 2, ''label'': ''Ingredient 2''}'
+      - '{''id'': 3, ''label'': ''Ingredient 3''}'
+      required: false
+    - id: 3
+      name: ingredient_cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recipe_yield
+      label: Recipe Yield
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ingredient_cost_per_unit
+      label: Cost Per Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ingredient_weight
+      label: Ingredient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: recipe_cost
+      label: Recipe Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: ingredient_notes
+      label: Ingredient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Cancel''}'
+      required: false

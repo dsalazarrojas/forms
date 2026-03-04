@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Claim Form
+    pages:
+    - id: 1
+      name: pet_insurance_claim_form
+      label: Pet Insurance Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pet_vet_bill
+      label: pet_vet_bill
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: medical_expenses
+      label: medical_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vet_care
+      label: vet_care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_medication
+      label: pet_medication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Harassment Report Intake Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: Select the type of incident you experienced.
+      type: select_one
+      options:
+      - '{''label'': ''Harassment''}'
+      - '{''label'': ''Bullying''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: incident_date
+      label: Date
+      hint: Enter the date of the incident, including month and year.
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_relationship
+      label: Relationship to Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporter_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: reporter_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reported_to
+      label: Incident Reported To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: resolution
+      label: Resolution
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reporter_notes
+      label: Reporter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: witness_name_2
+      label: Witness Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_relationship_2
+      label: Relationship to Witness 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_phone_2
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: witness_email_2
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: reporter_notes_2
+      label: Reporter Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reporter_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

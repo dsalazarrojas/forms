@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: fine arts coach interest survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What do you think is the best use of a coach?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: What level of experience do you have with coaching?
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - no_experience
+      required: false
+    - id: 3
+      name: program_type
+      label: What type of program are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - coaching
+      - mentoring
+      - both
+      required: false
+    - id: 4
+      name: art_form
+      label: Which art form do you have experience in?
+      hint: null
+      type: select_multiple
+      options:
+      - music
+      - visual
+      - dance
+      - theater
+      required: false
+    - id: 5
+      name: preferred_language
+      label: What is your preferred language to communicate?
+      hint: null
+      type: select_one
+      options:
+      - english
+      - french
+      - spanish
+      required: false
+    - id: 6
+      name: availability
+      label: When can you start the program?
+      hint: Please choose the earliest date you can start
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Which of the following time slots do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      - any
+      required: false
+    - id: 8
+      name: contact_info
+      label: Do you have any additional contact information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_programs
+      label: Are you interested in other programs offered by our organization?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: follow_up
+      label: How would you like to be contacted for follow-up questions?
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - chat
+      - text
+      required: false

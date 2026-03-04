@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter Medical Release Form
+    pages:
+    - id: 1
+      name: authorization_header
+      label: -- Medical Treatment Authorization for Minor --
+      hint: This form allows the babysitter to seek medical care for your child in
+        your absence
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_name
+      label: Parent/Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: babysitter_authorized_name
+      label: Authorized Babysitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_name_1
+      label: Child's Full Name (1)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_dob_1
+      label: Child's Date of Birth (1)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: child_name_2
+      label: Child's Full Name (2)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: child_dob_2
+      label: Child's Date of Birth (2)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_info_header
+      label: -- Medical and Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions_allergies
+      label: Chronic Medical Conditions or Allergies
+      hint: List for all children
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pediatrician_name_phone
+      label: Pediatrician Name and Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_hospital
+      label: Preferred Local Hospital
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_policy_number
+      label: Policy or Group Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: consent_declaration
+      label: I authorize the named babysitter to consent to emergency medical treatment
+      hint: null
+      type: select_one
+      options:
+      - I grant authorization
+      - Other
+      required: true
+    - id: 16
+      name: valid_dates_range
+      label: Authorization Effective Dates
+      hint: e.g., Feb 1 2026 to Dec 31 2026
+      type: text
+      options: []
+      required: true

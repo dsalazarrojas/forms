@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Aid Kit Inspection Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_aid_kit_location
+      label: First aid kit location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: first_aid_kit_contents
+      label: First aid kit contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_aid_kit_contents_list
+      label: first aid kit contents list
+      hint: A list of items to check
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 5
+      name: first_aid_kit_contents_item_2_quantity
+      label: first aid kit contents item 2 quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: first_aid_kit_contents_item_1_1_quantity
+      label: first aid kit contents item 1 quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: first_aid_kit_contents_item_3_quantity
+      label: first aid kit contents item 3 quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_professional_on_site
+      label: Medical professional on site
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: first_aid_kit_is_full
+      label: First aid kit is full
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: first_aid_kit_is_expired
+      label: First aid kit is expired
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: first_aid_kit_is_damaged
+      label: First aid kit is damaged
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: first_aid_kit_is_missing
+      label: First aid kit is missing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: first_aid_kit_is_not_accessible
+      label: First aid kit is not accessible
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: first_aid_kit_is_not_easily_identifiable
+      label: first aid kit is not easily identifiable
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: first_aid_kit_is_expired_or_outdated
+      label: first aid kit is expired or outdated
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: first_aid_kit_is_not_fully_stocked
+      label: first aid kit is not fully stocked
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

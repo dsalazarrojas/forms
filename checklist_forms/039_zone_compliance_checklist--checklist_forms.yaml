@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zone Compliance Checklist
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: zone_area
+      label: Zone area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: zone_compliance_status
+      label: Zone compliance status
+      hint: null
+      type: select_one
+      options:
+      - Reported
+      - Not reported
+      - Pending
+      - Compliant
+      required: true
+    - id: 5
+      name: corrective_actions
+      label: Corrective actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: zone_id
+      label: Zone ID
+      hint: null
+      type: text
+      options: []
+      required: false

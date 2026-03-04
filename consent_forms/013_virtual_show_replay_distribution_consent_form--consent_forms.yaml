@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Show Replay Distribution Consent Form
+    pages:
+    - id: 1
+      name: virtual_show_replay_distribution_consent_form
+      label: Virtual Show Replay Distribution Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recording_consent
+      label: recordingConsent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 3
+      name: replay_consent
+      label: replayConsent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 4
+      name: email_consent
+      label: emailConsent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: phone_consent
+      label: phoneConsent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 6
+      name: recording_consent_note
+      label: recordingConsentNote
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: replay_consent_note
+      label: replayConsentNote
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: emailAddress
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phoneNumber
+      hint: null
+      type: text
+      options: []
+      required: false

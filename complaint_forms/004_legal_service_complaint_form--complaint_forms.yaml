@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_service_complaint_form
+    pages:
+    - id: 1
+      name: complaint_form_1
+      label: Submit Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: complaint_description
+      label: Description of Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_complaint
+      label: Date of Complaint
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_complaint
+      label: Time of Complaint
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: complaint_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: select_complaint_category
+      label: Select Complaint Category
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      - category_3
+      required: true
+    - id: 10
+      name: submit_complaint
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 11
+      name: review_complaint
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: agree_terms
+      label: Agree to Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: submit_complaint_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Digital Asset Release Form
+    pages:
+    - id: 1
+      name: creator_name
+      label: Creator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Image''}'
+      - '{''id'': 2, ''label'': ''Video''}'
+      - '{''id'': 3, ''label'': ''Audio''}'
+      required: true
+    - id: 3
+      name: asset_date_of_release
+      label: Asset Date Of Release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: use_permission
+      label: Use Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Commercial Use''}'
+      - '{''id'': 2, ''label'': ''Non-Commercial Use''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: true
+    - id: 5
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: creator_signature
+      label: Creator Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_signature
+      label: Date Of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

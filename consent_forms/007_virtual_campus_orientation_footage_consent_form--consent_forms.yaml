@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Campus Orientation Footage Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''name'': ''first-name'', ''label'': ''First Name''}'
+      - '{''id'': ''2.1.1'', ''name'': ''last-name'', ''label'': ''Last Name''}'
+      - '{''id'': 2.2, ''name'': ''email'', ''label'': ''Email''}'
+      - '{''id'': ''2.2.1'', ''name'': ''email-confirmation'', ''label'': ''Email
+        Confirmation''}'
+      required: false
+    - id: 3
+      name: video_consent
+      label: Video Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 3.1, ''name'': True, ''label'': True}'
+      - '{''id'': 3.2, ''name'': False, ''label'': False}'
+      - '{''id'': 3.3, ''name'': ''declined'', ''label'': ''Declined''}'
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: upload_video
+      label: Upload Video
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Account Validation Consent Form
+    pages:
+    - id: 1
+      name: employee_consent
+      label: employee_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: 'format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_signature
+      label: date_of_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payroll_account_details
+      label: payroll_account_details
+      hint: Please provide payroll account details below
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_signature_2
+      label: date_of_signature_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: payroll_account_details_2
+      label: payroll_account_details_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_user_2
+      label: assigned_user_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

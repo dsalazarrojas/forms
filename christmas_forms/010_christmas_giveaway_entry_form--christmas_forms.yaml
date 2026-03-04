@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Giveaway Entry Form
+    pages:
+    - id: 1
+      name: entrant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will notify winners here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For winner notification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older to enter
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_entrant_info
+      label: -- Entrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: address_line1
+      label: Street Address
+      hint: Full address for prize delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 11
+      name: section_address
+      label: -- Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: prize_preference
+      label: Prize Category Preference
+      hint: Which prize interests you most
+      type: select_one
+      options:
+      - Electronics and Gadgets
+      - Home Appliances
+      - Gift Cards
+      - Travel Voucher
+      - Cash Prize
+      - Jewelry
+      - No Preference
+      required: true
+    - id: 13
+      name: entry_method
+      label: How Are You Entering
+      hint: Select your entry method
+      type: select_one
+      options:
+      - Online Form
+      - Social Media Share
+      - In-Store Visit
+      - Purchase Required
+      - Referral Bonus Entry
+      required: true
+    - id: 14
+      name: section_prize_selection
+      label: -- Prize Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: social_media_follow
+      label: Social Media Following
+      hint: Do you follow us on social media
+      type: select_one
+      options:
+      - Yes on all platforms
+      - Yes on some platforms
+      - Not yet but I will
+      - No I do not use social media
+      required: true
+    - id: 16
+      name: social_handles
+      label: Your Social Media Handles
+      hint: Share your usernames for bonus entries
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: newsletter_signup
+      label: Join Our Newsletter
+      hint: Receive updates and future promotions
+      type: select_one
+      options:
+      - Yes subscribe me
+      - No thank you
+      required: true
+    - id: 18
+      name: section_bonus_entries
+      label: -- Bonus Entries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: referral_name
+      label: Referred By
+      hint: Who told you about this giveaway
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_heard
+      label: How Did You Hear About Giveaway
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Website
+      - Friend or Family
+      - Advertisement
+      - In-Store Signage
+      - Other
+      required: true
+    - id: 21
+      name: agree_rules
+      label: Agree to Official Rules
+      hint: I have read and agree to all rules
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 22
+      name: eligibility_confirmation
+      label: Confirm Eligibility
+      hint: I confirm I meet all eligibility requirements
+      type: select_one
+      options:
+      - Yes I am eligible
+      - No I am not eligible
+      required: true
+    - id: 23
+      name: privacy_policy
+      label: Accept Privacy Policy
+      hint: I agree to the privacy policy terms
+      type: select_one
+      options:
+      - Yes I accept
+      - No I do not accept
+      required: true
+    - id: 24
+      name: publicity_consent
+      label: Publicity Consent
+      hint: Allow use of name and likeness if winner
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or messages
+      type: text
+      options: []
+      required: false

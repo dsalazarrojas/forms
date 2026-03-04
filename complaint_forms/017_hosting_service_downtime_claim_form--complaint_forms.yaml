@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hosting Service Downtime Claim Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Downtime Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Network
+      required: false
+    - id: 3
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: impact_type
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: affected_service
+      label: Affected Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: affected_location
+      label: Affected Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: impact_description
+      label: Impact Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: impact_severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Major
+      - Minor
+      required: false
+    - id: 12
+      name: incident_resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: incident_resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: incident_follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: incident_follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reviewee_comments
+      label: Reviewee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_follow_up
+      label: Reviewer Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: reviewee_follow_up
+      label: Reviewee Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: affected_users
+      label: Affected Users
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carols St Matt's Expense Claim Form
+    pages:
+    - id: 1
+      name: section_claimant_details
+      label: -- Claimant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Claimant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role_in_church
+      label: Role or Position in Church
+      hint: null
+      type: select_one
+      options:
+      - Staff
+      - Volunteer
+      - Minister
+      - Committee Member
+      - Other
+      required: true
+    - id: 5
+      name: ministry_area
+      label: Ministry Area or Department
+      hint: select the budget that should be charged
+      type: select_one
+      options:
+      - Worship
+      - Youth
+      - Children
+      - Outreach
+      - Facilities
+      - Administration
+      required: true
+    - id: 6
+      name: section_expense_summary
+      label: -- Expense Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_claim
+      label: Date of Claim
+      hint: today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_amount_claimed
+      label: Total Amount Claimed
+      hint: total of all items
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - GBP
+      - USD
+      - AUD
+      - Other
+      required: true
+    - id: 10
+      name: section_expense_details
+      label: -- Expense Details --
+      hint: list specific items below
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: expense_description
+      label: Description of Expense
+      hint: provide clear details on what was purchased
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expense_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Supplies and Materials
+      - Travel and Mileage
+      - Catering and Refreshments
+      - Printing and Stationery
+      - Equipment
+      - Event Fees
+      required: true
+    - id: 13
+      name: date_expense_incurred
+      label: Date Expense Incurred
+      hint: as shown on the receipt
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: receipt_attached
+      label: Have you attached digital receipts?
+      hint: please upload separately if required
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 15
+      name: section_travel_mileage
+      label: -- Travel and Mileage --
+      hint: complete only if claiming travel
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: travel_purpose
+      label: Purpose of Travel
+      hint: where and why
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: mileage_miles
+      label: Total Miles Traveled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: mileage_rate
+      label: Reimbursement Rate per mile
+      hint: check current church policy
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_payment_method
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reimbursement_method
+      label: Preferred Reimbursement Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Cash
+      required: true
+    - id: 21
+      name: bank_details
+      label: Bank Account Number and Sort Code
+      hint: for bank transfers only
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: claimant_declaration
+      label: I declare these expenses were incurred for church business
+      hint: and have not been previously claimed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: treasurer_approval_status
+      label: Treasurer Use Only - Approval Status
+      hint: for office use
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 25
+      name: submission_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

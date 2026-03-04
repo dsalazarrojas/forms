@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: IRB Consent Form
+    pages:
+    - id: 1
+      name: study_participants
+      label: Study Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: research_goal
+      label: Research Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: informed_consent_date
+      label: Informed Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_researcher
+      label: Medical Researcher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: study_description
+      label: Study Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: research_institution_address
+      label: Research Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_institution_phone
+      label: Research Institution Phone
+      hint: null
+      type: text
+      options: []
+      required: false

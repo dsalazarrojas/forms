@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Questionnaire AmandaV
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identification
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: occupation
+      label: Current Occupation
+      hint: Your job or profession
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employer
+      label: Employer
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: coaching_type_interest
+      label: Type of Coaching Interest
+      hint: What coaching do you want
+      type: select_one
+      options:
+      - Life Coaching
+      - Career Coaching
+      - Executive Coaching
+      - Health Coaching
+      - Relationship Coaching
+      - Business Coaching
+      - Not Sure
+      required: true
+    - id: 8
+      name: reason_for_coaching
+      label: Main Reason for Seeking Coaching
+      hint: What brings you here
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_goals
+      label: Current Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: biggest_obstacle
+      label: Biggest Obstacle Right Now
+      hint: What is holding you back
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_coaching
+      label: Previous Coaching Experience
+      hint: Have you had coaching before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: previous_experience_details
+      label: Previous Experience Details
+      hint: Describe past experience
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: what_worked_before
+      label: What Worked Well Before
+      hint: What was helpful in past coaching
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: what_did_not_work
+      label: What Did Not Work Before
+      hint: What was not helpful
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: learning_preferences
+      label: How Do You Learn Best
+      hint: Your preferred learning style
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Reading and Writing
+      - Hands-On Practice
+      - Discussion
+      - Mixed
+      required: false
+    - id: 16
+      name: communication_preference
+      label: Preferred Communication Style
+      hint: How do you prefer to communicate
+      type: select_one
+      options:
+      - Direct and Straightforward
+      - Gentle and Supportive
+      - Analytical and Detailed
+      - Big Picture Focused
+      - Balanced
+      required: true
+    - id: 17
+      name: accountability_preference
+      label: Accountability Preference
+      hint: How much accountability do you want
+      type: select_one
+      options:
+      - High Accountability
+      - Moderate Accountability
+      - Light Accountability
+      - Self-Directed
+      required: true
+    - id: 18
+      name: motivation_style
+      label: What Motivates You
+      hint: Your motivation style
+      type: select_one
+      options:
+      - Encouragement and Praise
+      - Challenges and Goals
+      - Logic and Reasoning
+      - Vision and Possibility
+      - Mixed
+      required: true
+    - id: 19
+      name: current_stress
+      label: Current Stress Level
+      hint: Rate your stress
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 20
+      name: stress_sources
+      label: Main Sources of Stress
+      hint: What causes you stress
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: support_system
+      label: Support System
+      hint: Describe your support
+      type: select_one
+      options:
+      - Strong
+      - Moderate
+      - Limited
+      - None
+      required: false
+    - id: 22
+      name: life_satisfaction
+      label: Overall Life Satisfaction
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 23
+      name: area_most_satisfied
+      label: Area You Are Most Satisfied With
+      hint: What is going well
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: area_least_satisfied
+      label: Area You Are Least Satisfied With
+      hint: What needs improvement
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: values
+      label: Your Core Values
+      hint: What values guide you
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: strengths
+      label: Your Key Strengths
+      hint: What are you good at
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: weaknesses
+      label: Areas for Development
+      hint: What do you want to improve
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: expectations
+      label: Expectations from Coaching
+      hint: What do you expect
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: commitment_level
+      label: Your Commitment Level
+      hint: How committed are you
+      type: select_one
+      options:
+      - Fully Committed
+      - Very Committed
+      - Moderately Committed
+      - Exploring Options
+      required: true
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

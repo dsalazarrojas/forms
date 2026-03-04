@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Insurance Claim Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Insurance Claim For Contact Lenses --
+      hint: Submit this form to initiate an insurance claim for contact lenses
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant name
+      hint: Full name of the claimant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Insurance policy number
+      hint: Enter your insurance policy or member number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: insurer_name
+      label: Insurer name
+      hint: Name of the insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_purchase
+      label: Date of purchase
+      hint: Date you purchased the contact lenses
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: purchase_amount
+      label: Purchase amount
+      hint: Amount paid for the lenses
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vendor_name
+      label: Vendor name
+      hint: Name of the optical retailer or clinic
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_claim
+      label: Reason for claim
+      hint: Describe why you are filing a claim
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supporting_documents_note
+      label: Attach receipts and prescriptions via email
+      hint: Send scanned receipts or prescriptions to claims email
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for claim follow up
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact email
+      hint: Email for claim correspondence
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: declaration
+      label: Declaration of accuracy
+      hint: Confirm information provided is accurate
+      type: select_one
+      options:
+      - I confirm
+      - I do not confirm
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information to support the claim
+      type: text
+      options: []
+      required: false

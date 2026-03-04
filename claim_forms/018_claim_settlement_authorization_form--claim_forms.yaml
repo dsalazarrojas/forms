@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Settlement Authorization Form
+    pages:
+    - id: 1
+      name: policyholder_name
+      label: Policyholder Full Name
+      hint: Legal name as on policy
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claim_number
+      label: Claim Number
+      hint: If already assigned
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policyholder_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policyholder_email
+      label: Email Address
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: policyholder_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_date
+      label: Date of Loss or Incident
+      hint: When did it occur
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_type
+      label: Type of Loss
+      hint: Select the type of claim
+      type: select_one
+      options:
+      - Auto Accident
+      - Property Damage
+      - Theft
+      - Fire Damage
+      - Water Damage
+      - Personal Injury
+      - Liability Claim
+      - Other
+      required: true
+    - id: 9
+      name: authorized_representative
+      label: Authorized Representative Name
+      hint: Full name of person you are authorizing
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: representative_relationship
+      label: Relationship to Policyholder
+      hint: How are they related to you
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Attorney
+      - Public Adjuster
+      - Friend
+      - Other
+      required: true
+    - id: 11
+      name: representative_company
+      label: Representative Company or Firm
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: representative_email
+      label: Representative Email
+      hint: Their contact email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: representative_phone
+      label: Representative Phone
+      hint: Their contact number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: representative_address
+      label: Representative Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: authorization_scope
+      label: Scope of Authorization
+      hint: What powers are you granting
+      type: select_multiple
+      options:
+      - Submit claim documentation
+      - Communicate with adjusters
+      - Negotiate settlement terms
+      - Sign settlement agreements
+      - Receive settlement payments
+      - Access claim records
+      - Request claim status updates
+      - All of the above
+      required: true
+    - id: 16
+      name: payment_authorization
+      label: Can Representative Receive Payments
+      hint: On your behalf
+      type: select_one
+      options:
+      - Yes, full payment authority
+      - Yes, with written confirmation
+      - No, payments to policyholder only
+      required: true
+    - id: 17
+      name: authorization_start_date
+      label: Authorization Start Date
+      hint: When does this begin
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: authorization_end_date
+      label: Authorization End Date
+      hint: When does this expire
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: revocation_terms
+      label: Do You Understand Authorization Can Be Revoked
+      hint: In writing at any time
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I have questions
+      required: true
+    - id: 20
+      name: identification_verified
+      label: Have You Provided Identification
+      hint: Copy of ID for verification
+      type: select_one
+      options:
+      - Yes, attached
+      - Will provide separately
+      - Already on file
+      required: true
+    - id: 21
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: Date witnessed
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: policyholder_signature
+      label: Policyholder Signature
+      hint: By submitting this form, I authorize the above
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Restrictions
+      hint: Any limitations on authorization
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maid Service Work Order
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule
+      label: Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_instructions
+      label: Client Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: payment_status_details
+      label: Payment Status Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms_details
+      label: Payment Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false

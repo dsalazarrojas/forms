@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitting Release Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Parental Consent and Liability Release --
+      hint: Please read and complete this form to authorize babysitting services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_full_name
+      label: Parent or Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_name_release
+      label: Child(ren) Name(s)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: babysitter_name_release
+      label: Designated Babysitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: liability_release_clause
+      label: I release the babysitter from any and all liability for accidental injury
+      hint: Except in cases of gross negligence
+      type: select_one
+      options:
+      - I agree to the release of liability
+      - Other
+      required: true
+    - id: 6
+      name: emergency_medical_treatment
+      label: I authorize emergency medical treatment for my child
+      hint: If I cannot be reached immediately
+      type: select_one
+      options:
+      - I authorize treatment
+      - Other
+      required: true
+    - id: 7
+      name: authorized_pickup_persons
+      label: Persons Authorized to Pick Up Child (Other than Parents)
+      hint: List names and phone numbers
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_release_permission
+      label: Permission to take photos of the child for parents
+      hint: Sitter may send photos to parents during the session
+      type: select_one
+      options:
+      - Yes, permission granted
+      - No, do not take photos
+      required: true
+    - id: 9
+      name: specific_prohibitions
+      label: Specific Prohibited Activities
+      hint: e.g., No swimming, No driving child
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_contact_during_release
+      label: Emergency Contact Number for this Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: digital_acknowledgment
+      label: I acknowledge that this digital form serves as my signature
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Experience Innovation Forum Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: session_interests
+      label: session interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_requirements
+      label: special requirements
+      hint: null
+      type: text
+      options: []
+      required: false

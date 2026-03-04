@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Claim Form
+    pages:
+    - id: 1
+      name: expense_claim_form
+      label: expense_claim_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_details
+      label: claim_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: claim_time
+      label: claim_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: claim_location
+      label: claim_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claim_currency
+      label: claim_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 8
+      name: claim_note
+      label: claim_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: claim_email
+      label: claim_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: claim_phone
+      label: claim_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 13
+      name: claim_type
+      label: claim_type
+      hint: null
+      type: select_one
+      options:
+      - Claim Forms
+      - Expense Tracking Forms
+      - Accountant Forms
+      required: true
+    - id: 14
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Claim Forms
+      - Expense Tracking Forms
+      - Accountant Forms
+      required: true
+    - id: 15
+      name: claim_forms
+      label: claim_forms
+      hint: null
+      type: select_multiple
+      options:
+      - Claim Forms
+      - Expense Tracking Forms
+      - Accountant Forms
+      required: true
+    - id: 16
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_multiple
+      options:
+      - Claim Forms
+      - Expense Tracking Forms
+      - Accountant Forms
+      required: true
+    - id: 19
+      name: form_output_file
+      label: form_output_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: claim_ids
+      label: claim_ids
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: form_assigned_tool
+      label: form_assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 23
+      name: form_note
+      label: form_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_date
+      label: form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: form_time
+      label: form_time
+      hint: null
+      type: time
+      options: []
+      required: false

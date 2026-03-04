@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: noise_complaint_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Noise Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complainant_name
+      label: Complainant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: 'format: email'
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: 'format: phone'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: noise_type
+      label: Type of Noise
+      hint: null
+      type: select_one
+      options:
+      - Vehicle traffic and construction
+      - Music and noise
+      - Animal
+      - Other
+      required: false
+    - id: 8
+      name: noise_location
+      label: Location of Noise
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - School
+      - Park
+      - Street
+      - Other
+      required: false
+    - id: 9
+      name: noise_frequency
+      label: Frequency of Noise
+      hint: null
+      type: select_multiple
+      options:
+      - Day
+      - Night
+      - Weekend
+      - Weekday
+      required: false
+    - id: 10
+      name: noise_level
+      label: Level of Noise
+      hint: 'format: integer'
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: 'format: date'
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: 'format: time'
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

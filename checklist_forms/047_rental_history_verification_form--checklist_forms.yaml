@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental History Verification Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: employment_info
+      label: Employment Information
+      hint: Check if applicant is employed
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: false
+    - id: 4
+      name: rental_info_1
+      label: Rental Info 1
+      hint: null
+      type: select_one
+      options:
+      - 12 months
+      - 24 months
+      - 36 months
+      required: false
+    - id: 5
+      name: rental_info_2
+      label: Rental Info 2
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 2 months
+      required: false
+    - id: 6
+      name: property_details
+      label: Property Details
+      hint: Check if applicant owns property
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: select_one
+      options:
+      - Month-to-Month
+      - 6 Months
+      - 12 Months
+      required: false
+    - id: 9
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: landlord_info
+      label: Landlord Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tenant_info
+      label: Tenant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: move_in_date
+      label: Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: move_out_date
+      label: Move-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: rental_amount
+      label: Rental Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: rental_address
+      label: Rental Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: utilities
+      label: Utilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: lease_start_date_1
+      label: Lease Start Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: lease_end_date_1
+      label: Lease End Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: landlord_info_1
+      label: Landlord Info 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tenant_info_1
+      label: Tenant Info 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: move_in_date_1
+      label: Move-in Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: move_out_date_1
+      label: Move-out Date 1
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: crisis_hotline_participation_consent_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: consent_to_record
+      label: consent_to_record
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consent_to_share
+      label: consent_to_share
+      hint: null
+      type: select_multiple
+      options:
+      - With Crisis Hotline staff
+      - With emergency services providers
+      - With other organizations
+      required: false
+    - id: 6
+      name: notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

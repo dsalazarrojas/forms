@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Certificate Form
+    pages:
+    - id: 1
+      name: life_certificate_form
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: person_info
+      label: Person Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: person_contribution
+      label: Person Contributed To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jack
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cause_of_death
+      label: Cause of Death
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: place_of_death
+      label: Place of Death
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter_role
+      label: Form Submitter Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitter_contact
+      label: Form Submitter Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: life_certificate_number
+      label: Life Certificate Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: certificate_type
+      label: Certificate Type
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 14
+      name: certificate_date
+      label: Certificate Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: certificate_status
+      label: Certificate Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 16
+      name: form_submitter_signature
+      label: Form Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: declaration
+      label: Declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: declaration_status
+      label: Declaration Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 21
+      name: form_submitter_declaration
+      label: Form Submitter Declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: form_submitter_date
+      label: Form Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_submitter_declaration_status
+      label: Form Submitter Declaration Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 24
+      name: form_submitter_comments
+      label: Form Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_submitter_name
+      label: Form Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false

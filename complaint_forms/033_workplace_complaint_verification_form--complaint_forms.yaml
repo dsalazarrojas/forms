@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Complaint Verification Form
+    pages:
+    - id: 1
+      name: report_issue
+      label: Report Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: reportee
+      label: Reportee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: witness
+      label: Witness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: complaint_details
+      label: Complaint Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: complaint_category
+      label: Complaint Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: reportee_contact
+      label: Reportee Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: complaint_details_1
+      label: Additional Complaint Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: complaint_details_2
+      label: Additional Complaint Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: complaint_details_3
+      label: Additional Complaint Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: complaint_details_4
+      label: Additional Complaint Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: complaint_details_5
+      label: Additional Complaint Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: note
+      options: []
+      required: false

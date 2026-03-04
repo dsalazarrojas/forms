@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Design Records Release Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Individual or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Name or description of the project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_address
+      label: Project Address or Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_period
+      label: Project Period
+      hint: When was the project completed?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: architect_firm_name
+      label: Architect or Design Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_release_scope
+      label: -- Release Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: records_to_release
+      label: Records to be Released
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Design drawings
+      - Specifications
+      - Construction documents
+      - Renderings
+      - 3D models
+      - Reports
+      - Meeting notes
+      - Cost estimates
+      required: true
+    - id: 12
+      name: release_purpose
+      label: Purpose of Release
+      hint: How will these records be used?
+      type: select_one
+      options:
+      - Internal use only
+      - Sharing with contractors
+      - Sharing with consultants
+      - Public display or portfolio
+      - Academic or research purposes
+      - Other
+      required: true
+    - id: 13
+      name: other_purpose
+      label: Other Purpose (if applicable)
+      hint: Describe other intended use
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_recipients
+      label: -- Release Recipients --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: recipient_names
+      label: Recipient Names or Organizations
+      hint: Who will receive the records?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recipient_relationship
+      label: Relationship of Recipients to Project
+      hint: null
+      type: select_one
+      options:
+      - Construction contractor
+      - Building department
+      - Consultants
+      - Marketing or promotional use
+      - Educational institution
+      - Other
+      required: false
+    - id: 17
+      name: section_confidentiality
+      label: -- Confidentiality Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: confidentiality_agreement
+      label: Records contain confidential information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: nda_required
+      label: Non-disclosure agreement required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: release_date
+      label: Date of Release Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: authorized_signatory
+      label: Authorized Signatory Name
+      hint: Person authorizing the release
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: authorized_title
+      label: Title of Authorized Signatory
+      hint: null
+      type: text
+      options: []
+      required: false

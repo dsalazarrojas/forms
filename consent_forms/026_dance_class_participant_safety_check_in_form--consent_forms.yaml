@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: dance_class_participant_safety_check_in_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_phone_number
+      label: participant_phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email_address
+      label: participant_email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor_license_number
+      label: instructor_license_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: instructor_phone_number
+      label: instructor_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_has_medical_condition
+      label: participant_has_medical_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 8
+      name: participant_has_medical_device
+      label: participant_has_medical_device
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 9
+      name: participant_is_pregnant
+      label: participant_is_pregnant
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true

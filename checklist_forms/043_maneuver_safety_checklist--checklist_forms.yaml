@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maneuver Safety Checklist
+    pages:
+    - id: 1
+      name: vehicle_check
+      label: is the vehicle in good condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: seatbelts
+      label: seatbelts
+      hint: null
+      type: select_multiple
+      options:
+      - Front seatbelts
+      - Rear seatbelts
+      - No seatbelts
+      required: false
+    - id: 3
+      name: hazard_alerts
+      label: Hazard Alerts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_for_hazards
+      label: Check for Hazards
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maneuver_control
+      label: maneuver control
+      hint: null
+      type: select_one
+      options:
+      - Steering Wheel
+      - Brake Pedal
+      - Accelerator
+      required: false
+    - id: 6
+      name: check_safety_systems
+      label: check safety systems
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_precedence
+      label: Vehicle Precedence
+      hint: null
+      type: select_one
+      options:
+      - Left
+      - Right
+      - None
+      required: false
+    - id: 8
+      name: check_signals
+      label: check signals
+      hint: null
+      type: select_multiple
+      options:
+      - Right turn signal
+      - Left turn signal
+      - No turn signal
+      required: false
+    - id: 9
+      name: check_signals2
+      label: check signals2
+      hint: null
+      type: select_multiple
+      options:
+      - right signal
+      - left signal
+      - no signal
+      required: false
+    - id: 10
+      name: check_speed
+      label: check speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: check_speed2
+      label: check speed2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: check_engine
+      label: check engine
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Not running
+      required: false
+    - id: 13
+      name: check_engine2
+      label: check engine2
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Not running
+      required: false
+    - id: 14
+      name: check_engine3
+      label: check engine3
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Not running
+      required: false
+    - id: 15
+      name: maneuver_safety_checklist
+      label: Maneuver Safety Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: category_1
+      label: Category 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: category_2
+      label: Category 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: category_3
+      label: Category 3
+      hint: null
+      type: text
+      options: []
+      required: false

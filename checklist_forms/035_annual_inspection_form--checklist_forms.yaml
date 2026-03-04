@@ -1,0 +1,359 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Inspection Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Full Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Inspection company or department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspection_year
+      label: Inspection Year
+      hint: Which year is this for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 7
+      name: inspection_type
+      label: Inspection Type
+      hint: What is being inspected?
+      type: select_one
+      options:
+      - Building
+      - Vehicle
+      - Equipment
+      - Facility
+      - Property
+      - Other
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Location being inspected
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_owner
+      label: Property Owner
+      hint: Owner name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Institutional
+      - Mixed Use
+      - Other
+      required: true
+    - id: 11
+      name: building_age
+      label: Building Age
+      hint: Approximate age
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: square_footage
+      label: Square Footage
+      hint: Total area
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: foundation_condition
+      label: Foundation Condition
+      hint: Rate foundation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Visible
+      required: true
+    - id: 14
+      name: foundation_notes
+      label: Foundation Notes
+      hint: Any issues observed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: roof_condition
+      label: Roof Condition
+      hint: Rate roof
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Accessible
+      required: true
+    - id: 16
+      name: roof_notes
+      label: Roof Notes
+      hint: Any issues observed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: electrical_system
+      label: Electrical System
+      hint: Rate electrical
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Inspected
+      required: true
+    - id: 18
+      name: electrical_notes
+      label: Electrical Notes
+      hint: Any issues observed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: plumbing_system
+      label: Plumbing System
+      hint: Rate plumbing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Inspected
+      required: true
+    - id: 20
+      name: plumbing_notes
+      label: Plumbing Notes
+      hint: Any issues observed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hvac_system
+      label: HVAC System
+      hint: Rate heating and cooling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Inspected
+      required: true
+    - id: 22
+      name: hvac_notes
+      label: HVAC Notes
+      hint: Any issues observed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fire_safety
+      label: Fire Safety
+      hint: Rate fire safety
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: true
+    - id: 24
+      name: fire_safety_notes
+      label: Fire Safety Notes
+      hint: Any issues observed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: structural_integrity
+      label: Structural Integrity
+      hint: Rate structure
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Inspected
+      required: true
+    - id: 26
+      name: structural_notes
+      label: Structural Notes
+      hint: Any issues observed
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: accessibility_compliance
+      label: Accessibility Compliance
+      hint: ADA or local compliance
+      type: select_one
+      options:
+      - Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Not Applicable
+      required: false
+    - id: 28
+      name: accessibility_notes
+      label: Accessibility Notes
+      hint: Any issues observed
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: code_violations
+      label: Code Violations
+      hint: Any violations found?
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Major
+      - Critical
+      required: true
+    - id: 30
+      name: violation_details
+      label: Violation Details
+      hint: Describe violations
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: safety_hazards
+      label: Safety Hazards
+      hint: Any hazards found?
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Severe
+      required: true
+    - id: 32
+      name: hazard_details
+      label: Hazard Details
+      hint: Describe hazards
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: overall_condition
+      label: Overall Condition
+      hint: Rate overall
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 34
+      name: inspection_result
+      label: Inspection Result
+      hint: Pass or fail?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Conditional Pass
+      required: true
+    - id: 35
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: What needs to be done?
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: action_deadline
+      label: Action Deadline
+      hint: When must actions be completed?
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: reinspection_required
+      label: Reinspection Required
+      hint: Is follow-up needed?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending Review
+      required: true
+    - id: 38
+      name: reinspection_date
+      label: Reinspection Date
+      hint: Scheduled follow-up date
+      type: date
+      options: []
+      required: false
+    - id: 39
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

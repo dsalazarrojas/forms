@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Visit Safety Checklist
+    pages:
+    - id: 1
+      name: safety_issues
+      label: Check the area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: electrical_hazards
+      label: Electrical Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: tripping_hazards
+      label: Tripping Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: fire_hazards
+      label: Fire Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: sharp_objects
+      label: Sharp Objects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: water_hazards
+      label: Water Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: medical_hazards
+      label: Medical Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: structural_hazards
+      label: Structural Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: other_hazards
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: home_visit_safety_solutions
+      label: Solutions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: follow_up_actions
+      label: Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: home_visit_safety_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: safety_inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: safety_inspector_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: safety_inspector_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: safety_inspector_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: safety_notes
+      label: Notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: safety_review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: follow_up_review_notes
+      label: Follow up review notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_review_status
+      label: Follow up Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: home_visit_safety_reviewed
+      label: Safety Reviewed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: home_visit_safety_reviewed_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: home_visit_safety_reviewed_date
+      label: Reviewed date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: home_visit_safety_reviewed_time
+      label: Reviewed time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: home_visit_safety_reviewed_by_name
+      label: Reviewed by name
+      hint: null
+      type: text
+      options: []
+      required: true

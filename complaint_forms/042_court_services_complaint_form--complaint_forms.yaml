@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: court_services_complaint_form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: Court Services Complaint
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Dispute
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Behavior Complaint Form
+    pages:
+    - id: 1
+      name: teacher_behavior_complaint
+      label: teacher_behavior_complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_complaint
+      label: reason_for_complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description_of_incident
+      label: description_of_incident
+      hint: Please provide a detailed description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_incident
+      label: date_of_incident
+      hint: Date of incident (mm/dd/yyyy)
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_incident
+      label: time_of_incident
+      hint: "Time of incident (12:00 hour format)"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

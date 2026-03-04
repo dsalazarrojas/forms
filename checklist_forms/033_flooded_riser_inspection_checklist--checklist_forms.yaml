@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flooded Riser Inspection Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location_id
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description_completed
+      label: description_completed
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: riser_location
+      label: riser_location
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photos_taken
+      label: photos_taken
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: completed
+      label: completed
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

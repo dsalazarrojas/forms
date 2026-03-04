@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Managed Mobility Program Employee Onboarding Checklist
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: device_handoff
+      label: Device Handoff
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_one
+      options:
+      - Mobility Service 1
+      - Mobility Service 2
+      - Mobility Service 3
+      required: false
+    - id: 4
+      name: mobility_services
+      label: Mobility Services
+      hint: null
+      type: select_one
+      options:
+      - Mobility Service 1
+      - Mobility Service 2
+      - Mobility Service 3
+      required: false
+    - id: 5
+      name: date_of_handoff
+      label: Date Of Handoff
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_handoff
+      label: Time Of Handoff
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: requestor
+      label: Requestor
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: device_handoff_status
+      label: Device Handoff Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Done
+      - N/A
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: true

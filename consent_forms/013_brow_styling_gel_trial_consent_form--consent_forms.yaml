@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Styling Gel Trial Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: trial_date
+      label: Gel Trial Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: brow_type
+      label: Current Brow Type
+      hint: null
+      type: select_one
+      options:
+      - Natural Brows
+      - Microbladed
+      - Tattooed
+      - Laminated
+      - Other
+      required: true
+    - id: 7
+      name: gel_experience
+      label: Have you used brow styling gel before
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, first time
+      required: true
+    - id: 8
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 9
+      name: allergies
+      label: Known product allergies
+      hint: Include specific ingredients
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sensitivities
+      label: Skin sensitivities or conditions
+      hint: Rash, eczema, rosacea, etc
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_products
+      label: Current brow products used
+      hint: List brands or types
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: Any medications affecting skin sensitivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recent_treatments
+      label: Recent facial treatments
+      hint: Last 2 weeks
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pregnancy
+      label: Are you pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, nursing
+      - false
+      required: true
+    - id: 15
+      name: expectations
+      label: Your expectations for this trial
+      hint: What are you hoping to achieve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risks_understood
+      label: Risks and benefits have been explained
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - I have questions
+      required: true
+    - id: 17
+      name: trial_consent
+      label: I consent to participate in this gel trial
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

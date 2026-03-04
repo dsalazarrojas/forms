@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CPR Chest Compression Feedback Device Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: device_id
+      label: Device ID or Serial Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: device_type
+      label: Device Type
+      hint: Model and manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Device Location
+      hint: Where device is stored or used
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_inspection
+      label: Date of Last Inspection
+      hint: Previous inspection date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: physical_condition
+      label: Physical Condition
+      hint: Check for cracks or damage
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 8
+      name: display_functional
+      label: Display Screen Functional
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partially
+      required: true
+    - id: 9
+      name: buttons_working
+      label: All Buttons and Controls Working
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: battery_status
+      label: Battery Status
+      hint: Battery life and charging capability
+      type: select_one
+      options:
+      - Excellent - full charge
+      - Good - adequate charge
+      - Fair - low charge
+      - Poor - needs replacement
+      required: true
+    - id: 11
+      name: battery_replacement_needed
+      label: Battery Replacement Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 12
+      name: sensor_calibration
+      label: Sensor Calibration Status
+      hint: null
+      type: select_one
+      options:
+      - In calibration
+      - Out of calibration
+      - Unknown
+      required: true
+    - id: 13
+      name: sensor_accuracy
+      label: Sensor Accuracy Check
+      hint: Verified with test compressions
+      type: select_one
+      options:
+      - Accurate
+      - Minor discrepancy
+      - Major discrepancy
+      - Not tested
+      required: false
+    - id: 14
+      name: cable_connections
+      label: Cable Connections Secure
+      hint: All cables properly connected
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 15
+      name: audio_function
+      label: Audio Feedback Function
+      hint: Sounds and alarms working
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partially
+      required: true
+    - id: 16
+      name: software_updated
+      label: Software Updated to Latest Version
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Unknown
+      required: false
+    - id: 17
+      name: cleaning_status
+      label: Device Cleaned and Sanitized
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 18
+      name: approval_status
+      label: Inspection Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved - ready to use
+      - Approved with caution
+      - Conditional - needs repair
+      - Not approved - remove from service
+      required: true
+    - id: 19
+      name: maintenance_needed
+      label: Maintenance or Repairs Needed
+      hint: Describe any issues found
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_inspection_date
+      label: Scheduled Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true

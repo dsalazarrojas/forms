@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: workers_compensation_audit_information_checklist
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_year
+      label: policy_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: audit_details
+      label: Audit Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      required: false
+    - id: 5
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location_of_incident
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_job_title
+      label: Employee Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_id_number
+      label: Employee ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_address
+      label: Supervisor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: adjuster_name
+      label: Adjuster Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: adjuster_address
+      label: Adjuster Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Open
+      - Closed
+      required: false
+    - id: 18
+      name: date_of_closure
+      label: Date of Closure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_closure
+      label: Reason for Closure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grooming Salon Inspection Form
+    pages:
+    - id: 1
+      name: service_quality_checklist_1
+      label: service_quality_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: cleanliness_checklist_1
+      label: cleanliness_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: facility_checklist_1
+      label: facility_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: staff_attitude_checklist_1
+      label: staff_attitude_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pet_experience
+      label: pet_experience
+      hint: Please answer on a scale 1-5 (1=low, 2=average, 3=high, 4=good, 5=excellent)
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication_quality_checklist_1
+      label: communication_quality_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: price_checklist_1
+      label: price_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: equipment_checklist_1
+      label: equipment_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: safety_checklist_1
+      label: safety_checklist_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

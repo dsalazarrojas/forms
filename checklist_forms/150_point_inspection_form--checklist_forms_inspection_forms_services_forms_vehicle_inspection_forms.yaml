@@ -1,0 +1,241 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 150 Point Vehicle Inspection Report
+    pages:
+    - id: 1
+      name: section_header_details
+      label: '--- Inspection & Vehicle Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector's Name
+      hint: Full name of the inspecting technician
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client/Owner Name
+      hint: Name of the vehicle owner or client requesting the inspection
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vin_number
+      label: Vehicle Identification Number (VIN)
+      hint: Enter the 17-character VIN for the inspected vehicle
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: e.g., Toyota Camry, Ford F-150, BMW X5
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_mileage
+      label: Current Odometer Reading (miles/km)
+      hint: Enter current mileage/kilometer reading at the time of inspection
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: section_header_exterior
+      label: '--- Exterior & Structural Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: body_frame_condition
+      label: Body/Frame Condition
+      hint: Assess for dents, scratches, rust, and structural integrity
+      type: select_one
+      options:
+      - Excellent (no visible damage)
+      - Good (minor cosmetic flaws)
+      - Minor Dents/Scratches (light damage)
+      - Significant Damage (multiple panels, major dents)
+      - Frame Damage Identified (structural concerns)
+      required: true
+    - id: 10
+      name: tire_brake_condition
+      label: Tires & Brake System Condition
+      hint: Overall assessment of tire wear (tread depth, age), brake pads/rotors,
+        and fluid levels
+      type: select_one
+      options:
+      - Excellent (new/like new)
+      - Good (wear present, ample life)
+      - Fair (wear noticeable, nearing replacement)
+      - Poor - Requires Immediate Attention
+      required: true
+    - id: 11
+      name: exterior_structure_notes
+      label: Exterior/Structural Observations
+      hint: Detail any specific body damage, rust, or frame concerns found
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_interior
+      label: '--- Interior & Electrical Systems ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: interior_cabin_condition
+      label: Interior Cabin Condition
+      hint: Assess upholstery, carpets, headliner, and overall cleanliness
+      type: select_one
+      options:
+      - Excellent (like new)
+      - Good (minor wear)
+      - Fair (visible wear/stains)
+      - Poor (significant wear, damage, odors)
+      required: true
+    - id: 14
+      name: electrical_systems_check
+      label: Electrical Systems & Features Functionality
+      hint: Check all interior/exterior lights, dashboard functions, power windows,
+        locks, infotainment, and HVAC
+      type: select_one
+      options:
+      - All functional (no issues)
+      - Minor issues (e.g., one light out, minor button wear)
+      - Major non-functional items (e.g., A/C, power window)
+      - Significant electrical faults (e.g., multiple warning lights, system failures)
+      required: true
+    - id: 15
+      name: interior_electrical_notes
+      label: Interior/Electrical Observations
+      hint: Detail any non-functional features, warning lights, or abnormal wear/damage
+        inside the cabin
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_mechanical
+      label: '--- Under Hood & Drivetrain ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: engine_fluid_condition
+      label: Engine & Fluid Integrity
+      hint: Assessment of engine leaks, belt/hose condition, and critical fluid levels
+        (oil, coolant, power steering)
+      type: select_one
+      options:
+      - Excellent (clean, no leaks)
+      - Minor seepage/wear (minor oil residue, slight belt wear)
+      - Moderate leaks/wear (visible drips, worn belts/hoses)
+      - Major issues/leaks (significant fluid loss, critical wear)
+      required: true
+    - id: 18
+      name: transmission_drivetrain_check
+      label: Transmission & Drivetrain Condition
+      hint: Evaluate for leaks, abnormal noises, smooth operation (clutch, axles,
+        driveshaft, transfer case)
+      type: select_one
+      options:
+      - Excellent (no issues)
+      - Minor concerns (slight noise, minor seepage)
+      - Moderate issues (delayed shifts, noticeable leaks, vibration)
+      - Major faults (slipping, grinding, heavy leaks)
+      required: true
+    - id: 19
+      name: mechanical_drivetrain_notes
+      label: Mechanical/Drivetrain Observations
+      hint: Detail any engine noises, transmission issues, suspension concerns, or
+        exhaust system damage
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_summary
+      label: '--- Overall Assessment & Action ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: overall_vehicle_safety_rating
+      label: Overall Vehicle Safety Rating
+      hint: Comprehensive rating of the vehicle's safety for road use
+      type: select_one
+      options:
+      - Safe (no immediate concerns)
+      - Minor safety concerns (requires attention soon)
+      - Major safety concerns (requires immediate repair)
+      - Unsafe to Drive (not roadworthy)
+      required: true
+    - id: 22
+      name: estimated_repair_points_out_of_150
+      label: Estimated Points Requiring Attention (out of 150)
+      hint: Based on a 150-point checklist, how many areas or points need corrective
+        action?
+      type: integer
+      options: []
+      required: true
+    - id: 23
+      name: critical_action_items
+      label: Critical Action Items Identified (select all applicable)
+      hint: Select the major systems or areas requiring significant repair or service
+      type: select_multiple
+      options:
+      - Engine Repair/Service
+      - Transmission Repair/Service
+      - Brake System Overhaul
+      - Steering/Suspension Repair
+      - Electrical System Diagnosis
+      - Tire Replacement
+      - Body/Frame Repair
+      - Other Major Mechanical
+      required: false
+    - id: 24
+      name: summary_recommendations
+      label: Summary of Findings & Recommendations
+      hint: Provide a concise summary of the vehicle's condition, highlighting key
+        issues and suggested actions for the client.
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: inspector_additional_comments
+      label: Inspector's Additional Comments
+      hint: Any other relevant details, specific advice for the client, or unique
+        observations
+      type: text
+      options: []
+      required: false

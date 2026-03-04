@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent For Embryo Transfer
+    pages:
+    - id: 1
+      name: section_patient_ident
+      label: -- Patient Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: partner_name
+      label: Partner Full Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number (MRN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_procedure_details
+      label: -- Procedure Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: number_of_embryos
+      label: Agreed Number of Embryos to Transfer
+      hint: As discussed with your physician
+      type: select_one
+      options:
+      - 1 (Single Embryo Transfer)
+      - 2
+      - Other (as per clinical recommendation)
+      required: true
+    - id: 8
+      name: embryo_source
+      label: Embryo Source
+      hint: null
+      type: select_one
+      options:
+      - Fresh Embryos
+      - Frozen Embryos (FET)
+      - Donor Embryos
+      required: true
+    - id: 9
+      name: risk_acknowledgment
+      label: I acknowledge and understand the risks of multiple pregnancy
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 10
+      name: procedure_risk_understanding
+      label: I understand the risks associated with the transfer procedure
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 11
+      name: section_disposition
+      label: -- Excess Embryos Disposition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: excess_embryo_plan
+      label: Plan for non-transferred viable embryos
+      hint: null
+      type: select_one
+      options:
+      - Cryopreservation (Freezing)
+      - Donation for research
+      - Donation to another couple
+      - Disposal/Discard
+      required: true
+    - id: 13
+      name: section_legal
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: final_consent_to_transfer
+      label: I hereby consent to the embryo transfer procedure
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 15
+      name: patient_signature
+      label: Patient Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: consent_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: physician_witness_name
+      label: Physician/Witness Name
+      hint: null
+      type: text
+      options: []
+      required: true

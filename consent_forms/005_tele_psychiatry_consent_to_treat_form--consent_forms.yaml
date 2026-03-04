@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: tele-psychiatry-consent-to-treat-form
+    pages:
+    - id: 1
+      name: consent_form_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_identification_number
+      label: Patient ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: treatment_goals
+      label: What are the patient\'s treatment goals?
+      hint: null
+      type: select_one
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      - Goal 4
+      required: true
+    - id: 5
+      name: treatment_duration
+      label: What is the expected duration of the treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 4 weeks
+      required: true
+    - id: 6
+      name: communication_plan
+      label: How would you like to communicate with your patient?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: true
+    - id: 7
+      name: emergency_contacts
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_conditions
+      label: Do you have any medical conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Heart condition
+      - Diabetes
+      - High blood pressure
+      required: false
+    - id: 9
+      name: medication_information
+      label: Information about medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_form_submitted
+      label: Contact Form Submitted?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: telepsychiatry_session
+      label: Telepsychiatry Session Information
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: patient_availability
+      label: When will you be available for sessions?
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Flexible
+      required: true
+    - id: 15
+      name: language_choices
+      label: Would you like to communicate in a language other than English?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: preferred_culture
+      label: Preferred Culture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: language_choices_other
+      label: If yes, what language would you like to communicate in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: therapist_preferred_communication_methods
+      label: How would you like the therapist to contact you?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      required: true
+    - id: 19
+      name: patient_understanding_of_informed_consent
+      label: Do you have an understanding of the informed consent document?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: informed_consent_signature
+      label: Informed Consent Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: patient_understanding_of_treatment_terms
+      label: Do you have an understanding of the treatment terms and conditions?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: patient_understanding_of_benefits_and_risks
+      label: Do you have an understanding of the benefits and risks of treatment?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: informed_consent_printed_version_signature
+      label: Informed Consent Printed Version Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: telepsychiatry_contract_signature
+      label: Telepsychiatry Contract Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false

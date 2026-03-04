@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Color Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Blonde
+      - Brown
+      - Gray
+      - Red
+      - Black
+      required: true
+    - id: 8
+      name: treatment_details
+      label: Treatment Details
+      hint: Please describe the treatment you are seeking.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relation
+      label: Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent
+      label: Consent
+      hint: Please sign below to confirm that you have read and understood this document.
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: doctor_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: doctor_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: clinic_name
+      label: Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: clinic_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: clinic_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: clinic_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

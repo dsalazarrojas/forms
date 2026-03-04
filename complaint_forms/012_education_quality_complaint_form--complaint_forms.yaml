@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Quality Complaint Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Dissatisfied with the quality of service
+      - Problem with staff
+      - Other issues
+      required: false
+    - id: 4
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: submit_date_time
+      label: Submit Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

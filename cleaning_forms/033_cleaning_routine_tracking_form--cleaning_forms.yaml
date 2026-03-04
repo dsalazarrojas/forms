@@ -1,0 +1,379 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Routine Tracking Form
+    pages:
+      - id: 1
+        name: facility_name
+        label: Facility Name
+        hint: Name of the facility or building
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: facility_address
+        label: Facility Address
+        hint: Full address
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: tracking_period_start
+        label: Tracking Period Start Date
+        hint: Start date for this tracking period
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: tracking_period_end
+        label: Tracking Period End Date
+        hint: End date for this tracking period
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: supervisor_name
+        label: Supervisor Name
+        hint: Name of the supervising staff member
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_header_daily
+        label: -- Daily Cleaning Tasks --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: daily_floor_cleaning
+        label: Daily - Floor Cleaning (Sweep or Vacuum)
+        hint: Mark completion for each day
+        type: select_one
+        options:
+          - Completed All Days
+          - Completed Most Days
+          - Completed Some Days
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 8
+        name: daily_floor_mopping
+        label: Daily - Floor Mopping
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed All Days
+          - Completed Most Days
+          - Completed Some Days
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 9
+        name: daily_dusting
+        label: Daily - Dusting Surfaces
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed All Days
+          - Completed Most Days
+          - Completed Some Days
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 10
+        name: daily_trash_removal
+        label: Daily - Trash Removal
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed All Days
+          - Completed Most Days
+          - Completed Some Days
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 11
+        name: daily_restroom_cleaning
+        label: Daily - Restroom Cleaning
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed All Days
+          - Completed Most Days
+          - Completed Some Days
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 12
+        name: daily_kitchen_breakroom
+        label: Daily - Kitchen or Break Room Cleaning
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed All Days
+          - Completed Most Days
+          - Completed Some Days
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 13
+        name: section_header_weekly
+        label: -- Weekly Cleaning Tasks --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: weekly_window_cleaning
+        label: Weekly - Interior Window Cleaning
+        hint: Mark completion for the week
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 15
+        name: weekly_baseboard_cleaning
+        label: Weekly - Baseboard Cleaning
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 16
+        name: weekly_appliance_cleaning
+        label: Weekly - Appliance Cleaning
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 17
+        name: weekly_furniture_dusting
+        label: Weekly - Detailed Furniture Dusting
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 18
+        name: weekly_light_fixtures
+        label: Weekly - Light Fixture Cleaning
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 19
+        name: weekly_disinfection
+        label: Weekly - Deep Disinfection
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 20
+        name: section_header_monthly
+        label: -- Monthly Cleaning Tasks --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: monthly_carpet_cleaning
+        label: Monthly - Carpet Deep Cleaning
+        hint: Mark completion for the month
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 22
+        name: monthly_floor_stripping
+        label: Monthly - Floor Stripping and Waxing
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 23
+        name: monthly_wall_washing
+        label: Monthly - Wall Washing
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 24
+        name: monthly_vent_cleaning
+        label: Monthly - Air Vent Cleaning
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 25
+        name: monthly_upholstery_cleaning
+        label: Monthly - Upholstery Cleaning
+        hint: Mark completion
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 26
+        name: section_header_supplies
+        label: -- Supply Inventory --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: supplies_stocked
+        label: Cleaning Supplies Stock Level
+        hint: Current supply inventory status
+        type: select_one
+        options:
+          - Fully Stocked
+          - Adequate Supply
+          - Running Low
+          - Need Reorder
+          - Critical - Out of Stock
+        required: true
+      - id: 28
+        name: supplies_ordered
+        label: Supplies Ordered This Period
+        hint: List any supplies ordered
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: equipment_condition
+        label: Cleaning Equipment Condition
+        hint: Overall condition of equipment
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor issues
+          - Fair - Some repairs needed
+          - Poor - Multiple issues
+        required: true
+      - id: 30
+        name: equipment_maintenance_needed
+        label: Equipment Maintenance Needed
+        hint: List any maintenance required
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: section_header_issues
+        label: -- Issues and Notes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: issues_encountered
+        label: Issues Encountered During Period
+        hint: List any problems or challenges
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: areas_needing_attention
+        label: Areas Needing Additional Attention
+        hint: Which areas need more focus
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: staff_notes
+        label: Staff Notes or Comments
+        hint: Any notes from cleaning staff
+        type: text
+        options: []
+        required: false
+      - id: 35
+        name: compliance_status
+        label: Overall Compliance Status
+        hint: Does cleaning meet required standards
+        type: select_one
+        options:
+          - Fully Compliant - All standards met
+          - Mostly Compliant - Minor issues
+          - Partially Compliant - Several issues
+          - Non-Compliant - Significant issues
+        required: true
+      - id: 36
+        name: corrective_actions
+        label: Corrective Actions Taken or Planned
+        hint: What actions were or will be taken
+        type: text
+        options: []
+        required: false
+      - id: 37
+        name: supervisor_review
+        label: Supervisor Review Status
+        hint: Has supervisor reviewed this tracking
+        type: select_one
+        options:
+          - Reviewed and Approved
+          - Reviewed with Comments
+          - Pending Review
+        required: true
+      - id: 38
+        name: supervisor_signature
+        label: Supervisor Signature (Type Full Name)
+        hint: Supervisor electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 39
+        name: review_date
+        label: Review Date
+        hint: Date of supervisor review
+        type: date
+        options: []
+        required: true

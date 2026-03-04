@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Release Tracking Consent Form
+    pages:
+    - id: 1
+      name: tracking_device_id
+      label: Tracking Device ID or Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_identifier
+      label: Animal Name or Unique ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: species_classification
+      label: Species Classification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: release_location_desc
+      label: Release Location Description
+      hint: GPS coordinates or landmark description
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tracking_duration_target
+      label: Intended Duration of Tracking
+      hint: e.g. 6 months, 1 year
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: data_sharing_consent_level
+      label: Data Sharing Consent Level
+      hint: null
+      type: select_one
+      options:
+      - Full - Share data with research partners
+      - Restricted - Use only for internal tracking
+      - Private - No data sharing allowed
+      required: true
+    - id: 7
+      name: device_recovery_auth
+      label: Responsibility for Device Recovery
+      hint: Who is authorized to retrieve the device if possible?
+      type: select_one
+      options:
+      - I agree to personally recover the device
+      - I authorize the tracking team to recover
+      - Recovery not required - bio-degradable mount
+      required: true
+    - id: 8
+      name: liability_release_tracking
+      label: Liability Release for Tracking Activities
+      hint: I release the organization from any claims related to the tracking device
+      type: select_one
+      options:
+      - I agree to release all liability
+      - Other
+      required: true
+    - id: 9
+      name: emergency_alert_contact
+      label: Emergency Contact for Tracking Alerts
+      hint: Name and Phone Number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorized_signature_name
+      label: Signature of Authorized Representative
+      hint: Enter full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

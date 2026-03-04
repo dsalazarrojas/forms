@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Fan Interaction Media Consent Form
+    pages:
+    - id: 1
+      name: event_info_header
+      label: -- Event and Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Name of Event
+      hint: e.g. Community Meet and Greet, Championship Fan Day
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: Venue name and city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Team or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: media_consent_header
+      label: -- Media Use Consent --
+      hint: Please indicate your permissions for media captured during fan interactions
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photo_consent
+      label: I consent to being photographed during this event
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: video_consent
+      label: I consent to video recording of my interactions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: audio_consent
+      label: I consent to audio recording for interviews or clips
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: fan_portal_consent
+      label: I consent to media use in official fan portals and apps
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: social_media_consent
+      label: I consent to media use for social media promotional posts
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: commercial_partner_consent
+      label: I consent to media use by approved commercial partners
+      hint: Official sponsors of the team
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: rights_acknowledgement_header
+      label: -- Rights and Acknowledgements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: remuneration_agreement
+      label: I agree that I will receive no financial remuneration for this media
+        use
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 16
+      name: rights_transfer
+      label: I transfer all rights of the captured media to the Organization
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 17
+      name: withdrawal_acknowledgement
+      label: I acknowledge the policy for withdrawing consent after publication
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 18
+      name: signature_header
+      label: -- Signature and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: athlete_signature
+      label: Athlete Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required if athlete is under 18
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: confirmation_email
+      label: Email Address for Confirmation
+      hint: null
+      type: email
+      options: []
+      required: true

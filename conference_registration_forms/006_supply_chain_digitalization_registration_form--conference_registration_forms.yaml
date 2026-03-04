@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Digitalization Registration Form
+    pages:
+    - id: 1
+      name: supply_chain_digitalization_registration_form_1
+      label: What is your role in the supply chain
+      hint: null
+      type: select_one
+      options:
+      - Procurement Specialist
+      - Supply Chain Manager
+      - Logistics Coordinator
+      - Other
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 7
+      name: current_projects
+      label: Current Projects
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_facebook
+      label: Company Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_twitter
+      label: Company Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_linked_in
+      label: Company LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_instagram
+      label: Company Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_youtube
+      label: Company YouTube
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supply_chain_digitalization_goals
+      label: What are your Supply Chain Digitalization goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 16
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - America/New York
+      - America/Chicago
+      - Europe/London
+      - Other
+      required: true
+    - id: 17
+      name: time_preference
+      label: What time zone do you prefer
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Other
+      required: true
+    - id: 18
+      name: registration_type
+      label: Type of registration
+      hint: null
+      type: select_multiple
+      options:
+      - Program
+      - Workshop
+      - Consultation
+      required: true
+    - id: 19
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company_type
+      label: Type of Company
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      - Non-Profit
+      required: true
+    - id: 22
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

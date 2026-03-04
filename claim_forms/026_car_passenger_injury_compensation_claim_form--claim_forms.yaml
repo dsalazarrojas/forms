@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Passenger Injury Compensation Claim Form
+    pages:
+    - id: 1
+      name: claimant_info_header
+      label: -- Claimant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claimant_full_name
+      label: Claimant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claimant_dob
+      label: Date of Birth
+      hint: To verify age and eligibility
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: claimant_email_address
+      label: Email Address
+      hint: For claim status updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: claimant_phone_number
+      label: Phone Number
+      hint: Primary contact for the claim
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: accident_details_header_claim
+      label: -- Accident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: accident_date_claim
+      label: Date of Accident
+      hint: When did the accident occur?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: accident_location_claim
+      label: Accident Location
+      hint: Address or description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: accident_description_claim
+      label: Description of the Accident
+      hint: Briefly describe how the accident happened
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: injury_details_header
+      label: -- Injury Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: injury_description
+      label: Description of Injuries
+      hint: Describe the injuries sustained in the accident
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_treatment_status
+      label: Have you sought medical treatment?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 13
+      name: medical_facility_name
+      label: Medical Facility Name
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: compensation_details_header
+      label: -- Compensation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: compensation_amount_requested
+      label: Requested Compensation Amount ($)
+      hint: (If known)
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: lost_wages_claim
+      label: Are you claiming lost wages?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: lost_wages_amount
+      label: Estimated Lost Wages Amount ($)
+      hint: (If applicable)
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: claim_verification_header_passenger
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: claim_acknowledgement_passenger
+      label: I acknowledge the compensation claim terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 21
+      name: signature_confirmation_passenger
+      label: Type your name for compensation claim confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_claim_comments_passenger
+      label: Any additional comments or requests?
+      hint: Provide more details for the claim
+      type: text
+      options: []
+      required: false

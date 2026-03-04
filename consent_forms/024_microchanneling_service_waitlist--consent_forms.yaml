@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microchanneling Service Waitlist
+    pages:
+    - id: 1
+      name: client_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Microchanneling
+      - Phone
+      - Email
+      - SMS
+      required: true
+    - id: 6
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: appointment_timeframe
+      label: Appointment Timeframe
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 9
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - 60 Minute
+      - 90 Minute
+      - Custom
+      required: true
+    - id: 10
+      name: custom_appointment_time
+      label: Custom Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - Microchanneling
+      - Chemical Peel
+      - Microneedling
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_provider
+      label: Assigned Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Other
+      required: false
+    - id: 14
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Active
+      - Completed
+      required: true
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_provider
+      label: Follow-up Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Other
+      required: false

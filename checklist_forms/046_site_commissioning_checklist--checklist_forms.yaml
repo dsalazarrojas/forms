@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Commissioning Checklist
+    pages:
+    - id: 1
+      name: site_commissioning_checklist
+      label: Site Commissioning Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: commissioning_outcomes
+      label: Commissioning Outcomes
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: site_readiness
+      label: Site Readiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: site_commissioning_date
+      label: Site Commissioning Date
+      hint: null
+      type: date
+      options: []
+      required: false

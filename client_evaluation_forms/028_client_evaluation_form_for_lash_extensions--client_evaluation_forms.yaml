@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Evaluation Form For Lash Extensions
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_date
+      label: Date of Service
+      hint: When was your appointment?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: lash_technician
+      label: Lash Technician Name
+      hint: Who performed your service?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: What service did you receive?
+      type: select_one
+      options:
+      - Classic Lash Extensions
+      - Volume Lash Extensions
+      - Hybrid Lash Extensions
+      - Mega Volume Lash Extensions
+      - Lash Lift
+      - Lash Tint
+      - Lash Removal
+      - Fill or Refill
+      - Other
+      required: true
+    - id: 8
+      name: lash_style
+      label: Lash Style
+      hint: Style applied
+      type: select_one
+      options:
+      - Natural
+      - Cat Eye
+      - Doll Eye
+      - Squirrel
+      - Kim K
+      - Wispy
+      - Other
+      required: true
+    - id: 9
+      name: lash_length
+      label: Lash Length
+      hint: Extension length used
+      type: select_one
+      options:
+      - Short (6-9mm)
+      - Medium (10-12mm)
+      - Long (13-15mm)
+      - Extra Long (16mm+)
+      - Mixed Lengths
+      required: true
+    - id: 10
+      name: lash_thickness
+      label: Lash Thickness
+      hint: Extension thickness
+      type: select_one
+      options:
+      - 0.03mm
+      - 0.05mm
+      - 0.07mm
+      - 0.10mm
+      - 0.12mm
+      - 0.15mm
+      - Not Sure
+      required: false
+    - id: 11
+      name: lash_curl
+      label: Lash Curl Type
+      hint: Curl style used
+      type: select_one
+      options:
+      - J Curl
+      - B Curl
+      - C Curl
+      - D Curl
+      - L Curl
+      - Mixed Curls
+      - Not Sure
+      required: false
+    - id: 12
+      name: comfort_level
+      label: Comfort Level During Application
+      hint: How comfortable was the process?
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 13
+      name: application_time
+      label: Application Time Satisfaction
+      hint: Was the duration acceptable?
+      type: select_one
+      options:
+      - Too Fast
+      - Just Right
+      - Too Long
+      - Much Too Long
+      required: true
+    - id: 14
+      name: final_appearance
+      label: Satisfaction With Final Appearance
+      hint: How do they look?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: lash_weight
+      label: How Do the Lashes Feel?
+      hint: Weight and comfort
+      type: select_one
+      options:
+      - Very Light and Natural
+      - Comfortable
+      - Slightly Heavy
+      - Too Heavy
+      - Uncomfortable
+      required: true
+    - id: 16
+      name: eye_irritation
+      label: Did You Experience Any Eye Irritation?
+      hint: During or after service
+      type: select_one
+      options:
+      - No Irritation
+      - Mild Irritation
+      - Moderate Irritation
+      - Severe Irritation
+      required: true
+    - id: 17
+      name: lash_retention
+      label: How Well Are Lashes Retaining?
+      hint: If this is a follow-up
+      type: select_one
+      options:
+      - Excellent Retention
+      - Good Retention
+      - Average Retention
+      - Poor Retention
+      - First Time Service
+      required: true
+    - id: 18
+      name: aftercare_instructions
+      label: Were Aftercare Instructions Clear?
+      hint: Instruction clarity
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - No Instructions Given
+      required: true
+    - id: 19
+      name: aftercare_followed
+      label: Are You Following Aftercare Instructions?
+      hint: Compliance
+      type: select_one
+      options:
+      - Yes, Completely
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 20
+      name: technician_skill
+      label: Technician Skill Level
+      hint: How skilled was the technician?
+      type: select_one
+      options:
+      - Expert
+      - Very Skilled
+      - Skilled
+      - Average
+      - Below Average
+      required: true
+    - id: 21
+      name: technician_professionalism
+      label: Technician Professionalism
+      hint: Professional behavior
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: salon_cleanliness
+      label: Salon Cleanliness
+      hint: Facility hygiene
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the cost?
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 24
+      name: likely_to_return
+      label: How Likely Are You to Return?
+      hint: Future appointments
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 25
+      name: recommend_to_others
+      label: How Likely Are You to Recommend Us?
+      hint: To friends or family
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 26
+      name: favorite_aspect
+      label: What Did You Like Most?
+      hint: Favorite part of service
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: improvement_areas
+      label: What Could We Improve?
+      hint: Areas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true

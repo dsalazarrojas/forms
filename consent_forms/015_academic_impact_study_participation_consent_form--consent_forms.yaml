@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Impact Study Participation Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Study Participation Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Email for study communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: study_description
+      label: Study description
+      hint: Brief summary of the study purpose
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risks_and_benefits
+      label: Risks and benefits
+      hint: Summary of potential risks and benefits
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: data_usage
+      label: How data will be used
+      hint: Analysis, reporting, and sharing details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_to_participate
+      label: Consent to participate
+      hint: Confirm consent to participate in study
+      type: select_one
+      options:
+        - I consent
+        - I do not consent
+      required: true
+    - id: 8
+      name: withdrawal_rights
+      label: Withdrawal rights
+      hint: Information on how to withdraw from study
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature confirmation
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date of consent
+      hint: Date when consent was given
+      type: date
+      options: []
+      required: true

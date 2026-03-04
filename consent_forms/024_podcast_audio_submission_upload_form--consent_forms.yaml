@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Audio Submission Upload Form
+    pages:
+    - id: 1
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contributor_email
+      label: Contributor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contributor_phone
+      label: Contributor Phone
+      hint: prophets are not allowed
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: podcast_title
+      label: Podcast Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_tags
+      label: File Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: file_tags_options
+      label: File Tags Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_permissions
+      label: Upload Permissions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: upload_permissions_options
+      label: Upload Permissions Options
+      hint: null
+      type: text
+      options: []
+      required: false

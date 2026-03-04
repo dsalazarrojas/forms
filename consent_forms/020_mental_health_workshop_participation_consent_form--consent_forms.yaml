@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_workshop_participation_consent_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_name
+      label: workshop_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_description
+      label: workshop_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_date
+      label: workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: workshop_time
+      label: workshop_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: workshop_agreement
+      label: workshop_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and agree to the terms and conditions.
+      - I do not understand and do not agree to the terms and conditions.
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false

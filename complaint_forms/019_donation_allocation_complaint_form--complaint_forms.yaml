@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Allocation Complaint Form
+    pages:
+    - id: 1
+      name: donour_allocation
+      label: Donation Allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donour_name
+      label: Donour Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donour_email
+      label: Donour Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donour_phone
+      label: Donour Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue
+      label: Issue
+      hint: Please select a reason for complaint.
+      type: select_one
+      options:
+      - Allocation Error
+      - Missing Donours
+      - Incorrect Allocation
+      - Other
+      required: true
+    - id: 6
+      name: details
+      label: Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donour_donation_id
+      label: Donour Donations Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: donour_distributer
+      label: Donour Distributer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donour_status
+      label: Donour Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Archived
+      - Pending
+      required: false
+    - id: 10
+      name: donour_comments
+      label: Donour Comments
+      hint: null
+      type: text
+      options: []
+      required: false

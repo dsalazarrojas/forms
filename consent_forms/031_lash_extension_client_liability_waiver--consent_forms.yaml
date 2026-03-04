@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_extension_client_liability_waiver
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_urgent_care
+      label: Emergency Contact Urgent Care
+      hint: null
+      type: select_one
+      options:
+      - Urgent Care
+      - Other
+      required: false
+    - id: 9
+      name: emergency_contact_urgent_care_other
+      label: Emergency Contact Urgent Care Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_urgent_care_other_description
+      label: Emergency Contact Urgent Care Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: Medical Condition
+      hint: List any medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition_description
+      label: Medical Condition Description
+      hint: Please describe your medical condition
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_supervision
+      label: Medical Supervision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_supervision_description
+      label: Medical Supervision Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lash_extension_service
+      label: Lash Extension Service
+      hint: null
+      type: select_multiple
+      options:
+      - Eyelash Application
+      - Lash Lift
+      - Eyelash Removal
+      - Eyelash Fill
+      - Lash Tinting
+      - Eyelash Glue
+      required: false
+    - id: 16
+      name: lash_extension_service_other
+      label: Lash Extension Service Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lash_extension_service_other_description
+      label: Lash Extension Service Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I understand the risks and consequences of lash extensions
+      - I have read and understand the information above
+      - I have attached a copy of my medical insurance information to this waiver
+      - I have attached a copy of my medical ID to this waiver
+      required: false
+    - id: 19
+      name: consent_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_other_description
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: client_signature_date
+      label: Client Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: Assigned User
+      hint: User ID or name of the person that assigned this form
+      type: text
+      options: []
+      required: false

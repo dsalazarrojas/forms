@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Claim Form
+    pages:
+    - id: 1
+      name: travel_claim_form
+      label: travel_claim_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_type
+      label: claim_type
+      hint: null
+      type: select_one
+      options:
+      - Expense Claim
+      - Reimbursement Claim
+      required: false
+    - id: 3
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: claim_reason
+      label: claim_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_expense_type
+      label: claim_expense_type
+      hint: null
+      type: select_one
+      options:
+      - Airfare
+      - Hotel
+      - Restaurant
+      - Rental Car
+      required: false
+    - id: 7
+      name: claim_expense_value
+      label: claim_expense_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: claim_expense_description
+      label: claim_expense_description
+      hint: null
+      type: text
+      options: []
+      required: false

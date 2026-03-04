@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Research Consent Form
+    pages:
+    - id: 1
+      name: research_participant_information
+      label: Research Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_purpose
+      label: study_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: informed_consent
+      label: Informed Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_participant_rights
+      label: Research Participant Rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: study_conduct
+      label: Study Conduct
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: study_duration
+      label: Study Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: study_location
+      label: Study Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: informed_consent_document
+      label: Informed Consent Document
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: informed_consent_date
+      label: Informed Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: research_participant_information_verification
+      label: Research Participant Information Verification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: investigator_signature
+      label: Investigator Signature
+      hint: null
+      type: text
+      options: []
+      required: false

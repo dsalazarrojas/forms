@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damaged Luggage Complaint Form
+    pages:
+    - id: 1
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: luggage_description
+      label: describe_luggage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: airline
+      label: report_airline
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issue
+      label: describe_issue
+      hint: null
+      type: text
+      options: []
+      required: false

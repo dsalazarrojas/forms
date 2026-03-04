@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cadet Program Registration
+    pages:
+    - id: 1
+      name: cadet_name
+      label: Cadet name
+      hint: Full name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: For eligibility verification
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_name
+      label: Parent or guardian name
+      hint: Required for minors
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact phone
+      hint: Provide phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_concerns
+      label: Medical concerns or allergies
+      hint: Important for program safety
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_for_participation
+      label: Consent for participation
+      hint: Parent or guardian consent required for minors
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 7
+      name: uniform_size
+      label: Uniform size
+      hint: Chest or standard sizes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

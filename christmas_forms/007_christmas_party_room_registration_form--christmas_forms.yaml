@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Party Room Registration Form
+    pages:
+    - id: 1
+      name: header_guest_details
+      label: -- Guest Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Primary Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: header_reservation_info
+      label: -- Room Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: room_type
+      label: Preferred Room Category
+      hint: null
+      type: select_one
+      options:
+      - Standard Queen
+      - Double Full
+      - Deluxe King
+      - Suite (Living Area)
+      required: true
+    - id: 7
+      name: check_in_date
+      label: Check-in Date
+      hint: Standard party weekend is Dec 20-22
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_nights
+      label: Number of Nights
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: additional_guests
+      label: Number of Additional Guests in Room
+      hint: Max capacity depends on room type
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: header_preferences
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: accessible_room
+      label: Do you require an ADA accessible room?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: dietary_requirements_breakfast
+      label: Dietary Requirements for Morning Breakfast
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegan
+      - Gluten Free
+      - Nut Allergy
+      - Dairy Free
+      required: true
+    - id: 13
+      name: early_check_in
+      label: Request Early Check-in (if available)
+      hint: Subject to $25.00 fee
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: special_requests
+      label: Other Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Preferred Payment Method for Room Incidentals
+      hint: Credit card will be required at check-in
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Direct Billing (Pre-approved corporate only)
+      required: true
+    - id: 16
+      name: cancellation_agreement
+      label: I understand the 48-hour cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

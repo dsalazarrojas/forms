@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Door Inspection Form
+    pages:
+    - id: 1
+      name: fire_door_inspection
+      label: fire_door_inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: door_condition
+      label: door_condition
+      hint: Check the condition
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: door_hinges
+      label: door_hinges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: door_frame
+      label: door_frame
+      hint: Check the frame
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: door_screws
+      label: door_screws
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: door_locks
+      label: door_locks
+      hint: Check the locks
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: door_gasket
+      label: door_gasket
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: door_weatherstripping
+      label: door_weatherstripping
+      hint: Check the weatherstripping
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: door_hinges_condition
+      label: hinges_condition
+      hint: Check the condition
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: door_repairs
+      label: repairs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: door_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

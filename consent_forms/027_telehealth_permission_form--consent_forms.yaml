@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Permission Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: telehealth_services
+      label: Telehealth Services
+      hint: null
+      type: select_one
+      options:
+      - Video Visit
+      - Telephone Visit
+      - Email Visit
+      required: false
+    - id: 5
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - HIPAA
+      required: false
+    - id: 6
+      name: signature_type
+      label: Signature Type
+      hint: null
+      type: select_one
+      options:
+      - Handwritten Signature
+      - E-Signature
+      - Electronic Signature
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_statement
+      label: Consent Statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      required: false
+    - id: 24
+      name: telehealth_permission_date
+      label: Telehealth Permission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: telehealth_permission_time
+      label: Telehealth Permission Time
+      hint: null
+      type: time
+      options: []
+      required: false

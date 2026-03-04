@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Attention Management Checklist
+    pages:
+      - id: 1
+        name: user_information
+        label: -- User Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: name
+        label: Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Organization/Team
+        hint: Your company or team
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: role_position
+        label: Role/Position
+        hint: Your job title
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this assessment
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: focus_habits
+        label: -- Focus Habits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: morning_focus_routine
+        label: I have a morning focus routine
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 9
+        name: single_tasking
+        label: I focus on one task at a time
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 10
+        name: notification_management
+        label: I turn off notifications during focus time
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 11
+        name: break_schedule
+        label: I schedule regular breaks
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 12
+        name: distraction_management
+        label: -- Distraction Management --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: phone_distraction
+        label: Phone usage distracts me from work
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 14
+        name: social_media_distraction
+        label: Social media affects my focus
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 15
+        name: meeting_interruptions
+        label: Meetings interrupt my focus time
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 16
+        name: email_interruptions
+        label: Email checking interrupts my work
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 17
+        name: environmental_factors
+        label: -- Environmental Factors --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: workspace_organization
+        label: My workspace is organized
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 19
+        name: noise_level
+        label: Noise levels affect my concentration
+        hint: null
+        type: select_one
+        options: ['Very Much', 'Somewhat', 'Neutral', 'Slightly', 'Not at All']
+        required: true
+      - id: 20
+        name: lighting_adequate
+        label: My workspace has adequate lighting
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 21
+        name: productivity_strategies
+        label: -- Productivity Strategies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: priority_setting
+        label: I prioritize my daily tasks
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 23
+        name: time_blocking
+        label: I use time-blocking technique
+        hint: null
+        type: select_one
+        options: ['Always', 'Often', 'Sometimes', 'Rarely', 'Never']
+        required: true
+      - id: 24
+        name: focus_improvement_needs
+        label: Areas where I need focus improvement
+        hint: Select areas you want to improve
+        type: select_multiple
+        options: ['Time Management', 'Distraction Reduction', 'Priority Setting', 'Energy Management', 'Work-Life Balance', 'Stress Management']
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations about your focus and attention?
+        type: text
+        options: []
+        required: false

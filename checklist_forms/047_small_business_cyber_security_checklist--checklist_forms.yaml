@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_business_cyber_security_checklist
+    pages:
+    - id: 1
+      name: general_security_controls
+      label: General Security Controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_security_training
+      label: employee_security_training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Partially''}'
+      required: false
+    - id: 3
+      name: incident_response_plan
+      label: incident_response_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: security_vulnerability_management
+      label: security_vulnerability_management
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Vulnerable''}'
+      - '{''label'': ''Not vulnerable''}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 5
+      name: data_backup_recovery
+      label: data_backup_recovery
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: true
+    - id: 6
+      name: access_control
+      label: access_control
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Least privilege''}'
+      - '{''label'': ''Default''}'
+      - '{''label'': ''Broad''}'
+      required: false
+    - id: 7
+      name: network_security
+      label: network_security
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: incident_reporting
+      label: incident_reporting
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Partially''}'
+      required: false
+    - id: 9
+      name: security_policy
+      label: security_policy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Documented''}'
+      - '{''label'': ''Incomplete''}'
+      - '{''label'': ''Not documented''}'
+      required: true
+    - id: 10
+      name: monitoring_and_review
+      label: monitoring_and_review
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 11
+      name: security_testing
+      label: security_testing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Manual''}'
+      - '{''label'': ''Automated''}'
+      - '{''label'': ''Quarterly''}'
+      required: true
+    - id: 12
+      name: patch_management
+      label: patch_management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not applicable''}'
+      required: false
+    - id: 13
+      name: security_incident
+      label: security_incident
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Reported''}'
+      - '{''label'': ''Not reported''}'
+      required: false
+    - id: 14
+      name: security_audit
+      label: security_audit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Annual''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Semi-annually''}'
+      required: true
+    - id: 15
+      name: security_training
+      label: security_training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Not Started''}'
+      required: true
+    - id: 16
+      name: security_compliance
+      label: security_compliance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''PCI''}'
+      - '{''label'': ''HIPAA''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 17
+      name: security_incident_response
+      label: security_incident_response
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: security_vulnerability_management_process
+      label: security_vulnerability_management_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: security_change_control
+      label: security_change_control
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not applicable''}'
+      required: false
+    - id: 20
+      name: security_compliance_audit
+      label: security_compliance_audit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Annual''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Semi-annually''}'
+      required: true
+    - id: 21
+      name: incident_response_plan_status
+      label: incident_response_plan_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Not Implemented''}'
+      required: true
+    - id: 22
+      name: incident_response_plan_status
+      label: Incident Response Plan Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 23
+      name: incident_response_plan_review_status
+      label: incident_response_plan_review_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Not reviewed''}'
+      required: true
+    - id: 24
+      name: incident_response_plan_update_status
+      label: incident_response_plan_update_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Not updated''}'
+      required: true
+    - id: 25
+      name: incident_response_plan_review_frequency
+      label: incident_response_plan_review_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: true

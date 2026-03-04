@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Dinner Planner Form
+    pages:
+    - id: 1
+      name: event_info
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dinner_date
+      label: Dinner Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: dinner_time
+      label: Dinner Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: guest_planning
+      label: -- Guest Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: children_expected
+      label: Number of Children Expected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: dining_style
+      label: Dining Style
+      hint: null
+      type: select_one
+      options:
+      - Formal sit-down dinner
+      - Casual dining
+      - Buffet style
+      - Family style
+      - Potluck
+      required: true
+    - id: 12
+      name: menu_planning
+      label: -- Menu Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_protein
+      label: Primary Protein
+      hint: null
+      type: select_one
+      options:
+      - Turkey
+      - Ham
+      - Prime rib
+      - Chicken
+      - Vegetarian
+      - Mixed proteins
+      required: true
+    - id: 14
+      name: side_dishes
+      label: Planned Side Dishes (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Stuffing or dressing
+      - Mashed potatoes
+      - Cranberry sauce
+      - Vegetables
+      - Bread or rolls
+      - Gravy
+      required: false
+    - id: 15
+      name: desserts_planned
+      label: Desserts Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_section
+      label: -- Dietary Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions_count
+      label: Guests with Dietary Restrictions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: dietary_types
+      label: Types of Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut allergies
+      - Shellfish allergies
+      - Other
+      required: false
+    - id: 19
+      name: decorations_section
+      label: -- Decorations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: decoration_style
+      label: Decoration Style
+      hint: null
+      type: select_one
+      options:
+      - Traditional Christmas
+      - Modern elegant
+      - Rustic
+      - Minimalist
+      - Other
+      required: false
+    - id: 21
+      name: table_setup
+      label: Table Setup Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: entertainment_section
+      label: -- Entertainment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: entertainment_planned
+      label: Entertainment Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: music
+      label: Music or Background Audio
+      hint: null
+      type: select_one
+      options:
+      - Live music
+      - Playlist
+      - Carolers
+      - None
+      required: false
+    - id: 25
+      name: special_notes
+      label: Special Notes or Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_equipment_distribution_consent_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: distribution_method
+      label: distribution_method
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Phone
+      - Email
+      - Mail
+      required: true
+    - id: 5
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: provider_signature
+      label: provider_signature
+      hint: null
+      type: select_one
+      options:
+      - Physician
+      - Nurse Practitioner
+      - Mid-level provider
+      - Other
+      required: true
+    - id: 8
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: signature_image
+      label: signature_image
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

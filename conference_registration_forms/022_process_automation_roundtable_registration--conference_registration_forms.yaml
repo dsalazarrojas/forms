@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Automation Roundtable Registration
+    pages:
+    - id: 1
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: topic_interests
+      label: Topic Interests
+      hint: Select one or more topics
+      type: select_multiple
+      options:
+      - Automation
+      - Artificial Intelligence
+      - Machine Learning
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: Select your role
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Organizer
+      required: false
+    - id: 7
+      name: participation_consent
+      label: Participation Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

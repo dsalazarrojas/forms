@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Recruitment Video Appearance Consent Form
+    pages:
+    - id: 1
+      name: team_recruitment_video_appearance_consent_form
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_video_consent
+      label: participant_video_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: school_video_consent
+      label: school_video_consent
+      hint: null
+      type: select_multiple
+      options:
+      - School A
+      - School B
+      - School C
+      required: false
+    - id: 7
+      name: hr_video_consent
+      label: hr_video_consent
+      hint: null
+      type: select_multiple
+      options:
+      - HR A
+      - HR B
+      - HR C
+      required: false
+    - id: 8
+      name: marketing_video_consent
+      label: marketing_video_consent
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing A
+      - Marketing B
+      - Marketing C
+      required: false

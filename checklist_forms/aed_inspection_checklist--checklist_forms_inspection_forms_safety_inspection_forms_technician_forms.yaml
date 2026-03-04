@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AED Inspection Checklist
+    pages:
+    - id: 1
+      name: section_header_inspector_info
+      label: '--- Inspector Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector/Auditor name
+      hint: Enter the full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_email
+      label: Inspector email address
+      hint: Must be a valid email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: inspector_phone
+      label: Inspector phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspection_time
+      label: Inspection time
+      hint: Optional if not recorded
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: section_header_device_details
+      label: '--- AED Device Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: device_location
+      label: Device location or site inspected
+      hint: e.g., "Conference Room A"
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: aed_model
+      label: AED model
+      hint: Manufacturer model number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: aed_serial_number
+      label: AED serial number
+      hint: Serial number on the device
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: aed_install_date
+      label: AED installation date
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: last_maintenance_date
+      label: Last maintenance date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: battery_status
+      label: Battery status
+      hint: Status of the AED battery
+      type: select_one
+      options:
+      - New
+      - Good
+      - Fair
+      - Poor
+      - Not Tested
+      required: true
+    - id: 14
+      name: battery_charge_percentage
+      label: Battery charge (%)
+      hint: 0-100%
+      type: decimal
+      options: []
+      required: false
+    - id: 15
+      name: pad_condition
+      label: Pad condition
+      hint: Condition of the AED pads
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Tested
+      required: true
+    - id: 16
+      name: aed_functionality_test
+      label: AED functionality test
+      hint: Result of the last functional test
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Tested
+      required: true
+    - id: 17
+      name: aed_test_date
+      label: AED test date
+      hint: Date of last functionality test
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: section_header_compliance
+      label: '--- Compliance and Safety ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: overall_compliance_status
+      label: Overall compliance status
+      hint: Summary of compliance
+      type: select_one
+      options:
+      - Fully compliant
+      - Minor issues
+      - Major issues
+      - Non-compliant
+      required: true
+    - id: 20
+      name: safety_score
+      label: Safety score (1-10)
+      hint: 10 = excellent, 1 = critical
+      type: integer
+      options: []
+      required: true
+    - id: 21
+      name: issues_identified
+      label: Issues identified (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Safety hazard
+      - Documentation gap
+      - Equipment failure
+      - Training needed
+      - Cleanliness
+      - Structural issue
+      - Battery failure
+      - Pad failure
+      - Software update needed
+      required: false
+    - id: 22
+      name: corrective_actions
+      label: Recommended corrective actions
+      hint: Describe actions to resolve issues
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_inspection_date
+      label: Follow‑up inspection date
+      hint: When the next inspection should occur
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

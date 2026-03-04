@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Will And Testament Authorization Form
+    pages:
+    - id: 1
+      name: testaments_info
+      label: testament_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: beneficiaries
+      label: beneficiaries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: testament_witnesses
+      label: testament_witnesses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: testament_executor
+      label: testament_executor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: testament_guardian
+      label: testament_guardian
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

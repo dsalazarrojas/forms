@@ -1,0 +1,418 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Study Consent Form
+    pages:
+      - id: 1
+        name: consent_header
+        label: Case Study Consent Form
+        hint: Permission to study and document your case
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: consent_date
+        label: Consent Date
+        hint: Date of consent
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: study_info
+        label: Study Information
+        hint: Research project details
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: study_title
+        label: Case Study Title
+        hint: Project name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: researcher_name
+        label: Researcher Name
+        hint: Principal investigator
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: institution
+        label: Institution or Organization
+        hint: Research institution
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: department
+        label: Department or Division
+        hint: Academic department
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: participant_info
+        label: Participant Information
+        hint: Subject details
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: participant_name
+        label: Participant Full Name
+        hint: Legal name
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: participant_id
+        label: Participant ID
+        hint: Case or record number
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: date_of_birth
+        label: Date of Birth
+        hint: Participant DOB
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: contact_info
+        label: Contact Information
+        hint: How to reach participant
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: study_purpose
+        label: Study Purpose
+        hint: Why this study is being done
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: purpose_description
+        label: Purpose of Case Study
+        hint: Study goals
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: study_procedures
+        label: What Will the Study Involve
+        hint: Procedures description
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: study_duration
+        label: Expected Duration of Study
+        hint: How long it will take
+        type: select_one
+        options:
+          - Single session
+          - Multiple sessions over weeks
+          - Multiple sessions over months
+          - Long-term - over 1 year
+          - Ongoing - indefinite
+        required: true
+      - id: 17
+        name: data_collection
+        label: Data Collection Methods
+        hint: How information is gathered
+        type: select_multiple
+        options:
+          - Interviews
+          - Observations
+          - Document review
+          - Psychological testing
+          - Medical records review
+          - Surveys or questionnaires
+          - Audio recording
+          - Video recording
+          - Photographs
+          - Other
+        required: true
+      - id: 18
+        name: risks_discomforts
+        label: Potential Risks or Discomforts
+        hint: Possible negative effects
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: risks_description
+        label: Describe Potential Risks
+        hint: What could go wrong
+        type: select_multiple
+        options:
+          - Emotional discomfort
+          - Psychological distress
+          - Breach of confidentiality
+          - Social stigma
+          - Time commitment
+          - None anticipated
+          - Other
+        required: true
+      - id: 20
+        name: benefits
+        label: Potential Benefits
+        hint: Possible positive outcomes
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: benefits_description
+        label: Describe Potential Benefits
+        hint: What good may come
+        type: select_multiple
+        options:
+          - Better understanding of condition
+          - Improved treatment approaches
+          - Help others with similar issues
+          - Contribution to knowledge
+          - Personal insight
+          - No direct benefits
+          - Other
+        required: true
+      - id: 22
+        name: compensation
+        label: Will You Be Compensated
+        hint: Payment or incentives
+        type: select_one
+        options:
+          - Yes - monetary payment
+          - Yes - gift card
+          - Yes - course credit
+          - No - voluntary participation
+        required: true
+      - id: 23
+        name: compensation_amount
+        label: Compensation Details
+        hint: What and when
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: confidentiality
+        label: Confidentiality
+        hint: Privacy protection
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: identity_protection
+        label: How Will Your Identity Be Protected
+        hint: Confidentiality measures
+        type: select_one
+        options:
+          - Full anonymity - no identifiers
+          - Pseudonym used - coded
+          - Identifiers removed
+          - Identifiers may be included
+        required: true
+      - id: 26
+        name: data_access
+        label: Who Will Have Access to Information
+        hint: Data sharing
+        type: select_multiple
+        options:
+          - Research team only
+          - Supervisors and reviewers
+          - Other researchers
+          - Published reports
+          - Conference presentations
+          - Educational materials
+          - Public records
+        required: true
+      - id: 27
+        name: data_storage
+        label: How Will Data Be Stored
+        hint: Security measures
+        type: select_one
+        options:
+          - Secure encrypted files
+          - Password protected files
+          - Locked physical storage
+          - Secure database
+          - Other
+        required: true
+      - id: 28
+        name: data_retention
+        label: How Long Will Data Be Kept
+        hint: Retention period
+        type: select_one
+        options:
+          - Until study completion
+          - 3 years after study
+          - 5 years after study
+          - 10 years after study
+          - Indefinitely
+        required: true
+      - id: 29
+        name: voluntary_participation
+        label: Voluntary Participation
+        hint: Your rights
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: participation_voluntary
+        label: I Understand Participation Is Voluntary
+        hint: Voluntary status
+        type: select_one
+        options:
+          - Yes - I understand
+          - No - I do not understand
+        required: true
+      - id: 31
+        name: right_to_withdraw
+        label: I Understand I Can Withdraw at Any Time
+        hint: Withdrawal rights
+        type: select_one
+        options:
+          - Yes - I understand
+          - No - I do not understand
+        required: true
+      - id: 32
+        name: withdrawal_consequences
+        label: I Understand Withdrawal Will Not Affect My Services
+        hint: No penalty
+        type: select_one
+        options:
+          - Yes - I understand
+          - No - I do not understand
+        required: true
+      - id: 33
+        name: publication_consent
+        label: Publication and Dissemination
+        hint: Sharing results
+        type: note
+        options: []
+        required: false
+      - id: 34
+        name: publication_consent_given
+        label: I Consent to Publication of Case Study
+        hint: Publication permission
+        type: select_one
+        options:
+          - Yes - full publication
+          - Yes - with identity protected
+          - Yes - limited distribution
+          - No - no publication
+        required: true
+      - id: 35
+        name: presentation_consent
+        label: I Consent to Presentation at Conferences
+        hint: Presentation permission
+        type: select_one
+        options:
+          - Yes - any conference
+          - Yes - academic only
+          - No - no presentations
+        required: false
+      - id: 36
+        name: teaching_consent
+        label: I Consent to Use in Teaching
+        hint: Educational use
+        type: select_one
+        options:
+          - Yes - any educational use
+          - Yes - limited use
+          - No - no teaching use
+        required: false
+      - id: 37
+        name: contact_questions
+        label: Contact for Questions
+        hint: Who to contact
+        type: note
+        options: []
+        required: false
+      - id: 38
+        name: researcher_contact_provided
+        label: I Have Been Given Contact Information
+        hint: Contact availability
+        type: select_one
+        options:
+          - Yes - received
+          - No - need it
+        required: true
+      - id: 39
+        name: questions_answered
+        label: Have All Your Questions Been Answered
+        hint: Understanding
+        type: select_one
+        options:
+          - Yes - all answered
+          - Yes - most answered
+          - No - some remain
+        required: true
+      - id: 40
+        name: consent_decision
+        label: Consent Decision
+        hint: Your choice
+        type: note
+        options: []
+        required: false
+      - id: 41
+        name: consent_given
+        label: Do You Consent to This Case Study
+        hint: Final decision
+        type: select_one
+        options:
+          - Yes - I consent
+          - No - I do not consent
+        required: true
+      - id: 42
+        name: participant_signature
+        label: Participant Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 43
+        name: researcher_signature
+        label: Researcher Signature Date
+        hint: Date obtained
+        type: date
+        options: []
+        required: true
+      - id: 44
+        name: guardian_consent
+        label: Guardian Consent Required
+        hint: If minor or incapacitated
+        type: select_one
+        options:
+          - No - adult with capacity
+          - Yes - parent or guardian
+          - Yes - legal representative
+        required: true
+      - id: 45
+        name: guardian_name
+        label: Guardian Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 46
+        name: guardian_signature_date
+        label: Guardian Signature Date
+        hint: If applicable
+        type: date
+        options: []
+        required: false

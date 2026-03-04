@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Volunteer Consent Form
+    pages:
+    - id: 1
+      name: parent_info
+      label: parent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: volunteer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_event
+      label: school_event
+      hint: null
+      type: select_one
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: false
+    - id: 5
+      name: volunteer_role
+      label: volunteer_role
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Teacher
+      - Volunteer
+      required: false
+    - id: 6
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_relationship
+      label: emergency_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_permission
+      label: parent_permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_permission
+      label: student_permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_permission
+      label: volunteer_permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: background_check
+      label: background_check
+      hint: null
+      type: text
+      options: []
+      required: false

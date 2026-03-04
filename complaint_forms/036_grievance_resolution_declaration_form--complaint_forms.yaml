@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: grievance_resolution_declaration_form
+    pages:
+    - id: 1
+      name: complaint_details
+      label: Complaint details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_date
+      label: Complaint date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: complaint_description
+      label: Complaint description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evidence_attachments
+      label: Evidence attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: resolution_process
+      label: Resolution process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolution_status
+      label: Resolution status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: grievance_type
+      label: Grievance type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: resolution_outcome
+      label: Resolution outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_signature
+      label: Employee signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_signature
+      label: Witness signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_signature
+      label: Manager signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: grievance_id
+      label: Grievance ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: resolution_date
+      label: Resolution date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: grievance_status
+      label: Grievance status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: resolution_comments
+      label: Resolution comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: complaint_status
+      label: Complaint status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: form_submitted_by
+      label: Form submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: resolution_authorization
+      label: Resolution authorization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: grievance_resolution
+      label: Grievance resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: manager_approval
+      label: Manager approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: employee_approvement
+      label: Employee approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: resolution_note
+      label: Resolution note
+      hint: null
+      type: note
+      options: []
+      required: false

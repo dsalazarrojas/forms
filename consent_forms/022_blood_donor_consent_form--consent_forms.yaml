@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donor Consent Form
+    pages:
+    - id: 1
+      name: consent_intro
+      label: -- Blood Donor Informed Consent --
+      hint: Please read and agree to the following
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_id
+      label: Donor ID Number
+      hint: If previously registered
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: understanding_donation_process
+      label: I understand the blood donation process and risks
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 7
+      name: consent_blood_testing
+      label: I consent to testing of my blood for infectious diseases
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 8
+      name: consent_health_screening
+      label: I consent to health screening and questioning
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: consent_deferral_if_needed
+      label: I accept deferral if I am deemed ineligible
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: acknowledge_risks
+      label: I acknowledge the risks of blood donation
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 11
+      name: confirm_healthy
+      label: I confirm I am in good health
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 12
+      name: not_pregnant
+      label: I confirm I am not pregnant
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - I agree
+      - I do not agree
+      required: true
+    - id: 13
+      name: no_travel_risk
+      label: I have not traveled to high-risk areas recently
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 14
+      name: consent_anonymity_waiver
+      label: I waive anonymity for follow-up if needed
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 15
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: witness_name
+      label: Healthcare Provider or Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false

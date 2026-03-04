@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Competition Participation Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_details
+      label: participant details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: consent_to_participate
+      label: consent to participate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: participant_dietary_restrictions
+      label: participant dietary restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_dietary_restrictions_however
+      label: however
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_special_instructions
+      label: participant special instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_preference
+      label: contact preference
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In person
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relation
+      label: emergency contact relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_address
+      label: emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_address
+      label: participant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_zip
+      label: participant zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_state
+      label: participant state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_city
+      label: participant city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_country
+      label: participant country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_date_of_birth
+      label: participant date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: participant_essential_info
+      label: participant essential info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: event_start_time
+      label: event start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: event_venue
+      label: event venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: culinary_event_type
+      label: culinary event type
+      hint: null
+      type: select_one
+      options:
+      - Cook off
+      - Judging
+      - Tasting
+      - Other
+      required: true
+    - id: 25
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

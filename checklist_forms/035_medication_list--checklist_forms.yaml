@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication List
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medications_list
+      label: Medications List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dosage
+      label: Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dosing_frequency
+      label: Dosing Frequency
+      hint: null
+      type: text
+      options: []
+      required: false

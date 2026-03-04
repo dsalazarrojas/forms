@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Customer Complaint Form Template
+    pages:
+    - id: 1
+      name: complaint_form_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_form_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_information
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_details
+      label: complaint details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_type
+      label: issue type
+      hint: null
+      type: select_one
+      options:
+      - Customer Support
+      - Billing Support
+      - Technical Support
+      required: true
+    - id: 6
+      name: contact_preferences
+      label: contact preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Message
+      required: true
+    - id: 7
+      name: customer_form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_form_complaint_category
+      label: complaint category
+      hint: null
+      type: select_multiple
+      options:
+      - Product
+      - Service
+      - Other
+      required: true
+    - id: 9
+      name: customer_form_complaint_date
+      label: complaint date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: customer_form_complaint_time
+      label: complaint time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: customer_form_complaint_description
+      label: complaint description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_form_attachments
+      label: attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_form_resolution
+      label: resolution
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - In Progress
+      required: false
+    - id: 15
+      name: customer_form_escalation
+      label: escalation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: customer_form_priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: customer_form_tags
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Important
+      - Non Critical
+      - Non Important
+      required: false
+    - id: 18
+      name: customer_form_complaint_type
+      label: complaint type
+      hint: null
+      type: select_one
+      options:
+      - Complaint
+      - Issue
+      - Inquiry
+      required: false
+    - id: 19
+      name: customer_form_complaint_status
+      label: complaint status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Pending
+      required: false
+    - id: 20
+      name: customer_form_complaint_priority
+      label: complaint priority
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Low
+      - Medium
+      - None
+      required: false
+    - id: 21
+      name: customer_form_complaint_submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Staff
+      required: false
+    - id: 22
+      name: customer_form_complaint_submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: customer_form_complaint_status_date
+      label: status date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: customer_form_complaint_resolution_date
+      label: resolution date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: customer_form_complaint_resolution_time
+      label: resolution time
+      hint: null
+      type: time
+      options: []
+      required: false

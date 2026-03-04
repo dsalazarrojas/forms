@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Form Apply For Lead Job Position
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_applied
+      label: Position Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: faith_background
+      label: -- Faith Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: faith_affiliation
+      label: Religious Affiliation
+      hint: null
+      type: select_one
+      options:
+      - Christianity
+      - Other faith
+      - No formal affiliation
+      required: true
+    - id: 9
+      name: years_of_service
+      label: Years of active service or involvement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: church_involvement
+      label: Describe your involvement with the church community
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: spiritual_vision
+      label: What is your spiritual vision for leadership?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: professional_background
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_occupation
+      label: Current Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: years_experience
+      label: Years of professional experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: relevant_skills
+      label: Relevant skills for this position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: education_background
+      label: Educational Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: leadership_qualities
+      label: -- Leadership Qualities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: leadership_experience
+      label: Describe your leadership experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: team_management
+      label: Experience managing teams or groups
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: conflict_resolution
+      label: How do you handle conflicts or disagreements?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reference_name
+      label: Reference Name and Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reference_contact
+      label: Reference Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: availability
+      label: When are you available to start?
+      hint: null
+      type: date
+      options: []
+      required: true

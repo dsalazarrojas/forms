@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehabilitation App Usability Recording Consent Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_to_record
+      label: Consent to Record
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recording_duration
+      label: Recording Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Less than 1 minute''}'
+      - '{''label'': ''1-2 minutes''}'
+      - '{''label'': ''3-5 minutes''}'
+      - '{''label'': ''More than 5 minutes''}'
+      required: false
+    - id: 8
+      name: participant_note
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Transformation Roadmap Session Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Your Job Title or Position
+      hint: Your role in the organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Solo or freelance
+      - 2-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: true
+    - id: 7
+      name: business_industry
+      label: Industry or Sector
+      hint: What industry are you in?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: transformation_focus
+      label: Transformation Focus Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Strategic Planning
+      - Organizational Structure
+      - Digital Technology
+      - Process Optimization
+      - Customer Experience
+      - Team Development
+      - Market Expansion
+      - Financial Performance
+      required: true
+    - id: 9
+      name: main_challenge
+      label: Main Business Challenge
+      hint: What is your biggest challenge?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: desired_outcomes
+      label: What Outcomes Do You Want?
+      hint: Your goals for transformation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: transformation_stage
+      label: Stage of Transformation
+      hint: Where are you in the process?
+      type: select_one
+      options:
+      - Just starting to explore
+      - In planning phase
+      - Ready to implement
+      - Already in progress
+      - Scaling existing transformation
+      required: true
+    - id: 12
+      name: timeline_urgency
+      label: Transformation Timeline
+      hint: How soon do you need results?
+      type: select_one
+      options:
+      - Urgent - within 3 months
+      - Short-term - 3-6 months
+      - Medium-term - 6-12 months
+      - Long-term - 12+ months
+      - Flexible timeline
+      required: true
+    - id: 13
+      name: budget_range
+      label: Budget Range for Initiative
+      hint: Estimated investment
+      type: select_one
+      options:
+      - Under $10000
+      - $10000 - $50000
+      - $50000 - $100000
+      - $100000 - $500000
+      - $500000 - $1 million
+      - Over $1 million
+      - Not determined yet
+      required: false
+    - id: 14
+      name: preferred_session_date
+      label: Preferred Session Date
+      hint: When would you like to meet?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: preferred_time
+      label: Preferred Session Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 1:00 PM - 3:00 PM
+      - 3:00 PM - 5:00 PM
+      - After 5:00 PM
+      - Flexible
+      required: true
+    - id: 16
+      name: session_format
+      label: Preferred Session Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Video conference
+      - Phone call
+      - Flexible
+      required: true
+    - id: 17
+      name: group_participants
+      label: Will others participate?
+      hint: Solo or group session?
+      type: select_one
+      options:
+      - Solo session
+      - Group of 2-3 people
+      - Group of 4-5 people
+      - Larger group meeting
+      required: true
+    - id: 18
+      name: decision_maker_present
+      label: Will decision makers be present?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all decision makers
+      - Some decision makers
+      - No decision makers
+      - Unsure
+      required: true
+    - id: 19
+      name: coaching_experience
+      label: Previous Coaching or Consulting Experience
+      hint: Have you worked with coaches before?
+      type: select_one
+      options:
+      - Yes, extensive
+      - Yes, some experience
+      - No, first time
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional Information or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

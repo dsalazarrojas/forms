@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ceremony Agreement Form
+    pages:
+    - id: 1
+      name: section_event_basics
+      label: -- Event Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Client Name
+      hint: Main point of contact for the ceremony
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: type_of_ceremony
+      label: Type of Ceremony
+      hint: Select the category of your celebration
+      type: select_one
+      options:
+      - Wedding
+      - Renewal of Vows
+      - Naming Ceremony
+      - Milestone Birthday
+      - Commitment Ceremony
+      - Anniversary
+      - Other
+      required: true
+    - id: 6
+      name: ceremony_date
+      label: Date of the Ceremony
+      hint: Select the planned date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: ceremony_time
+      label: Ceremony Start Time
+      hint: What time will the ceremony begin?
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: section_location_details
+      label: -- Location and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: venue_name
+      label: Venue Name
+      hint: Name of the location where the ceremony will be held
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: venue_address
+      label: Venue Address
+      hint: Full address for the location
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_guest_count
+      label: Estimated Guest Count
+      hint: How many people are expected to attend?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_agreement_terms
+      label: -- Agreement Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ceremony_script_review
+      label: Script Review and Approval
+      hint: I agree to review and approve the ceremony script at least 14 days prior
+        to the event
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 14
+      name: photography_video_permission
+      label: Photography and Video Permission
+      hint: Permission for the officiant to use images of the ceremony for promotional
+        material
+      type: select_one
+      options:
+      - Permission Granted
+      - Permission Denied
+      required: true
+    - id: 15
+      name: deposit_agreement
+      label: Deposit and Payment Agreement
+      hint: I understand a 50 percent non-refundable deposit is required to secure
+        the date
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 16
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgement
+      hint: I have read and agree to the cancellation policy provided in the ceremony
+        packet
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: signature_date
+      label: Agreement Signature Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_comments_requests
+      label: Additional Comments or Requests
+      hint: Please list any special requests or information we should know
+      type: text
+      options: []
+      required: false

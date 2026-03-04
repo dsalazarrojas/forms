@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporation_fees_authorization_form
+    pages:
+    - id: 1
+      name: corporation_fees_authorization_form
+      label: corporate_fees_authorization_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_type
+      label: vendor_type
+      hint: null
+      type: select_one
+      options:
+      - Virtual Office
+      - Small new vendor
+      required: false
+    - id: 3
+      name: fee_amount
+      label: fee_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: credit_build_out
+      label: credit_build_out
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: authorization_amount
+      label: authorization_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: authorization_time
+      label: authorization_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: authorization_reason
+      label: authorization_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false

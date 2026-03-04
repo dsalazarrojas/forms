@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Conference Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee name
+      hint: Full name as on badge
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Church or group name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: For urgent notices
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_type
+      label: Ticket type
+      hint: Choose registration type
+      type: select_one
+      options:
+      - Early bird
+      - Regular
+      - Student
+      - Speaker
+      required: true
+    - id: 6
+      name: dietary_preferences
+      label: Dietary preferences
+      hint: Any food restrictions or null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_required
+      label: Accommodation required
+      hint: Do you need assistance with lodging
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: special_needs
+      label: Special needs or accessibility
+      hint: Any accessibility requirements or null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_selection
+      label: Session selection
+      hint: Preferred breakout sessions or tracks or null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_terms
+      label: Agree to terms and code of conduct
+      hint: Required to complete registration
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

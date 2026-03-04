@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Networking Event Registration
+    pages:
+    - id: 1
+      name: attendee_full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Your current position or role
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Company or organization you represent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number for event updates
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry_sector
+      label: Industry Sector
+      hint: Select your primary industry
+      type: select_one
+      options:
+      - Financial Services
+      - Healthcare
+      - Technology
+      - Manufacturing
+      - Government
+      - Legal Services
+      - Consulting
+      - Other
+      required: true
+    - id: 7
+      name: networking_interests
+      label: Networking Interests
+      hint: Select areas you want to connect with others about
+      type: select_multiple
+      options:
+      - Regulatory Compliance
+      - Risk Management
+      - Corporate Governance
+      - Ethics and Integrity
+      - Data Privacy
+      - Environmental Compliance
+      - Industry Best Practices
+      required: false
+    - id: 8
+      name: session_preferences
+      label: Session Preferences
+      hint: Which sessions are you most interested in attending
+      type: select_multiple
+      options:
+      - Keynote Presentations
+      - Panel Discussions
+      - Workshop Sessions
+      - Networking Breaks
+      - Case Study Presentations
+      - Q and A Sessions
+      required: false
+    - id: 9
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs for catering
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 10
+      name: first_time_attendee
+      label: Is this your first time attending this event
+      hint: Help us understand our audience
+      type: select_one
+      options:
+      - Yes, first time
+      - No, I have attended before
+      required: true
+    - id: 11
+      name: referral_source
+      label: How did you hear about this event
+      hint: So we can improve our outreach
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Colleague Referral
+      - Company Announcement
+      - Professional Association
+      - Website Search
+      - Other
+      required: false
+    - id: 12
+      name: participation_consent
+      label: Participation Consent
+      hint: I consent to participate in networking activities and agree to follow
+        event guidelines
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 13
+      name: marketing_communications
+      label: Marketing Communications
+      hint: Would you like to receive future event updates
+      type: select_one
+      options:
+      - Yes, keep me informed
+      - No, thank you
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments or Requests
+      hint: Any special requests or questions for organizers
+      type: text
+      options: []
+      required: false

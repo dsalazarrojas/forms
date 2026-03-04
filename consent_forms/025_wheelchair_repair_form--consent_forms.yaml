@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheelchair Repair Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wheelchair_serial_number
+      label: Wheelchair Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: wheelchair_condition
+      label: Wheelchair Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good'', ''value'': None, ''description'': None}'
+      - '{''label'': ''Fair'', ''value'': None, ''description'': None}'
+      - '{''label'': ''Poor'', ''value'': None, ''description'': None}'
+      required: false
+    - id: 6
+      name: repair_type
+      label: Repair Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheelchair Repair'', ''value'': None, ''description'': None}'
+      - '{''label'': ''Chair Repair'', ''value'': None, ''description'': None}'
+      - '{''label'': ''Both'', ''value'': None, ''description'': None}'
+      required: false
+    - id: 7
+      name: date_repaired
+      label: Date Repaired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_repaired
+      label: Time Repaired
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_fax
+      label: Contact Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_zip
+      label: Contact Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_country
+      label: Contact Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false

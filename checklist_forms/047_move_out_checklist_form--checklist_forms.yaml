@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Move Out Checklist Form
+    pages:
+    - id: 1
+      name: tenant_move_out_form
+      label: tenant_move_out_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_move_out_checklist_form
+      label: tenant_move_out_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Move out date
+      - Property condition
+      - Additional notes
+      required: true
+    - id: 4
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 6
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_confirmation
+      label: email_confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: move_out_signature
+      label: move_out_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - Tenant
+      - Landlord
+      - Property Manager
+      required: true
+    - id: 11
+      name: move_out_date_signature
+      label: move_out_date_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: landlord_signature
+      label: landlord_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: tenant_signature
+      label: tenant_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: property_manager_signature
+      label: property_manager_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: move_out_checklist_form_complete
+      label: move_out_checklist_form_complete
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Partially Complete
+      required: true
+    - id: 18
+      name: move_out_checklist_form_incomplete_reason
+      label: move_out_checklist_form_incomplete_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: move_out_checklist_form_permanent_damage
+      label: move_out_checklist_form_permanent_damage
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: move_out_checklist_form_normal_wear_and_tear
+      label: move_out_checklist_form_normal_wear_and_tear
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: move_out_checklist_form_unreported_items
+      label: move_out_checklist_form_unreported_items
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: move_out_checklist_form_missing_items
+      label: move_out_checklist_form_missing_items
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: move_out_checklist_form_unrepaired_damage
+      label: move_out_checklist_form_unrepaired_damage
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: move_out_checklist_form_damage
+      label: move_out_checklist_form_damage
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: move_out_checklist_form_repairs
+      label: move_out_checklist_form_repairs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

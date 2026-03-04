@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gear Check Form
+    pages:
+    - id: 1
+      name: equipment_inspection
+      label: Equipment Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment needs cleaning
+      - Equipment needs repair
+      - Other
+      - None
+      required: false
+    - id: 4
+      name: reported_by
+      label: Reported by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: resolved_date
+      label: Resolved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: resolved_by
+      label: Resolved by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_priority
+      label: Issue Priority
+      hint: Select priority level of the issue
+      type: select_one
+      options:
+      - Low
+      - High
+      - Critical
+      - None
+      required: false

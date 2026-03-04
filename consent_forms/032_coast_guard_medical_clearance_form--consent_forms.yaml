@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coast Guard Medical Clearance Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_id
+      label: Applicant ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: previous_surgeries
+      label: Previous Surgeries or Hospitalizations
+      hint: Please list all major procedures
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: List any ongoing conditions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_medications
+      label: Current Medications
+      hint: List all medications and dosages
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication_allergies
+      label: Medication Allergies
+      hint: List any known drug allergies
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_health_screening
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vision_correction
+      label: Vision Correction Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: hearing_issues
+      label: Any Hearing Issues
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: blood_pressure
+      label: Blood Pressure (Systolic/Diastolic)
+      hint: Leave blank if unknown
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: height_weight
+      label: Height and Weight
+      hint: Height (inches) and Weight (lbs)
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_questions
+      label: -- Medical Questionnaire --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: heart_disease
+      label: History of heart disease or cardiac issues
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: respiratory_disease
+      label: History of respiratory disease
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: mental_health
+      label: Mental health or psychological treatment
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: substance_abuse
+      label: History of substance abuse
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: section_physician_eval
+      label: -- Physician Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: physician_name
+      label: Examining Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: physician_clearance
+      label: Physician Medical Clearance
+      hint: Is applicant medically cleared?
+      type: select_one
+      options:
+      - Cleared
+      - Cleared with restrictions
+      - Not cleared
+      - Pending further evaluation
+      required: true
+    - id: 26
+      name: physician_notes
+      label: Physician Notes or Recommendations
+      hint: Any medical concerns or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_consent
+      label: -- Consent and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: consent_release
+      label: I authorize release of medical information
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 29
+      name: clearance_date
+      label: Clearance Date
+      hint: null
+      type: date
+      options: []
+      required: true

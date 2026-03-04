@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executor Estate Administration Checklist
+    pages:
+    - id: 1
+      name: estate_administration_checklist
+      label: Estate Administration Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: executor_name
+      label: Executor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: executor_address
+      label: Executor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: estate_value
+      label: Estate Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_opened
+      label: Date Opened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: executor_inheritance
+      label: Executor Inheritance
+      hint: null
+      type: select_multiple
+      options:
+      - Inheritance 1
+      - Inheritance 2
+      - Inheritance 3
+      required: false
+    - id: 7
+      name: beneficiaries
+      label: Beneficiaries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: estate_administrator
+      label: Estate Administrator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: estate_administrator_contact
+      label: Estate Administrator Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: estate_administrator_phone
+      label: Estate Administrator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: legal_professional
+      label: Legal Professional
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: legal_professional_contact
+      label: Legal Professional Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: legal_professional_phone
+      label: Legal Professional Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: executor_status
+      label: Executor Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: estate_administration_progress
+      label: Estate Administration Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: executor_domicile
+      label: Executor Domicile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: estate_administration_progress_date
+      label: Date of Estate Administration Progress
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: estate_administration_progress_status
+      label: Estate Administration Progress Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: estate_administration_progress_description
+      label: Estate Administration Progress Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: legal_fees
+      label: Legal Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: estate_administration_progress_comments
+      label: Estate Administration Progress Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: executor_notes
+      label: Executor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: legal_expenses
+      label: Legal Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: estate_administration_progress_comments
+      label: Estate Administration Progress Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: executor_fees
+      label: Executor Fees
+      hint: null
+      type: number
+      options: []
+      required: false

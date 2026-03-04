@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Confirmation Form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: submitter_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: film_details
+      label: film_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: director
+      label: director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: genre
+      label: genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: confirmation_code
+      label: confirmation_code
+      hint: null
+      type: text
+      options: []
+      required: true

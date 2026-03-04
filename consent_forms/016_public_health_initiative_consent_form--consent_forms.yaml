@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_health_initiative_consent_form
+    pages:
+    - id: 1
+      name: study_information
+      label: Study Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: Enter your contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: informed_consent
+      label: Informed Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: researcher_info
+      label: Researcher Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: study_location
+      label: Study Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: study_status
+      label: Study Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: study_status_2
+      label: study_status_2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 10
+      name: date_of_completion
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_completion
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: researcher_notes
+      label: Researcher Notes
+      hint: null
+      type: text
+      options: []
+      required: false

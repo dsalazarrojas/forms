@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Conference Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Exhibitor
+      - Staff
+      - Student
+      required: true
+    - id: 6
+      name: conference_name
+      label: conference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conference_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: registration_fee
+      label: registration_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: registration_code
+      label: code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: error_message
+      label: error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: terms
+      label: terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: privacy_policy
+      label: policy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: conference_url
+      label: link_to_conference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: conference_url_label
+      label: label_to_conference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: terms_url
+      label: link_to_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_url_label
+      label: label_to_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: privacy_url
+      label: link_to_privacy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: privacy_url_label
+      label: label_to_privacy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_id
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ip_address
+      label: ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: browser
+      label: browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: os
+      label: os
+      hint: null
+      type: text
+      options: []
+      required: false

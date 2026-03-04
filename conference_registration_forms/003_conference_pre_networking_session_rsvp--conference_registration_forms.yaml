@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Pre Networking Session RSVP
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Full Name
+        hint: Enter your name as registered for the conference
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: registration_id
+        label: Conference Registration ID
+        hint: Your conference registration confirmation number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: We will send session details to this email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Organization or Company
+        hint: Where are you currently employed
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: job_title
+        label: Job Title
+        hint: Your current position
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: session_preference
+        label: Preferred Networking Session
+        hint: Select your preferred pre-conference session
+        type: select_one
+        options:
+          - Morning Session 8 AM to 10 AM
+          - Afternoon Session 2 PM to 4 PM
+          - Evening Mixer 5 PM to 7 PM
+          - No Preference Any Session
+        required: true
+      - id: 7
+        name: networking_goals
+        label: Primary Networking Goal
+        hint: What do you hope to achieve through networking
+        type: select_one
+        options:
+          - Meet Potential Collaborators
+          - Find Mentorship Opportunities
+          - Explore Career Opportunities
+          - Share Research Interests
+          - Build Industry Connections
+          - General Networking
+        required: true
+      - id: 8
+        name: industry_sector
+        label: Industry Sector
+        hint: Select your primary industry
+        type: select_one
+        options:
+          - Academia and Research
+          - Healthcare and Medical
+          - Technology and Software
+          - Business and Finance
+          - Government and Public Policy
+          - Non-Profit and NGO
+          - Other
+        required: true
+      - id: 9
+        name: experience_level
+        label: Professional Experience Level
+        hint: Select your career stage
+        type: select_one
+        options:
+          - Student
+          - Early Career 0-5 years
+          - Mid Career 6-15 years
+          - Senior Level 16+ years
+          - Executive or Leadership
+        required: true
+      - id: 10
+        name: research_interests
+        label: Research or Professional Interests
+        hint: Briefly describe your key interests
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: group_discussion_topics
+        label: Topics You Would Like to Discuss
+        hint: Select topics for group discussions
+        type: select_multiple
+        options:
+          - Industry Trends and Innovations
+          - Career Development Strategies
+          - Research Collaboration Opportunities
+          - Best Practices Sharing
+          - Technology Applications
+          - Leadership and Management
+          - Work-Life Balance
+        required: false
+      - id: 12
+        name: dietary_requirements
+        label: Dietary Requirements
+        hint: Any dietary restrictions for refreshments
+        type: select_one
+        options:
+          - No Restrictions
+          - Vegetarian
+          - Vegan
+          - Gluten-Free
+          - Kosher
+          - Halal
+          - Other Allergies - Will Specify
+        required: true
+      - id: 13
+        name: dietary_notes
+        label: Dietary Notes
+        hint: Please specify your dietary needs
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: accessibility_needs
+        label: Accessibility Requirements
+        hint: Any accessibility accommodations needed
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: bring_business_cards
+        label: Will you bring business cards
+        hint: Business cards facilitate networking
+        type: select_one
+        options:
+          - Yes I will bring cards
+          - No I prefer digital exchange
+          - Maybe
+        required: false
+      - id: 16
+        name: introduction_preference
+        label: How would you like to be introduced
+        hint: Brief introduction for the host
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: follow_up_interest
+        label: Interest in Post-Event Follow Up
+        hint: Would you like to receive attendee contact list
+        type: select_one
+        options:
+          - Yes Please Share Contacts
+          - No Thank You
+          - Maybe Decide Later
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments or Requests
+        hint: Any other information we should know
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: rsvp_confirmation
+        label: I confirm my attendance at the pre-networking session
+        hint: Please confirm your commitment to attend
+        type: select_one
+        options:
+          - Yes I Will Attend
+          - No I Cannot Attend
+        required: true

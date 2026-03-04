@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Records Release Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: Information about the person requesting the records
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_relationship
+      label: Relationship to Adoptee
+      hint: What is your connection to the adopted person
+      type: select_one
+      options:
+      - Adoptee (Adult)
+      - Biological Family Member
+      - Adoptive Family Member
+      - Legal Representative
+      - Authorized Agency
+      - Other
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: For communication about your request
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_address
+      label: Mailing Address
+      hint: Where to send the released records
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_adoptee_info
+      label: -- Adoptee Information --
+      hint: Information about the adopted person
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: adoptee_name
+      label: Adoptee Full Name
+      hint: Legal name of adopted person
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: adoptee_date_of_birth
+      label: Adoptee Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: adoptee_current_age
+      label: Current Age
+      hint: Age of adoptee
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: adoptee_adoption_date
+      label: Date of Adoption
+      hint: When was the adoption finalized
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: adoption_agency_name
+      label: Original Adoption Agency
+      hint: Name of agency handling the adoption
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: adoption_court
+      label: Adoption Court Location
+      hint: Court where adoption was finalized
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_records_needed
+      label: -- Records Requested --
+      hint: Specify what records you need
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: records_type
+      label: Type of Records Needed
+      hint: Select all applicable records
+      type: select_multiple
+      options:
+      - Birth Certificate
+      - Medical Records
+      - Psychological Evaluation
+      - Social History
+      - Court Documents
+      - Photographs
+      - All Available
+      required: true
+    - id: 16
+      name: medical_history_needed
+      label: Medical History Information
+      hint: Do you need medical history
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: biological_family_contact
+      label: Biological Family Contact Information
+      hint: Do you need biological family information
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: section_consent
+      label: -- Authorization and Consent --
+      hint: Your agreement to release conditions
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: agree_to_conditions
+      label: I Agree to the Terms and Conditions
+      hint: Do you agree to confidentiality requirements
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: certified_copy
+      label: Certified Copy Required
+      hint: Do you need a certified copy
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: processing_fee_acceptance
+      label: Accept Processing Fee
+      hint: Understand there may be fees
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Information or Notes
+      hint: Any special requests or information
+      type: text
+      options: []
+      required: false

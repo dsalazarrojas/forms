@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Assessment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: psychological_health
+      label: Psychological Health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_consent
+      label: User Consent
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      - Undecided
+      required: false
+    - id: 8
+      name: mental_health_professional
+      label: Mental Health Professional
+      hint: null
+      type: select_multiple
+      options:
+      - Psychiatrist
+      - Therapist
+      - Counselor
+      required: false
+    - id: 9
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Child
+      - Senior
+      required: false
+    - id: 10
+      name: assessment_location
+      label: Assessment Location
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Clinic
+      required: false
+    - id: 11
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assessment_duration
+      label: Assessment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_schedule
+      label: Follow-up Schedule
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 16
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Ongoing
+      required: false

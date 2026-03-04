@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Ergonomics Checklist Form
+    pages:
+    - id: 1
+      name: workstations_evaluation
+      label: Workstations Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_surface
+      label: Work Surface
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_height
+      label: Work Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: work_distance
+      label: Work Distance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: chair_adjustability
+      label: Chair Adjustability
+      hint: null
+      type: select_multiple
+      options:
+      - Adjustable
+      - Fixed
+      required: false
+    - id: 6
+      name: chair_type
+      label: Chair Type
+      hint: null
+      type: select_one
+      options:
+      - Chair
+      - Standing Desk
+      - None
+      required: true
+    - id: 7
+      name: monitor_height
+      label: Monitor Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: keyboard_position
+      label: Keyboard Position
+      hint: null
+      type: select_one
+      options:
+      - Near
+      - Far
+      - None
+      required: true
+    - id: 9
+      name: mouse_position
+      label: Mouse Position
+      hint: null
+      type: select_one
+      options:
+      - Near
+      - Far
+      - None
+      required: true
+    - id: 10
+      name: ergonomic_posture
+      label: Ergonomic Posture
+      hint: null
+      type: time
+      options: []
+      required: false

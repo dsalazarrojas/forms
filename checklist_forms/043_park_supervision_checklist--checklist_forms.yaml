@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Park Supervision Checklist
+    pages:
+    - id: 1
+      name: park_inspections
+      label: Park Inspections
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hazards_reported
+      label: Hazards Reported
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: photos_collected
+      label: Photos Collected
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: notes_collected
+      label: Notes Collected
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: staff_contractor_photos
+      label: Staff or Contractor Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: staff_contractor_notes
+      label: Staff or Contractor Notes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Camera Recording Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Security Camera Recording Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: camera_location
+      label: Camera Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: recording_start_time
+      label: Recording Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: recording_end_time
+      label: Recording End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: recording_duration
+      label: Recording Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: camera_purpose
+      label: Camera Purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: recording_frequency
+      label: Recording Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: access_rights
+      label: Access Rights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: camera_type
+      label: Camera Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: recording_frequency_description
+      label: Recording Frequency Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent
+      label: Consent
+      hint: I acknowledge and agree to the above terms
+      type: select_one
+      options:
+      - Consent
+      - Decline
+      required: false

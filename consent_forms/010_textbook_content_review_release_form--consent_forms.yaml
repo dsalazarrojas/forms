@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: textbook_content_review_release_form
+    pages:
+    - id: 1
+      name: first_page
+      label: Textbook Content Review Form
+      hint: Please review the textbook content below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: textbook_evaluation
+      label: Textbook Evaluation
+      hint: Evaluate the content of the textbook
+      type: select_multiple
+      options:
+      - Accept without modification
+      - Accept with modification
+      - Reject
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: review_decision
+      label: Review Decision
+      hint: Please select the decision on the review of the textbook content
+      type: select_one
+      options:
+      - Accept
+      - Modify
+      - Reject
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: user_name
+      label: User Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: publisher_name
+      label: Publisher Name
+      hint: Please enter the name of the publisher
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_district
+      label: School District
+      hint: Please enter the name of the school district
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: curriculum_team
+      label: Curriculum Team
+      hint: Please enter the name of the curriculum team
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: textbook_title
+      label: Textbook Title
+      hint: Please enter the title of the textbook
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: textbook_year
+      label: Textbook Year
+      hint: Please enter the year of the textbook
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: textbook_edition
+      label: Textbook Edition
+      hint: Please enter the edition of the textbook
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewee_name
+      label: Reviewee Name
+      hint: Please enter the name of the Reviewee
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewee_email
+      label: Reviewee Email
+      hint: Please enter the email of the Reviewee
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: reviewee_phone
+      label: Reviewee Phone
+      hint: Please enter the phone number of the Reviewee
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: Please enter any comments
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: Please enter the name of the submitter
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitted_email
+      label: Submitted Email
+      hint: Please enter the email of the submitter
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: submitted_phone
+      label: Submitted Phone
+      hint: Please enter the phone number of the submitter
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: school_id
+      label: School ID
+      hint: Please enter the school ID
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: school_district_name
+      label: School District Name
+      hint: Please enter the name of the school district
+      type: text
+      options: []
+      required: false

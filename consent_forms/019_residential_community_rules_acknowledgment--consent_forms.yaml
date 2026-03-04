@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Community Rules Acknowledgment
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rules_understood
+      label: Have you read and understood the rules?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rules_acknowledged
+      label: I acknowledge that I have read and understood the rules
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Disagreed
+      required: false
+    - id: 9
+      name: resident_signature
+      label: Signature of Resident
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Coaching Certification Application Form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: As it should appear on certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: For application communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_role
+      label: Current role
+      hint: Job title and employer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_experience
+      label: Years of agile coaching experience
+      hint: Total years of experience
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: qualifications
+      label: Qualifications
+      hint: Relevant certifications or education
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: statement_of_intent
+      label: Statement of intent
+      hint: Brief statement why you seek certification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: references
+      label: Professional references
+      hint: Names and contact details of two references
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supporting_documents
+      label: Supporting documents description
+      hint: Describe attachments such as CV or case studies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_start_date
+      label: Preferred start date
+      hint: When you are available to begin the program
+      type: date
+      options: []
+      required: false

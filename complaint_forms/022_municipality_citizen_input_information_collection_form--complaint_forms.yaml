@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipality Citizen Input Information Collection Form
+    pages:
+    - id: 1
+      name: resident_feedback
+      label: Resident Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department of Public Works
+      - Department of Health
+      - Department of Finance
+      required: true
+    - id: 3
+      name: concern_description
+      label: Concern Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: concern_category
+      label: Concern Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In person
+      required: true
+    - id: 6
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resident_email
+      label: Resident Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: resident_phone
+      label: Resident Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Data Governance Forum Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_function
+      label: Job function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_interest
+      label: Session interest
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - IT
+      - other
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I disagree to the terms and conditions
+      required: true
+    - id: 12
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - EST5
+      - CST
+      - CST5
+      - PST
+      - PST5
+      required: true
+    - id: 21
+      name: agree_term
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - Agree to the terms and conditions
+      - Disagree to the terms and conditions
+      required: true
+    - id: 22
+      name: agree_privacy
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - Agree to the privacy policy
+      - Disagree to the privacy policy
+      required: true
+    - id: 23
+      name: agree_terms_privacy
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - Agree to both terms and privacy
+      - Disagree to both terms and privacy
+      required: true
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: email_agreement
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

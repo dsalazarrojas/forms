@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Association Conference Topic Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of topic submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: conference_name
+      label: Conference Name
+      hint: Which conference is this for?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: conference_year
+      label: Conference Year
+      hint: Year of the conference
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: speaker_first_name
+      label: Speaker First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: speaker_last_name
+      label: Speaker Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: speaker_title
+      label: Professional Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: speaker_organization
+      label: Organization
+      hint: Your company or institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: speaker_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: speaker_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: speaker_bio
+      label: Speaker Bio
+      hint: Brief professional biography
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: speaking_experience
+      label: Prior Speaking Experience
+      hint: Conference presentations given
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: topic_title
+      label: Proposed Topic Title
+      hint: Title of your session
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: topic_description
+      label: Topic Description
+      hint: Detailed description of content
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: topic_objectives
+      label: Learning Objectives
+      hint: What will attendees learn?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_audience
+      label: Target Audience
+      hint: Who should attend this session?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: session_format
+      label: Proposed Session Format
+      hint: Lecture, panel, workshop, etc.
+      type: select_one
+      options:
+      - Keynote
+      - Full-Length Session
+      - Half-Length Session
+      - Panel Discussion
+      - Workshop
+      - Roundtable
+      - Lightning Talk
+      - Poster Presentation
+      required: true
+    - id: 17
+      name: session_duration
+      label: Preferred Session Duration
+      hint: How long is your session?
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      - Full Day
+      required: true
+    - id: 18
+      name: co_presenters
+      label: Co-Presenters (if any)
+      hint: Names of other speakers
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: av_requirements
+      label: Audio/Visual Requirements
+      hint: Projector, microphone, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: materials_provided
+      label: Handouts or Materials Provided
+      hint: Will you provide materials?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: materials_description
+      label: Description of Materials
+      hint: What materials will you provide?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_conference_participation
+      label: Have You Presented at Our Conference Before
+      hint: Prior conference participation?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 23
+      name: conference_attendance_year
+      label: Year of Previous Presentation
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: topic_alignment
+      label: How Does Your Topic Align with Conference Theme
+      hint: Connection to conference theme
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: inquiry_submission_date
+      label: Form Submission Date
+      hint: Date form completed
+      type: date
+      options: []
+      required: true

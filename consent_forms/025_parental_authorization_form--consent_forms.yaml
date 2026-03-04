@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Authorization Form
+    pages:
+    - id: 1
+      name: parental_authorization_form
+      label: parental_authorization_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: guardian_name
+      label: guardian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_email
+      label: guardian_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guardian_phone
+      label: guardian_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_relation
+      label: guardian_relation
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: false
+    - id: 6
+      name: minor_name
+      label: minor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: minor_birthdate
+      label: minor_birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: minor_school
+      label: minor_school
+      hint: null
+      type: select_one
+      options:
+      - Home Schooled
+      - Public School
+      - Private School
+      - Other
+      required: false
+    - id: 9
+      name: minor_activity
+      label: minor_activity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization_address
+      label: organization_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: organization_phone
+      label: organization_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: organization_email
+      label: organization_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: organization_type
+      label: organization_type
+      hint: null
+      type: select_one
+      options:
+      - Nonprofit
+      - Private
+      - Public
+      - Other
+      required: false
+    - id: 15
+      name: form_signature
+      label: form_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: form_date
+      label: form_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: form_time
+      label: form_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: form_signature_image
+      label: form_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_signature_image2
+      label: form_signature_image2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_signature_image3
+      label: form_signature_image3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_signature_image4
+      label: form_signature_image4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_signature_image5
+      label: form_signature_image5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_signature_image6
+      label: form_signature_image6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_signature_image7
+      label: form_signature_image7
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deep Cleaning Refusal Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Deep Cleaning Refusal Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: refuse_reasons
+      label: Why do you want to refuse the cleaning services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: acknowledgments
+      label: Is there anything else we can do to assist you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - '{''Client Name'': ''''}'
+      - '{''Service Area'': ''''}'
+      - '{''Service Type'': ''''}'
+      required: true
+    - id: 5
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false

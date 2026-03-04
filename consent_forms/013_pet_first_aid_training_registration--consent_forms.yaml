@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet First Aid Training Registration
+    pages:
+    - id: 1
+      name: name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training
+      label: training_session
+      hint: null
+      type: select_one
+      options:
+      - Training 1
+      - Training 2
+      - Training 3
+      required: true
+    - id: 6
+      name: date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: registration_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: privacy_consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      required: false
+    - id: 11
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: true
+    - id: 16
+      name: form_form_ids
+      label: form_form_ids
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_assigned_tool
+      label: form_assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      required: false
+    - id: 18
+      name: form_output_file
+      label: form_output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_output_file_name
+      label: form_output_file_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_output_file_id
+      label: form_output_file_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_output_file_2
+      label: form_output_file_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_output_file_2_id
+      label: form_output_file_2_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_output_file_3
+      label: form_output_file_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_output_file_3_id
+      label: form_output_file_3_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_output_file_4
+      label: form_output_file_4
+      hint: null
+      type: text
+      options: []
+      required: false

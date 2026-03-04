@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Processing Authorization Letter Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: representative_name
+      label: Representative Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: representative_phone
+      label: Representative Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: representative_email
+      label: Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Document Type 1
+      - Document Type 2
+      - Document Type 3
+      required: true
+    - id: 8
+      name: document_details
+      label: Document Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: document_start_date
+      label: Document Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: document_end_date
+      label: Document End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: document_location
+      label: Document Location
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: document_notes
+      label: Document Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

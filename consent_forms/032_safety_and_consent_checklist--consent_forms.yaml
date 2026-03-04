@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety And Consent Checklist
+    pages:
+    - id: 1
+      name: first_page
+      label: safety_checklist
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: first_page
+      label: consent_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: first_page
+      label: acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_page
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: first_page
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: first_page
+      label: email
+      hint: Please enter email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: first_page
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: first_page
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_page
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: first_page
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: first_page
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: first_page
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: first_page
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: second_page
+      label: declaration_of_consent
+      hint: null
+      type: select_multiple
+      options:
+      - I acknowledge
+      - I decline
+      - Maybe
+      required: false
+    - id: 15
+      name: second_page
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Decline
+      - Undecided
+      required: false
+    - id: 16
+      name: second_page
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

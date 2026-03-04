@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Missing Loyalty Points Claim Form
+    pages:
+    - id: 1
+      name: store_info
+      label: store_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loyalty_program
+      label: loyalty_program
+      hint: null
+      type: select_one
+      options:
+      - Loyalty Program 1
+      - Loyalty Program 2
+      - Loyalty Program 3
+      required: false
+    - id: 3
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: points_earned
+      label: points_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_proof
+      label: purchase_proof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

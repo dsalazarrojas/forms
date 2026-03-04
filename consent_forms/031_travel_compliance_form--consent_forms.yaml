@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Compliance Form
+    pages:
+    - id: 1
+      name: travel_compliance_form
+      label: Travel Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_country
+      label: destination_country
+      hint: null
+      type: select_one
+      options:
+      - Japan
+      - China
+      - South Korea
+      - France
+      - Spain
+      - Portugal
+      - United States
+      - Italy
+      - United Kingdom
+      - Germany
+      required: false
+    - id: 4
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - Completed
+      - Cancelled
+      required: false
+    - id: 7
+      name: travel_documents
+      label: documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Not Agreed
+      required: false
+    - id: 10
+      name: travel_agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: travel_agreement_status
+      label: agreement_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: false
+    - id: 12
+      name: travel_agreement_comments
+      label: agreement_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agreement_attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_agreement_attachment_date
+      label: attachment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: travel_agreement_attachment_status
+      label: attachment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: false
+    - id: 16
+      name: travel_agreement_attachment_comments
+      label: attachment_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_agreement_attachment_signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Not Signed
+      required: false
+    - id: 18
+      name: travel_agreement_attachment_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: travel_agreement_attachment_status
+      label: attachment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: false
+    - id: 20
+      name: travel_agreement_attachment_comments
+      label: attachment_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_agreement_attachment_signature_status
+      label: signature_status
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Not Signed
+      required: false
+    - id: 22
+      name: travel_agreement_attachment_signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_agreement_attachment_signed_by_title
+      label: signed_by_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: travel_agreement_attachment_signed_by_email
+      label: signed_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: travel_agreement_attachment_signed_by_phone
+      label: signed_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false

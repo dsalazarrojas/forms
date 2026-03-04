@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Container Issue Complaint Form
+    pages:
+    - id: 1
+      name: shipping_container_issue
+      label: Container Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: container_location
+      label: Container Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_email_confirmed
+      label: Is Contact Email Confirmed?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 8
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_multiple
+      options:
+      - Mechanical
+      - Electrical
+      - Environmental
+      - Other
+      required: false
+    - id: 9
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Ground
+      - Both
+      required: false
+    - id: 10
+      name: shipping_mode
+      label: Shipping Mode
+      hint: null
+      type: select_multiple
+      options:
+      - Regular
+      - Priority
+      - Express
+      - Both
+      required: false
+    - id: 11
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false

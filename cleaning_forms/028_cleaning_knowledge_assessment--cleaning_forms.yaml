@@ -1,0 +1,391 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Knowledge Assessment
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Full name of the employee
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID Number
+        hint: Employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: position
+        label: Position or Job Title
+        hint: Your current position
+        type: select_one
+        options:
+          - Residential Cleaner
+          - Commercial Cleaner
+          - Janitorial Staff
+          - Floor Care Specialist
+          - Carpet Cleaning Technician
+          - Window Cleaner
+          - Team Leader or Supervisor
+          - Trainee
+        required: true
+      - id: 4
+        name: location
+        label: Work Location
+        hint: Your primary work location
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this assessment
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: assessor_name
+        label: Assessor or Trainer Name
+        hint: Name of person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: assessment_type
+        label: Assessment Type
+        hint: What type of assessment is this
+        type: select_one
+        options:
+          - New Hire Assessment
+          - Post-Training Assessment
+          - Annual Competency Check
+          - Skills Upgrade Assessment
+          - Remedial Assessment
+        required: true
+      - id: 8
+        name: section_header_safety
+        label: -- Safety Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: safety_equipment_knowledge
+        label: Safety Equipment Knowledge
+        hint: Understanding of required safety equipment
+        type: select_one
+        options:
+          - Excellent - Can identify and use all equipment
+          - Good - Knows most equipment
+          - Fair - Needs review
+          - Poor - Limited knowledge
+        required: true
+      - id: 10
+        name: chemical_safety_knowledge
+        label: Chemical Safety Knowledge
+        hint: Understanding of chemical safety
+        type: select_one
+        options:
+          - Excellent - Fully understands MSDS and handling
+          - Good - Understands basic safety
+          - Fair - Needs additional training
+          - Poor - Limited understanding
+        required: true
+      - id: 11
+        name: hazard_identification
+        label: Hazard Identification Skills
+        hint: Ability to identify workplace hazards
+        type: select_one
+        options:
+          - Excellent - Can identify all hazards
+          - Good - Identifies most hazards
+          - Fair - Misses some hazards
+          - Poor - Limited awareness
+        required: true
+      - id: 12
+        name: emergency_procedures
+        label: Emergency Procedures Knowledge
+        hint: Understanding of emergency protocols
+        type: select_one
+        options:
+          - Excellent - Knows all procedures
+          - Good - Knows basic procedures
+          - Fair - Needs review
+          - Poor - Unfamiliar with procedures
+        required: true
+      - id: 13
+        name: section_header_cleaning
+        label: -- Cleaning Procedures --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: cleaning_chemicals_knowledge
+        label: Cleaning Chemicals Knowledge
+        hint: Understanding of different cleaning chemicals
+        type: select_one
+        options:
+          - Excellent - Knows all chemicals and uses
+          - Good - Knows common chemicals
+          - Fair - Limited knowledge
+          - Poor - Needs training
+        required: true
+      - id: 15
+        name: surface_identification
+        label: Surface Identification Skills
+        hint: Ability to identify different surfaces
+        type: select_one
+        options:
+          - Excellent - Identifies all surfaces correctly
+          - Good - Identifies most surfaces
+          - Fair - Confuses some surfaces
+          - Poor - Limited knowledge
+        required: true
+      - id: 16
+        name: cleaning_methods_knowledge
+        label: Cleaning Methods Knowledge
+        hint: Understanding of proper cleaning methods
+        type: select_one
+        options:
+          - Excellent - Knows all proper methods
+          - Good - Knows common methods
+          - Fair - Inconsistent knowledge
+          - Poor - Needs training
+        required: true
+      - id: 17
+        name: color_coding_system
+        label: Color Coding System Knowledge
+        hint: Understanding of color-coded cleaning tools
+        type: select_one
+        options:
+          - Excellent - Fully understands system
+          - Good - Understands basics
+          - Fair - Confused about some colors
+          - Poor - Does not understand
+        required: true
+      - id: 18
+        name: section_header_equipment
+        label: -- Equipment Operation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: vacuum_operation
+        label: Vacuum Cleaner Operation
+        hint: Ability to operate vacuum cleaners
+        type: select_one
+        options:
+          - Excellent - Can operate all types
+          - Good - Can operate common types
+          - Fair - Needs supervision
+          - Poor - Cannot operate
+        required: true
+      - id: 20
+        name: floor_machine_operation
+        label: Floor Machine Operation
+        hint: Ability to operate floor buffers and scrubbers
+        type: select_one
+        options:
+          - Excellent - Proficient with all machines
+          - Good - Can operate basic machines
+          - Fair - Needs training
+          - Poor - Cannot operate
+          - Not Applicable
+        required: true
+      - id: 21
+        name: carpet_extractor_operation
+        label: Carpet Extractor Operation
+        hint: Ability to operate carpet cleaning equipment
+        type: select_one
+        options:
+          - Excellent - Fully proficient
+          - Good - Basic operation skills
+          - Fair - Needs practice
+          - Poor - Cannot operate
+          - Not Applicable
+        required: true
+      - id: 22
+        name: equipment_maintenance
+        label: Equipment Maintenance Knowledge
+        hint: Understanding of equipment care and maintenance
+        type: select_one
+        options:
+          - Excellent - Knows all maintenance procedures
+          - Good - Knows basic maintenance
+          - Fair - Limited knowledge
+          - Poor - No knowledge
+        required: true
+      - id: 23
+        name: section_header_quality
+        label: -- Quality Standards --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: quality_standards_knowledge
+        label: Quality Standards Knowledge
+        hint: Understanding of cleaning quality standards
+        type: select_one
+        options:
+          - Excellent - Fully understands standards
+          - Good - Understands most standards
+          - Fair - Inconsistent understanding
+          - Poor - Limited knowledge
+        required: true
+      - id: 25
+        name: inspection_checklist_knowledge
+        label: Inspection Checklist Knowledge
+        hint: Understanding of inspection requirements
+        type: select_one
+        options:
+          - Excellent - Knows all checklist items
+          - Good - Knows most items
+          - Fair - Misses some items
+          - Poor - Unfamiliar with checklists
+        required: true
+      - id: 26
+        name: time_management
+        label: Time Management Skills
+        hint: Ability to complete tasks in allocated time
+        type: select_one
+        options:
+          - Excellent - Always completes on time
+          - Good - Usually completes on time
+          - Fair - Sometimes rushes
+          - Poor - Frequently behind schedule
+        required: true
+      - id: 27
+        name: attention_to_detail
+        label: Attention to Detail
+        hint: Thoroughness in cleaning tasks
+        type: select_one
+        options:
+          - Excellent - Very thorough
+          - Good - Generally thorough
+          - Fair - Misses some details
+          - Poor - Often misses details
+        required: true
+      - id: 28
+        name: section_header_customer_service
+        label: -- Customer Service --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: customer_interaction
+        label: Customer Interaction Skills
+        hint: Ability to interact professionally with clients
+        type: select_one
+        options:
+          - Excellent - Very professional
+          - Good - Generally professional
+          - Fair - Needs improvement
+          - Poor - Unprofessional
+        required: true
+      - id: 30
+        name: complaint_handling
+        label: Complaint Handling Knowledge
+        hint: Understanding of how to handle customer complaints
+        type: select_one
+        options:
+          - Excellent - Knows proper procedures
+          - Good - Knows basic procedures
+          - Fair - Unclear on procedures
+          - Poor - Does not know procedures
+        required: true
+      - id: 31
+        name: section_header_assessment
+        label: -- Overall Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: overall_knowledge_score
+        label: Overall Knowledge Score
+        hint: Overall assessment of employee knowledge
+        type: select_one
+        options:
+          - Excellent - Ready for independent work
+          - Good - Minor additional training needed
+          - Fair - Significant training needed
+          - Poor - Extensive retraining required
+        required: true
+      - id: 33
+        name: areas_of_strength
+        label: Areas of Strength
+        hint: What does the employee do well
+        type: text
+        options: []
+        required: true
+      - id: 34
+        name: areas_needing_improvement
+        label: Areas Needing Improvement
+        hint: What needs additional training
+        type: text
+        options: []
+        required: true
+      - id: 35
+        name: recommended_training
+        label: Recommended Training
+        hint: What training is recommended
+        type: text
+        options: []
+        required: true
+      - id: 36
+        name: retest_required
+        label: Retest Required
+        hint: Is a retest needed
+        type: select_one
+        options:
+          - No - Passed assessment
+          - Yes - Retest in 1 week
+          - Yes - Retest in 2 weeks
+          - Yes - Additional training before retest
+        required: true
+      - id: 37
+        name: assessor_comments
+        label: Assessor Comments
+        hint: Any additional observations
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: employee_comments
+        label: Employee Comments
+        hint: Employee response or questions
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: assessor_signature
+        label: Assessor Signature (Type Full Name)
+        hint: Assessor electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 40
+        name: employee_signature
+        label: Employee Signature (Type Full Name)
+        hint: Employee electronic signature
+        type: text
+        options: []
+        required: true

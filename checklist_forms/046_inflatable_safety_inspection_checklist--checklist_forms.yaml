@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inflatable Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: event_information
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event Type 1
+      - Event Type 2
+      - Event Type 3
+      required: false
+    - id: 3
+      name: inflatable_details
+      label: Inflatable Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_measures
+      label: Safety Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Measure 1
+      - Measure 2
+      - Measure 3
+      required: false
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - Action 1
+      - Action 2
+      - Action 3
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

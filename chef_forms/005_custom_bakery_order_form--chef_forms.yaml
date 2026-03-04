@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Bakery Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: items_ordered
+      label: Items Ordered
+      hint: What items do you want to order?
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 3
+      name: item1
+      label: Bagel
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: special_request
+      label: Special Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time_note
+      label: Delivery Time
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

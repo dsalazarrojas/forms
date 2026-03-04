@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Services Complaint Form
+    pages:
+    - id: 1
+      name: patron_feedback
+      label: Patron Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_description
+      label: Complaint Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Complaint Forms,Administrative Forms
+      - Other
+      required: false
+    - id: 4
+      name: issue_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Circulation
+      - Reference
+      - Collection Development
+      - Administration
+      - Technical
+      - Other
+      required: false
+    - id: 6
+      name: complaint_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patron_contact_email
+      label: Patron Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: patron_phone
+      label: Patron Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: library_staff_email
+      label: Library Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: library_phone
+      label: Library Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Pending
+      - Closed
+      required: false
+    - id: 12
+      name: issue_resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false

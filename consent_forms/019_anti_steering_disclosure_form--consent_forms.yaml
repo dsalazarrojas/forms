@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Steering Disclosure Form
+    pages:
+    - id: 1
+      name: disclosure_date
+      label: Disclosure Date
+      hint: Date of disclosure
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: borrower_name
+      label: Borrower Full Name
+      hint: Primary borrower name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: co_borrower_name
+      label: Co-Borrower Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Address of secured property
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: Principal loan amount
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: loan_purpose
+      label: Loan Purpose
+      hint: What is the loan for
+      type: select_one
+      options:
+      - Purchase
+      - Refinance
+      - Cash-out refinance
+      - Home equity loan
+      - Home equity line of credit
+      - Other
+      required: true
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Single family home
+      - Condominium
+      - Townhouse
+      - Multi-unit property
+      - Manufactured home
+      - Other
+      required: true
+    - id: 8
+      name: occupancy_type
+      label: Occupancy Type
+      hint: How will property be used
+      type: select_one
+      options:
+      - Primary residence
+      - Secondary residence
+      - Investment property
+      required: true
+    - id: 9
+      name: lender_name
+      label: Lender Name
+      hint: Name of lending institution
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: loan_officer_name
+      label: Loan Officer Name
+      hint: Name of loan officer
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: loan_officer_nmls
+      label: Loan Officer NMLS ID
+      hint: NMLS identification number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: disclosure_section
+      label: -- Anti-Steering Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: steering_disclosure_statement
+      label: Steering Disclosure Statement
+      hint: Read the following disclosure
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: loan_options_presented
+      label: Number of Loan Options Presented
+      hint: How many options were shown
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: loan_options_details
+      label: Loan Options Details
+      hint: Brief description of each option
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: borrower_selected_loan
+      label: Loan Selected by Borrower
+      hint: Which loan did you choose
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: selection_reason
+      label: Reason for Selection
+      hint: Why did you choose this loan
+      type: select_one
+      options:
+      - Best interest rate
+      - Lowest monthly payment
+      - Best loan terms
+      - Lowest closing costs
+      - Recommended by loan officer
+      - Other factors
+      required: true
+    - id: 18
+      name: other_factors_description
+      label: Other Factors Description
+      hint: If other, please explain
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: compensation_disclosure
+      label: Loan Officer Compensation Disclosure
+      hint: Compensation structure explained
+      type: select_one
+      options:
+      - Yes, explained
+      - No, not explained
+      required: true
+    - id: 20
+      name: compensation_varies_by_option
+      label: Does Compensation Vary by Loan Option
+      hint: Is compensation different for different loans
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 21
+      name: borrower_understanding
+      label: Borrower Understanding
+      hint: Do you understand the disclosure
+      type: select_one
+      options:
+      - Yes, I understand
+      - Partially understand
+      - No, I do not understand
+      required: true
+    - id: 22
+      name: questions_asked
+      label: Did You Ask Questions
+      hint: Were you able to ask questions
+      type: select_one
+      options:
+      - Yes, all questions answered
+      - Yes, some questions unanswered
+      - No, I had no questions
+      required: true
+    - id: 23
+      name: voluntary_selection
+      label: Voluntary Selection
+      hint: Was your selection made voluntarily
+      type: select_one
+      options:
+      - Yes, voluntary
+      - No, felt pressured
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other remarks
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: borrower_signature
+      label: Borrower Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: borrower_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: co_borrower_signature
+      label: Co-Borrower Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: loan_officer_signature
+      label: Loan Officer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: witness_signature
+      label: Witness Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false

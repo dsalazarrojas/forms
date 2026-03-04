@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noise Disturbance Complaint Form
+    pages:
+    - id: 1
+      name: noise_disturbance_complaint_form
+      label: Noise Disturbance Complaint Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: noise_type
+      label: Noise Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: noise_duration
+      label: Noise Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: noise_level
+      label: Noise Level
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: noise_location
+      label: Noise Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: noise_frequency
+      label: Noise Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 7
+      name: noise_start_time
+      label: Noise Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: noise_end_time
+      label: Noise End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: noise_details
+      label: Noise Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: noise_complainant_details
+      label: Noise Complainant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: noise_offender_details
+      label: Noise Offender Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: noise_resolution_status
+      label: Noise Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 13
+      name: noise_resolved_by
+      label: Noise Resolved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: noise_resolved_time
+      label: Noise Resolved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: noise_next_follow_up
+      label: Noise Next Follow-Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: noise_follow_up_status
+      label: Noise Follow-Up Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 17
+      name: noise_complainant_comments
+      label: Noise Complainant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: noise_offender_comments
+      label: Noise Offender Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: noise_complainant_signature
+      label: Noise Complainant Signature
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 20
+      name: noise_offender_signature
+      label: Noise Offender Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: noise_admin_comments
+      label: Noise Admin Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: noise_admin_signature
+      label: Noise Admin Signature
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 23
+      name: noise_complaint_status
+      label: Noise Complaint Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 24
+      name: noise_offender
+      label: Noise Offender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: noise_offender_id
+      label: Noise Offender ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Event Coverage Consent Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required if under 18 for parental consent
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of the animal welfare event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Where the event is taking place
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_media_permissions
+      label: -- Media Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: photography_consent
+      label: I consent to be photographed during the event
+      hint: Photos may be shared on social media and promotional materials
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional - Ask first
+      required: true
+    - id: 12
+      name: video_consent
+      label: I consent to be filmed or recorded during the event
+      hint: Video recordings may be used for promotional or documentary purposes
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional - Ask first
+      required: true
+    - id: 13
+      name: audio_consent
+      label: I consent to audio recording of my voice or statements
+      hint: Audio may be used in interviews, podcasts, or educational materials
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional - Ask first
+      required: true
+    - id: 14
+      name: name_and_likeness
+      label: I grant permission to use my name and likeness in media
+      hint: My name and image can be credited in published materials
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      - I prefer anonymity
+      required: true
+    - id: 15
+      name: media_usage_scope
+      label: How may media of me be used
+      hint: Select the platforms and purposes you approve
+      type: select_multiple
+      options:
+      - Social Media (Facebook, Instagram, Twitter, etc.)
+      - Website
+      - Newsletters and Email Communications
+      - Print Materials and Promotional Items
+      - Educational Videos or Documentaries
+      - News Articles or Press Releases
+      - Annual Reports
+      required: false
+    - id: 16
+      name: commercial_use
+      label: I consent to commercial use of my image or statements
+      hint: Materials may be used in for-profit marketing or fundraising
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Yes, but only for nonprofit use
+      required: false
+    - id: 17
+      name: section_parental_consent
+      label: -- Parental/Guardian Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: Full name of parent or legal guardian
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parent_email
+      label: Parent/Guardian Email Address
+      hint: Contact email for parent or guardian
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: parent_consent
+      label: Parent/Guardian consents to above media permissions
+      hint: Parent or guardian must acknowledge this consent
+      type: select_one
+      options:
+      - Yes, I consent as parent/guardian
+      - No, I do not consent
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes or Restrictions
+      hint: Any specific restrictions on how your image can be used
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_consent
+      label: I have read and agree to this consent form
+      hint: By clicking yes, you acknowledge and agree to the terms above
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

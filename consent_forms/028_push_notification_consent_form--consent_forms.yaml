@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Push Notification Consent Form
+    pages:
+    - id: 1
+      name: push_notification_consent_form
+      label: Push Notification Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_for_push_notifications
+      label: Consent for Push Notifications
+      hint: null
+      type: select_one
+      options:
+      - Push notifications
+      - No push notifications
+      - Ask later
+      required: false
+    - id: 3
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_multiple
+      options:
+      - In-app notifications
+      - Website push notifications
+      - Email notifications
+      - SMS and email notifications
+      required: false
+    - id: 4
+      name: push_notification_description
+      label: Push Notification Description
+      hint: Brief description of push notifications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: how_do_you_want_to_be_notified
+      label: How do you want to be notied?
+      hint: null
+      type: select_one
+      options:
+      - In-app messages
+      - Email
+      - SMS
+      - No notifications
+      required: false
+    - id: 6
+      name: push_notification_frequency
+      label: Push Notification Frequency
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: do_you_allow_push_notifications
+      label: Do you allow push notifications?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: consent_to_data_collection
+      label: Consent to data collection
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: do_you_want_to_change_your_consent
+      label: Do you want to change your consent?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: do_you_want_to_change_your_consent_reason
+      label: Why do you want to change your consent?
+      hint: null
+      type: text
+      options: []
+      required: false

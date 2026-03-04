@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Bio Publication Consent Form
+    pages:
+    - id: 1
+      name: athlete_id_header
+      label: -- Athlete Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_full_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_affiliation
+      label: Team or Club Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bio_details_header
+      label: -- Biography Details --
+      hint: This information will be used for promotional materials
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: personal_intro
+      label: Personal Introduction
+      hint: A brief overview of your background and journey
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: career_highlights
+      label: Athletic Career Highlights
+      hint: List your most significant achievements and milestones
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: academic_achievements
+      label: Academic Achievements
+      hint: Awards, GPA, or notable school involvements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hobbies_interests
+      label: Hobbies and Interests
+      hint: What do you enjoy doing outside of your sport?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role_models
+      label: Role Models and Inspiration
+      hint: Who inspires you and why?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: publication_consent_header
+      label: -- Consent for Publication --
+      hint: Please indicate where you allow your bio to be published
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: website_consent
+      label: I consent to publication on the official organization website
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 12
+      name: print_consent
+      label: I consent to publication in print media - programs, brochures
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 13
+      name: social_media_consent
+      label: I consent to publication on social media channels
+      hint: Instagram, Facebook, Twitter, etc.
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: media_partner_consent
+      label: I consent to sharing my bio with approved media partners
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: withdrawal_acknowledgement
+      label: I acknowledge my right to withdraw this consent at any time
+      hint: Contact the administration office to request removal
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 16
+      name: athlete_signature_name
+      label: Electronic Signature of Athlete
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: guardian_signature_name
+      label: Electronic Signature of Parent or Guardian
+      hint: Required for athletes under 18 years of age
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

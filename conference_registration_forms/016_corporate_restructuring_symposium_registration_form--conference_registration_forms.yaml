@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Restructuring Symposium Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''CEO''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Employee''}'
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_sector
+      label: Business Sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: company_revenue
+      label: Company Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Technology''}'
+      - '{''id'': 2, ''label'': ''Finance''}'
+      - '{''id'': 3, ''label'': ''Retail''}'
+      required: true
+    - id: 16
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Public''}'
+      - '{''id'': 2, ''label'': ''Private''}'
+      - '{''id'': 3, ''label'': ''Non-Profit''}'
+      required: true
+    - id: 17
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: registration_fee
+      label: Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith''}'
+      required: true
+    - id: 25
+      name: terms_accepted
+      label: Terms Accepted
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accept''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: true

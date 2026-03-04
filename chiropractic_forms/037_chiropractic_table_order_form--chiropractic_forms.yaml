@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Table Order Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business or Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_type
+      label: Type of Business
+      hint: null
+      type: select_one
+      options:
+      - Chiropractic Office
+      - Medical Clinic
+      - Physical Therapy
+      - Massage Therapy
+      - Wellness Center
+      - Other
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_address
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: table_selection
+      label: -- Table Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: table_type
+      label: Chiropractic Table Type
+      hint: null
+      type: select_one
+      options:
+      - Stationary Table
+      - Power Assisted Table
+      - Flexion-Distraction Table
+      - Drop Table
+      - Portable Table
+      - Custom Configuration
+      required: true
+    - id: 14
+      name: table_features
+      label: Additional Features or Attachments
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Head Section
+      - Leg Section
+      - Arm Rests
+      - Lumbar Support
+      - Heat Function
+      - Massage Function
+      - Remote Control
+      required: false
+    - id: 15
+      name: surface_type
+      label: Surface Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Padding
+      - Memory Foam
+      - Vinyl Cover
+      - Leather Cover
+      - Other
+      required: true
+    - id: 16
+      name: color_selection
+      label: Color Selection
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Cream
+      - Gray
+      - Blue
+      - Other
+      required: true
+    - id: 17
+      name: quantity
+      label: Quantity of Tables
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: specifications
+      label: -- Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: table_width
+      label: Table Width (inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: table_length
+      label: Table Length (inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: weight_capacity
+      label: Weight Capacity (lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: delivery_timeline
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Financing
+      - Purchase Order
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

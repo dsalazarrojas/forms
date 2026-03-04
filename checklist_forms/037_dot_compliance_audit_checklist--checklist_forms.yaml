@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: dot_compliance_audit_checklist
+    pages:
+    - id: 1
+      name: vehicle_checklist
+      label: Vehicle Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accident_history
+      label: Accident History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vehicle_maintenance
+      label: Vehicle Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: driver_training
+      label: Driver Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vehicle_inspection_cert
+      label: Vehicle Inspection Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: accident_reporting
+      label: Accident Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

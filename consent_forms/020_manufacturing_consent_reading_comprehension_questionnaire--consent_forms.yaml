@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Consent Reading Comprehension Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consent_statement
+      label: Consent Statement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: class_concepts
+      label: Class Concepts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reading_group
+      label: Reading Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reading_group_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: class_concepts_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_session_details
+      label: Training Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: class_concepts_details
+      label: Class Concepts Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reading_group_details
+      label: Reading Group Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: class_concepts_comments
+      label: Class Concepts Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reading_group_comments
+      label: Reading Group Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_session_comments
+      label: Training Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reading_group_other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: class_concepts_other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false

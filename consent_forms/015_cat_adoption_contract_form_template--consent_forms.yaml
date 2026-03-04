@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cat Adoption Contract Form Template
+    pages:
+    - id: 1
+      name: contract_intro
+      label: -- Adoption Contract Agreement --
+      hint: Please complete this legal agreement to finalize the adoption
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: adopter_full_name
+      label: Adopter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cat_id_name
+      label: Cat Name and ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: adoption_fee
+      label: Final Adoption Fee Paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: veterinary_care_ack
+      label: I agree to provide annual veterinary check-ups and vaccinations
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 7
+      name: return_policy_ack
+      label: I agree to return the cat to the shelter if I can no longer care for
+        it
+      hint: The cat must never be abandoned or given to another party without consent
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 8
+      name: indoor_only_agreement
+      label: I agree to keep this cat as an indoor-only pet
+      hint: Unless specified otherwise for a working cat
+      type: select_one
+      options:
+      - I Agree
+      - Agreed - Enclosed outdoor access only
+      required: true
+    - id: 9
+      name: declaw_prohibition
+      label: I agree that I will NOT declaw this cat
+      hint: Declawing is a major surgery and prohibited by this contract
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 10
+      name: home_inspection_consent
+      label: I consent to a follow-up home visit or phone call
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 11
+      name: liability_waiver
+      label: I release the shelter from all liability after adoption
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 12
+      name: signatures_header
+      label: -- Final Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_adopter
+      label: Adopter Electronic Signature
+      hint: Type full legal name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_representative
+      label: Shelter Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signing_date
+      label: Date signed
+      hint: null
+      type: date
+      options: []
+      required: true
