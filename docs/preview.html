@@ -428,6 +428,12 @@
 
             <h2 class="text-xl font-semibold text-slate-900 dark:text-slate-100 mb-2">FAQ</h2>
             <div id="seo-faq" class="space-y-4 text-sm sm:text-base text-slate-600 dark:text-slate-400"></div>
+
+            <h2 class="text-xl font-semibold text-slate-900 dark:text-slate-100 mt-8 mb-2">Related forms in this category</h2>
+            <p class="text-sm sm:text-base text-slate-600 dark:text-slate-400 mb-3">
+              Explore similar templates to speed up implementation across related workflows.
+            </p>
+            <div id="seo-related" class="grid grid-cols-1 sm:grid-cols-2 gap-2"></div>
           </article>
         </div>
       </div>
@@ -868,6 +874,45 @@
     }
   }
 
+  async function updateRelatedForms(categorySlug, currentPath) {
+    const container = document.getElementById('seo-related');
+    if (!container) return;
+
+    container.innerHTML = '<p class="text-xs text-slate-400 dark:text-slate-500">Loading related forms...</p>';
+
+    try {
+      const res = await fetch('forms-index.json');
+      if (!res.ok) throw new Error(`index HTTP ${res.status}`);
+      const index = await res.json();
+      const forms = Array.isArray(index.forms) ? index.forms : [];
+
+      const related = forms
+        .filter(f => f && f.category === categorySlug && f.filePath && f.filePath !== currentPath)
+        .slice(0, 8);
+
+      if (related.length === 0) {
+        container.innerHTML = '<p class="text-xs text-slate-400 dark:text-slate-500">No related forms found yet in this category.</p>';
+        return;
+      }
+
+      container.innerHTML = related.map(f => {
+        const safeTitle = escapeHtml(String(f.title || f.id || 'Untitled Form'));
+        const safePath = encodeURIComponent(String(f.filePath));
+        const qCount = Number.isFinite(f.questionCount) ? f.questionCount : null;
+        const meta = qCount !== null ? `${qCount} questions` : 'Template';
+        return `
+          <a href="preview.html?form=${safePath}"
+             class="block rounded-lg border border-slate-200 dark:border-slate-700 px-3 py-2 hover:border-primary dark:hover:border-primary hover:bg-primary/5 transition-colors">
+            <div class="text-sm font-medium text-slate-900 dark:text-slate-100 leading-snug">${safeTitle}</div>
+            <div class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">${meta}</div>
+          </a>
+        `;
+      }).join('');
+    } catch (err) {
+      container.innerHTML = '<p class="text-xs text-slate-400 dark:text-slate-500">Related forms unavailable right now.</p>';
+    }
+  }
+
   function updateStats(form, pages) {
     const qCount = pages.length;
     const mins = Math.max(1, Math.ceil(qCount * 0.5));
@@ -1000,6 +1045,7 @@
 
       // ── Article-style content block for search/discovery ───────────────────────
       updateSeoContent(title, categoryRaw, pages, language, formPath);
+      await updateRelatedForms(categoryRaw, formPath);
 
     } catch (error) {
       console.error('Error loading form:', error);
